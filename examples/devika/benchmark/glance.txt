@@ -1,0 +1,147 @@
+1Chart at a glance
+
+Devika was born with Simha (Leo) lagna rising at 18°51' — the lagna is the zodiac sign on the eastern horizon at birth, and in Parashari astrology it is the single most important reference point, defining the body, temperament and the whole house structure. The lagna falls in the nakshatra (lunar mansion) Purva Phalguni, 2nd pada. The Moon was in Vrischika (Scorpio) in the nakshatra Jyeshtha, 1st pada, on a bright waxing eleventh lunar day (Shukla Ekadashi), on a Saturday morning a little over three hours after sunrise in Kolkata.
+
+The chart has a striking shape. Four of the nine grahas — the Sun (lagna lord), Mars (the chart's yogakaraka), Mercury and Ketu — plus the sub-planet Gulika are gathered in one sign, Cancer, which is the 12th house: the house of expenditure, retreat, foreign lands, sleep and liberation. Opposite this crowded private wing stands a strong public face: the 10th house of career holds Venus in its own sign Taurus (forming Malavya yoga, one of the five "great person" combinations) together with Saturn. Between them, the Moon sits debilitated in the 4th house of home and heart, while Jupiter, the great benefic, occupies its own moolatrikona sign in the 5th house of intelligence, children and merit, and looks back at the lagna. It is the chart of someone with a capable, respected outer life and a deep, private, inward inner life, whose two weakest planets (the Moon and Mars) are bound to each other by an exchange of signs and largely repair each other.
+
+Rashi chart (D1), house by house (whole-sign houses; 1st house = Leo).
+
+1 Leo: empty; aspected by Jupiter. 2 Virgo: empty. 3 Libra: empty. 4 Scorpio: Moon. 5 Sagittarius: Jupiter (R). 6 Capricorn: Rahu. 7 Aquarius: empty. 8 Pisces: empty. 9 Aries: empty. 10 Taurus: Venus, Saturn. 11 Gemini: empty. 12 Cancer: Sun, Mars, Mercury, Ketu, Gulika.
+
+Navamsa chart (D9), Virgo rising. Mars is exalted here; Venus and Mercury are both debilitated, but each sits in the other's sign of exaltation and in a kendra (angle) from the other, a classic cancelling pattern.
+
+Table 1. Planetary positions in the birth chart (D1)
+
+ | | Planet | Sign | Degree | Nakshatra (pada) | Nak. lord | House | Dignity | Notes
+
+ | Lagna | Leo | 18°51'51" | Purva Phalguni (2) | Venus | 1 | — | D9 Virgo
+
+ | Sun | Cancer | 5°55'01" | Pushya (1) | Saturn | 12 | Friend's sign | Lagna lord; Ketu 3°31' away; own sign (Leo) in D9
+
+ | Moon | Scorpio | 17°33'03" | Jyeshtha (1) | Mercury | 4 | Debilitated | Bright: about 132° ahead of the Sun; in sign exchange with Mars
+
+ | Mars | Cancer | 21°21'48" | Ashlesha (2) | Mercury | 12 | Debilitated | Combust (15°27' from Sun); exalted in D9 (Capricorn); yogakaraka
+
+ | Mercury | Cancer | 28°32'46" | Ashlesha (4) | Mercury | 12 | Enemy's sign | Not combust (22°38' from Sun); gandanta zone; debilitated in D9
+
+ | Jupiter | Sagittarius | 6°45'51" | Mula (3) | Ketu | 5 | Moolatrikona | Retrograde, almost stationary
+
+ | Venus | Taurus | 27°39'02" | Mrigashira (2) | Mars | 10 | Own sign | Malavya yoga; debilitated in D9 (Virgo, D9 lagna)
+
+ | Saturn | Taurus | 22°48'27" | Rohini (4) | Moon | 10 | Friend's sign | With Venus 4°51' away
+
+ | Rahu | Capricorn | 2°23'59" | Uttara Ashadha (2) | Sun | 6 | — | Mean node; vargottama (Capricorn in D9)
+
+ | Ketu | Cancer | 2°23'59" | Punarvasu (4) | Jupiter | 12 | — | Vargottama (Cancer in D9)
+
+ | Gulika | Cancer | 16°39'29" | Pushya (4) | Saturn | 12 | — | Sensitive point, not a planet
+
+Node dignity: the computation uses the Taurus/Scorpio exaltation scheme for the nodes; neither node falls in those signs here, so the question does not arise in this chart.
+
+Table 2. The twelve houses
+
+ | | House | Sign | Lord | Lord placed in | Occupants | Aspected by
+
+ | 1 Self, body | Leo | Sun | 12th, Cancer, friend | — | Jupiter
+
+ | 2 Wealth, speech, family | Virgo | Mercury | 12th, Cancer, enemy | — | Rahu
+
+ | 3 Courage, siblings, skills | Libra | Venus | 10th, Taurus, own | — | Mars
+
+ | 4 Home, mother, peace | Scorpio | Mars | 12th, Cancer, debilitated | Moon | Venus, Saturn, Ketu
+
+ | 5 Intellect, children, merit | Sagittarius | Jupiter | 5th (own, moolatrikona) | Jupiter | —
+
+ | 6 Work, health, rivals | Capricorn | Saturn | 10th, Taurus, friend | Rahu | Sun, Mars, Mercury, Ketu
+
+ | 7 Partner, public | Aquarius | Saturn | 10th, Taurus, friend | — | Mars, Saturn
+
+ | 8 Depth, research, the hidden | Pisces | Jupiter | 5th, Sagittarius, moolatrikona | — | Ketu
+
+ | 9 Fortune, father, dharma | Aries | Mars | 12th, Cancer, debilitated | — | Jupiter
+
+ | 10 Career, status | Taurus | Venus | 10th (own) | Venus, Saturn | Moon, Rahu
+
+ | 11 Gains, friends, elder siblings | Gemini | Mercury | 12th, Cancer, enemy | — | Jupiter
+
+ | 12 Expense, foreign, liberation | Cancer | Moon | 4th, Scorpio, debilitated | Sun, Mars, Mercury, Ketu, Gulika | Saturn, Rahu
+
+Table 3. Navamsa (D9) positions, Virgo lagna
+
+ | Planet | D9 sign | D9 house | Dignity in D9 | Comment
+
+ | Sun | Leo | 12 | Own sign | The lagna lord is dignified inwardly; private, inner authority
+
+ | Moon | Sagittarius | 4 | Neutral | Out of its D1 debility; faith and philosophy steady the mind over time
+
+ | Mars | Capricorn | 5 | Exalted | The D1 debility is substantially repaired; the yogakaraka grows with maturity
+
+ | Mercury | Pisces | 7 | Debilitated | Cancelled: its dispositor Jupiter is in a D9 kendra and Venus (exalted in Pisces) is in the D9 lagna
+
+ | Jupiter | Gemini | 10 | Enemy | In a D9 angle; dharma expressed through work and teaching
+
+ | Venus | Virgo | 1 | Debilitated | Cancelled: Mercury (dispositor) in a D9 kendra, Jupiter (lord of its exaltation sign) in the D9 10th
+
+ | Saturn | Cancer | 11 | Enemy | Gains and networks through duty
+
+ | Rahu | Capricorn | 5 | — | Vargottama
+
+ | Ketu | Cancer | 11 | — | Vargottama
+
+Birth details for reference: Shukla Ekadashi tithi, Brahma nitya yoga, Vishti karana, Saturday (Shani vara). Avakhada: Moon sign Vrischika, nakshatra Jyeshtha pada 1, Gana Rakshasa, Yoni Deer, Nadi Adi, Varna Brahmin, Vashya Keeta.
+
+The six themes that define this chart
+
+A dignified self that works from behind the scenes. The lagna is Leo, the Sun's own sign, and is aspected by a strong Jupiter: the person is warm, principled and naturally given authority. But the lagna lord Sun sits in the 12th house, with Mars, Mercury and Ketu. The self is expressed less through the spotlight than through service, institutions, retreat, distant places and inner life. In the navamsa the Sun is in its own sign, so the inner sense of self is sound even when the outer display is modest.
+
+A strong career pillar: Malavya yoga in the 10th. Venus, lord of the 10th, sits in its own sign in the 10th house, forming both Malavya (Venus in its own sign in a kendra) and, in its popular form, Amala yoga (a benefic in the 10th). Venus is also the Amatyakaraka, the Jaimini significator of career and counsel. Saturn beside it gives seriousness, endurance and responsibility. This is the most visibly fortunate area of the chart.
+
+Two wounded planets that heal each other. The Moon (mind, mother, home) is debilitated in Scorpio, and Mars (yogakaraka, ruler of the 4th and 9th) is debilitated in Cancer. Each sits in the other's sign, a parivartana (exchange). Both also meet standard conditions of neecha bhanga (cancellation of debility), and Mars is exalted in the navamsa. The pattern is "difficult start, strong recovery": emotional and domestic matters that feel turbulent early and become a source of depth later.
+
+The loaded 12th house. Lagna lord, yogakaraka, the 2nd/11th lord Mercury (also the Atmakaraka, the "soul" planet by Jaimini's degree method) and Ketu all occupy Cancer, a sign that traditional writers count among the moksha (liberation) signs. Expenditure, foreign or distant connections, hospitals, ashrams, research and spiritual life run like a thread through the whole life.
+
+Jupiter in its own sign in the 5th. Jupiter as 5th lord in the 5th, in moolatrikona, aspecting the lagna, the 9th and the 11th, is the chart's guardian: intelligence, good counsel, ethics, devotion, and a protective influence on self, fortune and gains.
+
+A Moon chapter, then the yogakaraka's chapter. From June 2021 to June 2031 the chart runs the 10-year Moon mahadasha (major period); the current sub-period, Saturn's, runs to April 2027. In June 2031 the 7-year Mars mahadasha begins: the period of the yogakaraka, the planet that rules both an angle (4th) and a trine (9th) for Leo rising.
+
+Table 4. Functional roles of the planets for Leo lagna
+
+ | Planet | Houses ruled | Functional role (consensus view) | In this chart
+
+ | Mars | 4, 9 | Yogakaraka, the best functional benefic | Debilitated and combust in 12th, but cancelled, exchanged and exalted in D9
+
+ | Sun | 1 | Lagna lord; benefic | In 12th, friend's sign; own sign in D9
+
+ | Jupiter | 5, 8 | Benefic on balance (5th lordship outweighs the 8th) | Own moolatrikona in 5th: strong
+
+ | Moon | 12 | Neutral (12th lordship) | Debilitated in 4th; cancelled
+
+ | Venus | 3, 10 | Mixed; good when strong | Own sign in 10th: strong
+
+ | Mercury | 2, 11 | Functional malefic; maraka (2nd lord) | In 12th, enemy's sign
+
+ | Saturn | 6, 7 | Functional malefic; maraka (7th lord) | In 10th with Venus
+
+Mars as the yogakaraka (raja yoga karaka) for Leo is stated in every source consulted, including onlinejyotish's Simha lagna article and its lagna-wise Mars lesson; the Jataka Chandrika commentary also singles out Cancer and Leo as the ascendants for which Mars is a true benefic. Sources differ on Venus and Jupiter: onlinejyotish counts Venus as unfavourable for Leo (it rules the 3rd), while other writers hold that a strong Venus delivers well as 10th lord; Jupiter is generally treated as favourable because its moolatrikona sign falls in the 5th. Mercury and Saturn are the marakas (planets of the 2nd and 7th houses) for Leo; this report does not use them for any longevity judgement.
+
+How much does the birth time matter?
+
+The lagna at 18°51' Leo is well inside the sign, so the D1 houses are secure even if the recorded time is off by an hour. The divisional charts are more sensitive. Leo takes a little over two hours to rise at Kolkata's latitude, so the ascendant moves roughly one degree every four and a half minutes.
+
+D9 (navamsa): lagna Virgo holds if the true time lies within roughly 10 minutes earlier to 5 minutes later. Reasonably safe.
+
+D10 (career): the lagna is only 51 arc-minutes past a D10 boundary at 18°. A birth time about four minutes earlier would move the D10 lagna from Aquarius to Capricorn. The D10 is therefore read lightly and treated as provisional.
+
+D7 (children) and D12 (parents): each holds within about five to seven minutes either way. Usable, with some caution.
+
+Dashas: depend on the Moon, which moves about half a degree an hour; a few minutes' error shifts dasha dates by only days or weeks.
+
+A few terms used throughout
+
+Kendra: angular houses 1, 4, 7, 10 (pillars of the chart). Trikona: trines 1, 5, 9 (fortune and merit). Dusthana: 6, 8, 12 (difficulty, but also service, research and release). Upachaya: 3, 6, 10, 11 (houses that improve with time and effort). Exalted / debilitated: the sign where a planet is strongest / weakest. Neecha bhanga: cancellation of a debility. Parivartana: two planets each occupying the other's sign. Vargottama: a planet in the same sign in D1 and D9, which steadies it. Dasha: a planetary period in the Vimshottari timing system; mahadasha is the major period, antardasha the sub-period. Dispositor: the lord of the sign a planet occupies, which "hosts" and conditions it.
+
+The dispositor chain: who is really in charge?
+
+Following each planet to the lord of its sign reveals three centres of command. First, a closed loop between the Moon and Mars: the Moon sits in Mars's sign and Mars in the Moon's. The Sun, Mercury and Ketu, all in Cancer, drain into this loop. Second, Venus stands in its own sign and hosts Saturn; Rahu, in Saturn's sign, also ends with Venus. Third, Jupiter stands alone in its own sign and answers to no one.
+
+This tells us three things. The self (Sun) and the mind (Moon) are governed by the Moon–Mars exchange between the 4th and 12th houses: home, mother, emotional security, retreat and spiritual life are the hidden engine of the personality. The public life is governed by a self-contained Venus in the 10th, which explains why the career can run steadily even when private life is in flux. And Jupiter, independent and strong in the 5th, is the chart's source of judgement and grace; whenever its periods or transits are active, the chart has a wise and stable support to lean on.

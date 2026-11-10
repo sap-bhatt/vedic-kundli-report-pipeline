@@ -1,0 +1,998 @@
+[
+  {
+    "id": "lord_in_house/2/1",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 1
+    },
+    "summary": "Wealth, speech and family values are tied to the self: the person earns and has children and resources, but can be blunt or abrasive within the family and busy with others' affairs.",
+    "themes": [
+      "self-earned wealth",
+      "speech",
+      "family friction",
+      "independence"
+    ],
+    "common_outcomes": [
+      "personal identity built around earning and resources",
+      "forceful or outspoken speech",
+      "some friction or distance with family members",
+      "involvement in others' work or affairs"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: lustful and harsh temperament",
+      "Santhanam rendering: works for others (service) rather than for self"
+    ],
+    "by_area": {
+      "personality": "Strong-willed and sometimes harsh (BPHS 24.13); passionate, short on polite manners and time-serving (Raman HTJH I); tight-fisted with money (Rath 5.3.1); thrifty yet ready to help others (Charak).",
+      "career": "Earns by own effort, intelligence and learning (Raman; Rath 5.3.1); the Santhanam rendering of BPHS adds working for others.",
+      "finance": "Wealth indicated by every source (BPHS 24.13; Raman; Charak; Rath). Inherited wealth if the 9th lord or the Sun joins the combination (Raman). With the 11th lord also in the lagna, a strong dhana yoga (Bhavartha Ratnakara II st. 8).",
+      "health": "",
+      "relationships": "",
+      "family": "Has children but can be at odds with family (BPHS 24.13; Raman: 'hates his own family'; Charak: 'a thorn in the flesh of his own family'); Rath 5.3.2 explains this as the 4th from the 2nd lord (here the 4th house of family happiness) turning hostile.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "own sign: Capricorn lagna, where Saturn owns both 1st and 2nd (strong for wealth and self)",
+      "benefic aspects on the lagna or connection with the 11th lord (BPHS 13.4)",
+      "2nd lord a natural benefic softens speech",
+      "2nd and 11th lords both in the lagna: powerful dhana yoga (Bhavartha Ratnakara II st. 8)",
+      "9th lord or the Sun connected: inherited wealth (Raman HTJH I)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Virgo lagna, Venus in Virgo",
+      "2nd lord with malefics and malefics in the 2nd: harsh or untruthful speech (BPHS 13.13)"
+    ],
+    "lagna_or_context_notes": "For Leo lagna Mercury owns both the 2nd and 11th, so Mercury in the lagna meets Bhavartha Ratnakara's '2nd and 11th lords in the lagna' dhana yoga (II st. 8; Raman's chart 17 is this case). For Aries and Libra lagna the 2nd lord also owns the 7th; for Virgo lagna Venus (2nd and 9th lord) is debilitated here. Laghu Parashari sloka 8: the 2nd lord gives results by its associations and the house it occupies rather than by its ownership.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.13 (enjoylearningsanskrit.com)",
+        "view": "Has sons and wealth, but a thorn in the family; lustful, harsh, busy with others' affairs.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-13"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.13 (Santhanam-based text, archive.org)",
+        "view": "Sons and wealth, but inimical to family, lustful, harsh, does others' work.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 13.1, 13.4 (Dhana Bhava)",
+        "view": "2nd lord in a kendra or kona supports wealth; link with the 11th lord in kendra/kona makes one wealthy.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-13"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Wealthy but hates own family, lacks polite manners, passionate, subservient, time-serving. Earns by own effort, intelligence and learning, or inherits if the 9th lord or the Sun is involved.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Wealthy, thrifty, cruel, many comforts, sons; ever ready to help others but a thorn in the flesh of own family.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 5.3 'Placement of Lord of Second House' (p. 48)",
+        "view": "Tight-fisted and wealthy; money by own effort and intelligence; passionate and subservient. The 4th from the 2nd lord is weakened, so the 4th house (family) becomes hostile.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Dhana yogas st. 8 with chart 17",
+        "view": "Dhana yoga when both the 2nd and 11th lords are in the lagna; Raman's example is a single planet owning both, placed in the lagna.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS renderings differ on 'meddles in others' affairs' vs 'works for others'. Raman, Charak and Rath all confirm the family friction, and Raman and Rath stress self-earned wealth.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as self-made resources and strong speech; suggest tact in family dealings. Avoid labelling the person lustful or harsh."
+  },
+  {
+    "id": "lord_in_house/2/2",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 2
+    },
+    "summary": "The 2nd lord in its own house strengthens wealth, family and speech: the person is wealthy and self-respecting, though BPHS adds traditional cautions about marriage and children.",
+    "themes": [
+      "accumulated wealth",
+      "family",
+      "speech",
+      "pride"
+    ],
+    "common_outcomes": [
+      "stable accumulation of wealth",
+      "strong family ties and traditions",
+      "confident, authoritative speech",
+      "pride or a sense of self-worth"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: two or more marriages, or no children"
+    ],
+    "by_area": {
+      "personality": "Self-respecting and proud (BPHS 24.14; Raman; Charak, who adds 'inclined to oppose others').",
+      "career": "If exalted or otherwise fortified, the 2nd lord acts almost as a yogakaraka and gives a considerable fortune through business or work suited to the 2nd lord and house (Raman HTJH I).",
+      "finance": "Wealth strongly supported (BPHS 13.3; Charak: wealthy, earns well; Rath: rich). Malefic aspects bring losses, and an afflicted lord can show as poor food or family illness (Raman). With evil planets in or aspecting the 2nd, poverty (Raman, 'Other Important Combinations').",
+      "health": "",
+      "relationships": "BPHS 24.14, Raman ('twice or thrice depending on the 7th house'), Charak and Rath all carry a line about more than one marriage; Raman also links affliction to a lack of cordiality with the partner. Traditional only; check the 7th and 5th houses.",
+      "family": "Family resources strong; traditional caution about children (BPHS 24.14; Raman: may be childless; Charak: son-less; Rath 5.3.2: the 5th, being 4th from the 2nd lord, is damaged).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "always own sign here; Leo lagna Mercury is also exalted (Virgo)",
+      "conjunction with Mars or Jupiter in the 2nd (BPHS 13.3)",
+      "own/exalted sign: benefactor and renowned (BPHS 13.10)",
+      "good D9 or vaisheshikamsha dignity: prosperity without effort (BPHS 13.11)",
+      "lords of the 1st, 2nd and 11th each in own house: dhana yoga (Bhavartha Ratnakara II st. 7)",
+      "2nd lord in the 2nd and 5th lord in the 5th: rajayoga (Bhavartha Ratnakara IX, Raman's notes and chart 42)",
+      "2nd lord in a nakshatra other than the 3rd, 5th or 7th from the birth star, joined or aspected by benefics (Raman HTJH I)"
+    ],
+    "weakeners_or_cancellations": [
+      "combustion or malefic conjunction",
+      "malefic occupants of the 2nd spoil speech (BPHS 13.13)",
+      "evil planets in or aspecting the 2nd with its lord: poverty (Raman HTJH I)"
+    ],
+    "lagna_or_context_notes": "For Capricorn lagna Saturn here also owns the 1st; for Taurus and Scorpio lagna the 2nd lord also owns the 5th, which with the 5th lord's own placement is the rajayoga of Bhavartha Ratnakara IX (chart 42); for Aries and Libra lagna it also owns the 7th.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.14 (enjoylearningsanskrit.com)",
+        "view": "Wealthy and proud; two or more wives, or childless.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-14"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.14 (Santhanam-based text, archive.org)",
+        "view": "Wealthy but proud; two or more wives; no children.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 13.3, 13.10-11",
+        "view": "2nd lord in the 2nd, own or exalted sign, or with good vargas gives wealth and renown.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-13"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Proud; may marry twice or thrice depending on the 7th; may be childless. Fortified (exalted, or in 1/4/5/7/9/10): near-yogakaraka, fortune through business. Afflicted: losses, poor food, family illness, poor relations with partner.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Wealthy, earns well, enjoys comforts, proud, two or three wives, son-less, inclined to oppose others.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 5.3 'Placement of Lord of Second House' (p. 48)",
+        "view": "The 2nd lord in the 2nd makes the native rich and increases the possibility of a second marriage; it tends to damage offspring (the 5th is 4th from it).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Dhana yogas st. 7; ch. IX notes with chart 42 (p. 78; the stanza page itself is missing from the scan read)",
+        "view": "Lords of the 11th, 1st and 2nd in their own houses give dhana yoga; Raman's note to ch. IX shows the 2nd lord in the 2nd with the 5th lord in the 5th giving rajayoga.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS ch. 13 is wholly positive about wealth; ch. 24, Raman, Charak and Rath add the marriage and children lines. The ELS rendering frames childlessness as an alternative ('or'), the Santhanam text, Raman and Charak as an additional effect. Raman notes that afflictions reverse the wealth result.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with wealth and family strength. Never predict childlessness or multiple marriages."
+  },
+  {
+    "id": "lord_in_house/2/3",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 3
+    },
+    "summary": "Wealth flows through effort, courage, communication and siblings: brave, intelligent and virtuous, but texts warn of strong desires and tightness with money; the influence on the lord decides which side dominates.",
+    "themes": [
+      "effort",
+      "communication",
+      "siblings",
+      "courage",
+      "desire"
+    ],
+    "common_outcomes": [
+      "brave and intelligent, with strong appetites",
+      "tight with money, especially later in life (BPHS, Raman)",
+      "siblings involved in gains or in friction (Raman, Charak)",
+      "success over rivals (Rath 5.3.2)"
+    ],
+    "rare_outcomes": [
+      "BPHS: lustful and greedy or miserly",
+      "BPHS: with malefic influence, scornful of the gods (heterodox)",
+      "Raman: propitiation of minor spirits (kshudra devatas) when fortified",
+      "Charak: a natural-benefic 2nd lord here opposes the ruler; Mars as 2nd lord here, a thief (traditional)"
+    ],
+    "by_area": {
+      "personality": "Brave and clever with strong appetites (BPHS 24.15; Charak: virtuous, wise, valorous, greedy, sensuous); Raman adds a taste for luxuries and miserliness later in life.",
+      "career": "If fortified, benefits from learning fine arts such as music and dancing (Raman HTJH I).",
+      "finance": "Greedy or miserly (BPHS renderings; Raman: a miser later in life). If the 3rd lord also joins, generous; with Saturn added to the 2nd and 3rd lords, a miser (Bhavartha Ratnakara III st. 8-9).",
+      "health": "",
+      "relationships": "",
+      "family": "If fortified, benefits through sisters (Raman); a natural-malefic 2nd lord brings differences with siblings (Charak).",
+      "spirituality": "Benefic influence supports good conduct; malefic influence inclines toward irreverence (BPHS 24.15; Raman: atheistic tendencies; Charak: speaks ill of the gods with malefics)."
+    },
+    "strengtheners": [
+      "own sign: Sagittarius lagna, Saturn in Aquarius",
+      "benefic conjunction or aspect (BPHS 24.15)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Scorpio lagna, Jupiter in Capricorn",
+      "malefic association (BPHS 24.15)"
+    ],
+    "lagna_or_context_notes": "For Sagittarius lagna Saturn owns both the 2nd and 3rd and sits in own sign. Bhavartha Ratnakara III st. 9 links Saturn with the 2nd and 3rd lords to miserliness; it does not say whether this applies when Saturn is itself both lords.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.15 (enjoylearningsanskrit.com)",
+        "view": "Brave, intelligent, virtuous, lustful and greedy; benefic influence improves, malefic makes one scorn the gods.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-15"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.15 (Santhanam-based text, archive.org)",
+        "view": "Valorous, wise, virtuous, lustful, miserly; heterodox if malefic-linked.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Brave, intelligent, good-natured but depraved character; atheistic tendencies, addicted to luxuries, later a miser. Fortified: benefits through sisters, learns fine arts (music, dancing), propitiates minor spirits.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Virtuous, wise, valorous, greedy, sensuous. Malefic 2nd lord: differences with siblings; benefic 2nd lord: opposed to the ruler; Mars as 2nd lord: a thief; with malefics: speaks ill of the gods.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 5.3 'Placement of Lord of Second House' (p. 48)",
+        "view": "In the 3rd house the 2nd lord destroys enemies (the 6th, being 4th from it, is weakened).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. III Brothers st. 8-9",
+        "view": "Generous instincts if the 3rd lord is combined with the 2nd lord; a miser if Saturn joins the 2nd and 3rd lords.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "Translations differ between 'greedy' and 'miserly'; Raman includes both (luxuries, later a miser). Rath's view (destroys enemies) is more positive than BPHS, Raman and Charak.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of earning through effort and communication; mention strong desires only as something to balance. Do not call the person irreligious."
+  },
+  {
+    "id": "lord_in_house/2/4",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 4
+    },
+    "summary": "Wealth joins home, property and comforts: a broadly prosperous placement; exaltation plus Jupiter's company is said to give near-royal status.",
+    "themes": [
+      "property",
+      "comforts",
+      "mother",
+      "prosperity"
+    ],
+    "common_outcomes": [
+      "gains of all kinds, often through land, home or vehicles",
+      "comfortable domestic life",
+      "family wealth connected with the mother"
+    ],
+    "rare_outcomes": [
+      "BPHS: if exalted and with Jupiter, king-like status"
+    ],
+    "by_area": {
+      "personality": "Truthful (Charak); spends on own comfort yet frugal with money (Raman HTJH I).",
+      "career": "If fortified: earnings as a vehicle dealer or agent, agriculturist, landlord or commission agent (Raman HTJH I).",
+      "finance": "Prosperous in every way (BPHS 24.16); kendra placement supports wealth (BPHS 13.1); king-like if exalted with Jupiter (BPHS 24.16; Charak adds Venus).",
+      "health": "",
+      "relationships": "",
+      "family": "Benefits from maternal relations, with losses through them if the 4th lord is afflicted (Raman); benefits from father (Charak).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "exaltation: Libra lagna, Mars in Capricorn",
+      "conjunction with Jupiter while exalted (BPHS 24.16)",
+      "connection with the 11th lord (BPHS 13.4)",
+      "2nd lord with Jupiter in a kendra or trikona: learned and publicly honoured (Bhavartha Ratnakara II, Education st. 8)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Cancer lagna (Sun in Libra) and Capricorn lagna (Saturn in Aries)",
+      "malefic affliction to the 4th or Moon"
+    ],
+    "lagna_or_context_notes": "For Libra lagna, Mars (2nd and 7th lord) is exalted in the 4th; BPHS's 'exalted with Jupiter' condition is most directly met here when Jupiter joins.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.16 (enjoylearningsanskrit.com)",
+        "view": "Prosperous in every way; exalted and with Jupiter, equal to a king.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-16"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.16 (Santhanam-based text, archive.org)",
+        "view": "Gains wealth in many forms; king-like if exalted and with Jupiter.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 13.1, 13.5",
+        "view": "2nd lord in a kendra, especially with Jupiter/Venus influence, brings wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-13"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Results of the 3rd plus spends for own happiness, very frugal. Fortified: earns as vehicle dealer/agent, agriculturist, landlord or commission agent; benefits from maternal relations (losses if the 4th lord is afflicted).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Wealthy, truthful, long-lived, benefits from father; if exalted or with Jupiter or Venus, equal to a king.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Education st. 8",
+        "view": "If the 2nd lord and Jupiter are placed in a kendra or trikona, the native is learned in different branches of knowledge and publicly honoured.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "Raman's fortified results (vehicles, land, agriculture) and Charak's 'benefits from father' extend BPHS without conflicting with it.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as comfort and property-linked prosperity; avoid promising royal status."
+  },
+  {
+    "id": "lord_in_house/2/5",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 5
+    },
+    "summary": "Wealth links to intelligence, children and past merit: the person is wealthy, and children too are capable of earning.",
+    "themes": [
+      "intelligence",
+      "children",
+      "speculation",
+      "merit"
+    ],
+    "common_outcomes": [
+      "wealth, sometimes sudden or speculative when the lord is fortified (Raman)",
+      "children who are financially capable",
+      "family values passed to children"
+    ],
+    "rare_outcomes": [
+      "Raman: hating family and not spending even on children (traditional, unfortified case)"
+    ],
+    "by_area": {
+      "personality": "Efficient (Charak); Raman gives a less flattering unfortified picture: sensual, careless of manners, reluctant to spend even on children.",
+      "career": "",
+      "finance": "Wealthy (BPHS 24.17; Charak). If fortified, sudden gains through lotteries, prize contests or the favour of rulers (Raman HTJH I). Exchange of the 2nd and 5th lords gives much wealth (Bhavartha Ratnakara II st. 1).",
+      "health": "",
+      "relationships": "",
+      "family": "Children able to earn (BPHS 24.17; Charak: several sons).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "own sign and exaltation: Taurus lagna (Mercury in Virgo, own and exalted, also 5th lord)",
+      "own sign: Scorpio lagna (Jupiter in Pisces, also 5th lord)",
+      "Jupiter influence",
+      "exchange with the 5th lord (2nd lord in 5th, 5th lord in 2nd): much wealth (Bhavartha Ratnakara II st. 1)",
+      "2nd lord with Jupiter in a kendra or trikona: learned and publicly honoured (Bhavartha Ratnakara II, Education st. 8)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Sagittarius lagna (Saturn in Aries) and Pisces lagna (Mars in Cancer)",
+      "malefic affliction to the 5th"
+    ],
+    "lagna_or_context_notes": "For Taurus and Scorpio lagna the 2nd lord also owns the 5th and occupies it; Bhavartha Ratnakara (ch. IX notes, chart 42) treats the 2nd and 5th lords in their own houses as a rajayoga.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.17 (enjoylearningsanskrit.com)",
+        "view": "Wealthy; children skilled at earning.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-17"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.17 (Santhanam-based text, archive.org)",
+        "view": "Wealthy; sons intent on earning wealth.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 13.1",
+        "view": "2nd lord in a kona gives wealth results.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-13"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Hates family, sensual, does not spend even on children, lacks manners. Fortified: unexpected wealth through lotteries, crosswords or the favour of rulers.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Wealthy, famous for efficiency, several sons, capable of earning wealth, sickly.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Dhana yogas st. 1",
+        "view": "Much wealth when the 2nd lord is in the 5th and the 5th lord in the 2nd (or the same with the 11th).",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Education st. 8",
+        "view": "If the 2nd lord and Jupiter are placed in a kendra or trikona, the native is learned in different branches of knowledge and publicly honoured.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS and Charak are positive. Raman's unfortified reading (family friction, stinginess) is more negative, while his fortified reading adds windfall gains.",
+    "confidence": "high",
+    "phrasing_guidance": "Positive; keep speculation advice cautious and avoid promising investment gains."
+  },
+  {
+    "id": "lord_in_house/2/6",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 6
+    },
+    "summary": "Wealth meets the house of enemies, debt and service: with benefic influence money can come through opponents, competition or service; with malefic influence money can be lost through disputes.",
+    "themes": [
+      "debt",
+      "service",
+      "competition",
+      "disputes",
+      "loans"
+    ],
+    "common_outcomes": [
+      "income through competition or through opponents (BPHS, Charak, Rath)",
+      "expenses also arising through rivals or disputes (Raman, Rath)",
+      "outcome swings with benefic or malefic influence (BPHS 24.18)"
+    ],
+    "rare_outcomes": [
+      "BPHS: with malefic influence, a defect or injury to a limb (traditional view)",
+      "BPHS 13.6: 2nd and 11th lords both in the 6th indicates poverty",
+      "Raman: a fortified lord here can show gains through questionable dealings, and an afflicted one legal trouble over breach of trust or forgery (traditional)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Wealth and status through success in contests or competition (Rath 5.3.1).",
+      "finance": "Depends on benefic or malefic influence (BPHS 24.18). Income and expenditure both come through enemies (Raman HTJH I); earns through and over enemies (Charak); Rath: gains through competition, but losses through enemies because the lord here aspects the 12th.",
+      "health": "BPHS (limb or shank), Raman and Charak (anal region, thighs) carry traditional body-part lines; do not make medical predictions.",
+      "relationships": "",
+      "family": "With Mercury also in the 6th, money through cousins (Bhavartha Ratnakara VIII st. 20).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic conjunction or aspect: gains from enemies (BPHS 24.18)",
+      "exaltation: Aquarius lagna, Jupiter in Cancer",
+      "strong lord limits harm (Phaladeepika 15.9)",
+      "Mercury with the 2nd lord in the 6th: money through cousins (Bhavartha Ratnakara VIII st. 20)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic association (BPHS 24.18)",
+      "debilitation: Aries lagna (Venus in Virgo) and Gemini lagna (Moon in Scorpio)",
+      "11th lord also in the 6th (BPHS 13.6)",
+      "Phaladeepika 15.5: a bhava lord in a dusthana harms its bhava"
+    ],
+    "lagna_or_context_notes": "For Aquarius lagna Jupiter (2nd and 11th lord) is exalted in the 6th.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.18 (enjoylearningsanskrit.com)",
+        "view": "Benefic: wealth from enemies; malefic: losses through enemies and a limb defect.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-18"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.18 (Santhanam-based text, archive.org)",
+        "view": "Benefic: wealth through enemies; malefic: loss through enemies and injury to the shank/leg.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 13.6",
+        "view": "2nd lord and 11th lord in the 6th, or both with malefics, gives poverty.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-13"
+      },
+      {
+        "source": "Phaladeepika 15.5, 15.9",
+        "view": "Lord in a dusthana injures its bhava; injury is slight if the lord is strong.",
+        "url": "https://www.siva.sh/phaladeepika/15/1-5"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Income and expenditure from enemies; diseases of anus and thighs. Fortified: wealth through questionable and deceitful dealings; afflicted: involved in such troubles and punished for breach of trust, forgery or perjury.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Accumulates wealth, destroys enemies, earns through enemies; with malefics, loss of wealth and disease of anal region and breast.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 5.3 'Placement of Lord of Second House' (p. 48)",
+        "view": "The 2nd lord in the 6th gives wealth and status through success in war or competition; as it aspects the 12th, it also shows losses through enemies.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. VIII st. 20",
+        "view": "Money through cousins if Mercury and the 2nd lord occupy the 6th (or Mercury alone).",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS splits by benefic/malefic influence; Charak and Rath lean positive (victory, earning through enemies), Raman stresses both income and expenditure through enemies and an ethical risk. The renderings differ on the body part (limb, leg/shank, anal region).",
+    "confidence": "medium",
+    "phrasing_guidance": "Talk about service-based income and careful handling of debts and disputes. Do not predict injury or poverty."
+  },
+  {
+    "id": "lord_in_house/2/7",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 7
+    },
+    "summary": "Wealth and family link with spouse, partnerships and the public: money through partners or trade; BPHS adds an interest in healing work and cautionary lines about fidelity.",
+    "themes": [
+      "partnership wealth",
+      "spouse",
+      "trade",
+      "healing"
+    ],
+    "common_outcomes": [
+      "income through partners, spouse or trade, sometimes from abroad (Raman, Charak)",
+      "spouse contributes to family finances (Charak)",
+      "an interest in healing work (BPHS, Raman, Charak)"
+    ],
+    "rare_outcomes": [
+      "BPHS: may practise medicine (physician)",
+      "BPHS traditional view: attraction to others' spouses; with malefics, doubt about spouse's fidelity"
+    ],
+    "by_area": {
+      "personality": "Pleasure-seeking (BPHS 24.19; Raman; Charak).",
+      "career": "Healing or medical work (BPHS 24.19; Raman: likely to become a healer; Charak: a physician if afflicted by malefics). A strong 2nd lord with the 7th lord: business and travel abroad (Raman HTJH I).",
+      "finance": "Wealth from foreign sources when the 2nd lord is strong and joined by the 7th lord, and benefit through women if its sign, navamsa or nakshatra is feminine (Raman); a money-earning spouse (Charak); Raman warns of spending on the senses.",
+      "health": "",
+      "relationships": "BPHS, Raman and Charak all have cautionary lines about fidelity; these are traditional and must not be predicted.",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "own sign: Aries lagna (Venus in Libra) and Libra lagna (Mars in Aries)",
+      "exaltation: Virgo lagna, Venus in Pisces (also 9th lord)",
+      "benefic aspects on the 7th",
+      "strong 2nd lord joined by the 7th lord: wealth from foreign sources and business abroad (Raman HTJH I)",
+      "2nd lord with Jupiter in a kendra or trikona: learned and publicly honoured (Bhavartha Ratnakara II, Education st. 8)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic conjunction (BPHS 24.19 fidelity caution)",
+      "combustion"
+    ],
+    "lagna_or_context_notes": "For Aries and Libra lagna the 2nd lord also owns the 7th and sits in its own sign.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.19 (enjoylearningsanskrit.com)",
+        "view": "Drawn to others' spouses, may be a physician; with malefics, spouse unfaithful.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-19"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.19 (Santhanam-based text, archive.org)",
+        "view": "Addicted to others' wives, a doctor; if malefic-linked, wife of doubtful conduct.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 13.1",
+        "view": "2nd lord in a kendra supports wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-13"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Likely to become a healer; laxity of morals in both partners; money wasted on the senses. Strong with the 7th lord: wealth through foreign sources, business abroad; feminine sign/navamsa/nakshatra: benefit through women.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Sensuous; money-earning wife; if afflicted by malefics, becomes a physician; adultery by both.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Education st. 8",
+        "view": "If the 2nd lord and Jupiter are placed in a kendra or trikona, the native is learned in different branches of knowledge and publicly honoured.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS ch. 13 (kendra = wealth) and ch. 24 (moral cautions) emphasise different things. Raman and Charak repeat the healing and fidelity lines; Raman adds foreign income when the lord is strong.",
+    "confidence": "medium",
+    "phrasing_guidance": "Discuss partnership-linked income and possible healing vocations. Never suggest infidelity of the person or spouse."
+  },
+  {
+    "id": "lord_in_house/2/8",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 8
+    },
+    "summary": "Wealth enters the house of hidden and inherited matters: BPHS gives much land and wealth, but less marital happiness and little support from an elder sibling.",
+    "themes": [
+      "inheritance",
+      "hidden wealth",
+      "land",
+      "family strain"
+    ],
+    "common_outcomes": [
+      "gains of land or property (BPHS, Raman, Charak)",
+      "wealth that comes and goes; savings hard to hold (Raman, Rath)",
+      "spouse-linked money, gained or lost depending on strength (Rath)",
+      "less ease in marriage and with an elder sibling (traditional; BPHS, Raman, Charak)"
+    ],
+    "rare_outcomes": [
+      "BPHS: limited marital happiness and no happiness from elder brother",
+      "Charak: lives on alms and charities (traditional)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Sources split. BPHS 24.20 and Charak give income from land and property, and Raman also says land is gained; but Raman's own observation is that hardly anything is earned and inherited or accumulated wealth disappears, with both influx and loss when the lord is strong. Rath: a large dowry or a loss through alimony, depending on strength. BPHS 13.8 warns that wealth lords in 6/8/12 bring loss.",
+      "health": "",
+      "relationships": "Little happiness from the spouse (BPHS 24.20; Raman; Charak); traditional only, do not predict.",
+      "family": "Misunderstandings with, or no comfort from, an elder sibling (BPHS 24.20; Raman; Charak).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "strong lord with benefic aspect (Phaladeepika 15.3, 15.9)",
+      "connection with the 11th lord in a good house"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Leo lagna, Mercury in Pisces",
+      "combust, debilitated or in an enemy sign without benefic aspect: the 2nd house's results are spoiled (Phaladeepika 15.3)",
+      "11th lord also in a dusthana (BPHS 13.8)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.20 (enjoylearningsanskrit.com)",
+        "view": "Much land and wealth, little marital happiness, no happiness from elder sibling.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-20"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.20 (Santhanam-based text, archive.org)",
+        "view": "Ample land and wealth, limited marital felicity, no benefit from elder brother.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 13.8",
+        "view": "2nd and 11th lords in 6/8/12 can bring loss of wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-13"
+      },
+      {
+        "source": "Phaladeepika 15.3",
+        "view": "A bhava lord in the 8th, combust/debilitated/inimical without benefic aspect, destroys the bhava.",
+        "url": "https://www.siva.sh/phaladeepika/15/1-5"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Very little happiness from spouse; misunderstandings with elder brothers; gets landed property. Strong: influx and loss of wealth; observation shows hardly any earnings and the loss of inherited or accumulated wealth.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Income from lands and property; diminished comfort from wife and from elder brother; harmful to others; lives on alms.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 5.3 'Placement of Lord of Second House' (p. 48)",
+        "view": "A 2nd lord in the 8th can bring a huge dowry or a loss through alimony, depending on its strength.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      }
+    ],
+    "disagreements": "On wealth the sources conflict: BPHS 24.20 and Charak are positive (land and wealth), Raman's observation and BPHS 13.8 are negative, and Rath makes it depend on strength. On marriage and the elder sibling, BPHS, Raman and Charak agree.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of inherited, shared or hidden resources and fluctuating savings. Do not predict marital unhappiness or family estrangement."
+  },
+  {
+    "id": "lord_in_house/2/9",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 9
+    },
+    "summary": "Wealth joins fortune and dharma: the person becomes wealthy, diligent and skilful; early life may be harder, with later life happier, and religious observances and pilgrimage feature.",
+    "themes": [
+      "fortune",
+      "dharma",
+      "diligence",
+      "pilgrimage",
+      "father"
+    ],
+    "common_outcomes": [
+      "wealth through fortune, teachers, father or dharmic work",
+      "hard-working and skilled",
+      "religious practices, vows, pilgrimages",
+      "life improves with age"
+    ],
+    "rare_outcomes": [
+      "BPHS: sickly in childhood, happier later (traditional view)"
+    ],
+    "by_area": {
+      "personality": "Diligent and skilled (BPHS 24.21; Raman; Charak, who adds a good speaker).",
+      "career": "",
+      "finance": "Wealthy (BPHS 24.21; Raman; Charak); a good inheritance when the 2nd lord is fortified and the 9th lord is in the lagna (Raman HTJH I).",
+      "health": "BPHS, Raman and Charak all mention ill-health in childhood and good health later; do not make medical predictions.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Pilgrimage and observances (BPHS 24.21)."
+    },
+    "strengtheners": [
+      "own sign: Virgo lagna (Venus in Taurus, also 9th lord) and Pisces lagna (Mars in Scorpio, also 9th lord)",
+      "exaltation: Scorpio lagna, Jupiter in Cancer",
+      "connection with the lagna lord",
+      "fortified 2nd lord with the 9th lord in the lagna: good inheritance (Raman HTJH I)",
+      "2nd lord with Jupiter in a kendra or trikona: learned and publicly honoured (Bhavartha Ratnakara II, Education st. 8)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction to the 9th",
+      "combustion"
+    ],
+    "lagna_or_context_notes": "For Virgo and Pisces lagna the 2nd lord also owns the 9th, a trikona whose lord Laghu Parashari (sloka 6) counts as auspicious.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.21 (enjoylearningsanskrit.com)",
+        "view": "Wealthy, hard-working, skilled; sickly in childhood, later happy; pilgrimages and vows.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-21"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.21 (Santhanam-based text, archive.org)",
+        "view": "Wealthy, diligent, skilful; sick in childhood, later happy; pilgrimages and observances.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 13.1",
+        "view": "2nd lord in a kona supports wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-13"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Skilful, ill-health when young but healthy afterwards, much wealth, happy. Fortified with the 9th lord in the lagna: good inheritance; benefits by the sign and nakshatra held.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Wealthy, industrious, ill health in childhood, healthy and comfortable later, good speaker.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Education st. 8",
+        "view": "If the 2nd lord and Jupiter are placed in a kendra or trikona, the native is learned in different branches of knowledge and publicly honoured.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "None significant; classical and modern sources agree.",
+    "confidence": "high",
+    "phrasing_guidance": "Positive: fortune-backed, diligent earning and dharmic life. Mention early-life struggle only as 'improves with time', no health claims."
+  },
+  {
+    "id": "lord_in_house/2/10",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 10
+    },
+    "summary": "Wealth links to career and status: the person is honoured, learned and earns through profession; BPHS adds a passionate nature and traditional cautions about children.",
+    "themes": [
+      "career income",
+      "status",
+      "learning",
+      "speech in public"
+    ],
+    "common_outcomes": [
+      "earning through profession and public role",
+      "respect and learning",
+      "speech or family business used in career"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: many wives, little happiness from sons, and a passionate nature"
+    ],
+    "by_area": {
+      "personality": "Learned and honourable (BPHS 24.22; Raman: respected by elders and superiors); passionate (BPHS; Charak).",
+      "career": "Several useful occupations such as business, agriculture or philosophical lecturing, the exact source shown by the 2nd lord's sign and nakshatra (Raman HTJH I); earns through the state or employer (Charak).",
+      "finance": "Wealthy, earning by own exertion (Raman); kendra placement (BPHS 13.1). Strong afflictions bring losses from the same sources (Raman).",
+      "health": "",
+      "relationships": "Traditional line about multiple spouses (BPHS 24.22; Charak); do not predict.",
+      "family": "Traditional line about less happiness from children (BPHS 24.22; Charak); check the 5th.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "exaltation: Cancer lagna (Sun in Aries, with dig bala) and Capricorn lagna (Saturn in Libra)",
+      "connection with the 10th and 11th lords",
+      "2nd and 11th lords in the 10th free from affliction: rajayoga (Bhavartha Ratnakara IX, Raman's notes and chart 43)",
+      "2nd lord with Jupiter in a kendra or trikona: learned and publicly honoured (Bhavartha Ratnakara II, Education st. 8)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Libra lagna, Mars in Cancer",
+      "malefic affliction"
+    ],
+    "lagna_or_context_notes": "For Cancer lagna the Sun is exalted in the 10th with directional strength.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.22 (enjoylearningsanskrit.com)",
+        "view": "Passionate, respected, learned; many spouses and wealth; lacks happiness from sons.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-22"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.22 (Santhanam-based text, archive.org)",
+        "view": "Libidinous, honourable, learned; many wives; no filial happiness.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Respect from elders and superiors, learned, wealthy, earns by own exertion; business, agriculture or philosophical lectures; sign and nakshatra decide the source; strong afflictions cause losses from the same sources.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Sensuous, self-respecting, learned, several women, little comfort from children, earns through the ruler.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. IX notes with chart 43 (p. 78)",
+        "view": "The 2nd and 11th lords in the 10th free from affliction give rajayoga; Raman's example is Jupiter owning both, in the 10th.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Education st. 8",
+        "view": "If the 2nd lord and Jupiter are placed in a kendra or trikona, the native is learned in different branches of knowledge and publicly honoured.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "Raman omits BPHS's lines on spouses and children and stresses career earnings; Charak keeps them.",
+    "confidence": "high",
+    "phrasing_guidance": "Emphasise career earnings and respect. Do not mention children's happiness or multiple marriages as predictions."
+  },
+  {
+    "id": "lord_in_house/2/11",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 11
+    },
+    "summary": "A classic wealth combination: the 2nd lord in the house of gains brings gains of all kinds, diligence, honour and fame.",
+    "themes": [
+      "gains",
+      "wealth yoga",
+      "networks",
+      "fame"
+    ],
+    "common_outcomes": [
+      "steady and multiple income sources",
+      "honour and reputation",
+      "diligent effort rewarded"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "Diligent (BPHS 24.23); efficient and respectable (Charak); Raman cautions about an unscrupulous streak.",
+      "career": "If fortified: money-lending, banking or running a boarding house (Raman HTJH I).",
+      "finance": "Strong wealth indication (BPHS 24.23, 13.4; Raman: considerable wealth; Charak: ever benefiting, wealthy). Exchange of the 2nd and 11th lords gives much wealth (Bhavartha Ratnakara II st. 1).",
+      "health": "Raman mentions poor health in childhood (traditional); no medical predictions.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "own sign: Leo lagna (Mercury in Gemini, also 11th lord) and Aquarius lagna (Jupiter in Sagittarius, also 11th lord)",
+      "exaltation: Sagittarius lagna (Saturn in Libra) and Pisces lagna (Mars in Capricorn)",
+      "11th lord in the 2nd at the same time (exchange), both in kendra/kona (BPHS 13.4)",
+      "exchange with the 11th lord: much wealth (Bhavartha Ratnakara II st. 1)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Taurus lagna, Mercury in Pisces",
+      "malefic affliction or combustion"
+    ],
+    "lagna_or_context_notes": "For Leo and Aquarius lagna one planet owns both the 2nd and 11th and sits in its own sign.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.23 (enjoylearningsanskrit.com)",
+        "view": "Gains of all kinds, steady effort, honour, fame.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-23"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.23 (Santhanam-based text, archive.org)",
+        "view": "All kinds of wealth, ever diligent, honourable, famous.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 13.4",
+        "view": "2nd lord in the 11th (or 11th lord in the 2nd) with both in kendra/kona makes one wealthy.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-13"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Bad health in childhood, earns considerable wealth but becomes unscrupulous. Fortified: earns by money-lending, banking or running a boarding house.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Widely known, efficient, respectable, ever benefiting, wealthy, looks after the needs of many.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Dhana yogas st. 1",
+        "view": "Much wealth when the 2nd lord is in the 11th and the 11th lord in the 2nd.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "Raman adds childhood ill-health and an unscrupulous streak; otherwise all sources agree on gains.",
+    "confidence": "high",
+    "phrasing_guidance": "Positive; avoid guaranteeing riches, and note results depend on the lord's strength and dasha timing."
+  },
+  {
+    "id": "lord_in_house/2/12",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 2,
+      "placed_in": 12
+    },
+    "summary": "Wealth falls into the house of loss and expenditure: savings are hard to keep, the person may rely on others' resources, and BPHS adds a traditional caution about the eldest child; benefic links can turn spending toward good causes.",
+    "themes": [
+      "expenditure",
+      "losses",
+      "foreign money",
+      "charity",
+      "dependence"
+    ],
+    "common_outcomes": [
+      "spending exceeds saving",
+      "money spent abroad or on family, charity or comforts",
+      "reliance on others' resources at times"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: no happiness from the eldest child",
+      "BPHS 13.9: 2nd and 12th lords with benefics direct spending to dharmic causes"
+    ],
+    "by_area": {
+      "personality": "Courageous or adventurous (BPHS 24.24; Charak: courageous, laborious); respectable (Raman HTJH I).",
+      "career": "Government service and income through religious institutions (Raman); a natural-benefic 2nd lord makes a renowned trader (Charak).",
+      "finance": "Main caution: wealth hard to keep (BPHS 24.24; Charak). Exchange of the 2nd and 12th lords, or the 2nd lord in the 12th with the 12th lord in the lagna aspected by a maraka, gives poverty (Bhavartha Ratnakara II, Nirdhana st. 2-3).",
+      "health": "",
+      "relationships": "",
+      "family": "Traditional line about little happiness from the eldest child (BPHS 24.24; Charak) or from an elder brother (Raman).",
+      "spirituality": "Spending on religious causes when benefics are involved (BPHS 13.9); income through ecclesiastical sources (Raman)."
+    },
+    "strengtheners": [
+      "exaltation: Aries lagna (Venus in Pisces) and Gemini lagna (Moon in Taurus)",
+      "benefic conjunction, turning expenditure toward good causes (BPHS 13.9)",
+      "strong lord limits loss (Phaladeepika 15.9)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Aquarius lagna, Jupiter in Capricorn",
+      "11th lord also in a dusthana (BPHS 13.8)",
+      "malefic association",
+      "exchange of the 2nd and 12th lords: poverty (Bhavartha Ratnakara II, Nirdhana st. 2)",
+      "12th lord in the lagna aspected by a maraka at the same time: poverty (Bhavartha Ratnakara II, Nirdhana st. 3)"
+    ],
+    "lagna_or_context_notes": "Bhavartha Ratnakara (I, Mesha st. 7) says that only for Aries lagna is the 2nd lord in the 12th good, because Venus is exalted in Pisces; for every other lagna this placement makes the 2nd lord evil. Laghu Parashari sloka 8: the 2nd and 12th lords give results according to their associations and the houses they occupy.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.24 (enjoylearningsanskrit.com)",
+        "view": "Without wealth despite courage, depends on others' fortune, no happiness from eldest child.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-24"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.24 (Santhanam-based text, archive.org)",
+        "view": "Adventurous but poor, covets others' wealth; eldest child gives no happiness.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 13.8-9",
+        "view": "Wealth lords in 6/8/12 bring loss; 2nd and 12th lords with benefics spend on dharma.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-13"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. V 'Results of Lord of Second being Situated in Different Houses' (pp. 52-53)",
+        "view": "Respectable, probably a government servant, deprived of happiness from elder brother; income through ecclesiastical sources, lost if the 2nd lord is afflicted.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Second lord (pp. 231-232)",
+        "view": "Courageous, laborious, no comfort from elder child, likely to lose wealth; if a natural benefic, a renowned trader.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. I Mesha st. 7 with notes; ch. II Nirdhana st. 2-3",
+        "view": "For Aries only, the 2nd lord in the 12th is good (Venus exalted); for other lagnas it is evil. Exchange of 2nd and 12th lords, or 2nd lord in 12th with 12th lord in the lagna aspected by a maraka, gives poverty.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, sloka 8 with notes",
+        "view": "The 2nd and 12th lords are neutral by ownership and give results according to the planets they join, the houses they occupy and their other sign.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "BPHS renderings differ: 'depends on others' fortune' vs 'covets others' wealth'. Raman is milder (respectable, government service, ecclesiastical income). The family caution names the eldest child (BPHS, Charak) or an elder brother (Raman). Bhavartha Ratnakara exempts Aries lagna.",
+    "confidence": "medium",
+    "phrasing_guidance": "Advise mindful spending and saving; mention giving and foreign links positively. Do not predict poverty or problems with a child."
+  }
+]

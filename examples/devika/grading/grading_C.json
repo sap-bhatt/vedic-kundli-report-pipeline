@@ -1,0 +1,2183 @@
+{
+ "chart": "devika",
+ "part": "C",
+ "run": "open_run",
+ "sections": {
+  "yogas": {
+   "coverage": 60.8,
+   "accuracy": 100.0,
+   "groundedness": 95.0,
+   "tone": 84.0,
+   "tone_scores": {
+    "warmth": 4,
+    "term_explanation": 5,
+    "specificity": 4,
+    "honesty_uncertainty": 5,
+    "structure": 3
+   },
+   "violations": 1,
+   "score": 75.9,
+   "n_claims": 60,
+   "missed_claims": [
+    {
+     "claim": "Yoga = combination with named result; dosha = afflicting combination",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "Shown in career",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "Turned to property, dharma, foreign or inner ends",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "Moon's brightness and D9 Sagittarius add support",
+     "type": "fact",
+     "input_had_it": true
+    },
+    {
+     "claim": "In the 12th favours private study, writing and research",
+     "type": "interp",
+     "input_had_it": false
+    },
+    {
+     "claim": "Mitigated by Sun's own-sign navamsa",
+     "type": "fact",
+     "input_had_it": true
+    },
+    {
+     "claim": "Gandanta Mercury (last pada of Ashlesha)",
+     "type": "fact",
+     "input_had_it": false
+    },
+    {
+     "claim": "Guru-Chandal, Shrapit, Angarak, Ghata absent",
+     "type": "fact",
+     "input_had_it": false
+    },
+    {
+     "claim": "Sade Sati/Dhaiya not active; next Ashtama Dhaiya May 2032-Jul 2034",
+     "type": "fact",
+     "input_had_it": false
+    },
+    {
+     "claim": "Birth panchang: Vishti karana, Shukla Ekadashi, Brahma yoga",
+     "type": "fact",
+     "input_had_it": false
+    },
+    {
+     "claim": "Gajakesari absent (Jupiter 2nd from Moon); Hamsa absent (Jupiter in trikona, not kendra)",
+     "type": "fact",
+     "input_had_it": false
+    },
+    {
+     "claim": "Ruchaka absent; Viparita Raja yogas absent",
+     "type": "fact",
+     "input_had_it": false
+    },
+    {
+     "claim": "Dharma-Karmadhipati, Lakshmi, Saraswati absent; Kemadruma absent (good)",
+     "type": "fact",
+     "input_had_it": false
+    },
+    {
+     "claim": "Dominant structures: Malavya, Jupiter in 5th aspecting lagna, double neecha bhanga with exchange",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "Afflictions (crowded 12th, Dainya, Grahan, combust yogakaraka) real but moderate",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "Not easy luck: strong public role beside intense private life; early difficulty turned into depth",
+     "type": "interp",
+     "input_had_it": true
+    }
+   ],
+   "contradictions": [
+    "Malavya weight: benchmark 'High ... delivers steadily', renown and career; candidate 'some modern writers call the yoga largely nominal' and 'taste, charm and domestic happiness more than ... wealth'"
+   ],
+   "notes": {
+    "accuracy_checked": 34,
+    "accuracy_errors": [],
+    "groundedness_stretched": [
+     "Raja yoga 'rising responsibility ... most in the periods of Mars and the Sun'",
+     "Ganda moola 'check that against the classical timing' (input says flag only; chart shows Moon in Jyeshtha pada 1, far from the Jyeshtha-Moola junction, so the hedge was answerable)"
+    ],
+    "violations": [
+     "Leaked writer instruction in visible text: Pitra 'avoid any reading about having or not having children'"
+    ],
+    "structure": "No weight table, no list of absent yogas, no synthesis paragraph; doshas section lacks Sade Sati status"
+   },
+   "claims": [
+    {
+     "part": "intro",
+     "type": "interp",
+     "claim": "Yoga = combination with named result; dosha = afflicting combination",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "intro",
+     "type": "interp",
+     "claim": "Useful question is strength and support, with a weight per yoga",
+     "mark": "partial"
+    },
+    {
+     "part": "malavya",
+     "type": "fact",
+     "claim": "Venus own sign Taurus in 10th, kendra from lagna and Moon, not combust",
+     "mark": "covered"
+    },
+    {
+     "part": "malavya",
+     "type": "interp",
+     "claim": "Resolute mind, wealth, family happiness, comforts, renown, learning",
+     "mark": "partial"
+    },
+    {
+     "part": "malavya",
+     "type": "interp",
+     "claim": "Shown in career",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "malavya",
+     "type": "fact",
+     "claim": "Qualified by Venus's navamsa debility",
+     "mark": "covered"
+    },
+    {
+     "part": "malavya",
+     "type": "interp",
+     "claim": "High weight: delivers steadily",
+     "mark": "contradicted"
+    },
+    {
+     "part": "yogakaraka",
+     "type": "fact",
+     "claim": "Mars rules 4th (kendra) and 9th (trikona) for Leo: yogakaraka",
+     "mark": "covered"
+    },
+    {
+     "part": "yogakaraka",
+     "type": "interp",
+     "claim": "Debilitated, combust, 12th: power real but delayed",
+     "mark": "covered"
+    },
+    {
+     "part": "yogakaraka",
+     "type": "interp",
+     "claim": "Turned to property, dharma, foreign or inner ends",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "yogakaraka",
+     "type": "interp",
+     "claim": "Key in the Mars mahadasha 2031-2038",
+     "mark": "partial"
+    },
+    {
+     "part": "nb_mars",
+     "type": "fact",
+     "claim": "Dispositor Moon in a kendra from lagna",
+     "mark": "partial"
+    },
+    {
+     "part": "nb_mars",
+     "type": "fact",
+     "claim": "Saturn, lord of Mars's exaltation sign, in a kendra",
+     "mark": "covered"
+    },
+    {
+     "part": "nb_mars",
+     "type": "fact",
+     "claim": "Mars exalted in D9 (grade 3)",
+     "mark": "covered"
+    },
+    {
+     "part": "nb_mars",
+     "type": "interp",
+     "claim": "Frustration early, effectiveness later",
+     "mark": "partial"
+    },
+    {
+     "part": "nb_mars",
+     "type": "interp",
+     "claim": "Combustion and 12th mean not a full Neecha Bhanga Raja Yoga",
+     "mark": "covered"
+    },
+    {
+     "part": "nb_moon",
+     "type": "fact",
+     "claim": "Venus, lord of Moon's exaltation sign, in kendra and aspecting the Moon (grade 2)",
+     "mark": "partial"
+    },
+    {
+     "part": "nb_moon",
+     "type": "interp",
+     "claim": "Emotional turbulence becomes depth; mind steadies with age",
+     "mark": "covered"
+    },
+    {
+     "part": "nb_moon",
+     "type": "fact",
+     "claim": "Moon's brightness and D9 Sagittarius add support",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "parivartana",
+     "type": "fact",
+     "claim": "Moon-Mars exchange linking 4th and 12th",
+     "mark": "covered"
+    },
+    {
+     "part": "parivartana",
+     "type": "interp",
+     "claim": "Dainya type per Phaladeepika: expense, struggle, separation",
+     "mark": "covered"
+    },
+    {
+     "part": "parivartana",
+     "type": "interp",
+     "claim": "Exchanged planets act as own sign; many treat it as cancelling both debilities",
+     "mark": "partial"
+    },
+    {
+     "part": "parivartana",
+     "type": "interp",
+     "claim": "Net: home and retreat bound together; strength through difficulty",
+     "mark": "covered"
+    },
+    {
+     "part": "raja",
+     "type": "fact",
+     "claim": "Lagna lord Sun conjunct 4th/9th lord Mars",
+     "mark": "covered"
+    },
+    {
+     "part": "raja",
+     "type": "interp",
+     "claim": "Authority and status",
+     "mark": "covered"
+    },
+    {
+     "part": "raja",
+     "type": "interp",
+     "claim": "Formed in 12th with combust Mars: works through institutions, foreign places, service (medium-low)",
+     "mark": "partial"
+    },
+    {
+     "part": "amala",
+     "type": "fact",
+     "claim": "Venus, natural benefic, in 10th from lagna",
+     "mark": "covered"
+    },
+    {
+     "part": "amala",
+     "type": "interp",
+     "claim": "Spotless reputation, honourable conduct",
+     "mark": "covered"
+    },
+    {
+     "part": "amala",
+     "type": "interp",
+     "claim": "Malefic Saturn in 10th dilutes it per some authors",
+     "mark": "covered"
+    },
+    {
+     "part": "sunapha",
+     "type": "fact",
+     "claim": "Jupiter in 2nd from Moon",
+     "mark": "covered"
+    },
+    {
+     "part": "sunapha",
+     "type": "interp",
+     "claim": "Self-earned wealth, reputation for wisdom, ruler's standing",
+     "mark": "covered"
+    },
+    {
+     "part": "sunapha",
+     "type": "interp",
+     "claim": "Jupiter strong, so the yoga has weight",
+     "mark": "covered"
+    },
+    {
+     "part": "budhaditya",
+     "type": "fact",
+     "claim": "Sun and Mercury same sign, Mercury not combust (22 deg 38' apart); very common",
+     "mark": "covered"
+    },
+    {
+     "part": "budhaditya",
+     "type": "interp",
+     "claim": "In the 12th favours private study, writing and research",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "dhana",
+     "type": "fact",
+     "claim": "Lords of 1st, 9th and 2nd/11th conjoined",
+     "mark": "covered"
+    },
+    {
+     "part": "dhana",
+     "type": "interp",
+     "claim": "In 12th: money earned and spent through institutions, foreign, charity, family",
+     "mark": "partial"
+    },
+    {
+     "part": "shakata",
+     "type": "fact",
+     "claim": "Moon 12th from Jupiter",
+     "mark": "covered"
+    },
+    {
+     "part": "shakata",
+     "type": "interp",
+     "claim": "Losses with later recovery, mental pain; read as mild fluctuation",
+     "mark": "covered"
+    },
+    {
+     "part": "shakata",
+     "type": "fact",
+     "claim": "Cancelled: Moon in kendra and bright",
+     "mark": "partial"
+    },
+    {
+     "part": "grahan",
+     "type": "fact",
+     "claim": "Sun with Ketu in 12th, 3 deg 31' apart",
+     "mark": "covered"
+    },
+    {
+     "part": "grahan",
+     "type": "interp",
+     "claim": "A modern term",
+     "mark": "covered"
+    },
+    {
+     "part": "grahan",
+     "type": "interp",
+     "claim": "Self-doubt, obscured recognition, detached streak, father complications",
+     "mark": "partial"
+    },
+    {
+     "part": "grahan",
+     "type": "fact",
+     "claim": "Mitigated by Sun's own-sign navamsa",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "doshas",
+     "type": "fact",
+     "claim": "Manglik from lagna only, cancelled under several rules",
+     "mark": "covered"
+    },
+    {
+     "part": "doshas",
+     "type": "fact",
+     "claim": "Cancellers: Leo lagna, Mars in Cancer, Mars debilitated",
+     "mark": "covered"
+    },
+    {
+     "part": "doshas",
+     "type": "fact",
+     "claim": "Kaal Sarp absent: Venus and Saturn outside axis; not in BPHS/Phaladeepika",
+     "mark": "covered"
+    },
+    {
+     "part": "doshas",
+     "type": "fact",
+     "claim": "Pitra flags: Sun+Ketu, Sun+Mars, 9th lord with Sun and Ketu",
+     "mark": "covered"
+    },
+    {
+     "part": "doshas",
+     "type": "interp",
+     "claim": "Pitra is modern; useful content is father/9th theme; gratitude, Pitru Paksha, not fear",
+     "mark": "partial"
+    },
+    {
+     "part": "doshas",
+     "type": "fact",
+     "claim": "Ganda Moola present (Moon in Jyeshtha)",
+     "mark": "covered"
+    },
+    {
+     "part": "doshas",
+     "type": "interp",
+     "claim": "Ganda Moola: shanti in infancy; classics describe no ill effects; no ongoing concern",
+     "mark": "partial"
+    },
+    {
+     "part": "doshas",
+     "type": "fact",
+     "claim": "Gandanta Mercury (last pada of Ashlesha)",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "doshas",
+     "type": "fact",
+     "claim": "Guru-Chandal, Shrapit, Angarak, Ghata absent",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "doshas",
+     "type": "fact",
+     "claim": "Sade Sati/Dhaiya not active; next Ashtama Dhaiya May 2032-Jul 2034",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "doshas",
+     "type": "fact",
+     "claim": "Birth panchang: Vishti karana, Shukla Ekadashi, Brahma yoga",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "absent",
+     "type": "fact",
+     "claim": "Gajakesari absent (Jupiter 2nd from Moon); Hamsa absent (Jupiter in trikona, not kendra)",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "absent",
+     "type": "fact",
+     "claim": "Ruchaka absent; Viparita Raja yogas absent",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "absent",
+     "type": "fact",
+     "claim": "Dharma-Karmadhipati, Lakshmi, Saraswati absent; Kemadruma absent (good)",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "synthesis",
+     "type": "interp",
+     "claim": "Dominant structures: Malavya, Jupiter in 5th aspecting lagna, double neecha bhanga with exchange",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "synthesis",
+     "type": "interp",
+     "claim": "Afflictions (crowded 12th, Dainya, Grahan, combust yogakaraka) real but moderate",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "synthesis",
+     "type": "interp",
+     "claim": "Not easy luck: strong public role beside intense private life; early difficulty turned into depth",
+     "mark": "missed",
+     "input_had_it": true
+    }
+   ]
+  },
+  "guidance": {
+   "coverage": 51.1,
+   "accuracy": 100.0,
+   "groundedness": 87.5,
+   "tone": 80.0,
+   "tone_scores": {
+    "warmth": 4,
+    "term_explanation": 4,
+    "specificity": 4,
+    "honesty_uncertainty": 4,
+    "structure": 4
+   },
+   "violations": 0,
+   "score": 74.9,
+   "n_claims": 45,
+   "missed_claims": [
+    {
+     "claim": "Jupiter also aspects the 9th and 11th",
+     "type": "fact",
+     "input_had_it": true
+    },
+    {
+     "claim": "Early difficulty in home and heart becomes depth and strength",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "Protective senior nature (Jyeshtha Moon + Leo): others lean on her",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "Especially while Saturn transits 8th (to Jun 2027; Oct 2027-Feb 2028)",
+     "type": "fact",
+     "input_had_it": true
+    },
+    {
+     "claim": "Let herself be seen: take credit, accept senior/advisory roles",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "Use Mars physically: regular vigorous exercise",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "Make home decisions slowly (4th-12th exchange)",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "Double transits on 4th (late 2030, mid-2031) and Mars MD start as times for home decisions",
+     "type": "fact",
+     "input_had_it": true
+    },
+    {
+     "claim": "Let go selectively: trust the right people, release grievances, a confidante",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "Saturn remedy (current sub-period)",
+     "type": "fact",
+     "input_had_it": false
+    },
+    {
+     "claim": "Jupiter and Venus already strong, need no boosting",
+     "type": "interp",
+     "input_had_it": true
+    },
+    {
+     "claim": "No gemstone recommended",
+     "type": "interp",
+     "input_had_it": false
+    }
+   ],
+   "contradictions": [
+    "Moon: benchmark lists 'emotional intensity and long memory' from the debilitated Scorpio Moon as a challenge; candidate lists 'A steadying Moon' as a strength"
+   ],
+   "notes": {
+    "accuracy_checked": 26,
+    "accuracy_errors": [],
+    "groundedness_stretched": [
+     "'Rahu and Ketu keep the same sign in both charts. The lagna lord's inner strength is real' (vargottama nodes used as support for the Sun)",
+     "'A steadying Moon' / 'a Moon that gives steadiness at home' for a debilitated, 1-of-6-cancelled Moon",
+     "'Sunapha beside it gives the emotional life a reasonable, well-liked face'",
+     "Mars-Mars Jun-Nov 2031 as the time for initiative in career",
+     "Ashtama Dhaiya 'associated with strain on health, money and close ties' (no date, no softener)"
+    ],
+    "watch": [
+     "Remedies table omits Saturn although Saturn runs the current sub-period (library had no remedy/saturn entry)"
+    ]
+   },
+   "claims": [
+    {
+     "part": "strengths",
+     "type": "fact",
+     "claim": "Malavya in 10th: 10th lord and Amatyakaraka Venus in own sign",
+     "mark": "partial"
+    },
+    {
+     "part": "strengths",
+     "type": "interp",
+     "claim": "Respected, steady career built on taste, integrity, reliability",
+     "mark": "partial"
+    },
+    {
+     "part": "strengths",
+     "type": "fact",
+     "claim": "Jupiter moolatrikona in 5th aspecting the lagna",
+     "mark": "covered"
+    },
+    {
+     "part": "strengths",
+     "type": "fact",
+     "claim": "Jupiter also aspects the 9th and 11th",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "strengths",
+     "type": "interp",
+     "claim": "Good judgement, faith, teacher's instinct, protection",
+     "mark": "partial"
+    },
+    {
+     "part": "strengths",
+     "type": "fact",
+     "claim": "Moon and Mars both debilitated, exchange signs, both neecha bhanga",
+     "mark": "partial"
+    },
+    {
+     "part": "strengths",
+     "type": "fact",
+     "claim": "Mars exalted in navamsa",
+     "mark": "covered"
+    },
+    {
+     "part": "strengths",
+     "type": "interp",
+     "claim": "Early difficulty in home and heart becomes depth and strength",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "strengths",
+     "type": "interp",
+     "claim": "Protective senior nature (Jyeshtha Moon + Leo): others lean on her",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "strengths",
+     "type": "interp",
+     "claim": "Rich inner life: 12th planets, Ketu, Pisces Karakamsa: intuition, healing, counselling",
+     "mark": "partial"
+    },
+    {
+     "part": "strengths",
+     "type": "interp",
+     "claim": "Favourable decade ahead: Moon-Mercury and Moon-Venus 2027-2030",
+     "mark": "partial"
+    },
+    {
+     "part": "strengths",
+     "type": "interp",
+     "claim": "Yogakaraka's mahadasha from 2031",
+     "mark": "covered"
+    },
+    {
+     "part": "challenges",
+     "type": "interp",
+     "claim": "Self-effacement: lagna lord in 12th near Ketu underplays her authority",
+     "mark": "partial"
+    },
+    {
+     "part": "challenges",
+     "type": "interp",
+     "claim": "Emotional intensity and long memory from debilitated Scorpio Moon",
+     "mark": "contradicted"
+    },
+    {
+     "part": "challenges",
+     "type": "interp",
+     "claim": "Overwork: Saturn with Venus in 10th, aspecting Moon, 6th lord; carries too much",
+     "mark": "partial"
+    },
+    {
+     "part": "challenges",
+     "type": "fact",
+     "claim": "Money flowing out: 2nd/11th lord in 12th with lagna and 9th lords",
+     "mark": "covered"
+    },
+    {
+     "part": "challenges",
+     "type": "interp",
+     "claim": "Generosity and family expenses can outrun savings",
+     "mark": "partial"
+    },
+    {
+     "part": "challenges",
+     "type": "interp",
+     "claim": "Rest and the eyes: 12th planets linked to sleep and eyesight",
+     "mark": "partial"
+    },
+    {
+     "part": "challenges",
+     "type": "interp",
+     "claim": "Sharp speech under stress",
+     "mark": "partial"
+    },
+    {
+     "part": "guidance",
+     "type": "interp",
+     "claim": "Protect rest: regular bedtime, quiet mornings, days off",
+     "mark": "covered"
+    },
+    {
+     "part": "guidance",
+     "type": "fact",
+     "claim": "Especially while Saturn transits 8th (to Jun 2027; Oct 2027-Feb 2028)",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "guidance",
+     "type": "interp",
+     "claim": "Let herself be seen: take credit, accept senior/advisory roles",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "guidance",
+     "type": "fact",
+     "claim": "Moon-Venus Apr 2029-Dec 2030 for stepping forward",
+     "mark": "partial"
+    },
+    {
+     "part": "guidance",
+     "type": "interp",
+     "claim": "Put money on rails: automatic saving, separate fund, ceiling on giving",
+     "mark": "covered"
+    },
+    {
+     "part": "guidance",
+     "type": "interp",
+     "claim": "Moon-Mercury Apr 2027-Sep 2028 the best financial window: build reserves",
+     "mark": "partial"
+    },
+    {
+     "part": "guidance",
+     "type": "interp",
+     "claim": "Use Mars physically: regular vigorous exercise",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "guidance",
+     "type": "interp",
+     "claim": "Make home decisions slowly (4th-12th exchange)",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "guidance",
+     "type": "fact",
+     "claim": "Double transits on 4th (late 2030, mid-2031) and Mars MD start as times for home decisions",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "guidance",
+     "type": "interp",
+     "claim": "Let go selectively: trust the right people, release grievances, a confidante",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "guidance",
+     "type": "interp",
+     "claim": "Keep a daily practice (Jupiter 5th, Ketu 12th)",
+     "mark": "covered"
+    },
+    {
+     "part": "guidance",
+     "type": "fact",
+     "claim": "Moon-Ketu 2028-2029 suits pilgrimage/retreat",
+     "mark": "partial"
+    },
+    {
+     "part": "guidance",
+     "type": "fact",
+     "claim": "Prepare for 2032-2034: Ashtama Dhaiya over last of Sankata Yogini; keep commitments manageable",
+     "mark": "partial"
+    },
+    {
+     "part": "remedies",
+     "type": "interp",
+     "claim": "Remedies entirely optional; conduct is the strongest remedy",
+     "mark": "covered"
+    },
+    {
+     "part": "remedies",
+     "type": "fact",
+     "claim": "Moon remedy (Monday mantra, milk/rice, care for mother)",
+     "mark": "covered"
+    },
+    {
+     "part": "remedies",
+     "type": "fact",
+     "claim": "Saturn remedy (current sub-period)",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "remedies",
+     "type": "fact",
+     "claim": "Mars remedy (Tuesday, Hanuman)",
+     "mark": "covered"
+    },
+    {
+     "part": "remedies",
+     "type": "fact",
+     "claim": "Sun remedy (water to rising Sun, respect father)",
+     "mark": "covered"
+    },
+    {
+     "part": "remedies",
+     "type": "fact",
+     "claim": "Mercury remedy",
+     "mark": "covered"
+    },
+    {
+     "part": "remedies",
+     "type": "fact",
+     "claim": "Ketu remedy",
+     "mark": "covered"
+    },
+    {
+     "part": "remedies",
+     "type": "fact",
+     "claim": "Rahu remedy (Sankata Yogini)",
+     "mark": "covered"
+    },
+    {
+     "part": "remedies",
+     "type": "interp",
+     "claim": "Jupiter and Venus already strong, need no boosting",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "remedies",
+     "type": "interp",
+     "claim": "No gemstone recommended",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "closing",
+     "type": "interp",
+     "claim": "Capable, dignified woman: public life on steady merit, private life deep",
+     "mark": "partial"
+    },
+    {
+     "part": "closing",
+     "type": "interp",
+     "claim": "Coming chapters (Venus then Mars) offer recognition, a chosen home, spiritual room",
+     "mark": "partial"
+    },
+    {
+     "part": "closing",
+     "type": "interp",
+     "claim": "Principal task: let herself rest and be seen",
+     "mark": "partial"
+    }
+   ]
+  },
+  "timeline": {
+   "coverage": 66.9,
+   "coverage_library_covered": 68.6,
+   "coverage_library_gap": 64.5,
+   "accuracy": 95.3,
+   "groundedness": 90.0,
+   "tone": 80.0,
+   "violations": 1,
+   "score": 74.0,
+   "missed_claims": [
+    {
+     "claim": "Rahu 2038-2056, Jupiter 2056-2072, Saturn 2072-2091 MDs with roles",
+     "part": "md_table",
+     "input_had_it": true
+    },
+    {
+     "claim": "Adult avastha",
+     "part": "current_md",
+     "input_had_it": false
+    },
+    {
+     "claim": "Moon and 10th-house Venus/Saturn aspect each other: career and emotions linked",
+     "part": "current_md",
+     "input_had_it": true
+    },
+    {
+     "claim": "Saturn 7th from Moon, mutual full aspect with Moon",
+     "part": "ad:Saturn",
+     "input_had_it": true
+    },
+    {
+     "claim": "Rahu-Ketu shift ~5 Dec 2026: Rahu into 6th, Ketu over 12th planets",
+     "part": "ad:Saturn",
+     "input_had_it": false
+    },
+    {
+     "claim": "Saturn 8th from lagna, demanding for health; aspects 10th, 2nd, 5th",
+     "part": "transits",
+     "input_had_it": true
+    },
+    {
+     "claim": "Jupiter on the lagna now protects",
+     "part": "transits",
+     "input_had_it": true
+    },
+    {
+     "claim": "Eased by Saturn's position in 11th from lagna",
+     "part": "sade_sati",
+     "input_had_it": true
+    },
+    {
+     "claim": "Third Sade Sati Sep 2041-Dec 2049",
+     "part": "sade_sati",
+     "input_had_it": true
+    },
+    {
+     "claim": "Yogini dasha explained: 36-year cycle of eight Yoginis, a confirming timer",
+     "part": "yogini",
+     "input_had_it": true
+    },
+    {
+     "claim": "Chara dasha explained (Jaimini sign-based)",
+     "part": "chara",
+     "input_had_it": true
+    },
+    {
+     "claim": "Vrishabha = 10th house with AmK Venus and Saturn: career, standing, partnership central",
+     "part": "chara",
+     "input_had_it": true
+    }
+   ],
+   "contradictions": [
+    "Saturn in Aries (6th from Moon, Jun 2027-): benchmark favourable (Phaladeepika 26.22); candidate says debilitated so 'the usual relief from enemies and worries fails'",
+    "Moon-Mercury: benchmark 'strongest financial and intellectual window, rising income'; candidate 'money that is hard to keep and gains that flow out'",
+    "Mars MD sub-periods: benchmark says BPHS favours Saturn/Venus/Moon sub-periods; candidate calls Mars-Saturn 'the most testing stretch of the Mars period'",
+    "Key window: benchmark Moon-Venus Apr 2029-early 2031; candidate Mars-Mars Jun-Nov 2031 (Moon-Venus named only as 'brightest')",
+    "Internal: Mars-Mercury called 'the most demanding of the Mars stretches' while the ten-year summary and rows call Mars-Saturn 'the most testing stretch of the Mars period'"
+   ]
+  }
+ },
+ "timeline": {
+  "coverage": {
+   "overall": 66.9,
+   "library_covered": 68.6,
+   "library_gap": 64.5,
+   "by_part": {
+    "intro": 87.5,
+    "md_table": 66.7,
+    "past": 75.0,
+    "current_md": 66.7,
+    "ad:Moon": 50.0,
+    "ad:Mars": 71.4,
+    "ad:Rahu": 50.0,
+    "ad:Jupiter": 100.0,
+    "ad:Saturn": 56.2,
+    "ad:Mercury": 50.0,
+    "ad:Ketu": 66.7,
+    "ad:Venus": 75.0,
+    "ad:Sun": 100.0,
+    "transits": 61.1,
+    "sade_sati": 50.0,
+    "yogini": 70.0,
+    "chara": 40.0,
+    "overview": 87.5
+   },
+   "n_claims": 89,
+   "claims": [
+    {
+     "part": "intro",
+     "type": "fact",
+     "claim": "Vimshottari: nine periods of fixed lengths from Moon's nakshatra lord",
+     "mark": "covered"
+    },
+    {
+     "part": "intro",
+     "type": "fact",
+     "claim": "Born in Mercury MD (Jyeshtha), about 15.9 years remaining",
+     "mark": "partial"
+    },
+    {
+     "part": "intro",
+     "type": "interp",
+     "claim": "A period brings forward what the planet signifies and rules",
+     "mark": "covered"
+    },
+    {
+     "part": "intro",
+     "type": "interp",
+     "claim": "Slow transits of Jupiter and Saturn trigger the promise",
+     "mark": "covered"
+    },
+    {
+     "part": "md_table",
+     "type": "fact",
+     "claim": "MD dates and ages Mercury through Mars",
+     "mark": "covered"
+    },
+    {
+     "part": "md_table",
+     "type": "fact",
+     "claim": "Rahu 2038-2056, Jupiter 2056-2072, Saturn 2072-2091 MDs with roles",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "md_table",
+     "type": "fact",
+     "claim": "Each MD lord's role in the chart (Mercury 2/11 AK in 12th, etc.)",
+     "mark": "covered"
+    },
+    {
+     "part": "past",
+     "type": "interp",
+     "claim": "Past periods offered as checks on birth time and reading",
+     "mark": "covered"
+    },
+    {
+     "part": "past",
+     "type": "interp",
+     "claim": "Mercury MD: family that moved or spent heavily",
+     "mark": "partial"
+    },
+    {
+     "part": "past",
+     "type": "fact",
+     "claim": "First Sade Sati Oct 1982-Dec 1990 overlapped: pressured school years",
+     "mark": "partial"
+    },
+    {
+     "part": "past",
+     "type": "interp",
+     "claim": "Ketu MD: unconventional/interrupted studies, questioning streak",
+     "mark": "covered"
+    },
+    {
+     "part": "past",
+     "type": "fact",
+     "claim": "Kantaka Dhaiya Mar 1993-Feb 1996 closed the Ketu period",
+     "mark": "covered"
+    },
+    {
+     "part": "past",
+     "type": "fact",
+     "claim": "Venus MD: 10th lord own sign, Malavya, conjunct 7th lord Saturn",
+     "mark": "partial"
+    },
+    {
+     "part": "past",
+     "type": "interp",
+     "claim": "Venus MD: classic period for marriage and career",
+     "mark": "covered"
+    },
+    {
+     "part": "past",
+     "type": "fact",
+     "claim": "Ashtama Dhaiya Jul 2002-May 2005; second Sade Sati from Nov 2011",
+     "mark": "covered"
+    },
+    {
+     "part": "past",
+     "type": "fact",
+     "claim": "Sun MD ran under peak and setting of second Sade Sati (to Jan 2020)",
+     "mark": "partial"
+    },
+    {
+     "part": "past",
+     "type": "interp",
+     "claim": "Sun MD: retreat/relocation, heavy responsibility, health attention, father, inward turn",
+     "mark": "partial"
+    },
+    {
+     "part": "current_md",
+     "type": "fact",
+     "claim": "Moon in 4th, a kendra (home, mother, property, peace)",
+     "mark": "covered"
+    },
+    {
+     "part": "current_md",
+     "type": "fact",
+     "claim": "Debilitated but bright; cancelled through Venus",
+     "mark": "covered"
+    },
+    {
+     "part": "current_md",
+     "type": "fact",
+     "claim": "Adult avastha",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "current_md",
+     "type": "fact",
+     "claim": "Rules 12th; in exchange with Mars so period carries Mars's matters",
+     "mark": "partial"
+    },
+    {
+     "part": "current_md",
+     "type": "fact",
+     "claim": "Moon and 10th-house Venus/Saturn aspect each other: career and emotions linked",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "current_md",
+     "type": "interp",
+     "claim": "BPHS: strong Moon in kendra good; debilitated Moon loss of wealth; mixed",
+     "mark": "covered"
+    },
+    {
+     "part": "current_md",
+     "type": "interp",
+     "claim": "Mixed decade centred on home, family, inner life; costly in expenditure",
+     "mark": "covered"
+    },
+    {
+     "part": "current_md",
+     "type": "interp",
+     "claim": "Improves in second half as Venus takes over",
+     "mark": "partial"
+    },
+    {
+     "part": "current_md",
+     "type": "fact",
+     "claim": "Antardasha table Moon through Sun with dates",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Moon",
+     "type": "interp",
+     "claim": "Moon-Moon: settling in, lethargy and obstacles",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Mars",
+     "type": "interp",
+     "claim": "Moon-Mars: property, home repairs, expenditure, frustration",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Rahu",
+     "type": "interp",
+     "claim": "Moon-Rahu: rivals, worry, under Kantaka Dhaiya Jan 2023-Mar 2025",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Jupiter",
+     "type": "interp",
+     "claim": "Moon-Jupiter: status, celebration, family events, relief",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Saturn",
+     "type": "fact",
+     "claim": "Saturn rules 6/7, in 10th kendra, friendly sign",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Saturn",
+     "type": "fact",
+     "claim": "Saturn 7th from Moon, mutual full aspect with Moon",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "ad:Saturn",
+     "type": "interp",
+     "claim": "BPHS good results in kendra: business gains, home/land, favour of powerful, children",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Saturn",
+     "type": "interp",
+     "claim": "Functional malefic lordships: heavy work, dependants, partner's affairs, serious mood",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Saturn",
+     "type": "interp",
+     "claim": "Solid progress in work and property",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Saturn",
+     "type": "fact",
+     "claim": "Saturn transit 8th from lagna/5th from Moon demanding; Jupiter on lagna protects",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Saturn",
+     "type": "fact",
+     "claim": "Rahu-Ketu shift ~5 Dec 2026: Rahu into 6th, Ketu over 12th planets",
+     "mark": "missed",
+     "input_had_it": false
+    },
+    {
+     "part": "ad:Saturn",
+     "type": "interp",
+     "claim": "Remaining months: steady delivery, conserve energy",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Mercury",
+     "type": "fact",
+     "claim": "Mercury 2/11 lord, AK, in 12th, 9th from Moon (trine from dasha lord)",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Mercury",
+     "type": "interp",
+     "claim": "BPHS wealth, favour, learning, business profit; gains and expenses both rise",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Mercury",
+     "type": "interp",
+     "claim": "Saturn into Aries Jun 2027 is 6th from Moon: favourable",
+     "mark": "contradicted"
+    },
+    {
+     "part": "ad:Mercury",
+     "type": "fact",
+     "claim": "Jupiter into Virgo 28 Nov 2027, 11th from Moon",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Mercury",
+     "type": "interp",
+     "claim": "Strongest financial and intellectual window: rising income",
+     "mark": "contradicted"
+    },
+    {
+     "part": "ad:Ketu",
+     "type": "fact",
+     "claim": "Ketu in 12th from lagna, 9th from Moon",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Ketu",
+     "type": "interp",
+     "claim": "Gains when well placed, some loss early",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Ketu",
+     "type": "interp",
+     "claim": "Pilgrimage, spiritual practice, simplification; Jupiter in Libra reinforces inward note",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Venus",
+     "type": "fact",
+     "claim": "Venus 10th lord, Amatyakaraka, own sign in 10th",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Venus",
+     "type": "interp",
+     "claim": "BPHS: status, vehicles, family growth, new homes, health, comfort",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Venus",
+     "type": "interp",
+     "claim": "Three timers agree: Venus AD, Taurus Chara dasha, Saturn into Taurus",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Venus",
+     "type": "interp",
+     "claim": "Saturn 7th from Moon: consolidation; partner's affairs need care",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Venus",
+     "type": "fact",
+     "claim": "Double transits on 7th (Aug-Oct 2029, May-Sep 2030) and 4th/10th/12th from Sep 2030",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Venus",
+     "type": "interp",
+     "claim": "Most promising stretch for recognition, senior role, home decision",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Sun",
+     "type": "interp",
+     "claim": "Moon-Sun: lagna lord in 12th; tiredness, friction with authorities",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Sun",
+     "type": "interp",
+     "claim": "Rest, elders' affairs, closing the chapter well",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Sun",
+     "type": "fact",
+     "claim": "Jupiter returns to Sagittarius 18 Feb 2031",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Mars",
+     "type": "interp",
+     "claim": "BPHS: Mars period gives land/wealth if strong, not desired results if debilitated",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Mars",
+     "type": "fact",
+     "claim": "Debilitated, combust, 12th yet cancelled, exalted D9, exchange makes it act as if in own sign in 4th",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Mars",
+     "type": "interp",
+     "claim": "Starts slowly and gathers strength",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Mars",
+     "type": "interp",
+     "claim": "Home/property, home away from birthplace, pilgrimage, teaching, institutional/spiritual work",
+     "mark": "partial"
+    },
+    {
+     "part": "ad:Mars",
+     "type": "fact",
+     "claim": "Mars MD sub-period dates (Mars to Nov 2031 ... )",
+     "mark": "covered"
+    },
+    {
+     "part": "ad:Mars",
+     "type": "interp",
+     "claim": "BPHS favours Saturn, Venus and Moon sub-periods in Mars MD (kendras)",
+     "mark": "contradicted"
+    },
+    {
+     "part": "transits",
+     "type": "fact",
+     "claim": "Current transit table 3 Nov 2026 (Saturn R Pisces, Jupiter Leo, Rahu Aquarius, Mars Cancer, Sun/Mer/Ven Libra)",
+     "mark": "partial"
+    },
+    {
+     "part": "transits",
+     "type": "interp",
+     "claim": "Saturn 5th from Moon: declining wealth, children, mental confusion",
+     "mark": "covered"
+    },
+    {
+     "part": "transits",
+     "type": "interp",
+     "claim": "Saturn 8th from lagna, demanding for health; aspects 10th, 2nd, 5th",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "transits",
+     "type": "fact",
+     "claim": "Saturn's Pisces transit ends 3 Jun 2027, returns 21 Oct 2027-24 Feb 2028",
+     "mark": "covered"
+    },
+    {
+     "part": "transits",
+     "type": "fact",
+     "claim": "Jupiter/Saturn ingresses for next six years",
+     "mark": "covered"
+    },
+    {
+     "part": "transits",
+     "type": "interp",
+     "claim": "Phaladeepika favourable houses from Moon for Jupiter and Saturn",
+     "mark": "partial"
+    },
+    {
+     "part": "transits",
+     "type": "interp",
+     "claim": "K.N. Rao double-transit method as trigger",
+     "mark": "covered"
+    },
+    {
+     "part": "transits",
+     "type": "interp",
+     "claim": "Constructive windows Jun 2027-Feb 2028, Aug 2029-Feb 2031, Feb 2031-Mar 2032",
+     "mark": "partial"
+    },
+    {
+     "part": "transits",
+     "type": "interp",
+     "claim": "Jupiter on the lagna now protects",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "sade_sati",
+     "type": "fact",
+     "claim": "Not in Sade Sati or Dhaiya now",
+     "mark": "partial"
+    },
+    {
+     "part": "sade_sati",
+     "type": "fact",
+     "claim": "Lifetime table of Sade Sati/Dhaiya phases",
+     "mark": "covered"
+    },
+    {
+     "part": "sade_sati",
+     "type": "fact",
+     "claim": "Next Ashtama Dhaiya 31 May 2032-13 Jul 2034 in Mars-Rahu to Mars-Saturn; care with health",
+     "mark": "covered"
+    },
+    {
+     "part": "sade_sati",
+     "type": "interp",
+     "claim": "Eased by Saturn's position in 11th from lagna",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "sade_sati",
+     "type": "fact",
+     "claim": "Third Sade Sati Sep 2041-Dec 2049",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "yogini",
+     "type": "interp",
+     "claim": "Yogini dasha explained: 36-year cycle of eight Yoginis, a confirming timer",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "yogini",
+     "type": "fact",
+     "claim": "Siddha (Venus) 2019-2026: benefic, softened end of Sade Sati",
+     "mark": "covered"
+    },
+    {
+     "part": "yogini",
+     "type": "fact",
+     "claim": "Sankata (Rahu) 2026-2034: most difficult Yogini",
+     "mark": "covered"
+    },
+    {
+     "part": "yogini",
+     "type": "interp",
+     "claim": "Rahu vargottama in 6th upachaya: pressure she is equipped to meet",
+     "mark": "covered"
+    },
+    {
+     "part": "yogini",
+     "type": "interp",
+     "claim": "Mangala (Moon) 2034-2035 benefic, relief",
+     "mark": "partial"
+    },
+    {
+     "part": "chara",
+     "type": "interp",
+     "claim": "Chara dasha explained (Jaimini sign-based)",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "chara",
+     "type": "fact",
+     "claim": "Vrishabha 2023-2035 dates",
+     "mark": "covered"
+    },
+    {
+     "part": "chara",
+     "type": "interp",
+     "claim": "Vrishabha = 10th house with AmK Venus and Saturn: career, standing, partnership central",
+     "mark": "missed",
+     "input_had_it": true
+    },
+    {
+     "part": "chara",
+     "type": "fact",
+     "claim": "Mithuna 2035-2036 (gains, networks) dates + meaning",
+     "mark": "partial"
+    },
+    {
+     "part": "chara",
+     "type": "fact",
+     "claim": "Karka 2036-2043 (12th, inward/foreign chapter) dates + meaning",
+     "mark": "partial"
+    },
+    {
+     "part": "overview",
+     "type": "fact",
+     "claim": "Ten-year summary table",
+     "mark": "covered"
+    },
+    {
+     "part": "overview",
+     "type": "interp",
+     "claim": "Key window Apr 2029-early 2031 (Moon-Venus + Saturn over 10th + Jupiter over Moon + Taurus Chara)",
+     "mark": "partial"
+    },
+    {
+     "part": "overview",
+     "type": "interp",
+     "claim": "Mars MD follows from Jun 2031 under Jupiter's return",
+     "mark": "covered"
+    },
+    {
+     "part": "overview",
+     "type": "interp",
+     "claim": "Demanding stretch mid-2032 to mid-2034 (Dhaiya + Sankata); not one to fear",
+     "mark": "covered"
+    }
+   ]
+  },
+  "contradictions": [
+   "Saturn in Aries (6th from Moon, Jun 2027-): benchmark favourable (Phaladeepika 26.22); candidate says debilitated so 'the usual relief from enemies and worries fails'",
+   "Moon-Mercury: benchmark 'strongest financial and intellectual window, rising income'; candidate 'money that is hard to keep and gains that flow out'",
+   "Mars MD sub-periods: benchmark says BPHS favours Saturn/Venus/Moon sub-periods; candidate calls Mars-Saturn 'the most testing stretch of the Mars period'",
+   "Key window: benchmark Moon-Venus Apr 2029-early 2031; candidate Mars-Mars Jun-Nov 2031 (Moon-Venus named only as 'brightest')",
+   "Internal: Mars-Mercury called 'the most demanding of the Mars stretches' while the ten-year summary and rows call Mars-Saturn 'the most testing stretch of the Mars period'"
+  ],
+  "accuracy": {
+   "score": 95.3,
+   "checked": 86,
+   "errors": [
+    "Venus MD: 'a Sade Sati from late 2011 to early 2017 also overlap it' - Venus MD ends Jun 2015 and the Sade Sati runs Nov 2011-Jan 2020 (2017 is the end of the peak, not of the overlap or the cycle)",
+    "Mars-Jupiter: Jupiter 'also forms the cancellation of Mars's weakness' - chart: c2 (exaltation planet in kendra) is false; the cancelling factors are the Moon, Saturn and the D9 exaltation (input listed Jupiter as 'forms Neecha Bhanga (Mars)', so input-induced)",
+    "Moon-Saturn: 'strain with the wife and children' - native is female (text copied without adapting gender)",
+    "Moon-Venus: 'happiness with the wife and children' - same gender error"
+   ],
+   "note": "All MD/AD dates, Mars-MD sub-period ends, Jupiter/Saturn ingress dates, yogini and chara dates, karaka roles (Moon PK, Mars MK, Venus AmK), house-from-dasha-lord counts (Jupiter 6th from Mars, Saturn/Venus 11th from Mars, Rahu-Mars mutual aspect) verified. Double-transit spans are envelopes of intermittent windows (e.g. 10th 'Aug 2029 to May 2032' is six separate spells) - counted correct but stretched."
+  },
+  "groundedness": {
+   "score": 90.0,
+   "checked": 40,
+   "unsupported": [
+    "Mars-Rahu: 'this stretch is among the hardest in every source' (no source comparison in input)"
+   ],
+   "stretched": [
+    "Mars-Mars as 'the one that matters most in the next decade' / 'top of the chart's functional ranking' for a 5-month own-sub-period of a combust debilitated planet",
+    "Double-transit clusters given as continuous spans (10th Aug 2029-May 2032; 9th Jun 2027-Jan 2030)",
+    "Mars-Jupiter 'tied directly to the softened side of the period' (rests on the mis-stated Jupiter cancellation)",
+    "Mercury MD 'family life that was not always settled'",
+    "Mars-Mercury 'most demanding of the Mars stretches for the number of difficult readings it carries' (counts readings, not chart strength)",
+    "Moon period 'results gather in the middle of the period' (phase rule applied to 17 deg Moon, while Venus sub-period is the strong one)"
+   ],
+   "used_does_not_hold": []
+  },
+  "tone": {
+   "scores": {
+    "warmth": 4,
+    "term_explanation": 5,
+    "specificity": 4,
+    "honesty_uncertainty": 4,
+    "structure": 3
+   },
+   "score": 80.0,
+   "examples": {
+    "warmth": "'These are patterns to compare with your own experience; the decisions stay yours.'",
+    "term_explanation": "'an Ashtama Dhaiya (Saturn's two-and-a-half-year pass through the 8th sign from the Moon)'",
+    "specificity": "'It is the 6th from Mars, which one school reads as unfavourable, and the Dhaiya ... covers all of it'",
+    "honesty_uncertainty": "'the texts disagree on how much of a yogakaraka's yoga shows in its own stretch'",
+    "structure": "No visible MD/AD/transit/Sade Sati tables (benchmark has six); long prose list of Jupiter/Saturn sign changes; summary only as hidden rows table"
+   }
+  },
+  "guardrails": {
+   "violations": 1,
+   "items": [
+    "Fear language stacking in Mars-Ketu ('sudden hazards, quarrels with relatives, family disputes and a pull to leave home ... Keep care with hazards') plus Sankata ('setbacks, health strain, separations, legal or official trouble')"
+   ],
+   "watch": [
+    "Ashtama Dhaiya 'losses, strain on the body and separation listed' is hedged with 'not a forecast' - not counted",
+    "'Advise rest toward its end' (Moon-Sun) reads as a writer instruction"
+   ]
+  },
+  "overall": 74.0,
+  "key_window": {
+   "benchmark": "Apr 2029 - early 2031 (Moon-Venus, Saturn over the 10th, Jupiter over the Moon, Taurus Chara)",
+   "candidate": "Mars-Mars Jun - Nov 2031 (yogakaraka's own stretch); Moon-Venus 2029-2030 named 'brightest'",
+   "agrees": false,
+   "note": "Adjacent but different: the candidate's key stretch starts five months after the benchmark window ends; both agree Moon-Venus is the best of the Moon period and that the 2032-2034 Ashtama Dhaiya is the demanding stretch."
+  }
+ },
+ "benchmark_errors": [
+  "yogas/guidance: none found contradicting chart facts. Checked: Mars combust (true), Venus D9 Virgo debilitated, Mars D9 Capricorn exalted, Sun D9 Leo, Sun-Ketu 3 deg 31', Mercury-Sun 22 deg 38', Moon bright (131.6 deg from Sun), NB conditions (Moon c6; Mars c1/c4/c6).",
+  "yogas: 'Venus's (cancelled) navamsa debility' - the chart data computes no D9 neecha bhanga for Venus; unverifiable rather than wrong, so the candidate's uncancelled framing is not counted as a miss.",
+  "timeline: 'Saturn's position in the 11th from the lagna' easing the 2032-34 Dhaiya - Saturn in Gemini is the 11th from the lagna (correct); no error."
+ ],
+ "top_gaps": [
+  {
+   "gap": "Yogas: no list of absent yogas (Gajakesari, Hamsa, Ruchaka, Viparita, Kemadruma, Lakshmi/Saraswati) and no Sade Sati status or birth-panchang notes",
+   "section": "yogas",
+   "input_had_it": false
+  },
+  {
+   "gap": "Yogas: no synthesis or per-yoga weights; Malavya framed as near-nominal against the benchmark's 'High'",
+   "section": "yogas",
+   "input_had_it": true
+  },
+  {
+   "gap": "Timeline: key window disagrees (Mars-Mars Jun-Nov 2031 vs Moon-Venus Apr 2029-early 2031) and Moon-Mercury read as money-outflow rather than the best financial window; Mars-Saturn called most testing although BPHS favours it",
+   "section": "timeline",
+   "input_had_it": true
+  },
+  {
+   "gap": "Timeline: no current-transit table, no Rahu-Ketu shift (Dec 2026), no Jupiter-on-lagna protection, no third Sade Sati, no Yogini/Chara explanation or Chara sign meanings",
+   "section": "timeline",
+   "input_had_it": false
+  },
+  {
+   "gap": "Guidance: missing the behavioural advice that carries the benchmark (let herself be seen, use Mars physically, decide home matters slowly, let go of grievances) and the Saturn remedy for the running sub-period; Moon framed as a strength instead of an emotional-intensity challenge",
+   "section": "guidance",
+   "input_had_it": true
+  }
+ ],
+ "repetition": {
+  "count": 36,
+  "items": [
+   {
+    "point": "Mars is yogakaraka (rules 4th and 9th)",
+    "sections": [
+     "glance",
+     "personality",
+     "mind",
+     "career",
+     "finance",
+     "relationships",
+     "family",
+     "spirituality",
+     "yogas",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Mars's debility cancelled (Moon in kendra, exalted in D9, 3 of 6)",
+    "sections": [
+     "glance",
+     "mind",
+     "career",
+     "finance",
+     "family",
+     "spirituality",
+     "yogas",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Mars combust / overpowered by the Sun",
+    "sections": [
+     "glance",
+     "personality",
+     "mind",
+     "finance",
+     "health",
+     "family",
+     "spirituality",
+     "yogas",
+     "timeline"
+    ]
+   },
+   {
+    "point": "Moon debilitated, cancelled via Venus (lord of Taurus) in a kendra, 1 of 6",
+    "sections": [
+     "glance",
+     "personality",
+     "mind",
+     "finance",
+     "health",
+     "spirituality",
+     "yogas",
+     "timeline"
+    ]
+   },
+   {
+    "point": "Waxing Moon counts as a benefic",
+    "sections": [
+     "glance",
+     "personality",
+     "mind",
+     "career",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Lagna lord Sun in 12th: results with effort",
+    "sections": [
+     "glance",
+     "personality",
+     "health",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Crowded 12th (Sun, Mars, Mercury, Ketu)",
+    "sections": [
+     "glance",
+     "personality",
+     "health",
+     "spirituality",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Sun moolatrikona in D9",
+    "sections": [
+     "glance",
+     "personality",
+     "relationships",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Mercury, lord of 2nd and 11th, in 12th: money flows out",
+    "sections": [
+     "finance",
+     "mind",
+     "family",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Mercury in an enemy sign",
+    "sections": [
+     "glance",
+     "mind",
+     "family",
+     "relationships",
+     "spirituality",
+     "yogas",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Mercury debilitated in D9",
+    "sections": [
+     "glance",
+     "mind",
+     "finance",
+     "relationships",
+     "spirituality",
+     "timeline"
+    ]
+   },
+   {
+    "point": "Mercury is Atmakaraka",
+    "sections": [
+     "glance",
+     "personality",
+     "mind",
+     "career",
+     "spirituality",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Jupiter moolatrikona in 5th",
+    "sections": [
+     "glance",
+     "personality",
+     "mind",
+     "finance",
+     "relationships",
+     "family",
+     "spirituality",
+     "yogas",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Jupiter is the only planet aspecting the lagna",
+    "sections": [
+     "glance",
+     "personality",
+     "health",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Jupiter aspects the 9th and 11th",
+    "sections": [
+     "finance",
+     "relationships",
+     "family",
+     "spirituality"
+    ]
+   },
+   {
+    "point": "Jupiter rules the 8th: gifts with a testing side",
+    "sections": [
+     "glance",
+     "personality",
+     "finance",
+     "health",
+     "spirituality",
+     "yogas"
+    ]
+   },
+   {
+    "point": "Venus own sign in 10th forms Malavya",
+    "sections": [
+     "glance",
+     "career",
+     "relationships",
+     "yogas",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Venus debilitated in D9 (Virgo)",
+    "sections": [
+     "glance",
+     "career",
+     "relationships",
+     "yogas",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Saturn with Venus in 10th, ~4.8-5 degrees apart",
+    "sections": [
+     "glance",
+     "career",
+     "relationships",
+     "yogas"
+    ]
+   },
+   {
+    "point": "Saturn's aspect on the 4th/Moon: sober home life",
+    "sections": [
+     "mind",
+     "family",
+     "spirituality",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Rahu and Ketu vargottama",
+    "sections": [
+     "glance",
+     "personality",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Rahu in 6th good for overcoming rivals",
+    "sections": [
+     "career",
+     "health",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Sun-Mars Raja yoga (kendra-trikona lords)",
+    "sections": [
+     "glance",
+     "personality",
+     "career",
+     "yogas",
+     "timeline"
+    ]
+   },
+   {
+    "point": "Dhana yoga of Sun/Mars/Mercury in the 12th",
+    "sections": [
+     "glance",
+     "personality",
+     "finance",
+     "yogas",
+     "timeline"
+    ]
+   },
+   {
+    "point": "Sunapha (Jupiter 2nd from Moon) steadies the emotions/wealth",
+    "sections": [
+     "mind",
+     "finance",
+     "yogas",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Budhaditya, Mercury 22.6 deg from Sun, not combust",
+    "sections": [
+     "mind",
+     "career",
+     "yogas"
+    ]
+   },
+   {
+    "point": "Manglik from lagna only, cancelled on three counts",
+    "sections": [
+     "glance",
+     "relationships",
+     "yogas"
+    ]
+   },
+   {
+    "point": "Moon-Mars sign exchange ties mind/home and 12th",
+    "sections": [
+     "glance",
+     "mind",
+     "yogas",
+     "timeline"
+    ]
+   },
+   {
+    "point": "Lagna 18.9 deg, sign changes only if time off ~45 min",
+    "sections": [
+     "glance",
+     "personality",
+     "health"
+    ]
+   },
+   {
+    "point": "Moon in the 4th is one of its best placements",
+    "sections": [
+     "mind",
+     "health",
+     "timeline"
+    ]
+   },
+   {
+    "point": "Amala yoga / clean reputation",
+    "sections": [
+     "yogas",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Home away from birthplace (4th lord in 12th / 12th lord in 4th)",
+    "sections": [
+     "personality",
+     "family",
+     "spirituality"
+    ]
+   },
+   {
+    "point": "Moon-Saturn (current, to Apr 2027) is demanding/mixed",
+    "sections": [
+     "career",
+     "relationships",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Moon-Mercury Apr 2027-Sep 2028: budget, plan, not big moves",
+    "sections": [
+     "mind",
+     "finance",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Moon-Venus Apr 2029-Dec 2030: comfort, home, career gains",
+    "sections": [
+     "career",
+     "timeline",
+     "guidance"
+    ]
+   },
+   {
+    "point": "Mars-Mars Jun-Nov 2031 the strongest stretch",
+    "sections": [
+     "family",
+     "spirituality",
+     "timeline",
+     "guidance"
+    ]
+   }
+  ]
+ },
+ "cross_section_contradictions": {
+  "count": 8,
+  "items": [
+   {
+    "topic": "Tone of the Moon",
+    "severity": "moderate",
+    "side_a": {
+     "section": "guidance",
+     "quote": "A steadying Moon. The Moon is waxing, which makes it a benefic here, and it sits in the fourth house."
+    },
+    "side_b": {
+     "section": "spirituality",
+     "quote": "Saturn and Ketu both aspect it, and the texts associate that with trouble over property and strain around home."
+    },
+    "also": "family: 'BPHS says domestic comforts are lacking'; mind: 'Worry or inner tension can gather'"
+   },
+   {
+    "topic": "Weight of Malavya",
+    "severity": "moderate",
+    "side_a": {
+     "section": "yogas",
+     "quote": "some modern writers call the yoga largely nominal in that case. Expect it to show in taste, charm and domestic happiness more than as a guarantee of wealth."
+    },
+    "side_b": {
+     "section": "career",
+     "quote": "A strong career-house lord placed in that same house is a clear signature ... renown, honour and prosperity"
+    },
+    "also": "guidance: 'one of the brightest supports in the chart'"
+   },
+   {
+    "topic": "Effect of Venus's D9 debility",
+    "severity": "moderate",
+    "side_a": {
+     "section": "career",
+     "quote": "there it sits in the first house, not the 6th, 8th or 12th, so the usual caution about a routine or ordinary career does not apply."
+    },
+    "side_b": {
+     "section": "relationships",
+     "quote": "A debilitated navamsa gives less of the planet's good results ... the strong promise of the main chart is partly held back"
+    }
+   },
+   {
+    "topic": "Which periods need health care",
+    "severity": "moderate",
+    "side_a": {
+     "section": "health",
+     "quote": "Three stretches stand out ... July to December 2028 ... March to August 2029 ... November 2031 to November 2032"
+    },
+    "side_b": {
+     "section": "guidance",
+     "quote": "The Mars-Saturn stretch from October 2033 to December 2034 asks for the most care in this area"
+    },
+    "also": "timeline calls the 2032-2034 Ashtama Dhaiya the time for 'regular health checks'; health omits both"
+   },
+   {
+    "topic": "Hardest Mars sub-period",
+    "severity": "minor",
+    "side_a": {
+     "section": "timeline",
+     "quote": "[Mars-Mercury] This is the most demanding of the Mars stretches for the number of difficult readings it carries."
+    },
+    "side_b": {
+     "section": "guidance",
+     "quote": "The Mars-Saturn stretch from October 2033 to December 2034 asks for the most care"
+    },
+    "also": "timeline's own summary row: 'Mars-Saturn: The most testing stretch of the Mars period'"
+   },
+   {
+    "topic": "Mars-Jupiter 2032-2033",
+    "severity": "minor",
+    "side_a": {
+     "section": "finance",
+     "quote": "The Mars-Jupiter sub-period, November 2032 to October 2033, is the supportive one"
+    },
+    "side_b": {
+     "section": "timeline",
+     "quote": "the Dhaiya (Saturn in Gemini, May 2032 to Jul 2034) covers all of it, which pulls the reading down. Keep health and dealings with officials in view."
+    }
+   },
+   {
+    "topic": "Tone of Moon-Venus 2029-2030",
+    "severity": "minor",
+    "side_a": {
+     "section": "career",
+     "quote": "The Venus sub-period ... The tone is active and mixed."
+    },
+    "side_b": {
+     "section": "guidance",
+     "quote": "one of the most comfortable spells for building a home and strengthening family ties"
+    }
+   },
+   {
+    "topic": "Jupiter as 8th lord",
+    "severity": "minor",
+    "side_a": {
+     "section": "spirituality",
+     "quote": "a strong 8th lord in a fortunate house can intensify the harder side of the 8th"
+    },
+    "side_b": {
+     "section": "health",
+     "quote": "Here Jupiter is strong, so this is a caution rather than a forecast, and good rest supports steady recovery."
+    }
+   }
+  ]
+ },
+ "readability": {
+  "score": 3,
+  "reason": "Sentences are plain and most terms are glossed on first use, and the Timeline's 'Does this match?' framing works. Against that: 36 points recur in 3+ sections (the same Mars/Moon/Mercury/Jupiter dignity facts are re-explained almost everywhere); the glance uses visible routing wording ('Personality covers the Sun, and Spirituality covers the twelfth house', 'Health covers Rahu'); author-citation density is high (Raman, Braha, Rath, Frawley, Foss, Trivedi, Murthy, B.S. Rao, PanchangBodh); a few writer instructions leak ('Advise rest toward its end', 'avoid any reading about having or not having children', 'Old trade lists are best translated into modern families of work'); 'wife' appears for a female native; and the Timeline has no visible tables, so 3,000+ words of dated prose are hard to scan."
+ },
+ "words": {
+  "candidate_visible_prose_total": 13982,
+  "candidate_rows_table_words": 516,
+  "candidate_total_incl_rows": 14498,
+  "benchmark_total_excl_sources": 15764,
+  "benchmark_sources": 695,
+  "ratio_prose_vs_benchmark": 0.89,
+  "ratio_incl_rows_vs_benchmark": 0.92,
+  "per_section": {
+   "glance": [
+    928,
+    0,
+    2262
+   ],
+   "personality": [
+    1141,
+    0,
+    1292
+   ],
+   "mind": [
+    1149,
+    0,
+    949
+   ],
+   "career": [
+    1458,
+    0,
+    1586
+   ],
+   "finance": [
+    867,
+    58,
+    882
+   ],
+   "health": [
+    521,
+    62,
+    568
+   ],
+   "relationships": [
+    1025,
+    0,
+    1043
+   ],
+   "family": [
+    878,
+    0,
+    952
+   ],
+   "spirituality": [
+    996,
+    0,
+    753
+   ],
+   "yogas": [
+    1165,
+    0,
+    1177
+   ],
+   "timeline": [
+    3000,
+    310,
+    3289
+   ],
+   "guidance": [
+    854,
+    86,
+    1011
+   ]
+  },
+  "per_section_note": "[candidate prose words, candidate rows-table words, benchmark words]"
+ }
+}

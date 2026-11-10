@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "planet_in_house/ketu/1",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 1
+    },
+    "summary": "Ketu in the lagna is classically adverse for body, standing and reputation, giving a lean or weak constitution and an unsettled, inward or unusual personality; modern authors add intuition, psychic sensitivity and a spiritual bent.",
+    "themes": [
+      "self and body",
+      "detachment and intuition",
+      "reputation",
+      "marriage axis (Rahu in 7th)"
+    ],
+    "common_outcomes": [
+      "Weak, lean or emaciated constitution (Raman HJH; Hindu Predictive Astrology; Braha; Foss name 83 'disease')",
+      "Unhappiness or loss of position (Phaladeepika 8.28)",
+      "Instability, restlessness, wandering disposition (Raman HJH; Braha)",
+      "Intuition, psychic or spiritual leanings (Raman HJH; Braha)"
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 8.28: ungrateful, a tale-bearer, an outcast, associates with the wicked, bodily deformity",
+      "Chamatkar Chintamani (via Bhrigu Sutras): troublesome to family members, wind complaints",
+      "Bhrigu Sutras 1-4 (Rahu or Ketu): in Aries, Taurus or Cancer, kind-hearted and fond of enjoyments; with a malefic aspect, facial marks",
+      "Braha: makes the person go unnoticed or seem invisible to others"
+    ],
+    "by_area": {
+      "personality": "Morbid imagination, strange appetites, excitability, possible deceitfulness (Raman HJH); shy, changeable, many-faceted, intuitive and discriminating (Braha); diplomatic (Hindu Predictive Astrology).",
+      "career": "Phaladeepika 8.28: fallen from position.",
+      "finance": "",
+      "health": "Weak constitution and emaciated figure (Raman HJH; Hindu Predictive Astrology); wind troubles (Chamatkar Chintamani); danger from poisons or contaminated food (Braha); disease (Foss name 83, especially in childhood).",
+      "relationships": "Married life unhappy unless other configurations help (Raman HJH); ups and downs, spouse may be domineering (Braha).",
+      "family": "Troublesome to family members (Chamatkar Chintamani).",
+      "spirituality": "Psychic powers likely (Raman HJH); interest in enlightenment and the occult (Braha)."
+    },
+    "strengtheners": [
+      "Ketu in Gemini or Virgo: psychic, spiritual, profound discrimination, respected (Braha)",
+      "Ketu in a kendra connected with a kendra/trikona lord becomes a yogakaraka (Phaladeepika 20, sl. ~52)"
+    ],
+    "weakeners_or_cancellations": [
+      "Ketu or Rahu in the lagna while the lagna lord is in the 6th, 8th or 12th: bodily trouble in the lagna lord's dasa (Jataka Parijata 11.31)",
+      "Ketu in Cancer or Leo heightens the negatives (Braha)",
+      "Ketu in the lagna with the 8th lord is quoted from Bhavartha Ratnakara as shortening life (Bhrigu Sutras commentary, 8th-house Saturn section)"
+    ],
+    "lagna_or_context_notes": "Rahu is always in the 7th. Phaladeepika 8.34: Ketu gives results like Mars. Braha says Ketu gives its full effects around the 48th year. Node dignity is disputed: Braha treats Gemini and Virgo as the only agreed strong signs for either node (and Cancer/Leo as weak); Chamatkar Chintamani, as quoted in the Bhrigu Sutras commentary, singles out Aries, Virgo and Scorpio (and Gemini, Virgo for the 2nd) as good signs for Ketu.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.28 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Ungrateful, unhappy, a tale-bearer, an outcast, fallen from position, with a deformed body, associating with the wicked.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 1-4 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 1st: the spouse may lose a pregnancy; in Aries, Taurus or Cancer, kind-hearted and fond of enjoyments; aspected by a malefic, facial marks.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 1st (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Troublesome to family members; suffers wind troubles.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Jataka Parijata (Vaidyanatha) 11.31 (tr. V. Subrahmanya Sastri, 1932, vol. II)",
+        "view": "Ketu or Rahu in the lagna with the lagna lord in a dusthana: privation of a limb in the relevant dasa.",
+        "url": "https://archive.org/details/JatakaParijata1932"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the first house ('Planets in the First House')",
+        "view": "Psychic powers likely; weak constitution, emaciated; instability and deceitfulness; morbid imagination, strange appetites, excitability, wandering; married life unhappy unless helped.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Emaciated, weak constitution, heavy perspiration, weak-hearted, slender, piles, diplomatic.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 1st house' section",
+        "view": "Bad for married life; intuitive, spiritual or ascetic; discriminative; occult interest; weak constitution; danger from poisons; goes unnoticed; changeable; lack of confidence. Gemini/Virgo: psychic, spiritual, respected.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu, the South Node (commentary on the 108-name list of the graha), names 83",
+        "view": "'In the first house he causes disease' (83); Foss notes Ketu rules endings and may bring health issues, especially in childhood.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. Phaladeepika is entirely negative; Raman and Braha add psychic or spiritual capacity. The Bhrigu Sutras give the same sign-based relief (Aries, Taurus, Cancer) as for Rahu, while Braha treats Cancer as weak for the nodes.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe an inward, perceptive and somewhat elusive personality; encourage grounding routines and self-care. Avoid words like 'outcast' or predictions of illness; mention partnership balance (Rahu in 7th) gently."
+  },
+  {
+    "id": "planet_in_house/ketu/2",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 2
+    },
+    "summary": "Ketu in the 2nd is classically poor for speech, learning, family harmony and finances, with mouth or eye complaints; a minority view (Foss's name-list, Ketu in Gemini/Virgo or Aries) gives distinctive speech and comforts.",
+    "themes": [
+      "speech",
+      "wealth and food",
+      "family",
+      "learning"
+    ],
+    "common_outcomes": [
+      "Harsh, vile or poor speech (Phaladeepika 8.28; Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Lack of wealth or learning; financial liabilities (Phaladeepika 8.28; Bhrigu Sutras 5-6; Raman HJH; Braha)",
+      "Mouth or eye complaints (Chamatkar Chintamani via Bhrigu Sutras; Braha)",
+      "Family troubles (Chamatkar Chintamani; Braha)"
+    ],
+    "rare_outcomes": [
+      "Depends on others for food (Phaladeepika 8.28)",
+      "Success in spiritualism, navigation, mystical arts or hospital work (Raman HJH)",
+      "Friction with government (Chamatkar Chintamani)",
+      "Foss names 67 and 82: distinct, penetrating speech and 'many forms of happiness'"
+    ],
+    "by_area": {
+      "personality": "Quiet, quick in perception, peevish, thrifty (Hindu Predictive Astrology); depressive tendency (Braha).",
+      "career": "Spiritualism, navigation, mystical arts, hospitals (Raman HJH).",
+      "finance": "Devoid of wealth (Phaladeepika 8.28); loss through fraud and deception (Raman HJH); loss of wealth (Chamatkar Chintamani); poverty (Bhrigu Sutras 5-6).",
+      "health": "Diseases of the mouth (Chamatkar Chintamani); speech problems, poor food or intoxicants (Braha); disease and loss of children (Bhrigu Sutras 5-6).",
+      "relationships": "",
+      "family": "Troubles from family members (Chamatkar Chintamani); family life marred (Braha).",
+      "spirituality": "Braha (Gemini/Virgo): especially well versed in spiritual subjects."
+    },
+    "strengtheners": [
+      "Ketu in Aries, Gemini or Virgo: all comforts (Chamatkar Chintamani)",
+      "Ketu in Gemini or Virgo: good education, wealth, fine speaker (Braha)",
+      "Node in the 2nd associated with or aspected by the 5th or 9th lord: wealth and longevity (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)"
+    ],
+    "weakeners_or_cancellations": [
+      "Association with a malefic: marks on the lips (Bhrigu Sutras 5-6)",
+      "A malefic joined with the 2nd/7th lord while a node is in the 2nd/7th: dangerous dasa (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)"
+    ],
+    "lagna_or_context_notes": "Rahu is in the 8th. Braha: whenever the nodes are in the 2nd or 8th, happiness is disturbed. Node dignity is disputed: Braha treats Gemini and Virgo as the only agreed strong signs for either node (and Cancer/Leo as weak); Chamatkar Chintamani, as quoted in the Bhrigu Sutras commentary, singles out Aries, Virgo and Scorpio (and Gemini, Virgo for the 2nd) as good signs for Ketu.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.28 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Without learning or wealth, vile speech, a sinister look, eats at others' tables.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 5-6 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 2nd: poverty, bodily disease, loss of children, dark complexion; with a malefic, mark on the lips.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 2nd (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Mouth diseases, bitterness with the government, loss of wealth, family troubles; in Aries, Gemini or Virgo, all comforts.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Uttara Kalamrita (Kalidasa) Kanda I, section 6, slokas 14-15 (tr. S.S. Sareen)",
+        "view": "A node in the 2nd or 7th with or aspected by the 5th or 9th lord gives wealth and longevity; a malefic with the 2nd/7th lord makes the dasa dangerous.",
+        "url": "https://archive.org/details/uttara-kalamrita-kalidas"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the second house ('Planets in the Second House')",
+        "view": "Bad speaker; loss through fraud and deception; financial liabilities; success in spiritualism, navigation, mystical arts, hospitals.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Bad speaker, quiet, quick in perception, peevish, harsh, thrifty and economical.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 2nd house' section",
+        "view": "Poor and unhappy, possibly foul or untruthful speech, speech problems, bad food or intoxicants, education and family life marred. Gemini/Virgo: good education, spiritual knowledge, wealth, excellent speaker.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu, the South Node (commentary on the 108-name list of the graha), names 67, 82",
+        "view": "In the 2nd Ketu gives distinct speech (67) and many forms of happiness (82); Foss reports Indian jyotishis objected to the latter but he has seen it confirmed.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. Foss's 108-name list gives 'many forms of happiness' in the 2nd, which Foss says leading Indian astrologers dispute; all classical and other modern sources are negative except for Ketu in Aries/Gemini/Virgo.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of words that are few but pointed, and of the value of steady habits around food and money. Avoid predicting poverty or family breakdown."
+  },
+  {
+    "id": "planet_in_house/ketu/3",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 3
+    },
+    "summary": "Ketu in the 3rd is its most favourable house in several sources: long life, courage, strength, wealth and fame, at the cost of a sibling or of harmony with siblings.",
+    "themes": [
+      "courage and strength",
+      "siblings",
+      "fame",
+      "detachment from desire"
+    ],
+    "common_outcomes": [
+      "Long life, strength, wealth and fame (Phaladeepika 8.29; Hindu Predictive Astrology; Braha)",
+      "Courageous, adventurous (Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Loss of, or little happiness from, a sibling (Phaladeepika 8.29; Braha)",
+      "Victory over enemies and great prosperity (Chamatkar Chintamani via Bhrigu Sutras)"
+    ],
+    "rare_outcomes": [
+      "Happy married life and good food (Phaladeepika 8.29)",
+      "Hallucinations or mental disturbance (Raman HJH)",
+      "Foss name 62: enmity in the 3rd house",
+      "Artistic talent and popularity (Hindu Predictive Astrology)"
+    ],
+    "by_area": {
+      "personality": "Strong and adventurous but fearful underneath ('funky') (Raman HJH); interesting, respected, brave (Braha).",
+      "career": "Gemini/Virgo: excellence in writing or communication, organisational talent (Braha).",
+      "finance": "Wealthy (Phaladeepika 8.29; Hindu Predictive Astrology); abundance of oilseeds (Bhrigu Sutras 7-8).",
+      "health": "Long-lived and strong (Phaladeepika 8.29).",
+      "relationships": "Happy with spouse (Phaladeepika 8.29); controversies and no friends (Chamatkar Chintamani).",
+      "family": "Loss of a brother (Phaladeepika 8.29); little or no happiness from siblings (Braha).",
+      "spirituality": "Good placement for a seeker: fewer cravings and non-attachment to one's efforts (Braha)."
+    },
+    "strengtheners": [
+      "Uttara Kalamrita 4.9: Ketu is most benefic in the 3rd",
+      "Malefics in upachaya houses (Uttara Kalamrita 4.16)",
+      "Ketu in Gemini or Virgo (Braha)"
+    ],
+    "weakeners_or_cancellations": [
+      "Frawley lists the 3rd among Ketu's 'difficult houses' calling for remedies",
+      "Association with a benefic gives a mark on the neck (Bhrigu Sutras 7-8)"
+    ],
+    "lagna_or_context_notes": "Rahu is in the 9th.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.29 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Long life, strength, wealth and fame; lives happily with his wife and eats good food; loses a brother.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 7-8 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 3rd: abundance of oilseeds; with a benefic, a mark on the neck.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 3rd (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Enemies vanquished; controversies; great prosperity; no friends.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Uttara Kalamrita (Kalidasa) Kanda I, section 4, sloka 9 (tr. S.S. Sareen)",
+        "view": "Ketu is most benefic when in the 3rd bhava.",
+        "url": "https://archive.org/details/uttara-kalamrita-kalidas"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the third house ('Planets in the Third House')",
+        "view": "Strong and adventurous but fearful; the mind is disturbed by hallucinations.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Adventurous, strong, artistic, wealthy, popular.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 3rd house' section",
+        "view": "Similar to Rahu here but less beneficial: respected, lively, brave; little happiness from siblings; good for a spiritual seeker. Gemini/Virgo: spiritual, discriminating, talented communicator or writer.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu, the South Node (commentary on the 108-name list of the graha), names 62",
+        "view": "In the 3rd Ketu causes enmity (62), with siblings, supporters or helpers.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. on remedial measures for Ketu (pp. ~258-259)",
+        "view": "Ketu in difficult houses such as the 3rd, 6th or 8th, or with a weak dispositor or malefic aspects, is a case for remedies.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. Uttara Kalamrita and Phaladeepika rate the 3rd highly, while Frawley lists it among Ketu's difficult houses and Foss's name-list gives enmity. Raman HJH is mixed (strong but fearful).",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe courage, endurance and self-made success, with a detached attitude to ambition; mention sibling relations as needing care rather than predicting loss."
+  },
+  {
+    "id": "planet_in_house/ketu/4",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 4
+    },
+    "summary": "Ketu in the 4th disturbs home, property, the mother and contentment, often bringing relocation far from one's birthplace; a counter-view (Foss's name 61) sees inner bliss or spiritual contentment.",
+    "themes": [
+      "home and land",
+      "mother",
+      "relocation",
+      "inner peace"
+    ],
+    "common_outcomes": [
+      "Loss or instability of land, vehicles, home and happiness (Phaladeepika 8.29; Raman HJH; Chamatkar Chintamani via Bhrigu Sutras; Braha)",
+      "Strained relationship with, or worries about, the mother (Phaladeepika 8.29; Raman HJH; Braha; Foss name 72)",
+      "Living abroad or away from the native place (Phaladeepika 8.29; Raman HJH; Braha)",
+      "Reversals and sudden changes (Raman HJH)"
+    ],
+    "rare_outcomes": [
+      "Living at the bounty of others (Phaladeepika 8.29)",
+      "Exceptional experiences at the end of life (Raman HJH)",
+      "Fear of poisons; quarrelsome (Hindu Predictive Astrology)",
+      "Foss name 61: Ketu in the 4th brings happiness, the 'fourth state' of pure being"
+    ],
+    "by_area": {
+      "personality": "Discriminating, bent on discovering the truths of life (Braha); quarrelsome (Hindu Predictive Astrology).",
+      "career": "",
+      "finance": "Paternal property destroyed (Chamatkar Chintamani); deprived of properties (Raman HJH).",
+      "health": "Weakness (Hindu Predictive Astrology).",
+      "relationships": "Devoid of happiness from friends (Chamatkar Chintamani).",
+      "family": "Deprived of mother or her happiness (Phaladeepika 8.29; Raman HJH); mother may be weak or sickly (Braha); mother distressed with a malefic, not with a benefic (Bhrigu Sutras 9-10).",
+      "spirituality": "Strong interest in enlightenment from a moksha-house kendra (Braha); bliss of the 'fourth state' (Foss name 61)."
+    },
+    "strengtheners": [
+      "Association with a benefic protects the mother (Bhrigu Sutras 9-10)",
+      "Ketu in Gemini or Virgo: special homes, fine vehicles, a spiritual and beneficial mother (Braha)",
+      "Kendra placement connected with a kendra/trikona lord (Phaladeepika 20, sl. ~52)"
+    ],
+    "weakeners_or_cancellations": [
+      "Association with a malefic: mother's distress (Bhrigu Sutras 9-10)",
+      "Braha: nodes in any kendra bring many major changes"
+    ],
+    "lagna_or_context_notes": "Rahu is in the 10th.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.29 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Loses lands, vehicles, mother and happiness; leaves the native country and lives abroad at another's bounty.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 9-10 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 4th: many ornaments, two wives, serves others; mother distressed with a malefic, not with a benefic.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 4th (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "No happiness from mother and friends; does not stay long in his own house; paternal property destroyed.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the fourth house ('Planets in the Fourth House')",
+        "view": "Deprived of mother, properties and happiness; lives in a foreign place; exceptional experiences at the end of life; reversals and sudden changes.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Quarrelsome, weak, fear of poisons; also lists licentiousness.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 4th house' section",
+        "view": "Disturbed relationship with a possibly weak mother; seeks life's truths; trouble obtaining land, old houses; leaves parents early and lives far away; car and education problems; spiritual interest. Gemini/Virgo: special homes, spiritual mother.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu, the South Node (commentary on the 108-name list of the graha), names 61, 72",
+        "view": "In the 4th Ketu brings happiness (61), the bliss of pure being, but is also harmful to the mother (72).",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. Foss's name-list contains both 'happiness' (61) and 'harmful to the mother' (72) for the 4th; all other sources stress loss of home comfort and relocation.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of a restless or unconventional relationship with home and roots, perhaps living far from one's birthplace, and of finding peace inwardly. Do not predict the loss of the mother or property."
+  },
+  {
+    "id": "planet_in_house/ketu/5",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 5
+    },
+    "summary": "Ketu in the 5th is classically adverse for children and digestion and can unsettle the mind, while modern authors note intuition, discrimination and a turn to spiritual practice.",
+    "themes": [
+      "children",
+      "digestion",
+      "mind and intuition",
+      "spiritual practice"
+    ],
+    "common_outcomes": [
+      "Loss of children, few children, or sorrow through them (Phaladeepika 8.30; Bhrigu Sutras 11-13; Chamatkar Chintamani via Bhrigu Sutras; Raman HJH; Hindu Predictive Astrology; Braha; Foss name 58)",
+      "Stomach trouble (Phaladeepika 8.30; Chamatkar Chintamani; Raman HJH)",
+      "Strange emotional experiences; later inclination to spirituality (Raman HJH; Braha)",
+      "Disturbed love affairs and failed speculation (Braha)"
+    ],
+    "rare_outcomes": [
+      "Trouble from spirits/goblins (Phaladeepika 8.30)",
+      "Childlessness attributed to a Brahmin's curse (Phaladeepika 12)",
+      "Foss name 66: performance of spiritual austerities",
+      "Courageous but dependent on others (Chamatkar Chintamani)"
+    ],
+    "by_area": {
+      "personality": "Evil-minded or unwise in Phaladeepika's list; liberal (Hindu Predictive Astrology); discriminating (Braha).",
+      "career": "Gemini/Virgo: skill in painting, crafts, sports or politics (Braha).",
+      "finance": "Speculations may quickly fail (Braha).",
+      "health": "Stomach disease (Phaladeepika 8.30; Raman HJH; Chamatkar Chintamani); windy diseases (Bhrigu Sutras 11-13).",
+      "relationships": "Love affairs disturbed (Braha); with Venus, platonic love (Raman HJH).",
+      "family": "Loss of or few children (Phaladeepika 8.30; Chamatkar Chintamani; Braha).",
+      "spirituality": "Later in life an inclination to spirituality (Raman HJH); spiritual practices or natural healing (Braha); spiritual austerities (Foss name 66)."
+    },
+    "strengtheners": [
+      "Ketu in Gemini or Virgo: special, spiritual children; high intelligence (Braha)",
+      "Trikona placement connected with a kendra/trikona lord (Phaladeepika 20, sl. ~52)"
+    ],
+    "weakeners_or_cancellations": [
+      "Ketu afflicted in the 5th: vindictive or criminal tendencies (Raman HJH)",
+      "Node in a trikona associated with the 2nd or 7th lord: harmful dasa (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)"
+    ],
+    "lagna_or_context_notes": "Rahu is in the 11th.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.30 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Loss of children, stomach disease, trouble from spirits, evil-minded and wicked.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 12 (Putra bhava), verse on causes of childlessness (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "With Ketu in the 5th or joined to its lord, childlessness is due to a Brahmin's curse.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 11-13 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "No children or loss of children, children after worship of a Naga image, windy diseases, sinful deeds, the ruler's displeasure.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 5th (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Stomach ailments, not many children, courageous but dependent on others.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the fifth house ('Planets in the Fifth House')",
+        "view": "Loss of children, stomach trouble, strange emotional experiences, later spirituality; afflicted Ketu gives a vindictive streak; Venus with Ketu gives platonic love.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Liberal, loss of children; also lists moral faults.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 5th house' section",
+        "view": "Few children or difficulties with them, disturbed love affairs, failed speculation; good discrimination, spiritual practices or natural healing; peace of mind mildly harmed. Gemini/Virgo: special, spiritual children.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu, the South Node (commentary on the 108-name list of the graha), names 58, 66",
+        "view": "In the 5th Ketu brings grief (58) — Foss says this need not deny children — and indicates spiritual austerities (66).",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. Sources agree on the children theme; they differ on character (Phaladeepika: wicked; Hindu Predictive Astrology: liberal; Braha: discriminating, spiritual).",
+    "confidence": "high",
+    "phrasing_guidance": "Never say someone will lose or not have children; speak of children possibly coming later or needing attention, and of intuitive, spiritual intelligence. Suggest care with digestion and speculation."
+  },
+  {
+    "id": "planet_in_house/ketu/6",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 6
+    },
+    "summary": "Ketu in the 6th is widely held to be its best or one of its best placements: victory over enemies, fame and authority, fulfilled wishes and good qualities, though some sources note odd illnesses or loose morals.",
+    "themes": [
+      "victory over enemies",
+      "fame and authority",
+      "health",
+      "intuition"
+    ],
+    "common_outcomes": [
+      "Destroys enemies; foeless (Phaladeepika 8.30; Raman HJH; Braha)",
+      "Lasting fame and high authority (Phaladeepika 8.30; Raman HJH)",
+      "Magnanimous, with fine qualities; wishes realised (Phaladeepika 8.30)",
+      "Intuitive or occult powers (Raman HJH)"
+    ],
+    "rare_outcomes": [
+      "Strange, hard-to-diagnose illnesses or weight problems (Braha)",
+      "Loss of reputation through a maternal uncle; owns cattle (Chamatkar Chintamani via Bhrigu Sutras)",
+      "Loose moral character (Raman HJH); good conversationalist, learned (Hindu Predictive Astrology)",
+      "Bhrigu Sutras 14-16 (Rahu or Ketu): tolerant and very happy"
+    ],
+    "by_area": {
+      "personality": "Magnanimous, firm (Phaladeepika 8.30); healthy but narrow-minded (Chamatkar Chintamani); learned conversationalist (Hindu Predictive Astrology).",
+      "career": "Authority and fame (Phaladeepika 8.30; Raman HJH); devious co-workers possible (Braha).",
+      "finance": "",
+      "health": "Healthy (Chamatkar Chintamani); strange illnesses (Braha); Rahu or Ketu in the 6th/8th gives stomach disorders (Santhanam's note to BPHS 17.3-5).",
+      "relationships": "",
+      "family": "Trouble through a maternal uncle (Chamatkar Chintamani).",
+      "spirituality": "Intuitive and occult powers (Raman HJH)."
+    },
+    "strengtheners": [
+      "Malefics in upachaya houses (Uttara Kalamrita 4.16)",
+      "Ketu in Gemini or Virgo: excellent vitality, good relations with co-workers (Braha)"
+    ],
+    "weakeners_or_cancellations": [
+      "Ketu in the 6th, 8th or 12th associated with the lords of those houses: harm in its dasa (Uttara Kalamrita Kanda I, sec. 6, sl. 17-18)",
+      "Frawley lists the 6th among Ketu's difficult houses"
+    ],
+    "lagna_or_context_notes": "Rahu is in the 12th. Raman HJH calls this 'the best position for Ketu to occupy in a horoscope'.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.30 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Very magnanimous, of the best qualities, lasting fame, firmness and high authority; destroys enemies and realises his wishes.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 14-16 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 6th: tolerant and very happy; with the Moon, relations with women of a royal family.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 6th (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Loss of reputation on account of the maternal uncle; owns cattle; healthy but narrow-minded.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the sixth house ('Planets in the Sixth House')",
+        "view": "The best position for Ketu: fame and authority, foeless; moral character loose; intuitive and occult powers.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Good conversationalist, learned; also lists licentiousness and venereal complaints.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 6th house' section",
+        "view": "Easily defeats enemies and competitors, but strange, hard-to-diagnose illnesses or weight problems, devious co-workers and jealous people possible. Gemini/Virgo: excellent vitality.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. on remedial measures for Ketu (pp. ~258-259)",
+        "view": "Lists the 6th among Ketu's difficult houses.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. Phaladeepika and Raman rate the 6th as Ketu's best house; Frawley treats it as a difficult house for Ketu, and Braha balances victory with odd illnesses.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a strong placement for overcoming obstacles, competition and illness, and for service or healing work. Mention health routines without naming diseases."
+  },
+  {
+    "id": "planet_in_house/ketu/7",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 7
+    },
+    "summary": "Ketu in the 7th unsettles marriage and partnerships: loss of respect, separation or a sickly, difficult or unusual spouse in the classics; modern authors allow a spiritual, detached or ascetic partner and a 'higher path' reading.",
+    "themes": [
+      "marriage and spouse",
+      "partnerships",
+      "respect and reputation",
+      "detachment"
+    ],
+    "common_outcomes": [
+      "Disturbed married life, separation or loss of the spouse (Phaladeepika 8.31; Bhrigu Sutras 17-21; Raman HJH; Braha)",
+      "Sickly or weak spouse (Chamatkar Chintamani via Bhrigu Sutras; Raman HJH; Braha)",
+      "Humiliation or disrespect (Phaladeepika 8.31; Raman HJH)",
+      "Bowel or intestinal disorders; loss of vitality (Phaladeepika 8.31; Raman HJH)"
+    ],
+    "rare_outcomes": [
+      "Chamatkar Chintamani: danger from watery places; in Scorpio, always happy",
+      "Spouse who is spiritual, psychic or ascetic (Braha)",
+      "Foss name 80: conflict, or a higher path",
+      "Raman HJH: classical rule that Ketu in the 7th gives a shrewish spouse"
+    ],
+    "by_area": {
+      "personality": "Passionate (Raman HJH; Hindu Predictive Astrology).",
+      "career": "",
+      "finance": "Loss of wealth (Chamatkar Chintamani).",
+      "health": "Bowel disease and loss of vital power (Phaladeepika 8.31); loss of virility (Raman HJH).",
+      "relationships": "Separated from the spouse, drawn to bad company (Phaladeepika 8.31); unhappy marriage, sickly spouse (Raman HJH); spouse may be weak, strange or deceitful, or spiritual and discriminating (Braha); two marriages unless a benefic joins (Bhrigu Sutras 17-21).",
+      "family": "Spouse and children sickly (Chamatkar Chintamani).",
+      "spirituality": "Higher path through the 7th (Foss name 80); spiritual or ascetic partner (Braha)."
+    },
+    "strengtheners": [
+      "Ketu in Scorpio: always happy (Chamatkar Chintamani)",
+      "Association with a benefic: one marriage, no glandular disease (Bhrigu Sutras 17-21)",
+      "Node in the 7th with or aspected by the 5th or 9th lord: wealth and longevity (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)",
+      "Ketu in Gemini or Virgo: intelligent, special or spiritual spouse (Braha)"
+    ],
+    "weakeners_or_cancellations": [
+      "Association with a malefic: glandular disease (Bhrigu Sutras 17-21)",
+      "Saturn with Ketu in the 7th intensifies the relationship warnings (Bhrigu Sutras 32-36)",
+      "A malefic joined with the 2nd/7th lord while a node is in the 2nd/7th (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)"
+    ],
+    "lagna_or_context_notes": "Rahu is in the 1st. BPHS 18.7-8 groups Saturn, Rahu and Ketu in the 7th as indicating low-status sexual associations.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.31 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Disrespect, bad company, bowel disease, loss of wife and vital power.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 17-21 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 7th: two wives, the first lost; glandular disease with a malefic; only one wife with a benefic.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 7th (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Loss of wealth, danger from water, wife and children sickly; in Scorpio always happy.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 18.7-8 (tr. R. Santhanam, vol. 1)",
+        "view": "Saturn, Rahu or Ketu in the 7th denote association with base partners (from a list matching each planet to a type of partner).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the seventh house ('Planets in the Seventh House')",
+        "view": "Unhappy marriage with a shrewish partner; passionate; sickly spouse; humiliation and loss of virility.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Passionate, danger to the spouse; also lists irregular relationships.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 7th house' section",
+        "view": "Married life harmed; partner weak, sickly, strange or deceitful, or spiritual, psychic, ascetic. Gemini/Virgo: an especially intelligent, spiritual, detached spouse.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu, the South Node (commentary on the 108-name list of the graha), names 80",
+        "view": "In the 7th Ketu gives conflict or a higher path (80), since both Ketu and the 7th relate to moksha-type release.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. Chamatkar Chintamani makes Ketu in Scorpio here 'always happy'; Braha and Foss allow a spiritual partner or path; the classical texts are uniformly negative for marriage.",
+    "confidence": "medium",
+    "phrasing_guidance": "Talk about partnerships that ask for independence and understanding, possibly with a spiritually minded or unconventional partner. Never predict divorce, a spouse's illness or death."
+  },
+  {
+    "id": "planet_in_house/ketu/8",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 8
+    },
+    "summary": "Ketu in the 8th is classically one of its hardest placements: obstacles, separations, quarrels, injuries and chronic complaints; benefic aspect or a good sign (Scorpio, Virgo, Aries per Chamatkar Chintamani; Gemini/Virgo per Braha) brings wealth, intuition and long life.",
+    "themes": [
+      "obstacles and setbacks",
+      "chronic health",
+      "hidden matters and intuition",
+      "others' money"
+    ],
+    "common_outcomes": [
+      "Obstacles or failure in undertakings (Phaladeepika 8.31)",
+      "Chronic or strange illnesses, excretory or reproductive trouble (Raman HJH; Braha; Chamatkar Chintamani via Bhrigu Sutras; Foss name 81)",
+      "Separation from dear ones, quarrels (Phaladeepika 8.31; Braha)",
+      "Shortage of funds; no benefit from the partner's wealth (Chamatkar Chintamani; Braha)"
+    ],
+    "rare_outcomes": [
+      "Injury from weapons or a fall (Phaladeepika 8.31; Chamatkar Chintamani)",
+      "Ketu in the 8th aspected by a benefic: much wealth and long life (Raman HJH)",
+      "Accumulation of wealth if Ketu is in Scorpio, Virgo or Aries (Chamatkar Chintamani)",
+      "Good intuition but a materialistic bent (Braha)"
+    ],
+    "by_area": {
+      "personality": "Dull, obscure (Hindu Predictive Astrology); covets others' wealth when afflicted (Raman HJH).",
+      "career": "Disappointment in undertakings (Phaladeepika 8.31).",
+      "finance": "Short of funds (Chamatkar Chintamani); no gain from partner's wealth (Braha); much wealth with benefic aspect (Raman HJH).",
+      "health": "Piles (Chamatkar Chintamani); excretory disorders (Raman HJH); strange chronic illness, reproductive problems (Braha); stomach disorders from either node in the 6th/8th (Santhanam's note to BPHS 17.3-5).",
+      "relationships": "Separation from dear friends, quarrels (Phaladeepika 8.31); domestic happiness harmed, family separations (Braha).",
+      "family": "",
+      "spirituality": "Braha: Ketu's moksha and knowledge significations are spoiled here (except in Gemini/Virgo, which give intuition and occult interest)."
+    },
+    "strengtheners": [
+      "Benefic aspect on Ketu (Raman HJH)",
+      "Ketu in Scorpio, Virgo or Aries (Chamatkar Chintamani)",
+      "Ketu in Gemini or Virgo: long life, great intuition, wealth from the partner (Braha)",
+      "Strong 8th lord or benefic association improves longevity indications (Bhrigu Sutras 22-23)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Ketu: covetousness and diseases of excess (Raman HJH)",
+      "Ketu in the 6th, 8th or 12th associated with the lords of those houses: harm in its dasa (Uttara Kalamrita Kanda I, sec. 6, sl. 17-18)",
+      "Frawley lists the 8th among Ketu's difficult houses"
+    ],
+    "lagna_or_context_notes": "Rahu is in the 2nd. Braha: whenever the nodes are in the 2nd or 8th, happiness is disturbed.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.31 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Short-lived, separated from dear friends, quarrelsome, injured by weapons, disappointed in all undertakings.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 22-23 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 8th: very sickly, with longevity graded upward by a benefic or a strong 8th lord (the text's year figures are not reproduced).",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 8th (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Piles, danger of a fall from a horse, short of funds; but wealth accumulates if Ketu is in Scorpio, Virgo or Aries.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the eighth house ('Planets in the Eighth House')",
+        "view": "Aspected by a benefic, much wealth and long life; afflicted, covets others' wealth and suffers excretory and excess-related diseases.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Senseless, obscure, dull, sanguine complexion.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 8th house' section",
+        "view": "No benefit from partner's wealth; strange chronic illnesses and reproductive problems; weak sexual attraction; good intuition but materialistic; harms domestic happiness. Gemini/Virgo: great intuition, long life, wealth through partner.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu, the South Node (commentary on the 108-name list of the graha), names 81",
+        "view": "In the 8th Ketu causes suffering (81), linked by Foss to past errors; Kerala tradition prescribes serpent pujas.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. on remedial measures for Ketu (pp. ~258-259)",
+        "view": "Lists the 8th among Ketu's difficult houses.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. Raman HJH allows wealth and long life with benefic aspect, and Chamatkar Chintamani names Scorpio, Virgo and Aries as good signs, against Phaladeepika's wholly negative verse; Braha says Ketu's spiritual significations are spoiled here.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of resilience through setbacks, research and intuition, and of care with shared finances and health routines. Avoid any mention of short life, injury or chronic disease as predictions."
+  },
+  {
+    "id": "planet_in_house/ketu/9",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 9
+    },
+    "summary": "Ketu in the 9th is classically adverse for fortune, righteousness and the father; modern readings add short temper and haughtiness but also valour, thrift and a good spouse, with fortune restored when Ketu is well placed.",
+    "themes": [
+      "fortune",
+      "father",
+      "religion and ethics",
+      "unorthodox belief"
+    ],
+    "common_outcomes": [
+      "Misfortune or ill luck (Phaladeepika 8.32; Braha)",
+      "Strain with or loss of the father (Phaladeepika 8.32; Braha); poor treatment of parents (Raman HJH)",
+      "Unrighteous conduct or slandering the good in classical lists (Phaladeepika 8.32; Bhrigu Sutras 24; Hindu Predictive Astrology; Foss name 57)",
+      "Little interest in philosophy or religion (Braha)"
+    ],
+    "rare_outcomes": [
+      "Wealth earned with the help of foreigners; anxious for children (Chamatkar Chintamani via Bhrigu Sutras)",
+      "Good spouse and children; many children (Raman HJH; Hindu Predictive Astrology)",
+      "Eloquent, valorous, fond of pomp; saves money through frugality (Raman HJH)",
+      "Bhrigu Sutras 24: childless, dependent livelihood"
+    ],
+    "by_area": {
+      "personality": "Short-tempered, upset by trifles, haughty but valorous, eloquent (Raman HJH); narrow-minded (Braha); untruthful, thrifty (Hindu Predictive Astrology).",
+      "career": "",
+      "finance": "Indigent (Phaladeepika 8.32); frugal and saves much (Raman HJH); wealth via foreigners (Chamatkar Chintamani).",
+      "health": "Short-sighted (Raman HJH; Hindu Predictive Astrology).",
+      "relationships": "Good wife (Raman HJH; Hindu Predictive Astrology).",
+      "family": "Deprived of the father (Phaladeepika 8.32); hostile to parents (Raman HJH); difficulties with a father whose life may be troubled (Braha); good children (Raman HJH).",
+      "spirituality": "Foss: Ketu here may indicate religious extremism or experiencing 'papa' (demerit), though he softens the term."
+    },
+    "strengtheners": [
+      "Ketu in Gemini or Virgo: benefit from a fine father, luck, good morals (Braha)",
+      "Trikona placement connected with a kendra/trikona lord (Phaladeepika 20, sl. ~52)",
+      "Node in the 9th or 10th with a trikona lord gives prosperity (Uttara Kalamrita, as quoted in the Bhrigu Sutras commentary)"
+    ],
+    "weakeners_or_cancellations": [
+      "Node in a trikona associated with the 2nd or 7th lord: harmful dasa (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)"
+    ],
+    "lagna_or_context_notes": "Rahu is in the 3rd.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.32 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Follows a sinful course, does unrighteous things, deprived of the father, unlucky, indigent, slanders the good.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 24 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 9th: childless, intimacy with low-born women, dependent livelihood, irreligious.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 9th (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Anxious to have children; earns wealth with the help of foreigners.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the ninth house ('Planets in the Ninth House')",
+        "view": "Short-tempered, upset over trifles, eloquent but uses it to scandalise; pompous, haughty, but valorous; hostile to parents; short-sighted; saves through frugal living; good wife and children.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Short-sighted, untruthful, thrifty, many children, good wife; also lists moral faults.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 9th house' section",
+        "view": "Harms most 9th-house matters: narrow-minded, little interest in religion, difficulties with the father, luck and higher education disturbed. Gemini/Virgo: benefit from a fine father, luck, good morals.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu, the South Node (commentary on the 108-name list of the graha), names 57",
+        "view": "In the 9th Ketu causes one to commit or experience 'papa' (57), which Foss reads less harshly; elsewhere he links Ketu in the 9th with religious extremism.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. Raman HJH and Hindu Predictive Astrology give a good spouse and (many) children, while the Bhrigu Sutras give childlessness; Chamatkar Chintamani is mildly positive financially.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe an independent, sometimes sceptical relationship with tradition, teachers and the father, and a fortune built through one's own choices. Avoid moral judgments and statements about the father's death."
+  },
+  {
+    "id": "planet_in_house/ketu/10",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 10
+    },
+    "summary": "Ketu in the 10th mixes obstacles and irregular conduct in career with boldness, renown and, in several sources, pilgrimage and spiritual inclination; as an upachaya malefic it can give marked career success.",
+    "themes": [
+      "career and renown",
+      "obstacles in work",
+      "pilgrimage and religion",
+      "unconventional profession"
+    ],
+    "common_outcomes": [
+      "Energetic, bold, widely renowned (Phaladeepika 8.32; Raman HJH)",
+      "Obstacles in undertakings or in good works (Phaladeepika 8.32; Raman HJH)",
+      "Pilgrimages, religious study, spiritual disciplines (Raman HJH; Hindu Predictive Astrology; Braha; Rath)",
+      "Career success as a malefic in an upachaya house (Braha; Foss name 78)"
+    ],
+    "rare_outcomes": [
+      "Chamatkar Chintamani (via Bhrigu Sutras): unfortunate and distressed, no happiness from the father; destroys enemies in Aries, Virgo or Scorpio",
+      "Bhrigu Sutras 25-28 (Rahu or Ketu): relations with widows, poor quarters; better places with a benefic; interest in poetry",
+      "Work in an unusual profession or one 'related to the upward direction', e.g. aviation (Foss name 78)",
+      "Fertile brain, happy (Hindu Predictive Astrology)"
+    ],
+    "by_area": {
+      "personality": "Very clever, bold (Raman HJH); fertile brain (Hindu Predictive Astrology).",
+      "career": "Obstacles in all undertakings (Raman HJH); excellent career success unless Ketu is in an inimical sign, where strange career difficulties and deception arise (Braha); rise in career, unusual profession (Foss name 78).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "No happiness from father (Chamatkar Chintamani); Rath: the nodes in the 10th obstruct the 9th (father, fortune) by argala.",
+      "spirituality": "Religious, scripturally learned, many pilgrimages when beneficially disposed (Raman HJH; Hindu Predictive Astrology); Rath: Ketu's beneficial argala on the 12th leads to the spiritual path and meditation."
+    },
+    "strengtheners": [
+      "Ketu in Aries, Virgo or Scorpio (Chamatkar Chintamani); Gemini or Virgo (Braha)",
+      "Beneficially disposed Ketu (Raman HJH); association with a benefic (Bhrigu Sutras 25-28)",
+      "Malefics in upachaya houses (Uttara Kalamrita 4.16; Braha)",
+      "Node in the 9th or 10th with a trikona lord gives prosperity (Uttara Kalamrita, as quoted in the Bhrigu Sutras commentary)"
+    ],
+    "weakeners_or_cancellations": [
+      "Ketu in a sign of the Sun or Moon, or one unfriendly to the nodes: strange career difficulties (Braha)",
+      "Papargala on the 9th: hardship for the father or guru (Rath)"
+    ],
+    "lagna_or_context_notes": "Rahu is in the 4th.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.32 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Obstacles to good acts, impure and vile acts, yet energetic, bold and widely renowned.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 25-28 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 10th: relations with widows, poor quarters (better with a benefic), interest in poetry.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 10th (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Unfortunate, distressed, no happiness from father; destroys enemies if in Aries, Virgo or Scorpio.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (Sagar), 9th-house argala discussion",
+        "view": "Ketu in the 10th has papargala on the 9th but subhargala on the 12th of final emancipation; Ketu being moksha karaka, this leads the native to the spiritual path and teaches meditation.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the tenth house ('Planets in the Tenth House')",
+        "view": "Strong, bold, well known; vile deeds and impure resolves; obstacles in undertakings; very clever; if beneficially disposed, happy, religious, well read in scripture, visits pilgrim centres.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Fertile brain, happy, religious, pilgrimages to sacred rivers and places, fond of scriptures.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 10th house' section",
+        "view": "As a malefic in an upachaya house, excellent career success; in an inimical sign, strange career difficulties and vulnerability to deception; interest in spiritual disciplines and pilgrimage. Gemini/Virgo: honour and fame.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu, the South Node (commentary on the 108-name list of the graha), names 78",
+        "view": "'Rising up in the tenth sign or house' (78): known for an unusual approach or a profession related to the upward direction.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. Hindu Predictive Astrology and Braha are positive (religious, successful), Chamatkar Chintamani negative (unfortunate, no paternal happiness), and Phaladeepika and Raman HJH mixed (renowned but obstacles).",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a career with an unusual or independent bent, success that comes through boldness and persistence, and a pull towards meaning or pilgrimage. Avoid calling actions 'vile'; frame obstacles as course-corrections."
+  },
+  {
+    "id": "planet_in_house/ketu/11",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 11
+    },
+    "summary": "Ketu in the 11th is favourable in nearly all sources: accumulation of wealth, success in undertakings, good qualities, learning and gains, with some concern for children or odd friendships.",
+    "themes": [
+      "gains and accumulation",
+      "success",
+      "good qualities",
+      "friends and children"
+    ],
+    "common_outcomes": [
+      "Accumulates or hoards wealth; gains of all kinds (Phaladeepika 8.33; Chamatkar Chintamani via Bhrigu Sutras; Raman HJH; Braha)",
+      "Success in undertakings; requirements met (Phaladeepika 8.33; Raman HJH; Braha)",
+      "Many good qualities; learned (Phaladeepika 8.33; Chamatkar Chintamani; Raman HJH; Braha)",
+      "Fame (Foss name 79)"
+    ],
+    "rare_outcomes": [
+      "Windfalls through speculation such as lotteries or markets (Raman HJH)",
+      "Charitable works (Raman HJH)",
+      "Issues (children) unfortunate (Chamatkar Chintamani)",
+      "Humorous, witty (Hindu Predictive Astrology)"
+    ],
+    "by_area": {
+      "personality": "Noble, with many good qualities of head and heart (Raman HJH); humorous, witty, intelligent (Hindu Predictive Astrology).",
+      "career": "Success in all ventures (Raman HJH); successful undertakings (Braha).",
+      "finance": "Hoards money (Phaladeepika 8.33; Raman HJH); wealthy (Hindu Predictive Astrology; Braha); speculative windfalls (Raman HJH).",
+      "health": "",
+      "relationships": "Strange friends or difficulties with them (Braha); fine, possibly ascetic friends in Gemini/Virgo (Braha).",
+      "family": "Children unfortunate (Chamatkar Chintamani); blessed with children (Bhrigu Sutras 29-30).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Malefics in upachaya houses (Uttara Kalamrita 4.16)",
+      "Ketu in Gemini or Virgo: constant opportunities, special eldest sibling (Braha)"
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Rahu is in the 5th.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.33 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Hoards money, many good qualities, enjoys life, has the means to obtain good things and succeeds in getting all his requirements.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 29-30 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 11th: blessed with children and wealthy.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 11th (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "All kinds of gains; fortunate, learned, well dressed; children unfortunate.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the eleventh house ('Planets in the Eleventh House')",
+        "view": "Habit of hoarding; windfalls through speculation; noble with many good qualities; succeeds in all ventures; charitable works.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Humorous, witty, intelligent, wealthy; also lists licentiousness.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 11th house' section",
+        "view": "Successful undertakings and fortunate gains; strange friends or difficulties with them; scriptures say learned and wealthy with many fine qualities.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu, the South Node (commentary on the 108-name list of the graha), names 79",
+        "view": "'In the eleventh house he gives fame' (79).",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. The only real divergence is about children: Chamatkar Chintamani says unfortunate, the Bhrigu Sutras say blessed with children.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe steady gains and quiet success, with a detached attitude to reward; mention friendships that may be unusual. Avoid promising windfalls."
+  },
+  {
+    "id": "planet_in_house/ketu/12",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Ketu",
+      "house": 12
+    },
+    "summary": "Ketu in the 12th is read in two ways: classical verses stress secret wrongdoing, wasteful spending and eye trouble, while many later and modern authors regard it as an excellent placement for spiritual liberation, charity and foreign residence.",
+    "themes": [
+      "spiritual liberation",
+      "expenditure",
+      "foreign lands",
+      "eyes and sleep"
+    ],
+    "common_outcomes": [
+      "Expenditure, sometimes wasteful (Phaladeepika 8.33; Braha) or on charities (Chamatkar Chintamani via Bhrigu Sutras)",
+      "Eye troubles (Phaladeepika 8.33; Bhrigu Sutras 31-32; Chamatkar Chintamani; Braha)",
+      "Spiritual insight and interest in liberation (Frawley; Braha)",
+      "Restless mind, foreign residence, travel (Raman HJH; Hindu Predictive Astrology)"
+    ],
+    "rare_outcomes": [
+      "Chamatkar Chintamani (via Bhrigu Sutras): like a king, spends on charities, enemies vanquished",
+      "Ability to ward off negative psychic influences (Frawley)",
+      "Foss name 74: heroism or enmity",
+      "Inherited property may be lost (Raman HJH)"
+    ],
+    "by_area": {
+      "personality": "Capricious, unsettled (Hindu Predictive Astrology); restless, wandering mind (Raman HJH); discriminating (Braha).",
+      "career": "",
+      "finance": "Spends on vile things and destroys wealth (Phaladeepika 8.33); unexpected expenses and debts (Braha); spends on charities (Chamatkar Chintamani); inherited property may be lost (Raman HJH).",
+      "health": "Eye diseases (Phaladeepika 8.33; Chamatkar Chintamani); left eye or ear (Braha).",
+      "relationships": "Befriended by lower classes (Raman HJH); little sexual pleasure (Braha).",
+      "family": "Few children (Bhrigu Sutras 31-32).",
+      "spirituality": "Ketu does well in the 12th, giving spiritual insight (Frawley); excellent for a spiritual seeker (Braha). BPHS 33 places liberation with Ketu in the 12th from the Karakamsa (a different reference point)."
+    },
+    "strengtheners": [
+      "Ketu unaspected by malefics in the 12th, or with a benefic in its own/exalted sign (Frawley, on strengthening Ketu)",
+      "Ketu in Gemini or Virgo: few unexpected expenses, fine spiritual tendencies, success abroad (Braha)",
+      "Benefic aspect (BPHS 33, for Ketu in the 12th from Karakamsa, especially in Aries or Sagittarius)"
+    ],
+    "weakeners_or_cancellations": [
+      "Malefic aspect or conjunction blocks liberation in the Karakamsa rule (BPHS 33)",
+      "Ketu in the 6th, 8th or 12th associated with those houses' lords: harm in its dasa (Uttara Kalamrita Kanda I, sec. 6, sl. 17-18)"
+    ],
+    "lagna_or_context_notes": "Rahu is in the 6th. The liberation reading in BPHS 33 is counted from the Karakamsa, not the lagna; Raman HJH also cites it (Ketu in the 12th from Karakamsa gives final emancipation).",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.33 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Commits sins secretly, spends money on vile things, destroys wealth, follows forbidden conduct, suffers eye disease.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 31-32 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 12th: few children, eye troubles, an unhappy after-life.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 12th (Ketu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Like a king, spends on charities, vanquishes enemies, suffers eye troubles.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 33 (Karakamsa) (tr. R. Santhanam, vol. 1)",
+        "view": "Ketu in the 12th from the Karakamsa, especially in Aries or Sagittarius with a benefic aspect, gives final emancipation; with malefic influence it does not.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the twelfth house ('Planets in the Twelfth House')",
+        "view": "Restless, wandering mind; leaves the country of birth; befriended by the lower classes; inherited property may be lost. (Elsewhere in the 12th-house chapter: Ketu in the 12th from Karakamsa gives final emancipation.)",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Capricious, unsettled mind, foreign residence, traveller; also lists licentiousness.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. 'The Houses', p. 145, and remedial-measures chapter (pp. ~258-259)",
+        "view": "Ketu does well in the 12th, giving spiritual insight and protection from negative psychic influences; Ketu in the 12th unaspected by malefics is a strong Ketu.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Ketu in the 12th house' section",
+        "view": "Excellent for the spiritual seeker: discrimination and interest in spiritual evolution; but unexpected expenses, debts, little sexual pleasure; scriptures add wasteful spending and left eye/ear trouble.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu, the South Node (commentary on the 108-name list of the graha), names 74",
+        "view": "In the twelfth house or sign Ketu can cause heroism or enmity (74).",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Ketu by house is thin: Brihat Jataka and Saravali give no node results by house; Phaladeepika 8.28-33 is the main classical per-house statement, the Bhrigu Sutras give a single combined result for Rahu or Ketu, and the rest are scattered rules (Uttara Kalamrita, BPHS, Jataka Parijata) or later/modern readings. Phaladeepika is wholly negative; Chamatkar Chintamani gives royal status and charity; Frawley and Braha make the 12th Ketu's best house for spirituality. The well-known 'Ketu in 12th gives moksha' rule in BPHS is counted from the Karakamsa, not the lagna.",
+    "confidence": "medium",
+    "phrasing_guidance": "Lead with the inward, spiritual and charitable potential, and with life or work abroad; suggest mindful spending and rest. Do not promise liberation or discuss after-death states."
+  }
+]

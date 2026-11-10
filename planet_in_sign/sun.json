@@ -1,0 +1,1115 @@
+[
+  {
+    "id": "planet_in_sign/sun/aries",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Aries"
+    },
+    "summary": "The Sun is exalted in Aries (deepest exaltation at 10°), which gives strong self-confidence, initiative and a drive to lead. Classical texts describe a famous, energetic, combative person who rises through their own effort.",
+    "themes": [
+      "exaltation",
+      "leadership",
+      "courage",
+      "fame",
+      "initiative",
+      "martial energy"
+    ],
+    "common_outcomes": [
+      "Strong will, self-reliance and willingness to take the lead",
+      "Recognition or fame for skill or bold action",
+      "Restless, active temperament; likes travel and movement",
+      "Attraction to competitive, military, sporting or command roles"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka says the native is famous and clever but wanders and gains little, and bears weapons when the Sun is not in its exact exaltation degree",
+      "Saravali 22.2-3 describes a commentator on scriptures, famous in the arts, who becomes a king or ruler-like figure",
+      "Saravali 22.2-3 associates the placement with a 'bilious' (pitta) constitution and strong bones"
+    ],
+    "by_area": {
+      "personality": "Bold, fierce, fond of war and roaming, attached to duty (Saravali 22.2-3); active, ambitious, impulsive, irritable and pioneering (Raman HPA ch. XXII).",
+      "career": "Saravali 22.2-3 says the native may rise to kingly status; Raman lists warrior and traveller; Brihat Jataka 18.1 says the native bears weapons when the Sun is short of its exact exaltation degree.",
+      "finance": "Brihat Jataka 18.1: fame with little gain; Raman: wealthy but of variable fortune; Phaladeepika 9.14 (any exalted planet): wealth and treasures.",
+      "health": "Saravali 22.2-3 links the placement to bilious and blood disorders and strong bones; treat as a temperament note only, never as a medical prediction.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Saravali 22.2-3: comments on the meaning of the shastras."
+    },
+    "strengtheners": [
+      "Near 10° Aries (exact exaltation); Brihat Jataka 18.1 specifically distinguishes results at the exaltation degree",
+      "Kendra placement; Braha (p. 50) says planets in kendras are powerful and prominent",
+      "Placement in the 10th, where the Sun has directional strength (Braha pp. 17, 60)",
+      "Jupiter's aspect (Saravali 22.4-9: wealth and high office) or Mars's aspect (courage in battle)",
+      "Exalted or own sign in the navamsa, or vargottama (Braha pp. 13-14, 59-60)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 22.4-9: grief, dullness for the Sun in Mars's signs)",
+      "Venus's aspect (Saravali lists an unhappy marriage among results for Sun in Mars's signs)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest",
+      "Mercury's aspect: Saravali gives servitude and poverty for the Sun in Mars's signs"
+    ],
+    "lagna_or_context_notes": "Braha ('Planets in the Houses', pp. 79 ff.) reads the exalted or own-sign Sun house by house. With the Sun in Aries: Aries lagna (1st) respect, learning and a good start in life; Cancer lagna (10th) fame and a high position; Leo lagna (9th) fortune, faith and a prosperous father; Capricorn lagna (4th) homes, property and power but less happiness from the mother; Gemini lagna (11th) wealth from many sources; Libra lagna (7th) a capable spouse while the Sun's usual 7th-house strains remain.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 3.49-50",
+        "view": "Sun's exaltation sign is Aries at 10°; the 7th sign (Libra) at the same degree is its debilitation.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3"
+      },
+      {
+        "source": "Brihat Jataka 18.1 (tr. M. D. Neely, 2007)",
+        "view": "Sun in Aries: famous, clever, wandering, with little gain; bears arms when not at the exaltation degree.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501806.html"
+      },
+      {
+        "source": "Saravali 22.2-3, Sun in Aries (tr. R. Santhanam)",
+        "view": "Scholarly commentator, famous in the arts, fond of war, fierce, dutiful, wanderer, strong-boned, brave, pitta/blood tendency, radiant and kingly.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 22.4-9, aspects on the Sun in Mars's signs (tr. R. Santhanam)",
+        "view": "Moon's aspect gives generosity and servants; Mars courage in battle; Mercury servitude; Jupiter wealth and high office; Venus a difficult marriage; Saturn grief and dullness.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.14 (tr. V. Subrahmanya Sastri)",
+        "view": "A planet in exaltation gives rule over land, royal praise, wealth, fame, valour, generosity and cleverness.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Active, intelligent, famous, a traveller, wealthy, warrior-like, variable fortune, ambitious, powerful, impulsive, irritable, pioneering.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Planetary Powers' p. 47 and '1st House' (pp. 79-90)",
+        "view": "Sun is exalted in Aries; a planet before its deepest degree keeps the state less intensely and one past it is technically no longer exalted; the exalted Sun in the 1st gives respect, learning and a good start in life.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Surya, the Sun, name 70 ('The victor')",
+        "view": "Exaltation in Aries gives a sense of being naturally victorious, peaking at 10 degrees Aries.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Sun' p. 17, 'Navamsa' pp. 13-14, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "The Sun does best in the upachaya houses and in the 10th (directional strength); planets in kendras are powerful and in trikonas flourish, while a planet in a dusthana is spoiled; dignity in the navamsa or vargottama strengthens a planet, but not a fallen one.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka gives fame with limited gain and a wandering, weapon-bearing life unless the Sun is at its exact exaltation degree; Saravali is more uniformly positive (kingly), and Raman lists wealth with variable fortune. BPHS 3.49-50 treats all of Aries as exaltation with the peak at 10 degrees, while Braha (p. 47) says a planet past its deepest degree is technically no longer exalted.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe as strong confidence and leadership potential that grows with effort. Avoid promising fame or power; note that impatience or pride is the main thing to manage. No health or longevity predictions."
+  },
+  {
+    "id": "planet_in_sign/sun/taurus",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Taurus"
+    },
+    "summary": "The Sun in Taurus sits in the sign of Venus, a natural enemy, so its fiery assertiveness becomes steadier and more pleasure- and resource-oriented. Texts link it to arts, music, trade in fine goods and enjoyment of comforts.",
+    "themes": [
+      "enemy sign",
+      "steadiness",
+      "arts and music",
+      "trade in luxuries",
+      "comfort"
+    ],
+    "common_outcomes": [
+      "Clever and reflective; slow to act but self-confident (Raman HPA ch. XXII)",
+      "Interest or skill in singing, music, dance or aesthetic trades",
+      "Livelihood through trade in cloth, perfumes or other fine goods",
+      "Enjoys food, garments, scents and comforts"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka says the native dislikes women or is at odds with them",
+      "Saravali 22.10-11 lists a slim build, endurance of hardship and few sons",
+      "Saravali 22.10-11 mentions risk connected with water"
+    ],
+    "by_area": {
+      "personality": "Wise, decorous and good-looking, fond of food, garlands, robes and scents (Saravali 22.10-11); clever, reflective, slow to act, self-confident, tactful and sociable (Raman HPA ch. XXII).",
+      "career": "Trade in cloth and perfumes (Brihat Jataka 18.1; Raman: dealer in perfumes); singing, instruments and dance (Saravali 22.10-11; Raman: musician).",
+      "finance": "",
+      "health": "Saravali 22.10-11 mentions face and eye complaints, a lean body and risk from water; treat as traditional notes, not predictions.",
+      "relationships": "Brihat Jataka 18.1 and Raman say the native is at odds with or disliked by women; present only as a tradition, never as a forecast.",
+      "family": "Saravali 22.10-11 gives few sons; confirm from the 5th house before mentioning.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter's aspect (Saravali 22.12-17: royal minister, splendour, many friends as well as foes)",
+      "Upachaya placement (3rd, 6th, 10th, 11th), where Braha (pp. 17, 51) says malefics such as the Sun give excellent results",
+      "Exalted or own sign in the navamsa, or vargottama (Braha pp. 13-14, 59-60)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 22.12-17: meanness, liaisons with older women for the Sun in Venus's signs)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.1 (tr. M. D. Neely, 2007)",
+        "view": "Livelihood from trade in clothing and perfumes, dislike of women, skill in singing and instrumental music.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501806.html"
+      },
+      {
+        "source": "Saravali 22.10-11, Sun in Taurus (tr. R. Santhanam)",
+        "view": "Face/eye troubles, hardship, slim, few sons, handsome, decorous, wise; enjoys food, garlands, robes and scents; skilled in song, instruments and dance; risk from water.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 22.12-17, aspects on the Sun in Venus's signs (tr. R. Santhanam)",
+        "view": "Moon: income through water-related means; Mars: bravery; Mercury: writing and song; Jupiter: ministerial posts; Venus: high status; Saturn: meanness.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.17 (tr. V. Subrahmanya Sastri)",
+        "view": "A planet in an enemy sign tends toward dependence on others, petty-mindedness and trouble from enemies.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Friends are the lords of the 2nd, 4th, 5th, 8th, 9th and 12th from a planet's moolatrikona plus its exaltation lord; Santhanam's table gives the Sun's friends as Moon, Mars and Jupiter, enemies Venus and Saturn, and Mercury neutral.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Mercury is neutral to the Sun; Saturn and Venus are his enemies (the remaining planets, Moon, Mars and Jupiter, are friends by the verse's closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Clever, reflective, deals in perfumes, disliked by women, slow to act, musician, self-confident, tactful, sociable.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Surya, the Sun, name 9 ('The imperishable')",
+        "view": "The Sun is uncomfortable in Libra, a movable Venus sign, but not afflicted in Taurus because that fixed sign helps it stay steady.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Sun' p. 17, 'Navamsa' pp. 13-14, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "The Sun does best in the upachaya houses and in the 10th (directional strength); planets in kendras are powerful and in trikonas flourish, while a planet in a dusthana is spoiled; dignity in the navamsa or vargottama strengthens a planet, but not a fallen one.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Both texts agree on music, arts and enjoyment; Saravali adds bodily hardship and few sons that Brihat Jataka does not mention. Foss treats Taurus as relatively steadying for the Sun because it is a fixed sign, unlike Libra.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as artistic, steady and comfort-loving with possible friction between pride and pleasure. Do not predict problems with women, children or eyes; mention them only as traditional notes if asked."
+  },
+  {
+    "id": "planet_in_sign/sun/gemini",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Gemini"
+    },
+    "summary": "The Sun in Gemini sits in Mercury's sign, which is neutral for the Sun. Both major texts describe a learned, articulate and well-off person, skilled in calculation or astrology.",
+    "themes": [
+      "neutral sign",
+      "learning",
+      "speech",
+      "astrology and calculation",
+      "wealth"
+    ],
+    "common_outcomes": [
+      "Intellectual, sweet-spoken, well-mannered",
+      "Learning in both worldly and sacred subjects",
+      "Skill with numbers, writing or astrology",
+      "Comfortable finances"
+    ],
+    "rare_outcomes": [
+      "Saravali 22.18-19 mentions 'two mothers' (e.g. a foster or step-mother figure)",
+      "Saravali 22.18-19 notes special affection for children"
+    ],
+    "by_area": {
+      "personality": "Sweet-spoken, well-mannered, modest and affectionate (Saravali 22.18-19); polite, critical, a good conversationalist, shy and reserved (Raman HPA ch. XXII).",
+      "career": "Astrology and learning (Brihat Jataka 18.2; Saravali 22.18-19); Raman adds astronomer, scholar and grammarian.",
+      "finance": "Wealthy (Brihat Jataka 18.2; Raman); Saravali 22.18-19 adds very affluent and liberal.",
+      "health": "",
+      "relationships": "Saravali 22.18-19: affectionate, especially toward children.",
+      "family": "Saravali 22.18-19: 'two mothers' (for example a foster or step-mother figure), a rare text-specific note.",
+      "spirituality": "Saravali 22.18-19: expert in the shastras as well as worldly knowledge."
+    },
+    "strengtheners": [
+      "Jupiter's aspect (Saravali 22.20-25: knowledge of many shastras, royal messenger, foreign travel; also a fierce, bewildered temper)",
+      "Venus's aspect (Saravali 22.20-25: wealth)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars's aspect (Saravali 22.20-25: loss, poverty, quarrels for the Sun in Mercury's signs)",
+      "Moon's aspect (Saravali 22.20-25: trouble from kin or enemies)",
+      "Saturn's aspect (Saravali 22.20-25: craftiness, though many servants)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.2 (tr. M. D. Neely, 2007)",
+        "view": "Sun in Gemini: wealthy, skilled in astrology, learned.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501807.html"
+      },
+      {
+        "source": "Saravali 22.18-19, Sun in Gemini (tr. R. Santhanam)",
+        "view": "Scholar, sweet speech, affectionate (especially to children), well-mannered, learned in worldly and sacred subjects, wealthy, generous, skilled, an astrologer, average looks, two mothers, fortunate, modest.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 22.20-25, aspects on the Sun in Mercury's signs (tr. R. Santhanam)",
+        "view": "Moon: trouble from enemies and relatives, distress abroad; Mars: fear of enemies, quarrels, poverty; Mercury: kingly history, fame, free from enemies; Jupiter: knowledge of many shastras, royal messenger, foreign travel, but fierce and bewildered; Venus: money, wife and sons; Saturn: many servants, crafty.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Friends are the lords of the 2nd, 4th, 5th, 8th, 9th and 12th from a planet's moolatrikona plus its exaltation lord; Santhanam's table gives the Sun's friends as Moon, Mars and Jupiter, enemies Venus and Saturn, and Mercury neutral.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Mercury is neutral to the Sun; Saturn and Venus are his enemies (the remaining planets, Moon, Mars and Jupiter, are friends by the verse's closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Learned, astronomer, scholarly, grammarian, polite, wealthy, critical, good conversationalist, shy and reserved, lacking originality.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      }
+    ],
+    "disagreements": "The texts agree closely. Saravali 22.20-25 gives Jupiter's aspect mixed results (learning, royal messenger work and foreign travel, but a fierce and bewildered temper), so treat that aspect result as mixed rather than simply favourable.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a bright, articulate, learning-oriented placement. Avoid promising wealth; say it supports earning through knowledge and communication."
+  },
+  {
+    "id": "planet_in_sign/sun/cancer",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Cancer"
+    },
+    "summary": "The Sun in Cancer is in the Moon's sign, a friend, but the watery, emotional sign tempers the Sun's steadiness. Texts give mixed results: honour and good qualities alongside unsteady undertakings, hard work for others and tension with relatives.",
+    "themes": [
+      "friendly sign",
+      "emotional sensitivity",
+      "service to others",
+      "mixed fortune",
+      "family tension"
+    ],
+    "common_outcomes": [
+      "Unsteady in undertakings (Saravali 22.26-27)",
+      "Works hard, often on behalf of others",
+      "Fluctuating projects or plans",
+      "Recognition for virtue, eloquence or public service"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka describes a hot-tempered, poor person who faces hardship and an austere path",
+      "Saravali 22.26-27 describes royal qualities and fame, but strain with paternal relatives and an unattractive spouse",
+      "Saravali 22.26-27 mentions study of geography or atmospheric sciences and a liking for intoxicants"
+    ],
+    "by_area": {
+      "personality": "Unsteady in undertakings yet honourable and eloquent (Saravali 22.26-27); hot-tempered (Brihat Jataka 18.2); Raman HPA ch. XXII lists indolence, sorrow and a servile mentality.",
+      "career": "Works for others (Brihat Jataka 18.2); famed for royal qualities, studies geography and the sky (Saravali 22.26-27); Raman: travelling.",
+      "finance": "Brihat Jataka 18.2 and Raman say poor; Saravali 22.26-27 does not stress poverty.",
+      "health": "Saravali 22.26-27 links the placement to phlegm-bile imbalance and fatigue from hard labour, and Raman lists sickliness; mention only as a traditional tendency.",
+      "relationships": "Saravali 22.26-27 notes an unattractive or difficult spouse; treat cautiously and confirm from the 7th.",
+      "family": "Saravali 22.26-27: hates his own people and those on the paternal side.",
+      "spirituality": "Brihat Jataka 18.2 speaks of hardship on an austere path; Saravali 22.26-27: follows virtuous principles."
+    },
+    "strengtheners": [
+      "Jupiter's aspect (Saravali 22.28-33: pre-eminence) or Moon's aspect (Saravali 22.28-33: high status and water-based trade)",
+      "Mercury's aspect (Saravali 22.28-33: learning and honour)",
+      "Venus's aspect (Saravali 22.28-33: wealth through spouse)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars's aspect (Saravali 22.28-33: lung trouble and slander)",
+      "Saturn's aspect (Saravali 22.28-33: phlegm and wind disorders)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.2 (tr. M. D. Neely, 2007)",
+        "view": "Sun in Cancer: hot-tempered and poor, works for others, faces hardship on an austere path.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501807.html"
+      },
+      {
+        "source": "Saravali 22.26-27, Sun in Cancer (tr. R. Santhanam)",
+        "view": "Unsteady in undertakings yet famed for royal qualities; dislikes kin; spouse not attractive; phlegm-bile imbalance and labour; fond of intoxicants yet virtuous, honourable, eloquent; studies geography/atmosphere; steady; dislikes paternal relatives.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 22.28-33, aspects on the Sun in Cancer (tr. R. Santhanam)",
+        "view": "Moon: high status and water-trade; Mars: lung trouble and slander; Mercury: learning and honour; Jupiter: pre-eminence; Venus: wealth via spouse; Saturn: phlegm and wind complaints.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Friends are the lords of the 2nd, 4th, 5th, 8th, 9th and 12th from a planet's moolatrikona plus its exaltation lord; Santhanam's table gives the Sun's friends as Moon, Mars and Jupiter, enemies Venus and Saturn, and Mercury neutral.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Mercury is neutral to the Sun; Saturn and Venus are his enemies (the remaining planets, Moon, Mars and Jupiter, are friends by the verse's closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Poor, indolent, sorrowful, sickly, travelling, servile mentality; also lists cruelty.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      }
+    ],
+    "disagreements": "Brihat Jataka is clearly unfavourable (temper, poverty, labour for others); Saravali is mixed with notable honour and virtue. Both agree on effort, strain and some family friction.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say this placement mixes sensitivity and service with pride; results depend strongly on the Moon. Avoid stating poverty or a bad marriage as fact."
+  },
+  {
+    "id": "planet_in_sign/sun/leo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Leo"
+    },
+    "summary": "Leo is the Sun's own sign; 0-20° is its moolatrikona and 20-30° own sign. It gives authority, courage, self-respect and a love of open, wild places, with a quick temper.",
+    "themes": [
+      "moolatrikona",
+      "own sign",
+      "authority",
+      "courage",
+      "independence",
+      "temper"
+    ],
+    "common_outcomes": [
+      "Natural authority and leadership, strong self-respect",
+      "Courage and decisive action; defeats rivals",
+      "Love of nature, forests, hills and open spaces",
+      "Quick to anger; proud"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka says the native is vigorous but lacks knowledge",
+      "Saravali 22.34-35 says the native becomes a wealthy, famous ruler",
+      "Saravali 22.34-35 mentions fondness for meat"
+    ],
+    "by_area": {
+      "personality": "Quick to anger, enthusiastic, valorous, talkative and restless (Saravali 22.34-35); vigorous (Brihat Jataka 18.2); stubborn, strong, independent and generous (Raman HPA ch. XXII).",
+      "career": "Notable deeds and kingly status (Saravali 22.34-35); Raman: organising capacity and talent for propaganda; Braha ('Planets in the Houses') gives fame and high position when the own-sign Sun is in the 10th.",
+      "finance": "Saravali 22.34-35: plentiful wealth and fame; Raman: poor. The texts disagree.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Within 0-20° (moolatrikona) per BPHS 3.51",
+      "Jupiter's aspect (Saravali 22.36-41: builds temples, gardens and tanks; highly intelligent) or Mars's aspect (courage, leadership)",
+      "Moon's aspect (Saravali 22.36-41: scholarship, royal favour)",
+      "Kendra or trikona placement; Braha (p. 50) says planets in kendras are powerful and those in trikonas flourish"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus's aspect (Saravali 22.36-41: bad repute)",
+      "Saturn's aspect (Saravali 22.36-41: obstruction)",
+      "Mercury's aspect gives learning but Saravali also notes gambling or a mean streak",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest"
+    ],
+    "lagna_or_context_notes": "Braha ('Planets in the Houses', pp. 79 ff.) reads the own-sign Sun house by house. With the Sun in Leo: Leo lagna (1st) respect, learning and a good start in life; Scorpio lagna (10th) fame and a high position; Aries lagna (5th) intelligence, faith and possible leadership; Gemini lagna (3rd) courage and a strong personality; Libra lagna (11th) wealth from many sources; Taurus lagna (4th) homes and property but less happiness from the mother.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 3.51",
+        "view": "Leo 0-20° is the Sun's moolatrikona; the rest is its own sign.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3"
+      },
+      {
+        "source": "Brihat Jataka 18.2 (tr. M. D. Neely, 2007)",
+        "view": "Sun in Leo: fond of forests, mountains and cattle pens; vigorous but lacking knowledge.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501807.html"
+      },
+      {
+        "source": "Saravali 22.34-35, Sun in Leo (tr. R. Santhanam)",
+        "view": "Destroys enemies, quick-tempered, notable deeds, roams forests/hills/forts, enthusiastic, valorous, bright, eats meat, formidable, talkative, restless, wealthy and famous ruler.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.15 (tr. V. Subrahmanya Sastri)",
+        "view": "A planet in its own sign brings power, a stable home, property and respect among one's people during its period.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 22.36-41, aspects on the Sun in Leo (tr. R. Santhanam)",
+        "view": "Moon: scholarship, good spouse, royal favour; Mars: courage and leadership, interest in others' spouses; Mercury: scholar and writer but a gambler; Jupiter: builds temples, gardens and tanks, highly intelligent; Venus: ill repute; Saturn: creates obstacles.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Stubborn, strong, poor, independent, organising capacity and talent for propaganda, humanitarian, frequents solitary places, generous; also lists cruelty.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. 'The Signs: How Planets Transmit Influences of the Stars', pp. 127-128",
+        "view": "Gives the Sun's moolatrikona as 4-20 degrees Leo and says planets in own sign or moolatrikona are strong.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Sun' p. 17 and 'Planets in the Houses' pp. 79 ff.",
+        "view": "The Sun gives very good results in Leo, its own sign; gives house-by-house results for the Sun in Aries or Leo.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Sun' p. 17, 'Navamsa' pp. 13-14, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "The Sun does best in the upachaya houses and in the 10th (directional strength); planets in kendras are powerful and in trikonas flourish, while a planet in a dusthana is spoiled; dignity in the navamsa or vargottama strengthens a planet, but not a fallen one.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka says vigour without knowledge; Saravali stresses wealth, fame and rulership; Raman calls the native poor. All agree on courage and love of wild places. BPHS 3.51-54 puts the moolatrikona at 0-20 degrees Leo; Frawley (p. 127) gives 4-20 degrees.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as strong leadership and self-belief; suggest channelling pride and temper constructively. Do not promise status."
+  },
+  {
+    "id": "planet_in_sign/sun/virgo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Virgo"
+    },
+    "summary": "The Sun in Virgo sits in Mercury's sign (neutral). Texts agree on skill in writing, painting, poetry, mathematics and music, with a gentle manner and a slighter build.",
+    "themes": [
+      "neutral sign",
+      "skill and craft",
+      "writing",
+      "mathematics",
+      "gentle speech",
+      "service"
+    ],
+    "common_outcomes": [
+      "Skilled in writing, arts, calculation or technical craft",
+      "Gentle, soft-spoken manner",
+      "Service to elders, teachers or the divine",
+      "Analytical, detail-oriented approach"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka and Saravali 22.42-43 describe a feminine or slight physique",
+      "Saravali 22.42-43 names skill in repairing vehicles and in Vedic study"
+    ],
+    "by_area": {
+      "personality": "Gentle, soft and kind of speech (Saravali 22.42-43); frank, reserved, good memory and reasoning, wants praise (Raman HPA ch. XXII).",
+      "career": "Writing, painting, poetry and mathematics (Brihat Jataka 18.2); expert writer, repairer of vehicles, Vedas, song and instruments (Saravali 22.42-43); linguist, poet and mathematician (Raman).",
+      "finance": "",
+      "health": "Saravali 22.42-43 notes a slight build and some weakness; treat as a traditional note, not a prediction.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Serves gods and elders (Saravali 22.42-43); learned in religious lore (Raman)."
+    },
+    "strengtheners": [
+      "Mercury's or Jupiter's aspect (Saravali 22.20-25: knowledge of many shastras, royal messenger, foreign travel; also a fierce, bewildered temper)",
+      "Upachaya placement (3rd, 6th, 10th, 11th), where Braha (pp. 17, 51) says malefics such as the Sun give excellent results"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars's aspect (Saravali 22.20-25: loss and quarrels)",
+      "Moon's aspect (Saravali 22.20-25: trouble from kin or enemies)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.2 (tr. M. D. Neely, 2007)",
+        "view": "Sun in Virgo: skilled in writing, painting, poetry and mathematics; feminine appearance.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501807.html"
+      },
+      {
+        "source": "Saravali 22.42-43, Sun in Virgo (tr. R. Santhanam)",
+        "view": "Slight, feminine build, scholarly, skilled writer, somewhat weak, serves gods and elders, skilled in repairing vehicles, Vedas, songs and instruments, soft-spoken.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 22.20-25, aspects on the Sun in Mercury's signs (tr. R. Santhanam)",
+        "view": "Moon: trouble from kin and enemies, distress abroad; Mars: fear of enemies, quarrels, poverty; Mercury: kingly history and fame; Jupiter: many shastras, royal messenger, foreign travel; Venus: money, wife and sons; Saturn: many servants, crafty.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Friends are the lords of the 2nd, 4th, 5th, 8th, 9th and 12th from a planet's moolatrikona plus its exaltation lord; Santhanam's table gives the Sun's friends as Moon, Mars and Jupiter, enemies Venus and Saturn, and Mercury neutral.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Mercury is neutral to the Sun; Saturn and Venus are his enemies (the remaining planets, Moon, Mars and Jupiter, are friends by the verse's closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Linguist, poet, mathematician, literary taste, scholarly, artistic, good memory and reasoning, frank, learned in religious lore, reserved, wants praise.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Sun' p. 17, 'Navamsa' pp. 13-14, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "The Sun does best in the upachaya houses and in the 10th (directional strength); planets in kendras are powerful and in trikonas flourish, while a planet in a dusthana is spoiled; dignity in the navamsa or vargottama strengthens a planet, but not a fallen one.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources broadly agree.",
+    "confidence": "high",
+    "phrasing_guidance": "Emphasise craftsmanship, intellect and service. Avoid body-type or gender-appearance claims; never frame 'weakness' as illness."
+  },
+  {
+    "id": "planet_in_sign/sun/libra",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Libra"
+    },
+    "summary": "The Sun is debilitated in Libra (deepest fall at 10°), the sign of Venus, its enemy. Classical texts describe frustration, expenses, dependence on others and trade in metals or liquor; modern practice stresses that cancellation of debility is common and that the placement teaches cooperation over ego.",
+    "themes": [
+      "debilitation",
+      "self-esteem challenges",
+      "dependence on others",
+      "trade",
+      "travel",
+      "cooperation"
+    ],
+    "common_outcomes": [
+      "Fluctuating confidence; difficulty asserting oneself",
+      "Tendency to work for or through others",
+      "Travel or residence away from home",
+      "Expenses and setbacks that require persistence"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.3: livelihood in distilling or selling liquor, or as a goldsmith; fond of travel; lowly work",
+      "Saravali 22.44-45: dealing in gold and metals, living abroad out of distress, displeasure of authorities",
+      "Phaladeepika 9.18 (general debility): fall from position, debts, menial work, distant travel"
+    ],
+    "by_area": {
+      "personality": "Classical verses list harsh traits (Saravali 22.44-45); Raman HPA ch. XXII gives popular, frank and submissive yet arrogant and pompous. Braha ('1st House') says a fallen Sun in the 1st undermines confidence and self-esteem, while Frawley (p. 126) says a Sun in Libra whose debility is cancelled can give a strong, self-confident, expressive character.",
+      "career": "Selling liquor or working as a goldsmith (Brihat Jataka 18.3); trade in gold and metals and doing others' work (Saravali 22.44-45); Raman: manufacturer of liquors.",
+      "finance": "Saravali 22.44-45: frustration, losses and heavy expenditure.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Neecha bhanga: lord of the debilitation sign (Venus) or of the exaltation sign (Mars, Aries' lord) in a kendra from lagna or Moon (Phaladeepika 7.26, 7.29)",
+      "Venus and Mars in mutual kendras (Phaladeepika 7.27)",
+      "Debilitated planet aspected by its sign lord Venus and not in a dusthana (Phaladeepika 7.28)",
+      "Saturn, the planet exalted in Libra, in a kendra from lagna or Moon; Venus exalted; or an exalted planet joining the Sun (Braha, 'Yogas' no. 13)",
+      "Placement in an angle from lagna or Moon, the 10th most of all; at least two cancelling factors are usually needed (Frawley p. 126)",
+      "An exalted planet in Leo, the sign the Sun rules, reduces the weakness (Frawley p. 126)",
+      "Jupiter's aspect (Saravali 22.12-17: royal minister, splendour, many friends as well as foes)",
+      "Placement in the 10th, where the Sun has directional strength (Braha pp. 17, 60)"
+    ],
+    "weakeners_or_cancellations": [
+      "Close to 10 degrees Libra, the deepest fall (BPHS 3.49-50)",
+      "Saturn's aspect without other relief (Saravali 22.12-17: meanness, indolence, illness)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest",
+      "Vargottama does not help a fallen planet; Braha (pp. 13, 59) says it leaves it worse off"
+    ],
+    "lagna_or_context_notes": "Braha ('Planets in the Houses', pp. 79 ff.) reads the fallen Sun house by house. With the Sun in Libra: Libra lagna (1st) weak confidence and recognition; Leo lagna (3rd) strong but often unfulfilled desires; Cancer lagna (4th) unease and an unsettled home; Capricorn lagna (10th) a slow-to-settle career with many changes; Virgo lagna (2nd) money and family strain. Frawley (p. 126) adds that debility is much reduced in an angle from the lagna or Moon, the 10th most of all, so the Cancer, Aries, Capricorn and Libra lagna cases (4th, 7th, 10th, 1st) also carry that relief.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 3.49-50",
+        "view": "Debilitation is the 7th sign from exaltation at the same degree: Libra 10° for the Sun.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3"
+      },
+      {
+        "source": "Brihat Jataka 18.3 (tr. M. D. Neely, 2007)",
+        "view": "Sun in Libra: distiller/seller of liquor, fond of travel, goldsmith, lowly occupations.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501808.html"
+      },
+      {
+        "source": "Saravali 22.44-45, Sun in Libra (tr. R. Santhanam)",
+        "view": "Frustration, losses, heavy expenses, lives abroad due to distress, trades in gold and metals, does others' work, out of favour with rulers; also several harsh moral judgements.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.18 and 7.26-30 (tr. V. Subrahmanya Sastri)",
+        "view": "Debilitation brings loss of position and debts; but the neecha bhanga rules in ch. 7 turn a debilitated planet into a source of high status when the sign or exaltation lord is in a kendra, etc.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621579.html"
+      },
+      {
+        "source": "Saravali 22.12-17, aspects on the Sun in Venus's signs (tr. R. Santhanam)",
+        "view": "Moon: soft speech, livelihood through water; Mars: brave, wealth and fame through valour; Mercury: skill in drawing, writing and poetry; Jupiter: royal minister, many foes and friends; Venus: king or minister, wealth, pleasures; Saturn: indolence and illness.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Friends are the lords of the 2nd, 4th, 5th, 8th, 9th and 12th from a planet's moolatrikona plus its exaltation lord; Santhanam's table gives the Sun's friends as Moon, Mars and Jupiter, enemies Venus and Saturn, and Mercury neutral.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Mercury is neutral to the Sun; Saturn and Venus are his enemies (the remaining planets, Moon, Mars and Jupiter, are friends by the verse's closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Manufacturer of liquors, popular, tactless, frank, submissive, arrogant, pompous; also lists moral faults.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. 'The Signs: How Planets Transmit Influences of the Stars', pp. 126-127",
+        "view": "Debility can be cancelled (planet in an angle from lagna or Moon, sign lord exalted, an exalted planet in a sign the fallen planet rules); a Sun in Libra with debility cancelled can give a strong, self-confident, expressive character. Usually at least two cancelling factors are needed.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Planetary Powers' p. 47, '1st House' (pp. 79-90) and 'Yogas' no. 13 (neechabhanga)",
+        "view": "The fallen Sun in the 1st harms confidence and recognition; neechabhanga occurs when an exalted planet joins the fallen one, the sign lord is exalted, the sign lord is in a kendra from lagna or Moon, or the planet exalted in that sign is in such a kendra.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Surya, the Sun, name 9 ('The imperishable')",
+        "view": "The Sun is uncomfortable in Libra, a movable sign of Venus, because the soul finds it hard to stay firm there.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Sun' p. 17, 'Navamsa' pp. 13-14, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "The Sun does best in the upachaya houses and in the 10th (directional strength); planets in kendras are powerful and in trikonas flourish, while a planet in a dusthana is spoiled; dignity in the navamsa or vargottama strengthens a planet, but not a fallen one.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Classical sign verses are uniformly unfavourable, but Phaladeepika ch. 7, Braha and Frawley all say the debility can be cancelled, and Frawley says a cancelled Sun in Libra can be strong and self-confident. Commentators differ on whether 'lord of the exaltation sign' means Mars (lord of Aries) or Saturn (the planet exalted in Libra) (Phaladeepika 7.26 footnote); Braha lists both kinds of condition. BPHS treats all of Libra as debilitation, while Braha (p. 47) says that past 10 degrees the Sun is technically no longer fallen.",
+    "confidence": "high",
+    "phrasing_guidance": "Never call this 'bad' outright. Explain that debility is often cancelled and that the theme is building self-worth and learning cooperation. Do not repeat the texts' moral judgements or predict loss of father."
+  },
+  {
+    "id": "planet_in_sign/sun/scorpio",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Scorpio"
+    },
+    "summary": "The Sun in Scorpio is in Mars's sign, a friend. It gives intensity, boldness and a combative streak; classical texts lean harsh, describing a fierce, quarrelsome nature, skill with weapons and exposure to danger.",
+    "themes": [
+      "friendly sign",
+      "intensity",
+      "boldness",
+      "conflict",
+      "hidden matters",
+      "weapons"
+    ],
+    "common_outcomes": [
+      "Bold, intense and determined",
+      "Can be combative or quick to quarrel",
+      "Skill with tools, weapons, chemicals or crisis work",
+      "Secretive or private approach"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.3: earns through poison (chemistry, medicine, toxic substances) and is skilled with weapons",
+      "Saravali 22.46-47: risk from weapons, fire or poison; difficult relations with parents; unhappy marriage"
+    ],
+    "by_area": {
+      "personality": "Eager for conflict, irascible and quarrel-prone (Saravali 22.46-47); bold (Brihat Jataka 18.3); adventurous, reckless, stubborn and impulsive (Raman HPA ch. XXII).",
+      "career": "Earns through poisons and is skilled with weapons (Brihat Jataka 18.3); Raman: surgical skill, dexterity and military ability.",
+      "finance": "Saravali 22.46-47: miserly.",
+      "health": "Saravali 22.46-47 mentions trouble from weapons, fire and poison; present as safety awareness only, never as an injury prediction.",
+      "relationships": "Saravali 22.46-47 indicates a difficult spouse or loss of the spouse; check the 7th house before saying anything.",
+      "family": "Saravali 22.46-47: unfortunate in respect of parents.",
+      "spirituality": "Saravali 22.46-47 says the native strays from the Vedic path."
+    },
+    "strengtheners": [
+      "Jupiter's aspect (Saravali 22.4-9: wealth and high office for the Sun in Mars's signs)",
+      "Moon's aspect (Saravali 22.4-9: generosity, servants)",
+      "Upachaya placement (3rd, 6th, 10th, 11th), where Braha (pp. 17, 51) says malefics such as the Sun give excellent results"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 22.4-9: grief, dullness)",
+      "Venus's aspect (Saravali 22.4-9: difficult marriage)",
+      "Mercury's aspect (Saravali 22.4-9: servitude)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.3 (tr. M. D. Neely, 2007)",
+        "view": "Sun in Scorpio: cruel and bold, earns through poison, skilled with weapons.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501808.html"
+      },
+      {
+        "source": "Saravali 22.46-47, Sun in Scorpio (tr. R. Santhanam)",
+        "view": "Eager for war, departs from orthodox path, untruthful, difficult spouse, irritable, miserly, stirs quarrels, harmed by weapons/fire/poison, unlucky with parents.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 22.4-9, aspects on the Sun in Mars's signs (tr. R. Santhanam)",
+        "view": "Moon: generosity; Mars: courage; Mercury: servitude; Jupiter: wealth and office; Venus: difficult marriage; Saturn: grief.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Friends are the lords of the 2nd, 4th, 5th, 8th, 9th and 12th from a planet's moolatrikona plus its exaltation lord; Santhanam's table gives the Sun's friends as Moon, Mars and Jupiter, enemies Venus and Saturn, and Mercury neutral.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Mercury is neutral to the Sun; Saturn and Venus are his enemies (the remaining planets, Moon, Mars and Jupiter, are friends by the verse's closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Adventurous, bold, reckless, stubborn, impulsive, surgical skill, dexterous, military ability; also lists cruelty and lack of principle.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), '1st House' (pp. 79-90)",
+        "view": "Since the Sun is exalted in Aries, it also flourishes in Scorpio, the other sign ruled by Mars.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Sun' p. 17, 'Navamsa' pp. 13-14, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "The Sun does best in the upachaya houses and in the 10th (directional strength); planets in kendras are powerful and in trikonas flourish, while a planet in a dusthana is spoiled; dignity in the navamsa or vargottama strengthens a planet, but not a fallen one.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Both classical texts and Raman are harsh. Against the dignity scheme, Scorpio is a friend's sign for the Sun (BPHS 3.55), and Braha says the Sun flourishes in Scorpio as the other sign of its exaltation lord Mars.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe as courage and intensity best channelled into demanding, high-stakes work. Do not predict accidents, poisoning, or family loss; avoid moral labels."
+  },
+  {
+    "id": "planet_in_sign/sun/sagittarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Sagittarius"
+    },
+    "summary": "The Sun in Sagittarius is in Jupiter's sign, a friend. Texts agree it gives respect from the wise, prosperity, learning and skill, with an honourable, dharmic outlook.",
+    "themes": [
+      "friendly sign",
+      "respect",
+      "dharma",
+      "learning",
+      "prosperity",
+      "skill"
+    ],
+    "common_outcomes": [
+      "Respected, principled, generous",
+      "Prosperous and favoured by authorities",
+      "Learned; respects teachers and tradition",
+      "Practical skills or crafts"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.3: works as a physician and is sharp-tongued",
+      "Saravali 22.48-49: skilled with weapons, archery and elephant training"
+    ],
+    "by_area": {
+      "personality": "Honourable, peaceful and energetic (Saravali 22.48-49); sharp-tongued (Brihat Jataka 18.3); short-tempered and obstinate but reliable, happy and popular (Raman HPA ch. XXII).",
+      "career": "Physician and craftsman (Brihat Jataka 18.3); trainer in weapons, archery and elephants (Saravali 22.48-49); Raman: musician.",
+      "finance": "Prosperous (Brihat Jataka 18.3; Saravali 22.48-49); Raman: rich and wealthy.",
+      "health": "",
+      "relationships": "Respected by all and popular (Raman HPA ch. XXII).",
+      "family": "Saravali 22.48-49: helpful to relatives.",
+      "spirituality": "Respects gods and brahmins (Saravali 22.48-49); religious (Raman)."
+    },
+    "strengtheners": [
+      "Jupiter's or Moon's aspect (Saravali 22.50-55: high status and wealth for the Sun in Jupiter's signs)",
+      "Mercury's aspect (Saravali 22.50-55: literary skill)",
+      "Kendra or trikona placement; Braha (p. 50) says planets in kendras are powerful and those in trikonas flourish"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 22.50-55: uncleanliness)",
+      "Mars's aspect (Saravali 22.50-55: fame in conflict but irritability)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.3 (tr. M. D. Neely, 2007)",
+        "view": "Sun in Sagittarius: respected by the wise, prosperous, sharp-tongued, a physician, skilled in crafts.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501808.html"
+      },
+      {
+        "source": "Saravali 22.48-49, Sun in Sagittarius (tr. R. Santhanam)",
+        "view": "Wealthy, learned, dear to rulers, respects gods and brahmins, skilled in weapons, archery and elephant training, honourable, peaceful, well-built, helpful to kin, energetic.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 22.50-55, aspects on the Sun in Jupiter's signs (tr. R. Santhanam)",
+        "view": "Moon: eloquence and wealth; Mars: fame in battle, irritability; Mercury: literary skill; Jupiter: high status; Venus: refined pleasures; Saturn: uncleanliness.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.16 (tr. V. Subrahmanya Sastri)",
+        "view": "A planet in a friend's sign gives success through friends, good family and wealth.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Friends are the lords of the 2nd, 4th, 5th, 8th, 9th and 12th from a planet's moolatrikona plus its exaltation lord; Santhanam's table gives the Sun's friends as Moon, Mars and Jupiter, enemies Venus and Saturn, and Mercury neutral.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Mercury is neutral to the Sun; Saturn and Venus are his enemies (the remaining planets, Moon, Mars and Jupiter, are friends by the verse's closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Short-tempered, reliable, rich, obstinate, respected by all, happy, popular, religious, musician.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Sun' p. 17, 'Navamsa' pp. 13-14, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "The Sun does best in the upachaya houses and in the 10th (directional strength); planets in kendras are powerful and in trikonas flourish, while a planet in a dusthana is spoiled; dignity in the navamsa or vargottama strengthens a planet, but not a fallen one.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources agree; Brihat Jataka adds sharp speech.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a principled, respected, learning-oriented placement; suggest tact in speech. Avoid guaranteeing wealth."
+  },
+  {
+    "id": "planet_in_sign/sun/capricorn",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Capricorn"
+    },
+    "summary": "The Sun in Capricorn is in Saturn's sign, an enemy. Texts are unfavourable: modest means, hard or menial work, family conflict and dependence on others. Modern readings emphasise slow, disciplined rise through effort.",
+    "themes": [
+      "enemy sign",
+      "hard work",
+      "discipline",
+      "modest means",
+      "family friction"
+    ],
+    "common_outcomes": [
+      "Success comes slowly and through sustained labour",
+      "Modest resources in early life",
+      "Tension or conflict within the family",
+      "Restless, prone to moving about"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.3: poor merchant, ignorant, greedy, dependent on others' fortunes",
+      "Saravali 22.56-57: loses everything through family conflict; timid and fickle; eats heavily"
+    ],
+    "by_area": {
+      "personality": "Timid, fickle, fond of wandering (Saravali 22.56-57); Raman HPA ch. XXII mixes stubborn, miserly and meddlesome with obliging, witty, prudent and firm.",
+      "career": "Advances through lowly work (Saravali 22.56-57); a merchant of small means (Brihat Jataka 18.3); Raman: pushful and active.",
+      "finance": "Little money (Brihat Jataka 18.3); Raman: miserly.",
+      "health": "",
+      "relationships": "Saravali 22.56-57 warns of poor choices in relationships; handle gently.",
+      "family": "Saravali 22.56-57: few relatives and loss through family disputes.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter's aspect (Saravali 22.58-63: fame and wisdom for the Sun in Saturn's signs)",
+      "Saturn's own aspect (Saravali 22.58-63: victory over enemies and honours)",
+      "Upachaya placement (3rd, 6th, 10th, 11th), where Braha (pp. 17, 51) says malefics such as the Sun give excellent results",
+      "Placement in the 10th, where the Sun has directional strength (Braha pp. 17, 60)"
+    ],
+    "weakeners_or_cancellations": [
+      "Moon's aspect (Saravali 22.58-63: cunning, loss through relationships)",
+      "Mars's aspect (Saravali 22.58-63: illness and injury)",
+      "Mercury's aspect (Saravali 22.58-63: weakness)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.3 (tr. M. D. Neely, 2007)",
+        "view": "Sun in Capricorn: lowly, ignorant, poor merchant with little money, greedy, depends on others' fortune.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501808.html"
+      },
+      {
+        "source": "Saravali 22.56-57, Sun in Capricorn (tr. R. Santhanam)",
+        "view": "Base, greedy, menial work, timid, few relatives, fickle, wandering, weak, loses all through family conflict, eats voraciously.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 22.58-63, aspects on the Sun in Saturn's signs (tr. R. Santhanam)",
+        "view": "Jupiter: fame and wisdom; Saturn: victory over enemies and honours; Venus: wealth through women or gems; Moon: cunning; Mars: illness and wounds; Mercury: weakness.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.17 (tr. V. Subrahmanya Sastri)",
+        "view": "Planet in an enemy sign: dependence on others, troubles from enemies.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Friends are the lords of the 2nd, 4th, 5th, 8th, 9th and 12th from a planet's moolatrikona plus its exaltation lord; Santhanam's table gives the Sun's friends as Moon, Mars and Jupiter, enemies Venus and Saturn, and Mercury neutral.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Mercury is neutral to the Sun; Saturn and Venus are his enemies (the remaining planets, Moon, Mars and Jupiter, are friends by the verse's closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Stubborn, miserly, pushful, unhappy, active, meddlesome, yet obliging, witty, affable, prudent and firm; also lists mean-mindedness.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Sun' p. 17, 'Navamsa' pp. 13-14, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "The Sun does best in the upachaya houses and in the 10th (directional strength); planets in kendras are powerful and in trikonas flourish, while a planet in a dusthana is spoiled; dignity in the navamsa or vargottama strengthens a planet, but not a fallen one.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Both classical texts are negative; Saravali's aspect verses make Jupiter or Saturn aspect a strong mitigating factor.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as a 'slow-build' placement where discipline and patience pay off. Do not label the person greedy or ignorant; avoid predicting poverty."
+  },
+  {
+    "id": "planet_in_sign/sun/aquarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Aquarius"
+    },
+    "summary": "The Sun in Aquarius is in Saturn's other sign, an enemy. Classical texts give courage but also short temper, unreliable friendships, limited wealth and difficulty through children; results improve greatly with good aspects.",
+    "themes": [
+      "enemy sign",
+      "courage",
+      "temper",
+      "limited means",
+      "group/social tension"
+    ],
+    "common_outcomes": [
+      "Courageous and persistent but quick-tempered",
+      "Limited or fluctuating money",
+      "Friction in friendships or with educated peers",
+      "Steady in activity despite dissatisfaction"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.4: loses good fortune through sons, poor",
+      "Saravali 22.64-65: gains through relationships outside marriage; disliked by the learned"
+    ],
+    "by_area": {
+      "personality": "Very short-tempered but courageous and firm in activity; unreliable in friendship and miserly (Saravali 22.64-65); stubborn, with self-esteem and rare faculties (Raman HPA ch. XXII).",
+      "career": "Raman HPA ch. XXII lists unlucky and unsuccessful; Saravali 22.64-65 says firm in activities.",
+      "finance": "Little wealth (Saravali 22.64-65); poor (Brihat Jataka 18.4; Raman).",
+      "health": "Saravali 22.64-65 traditionally links this placement to the heart; never present this as a medical prediction.",
+      "relationships": "Saravali 22.64-65: not firm in friendship; disliked by the learned.",
+      "family": "Brihat Jataka 18.4 says fortune suffers through sons; confirm from the 5th house before mentioning.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter's aspect (Saravali 22.58-63: fame and wisdom)",
+      "Saturn's aspect (Saravali 22.58-63: victory over enemies, honours)",
+      "Upachaya placement (3rd, 6th, 10th, 11th), where Braha (pp. 17, 51) says malefics such as the Sun give excellent results"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars's aspect (Saravali 22.58-63: illness and wounds)",
+      "Moon's aspect (Saravali 22.58-63: cunning, loss)",
+      "Mercury's aspect (Saravali 22.58-63: weakness)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.4 (tr. M. D. Neely, 2007)",
+        "view": "Sun in Aquarius: base, loses fortune through sons, poor.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501809.html"
+      },
+      {
+        "source": "Saravali 22.64-65, Sun in Aquarius (tr. R. Santhanam)",
+        "view": "Heart trouble, great courage, very short temper, gains via other women, disliked by the learned, steady in activity, little wealth, unreliable friend, miserly.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 22.58-63, aspects on the Sun in Saturn's signs (tr. R. Santhanam)",
+        "view": "Jupiter: fame and wisdom; Saturn: honours; Venus: wealth via women/gems; Moon: cunning; Mars: illness; Mercury: weakness.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Friends are the lords of the 2nd, 4th, 5th, 8th, 9th and 12th from a planet's moolatrikona plus its exaltation lord; Santhanam's table gives the Sun's friends as Moon, Mars and Jupiter, enemies Venus and Saturn, and Mercury neutral.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Mercury is neutral to the Sun; Saturn and Venus are his enemies (the remaining planets, Moon, Mars and Jupiter, are friends by the verse's closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Poor, unhappy, stubborn, unlucky, unsuccessful, medium height, rare faculties, self-esteem.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Sun' p. 17, 'Navamsa' pp. 13-14, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "The Sun does best in the upachaya houses and in the 10th (directional strength); planets in kendras are powerful and in trikonas flourish, while a planet in a dusthana is spoiled; dignity in the navamsa or vargottama strengthens a planet, but not a fallen one.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka focuses on poverty and children; Saravali adds courage and steadiness, giving a more mixed picture.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as courage with a need to manage temper and money. Avoid any heart-health claims and do not predict trouble with children."
+  },
+  {
+    "id": "planet_in_sign/sun/pisces",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Sun",
+      "sign": "Pisces"
+    },
+    "summary": "The Sun in Pisces is in Jupiter's sign, a friend. Texts give wealth through water-related trade, honour, learning, happiness and a supportive family.",
+    "themes": [
+      "friendly sign",
+      "water trade",
+      "learning",
+      "happiness",
+      "family support"
+    ],
+    "common_outcomes": [
+      "Prosperity, especially through water, sea, travel or import-export",
+      "Friendly, learned and happy disposition",
+      "Good family life with spouse, children and helpers",
+      "Overcomes rivals"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.4: honoured by women",
+      "Saravali 22.66-67: eloquent but prone to untruth; many siblings"
+    ],
+    "by_area": {
+      "personality": "Friendly, learned and happy, eloquent but prone to untruth (Saravali 22.66-67); peaceful and prodigal (Raman HPA ch. XXII).",
+      "career": "Wealth through sea or river trade (Saravali 22.66-67) and water-related products (Brihat Jataka 18.4); Raman: pearl merchant.",
+      "finance": "Wealthy (Brihat Jataka 18.4; Saravali 22.66-67; Raman).",
+      "health": "Saravali 22.66-67 mentions a genital-area tendency as a traditional note; do not use as a prediction.",
+      "relationships": "A good wife (Saravali 22.66-67); honoured or loved by women (Brihat Jataka 18.4; Raman).",
+      "family": "Good sons, servants and many siblings (Saravali 22.66-67).",
+      "spirituality": "Religious (Raman HPA ch. XXII)."
+    },
+    "strengtheners": [
+      "Jupiter's or Moon's aspect (Saravali 22.50-55: high status, wealth for the Sun in Jupiter's signs)",
+      "Venus's aspect (Saravali 22.50-55: refined pleasures)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 22.50-55: uncleanliness)",
+      "Mars's aspect (Saravali 22.50-55: irritability)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.4 (tr. M. D. Neely, 2007)",
+        "view": "Sun in Pisces: wealth from water-related products; honoured by women.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501809.html"
+      },
+      {
+        "source": "Saravali 22.66-67, Sun in Pisces (tr. R. Santhanam)",
+        "view": "Friendly, acquisitive, fond of women, learned, happy, defeats foes, wealthy; good wife, sons and servants; gains via sea/river trade; eloquent but untruthful; many siblings.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.16 (tr. V. Subrahmanya Sastri)",
+        "view": "Friend's sign: success through friends, good spouse and children, wealth.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 22.50-55, aspects on the Sun in Jupiter's signs (tr. R. Santhanam)",
+        "view": "Moon: eloquence, wisdom, wealth and sons; Mars: fame through battle, short temper; Mercury: sweet speech, writing and arts; Jupiter: moves in royal circles, wealth and learning; Venus: refined pleasures, peace; Saturn: uncleanliness, bad company.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Friends are the lords of the 2nd, 4th, 5th, 8th, 9th and 12th from a planet's moolatrikona plus its exaltation lord; Santhanam's table gives the Sun's friends as Moon, Mars and Jupiter, enemies Venus and Saturn, and Mercury neutral.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Mercury is neutral to the Sun; Saturn and Venus are his enemies (the remaining planets, Moon, Mars and Jupiter, are friends by the verse's closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Sun, pp. 204-205)",
+        "view": "Pearl merchant, peaceful, wealthy, uneventful life, religious, prodigal, loved by women.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Sun' p. 17, 'Navamsa' pp. 13-14, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "The Sun does best in the upachaya houses and in the 10th (directional strength); planets in kendras are powerful and in trikonas flourish, while a planet in a dusthana is spoiled; dignity in the navamsa or vargottama strengthens a planet, but not a fallen one.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources agree on wealth from water; only Saravali adds untruthfulness.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a happy, prosperous, sociable placement with links to travel or water. Do not mention genital health; avoid calling the person dishonest."
+  }
+]

@@ -1,0 +1,332 @@
+[
+{
+"section": "personality",
+"old": "Mars does the most for Leo, since it rules the 4th and 9th houses and so acts as the yogakaraka, the planet that carries both the best houses for this lagna.",
+"new": "Mars does the most for Leo, since it rules the 4th and 9th houses and so acts as the yogakaraka.",
+"reason": "yogakaraka definition owned by Chart at a glance; Mars placement owned by Spirituality"
+},
+{
+"section": "personality",
+"old": " Mars is debilitated in Cancer in the 12th house, though that weakness is cancelled, and it is close enough to the Sun to be overpowered by its light.",
+"new": "",
+"reason": "Mars placement and dignity owned by Spirituality"
+},
+{
+"section": "personality",
+"old": " Venus sits in its own sign, which softens that.",
+"new": "",
+"reason": "Venus dignity owned by Career"
+},
+{
+"section": "personality",
+"old": "Venus, the lord of this star, sits in its own sign in the 10th house, close to Saturn, so the warmth of the star has a serious, working edge.",
+"new": "Venus, the lord of this star, gives its warmth a serious, working edge.",
+"reason": "Venus placement owned by Career"
+},
+{
+"section": "personality",
+"old": "Jupiter is a natural benefic here and sits in its own moolatrikona sign, so that protection is real.",
+"new": "Jupiter is a natural benefic here, so that protection is real.",
+"reason": "Jupiter placement and dignity owned by Family"
+},
+{
+"section": "personality",
+"old": "The Moon is in Scorpio, in the 4th house, and counts as a benefic in this chart because it is waxing.",
+"new": "The Moon counts as a benefic in this chart because it is waxing.",
+"reason": "Moon placement owned by Mind"
+},
+{
+"section": "personality",
+"old": "Its debility is cancelled, since the lord of its exalted sign, Venus, sits in a kendra. The Moon's detail is in the Mind section.",
+"new": "The Moon's detail is in the Mind section.",
+"reason": "Moon cancellation and Venus placement owned by Mind and Career"
+},
+{
+"section": "personality",
+"old": " The Moon's softer, feeling side sits in Scorpio.",
+"new": "",
+"reason": "Moon placement owned by Mind"
+},
+{
+"section": "personality",
+"old": " Rahu and Ketu are both vargottama, sitting in the same sign in the birth chart and the navamsa.",
+"new": "",
+"reason": "Rahu and Ketu placement owned by Health and Spirituality"
+},
+{
+"section": "mind",
+"old": "Venus, the lord of Taurus (the Moon's sign of strength), stands in a kendra (an angular house, here the 10th), and the classical rule for this cancellation treats that as softening the fall.",
+"new": "Venus, lord of Taurus, stands in a kendra (here the 10th), and the classical rule for this cancellation treats that as softening the fall.",
+"reason": "Venus placement owned by Career; kendra defined in Chart at a glance"
+},
+{
+"section": "mind",
+"old": "Mars is debilitated in Cancer, but that weakness is cancelled too, and it is combust (close enough to the Sun to be overshadowed). Mars is the yogakaraka for Leo rising, ruling both the 4th and the 9th, so it is a helpful planet and its good results come through more fully.",
+"new": "Its weakness is cancelled too, and it is combust (see Personality). Mars is the yogakaraka for Leo rising, so its good results come through more fully.",
+"reason": "Mars placement owned by Spirituality; Sun-combustion owned by Personality"
+},
+{
+"section": "mind",
+"old": " Mars is strong in the navamsa (a finer divisional chart), where it is exalted.",
+"new": "",
+"reason": "navamsa defined in Chart at a glance; Mars placement owned by Spirituality"
+},
+{
+"section": "mind",
+"old": "Sunapha is present: a planet sits in the sign next to the Moon, here Jupiter in Sagittarius. Jupiter is in its moolatrikona sign, so it is well supported. The texts describe this combination as intelligent, virtuous, peaceable and well regarded. It is the main steadying influence on your emotional life, because a wise and generous planet sits beside the Moon.",
+"new": "Sunapha is present, with Jupiter beside the Moon. It is the main steadying influence on your emotional life.",
+"reason": "Sunapha defined and strength discussed in Yogas and doshas; Jupiter placement owned by Family"
+},
+{
+"section": "mind",
+"old": "It is about 22 degrees from the Sun, so it is not burnt by the Sun's glare, and the Sun-Mercury pattern (Budhaditya, covered under yogas) holds.",
+"new": "It is about 22 degrees from the Sun, so it is not burnt, and Budhaditya (covered under yogas) holds.",
+"reason": "Sun placement owned by Personality; Budhaditya owned by Yogas and doshas"
+},
+{
+"section": "career",
+"old": "Rahu, placed in the 6th in Capricorn, also casts an aspect on the 10th.",
+"new": "Rahu also casts an aspect on the 10th.",
+"reason": "Rahu placement owned by Health"
+},
+{
+"section": "career",
+"old": "The 6th house is associated with detail work and service jobs, and Raman links Rahu in Capricorn with promotion and official recognition.",
+"new": "Raman links it with promotion and official recognition.",
+"reason": "Rahu placement owned by Health"
+},
+{
+"section": "career",
+"old": "The Sun, the lagna lord, sits in Cancer in the 12th house. Brihat Jataka describes the Sun in Cancer as working for others, and in the 12th the Sun points to work out of the spotlight: research, hospitals, ashrams or postings abroad. Raman also associates it with travel.",
+"new": "Brihat Jataka reads the Sun in the 12th as working for others, out of the spotlight: research, hospitals, ashrams or postings abroad. Raman also associates it with travel.",
+"reason": "Sun placement owned by Personality"
+},
+{
+"section": "career",
+"old": "Mars is debilitated in Cancer, but the debilitation is cancelled. The Moon, lord of Mars's sign, sits in a kendra, and Mars is exalted in the navamsa.",
+"new": "Mars's debilitation is cancelled (see Spirituality).",
+"reason": "Mars dignity owned by Spirituality; Moon placement owned by Mind"
+},
+{
+"section": "finance",
+"old": "Two strong supports pull the other way: Jupiter in the 5th house, in its moolatrikona sign, and Mars, which rules the 4th and 9th houses and so is a yogakaraka (a planet that rules both a kendra, an angular house, and a trikona, a fortunate house, and works strongly for this lagna).",
+"new": "Two strong supports pull the other way: Jupiter in the 5th house, and Mars, which rules the 4th and 9th houses and so is a yogakaraka.",
+"reason": "yogakaraka defined in Chart at a glance; Jupiter placement owned by Family"
+},
+{
+"section": "finance",
+"old": "**2nd house: savings.** Virgo is ruled by Mercury, which sits in the 12th house in Cancer, an enemy sign for it.",
+"new": "**2nd house: savings.** Virgo is ruled by Mercury, placed weakly (see Mind).",
+"reason": "Mercury placement owned by Mind"
+},
+{
+"section": "finance",
+"old": "Mercury is also weak in the navamsa (D9, a finer divisional chart), where it is debilitated.",
+"new": "Mercury is also weak in the navamsa (D9).",
+"reason": "navamsa defined in Chart at a glance; Mercury placement owned by Mind"
+},
+{
+"section": "finance",
+"old": "**5th house: investments and merit.** Jupiter sits here in Sagittarius, where it is strong.",
+"new": "**5th house: investments and merit.** Jupiter sits here.",
+"reason": "Jupiter placement owned by Family"
+},
+{
+"section": "finance",
+"old": "**9th house: fortune.** Aries is ruled by Mars, which sits in the 12th house, close enough to the Sun to be overpowered (combust).",
+"new": "**9th house: fortune.** Aries is ruled by Mars, which sits in the 12th house.",
+"reason": "Sun-combustion owned by Personality; Mars placement owned by Spirituality"
+},
+{
+"section": "finance",
+"old": "As a yogakaraka it is strong for Leo, and its debilitation in Cancer is cancelled: the Moon, which rules its sign, sits in a kendra, and Mars is exalted in the navamsa.",
+"new": "As a yogakaraka it is strong for Leo, and its debilitation is cancelled (see Spirituality).",
+"reason": "Mars dignity owned by Spirituality; Moon placement owned by Mind"
+},
+{
+"section": "finance",
+"old": "Brihat Jataka links Mars in Cancer to wealth from water or farming, earned despite hardship.",
+"new": "Brihat Jataka links Mars to wealth from water or farming, earned despite hardship.",
+"reason": "Mars placement owned by Spirituality"
+},
+{
+"section": "finance",
+"old": "The Moon rules this house and sits in the 4th, in Scorpio, where it is debilitated. That weakness is softened, because Venus, lord of the Moon's exaltation sign, is placed in a kendra.",
+"new": "The Moon rules this house, and its weakness is softened (see Mind).",
+"reason": "Moon placement and dignity owned by Mind"
+},
+{
+"section": "finance",
+"old": "Jupiter (in the 5th, aspecting the 9th and 11th) and Mars (a yogakaraka with a cancelled debilitation) provide the support.",
+"new": "Jupiter (in the 5th, aspecting the 9th and 11th) and Mars (a yogakaraka) provide the support.",
+"reason": "Mars dignity owned by Spirituality"
+},
+{
+"section": "health",
+"old": "The Sun sits in the 12th house, in Cancer, a sign friendly to it. The ruler",
+"new": "The ruler",
+"reason": "Sun placement owned by Personality"
+},
+{
+"section": "health",
+"old": "It is debilitated there, but the weakness is softened: Venus, the ruler of Taurus (the Moon's sign of exaltation), sits in a corner house, the 10th, and a classical rule counts that as cancelling the debilitation.",
+"new": "It is debilitated there, but the weakness is softened (see Mind).",
+"reason": "Moon placement owned by Mind"
+},
+{
+"section": "health",
+"old": "**8th house, recovery:** Pisces, ruled by Jupiter, which is strong in its own sign in the 5th house.",
+"new": "**8th house, recovery:** Pisces, ruled by Jupiter, which is strong (see Family).",
+"reason": "Jupiter placement owned by Family"
+},
+{
+"section": "health",
+"old": "Mars sits close to the Sun, which the texts take as dimming it, though its debilitation is softened by classical rules.",
+"new": "Mars sits close to the Sun, which the texts take as dimming it.",
+"reason": "Sun placement owned by Personality; Mars dignity owned by Spirituality"
+},
+{
+"section": "relationships",
+"old": "For a Leo lagna the 7th house is Aquarius, and its lord Saturn sits in the 10th house in Taurus, a sign where Saturn is at ease, together with Venus.",
+"new": "For a Leo lagna the 7th house is Aquarius, and its lord Saturn sits in the 10th house, together with Venus.",
+"reason": "Saturn placement owned by Career"
+},
+{
+"section": "relationships",
+"old": "Venus is debilitated in the navamsa (D9), in Virgo.",
+"new": "Venus is debilitated in the navamsa (D9).",
+"reason": "navamsa defined in Chart at a glance; Venus placement owned by Career"
+},
+{
+"section": "relationships",
+"old": "The Sun is also the lagna lord, placed in Cancer in the 12th house, a friendly sign for it, alongside Mars, Mercury and Ketu.",
+"new": "The Sun is also the lagna lord (see Personality).",
+"reason": "Sun placement owned by Personality"
+},
+{
+"section": "relationships",
+"old": "Some classical texts are cautious about the Sun in Cancer where marriage is concerned",
+"new": "Some classical texts are cautious about the Sun where marriage is concerned",
+"reason": "Sun placement owned by Personality"
+},
+{
+"section": "relationships",
+"old": "In the navamsa the 7th house is Pisces, ruled by Jupiter, which sits in the 10th of the navamsa in Gemini.",
+"new": "In the navamsa the 7th house is Pisces, ruled by Jupiter.",
+"reason": "Jupiter placement owned by Family"
+},
+{
+"section": "relationships",
+"old": "Mercury, a natural malefic in this chart and debilitated in the navamsa, also sits in that 7th house.",
+"new": "Mercury, a natural malefic in this chart, also sits in that 7th house.",
+"reason": "Mercury placement owned by Mind"
+},
+{
+"section": "relationships",
+"old": "Mars is a natural malefic, but for Leo it is the yogakaraka, ruling the 4th and 9th, two of the good houses.",
+"new": "Mars is a natural malefic, but for Leo it is the yogakaraka (see Spirituality).",
+"reason": "Mars role owned by Spirituality"
+},
+{
+"section": "relationships",
+"old": "The 11th house is Gemini, ruled by Mercury in the 12th house, in its enemy sign Cancer.",
+"new": "The 11th house is Gemini, ruled by Mercury, which is weakly placed (see Mind).",
+"reason": "Mercury placement owned by Mind"
+},
+{
+"section": "family",
+"old": "Mercury sits in the 12th house in Cancer, its enemy sign.",
+"new": "Mercury is weakly placed (see Mind).",
+"reason": "Mercury placement owned by Mind"
+},
+{
+"section": "family",
+"old": "Mars is debilitated, but that debility is cancelled: the lord of its sign sits in a corner house (a kendra), and Mars is exalted in the navamsa, the divisional chart used for marriage and fortune.",
+"new": "Mars's debility is cancelled (see Spirituality).",
+"reason": "Mars dignity owned by Spirituality"
+},
+{
+"section": "family",
+"old": "Its debility and closeness to the Sun (it is combust) suggest the bond asks for attention and care.",
+"new": "Its combustion suggests the bond asks for attention and care.",
+"reason": "Sun placement owned by Personality; Mars dignity owned by Spirituality"
+},
+{
+"section": "family",
+"old": "Venus sits in the 10th house in its own sign, Taurus, which is a strong position.",
+"new": "Venus sits in a strong position (see Career).",
+"reason": "Venus placement owned by Career"
+},
+{
+"section": "family",
+"old": "It is debilitated but cancelled, and Venus, a benefic, aspects it.",
+"new": "It is cancelled (see Mind), and Venus, a benefic, aspects it.",
+"reason": "Moon dignity owned by Mind; Venus placement owned by Career"
+},
+{
+"section": "family",
+"old": "Mercury, the usual planet of learning, sits in an enemy sign in the 12th, so its support for study is less direct.",
+"new": "Mercury, the usual planet of learning, is weakly placed (see Mind), so its support for study is less direct.",
+"reason": "Mercury placement owned by Mind"
+},
+{
+"section": "spirituality",
+"old": "Its lord, Jupiter, sits in the 5th house in Sagittarius, in moolatrikona (a strong dignity, short of full ownership) and retrograde.",
+"new": "Its lord, Jupiter, sits in the 5th house, in moolatrikona and retrograde.",
+"reason": "moolatrikona defined in Personality; Jupiter placement owned by Family"
+},
+{
+"section": "spirituality",
+"old": "Its lord, Mars, sits in the 12th house, debilitated in Cancer but cancelled: the Moon, which rules Cancer, sits in an angular house, and Mars is exalted in the navamsa (the D9 divisional chart).",
+"new": "Its lord, Mars, sits in the 12th house, debilitated in Cancer but cancelled, and exalted in the navamsa.",
+"reason": "navamsa defined in Chart at a glance; Moon placement owned by Mind"
+},
+{
+"section": "spirituality",
+"old": "Mars is also combust, too close to the Sun to shine freely.",
+"new": "Mars is also combust.",
+"reason": "Sun-combustion owned by Personality"
+},
+{
+"section": "spirituality",
+"old": "The 12th lord, the Moon, sits in the 4th in Scorpio, debilitated but cancelled: Venus, which rules the Moon's exaltation sign, sits in an angular house.",
+"new": "The 12th lord, the Moon, sits in the 4th (see Mind).",
+"reason": "Moon placement owned by Mind"
+},
+{
+"section": "spirituality",
+"old": "Here it is Mercury, at 28 degrees in Cancer.",
+"new": "Here it is Mercury, at 28 degrees.",
+"reason": "Mercury placement owned by Mind"
+},
+{
+"section": "spirituality",
+"old": "Mercury sits in an enemy sign in the 12th, joined by the Sun, Mars and Ketu, aspected by Saturn and Rahu, and debilitated in that navamsa position.",
+"new": "Mercury sits in the 12th, joined by the Sun, Mars and Ketu, and aspected by Saturn and Rahu.",
+"reason": "Mercury placement owned by Mind; Sun placement owned by Personality"
+},
+{
+"section": "spirituality",
+"old": "The Moon in Scorpio, with its debility cancelled, is common among spiritual teachers and occultists (Frawley).",
+"new": "The Moon's placement is common among spiritual teachers and occultists (Frawley).",
+"reason": "Moon placement owned by Mind"
+},
+{
+"section": "spirituality",
+"old": "Jupiter in Sagittarius is strong for rites",
+"new": "Jupiter is strong for rites",
+"reason": "Jupiter placement owned by Family"
+},
+{
+"section": "yogas",
+"old": "Venus is debilitated in the navamsa (the ninth-division chart), and",
+"new": "Venus is debilitated in the navamsa, and",
+"reason": "navamsa defined in Chart at a glance"
+},
+{
+"section": "yogas",
+"old": "For Leo lagna, Mars rules one angle and one trine, which makes it the chart's yogakaraka, the most supportive functional planet.",
+"new": "For Leo lagna, Mars rules one angle and one trine, the chart's most supportive functional planet.",
+"reason": "yogakaraka defined in Chart at a glance"
+}
+]

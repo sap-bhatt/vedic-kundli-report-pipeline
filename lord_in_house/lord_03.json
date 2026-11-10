@@ -1,0 +1,926 @@
+[
+  {
+    "id": "lord_in_house/3/1",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 1
+    },
+    "summary": "Courage and initiative become part of the self: the person is self-made, bold and clever, earning through own effort even without much formal schooling.",
+    "themes": [
+      "self-effort",
+      "courage",
+      "initiative",
+      "communication"
+    ],
+    "common_outcomes": [
+      "self-made wealth through personal effort",
+      "brave, enterprising, quick-witted",
+      "skills and practical ability valued over degrees (BPHS 24.25; Charak: wise but unlettered)",
+      "performing arts as a possible field when the lord is fortified (Raman)"
+    ],
+    "rare_outcomes": [
+      "BPHS: limited formal education despite intelligence",
+      "BPHS: understands service or is devoted to worship (renderings differ)",
+      "Charak: inclined to adultery; a forger (traditional)"
+    ],
+    "by_area": {
+      "personality": "Bold, clever, self-starting (BPHS 24.25; Charak: courageous, valorous, wise); Raman adds vindictive, with a lean and tall build.",
+      "career": "Earns a livelihood by own exertion and may serve others (Raman HTJH I); if fortified, expertise in dancing, music or acting and a living through the fine arts (Raman).",
+      "finance": "Wealth earned by own effort (BPHS 24.25; Charak).",
+      "health": "Raman has a traditional line that the person is 'always sickly'; do not make medical claims.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "One BPHS rendering mentions devotion or service."
+    },
+    "strengtheners": [
+      "exaltation: Taurus lagna (Moon in Taurus) and Pisces lagna (Venus in Pisces)",
+      "benefic aspects on the lagna",
+      "3rd lord strong and friendly to the lagna lord"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Capricorn lagna, Jupiter in Capricorn",
+      "affliction can turn boldness into rashness; the 3rd lord is a functional malefic in BPHS 34"
+    ],
+    "lagna_or_context_notes": "BPHS 34, Laghu Parashari sloka 6 and Bhavartha Ratnakara XII st. 2 treat the 3rd lord as producing evil; O.P. Verma's commentary on Laghu Parashari ranks it the least inauspicious of the 3rd/6th/11th lords. For Leo lagna (Venus) and Aquarius lagna (Mars) the 3rd lord also owns the 10th; Laghu Parashari sloka 7 says kendra ownership makes a planet lose its natural benefic or malefic tendency.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.25 (enjoylearningsanskrit.com)",
+        "view": "Wealth through own effort, understands service, courageous and intelligent despite little schooling.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-25"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.25 (Santhanam-based text, archive.org)",
+        "view": "Self-made wealth, disposed to worship, valorous, intelligent but without learning.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7 (Santhanam-based text, archive.org)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna lord is especially auspicious.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "Earns livelihood by self-exertion, vindictive, lean and tall, brave, always sickly, serving others. Fortified: expert in dancing, music and acting; livelihood through fine arts.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "Courage and self-effort, wealthy, valorous, wise but illiterate, inclined to adultery, a forger.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, sloka 6 with notes (and notes to sloka 22)",
+        "view": "Lords of the 3rd, 6th and 11th produce evil even when natural benefics; the commentary ranks the 3rd lord as the least inauspicious of these, and quotes the Sajjanaranjani view that 3rd/6th/11th lords placed in their own houses do good.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "The two BPHS renderings differ on 'understands service' vs 'disposed to worship'. Raman's 'always sickly' and Charak's 'forger' are harsher than BPHS; all agree on self-made courage.",
+    "confidence": "medium",
+    "phrasing_guidance": "Celebrate self-made effort and courage. Avoid implying the person is uneducated; say practical skill and initiative matter more than formal credentials."
+  },
+  {
+    "id": "lord_in_house/3/2",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 2
+    },
+    "summary": "Effort and courage are diverted into family and resources: BPHS views this as reducing valour and initiative, with small undertakings, dissatisfaction and desire for others' wealth.",
+    "themes": [
+      "low initiative",
+      "small ventures",
+      "desire",
+      "family"
+    ],
+    "common_outcomes": [
+      "modest ventures rather than bold enterprises",
+      "low drive or a sense of dissatisfaction (BPHS, Charak)",
+      "friction with own people or younger siblings (Raman, Charak)"
+    ],
+    "rare_outcomes": [
+      "BPHS: heavy body build",
+      "BPHS traditional view: coveting others' spouses and wealth",
+      "Charak: short-lived (traditional; never predict)"
+    ],
+    "by_area": {
+      "personality": "Less adventurous and often unfulfilled (BPHS 24.26; Charak: without valour, disinclined to start ventures); Raman: drawn to mean deeds unless other combinations help.",
+      "career": "Small undertakings rather than bold ventures (BPHS 24.26; Charak).",
+      "finance": "Limited ventures limit wealth (BPHS 24.26). If the 2nd lord is also joined, generous instincts; with Saturn added, miserliness (Bhavartha Ratnakara III st. 8-9).",
+      "health": "BPHS and Charak mention a heavy or obese build; do not make health claims.",
+      "relationships": "",
+      "family": "Distance from, or loss of, younger siblings (Raman); opposed to own people (Charak).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "own sign: Sagittarius lagna (Saturn in Capricorn, also 2nd lord)",
+      "benefic aspect on the 2nd",
+      "3rd lord joined by the 2nd lord: generous instincts (Bhavartha Ratnakara III st. 8)",
+      "other favourable combinations in the chart (Raman HTJH I makes the bad result conditional on their absence)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Leo lagna, Venus in Virgo",
+      "malefic affliction to the 2nd (harsh speech, BPHS 13.13)",
+      "Saturn joining the 2nd and 3rd lords: miserliness (Bhavartha Ratnakara III st. 9)"
+    ],
+    "lagna_or_context_notes": "For Sagittarius lagna Saturn owns both the 2nd and 3rd and sits in own sign. Laghu Parashari sloka 6 and Bhavartha Ratnakara XII st. 2 class the 3rd lord as a producer of evil.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.26 (enjoylearningsanskrit.com)",
+        "view": "Heavyset, lacking valour, small ventures, unhappy, desires others' spouses and wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-26"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.26 (Santhanam-based text, archive.org)",
+        "view": "Bulky, lacks courage, idle, unhappy, covets others' wives and wealth.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "Unfavourable unless other combinations help: rather unscrupulous, advances on the women and wealth of others, likes mean deeds, generally unhappy; likely to lose younger brothers.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "Covets others' wife and wealth, without valour, obese, disinclined to start ventures, devoid of comforts, short-lived, opposed to own people.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. III Brothers st. 8-9",
+        "view": "Generous instincts if the 3rd lord is combined with the 2nd lord; a miser if Saturn joins the 2nd and 3rd lords.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS, Raman and Charak independently agree on a weak placement for courage, initiative and conduct; Raman makes it conditional on the absence of other favourable combinations. No source read gives a more positive reading; Bhavartha Ratnakara's generosity yoga needs the 2nd lord's company as well.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as a steady, family-focused use of effort; encourage building initiative. Avoid body-type comments and moral labels."
+  },
+  {
+    "id": "lord_in_house/3/3",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 3
+    },
+    "summary": "The 3rd lord in its own house strengthens courage, siblings and enterprise: happiness through siblings, wealth, children and a cheerful nature.",
+    "themes": [
+      "siblings",
+      "courage",
+      "joy",
+      "enterprise"
+    ],
+    "common_outcomes": [
+      "good relations and support with siblings",
+      "strong courage and initiative",
+      "cheerful, communicative",
+      "wealth through effort"
+    ],
+    "rare_outcomes": [
+      "Raman: Mars or Saturn as 3rd lord in the 3rd is traditionally said to harm younger siblings, and the Sun elder siblings; never predict"
+    ],
+    "by_area": {
+      "personality": "Cheerful, brave, energetic (BPHS 24.27; Charak: healthy, valorous); contented (Raman HTJH I).",
+      "career": "",
+      "finance": "Wealthy (BPHS 24.27; Raman; Charak).",
+      "health": "",
+      "relationships": "",
+      "family": "Happiness from siblings and children, and surrounded by friends and relatives (BPHS 24.27; Raman; Charak). A well-disposed 3rd lord in the 3rd, 6th or 11th shows several younger siblings (Raman).",
+      "spirituality": "Devoted to preceptors and gods (Charak)."
+    },
+    "strengtheners": [
+      "always own sign; Cancer lagna Mercury is also exalted (Virgo)",
+      "Mars connection supports siblings (BPHS 14.2)",
+      "3rd lord in own varga or exaltation: happiness of siblings (BPHS 14.6)",
+      "3rd lord with the Sun and Mars: brave and courageous (Bhavartha Ratnakara III st. 2)",
+      "own-house placement of a 3rd/6th/11th lord does good (Sajjanaranjani, quoted under Laghu Parashari sloka 6)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction of the 3rd lord and Mars harms sibling matters (BPHS 14.3)",
+      "combustion"
+    ],
+    "lagna_or_context_notes": "For Sagittarius lagna Saturn owns the 2nd and 3rd; for Scorpio lagna Saturn owns the 3rd and 4th; for Aries lagna Mercury owns the 3rd and 6th. The Sajjanaranjani commentary quoted under Laghu Parashari sloka 6 says lords of the 3rd, 6th and 11th produce good when they occupy their own houses.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.27 (enjoylearningsanskrit.com)",
+        "view": "Happy with siblings, wealthy, has children, joyful, exceptional happiness.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-27"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.27 (Santhanam-based text, archive.org)",
+        "view": "Happiness through co-born, wealth, sons; cheerful.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 14.6 (Sahaja Bhava)",
+        "view": "3rd lord and karaka in kendra/kona, exaltation, friendly or own varga: happiness of siblings.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-14"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "Brave, surrounded by friends and relatives, good children, wealthy, happy, contented. Well disposed in 3/6/11: several younger brothers; Mars or Saturn as 3rd lord here harms younger brothers, the Sun elder ones.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "Healthy, valorous, comforts from brothers, sons, wealth and comforts, helpful family and friends, devoted to preceptors and gods.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. III Brothers st. 2",
+        "view": "Brave and courageous if the 3rd lord, the Sun and Mars are combined.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, sloka 6 with notes (and notes to sloka 22)",
+        "view": "Lords of the 3rd, 6th and 11th produce evil even when natural benefics; the commentary ranks the 3rd lord as the least inauspicious of these, and quotes the Sajjanaranjani view that 3rd/6th/11th lords placed in their own houses do good.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "Sources agree on a positive placement. Raman adds that Mars or Saturn as 3rd lord here harms younger siblings, which runs against the verse's general happiness from siblings.",
+    "confidence": "high",
+    "phrasing_guidance": "Positive; describe energy, cheerfulness and sibling support."
+  },
+  {
+    "id": "lord_in_house/3/4",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 4
+    },
+    "summary": "Effort and courage are directed toward home and comfort: the person is happy, wealthy and intelligent, though BPHS adds a traditional caution about a difficult spouse.",
+    "themes": [
+      "home",
+      "comfort",
+      "property through effort",
+      "intelligence"
+    ],
+    "common_outcomes": [
+      "happiness and comforts at home",
+      "wealth and intelligence",
+      "learning (Raman)",
+      "some friction with the mother (Charak)"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: a harsh or wicked spouse"
+    ],
+    "by_area": {
+      "personality": "Content and clever (BPHS 24.28); learned (Raman; Charak: wise).",
+      "career": "",
+      "finance": "Wealthy (BPHS 24.28; Raman; Charak).",
+      "health": "",
+      "relationships": "BPHS, Raman and Charak all carry a negative traditional line about the spouse; check the 7th house and Venus before saying anything.",
+      "family": "Charak: at odds with the mother. Raman: a weak Mars can mean loss of lands and living in others' houses; brothers may outlive the native if the lagna and 9th lords are weak.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "own sign: Scorpio lagna (Saturn in Aquarius, also 4th lord)",
+      "benefic aspects on the 4th; strong Moon"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Libra lagna, Jupiter in Capricorn",
+      "malefic affliction to the 4th",
+      "weak Mars: loss of lands and living in others' houses; the evil is reduced if the 3rd house is well disposed (Raman HTJH I)"
+    ],
+    "lagna_or_context_notes": "For Scorpio lagna Saturn owns the 3rd and 4th and is in own sign.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.28 (enjoylearningsanskrit.com)",
+        "view": "Happy, wealthy, intelligent, but a wicked spouse.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-28"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.28 (Santhanam-based text, archive.org)",
+        "view": "Happy and wealthy, but the spouse is wicked.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "Happy on the whole, rich and learned, but a cruel-hearted spouse. Well fortified with weak lagna and 9th lords: brothers survive the native; step-brothers if the 9th lord is strong; weak Mars: loss of lands.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "Enjoys comforts, wealthy, wise, opposed to his mother, has a cruel wife.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      }
+    ],
+    "disagreements": "The spouse line appears in BPHS, Raman and Charak; it has no evident house logic. Charak's friction with the mother is not in BPHS 24.28.",
+    "confidence": "medium",
+    "phrasing_guidance": "Emphasise home comforts and wealth gained through effort. Do not characterise the spouse."
+  },
+  {
+    "id": "lord_in_house/3/5",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 5
+    },
+    "summary": "Courage and skill flow into intelligence, creativity and children: the person has children and good qualities; BPHS adds a caution about the spouse when malefics influence the lord.",
+    "themes": [
+      "children",
+      "creativity",
+      "skills",
+      "intelligence"
+    ],
+    "common_outcomes": [
+      "children and good qualities",
+      "help and gains through siblings (Raman, Rath)",
+      "comfort in finances (Raman)"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: with malefic influence, a cruel or formidable spouse",
+      "Raman: adoption into a rich family"
+    ],
+    "by_area": {
+      "personality": "Virtuous and capable (BPHS 24.29); helpful to others (Charak).",
+      "career": "If well disposed, success in government service or large-scale agriculture (Raman HTJH I).",
+      "finance": "Financially well off (Raman). Rath: from the 5th the 3rd lord aspects the 11th and has argala on the 2nd, supporting gains and wealth, provided the 5th lord (its dispositor) is well placed.",
+      "health": "",
+      "relationships": "With malefic influence, a traditional line about a harsh spouse (BPHS 24.29; Charak); Raman notes friction in domestic life. Rath adds argala on the 7th, benefit through the spouse.",
+      "family": "Children indicated (BPHS 24.29; Charak), though Raman says little pleasure from them; benefit from brothers when well disposed (Raman; Rath: help from siblings and sons' friends).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "exaltation: Virgo lagna, Mars in Capricorn",
+      "benefic aspects; strong Jupiter",
+      "5th lord (the dispositor) well placed (Rath, Crux 6.4)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic conjunction or aspect (BPHS 24.29)",
+      "debilitation: Gemini lagna (Sun in Libra) and Sagittarius lagna (Saturn in Aries)",
+      "dispositor (5th lord) in the 12th: little gain from siblings or children (Rath, Crux 6.4)"
+    ],
+    "lagna_or_context_notes": "BPHS 34, Laghu Parashari sloka 6 and Bhavartha Ratnakara XII st. 2 class the 3rd lord as a functional malefic, so its placement in a trikona is not counted as a raja-yoga link.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.29 (enjoylearningsanskrit.com)",
+        "view": "Sons and good qualities; with malefic conjunction/aspect, a cruel spouse.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-29"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.29 (Santhanam-based text, archive.org)",
+        "view": "Sons, virtuous; if malefic-linked, a formidable wife.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "Little pleasure from children, financially well off, friction in domestic life. Well disposed: much benefit from brothers, large-scale agriculture, adoption by a rich family, or success in government service.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "Virtuous, blessed with sons, long-lived, ever helping others; with malefic conjunction or aspect, a cruel wife.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 6.4-6.5 (third lord; lords in the third) (pp. 65-66)",
+        "view": "A 3rd lord in the 5th aspects the 11th (gains from brothers, sons' friends) and has argala on the 2nd (wealth, family), 4th (happiness) and 7th (benefit from spouse); results depend on the dispositor (5th lord).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, sloka 6 with notes (and notes to sloka 22)",
+        "view": "Lords of the 3rd, 6th and 11th produce evil even when natural benefics; the commentary ranks the 3rd lord as the least inauspicious of these, and quotes the Sajjanaranjani view that 3rd/6th/11th lords placed in their own houses do good.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "Raman's 'little pleasure from children' differs from BPHS and Charak, which give children. Rath is the most positive (gains, wealth, happiness through argala).",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of creative skills, children and good qualities. Do not characterise the spouse."
+  },
+  {
+    "id": "lord_in_house/3/6",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 6
+    },
+    "summary": "The lord of siblings and effort in the house of conflict: friction with siblings and maternal uncles, yet considerable wealth and competitive drive.",
+    "themes": [
+      "sibling friction",
+      "competition",
+      "wealth",
+      "maternal relatives"
+    ],
+    "common_outcomes": [
+      "disagreements or rivalry with siblings",
+      "strong competitive or fighting spirit",
+      "wealth through service, competition or litigation"
+    ],
+    "rare_outcomes": [
+      "BPHS: enmity with maternal uncle, but affection from maternal aunt (ELS rendering)",
+      "Raman: accepting illegal gratification (traditional)"
+    ],
+    "by_area": {
+      "personality": "Determined in conflict (BPHS 24.30); Rath 6.4: the 3rd lord in a dusthana keeps impulses under control.",
+      "career": "With the 6th lord in the 3rd at the same time (exchange), sport, physical culture or athletics (Raman HTJH I).",
+      "finance": "Very wealthy (BPHS 24.30; Raman: becomes rich; Charak: very rich); Rath: sudden gains through conquest or competition.",
+      "health": "Charak lists eye trouble and sickliness, and Raman disease when both houses are afflicted (traditional); no medical claims.",
+      "relationships": "",
+      "family": "Sibling and maternal-relative tensions (BPHS 24.30; Raman; Charak). If well disposed, a younger sibling may join the army or a sibling become a physician (Raman). Bhavartha Ratnakara III st. 6 and 10 carry a traditional line about loss of brothers (late in life if benefics are there); never predict.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "own sign: Aries lagna (Mercury in Virgo, also exalted and 6th lord) and Libra lagna (Jupiter in Pisces, also 6th lord)",
+      "strong malefic in the 6th fights obstacles well (Phaladeepika 15.7)",
+      "3rd lord joined by other dusthana lords here: viparita rajayoga (Rath, Crux 6.4)",
+      "6th lord in the 3rd at the same time: sportsman or athlete (Raman HTJH I)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Scorpio lagna (Saturn in Aries) and Aquarius lagna (Mars in Cancer)",
+      "malefic affliction increases conflict",
+      "3rd and 6th both afflicted: illness, enemies and deceit (Raman HTJH I)"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 15.7 says strong malefics in the 3rd/6th/11th from a bhava support it, consistent with BPHS giving wealth alongside sibling friction.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.30 (enjoylearningsanskrit.com)",
+        "view": "Enmity with siblings, very wealthy, enmity with maternal uncle, liked by maternal aunt.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-30"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.30 (Santhanam-based text, archive.org)",
+        "view": "Inimical to co-born, affluent, inimical to maternal uncle.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.5",
+        "view": "A bhava lord in a dusthana harms its bhava (here siblings/courage).",
+        "url": "https://www.siva.sh/phaladeepika/15/1-5"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "Hates brothers and relatives, rich, maternal relatives suffer, accepts illegal gratification. Well disposed: a younger brother joins the army, a brother becomes a physician; with the 6th lord in the 3rd, a sportsman or athlete; both afflicted: disease, enemies, deceit.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "Enmity with brothers, very rich, little comfort from maternal uncle, desires maternal aunt, eye diseases, sickly.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 6.4-6.5 (third lord; lords in the third) (pp. 65-66)",
+        "view": "The 3rd lord in a dusthana (6th, 8th or 12th) is considered auspicious, as the native's sexual urge and animal instincts are under control; with other dusthana lords it forms viparita rajayoga; involvement of the 6th shows sudden gains through conquest, of the 8th legacy or inheritance.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. III Brothers st. 6 and 10",
+        "view": "If the 3rd lord is in the 6th, 8th or 12th, brothers die; if benefics are in those houses, this happens late in life.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS, Raman, Charak and Bhavartha Ratnakara stress friction with or loss of siblings; Rath reads the 3rd lord in a dusthana as auspicious. All agree on wealth. The ELS rendering includes the maternal-aunt line, as does Charak.",
+    "confidence": "medium",
+    "phrasing_guidance": "Mention possible sibling disagreements as something to manage and highlight competitive strength and earnings. Avoid predicting estrangement."
+  },
+  {
+    "id": "lord_in_house/3/7",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 7
+    },
+    "summary": "Effort is directed to partnerships and public service: the person works for government or authorities, with a harder childhood and a more contented later life.",
+    "themes": [
+      "government service",
+      "partnership",
+      "late bloom",
+      "public dealings"
+    ],
+    "common_outcomes": [
+      "employment with government or large institutions (BPHS, Charak)",
+      "difficulties early in life, improving later (BPHS, Raman, Charak)",
+      "many ups and downs (Raman)"
+    ],
+    "rare_outcomes": [
+      "Raman: danger while travelling (traditional)"
+    ],
+    "by_area": {
+      "personality": "Matures with time: a harder childhood and an easier later life (BPHS 24.31; Raman; Charak).",
+      "career": "Service under government or a ruler (BPHS 24.31; Charak: follower of a king); Raman instead warns of the displeasure of authorities.",
+      "finance": "",
+      "health": "",
+      "relationships": "Charak gives a good-natured spouse; Raman calls the union unfortunate. Traditional views; check the 7th house.",
+      "family": "If fortified, cordial relations among siblings; with the 7th lord in the lagna, a sibling settles abroad and helps the native (Raman HTJH I).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "exaltation: Capricorn lagna, Jupiter in Cancer",
+      "benefic aspects on the 7th"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Taurus lagna (Moon in Scorpio) and Pisces lagna (Venus in Virgo)",
+      "malefic affliction"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.31 (enjoylearningsanskrit.com)",
+        "view": "Government service; unhappy in childhood, content later.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-31"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.31 (Santhanam-based text, archive.org)",
+        "view": "Serves the king; unhappy in boyhood, happy later.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "May incur the displeasure of rulers; many vicissitudes; suffering in childhood; unfortunate union; danger while travelling. Fortified: cordial feelings between brothers; with the 7th lord in the lagna, a brother settles abroad and helps.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "Troubled in childhood, comfortable later; follower of a king; good-natured wife.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      }
+    ],
+    "disagreements": "BPHS and Charak are favourable (service, a contented later life, a good spouse); Raman is cautionary (trouble with authorities, ups and downs, unfortunate union, travel risk). All agree on a harder childhood.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as steady service and a life that improves with time."
+  },
+  {
+    "id": "lord_in_house/3/8",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 8
+    },
+    "summary": "Effort and courage fall into the house of hidden and difficult matters. BPHS gives some of its harshest lines here (dishonesty, servitude, trouble with authorities); modern readers emphasise struggle, research and hidden work, and the outcome depends heavily on dignity.",
+    "themes": [
+      "hardship",
+      "hidden work",
+      "servitude",
+      "authorities",
+      "research"
+    ],
+    "common_outcomes": [
+      "periods where effort feels blocked or unrewarded (Raman: 'victim of misfortune')",
+      "subordinate roles (BPHS, Charak)",
+      "need for caution with authorities and legal matters (Raman, Charak)",
+      "possible legacy or inheritance (Rath 6.4)"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: inclination to theft and living by servitude",
+      "BPHS traditional view: a severe end connected with the state; never predict this",
+      "Raman: false accusations, a legal case, or trouble over bequests"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Career may not run smoothly (Raman HTJH I); BPHS and Charak speak of servitude.",
+      "finance": "Rath: with the 8th house involved, the 3rd lord can show legacy or inheritance.",
+      "health": "Raman has a traditional line about a serious illness; no medical predictions.",
+      "relationships": "Raman: marriage unfortunate (traditional; do not predict).",
+      "family": "Sibling matters weakened (Phaladeepika 15.5). Raman and Bhavartha Ratnakara III st. 6 and 10 carry a traditional line about losing a younger brother (late in life if benefics are there); never predict.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "own sign: Virgo lagna (Mars in Aries, also 8th lord) and Pisces lagna (Venus in Libra, also 8th lord)",
+      "exaltation: Leo lagna, Venus in Pisces",
+      "benefic aspect (Phaladeepika 15.3)",
+      "3rd lord joined by other dusthana lords here: viparita rajayoga (Rath, Crux 6.4)"
+    ],
+    "weakeners_or_cancellations": [
+      "combust, debilitated or in an enemy sign without benefic aspect (Phaladeepika 15.3)",
+      "malefic conjunctions"
+    ],
+    "lagna_or_context_notes": "For Virgo and Pisces lagna the 3rd lord also owns the 8th and sits in its own sign. O.P. Verma's commentary on Laghu Parashari treats an 8th lord that also owns a trishadaya house as particularly inauspicious, but adds that the 8th lord placed in the 8th removes the evil of 8th lordship, which is this case.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.32 (enjoylearningsanskrit.com, with word-by-word)",
+        "view": "Becomes a thief, lives by servitude, may die at the king's gate (traditional).",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-32"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.32 (Santhanam-based text, archive.org)",
+        "view": "Thief, serves others, dies at the palace gate.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.3, 15.5",
+        "view": "A lord in the 8th without benefic help harms its bhava; benefic aspect restores it.",
+        "url": "https://www.siva.sh/phaladeepika/15/1-5"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "Involvement in a criminal case or false accusations; trouble over death or bequests; unfortunate marriage; career not smooth; victim of misfortune; serious illness and loss of a younger brother.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "A thief, servile, capital punishment from the ruler, adverse for siblings.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 6.4-6.5 (third lord; lords in the third) (pp. 65-66)",
+        "view": "The 3rd lord in a dusthana (6th, 8th or 12th) is considered auspicious, as the native's sexual urge and animal instincts are under control; with other dusthana lords it forms viparita rajayoga; involvement of the 6th shows sudden gains through conquest, of the 8th legacy or inheritance.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. III Brothers st. 6 and 10",
+        "view": "If the 3rd lord is in the 6th, 8th or 12th, brothers die; if benefics are in those houses, this happens late in life.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, notes to slokas 7 and 9",
+        "view": "An 8th lord that is also a trishadaya lord is particularly inauspicious; the 8th lord in the 8th eradicates the evils of 8th lordship.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "BPHS, Raman, Charak and Bhavartha Ratnakara agree on a difficult placement (legal trouble, servitude, harm to siblings). Rath dissents: the 3rd lord in any dusthana is auspicious, and the 8th adds legacy. BPHS's harshest lines are not repeated in the general bhava rules and are not applied literally.",
+    "confidence": "medium",
+    "phrasing_guidance": "Never call the person dishonest and never mention manner of death. Say effort may meet obstacles and advise care with authorities, contracts and legal matters; highlight research ability."
+  },
+  {
+    "id": "lord_in_house/3/9",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 9
+    },
+    "summary": "Effort meets fortune and the father: BPHS says less happiness from the father, but fortune rising through women or the spouse, and happiness through children.",
+    "themes": [
+      "fortune",
+      "father",
+      "women",
+      "travel",
+      "children"
+    ],
+    "common_outcomes": [
+      "fortune helped by women or the spouse",
+      "long journeys (Raman)",
+      "less closeness or support from father"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "Learned (Charak); life marked by sudden and unexpected changes (Raman HTJH I).",
+      "career": "Long journeys (Raman).",
+      "finance": "Fortune through women or after marriage (BPHS 24.33; Raman; Charak).",
+      "health": "",
+      "relationships": "Fortune improves after marriage (Raman).",
+      "family": "Less closeness with the father (BPHS 24.33; Raman: father untrustworthy; Charak: no comfort from father), sharper if afflicted (Raman); help from children (Charak); if well disposed, a brother inherits ancestral property and the native benefits through him (Raman).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic aspects, strong 9th house"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Cancer lagna, Mercury in Pisces",
+      "malefic affliction to the 9th or Sun"
+    ],
+    "lagna_or_context_notes": "BPHS 34, Laghu Parashari sloka 6 and Bhavartha Ratnakara XII st. 2 class the 3rd lord as a functional malefic, consistent with the mixed result for father and fortune.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.33 (enjoylearningsanskrit.com)",
+        "view": "Lacks father's happiness; fortune rises through women; family happiness.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-33"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.33 (Santhanam-based text, archive.org)",
+        "view": "Lacks paternal bliss; fortunate through wife; enjoys children.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "Fortune improves after marriage; father untrustworthy; long journeys; sudden changes. Favourably disposed: brother inherits ancestral property and helps the native; afflicted: misunderstandings with father.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "Acquires fortune through women; no comfort from father; help from children; learned.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, sloka 6 with notes (and notes to sloka 22)",
+        "view": "Lords of the 3rd, 6th and 11th produce evil even when natural benefics; the commentary ranks the 3rd lord as the least inauspicious of these, and quotes the Sajjanaranjani view that 3rd/6th/11th lords placed in their own houses do good.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "BPHS renderings differ on 'women' vs 'wife' as the source of fortune; Raman specifies 'after marriage'. All sources agree on less support from the father.",
+    "confidence": "high",
+    "phrasing_guidance": "Highlight fortune through partner and personal initiative. Mention father matters gently, as possible distance rather than loss."
+  },
+  {
+    "id": "lord_in_house/3/10",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 10
+    },
+    "summary": "Effort and enterprise shape the career: all comforts and self-earned wealth, with a traditional caution about supporting unworthy people.",
+    "themes": [
+      "career initiative",
+      "self-earned wealth",
+      "comforts"
+    ],
+    "common_outcomes": [
+      "career built through effort and skill",
+      "self-earned wealth and comforts",
+      "gain from work-related travel (Raman)",
+      "support from siblings (Raman)"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: supporting or associating with difficult or wicked women"
+    ],
+    "by_area": {
+      "personality": "Happy and intelligent (Raman HTJH I).",
+      "career": "Strong career through initiative (BPHS 24.34); gains from journeys connected with the profession (Raman); honoured by the ruler (Charak).",
+      "finance": "Self-made wealth (BPHS 24.34; Raman: becomes rich; Charak: earns through own efforts).",
+      "health": "",
+      "relationships": "BPHS and Charak (supporting a wicked woman) and Raman (a quarrelsome, unfaithful spouse) carry harsh traditional lines; do not predict.",
+      "family": "Siblings do well and help the native in every way (Raman).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "own sign: Leo lagna (Venus in Taurus, also 10th lord) and Aquarius lagna (Mars in Scorpio, also 10th lord)",
+      "exaltation: Libra lagna, Jupiter in Cancer",
+      "Mars with dig bala in the 10th",
+      "if the 3rd and 10th lords are conjoined or aspect each other, the 3rd lord's dasa gives fortune while the 10th lord's does not (Bhavartha Ratnakara XI st. 4)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction or combustion"
+    ],
+    "lagna_or_context_notes": "For Leo and Aquarius lagna the 3rd lord also owns the 10th and sits in own sign.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.34 (enjoylearningsanskrit.com)",
+        "view": "All comforts, self-earned wealth, supports difficult women.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-34"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.34 (Santhanam-based text, archive.org)",
+        "view": "All kinds of happiness, self-made wealth, nourishes wicked women.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "Quarrelsome and faithless wife; becomes rich, happy, intelligent; gain from journeys connected with profession. All brothers shine and help the native.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "Earns wealth through own efforts, varied comforts, looks after a wicked woman, honoured by the ruler.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. XI Results of dasas st. 4 with Raman's note",
+        "view": "If the 10th and 3rd lords are conjoined or in mutual aspect, the native lacks fortune in the 10th lord's dasa and enjoys fortunate results in the 3rd lord's dasa.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "All sources agree on self-made wealth; the spouse/association line takes a different form in each (BPHS and Charak: supporting a wicked woman; Raman: a quarrelsome spouse).",
+    "confidence": "medium",
+    "phrasing_guidance": "Positive about self-made career. Omit the line about women or present it only as an archaic textual statement if asked."
+  },
+  {
+    "id": "lord_in_house/3/11",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 11
+    },
+    "summary": "Effort turns into gains: profits in business, intelligence and courage, often in service roles and without needing much formal education.",
+    "themes": [
+      "business gains",
+      "courage",
+      "networks",
+      "service"
+    ],
+    "common_outcomes": [
+      "gains through business, earned with effort (BPHS, Raman, Charak)",
+      "brave and clever",
+      "service to or dependence on others (BPHS, Raman, Charak)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "Bold and resourceful (BPHS 24.35); Raman and Charak add vindictiveness or foolishness and dependence on others.",
+      "career": "Business, trade and service roles (BPHS 24.35); dependent on or subservient to others (Raman; Charak: servile).",
+      "finance": "Gains in business (BPHS 24.35), earned with effort (Raman; Charak: earns through own efforts).",
+      "health": "Raman and Charak give a weak or sickly constitution (traditional); no medical claims.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "exaltation: Gemini lagna (Sun in Aries) and Sagittarius lagna (Saturn in Libra)",
+      "strong malefics in upachayas do well (Phaladeepika 15.7)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Virgo lagna, Mars in Cancer",
+      "malefic affliction"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.35 (enjoylearningsanskrit.com)",
+        "view": "Always profitable in business; intelligent, brave, serves others even with little education.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-35"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.35 (Santhanam-based text, archive.org)",
+        "view": "Gains in trade, intelligent though not learned, adventurous, serves others.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.7",
+        "view": "Strong malefics in 3/6/11 from a bhava support it.",
+        "url": "https://www.siva.sh/phaladeepika/15/6-10"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "Not a very good combination: earnings with effort, vindictive, unattractive and emaciated body, subservient or dependent, frequent illness.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "Foolish, weak, sickly, servile, courageous; earns wealth through own efforts; indulges in physical pleasures.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      }
+    ],
+    "disagreements": "BPHS is favourable (constant business gains); Raman calls it 'not a very good combination' and Charak is similarly negative on health and character. All agree that gains come through effort.",
+    "confidence": "medium",
+    "phrasing_guidance": "Positive: gains through effort and enterprise. Avoid implying lack of education."
+  },
+  {
+    "id": "lord_in_house/3/12",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 3,
+      "placed_in": 12
+    },
+    "summary": "Effort and courage are spent in the house of loss: BPHS warns of spending on improper ends and a harsh father, but says fortune comes through a woman.",
+    "themes": [
+      "expenditure",
+      "father",
+      "foreign travel",
+      "fortune through women"
+    ],
+    "common_outcomes": [
+      "travel or wandering abroad (Charak)",
+      "expenses on pleasures or improper ends (BPHS, Charak)",
+      "fortune helped by a woman or spouse (BPHS, Raman, Charak)"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: spending on wrongful ends; a harsh or cruel father"
+    ],
+    "by_area": {
+      "personality": "Seclusion and great ups and downs (Raman HTJH I).",
+      "career": "Wanders in foreign countries (Charak).",
+      "finance": "Spending on improper ends needs discipline (BPHS 24.36; Charak: wastes money in wicked pursuits); Raman: the native may become poor on account of a younger sibling.",
+      "health": "",
+      "relationships": "Fortune through a woman or through marriage (BPHS 24.36; Raman; Charak).",
+      "family": "Strained relationship with the father (BPHS; Raman: unscrupulous father; Charak: cruel father) and sorrow through relatives (Raman; Charak: opposed to relatives and friends). Bhavartha Ratnakara III st. 10 carries a traditional line about loss of brothers; never predict.",
+      "spirituality": "Inclination to seclusion (Raman)."
+    },
+    "strengtheners": [
+      "own sign: Cancer lagna (Mercury in Gemini, also 12th lord) and Capricorn lagna (Jupiter in Sagittarius, also 12th lord)",
+      "exaltation: Scorpio lagna (Saturn in Libra) and Aquarius lagna (Mars in Capricorn)",
+      "benefic aspects",
+      "3rd lord joined by other dusthana lords here: viparita rajayoga (Rath, Crux 6.4)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Aries lagna, Mercury in Pisces",
+      "malefic affliction (Phaladeepika 15.5)"
+    ],
+    "lagna_or_context_notes": "For Cancer and Capricorn lagna one planet owns both the 3rd and 12th and sits in own sign.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.36 (enjoylearningsanskrit.com)",
+        "view": "Spends on improper ends, harsh father, fortune through women.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-36"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.36 (Santhanam-based text, archive.org)",
+        "view": "Spends on vice, wicked father, fortunate through a woman.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.5",
+        "view": "Lord in a dusthana harms its bhava; benefic aspect restores it.",
+        "url": "https://www.siva.sh/phaladeepika/15/1-5"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VI 'Results of the Lord of the Third House Being Posited in Different Houses' (pp. 73-74)",
+        "view": "Sorrow through relatives, fortune from marriage, seclusion, great ups and downs, unscrupulous father; the youngest brother may be a tyrant and impoverish the native.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Third lord (pp. 232-233)",
+        "view": "Wastes money in wicked pursuits, cruel father, fortunate through women, opposed to relatives and friends, wanders in foreign countries.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 6.4-6.5 (third lord; lords in the third) (pp. 65-66)",
+        "view": "The 3rd lord in a dusthana (6th, 8th or 12th) is considered auspicious, as the native's sexual urge and animal instincts are under control; with other dusthana lords it forms viparita rajayoga; involvement of the 6th shows sudden gains through conquest, of the 8th legacy or inheritance.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. III Brothers st. 6 and 10",
+        "view": "If the 3rd lord is in the 6th, 8th or 12th, brothers die; if benefics are in those houses, this happens late in life.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS, Raman and Charak are negative on spending, relatives and the father but positive on fortune through a woman; Rath reads the 3rd lord in a dusthana as auspicious. Charak's foreign wandering is not in BPHS 24.36.",
+    "confidence": "medium",
+    "phrasing_guidance": "Suggest channelling energy and spending mindfully. Do not characterise the father negatively as a prediction."
+  }
+]

@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "conjunction/sun_moon",
+    "layer": "conjunction",
+    "key": {"planets": ["Sun", "Moon"]},
+    "summary": "Sun and Moon in one sign (a new-Moon birth) is read classically as practical, technical skill (machinery, stone, metal work) and cleverness in work, with a tendency to be guided by one's spouse. The Moon is weak here because it is close to the Sun.",
+    "themes": ["practical skill", "machinery and craft", "new-Moon birth", "influence of spouse"],
+    "common_outcomes": ["skill with machines, stone or metal work", "clever and capable in whatever work is taken up", "strongly guided by or devoted to the spouse"],
+    "rare_outcomes": ["trade in intoxicants (Saravali)", "immodest or able to deceive (Saravali; the translator gives 'metallurgist' with 'able to deceive' as an alternative reading)"],
+    "by_area": {
+      "personality": "Clever and capable in work (Jataka Parijata 8.1); Saravali 15.2 adds a less modest, possibly calculating side.",
+      "career": "Machinery and stone work (Brihat Jataka 14.1; Phaladeepika 18.1); metal work or trade in intoxicants (Saravali 15.2).",
+      "finance": "Saravali 15.2 says quite wealthy; V. Subrahmanya Sastri's note on Brihat Jataka 14 treats the new-Moon conjunction as the one Sun conjunction that is not bad for money.",
+      "health": "",
+      "relationships": "Under the influence of the wife or of women (Saravali 15.2); submissive to the wife (Jataka Parijata 8.1).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Saravali 15.23: results increase when both planets occupy good vargas (divisions)."],
+    "weakeners_or_cancellations": [
+      "The Moon is combust (astangata) within 12 degrees of the Sun (Raman, How to Judge a Horoscope vol. 2, ch. XII); Frawley gives a 15-degree orb for the Moon.",
+      "Frawley: the Moon is weakest as it approaches the Sun and strongest when full.",
+      "Saravali 5.27: a combust planet loses its power to give good results and can give bad results in full.",
+      "Saravali 15.23: results decrease when the planets occupy bad vargas."
+    ],
+    "lagna_or_context_notes": "The classical two-planet results are general and apply in any house; Jataka Parijata (note to Adhyaya 8) says house-by-house results for each pair are given in other works (Horaratna), which were not read here.",
+    "named_yogas": [{"name": "Amavasya (new-Moon) birth", "ref": "", "source": "V. Subrahmanya Sastri, note on Brihat Jataka 14.1"}],
+    "source_views": [
+      {"source": "Brihat Jataka 14.1 (tr. M. Neely, wisdomlib)", "view": "One who makes things of stone and builds machines.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501770.html"},
+      {"source": "Brihat Jataka 14.1 with notes (tr. V. Subrahmanya Sastri, 2nd ed.)", "view": "Skilled in machinery and stone work; the note calls it a creative combination and the one Sun conjunction that is not bad for finance (the new-Moon conjunction).", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.1 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Skilled in machinery and stone work (same as Brihat Jataka).", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.2 (English tr., archive.org 'Kalyana Varmas Saravali'; translator not named)", "view": "Under the control of his wife or women, immodest, a metal worker (or deceptive), quite wealthy, expert in selling intoxicants.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.1 (tr. V. Subrahmanya Sastri, 1932)", "view": "Submissive to his wife and clever in every task.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XII (Eighth House, Astangata Harana)", "view": "The Moon within 12 degrees of the Sun is astangata (combust).", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers, Planetary Aspects and Combinations (pp. 175-176)", "view": "The Moon's combustion orb is 15 degrees; it weakens as it nears the Sun; planetary-war rules do not apply to the Sun or Moon.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Brihat Jataka and Phaladeepika stress technical skill; Saravali adds immodesty, wealth and trade in intoxicants; Jataka Parijata stresses being clever and submissive to the wife. On combustion, Raman gives 12 degrees for the Moon and Frawley 15.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present it as a practical, hands-on, capable nature and a close bond with the partner. Mention that the Moon is faint near the Sun as a reason feelings may be kept inside, not as a defect. Leave out the intoxicants and deception readings unless strongly supported elsewhere."
+  },
+  {
+    "id": "conjunction/sun_mars",
+    "layer": "conjunction",
+    "key": {"planets": ["Sun", "Mars"]},
+    "summary": "Sun with Mars gives strength, energy and a fiery, forceful temperament; the classical texts warn that the same force can turn harsh, untruthful or destructive.",
+    "themes": ["energy", "courage", "fiery temperament", "harshness"],
+    "common_outcomes": ["strong, energetic and valorous", "fiery, forceful temperament", "risk of harsh or unscrupulous conduct"],
+    "rare_outcomes": ["inclined to cruelty or violence (Saravali)", "dull-witted despite strength (Saravali)"],
+    "by_area": {
+      "personality": "Splendid, brave, strong and fierce but quick to lie and harsh (Saravali 15.3); illustrious and energetic but untruthful (Jataka Parijata 8.1); fiery (Frawley).",
+      "career": "",
+      "finance": "",
+      "health": "Frawley: Mars with the Sun often makes the constitution fiery.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Inclined to wrongdoing (Brihat Jataka 14.1; Phaladeepika 18.1)."
+    },
+    "strengtheners": ["Saravali 15.23: results improve when both occupy good vargas."],
+    "weakeners_or_cancellations": [
+      "Mars is combust within 17 degrees of the Sun (Raman, How to Judge a Horoscope vol. 2, ch. XII); Frawley gives 8 degrees 30 minutes.",
+      "Saravali 5.27: a combust planet loses its power for good.",
+      "Frawley: a planet in a favourable sign or house can largely offset combustion."
+    ],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.1 (tr. M. Neely, wisdomlib)", "view": "One who takes pleasure in wrongdoing.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501770.html"},
+      {"source": "Brihat Jataka 14.1 with notes (tr. V. Subrahmanya Sastri)", "view": "Intent on sinful deeds; the note calls it a destructive combination.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.1 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Inclined to sinful deeds.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.3 (archive.org English tr.)", "view": "Splendid, brave, strong but slow-witted; untruthful, sinful, inclined to harm and fierce.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.1 (tr. V. Subrahmanya Sastri)", "view": "Illustrious, strong and energetic, but untruthful and wicked.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "David Frawley, Astrology of the Seers, Medical Astrology (p. 217)", "view": "Mars conjunct the Sun often makes a person fiery.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XII", "view": "Mars is combust within 17 degrees of the Sun.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "All texts read agree on strength and harshness; Saravali and Jataka Parijata add splendour and fame, Brihat Jataka gives only the negative. Combustion orb: Raman 17 degrees, Frawley 8.5 degrees.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe drive, courage and a strong will, and suggest directing it into constructive challenges. Do not call the person sinful or violent; frame the classical warning as a need to watch temper and bluntness."
+  },
+  {
+    "id": "conjunction/sun_mercury",
+    "layer": "conjunction",
+    "key": {"planets": ["Sun", "Mercury"]},
+    "summary": "Sun with Mercury forms Budha-Aditya yoga: intelligence, skill, learning and a good name. Most authorities rate it well; its strength depends on Mercury not being too deeply combust.",
+    "themes": ["intelligence", "skill", "reputation", "learning", "speech"],
+    "common_outcomes": ["clever, intelligent and skilful in work", "good reputation and respect", "learning and pleasant speech", "favour of superiors or authorities"],
+    "rare_outcomes": ["fluctuating wealth (Saravali)", "fickle-mindedness (Jataka Parijata)", "work in service (Saravali)"],
+    "by_area": {
+      "personality": "Clever, intelligent, sweet-spoken, noble (Brihat Jataka 14.1; Saravali 15.4); learned but somewhat fickle (Jataka Parijata 8.1).",
+      "career": "In service, dear to the king and good people (Saravali 15.4); skilful in all work (Raman, PVR).",
+      "finance": "Fame and money but unsteady wealth (Saravali 15.4); Sastri's note says it is not good for finance.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman (Three Hundred Important Combinations, no. 24): Mercury should be more than 10 degrees from the Sun for the yoga to work.",
+      "PVR Narasimha Rao: strongest in divisional charts such as the D-10; works in the rasi chart when Mercury is not combust.",
+      "Raman (How to Judge a Horoscope, chart 202): Jupiter's aspect on a combust Mercury largely removes the harm of combustion.",
+      "Saravali 15.23: good vargas increase the results."
+    ],
+    "weakeners_or_cancellations": [
+      "Mercury is combust within 14 degrees of the Sun, 12 when retrograde (Raman, How to Judge a Horoscope vol. 2, ch. XII); Frawley gives 2 degrees.",
+      "Raman (How to Judge a Horoscope, chart 202): combust Mercury is said to make one superficial and short of judgement.",
+      "PVR: yogas formed by combust planets lose some of their power to do good."
+    ],
+    "lagna_or_context_notes": "PVR: the yoga gives its results in the periods of the Sun and Mercury (and of the sign holding them).",
+    "named_yogas": [{"name": "Budha-Aditya yoga (Nipuna yoga)", "ref": "yoga/budhaditya", "source": "Raman, Three Hundred Important Combinations no. 24; PVR Narasimha Rao 11.2.4"}],
+    "source_views": [
+      {"source": "Brihat Jataka 14.1 (tr. M. Neely, wisdomlib)", "view": "Clever and intelligent, gains reputation and comfort (Neely's rendering adds a harsh streak).", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501770.html"},
+      {"source": "Brihat Jataka 14.1 with notes (tr. V. Subrahmanya Sastri)", "view": "Clever, intelligent, famous and happy; the note says it gives proficiency and a good name but is not good for finance.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.1 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Clever, intelligent, famous and happy.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.4 (archive.org English tr.)", "view": "In service, unsteady wealth, sweet speech, fame and money, noble, liked by the king and good people, with strength, beauty and learning.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.1 (tr. V. Subrahmanya Sastri)", "view": "Learning, beauty and strength, but fickle-minded.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga", "view": "Highly intelligent, skilful, well regarded and comfortable; Mercury is usually an exception to the harm of combustion but should be more than 10 degrees from the Sun; not rare.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XIV (chart 202)", "view": "Almost all standard works call the Sun-Mercury combination auspicious; combust Mercury can make one superficial, but Jupiter's aspect largely cancels this.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, 11.2.4", "view": "Intelligent, skilful, well known, respected and happy; combustion reduces it; most powerful in the D-10.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"}
+    ],
+    "disagreements": "Saravali and Sastri's note say wealth is unsteady or weak while Raman and PVR give comfort and happiness. Combustion orb for Mercury: Raman 14 degrees (12 retrograde) in How to Judge a Horoscope, 10 degrees for the yoga in Three Hundred Important Combinations; Frawley 2 degrees.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a sharp, capable, articulate mind and a good reputation. If Mercury is very close to the Sun, say the gift may need focus and patience to show fully rather than calling it cancelled."
+  },
+  {
+    "id": "conjunction/sun_jupiter",
+    "layer": "conjunction",
+    "key": {"planets": ["Sun", "Jupiter"]},
+    "summary": "Sun with Jupiter is read as a person devoted to work for others, often in an advisory, ministerial or teaching role; texts disagree on whether the nature is kind or stern.",
+    "themes": ["service to others", "advisory role", "teaching", "faith"],
+    "common_outcomes": ["works on behalf of others", "favour of rulers or superiors", "virtuous or faithful nature"],
+    "rare_outcomes": ["a stern or cruel streak (Sastri's translation of Brihat Jataka and Phaladeepika)", "minister of a king or preceptor (Saravali)"],
+    "by_area": {
+      "personality": "Virtuous, good-minded (Saravali 15.5); full of faith and active (Jataka Parijata 8.1); Sastri's Brihat Jataka and Phaladeepika also call him cruel.",
+      "career": "Minister or preceptor (Saravali 15.5); pleases the king through his work (Jataka Parijata 8.1); devoted to other people's work (Brihat Jataka 14.1).",
+      "finance": "Wealthy (Jataka Parijata 8.1); gains through friends (Saravali 15.5).",
+      "health": "",
+      "relationships": "Gains through friends (Saravali 15.5).",
+      "family": "",
+      "spirituality": "Faith and virtue (Jataka Parijata 8.1; Saravali 15.5)."
+    },
+    "strengtheners": ["Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": [
+      "Jupiter is combust within 11 degrees of the Sun (Raman, How to Judge a Horoscope vol. 2, ch. XII); Frawley gives 8 degrees 30 minutes.",
+      "Saravali 5.27: a combust planet loses its power for good."
+    ],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.1 (tr. M. Neely, wisdomlib)", "view": "Devotes himself to the work of others.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501770.html"},
+      {"source": "Brihat Jataka 14.1 with notes (tr. V. Subrahmanya Sastri)", "view": "Cruel and engaged in other people's work; the note says cruel-hearted and benefits others at his own cost.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.1 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Cruel, yet interested in helping others.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.5 (archive.org English tr.)", "view": "Virtuous, a king's minister, gains through friends, good-minded, a preceptor.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.1 (tr. V. Subrahmanya Sastri)", "view": "Full of faith, active, pleases the king through his work, wealthy.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XII", "view": "Jupiter is combust within 11 degrees of the Sun.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "The 'cruel' reading appears in Sastri's translations of Brihat Jataka and Phaladeepika but not in Neely's Brihat Jataka, Saravali or Jataka Parijata, which are positive (virtue, faith, ministerial role). Combustion orb: Raman 11 degrees, Frawley 8.5.",
+    "confidence": "medium",
+    "phrasing_guidance": "Lead with service, guidance and principled work for others. Do not call the person cruel; at most mention a firm, strict side."
+  },
+  {
+    "id": "conjunction/sun_venus",
+    "layer": "conjunction",
+    "key": {"planets": ["Sun", "Venus"]},
+    "summary": "Sun with Venus is linked classically to earning through performance or arms, public entertainment, and money or connections through women or the spouse; Venus is weakened by combustion.",
+    "themes": ["performance", "weapons or martial skill", "public appeal", "spouse's family"],
+    "common_outcomes": ["earns through performing, acting or entertaining the public", "skill with weapons", "gains or ties through women or the spouse's family"],
+    "rare_outcomes": ["weak eyesight in old age (Saravali)"],
+    "by_area": {
+      "personality": "Mighty and able to amuse people (Saravali 15.6); intelligent (Jataka Parijata 8.2); Sastri's note calls it an imitative spirit.",
+      "career": "Earns as an actor or through weapons (Brihat Jataka 14.1; Phaladeepika 18.1); skilled with weapons and entertains the public (Saravali 15.6).",
+      "finance": "Much money earned through women (Saravali 15.6).",
+      "health": "Weak sight in old age (Saravali 15.6).",
+      "relationships": "Gains through women (Saravali 15.6).",
+      "family": "Respects and attends to the relatives gained through his wife (Jataka Parijata 8.2).",
+      "spirituality": ""
+    },
+    "strengtheners": ["Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": [
+      "Venus is combust within 10 degrees of the Sun, 8 when retrograde (Raman, How to Judge a Horoscope vol. 2, ch. XII); Frawley gives 4 degrees.",
+      "Frawley: Venus, like Mercury and the Moon, is weaker the closer it is to the Sun."
+    ],
+    "lagna_or_context_notes": "Raman notes that Venus is exempt from the combustion reduction in the longevity (ayurdaya) calculation; this is specific to that calculation.",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.1 (tr. M. Neely, wisdomlib)", "view": "Profits through weapons and warfare.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501770.html"},
+      {"source": "Brihat Jataka 14.1 with notes (tr. V. Subrahmanya Sastri)", "view": "Earns as an actor or by weapons; note: an imitative spirit.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.1 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Earns as an actor or through weapons.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.6 (archive.org English tr.)", "view": "Skilled with weapons, mighty, weak-sighted in old age, entertains the public, much money through women.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.2 (tr. V. Subrahmanya Sastri)", "view": "Intelligent and attentive to the relatives acquired through his wife.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XII", "view": "Venus combust within 10 degrees (8 retrograde).", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers, Planetary Aspects and Combinations (p. 175)", "view": "Venus combust within 4 degrees; inner planets are weaker near the Sun.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Brihat Jataka, Phaladeepika and Saravali stress performance and weapons; Jataka Parijata gives only intelligence and attention to in-laws. Combustion orb: Raman 10 degrees, Frawley 4.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as charisma, a flair for performance or public life, and strong ties through the partner. Mention eyesight only as a general care point, never as a prediction."
+  },
+  {
+    "id": "conjunction/sun_saturn",
+    "layer": "conjunction",
+    "key": {"planets": ["Sun", "Saturn"]},
+    "summary": "Sun with Saturn joins two enemies: classically it gives hard work and skill with metals or crafts, dutifulness, but strain with family or superiors and a sense of being held back.",
+    "themes": ["hard work", "craft and metals", "duty", "friction with authority or father"],
+    "common_outcomes": ["skilled in metal work or crafts", "hardworking and dutiful", "difficulties with superiors, opponents or the father"],
+    "rare_outcomes": ["loss or separation concerning spouse and children (Saravali)", "under the power of enemies (Jataka Parijata)"],
+    "by_area": {
+      "personality": "Virtuous, mindful of duty, pure but not wholly straightforward (Saravali 15.7); somewhat slow-witted (Jataka Parijata 8.2); hardworking (Sastri's note).",
+      "career": "Metal work or vessel-making (Brihat Jataka 14.1; Phaladeepika 18.1; Saravali 15.7).",
+      "finance": "Sastri's note on Brihat Jataka 14 groups Sun conjunctions as bad for finance.",
+      "health": "Raman: Sun in the 6th afflicted by Saturn points to heart trouble or chest pain unless Jupiter aspects.",
+      "relationships": "Saravali 15.7 speaks of losing wife and son.",
+      "family": "Rath: Saturn joining the Sun in the 6th shows enmity with the father.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Rath (Crux 9.2): if the Sun has a higher longitude than Saturn, the trouble is overcome.",
+      "Raman (How to Judge a Horoscope vol. 1, ch. IX): Jupiter's aspect relieves the Sun-Saturn affliction in the 6th.",
+      "Saravali 15.23: good vargas increase the results."
+    ],
+    "weakeners_or_cancellations": [
+      "Rath (Crux 9.2): if the Sun has a lower longitude than Saturn, the evil is more evident.",
+      "Saturn becomes combust near the Sun (Raman lists Saturn with the other planets; the scan reads 5 degrees, unverified); Frawley gives 8 degrees 30 minutes. Raman notes Saturn is exempt from the combustion reduction in the longevity calculation."
+    ],
+    "lagna_or_context_notes": "House-specific notes read: in the 6th house (Raman; Rath).",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.1 (tr. M. Neely, wisdomlib)", "view": "Skilled in metal work, makes various kinds of vessels.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501770.html"},
+      {"source": "Brihat Jataka 14.1 with notes (tr. V. Subrahmanya Sastri)", "view": "Clever in metal work; note: one who works hard.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.1 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Skilled in metal work or pottery.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.7 (archive.org English tr.)", "view": "Metal worker, virtuous and dutiful, loses wife and son, true to his family's ways, pure but not fully upright.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.2 (tr. V. Subrahmanya Sastri)", "view": "Somewhat dull-witted and in the power of his enemies.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Sixth House)", "view": "Sun in the 6th afflicted by Saturn shows heart trouble or chest pain unless Jupiter aspects.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology 9.2 (in the same archive.org item)", "view": "Saturn conjoining the Sun in the 6th shows enmity with the father; the Sun at a higher longitude overcomes it, a lower longitude makes it worse.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Saravali gives virtue and duty with family loss; Jataka Parijata gives dullness and enemies; Brihat Jataka and Phaladeepika give only craft. The Saturn combustion orb in Raman's scan (5 degrees) differs from Frawley's 8.5 degrees.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as discipline, endurance and achievement through steady effort, with lessons around authority and the father. Never predict loss of spouse or children; mention heart care only as general wellbeing."
+  },
+  {
+    "id": "conjunction/sun_rahu",
+    "layer": "conjunction",
+    "key": {"planets": ["Sun", "Rahu"]},
+    "summary": "Sun with Rahu is an 'eclipse' combination in modern readings: the Sun's significations (self, father, vitality) are obstructed or transformed, and the result can lean either to worldly trouble or to spiritual renunciation. The classical two-planet chapters read do not cover the nodes.",
+    "themes": ["eclipse of the Sun", "father", "vitality", "renunciation or ambition"],
+    "common_outcomes": ["Sun's matters (self-confidence, father, authority) obstructed or unusual", "possible pull towards spirituality or renunciation"],
+    "rare_outcomes": ["Rath: this eclipse combination can produce either a saint or a criminal type, depending on other factors"],
+    "by_area": {
+      "personality": "Rath: Rahu brings spirituality or renunciation while the Sun may turn negative; with lagna or arudha lagna in Aquarius the native is spiritual, in Leo the reverse.",
+      "career": "",
+      "finance": "",
+      "health": "Rath (Crux 9.2): Rahu eclipsing the Sun in the 6th shows torment by disease.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Rath: Rahu with the Sun can show great spirituality or renunciation."
+    },
+    "strengtheners": ["Rath (Crux 9.2): if the Sun has a higher longitude than Rahu, the evil is overcome."],
+    "weakeners_or_cancellations": ["Rath (Crux 9.2): if the Sun has a lower longitude than Rahu, the evil is more evident.", "Frawley: closer conjunctions are stronger; a node conjoined with a planet acts as an eclipse of that planet."],
+    "lagna_or_context_notes": "Rath: results depend on whether lagna or arudha lagna is Aquarius (spiritual) or Leo (worldly or negative).",
+    "named_yogas": [{"name": "Grahan (eclipse) yoga", "ref": "yoga/grahan", "source": ""}, {"name": "Pitra dosha", "ref": "dosha/pitra", "source": ""}],
+    "source_views": [
+      {"source": "Sanjay Rath, Crux of Vedic Astrology 15.16 (chart 155) and 9.2", "view": "A close Sun-Rahu conjunction is an eclipse; Rahu shows great spirituality or renunciation while the Sun can be negative; in the 6th it shows disease, overcome when the Sun has the higher longitude.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology 12.13", "view": "An eclipse combination of the Sun can produce either a short-lived saint (Sun) or a long-lived criminal (Rahu).", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 102-103)", "view": "A planet conjoined with either node is eclipsed: its energy is obstructed, negated or released; the nodes take on and magnify the planets they join.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Brihat Jataka 14, Saravali 15, Jataka Parijata 8 and Phaladeepika 18 cover only the seven visible planets and say nothing on this pair. Rath's spiritual-versus-negative split is not found in Frawley, who stresses obstruction.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe it as an intense, unusual relationship with authority, ego and the father, with a strong pull towards meaning or ambition. Avoid 'curse' or 'dosha' language; never predict illness."
+  },
+  {
+    "id": "conjunction/sun_ketu",
+    "layer": "conjunction",
+    "key": {"planets": ["Sun", "Ketu"]},
+    "summary": "Sun with Ketu is treated in modern sources as an eclipse of the Sun: the Sun's significations are obstructed or turned inward. Frawley adds that Ketu can boost a planet that is strong in its own or exaltation sign. The classical two-planet chapters read do not cover the nodes.",
+    "themes": ["eclipse of the Sun", "detachment", "ego turned inward"],
+    "common_outcomes": ["Sun's matters (self-confidence, father, status) obstructed or unusual"],
+    "rare_outcomes": ["with a strong Sun, Ketu may boost its power (Frawley's general rule for Ketu)"],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Frawley: a planet in its own sign or exalted gains considerable power when conjoined with Ketu."],
+    "weakeners_or_cancellations": ["Frawley: conjunction with a node eclipses the planet, obstructing or negating its energy."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [{"name": "Grahan (eclipse) yoga", "ref": "yoga/grahan", "source": ""}],
+    "source_views": [
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 103, 105)", "view": "Node conjunctions eclipse a planet; Ketu boosts strong planets it joins (own sign or exalted); its results are sudden and unexpected, for good or ill.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "No classical two-planet chapter read covers this pair; only one modern source speaks to it.",
+    "confidence": "low",
+    "phrasing_guidance": "Keep it gentle: a reflective, less ego-driven expression of the self that may grow into inner strength. Do not predict harm to the father or health."
+  },
+  {
+    "id": "conjunction/moon_mars",
+    "layer": "conjunction",
+    "key": {"planets": ["Moon", "Mars"]},
+    "summary": "Moon with Mars forms Chandra-Mangala yoga: a brave, energetic, emotionally intense nature and drive to earn. Classical texts warn of rough trades and friction with the mother; Raman and PVR stress material success.",
+    "themes": ["earning drive", "courage", "emotional intensity", "mother"],
+    "common_outcomes": ["material success and earning power", "brave and energetic", "intense, quick emotions", "friction with the mother or women"],
+    "rare_outcomes": ["trade in liquor, tools or women (Brihat Jataka; Phaladeepika)", "blood disorders (Saravali)", "high birth and virtue (Jataka Parijata)"],
+    "by_area": {
+      "personality": "Valorous and brave (Saravali 15.8; Jataka Parijata 8.2); Raman: emotional, high-strung and hard to control in mind when Mars closely contacts the Moon.",
+      "career": "Rough trades such as tools, liquor and earthenware (Brihat Jataka 14.2); artisan, metal or leather work (Saravali 15.8); Raman: earning through trades that cater to baser needs when afflicted, approved means when well placed.",
+      "finance": "Raman: a powerful factor for stabilising finances; rich (Jataka Parijata 8.2); PVR: materially successful, possibly by unscrupulous means.",
+      "health": "Blood disorders (Saravali 15.8).",
+      "relationships": "May treat women badly (PVR).",
+      "family": "Disobedient to or harsh with the mother (Brihat Jataka 14.2 in Sastri's tr.; Phaladeepika 18.2; PVR; Raman citing the ancients).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman: most productive of good in the 2nd, 9th, 10th or 11th house.",
+      "Raman: when the Moon and Mars are well disposed, earnings come through approved means.",
+      "Saravali 5.40: a planet joined with the Moon is able to give happiness.",
+      "Saravali 15.23: good vargas increase the results."
+    ],
+    "weakeners_or_cancellations": ["Raman (How to Judge a Horoscope vol. 1, ch. IX): Moon in the 6th afflicted by Mars and Saturn gives obscure, hard-to-cure illness and revengeful enemies."],
+    "lagna_or_context_notes": "Raman holds the yoga also forms by mutual aspect (e.g. Moon in Taurus with Mars in Scorpio, Moon in Cancer with Mars in Capricorn) and calls those excellent; the conjunction-only definition is PVR's and the classical one.",
+    "named_yogas": [{"name": "Chandra-Mangala yoga (Sasi-Mangala)", "ref": "yoga/chandra_mangala", "source": "Raman, Three Hundred Important Combinations no. 6; PVR Narasimha Rao 11.3.5"}],
+    "source_views": [
+      {"source": "Brihat Jataka 14.2 (tr. M. Neely, wisdomlib)", "view": "Trades in liquor and is involved in schemes with deceitful women; an inauspicious combination.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501771.html"},
+      {"source": "Brihat Jataka 14.2 with notes (tr. V. Subrahmanya Sastri)", "view": "Dealer in rough tools, women, drinks and earthen jars, disobedient to his mother; note: Varahamihira differs here from Parashara, who holds the yoga good.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.2 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Deals in tools, women, liquor or earthen jars; disobedient to his mother.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.8 (archive.org English tr.)", "view": "Valorous, brave in war, a boxer, prone to blood disorders, makes things of clay, skin and minerals; an artisan and metal worker.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.2 (tr. V. Subrahmanya Sastri)", "view": "Brave, of high birth, virtuous, rich and worthy.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations, no. 6 Chandra Mangala Yoga", "view": "Gives the ancient results (unscrupulous earnings, harshness to mother), then argues the yoga strongly stabilises finances; good in the 2nd, 9th, 10th, 11th; also forms by mutual aspect.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Sixth House)", "view": "Mars in close contact with the Moon shows a high-strung, emotional, erratic temperament with little control over the mind.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, 11.3.5", "view": "Worldly wise and materially successful; may earn by unscrupulous means; may treat mother or women badly.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"}
+    ],
+    "disagreements": "Varahamihira (and Phaladeepika) read it negatively; Jataka Parijata and, per Sastri's note, Parashara read it as good; Raman sides with the good reading for finance. Raman counts mutual aspect as forming the yoga; PVR and the classical texts require the same sign.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with drive, courage and earning ability, and note that strong feelings need a healthy outlet. Mention the mother relationship as an area for patience, not as conflict foretold; omit trades in women or liquor."
+  },
+  {
+    "id": "conjunction/moon_mercury",
+    "layer": "conjunction",
+    "key": {"planets": ["Moon", "Mercury"]},
+    "summary": "Moon with Mercury, two benefics, gives pleasant, skilful speech, literary or interpretive talent, good fortune and reputation, and a charming manner.",
+    "themes": ["speech", "literary skill", "charm", "good fortune"],
+    "common_outcomes": ["sweet, courteous speech", "skill in interpreting, poetry or stories", "good luck and reputation", "many good qualities"],
+    "rare_outcomes": ["devotion to the sciences and piety (Jataka Parijata)"],
+    "by_area": {
+      "personality": "Courteous, resourceful, smiling and attractive (Brihat Jataka 14.2; Saravali 15.9); pious with varied merits (Jataka Parijata 8.2).",
+      "career": "Clever at interpreting (Brihat Jataka 14.2 in Sastri's tr.); skilled in poetry and stories (Saravali 15.9).",
+      "finance": "Wealthy (Saravali 15.9); Sastri's note says even this benefic pair is not good for finance.",
+      "health": "",
+      "relationships": "Affectionate to the wife (Saravali 15.9).",
+      "family": "",
+      "spirituality": "Pious (Jataka Parijata 8.2)."
+    },
+    "strengtheners": ["Saravali 5.40: a planet joined with the Moon can give happiness.", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Saravali 15.23: bad vargas reduce the results.", "Raman (How to Judge a Horoscope vol. 1, ch. IX): a harmonious Moon-Mercury relationship is a great asset to the mind; affliction of either harms it."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.2 (tr. M. Neely, wisdomlib)", "view": "Courteous speech, resourceful in reaching goals, reputation and good luck.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501771.html"},
+      {"source": "Brihat Jataka 14.2 with notes (tr. V. Subrahmanya Sastri)", "view": "Sweet-tongued, clever in interpreting, lucky and famous; note: two benefics give good results, though not for finance.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.2 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Sweet speech, skilled at interpreting, good luck and fame.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.9 (archive.org English tr.)", "view": "Skilled in poems and stories, wealthy, kind to his wife, handsome, smiling, with distinct virtues.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.2 (tr. V. Subrahmanya Sastri)", "view": "Pious, devoted to the sciences, with many merits.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Sixth House)", "view": "The Moon and Mercury are the two determinants of mental qualities; harmony between them is a great asset.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Saravali calls the native wealthy; Sastri's note on Brihat Jataka says the pair is not good for finance.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a warm, witty communicator with a feel for words and stories. Keep wealth claims modest."
+  },
+  {
+    "id": "conjunction/moon_jupiter",
+    "layer": "conjunction",
+    "key": {"planets": ["Moon", "Jupiter"]},
+    "summary": "Moon with Jupiter is one of the best two-planet combinations classically: intelligence, loyalty, respect for elders and the wise, family leadership and wealth, with Brihat Jataka adding a restless mind.",
+    "themes": ["wisdom", "wealth", "family leadership", "virtue", "loyal friendship"],
+    "common_outcomes": ["wealthy", "head or protector of the family or a group", "virtuous, respectful of the wise and the divine", "intelligent and protective of good people"],
+    "rare_outcomes": ["fickle or restless mind (Brihat Jataka; Phaladeepika)", "overpowers enemies (Sastri's tr.)"],
+    "by_area": {
+      "personality": "Bold but restless (Brihat Jataka 14.2); firm in friendship and modest (Saravali 15.10); very intelligent (Jataka Parijata 8.3).",
+      "career": "Leader of a group (Brihat Jataka 14.2).",
+      "finance": "Wealthy (Brihat Jataka 14.2; Saravali 15.10); Sastri's note calls it an exception to conjunctions being bad for finance, and elsewhere says it gives good wealth and constitution.",
+      "health": "Good constitution (Sastri's note to Brihat Jataka ch. 18).",
+      "relationships": "Firm in friendship (Saravali 15.10).",
+      "family": "Chief of the family (Brihat Jataka 14.2 in Sastri's tr.); respectful to relatives (Saravali 15.10).",
+      "spirituality": "Regards the gods and the wise (Saravali 15.10); protects good people (Jataka Parijata 8.3)."
+    },
+    "strengtheners": ["Saravali 5.40: a planet joined with the Moon can give happiness.", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Saravali 15.23: bad vargas reduce the results."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.2 (tr. M. Neely, wisdomlib)", "view": "Bold, leads a group, restless mind, holds wealth.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501771.html"},
+      {"source": "Brihat Jataka 14.2 with notes (tr. V. Subrahmanya Sastri)", "view": "Overpowers enemies, fickle, head of the family, wealthy; note: an exception, good for finance.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.2 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Overpowers enemies but fickle; family chief and wealthy.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.10 (archive.org English tr.)", "view": "Firm in friendship, modest, respectful to relatives, wealthy, virtuous, honours gods and the learned.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.3 (tr. V. Subrahmanya Sastri)", "view": "Very intelligent and a protector of good people.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "Brihat Jataka and Phaladeepika add a restless or fickle mind; Saravali and Jataka Parijata do not.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of generosity, wisdom and a protective, family-minded nature, with a lively mind that benefits from routine."
+  },
+  {
+    "id": "conjunction/moon_venus",
+    "layer": "conjunction",
+    "key": {"planets": ["Moon", "Venus"]},
+    "summary": "Moon with Venus is linked classically to cloth, fragrance and fine goods, skill in trade, and a pleasure-loving, easygoing nature.",
+    "themes": ["textiles and fine goods", "trade", "comfort and pleasure", "aesthetics"],
+    "common_outcomes": ["skill with cloth, weaving, tailoring or dyeing", "clever in buying and selling", "fond of flowers, scents and fine clothes"],
+    "rare_outcomes": ["very lazy (Saravali)", "evil-minded (Jataka Parijata)"],
+    "by_area": {
+      "personality": "Dear to his family but very lazy (Saravali 15.11); Jataka Parijata 8.3 calls him evil-minded.",
+      "career": "Weaving, tailoring and dyeing (Brihat Jataka 14.2; Phaladeepika 18.2); trade (Saravali 15.11; Jataka Parijata 8.3).",
+      "finance": "Sastri's note: no financial success is indicated.",
+      "health": "",
+      "relationships": "",
+      "family": "Dear to his family (Saravali 15.11).",
+      "spirituality": "Knows how to perform rites (Saravali 15.11; 'kriya' read as duties or rites)."
+    },
+    "strengtheners": ["Saravali 5.40: a planet joined with the Moon can give happiness.", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Saravali 15.23: bad vargas reduce the results."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.2 (tr. M. Neely, wisdomlib)", "view": "Skilled in the clothing trade and similar work.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501771.html"},
+      {"source": "Brihat Jataka 14.2 with notes (tr. V. Subrahmanya Sastri)", "view": "Adept in weaving, tailoring and dyeing; note: no financial success indicated.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.2 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Skilled in weaving, tailoring and dyeing.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.11 (archive.org English tr.)", "view": "Has flowers, incense and clothes, knows his duties, dear to his family, very lazy, skilled in buying and selling.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.3 (tr. V. Subrahmanya Sastri)", "view": "Evil-minded and clever in bargaining.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "Jataka Parijata gives a negative character reading that the others do not; Saravali alone gives laziness and family affection.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of taste, a love of beauty and comfort, and a knack for trade or design. Leave out 'evil-minded'; mention a relaxed pace kindly."
+  },
+  {
+    "id": "conjunction/moon_saturn",
+    "layer": "conjunction",
+    "key": {"planets": ["Moon", "Saturn"]},
+    "summary": "Moon with Saturn is a difficult classical pair: limited wealth, dependence on others and family or marital burdens, and (Raman) a serious, slow, melancholy cast of mind unless benefics relieve it.",
+    "themes": ["heaviness of mind", "limited means", "dependence", "family burdens"],
+    "common_outcomes": ["limited or slow-growing wealth", "serious, stubborn or melancholy mood", "dependence on or service under others", "strains in marriage or with parents"],
+    "rare_outcomes": ["born of a remarried widow (Brihat Jataka; Phaladeepika)", "breeds elephants and horses, liked by the public (Saravali)"],
+    "by_area": {
+      "personality": "Stubborn, slow, prone to melancholy without benefic relief (Raman); lacking virtues, controlled by others (Saravali 15.12).",
+      "career": "Under the control of others; keeper of elephants and horses (Saravali 15.12).",
+      "finance": "Without wealth (Saravali 15.12; Jataka Parijata 8.3); Sastri's note: bad for finance.",
+      "health": "Raman: Moon in the 6th afflicted by Mars and Saturn gives obscure, hard-to-cure illness; Saturn afflicting the Moon gives chronic complaints.",
+      "relationships": "An aged or worn wife (Saravali 15.12); a bad wife (Jataka Parijata 8.3).",
+      "family": "Abuses parents (Jataka Parijata 8.3); unusual birth circumstances (Brihat Jataka 14.2).",
+      "spirituality": ""
+    },
+    "strengtheners": ["Raman: Adhi yoga or Gajakesari yoga, or a benefic aspect, relieves the mind and gives balance and memory.", "Saravali 5.40: a planet joined with the Moon can give happiness.", "Saravali 15.23: good vargas improve the results."],
+    "weakeners_or_cancellations": ["Raman: with Rahu also involved, especially in Scorpio or the 6th, there is risk of mental disturbance.", "Saravali 15.23: bad vargas worsen the results."],
+    "lagna_or_context_notes": "Sastri's note to Brihat Jataka ch. 19 says Saturn's influence on the Moon is bad except when the Moon is in Taurus or Capricorn (stated for aspects; the note links it to this conjunction).",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.2 (tr. M. Neely, wisdomlib)", "view": "Child of a remarried widow (punarbhu).", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501771.html"},
+      {"source": "Brihat Jataka 14.2 with notes (tr. V. Subrahmanya Sastri)", "view": "Son of a remarried widow; note: bad for finance.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.2 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Son of a remarried widow.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.12 (archive.org English tr.)", "view": "An aged wife, liked by the public, keeps elephants and horses, lacking virtue, dependent, without wealth and defeated.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.3 (tr. V. Subrahmanya Sastri)", "view": "A bad wife, abuses his parents, without wealth.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Sixth House)", "view": "Moon with Saturn and no benefic relief makes the mind stubborn, slow and given to melancholy; Adhi or Gajakesari yoga gives balance.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Saravali allows popularity with the public; the other texts are wholly negative. Brihat Jataka and Phaladeepika speak only of birth circumstances, the others of wealth and family.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as a serious, responsible, deep-feeling nature that matures with time, and advise rest and support during low moods. Never mention the birth-circumstance reading; do not diagnose depression."
+  },
+  {
+    "id": "conjunction/moon_rahu",
+    "layer": "conjunction",
+    "key": {"planets": ["Moon", "Rahu"]},
+    "summary": "Moon with Rahu (Raman's Chandra-Chandala yoga) is read in modern sources as a highly sensitive, restless mind prone to obsession, unusual psychic experience or excess; how it shows depends on sign, house and relief from benefics. The classical two-planet chapters read do not cover it.",
+    "themes": ["sensitivity of mind", "obsession", "psychic or unusual experience", "eclipse of the Moon"],
+    "common_outcomes": ["heightened emotional and psychic sensitivity", "restless, easily excited mind", "pull towards unusual interests, mediumship or the occult"],
+    "rare_outcomes": ["severe mental disturbance when heavily afflicted (Raman; Frawley)", "temptation towards black magic, especially with the Moon in Scorpio (Raman)"],
+    "by_area": {
+      "personality": "Raman: inclined to unhealthy or unusual mental states, obsession, religious mania, mediumship, drugs or vices, varying with sign and house. Frawley: heightened astral sensitivity.",
+      "career": "",
+      "finance": "",
+      "health": "Raman: Moon afflicted by Rahu shows skin troubles, and by Rahu or Ketu mental disturbance, hysteria or peculiar psychic states. Raman also says severe affliction can give suicidal tendencies through extreme sensitiveness [maraka: text predicts danger to life].",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Raman lists mediumship and religious mania among the tendencies; Frawley: astral sensitivity."
+    },
+    "strengtheners": ["Frawley: Rahu's effect may be countered by other forces in the chart.", "Raman: benefic association or aspect relieves the combination."],
+    "weakeners_or_cancellations": ["Raman: Moon in Scorpio afflicted by Rahu or Saturn is worse.", "Raman: Rahu with the Moon and Saturn together, especially in the 6th, can make the native a 'psychological misfit' unless relieved by benefics."],
+    "lagna_or_context_notes": "Raman: how the tendencies express themselves depends on the houses and signs.",
+    "named_yogas": [{"name": "Chandra-Chandala yoga", "ref": "", "source": "Raman, How to Judge a Horoscope vol. 1, ch. IX"}, {"name": "Grahan (eclipse) yoga", "ref": "yoga/grahan", "source": ""}],
+    "source_views": [
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Sixth House, p. 138 of scan)", "view": "Chandra-Chandala yoga (Moon with Rahu) inclines the mind to unhealthy conditions, obsession, religious mania, mediumship, drugs and vices; severe affliction by Rahu or Saturn can give hysteria and suicidal tendencies.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Planets in the Sixth House)", "view": "Moon afflicted by Rahu: skin troubles; by Rahu or Ketu: mental derangement or peculiar psychic conditions; Rahu with Moon and Saturn is to be dreaded unless relieved.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 103-104)", "view": "Rahu is the main factor behind neurosis and nervous disorders, especially when conjunct the Moon; he observed many Moon-Rahu conjunctions in such charts, though the effect is not always severe.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "No classical two-planet chapter read covers the pair. Raman and Frawley agree on the mental-sensitivity theme; neither gives a positive reading beyond sensitivity.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of a sensitive, intuitive, imaginative mind that does best with grounding routines and calm surroundings. Never mention insanity, suicide or black magic; do not diagnose."
+  },
+  {
+    "id": "conjunction/moon_ketu",
+    "layer": "conjunction",
+    "key": {"planets": ["Moon", "Ketu"]},
+    "summary": "Moon with Ketu is an eclipse of the Moon in modern readings: emotional detachment or sensitivity and unusual psychic states. Sources are thin; the classical two-planet chapters read do not cover it.",
+    "themes": ["eclipse of the Moon", "detachment", "psychic sensitivity"],
+    "common_outcomes": ["inward or detached emotional life", "heightened psychic sensitivity"],
+    "rare_outcomes": ["mental disturbance when heavily afflicted (Raman)"],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Raman: Moon afflicted by Rahu or Ketu shows mental disturbance, hysteria or peculiar psychic conditions.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": ["Frawley: a node conjoined with a planet eclipses it, obstructing or negating its energy."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [{"name": "Grahan (eclipse) yoga", "ref": "yoga/grahan", "source": ""}],
+    "source_views": [
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Planets in the Sixth House)", "view": "Moon afflicted by Rahu or Ketu: mental derangement, hysteria or peculiar psychic conditions.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers, The Planets (p. 103)", "view": "Conjunction with either node eclipses a planet.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Describe a quiet, inward, intuitive emotional nature that benefits from reflection and spiritual practice. Avoid any mental-health claims."
+  },
+  {
+    "id": "conjunction/mars_mercury",
+    "layer": "conjunction",
+    "key": {"planets": ["Mars", "Mercury"]},
+    "summary": "Mars with Mercury points classically to medicine, herbs, oils and drugs, metal and building trades, and combative skill; Jataka Parijata adds eloquence. Wealth and marriage are often described as weak.",
+    "themes": ["medicine and drugs", "trade", "combative skill", "sharp speech"],
+    "common_outcomes": ["work with medicines, herbs, oils or drugs", "skill in wrestling or boxing", "sharp, eloquent speech"],
+    "rare_outcomes": ["work with gold and iron or as a builder (Saravali)", "an unlucky marriage (Saravali)"],
+    "by_area": {
+      "personality": "Eloquent (Jataka Parijata 8.3).",
+      "career": "Trader in roots, oils and drugs, or a wrestler (Brihat Jataka 14.3); medicine-making, metal work, architecture (Saravali 15.13); medicine and fine arts (Jataka Parijata 8.3).",
+      "finance": "Little wealth (Saravali 15.13); Sastri's note: bad for finance.",
+      "health": "",
+      "relationships": "Unlucky wife and an improper liaison (Saravali 15.13).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Planetary war: if the two are within about a degree, the winner gains and the loser weakens; a planet that wins is strong and auspicious (Saravali 4.36, 5.40).", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Planetary war: the planet that is southern, dim or small loses (Brihat Samhita 17.9); Frawley instead says the planet with the lower longitude wins. A defeated planet loses its auspiciousness and can give bad results in full (Saravali 5.2-4, 5.27).", "Saravali 15.23: bad vargas reduce the results."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.3 (tr. M. Neely, wisdomlib)", "view": "Trader in roots, oils and similar goods, or a wrestler.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501772.html"},
+      {"source": "Brihat Jataka 14.3 with notes (tr. V. Subrahmanya Sastri)", "view": "Dealer in herbs, barks, oils and drugs, clever at boxing; note: condemned trades per Manu, bad for finance.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.3 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Deals in herbs, barks, oils and drugs; skilled at boxing.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.13 (archive.org English tr.)", "view": "Unlucky wife, little wealth, works with gold and iron, an architect, keeps a bad widow, expert in making medicines.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.3 (tr. V. Subrahmanya Sastri)", "view": "Eloquent and clever in medicine and fine arts.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "Brihat Samhita 17.7, 17.9 (siva.sh)", "view": "In a planetary meeting the defeated planet harms what it governs and the victor brings prosperity; the southern, dim, harsh-looking or small planet is defeated.", "url": "https://www.siva.sh/brihat-samhita/17/9"},
+      {"source": "David Frawley, Astrology of the Seers, Planetary Aspects and Combinations (pp. 175-176)", "view": "Planets within one degree are at war; the lower longitude wins; a benefic losing to a malefic is badly weakened; a retrograde loser suffers less.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "All texts read share the medicine/drugs theme; Jataka Parijata is positive (eloquence, arts) where Saravali is negative on wife and wealth. Planetary-war winner: Brihat Samhita (northern and brighter wins) versus Frawley (lower longitude wins).",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a quick, practical, debating mind with aptitude for medicine, technical or hands-on trades. Do not predict marital misfortune."
+  },
+  {
+    "id": "conjunction/mars_jupiter",
+    "layer": "conjunction",
+    "key": {"planets": ["Mars", "Jupiter"]},
+    "summary": "Mars with Jupiter is a favourable classical pair: leadership, standing in the community, learning and wealth earned through one's own effort.",
+    "themes": ["leadership", "learning", "self-earned wealth", "respect"],
+    "common_outcomes": ["leader of a town, group or people", "learned, intelligent and articulate", "wealth through own effort", "respected and worthy"],
+    "rare_outcomes": ["skill in mathematics or computation (Jataka Parijata)", "fond of weapons (Saravali)"],
+    "by_area": {
+      "personality": "Loving, revered and worthy (Jataka Parijata 8.4); intelligent, eloquent and wise (Saravali 15.14).",
+      "career": "Head of a city or ruler (Brihat Jataka 14.3); artisan or Vedic scholar (Saravali 15.14).",
+      "finance": "Gains wealth (Brihat Jataka 14.3); Sastri's note: earns by own exertion, an exception to conjunctions being bad for finance.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Learned in sacred lore (Saravali 15.14; Brihat Jataka 14.3 'a Brahmin')."
+    },
+    "strengtheners": ["Planetary war: a winning planet is strong and auspicious (Saravali 4.36, 5.40).", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Planetary war: the loser (southern, dim or small per Brihat Samhita 17.9; lower longitude wins per Frawley) is weakened (Saravali 5.2-4, 5.27).", "Saravali 15.23: bad vargas reduce the results."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.3 (tr. M. Neely, wisdomlib)", "view": "City administrator, ruler, gains wealth, or a Brahmin.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501772.html"},
+      {"source": "Brihat Jataka 14.3 with notes (tr. V. Subrahmanya Sastri)", "view": "Leader of a city, king or wealthy Brahmin; note: a good position, earns by his own exertion.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.3 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "City leader, king or wealthy Brahmin.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.14 (archive.org English tr.)", "view": "Artisan, Vedic scholar, intelligent, skilled in speech, wise and fond of weapons.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.4 (tr. V. Subrahmanya Sastri)", "view": "Loving, revered, worthy and versed in computation.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "David Frawley, Astrology of the Seers (pp. 175-176)", "view": "Planetary war within one degree; the lower longitude wins.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Saravali stresses learning and weapons rather than rulership; otherwise the texts agree it is favourable.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as principled courage, leadership and learning that earns respect and resources."
+  },
+  {
+    "id": "conjunction/mars_venus",
+    "layer": "conjunction",
+    "key": {"planets": ["Mars", "Venus"]},
+    "summary": "Mars with Venus gives strong passions, physical vigour and cleverness; classical texts warn of gambling, deceit and affairs, though Saravali also gives leadership and calculating skill.",
+    "themes": ["passion", "physical vigour", "risk-taking", "cleverness"],
+    "common_outcomes": ["passionate and physically active", "clever, capable, sometimes cunning", "liking for games of chance or risk"],
+    "rare_outcomes": ["chief among his people, honoured (Saravali)", "mathematician or astrologer (Saravali)", "interest in metallurgy (Jataka Parijata)"],
+    "by_area": {
+      "personality": "Capable but cunning and fond of tricks (Brihat Jataka 14.3; Jataka Parijata 8.4); Sastri's note calls it a moral wreck.",
+      "career": "Herdsman, athlete or wrestler (Brihat Jataka 14.3); mathematician or astrologer and leader (Saravali 15.15); metallurgy (Jataka Parijata 8.4).",
+      "finance": "Fond of gambling (Brihat Jataka 14.3; Saravali 15.15).",
+      "health": "",
+      "relationships": "Pursues others' spouses (Brihat Jataka 14.3; Phaladeepika 18.3).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Planetary war: a winning planet is strong and auspicious (Saravali 4.36, 5.40); Frawley: a benefic that wins against a malefic becomes much stronger.", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Planetary war: Frawley says a benefic (Venus) that loses to a malefic (Mars) may be rendered very weak; Brihat Samhita 17.9 names the southern, dim or small planet as the loser.", "Saravali 15.23: bad vargas reduce the results."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.3 (tr. M. Neely, wisdomlib)", "view": "Herdsman, athlete, capable, pursuer of others' wives, gambler.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501772.html"},
+      {"source": "Brihat Jataka 14.3 with notes (tr. V. Subrahmanya Sastri)", "view": "Shepherd, wrestler, skilful, adulterous or a gambler; note: Varahamihira condemns this yoga while Parashara and others favour it.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.3 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Shepherd, wrestler, adulterous or gambler.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.15 (archive.org English tr.)", "view": "Honoured, chief among his people, a mathematician or astrologer, fond of gambling and untruth.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.4 (tr. V. Subrahmanya Sastri)", "view": "Fond of metallurgy, delights in tricks, cunning.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "David Frawley, Astrology of the Seers (p. 176)", "view": "A benefic defeated in planetary war by a malefic may be very weak; one that wins becomes much stronger.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Varahamihira condemns the pair; Sastri's note says Parashara and others favour it, and Saravali gives honour and leadership alongside gambling.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe passion, charm, energy and a competitive streak, and suggest channels like sport or creative work. Do not predict infidelity or gambling."
+  },
+  {
+    "id": "conjunction/mars_saturn",
+    "layer": "conjunction",
+    "key": {"planets": ["Mars", "Saturn"]},
+    "summary": "Mars with Saturn, two malefics, is read classically as hardship, quarrelsomeness and unreliability, with skill in metals or mechanical tricks; Raman links it to accidents, operations and disputes with siblings.",
+    "themes": ["hardship", "conflict", "metals and mechanics", "risk of injury"],
+    "common_outcomes": ["hardship or struggle", "quarrelsome or disputatious", "work with metals or mechanical skill", "reputation suffers through unreliability"],
+    "rare_outcomes": ["interest in music (Jataka Parijata)", "trouble from weapons or poison (Saravali)"],
+    "by_area": {
+      "personality": "Untruthful and held in low regard (Brihat Jataka 14.3); deceitful and quarrelsome (Saravali 15.16); disputatious and slow-witted (Jataka Parijata 8.4).",
+      "career": "Metal work, jugglery (Saravali 15.16).",
+      "finance": "Miserable, beset by hardship (Brihat Jataka 14.3).",
+      "health": "Troubled by weapons and poison (Saravali 15.16). Raman: Mars in the 6th afflicted by Saturn, death may come through an operation or injury by animals [maraka: text predicts danger to life / death]; Saturn in the 6th afflicted by Mars gives dangerous illness and operations.",
+      "relationships": "",
+      "family": "Raman: Saturn afflicting Mars favours litigation with brothers and cousins.",
+      "spirituality": ""
+    },
+    "strengtheners": ["Planetary war: the winner is strong (Saravali 4.36, 5.40).", "Saravali 15.23: good vargas improve the results."],
+    "weakeners_or_cancellations": ["Planetary war: the southern, dim or small planet loses (Brihat Samhita 17.9); Frawley: the lower longitude wins. The loser gives bad results (Saravali 5.27).", "Sastri's note: a conjunction of two malefics, bad.", "Saravali 15.23: bad vargas worsen the results."],
+    "lagna_or_context_notes": "House-specific notes read: the 6th house (Raman, How to Judge a Horoscope vol. 1, ch. IX).",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.3 (tr. M. Neely, wisdomlib)", "view": "Beset by hardship, unreliable in promises, held in low regard.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501772.html"},
+      {"source": "Brihat Jataka 14.3 with notes (tr. V. Subrahmanya Sastri)", "view": "Miserable, untruthful, despised; note: two malefics, bad.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.3 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Miserable, untruthful and despised.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.16 (archive.org English tr.)", "view": "Metal worker, skilled in jugglery, deceitful, clever at theft, troubled by weapons and poison, fond of quarrels.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.4 (tr. V. Subrahmanya Sastri)", "view": "Disputatious, given to music, dull-witted.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Planets in the Sixth House)", "view": "In the 6th: Saturn afflicting Mars points to death by operation or animals, and to litigation with brothers and cousins; Mars afflicting Saturn to dangerous illness and operations.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers (pp. 175-176)", "view": "Planetary war within one degree; the lower longitude wins.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "All texts read are negative; Jataka Parijata alone adds music. Planetary-war winner rules differ between Brihat Samhita and Frawley.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as determination and endurance under pressure, with a need for patience, safety and calm handling of disputes. Never predict accidents, surgery or death; suggest care with machinery and conflict."
+  },
+  {
+    "id": "conjunction/mars_rahu",
+    "layer": "conjunction",
+    "key": {"planets": ["Mars", "Rahu"]},
+    "summary": "Mars with Rahu intensifies Mars: modern sources link it to impulsive force and, when afflicted, risk of accidents or self-harm. The classical two-planet chapters read do not cover it.",
+    "themes": ["intensified energy", "impulsiveness", "risk"],
+    "common_outcomes": ["amplified drive and aggression"],
+    "rare_outcomes": ["danger of self-harm when severely afflicted (Raman)"],
+    "by_area": {
+      "personality": "Frawley: the nodes take on and magnify the planets they join.",
+      "career": "",
+      "finance": "",
+      "health": "Raman: Mars in the 6th afflicted by Rahu, death may be by suicide [maraka: text predicts danger to life / death]; Mars afflicted by Rahu or Ketu shows a tendency to suicide or death by poisoning.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Raman: Mars well disposed is an asset."],
+    "weakeners_or_cancellations": ["Frawley: a node conjoined with a planet eclipses it."],
+    "lagna_or_context_notes": "House-specific note read: the 6th house (Raman).",
+    "named_yogas": [{"name": "Angarak yoga", "ref": "dosha/angarak", "source": ""}],
+    "source_views": [
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Planets in the Sixth House)", "view": "Mars in the 6th afflicted by Rahu: death may be due to suicide; Mars afflicted by Rahu or Ketu: tendency to suicide or poisoning.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 103-106)", "view": "Nodes eclipse and magnify the planets they join; Rahu can also boost a strong planet, to a lesser degree than Ketu.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Raman's reading is limited to the 6th house and affliction; Frawley gives only general node rules.",
+    "confidence": "low",
+    "phrasing_guidance": "Speak of intense drive that needs discipline and safe outlets such as sport. Never mention suicide, poisoning or death."
+  },
+  {
+    "id": "conjunction/mars_ketu",
+    "layer": "conjunction",
+    "key": {"planets": ["Mars", "Ketu"]},
+    "summary": "Mars with Ketu: Frawley treats Ketu as Mars-like and says it boosts a strong Mars (e.g. great military prowess); Raman warns of danger when Mars is afflicted by Ketu in the 6th. The classical two-planet chapters read do not cover it.",
+    "themes": ["intensified courage", "sudden action", "risk"],
+    "common_outcomes": ["sharp, sudden energy"],
+    "rare_outcomes": ["great martial or military prowess with a strong Mars (Frawley)", "danger of poisoning when afflicted (Raman)"],
+    "by_area": {
+      "personality": "",
+      "career": "Frawley: Mars in Scorpio in the 3rd with Ketu can give great military prowess.",
+      "finance": "",
+      "health": "Raman: Mars in the 6th afflicted by Ketu, death may be by poisoning [maraka: text predicts danger to life / death].",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Frawley: Ketu gives considerable power to a planet in its own sign or exalted (Mars in Aries, Scorpio or Capricorn)."],
+    "weakeners_or_cancellations": ["Raman: affliction of Mars by Ketu is unfavourable."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 103, 105-106)", "view": "Ketu is like Mars; it boosts strong planets it joins; Mars in Scorpio in the 3rd with Ketu can give great military prowess.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Planets in the Sixth House)", "view": "Mars in the 6th afflicted by Ketu: death by poisoning; Mars afflicted by Rahu or Ketu: tendency to suicide or poisoning.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Frawley allows a strongly positive result with a dignified Mars; Raman, speaking of the 6th house and affliction, is negative.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe focused, sudden bursts of courage and a need for caution with impulsive action. Never mention poisoning or death."
+  },
+  {
+    "id": "conjunction/mercury_jupiter",
+    "layer": "conjunction",
+    "key": {"planets": ["Mercury", "Jupiter"]},
+    "summary": "Mercury with Jupiter is linked to the performing arts (music, dance, drama), scholarship and eloquence, with a wise, happy nature.",
+    "themes": ["music and dance", "scholarship", "eloquence", "wisdom"],
+    "common_outcomes": ["talent for music, dance or acting", "learned and wise", "eloquent and amiable"],
+    "rare_outcomes": ["statesman (Sastri's alternative reading of 'rangachara')", "exceedingly wealthy (Jataka Parijata)"],
+    "by_area": {
+      "personality": "Wise and happy (Saravali 15.17); eloquent, handsome and amiable (Jataka Parijata 8.4).",
+      "career": "Actor, musician, dancer (Brihat Jataka 14.4; Phaladeepika 18.4); dancer, scholar, singer, instrumentalist (Saravali 15.17).",
+      "finance": "Exceedingly wealthy (Jataka Parijata 8.4); Sastri's note: not good for finance unless these planets rule the house of wealth.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Raman: Mercury joined by Jupiter in the 6th points to spiritual gains."
+    },
+    "strengtheners": ["Planetary war: the winner is strong (Saravali 4.36, 5.40).", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Planetary war: the loser (southern, dim or small per Brihat Samhita 17.9; lower longitude wins per Frawley) is weakened (Saravali 5.27).", "Saravali 15.23: bad vargas reduce the results."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.4 (tr. M. Neely, wisdomlib)", "view": "A performer, drawn to music and skilled in dance.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501773.html"},
+      {"source": "Brihat Jataka 14.4 with notes (tr. V. Subrahmanya Sastri)", "view": "Actor, fond of music, versed in dance; note: 'rangachara' may also mean statesman; not good for finance unless they rule the 2nd.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.4 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "An actor, fond of music and dancing.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.17 (archive.org English tr.)", "view": "A noted dancer, scholar, singer and instrumentalist; wise and happy.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.4 (tr. V. Subrahmanya Sastri)", "view": "Eloquent, handsome, amiable and very wealthy.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Sixth House)", "view": "Mercury joined by Jupiter (in the 6th): spiritual gains may be expected.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Jataka Parijata says very wealthy; Sastri's note says not good for finance unless the planets rule wealth houses.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as artistic and intellectual gifts, a love of music and learning, and a cheerful wisdom."
+  },
+  {
+    "id": "conjunction/mercury_venus",
+    "layer": "conjunction",
+    "key": {"planets": ["Mercury", "Venus"]},
+    "summary": "Mercury with Venus gives eloquence, persuasion, artistic and musical taste, learning and social influence, often with property or wealth.",
+    "themes": ["eloquence", "arts and music", "influence", "refinement"],
+    "common_outcomes": ["eloquent, persuasive speaker", "fond of music, art, humour and fine things", "learning in sacred or classical texts", "leadership in an assembly or group"],
+    "rare_outcomes": ["owns land, head of landholders (Brihat Jataka)", "politician (Saravali)"],
+    "by_area": {
+      "personality": "Good in speech, humorous, fond of scents and flowers (Saravali 15.18); fond of music, play and mirth (Jataka Parijata 8.5).",
+      "career": "Head of an assembly or of landholders (Brihat Jataka 14.4); politician or artisan (Saravali 15.18).",
+      "finance": "Abundantly rich (Saravali 15.18); possesses land (Brihat Jataka 14.4 in Sastri's tr.); Sastri's note: not good for finance.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Versed in sacred books (Jataka Parijata 8.5); studies the Vedas (Saravali 15.18)."
+    },
+    "strengtheners": ["Planetary war: the winner is strong (Saravali 4.36, 5.40).", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Planetary war: the loser is weakened (Brihat Samhita 17.9; Frawley; Saravali 5.27).", "Saravali 15.23: bad vargas reduce the results."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.4 (tr. M. Neely, wisdomlib)", "view": "A persuasive speaker who leads a group of landholders.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501773.html"},
+      {"source": "Brihat Jataka 14.4 with notes (tr. V. Subrahmanya Sastri)", "view": "Eloquent, owns lands, head of an assembly; note: a fine speaker with influence, but not good for finance.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.4 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Eloquent, a landowner, head of an assembly.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.18 (archive.org English tr.)", "view": "Very rich, a politician and artisan, studies the Vedas, good speaker, sings, jokes, loves scents and flowers.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.5 (tr. V. Subrahmanya Sastri)", "view": "Versed in sacred books, fond of music, play and mirth.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "Saravali says very rich; Sastri's note says not good for finance.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as charm, eloquence, artistic taste and social influence."
+  },
+  {
+    "id": "conjunction/mercury_saturn",
+    "layer": "conjunction",
+    "key": {"planets": ["Mercury", "Saturn"]},
+    "summary": "Mercury with Saturn divides the texts: Brihat Jataka, Phaladeepika and Saravali warn of cunning, deception, debts or rule-breaking, while Jataka Parijata gives learning, wealth and moral worth.",
+    "themes": ["shrewdness", "deception or strategy", "debts", "learning"],
+    "common_outcomes": ["shrewd, strategic or cunning mind", "tendency to overstep rules or authority", "skill with words or verse"],
+    "rare_outcomes": ["debts (Saravali)", "learned, wealthy and of moral worth (Jataka Parijata)", "much travel (Saravali)"],
+    "by_area": {
+      "personality": "Master of deception, oversteps bounds (Brihat Jataka 14.4); proud, deceiving but an able poet with auspicious speech (Saravali 15.19); learned and of moral worth (Jataka Parijata 8.5).",
+      "career": "",
+      "finance": "Contracts debts (Saravali 15.19); wealthy (Jataka Parijata 8.5); Sastri's note: not good for finance.",
+      "health": "Raman: Mercury afflicted by Saturn (or the nodes) can bring despondency and excitability.",
+      "relationships": "Phaladeepika 18.4: given to licentious pleasures.",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Planetary war: the winner is strong (Saravali 4.36, 5.40).", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Planetary war: the loser is weakened (Brihat Samhita 17.9; Frawley; Saravali 5.27).", "Saravali 15.23: bad vargas reduce the results."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.4 (tr. M. Neely, wisdomlib)", "view": "A master of deception who oversteps bounds.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501773.html"},
+      {"source": "Brihat Jataka 14.4 with notes (tr. V. Subrahmanya Sastri)", "view": "Clever in cheating, disobedient to superiors; note: a rogue, not good for finance.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.4 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Skilled at cheating, addicted to licentious pleasures.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.19 (archive.org English tr.)", "view": "Debts, pride, deceit, but an able poet, fond of travel, expert, with auspicious speech.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.5 (tr. V. Subrahmanya Sastri)", "view": "Learned, wealthy, distinguished for moral worth.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Sixth House)", "view": "Mercury afflicted by Rahu, Ketu or Saturn: despondency, excitability, abnormal mental behaviour.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Jataka Parijata is the opposite of Brihat Jataka, Phaladeepika and Saravali on character (moral worth versus deception).",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a serious, strategic, careful thinker, and note the value of honesty and financial prudence. Do not call the person deceitful."
+  },
+  {
+    "id": "conjunction/mercury_rahu",
+    "layer": "conjunction",
+    "key": {"planets": ["Mercury", "Rahu"]},
+    "summary": "Mercury with Rahu: modern sources say Rahu amplifies and unsettles Mercury, the mind and nerves; Raman warns of excitability and nervous strain when afflicted. The classical two-planet chapters read do not cover it.",
+    "themes": ["amplified intellect", "nervous excitability", "unconventional thinking"],
+    "common_outcomes": ["restless, quick, unconventional mind"],
+    "rare_outcomes": ["nervous strain or mental excitability when afflicted (Raman)"],
+    "by_area": {
+      "personality": "Frawley: Rahu acting on mind factors such as Mercury heightens sensitivity.",
+      "career": "",
+      "finance": "",
+      "health": "Raman: Mercury afflicted by Rahu, Ketu or Saturn gives despondency and excitability; in the 6th, affliction by Mars and Rahu or by Saturn and Rahu risks breakdown through excitement.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": ["Frawley: a node conjoined with a planet eclipses it."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Planets in the Sixth House)", "view": "Mercury afflicted by Rahu, Ketu or Saturn: despondency and excitability; with Mars or Saturn and Rahu in the 6th, danger of insanity through excitement.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 103-104)", "view": "Rahu is a key factor in nervous and neurological disorders, especially when it influences the Moon, Mercury or the 4th house.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Describe an inventive, fast, unconventional mind that benefits from rest and focus. Never mention insanity."
+  },
+  {
+    "id": "conjunction/mercury_ketu",
+    "layer": "conjunction",
+    "key": {"planets": ["Mercury", "Ketu"]},
+    "summary": "Mercury with Ketu has little sourced material: Raman groups Ketu with Rahu and Saturn as afflictions of Mercury that can bring despondency or excitability, and Frawley's node rules apply. The classical two-planet chapters read do not cover it.",
+    "themes": ["intuitive or scattered thinking", "eclipse of Mercury"],
+    "common_outcomes": [],
+    "rare_outcomes": ["despondency or excitability when afflicted (Raman)"],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Raman: Mercury afflicted by Rahu, Ketu or Saturn: despondency, excitability, abnormal mental behaviour.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Frawley: Ketu boosts a planet in its own sign or exalted (Mercury in Gemini or Virgo)."],
+    "weakeners_or_cancellations": ["Frawley: a node conjoined with a planet eclipses it."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Sixth House)", "view": "Mercury afflicted by Rahu, Ketu or Saturn: despondency, excitability, abnormal mental behaviour.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 103, 105)", "view": "Node conjunctions eclipse a planet; Ketu boosts strong planets.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Describe intuitive, non-linear thinking that benefits from structure. Avoid mental-health claims."
+  },
+  {
+    "id": "conjunction/jupiter_venus",
+    "layer": "conjunction",
+    "key": {"planets": ["Jupiter", "Venus"]},
+    "summary": "Jupiter with Venus, the two great benefics, gives learning, wealth, a good spouse and many virtues; Varahamihira's commentator calls it the exception to conjunctions being bad for finance.",
+    "themes": ["learning", "wealth", "good marriage", "virtue"],
+    "common_outcomes": ["learned and well read", "prosperous", "a good spouse and happy marriage", "many good qualities"],
+    "rare_outcomes": ["royal favour (Jataka Parijata)", "earns through teaching or debate (Saravali)"],
+    "by_area": {
+      "personality": "Learned with many virtues (Brihat Jataka 14.4); energetic and very intelligent (Jataka Parijata 8.5); of accurate understanding (Saravali 15.20).",
+      "career": "Lives by learning and debate (Saravali 15.20); in the king's favour (Jataka Parijata 8.5).",
+      "finance": "Prosperous (Brihat Jataka 14.4); Sastri's note: good for finance.",
+      "health": "",
+      "relationships": "Married, an excellent wife (Brihat Jataka 14.4; Saravali 15.20).",
+      "family": "",
+      "spirituality": "Follows a highly virtuous path (Saravali 15.20)."
+    },
+    "strengtheners": ["Planetary war: the winner is strong (Saravali 4.36, 5.40).", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Planetary war: the loser is weakened (Brihat Samhita 17.9; Frawley; Saravali 5.27).", "Saravali 15.23: bad vargas reduce the results."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.4 (tr. M. Neely, wisdomlib)", "view": "Learned and well read, prosperous, married, with many good qualities.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501773.html"},
+      {"source": "Brihat Jataka 14.4 with notes (tr. V. Subrahmanya Sastri)", "view": "Good learning, wealth, a wife and many virtues; note: an exception to conjunctions being bad, good for finance.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.4 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Learned, wealthy, with a wife and many good qualities.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.20 (archive.org English tr.)", "view": "Lives by learning and argument, follows a virtuous path, clear understanding, an excellent wife.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.5 (tr. V. Subrahmanya Sastri)", "view": "Energetic, in royal favour, very intelligent.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Present as wisdom, grace, prosperity and a supportive partnership."
+  },
+  {
+    "id": "conjunction/jupiter_saturn",
+    "layer": "conjunction",
+    "key": {"planets": ["Jupiter", "Saturn"]},
+    "summary": "Jupiter with Saturn is the most disputed classical pair: Brihat Jataka and Phaladeepika give humble crafts (barber, potter, cook), Jataka Parijata an artist, while Saravali gives heroism, wealth and civic leadership.",
+    "themes": ["craft and practical trades", "civic leadership", "disputed results"],
+    "common_outcomes": ["practical or artistic craft", "steady, structured work"],
+    "rare_outcomes": ["head of a town, assembly or association, famous and wealthy (Saravali)"],
+    "by_area": {
+      "personality": "Heroic and famous (Saravali 15.21).",
+      "career": "Barber, potter or cook (Brihat Jataka 14.4; Phaladeepika 18.4); an artist (Jataka Parijata 8.5); head of a city, village or association (Saravali 15.21).",
+      "finance": "Plenty of wealth (Saravali 15.21).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Planetary war: the winner is strong (Saravali 4.36, 5.40).", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Planetary war: the loser is weakened (Brihat Samhita 17.9; Frawley; Saravali 5.27); Frawley: a benefic (Jupiter) losing to a malefic (Saturn) may be very weak.", "Saravali 15.23: bad vargas reduce the results."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.4 (tr. M. Neely, wisdomlib)", "view": "A humble craft such as barber, potter or cook.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501773.html"},
+      {"source": "Brihat Jataka 14.4 (tr. V. Subrahmanya Sastri)", "view": "A barber, potter or cook.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.4 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "A barber, potter or cook.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.21 (archive.org English tr.)", "view": "Heroic, very wealthy, chief of a city, famous, head of an assembly, village or association.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.5 (tr. V. Subrahmanya Sastri)", "view": "An artist.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "David Frawley, Astrology of the Seers (p. 176)", "view": "A benefic defeated in planetary war by a malefic may be rendered very weak.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Saravali's leadership-and-wealth reading is the opposite of Brihat Jataka and Phaladeepika's humble crafts; Jataka Parijata's 'artist' sits between. In Sastri's Brihat Jataka notes, the eyesight and marriage-brings-wealth remarks printed under 'Jupiter conjunction Saturn' match the Venus-Saturn verse (14.5) and are not used here.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as patient, structured, practical skill that can grow into responsibility in the community. Avoid naming specific humble trades."
+  },
+  {
+    "id": "conjunction/jupiter_rahu",
+    "layer": "conjunction",
+    "key": {"planets": ["Jupiter", "Rahu"]},
+    "summary": "Jupiter with Rahu is called Guru-Chandala yoga in modern usage (Sanjay Rath uses the name for this conjunction); Frawley's rules say Rahu eclipses and magnifies the planet it joins. The classical two-planet chapters read do not cover it, and no source read gives a general result for it.",
+    "themes": ["eclipse of Jupiter", "unorthodox beliefs or advisers"],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": ["Frawley: a node conjoined with a planet eclipses it, obstructing, negating or releasing its energy."],
+    "lagna_or_context_notes": "Rath applies the yoga to the houses Jupiter rules (e.g. Guru-chandala of the 4th lord affecting mother's side and family business) in chart examples; no general rule is stated.",
+    "named_yogas": [{"name": "Guru-Chandala yoga", "ref": "dosha/guru_chandal", "source": "Sanjay Rath, Crux of Vedic Astrology ch. VII (chart example)"}],
+    "source_views": [
+      {"source": "Sanjay Rath, Crux of Vedic Astrology ch. VII, with a further use of the term in ch. IV (4.4) (in the same archive.org item)", "view": "In ch. VII, calls the 4th lord Jupiter's conjunction with Rahu the Guru-chandala yoga and reads it through the houses Jupiter rules; in ch. IV the yoga works alongside a strong raja yoga and brings division and upheaval (whether that example is a conjunction was not checked).", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 103-106)", "view": "Nodes eclipse and magnify the planets they join; Rahu can boost a strong planet, but less than Ketu does.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "No classical two-planet chapter read covers the pair. The general results for this dosha belong in the dosha/guru_chandal entry.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe it as unconventional thinking about belief, teachers and ethics, best balanced by trusted guidance. Avoid 'chandala' or other caste-loaded labels when speaking to users."
+  },
+  {
+    "id": "conjunction/jupiter_ketu",
+    "layer": "conjunction",
+    "key": {"planets": ["Jupiter", "Ketu"]},
+    "summary": "Jupiter with Ketu has only general node rules in the sources read: Ketu eclipses a planet but also boosts one that is strong in its own or exaltation sign (Frawley). The classical two-planet chapters read do not cover it.",
+    "themes": ["eclipse of Jupiter", "inner or spiritual focus"],
+    "common_outcomes": [],
+    "rare_outcomes": ["a strong Jupiter boosted by Ketu (Frawley's general rule)"],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Frawley: Ketu gives considerable power to a planet in its own sign or exalted (Jupiter in Sagittarius, Pisces or Cancer)."],
+    "weakeners_or_cancellations": ["Frawley: a node conjoined with a planet eclipses it."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 103, 105)", "view": "Node conjunctions eclipse a planet; Ketu boosts a planet in its own sign or exalted; Ketu's results are sudden.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Describe an inward, spiritually inclined wisdom. Do not predict loss of teachers or children."
+  },
+  {
+    "id": "conjunction/venus_saturn",
+    "layer": "conjunction",
+    "key": {"planets": ["Venus", "Saturn"]},
+    "summary": "Venus with Saturn gives artistic, craft and writing skill (painting, drawing, books, sculpture), with Brihat Jataka linking wealth to a young woman or marriage and adding weak eyesight.",
+    "themes": ["arts and crafts", "writing and painting", "wealth through marriage", "eyesight"],
+    "common_outcomes": ["skill in painting, drawing, writing or sculpture", "wealth that grows through a woman or the marriage"],
+    "rare_outcomes": ["short-sighted (Brihat Jataka; Phaladeepika)", "owns cattle or quadrupeds (Saravali; Jataka Parijata)", "athlete or boxer (Saravali; Jataka Parijata)", "barber or woodcutter (Saravali)"],
+    "by_area": {
+      "personality": "Fond of wandering (Saravali 15.22).",
+      "career": "Writing, painting, books (Brihat Jataka 14.5); painter or sculptor, woodwork, barber, boxer (Saravali 15.22); athlete (Jataka Parijata 8.5).",
+      "finance": "Wealth increased through a young woman (Brihat Jataka 14.5); Sastri: marriage is the key to financial success; large herds of cattle (Jataka Parijata 8.5).",
+      "health": "Short-sighted (Brihat Jataka 14.5; Phaladeepika 18.5).",
+      "relationships": "Sastri: marriage and the start of earning come together.",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Planetary war: the winner is strong (Saravali 4.36, 5.40).", "Saravali 15.23: good vargas increase the results."],
+    "weakeners_or_cancellations": ["Planetary war: the loser is weakened (Brihat Samhita 17.9; Frawley; Saravali 5.27); Frawley: a benefic (Venus) losing to a malefic may be very weak.", "Saravali 15.23: bad vargas reduce the results."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "Brihat Jataka 14.5 (tr. M. Neely, wisdomlib)", "view": "Poor eyesight, wealth growing through young women, expertise in drawing, writing and books; other combinations to be judged from those already given.", "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501774.html"},
+      {"source": "Brihat Jataka 14.5 with notes (tr. V. Subrahmanya Sastri)", "view": "Short-sighted, wealth through a young woman (marriage the key to financial success), skilled in writing and painting; the note on eyesight and earning beginning with marriage is printed under the Jupiter-Saturn heading.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.5 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Short-sighted, wealth grows through a young woman, skilled in writing and painting.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621590.html"},
+      {"source": "Saravali 15.22 (archive.org English tr.)", "view": "Skilled in cutting wood, a barber, painter or sculptor, boxer, fond of wandering, owns quadrupeds.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 8.5 (tr. V. Subrahmanya Sastri)", "view": "Owns large herds of cattle and is an athlete.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "Brihat Jataka and Phaladeepika stress arts, writing and wealth through marriage; Saravali stresses crafts and wandering; Jataka Parijata gives cattle and athletics.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as patient artistic or craft talent and a partnership that supports material growth. Mention eyesight only as general care."
+  },
+  {
+    "id": "conjunction/venus_rahu",
+    "layer": "conjunction",
+    "key": {"planets": ["Venus", "Rahu"]},
+    "summary": "Venus with Rahu has only general node rules in the sources read: Rahu eclipses and magnifies the planet it joins, and can boost a strong planet to a lesser degree than Ketu (Frawley). The classical two-planet chapters read do not cover it.",
+    "themes": ["amplified desire", "eclipse of Venus"],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Frawley: Rahu can boost a planet in its own sign or exalted (Venus in Taurus, Libra or Pisces), less than Ketu does."],
+    "weakeners_or_cancellations": ["Frawley: a node conjoined with a planet eclipses it."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 103-106)", "view": "Nodes eclipse and magnify the planets they join; a strong Rahu gives worldly success and fulfilment of desires but usually not inner fulfilment.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Describe strong attraction to beauty, pleasure and the unusual, best balanced by clear values. Do not predict scandal."
+  },
+  {
+    "id": "conjunction/venus_ketu",
+    "layer": "conjunction",
+    "key": {"planets": ["Venus", "Ketu"]},
+    "summary": "Venus with Ketu: Frawley says Ketu gives considerable power to a strong Venus, citing Venus in Libra in the 2nd with Ketu as giving wealth; otherwise only general node rules are sourced. The classical two-planet chapters read do not cover it.",
+    "themes": ["boosted Venus when strong", "eclipse of Venus"],
+    "common_outcomes": [],
+    "rare_outcomes": ["wealth when Venus is in its own sign, e.g. Libra in the 2nd (Frawley)"],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Frawley: Venus in Libra in the 2nd house with Ketu will give wealth.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Frawley: Ketu gives considerable power to a planet in its own sign or exalted."],
+    "weakeners_or_cancellations": ["Frawley: a node conjoined with a planet eclipses it."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 103, 105)", "view": "Ketu boosts strong planets; Venus in Libra in the 2nd conjoined with Ketu gives wealth.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Describe refined, perhaps unconventional taste and a quieter, inward approach to love; mention material gains only when Venus is strong."
+  },
+  {
+    "id": "conjunction/saturn_rahu",
+    "layer": "conjunction",
+    "key": {"planets": ["Saturn", "Rahu"]},
+    "summary": "Saturn with Rahu joins two heavy malefics (Frawley: Rahu acts like Saturn); Raman links Rahu's affliction of Saturn to nervous or hysterical states, especially in the 6th. The classical two-planet chapters read do not cover it.",
+    "themes": ["heaviness", "nervous strain", "intensified Saturn"],
+    "common_outcomes": [],
+    "rare_outcomes": ["hysteria or nervous strain when afflicted in the 6th (Raman)"],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Raman: Saturn in the 6th afflicted by Rahu: hysteria; Rahu in the 6th with the Moon and Saturn: liability to mental derangement.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Raman: benefic associations or aspects relieve the combination (stated for Rahu with Saturn and the Moon)."],
+    "weakeners_or_cancellations": ["Frawley: a node conjoined with a planet eclipses it."],
+    "lagna_or_context_notes": "House-specific note read: the 6th house (Raman).",
+    "named_yogas": [{"name": "Shrapit yoga", "ref": "dosha/shrapit", "source": ""}],
+    "source_views": [
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. IX (Planets in the Sixth House)", "view": "Saturn in the 6th afflicted by Rahu: hysteria; Rahu with the Moon and Saturn: mental derangement unless relieved by benefics.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 102-103)", "view": "Rahu is like Saturn, the greater malefic, but subtler and harder to neutralise; it magnifies the planets it joins.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Describe long-term challenges that build resilience and the value of steady routines. Avoid 'curse' language; never diagnose."
+  },
+  {
+    "id": "conjunction/saturn_ketu",
+    "layer": "conjunction",
+    "key": {"planets": ["Saturn", "Ketu"]},
+    "summary": "Saturn with Ketu has only general node rules in the sources read: Ketu eclipses a planet but boosts one in its own or exaltation sign (Frawley). The classical two-planet chapters read do not cover it.",
+    "themes": ["eclipse of Saturn", "detachment"],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Frawley: Ketu gives considerable power to a planet in its own sign or exalted (Saturn in Capricorn, Aquarius or Libra)."],
+    "weakeners_or_cancellations": ["Frawley: a node conjoined with a planet eclipses it."],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [
+      {"source": "David Frawley, Astrology of the Seers, The Planets (pp. 103, 105)", "view": "Node conjunctions eclipse a planet; Ketu boosts strong planets; its results are sudden, for good or ill.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Describe a serious, detached, introspective streak that can support discipline and spiritual practice."
+  },
+  {
+    "id": "conjunction/rahu_ketu",
+    "layer": "conjunction",
+    "key": {"planets": ["Rahu", "Ketu"]},
+    "summary": "Rahu and Ketu never conjoin: they are the two opposite lunar nodes, always 180 degrees (seven signs) apart, so there is no conjunction to interpret.",
+    "themes": [],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "named_yogas": [],
+    "source_views": [],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "If asked, explain that the nodes are always opposite each other, so this pair never occurs in a chart."
+  }
+]

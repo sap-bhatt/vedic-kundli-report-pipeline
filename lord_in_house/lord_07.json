@@ -1,0 +1,1205 @@
+[
+  {
+    "id": "lord_in_house/7/1",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 1
+    },
+    "summary": "The lord of marriage and partnership joins the self, so partners shape the person's identity. Raman and Braha read a spouse known from childhood and a stable partnership; Rath adds a dominating streak; BPHS is critical, describing restlessness and wandering affections.",
+    "themes": [
+      "partnership focus",
+      "attraction",
+      "restlessness",
+      "public dealings",
+      "spouse influence"
+    ],
+    "common_outcomes": [
+      "May marry someone known since childhood or from the same household (Raman; Braha)",
+      "A stable, mature spouse and a happy married life (Raman; Braha)",
+      "Good-looking and fortunate but dominating with spouse and partners (Rath)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.73 (both translations): goes after others' spouses, clever but of crooked conduct, lacking courage, prone to wind (vata) complaints (traditional view)",
+      "Raman: an afflicted 7th lord brings constant travelling; with Venus also afflicted, a sensual nature and clandestine relationships (traditional view)",
+      "Braha: healthy, powerful, respected; 7th-house matters especially fruitful because the lord aspects its own house"
+    ],
+    "by_area": {
+      "personality": "Intelligent and able to weigh pros and cons (Raman); healthy, powerful, respected (Braha); dominating (Rath). BPHS 24.73: clever but unsteady (traditional view).",
+      "career": "Braha: successful partnerships.",
+      "finance": "Braha: a beautiful or wealthy spouse.",
+      "health": "BPHS 24.73: wind-type complaints (traditional note only).",
+      "relationships": "Marriage to someone known since childhood (Raman; Braha); strict with the spouse (Rath); BPHS 24.73's line on others' spouses is a traditional view.",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman: the stable-spouse result assumes an unafflicted 7th lord",
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)",
+      "The 7th house linked with a benefic and its lord strong (Phaladeepika 16.20: a virtuous spouse, happy marriage, children)",
+      "The 7th lord with Venus and free of malefic aspect or conjunction (Bhavartha Ratnakara 6.1: one marriage)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: affliction to the 7th lord gives constant travel, and with Venus afflicted a sensual nature",
+      "Lagna and 7th lords in conjunction or mutual aspect (Raman, 300 Combinations no. 238 Bahu Stree: more than one spouse)",
+      "The 7th lord and Venus each in a dual sign or navamsa (Phaladeepika 10.5; Raman, How to Judge a Horoscope p. 173: more than one marriage)",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.73",
+        "view": "Seventh lord in the lagna: goes after others' wives, wicked yet clever, unsteady, and afflicted by vata disorders.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-73"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.73 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Goes to others' wives, wicked, skilful, devoid of courage, afflicted by windy diseases.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "May marry someone known since childhood or brought up in the same house; the spouse is stable and mature; intelligent; affliction gives constant travel; if the 7th lord and Venus are afflicted, sensual and clandestine relationships.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Healthy, powerful, respected, happy married life, beautiful or wealthy spouse, successful partnerships, strong desires, may marry a childhood sweetheart; 7th-house matters especially fruitful as the lord aspects its own house.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.3.1 (p. 149) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 7th lord in the ascendant: good-looking and fortunate, but very dominating and strict with spouse and partners.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.3.1-10.3.3 (pp. 149-150) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 7th lord behaves like Venus; its house position shows the native's attitude to the spouse (dominating in the 1st, loving spouse and family in the 4th, harmony and respect in the 7th, obsessed with the spouse in the 10th); in the 6th, 8th or 12th the spouse is of a different status and a culture gap is seen.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 238 Bahu Stree Yoga (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "If the lords of the lagna and the 7th are in conjunction or mutual aspect, the person may have many wives.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "BPHS 24.73 is critical (straying, crooked, timid), while Raman, Braha and Rath are mainly favourable for the marriage itself. Raman confines the sensual reading to affliction of both the 7th lord and Venus.",
+    "confidence": "medium",
+    "phrasing_guidance": "Focus on how central partnership is to this person. Do not suggest infidelity; if needed, say traditional texts advise loyalty and steadiness."
+  },
+  {
+    "id": "lord_in_house/7/2",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 2
+    },
+    "summary": "The lord of marriage in the house of wealth and family. BPHS, Raman, Braha and Raman's 300 Combinations agree on wealth through the spouse or marriage; BPHS and Raman add more than one relationship in some conditions, and Rath gives a harsh reading of the spouse's influence.",
+    "themes": [
+      "wealth through spouse",
+      "family",
+      "maraka link",
+      "procrastination",
+      "relationships"
+    ],
+    "common_outcomes": [
+      "Wealth through the spouse or marriage (BPHS 24.74; Raman; Braha)",
+      "A spouse who earns well and is intelligent; wealth from business partnerships (Braha)",
+      "Procrastinating or wavering nature (BPHS 24.74; Raman)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.74: many wives; Raman: more than one marriage if the 2nd is a dual sign and afflicted",
+      "Raman, afflicted: earning by disreputable means and seeking food at funeral rites (traditional view)",
+      "Rath: the spouse may act against the native's interests; possibly marriage to someone married before (traditional view)",
+      "Strong 2nd lord joined or aspected by the 7th lord and Venus, with a strong lagna lord: wealth through the spouse (Raman, 300 Combinations no. 141)"
+    ],
+    "by_area": {
+      "personality": "Procrastinating (BPHS 24.74); wavering mind, sensual (Raman).",
+      "career": "Braha: wealth from business partnerships.",
+      "finance": "Wealth through the spouse (BPHS 24.74; Raman; Braha; Raman, 300 Combinations no. 141).",
+      "health": "",
+      "relationships": "An intelligent, knowledgeable spouse (Braha); BPHS and Raman allow more than one relationship (traditional view).",
+      "family": "Happy family life (Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "A strong 2nd lord joined with the 7th lord and Venus, and a strong lagna lord (Raman, 300 Combinations no. 141 Kalatramooladdhana)",
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)",
+      "The 7th lord with Venus and free of malefic aspect or conjunction (Bhavartha Ratnakara 6.1: one marriage)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: affliction, or an afflicted dual 2nd sign, gives the harsher results",
+      "The 7th lord and Venus each in a dual sign or navamsa (Phaladeepika 10.5; Raman, How to Judge a Horoscope p. 173: more than one marriage)",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman. For Aries (Venus 2+7) and Libra (Mars 2+7) the 7th lord also owns the 2nd and is in its own sign here; BPHS 34.19-22 and 34.33-34 call these planets killers for those lagnas.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.74",
+        "view": "Seventh lord in the 2nd: has many women, gains wealth through the wife, and is a procrastinator.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-74"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.74 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Many wives, gains wealth through his wife, procrastinating.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "Wealth from women or through marriage; afflicted: earning by despicable means; a dual, afflicted 2nd sign gives more than one marriage; wavering mind, sensual.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Gets wealth through spouse, spouse has good earning ability, good speaker, intelligent and knowledgeable spouse, wealth from business partnerships, happy family life.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.3.1-10.3.2 (p. 149) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 7th lord in the 2nd: the spouse becomes a maraka rather than a partner; may marry someone already married; happiness is spoilt; the darapada falls in the 9th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 141 Kalatramooladdhana Yoga (p. 151) (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "The strong 2nd lord joined or aspected by the 7th lord and Venus, with a powerful lagna lord: earns money through the wife.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Rath's reading of the spouse is harsh, while Braha's is favourable; BPHS and Raman agree on wealth through marriage but add multiple relationships (BPHS) or only under affliction (Raman).",
+    "confidence": "high",
+    "phrasing_guidance": "Say partnership supports finances. Do not mention multiple partners or maraka in user-facing text."
+  },
+  {
+    "id": "lord_in_house/7/3",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 3
+    },
+    "summary": "The lord of marriage in the house of siblings, effort and desire. BPHS, Raman and Rath all tie it to children (daughters surviving, sons with difficulty, or sorrow from children), Raman and Braha to fortunate or powerful siblings, and Braha reads it as generally unfavourable for marriage.",
+    "themes": [
+      "communication in marriage",
+      "siblings",
+      "short travel",
+      "children concerns",
+      "courage"
+    ],
+    "common_outcomes": [
+      "Fortunate, wealthy or powerful siblings, who may live abroad (Raman; Braha)",
+      "Children a concern; daughters more likely to thrive than sons (BPHS 24.75; Raman; Rath)",
+      "A courageous, adventurous or artistic spouse (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.75: loss of children, a son surviving only with difficulty, birth of a daughter (traditional view)",
+      "Raman, afflicted: misfortune to siblings and improper relations within the sibling circle (traditional view)",
+      "Rath: the native has excellent qualities of head and heart and very good relations with friends",
+      "Braha: a strong desire nature; desires fulfilled"
+    ],
+    "by_area": {
+      "personality": "Excellent qualities of head and heart (Rath); strong desire nature (Braha).",
+      "career": "Braha: the spouse may be in music, dance, drama or literature.",
+      "finance": "",
+      "health": "",
+      "relationships": "Braha: generally not favourable for married life. Rath: very good relations with friends.",
+      "family": "Fortunate siblings (Raman; Braha); children a concern, daughters surviving (BPHS 24.75; Raman; Rath).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)",
+      "The 7th house linked with a benefic and its lord strong (Phaladeepika 16.20: a virtuous spouse, happy marriage, children)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: affliction harms siblings",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.75",
+        "view": "Seventh lord in the 3rd: loss of children; perhaps a daughter is born, and a son survives only with difficulty.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-75"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.75 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Loss of children; sometimes, with great difficulty, a living son; possibility of the birth of a daughter.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "Lucky brothers who may live abroad; afflicted: improper relations with a sibling's spouse and misfortune to co-borns; female issues survive.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "A kama lord in a kama house fulfils desires and gives a strong desire nature; wealthy, powerful siblings; courageous, adventurous spouse who may be in music, dance, drama or literature; generally not favourable for married life.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.3.1-10.3.2 (p. 149) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 7th lord in the 3rd: children are in danger of accidents; the darapada falls in the 11th, showing sorrow from children; yet the native has excellent qualities of head and heart and good relations with friends.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "The earlier note that modern authors drop the children theme is not supported: Raman and Rath both keep it. Braha alone calls the placement generally unfavourable for marriage.",
+    "confidence": "medium",
+    "phrasing_guidance": "Do not mention child loss. Frame as a partnership built on communication and shared effort."
+  },
+  {
+    "id": "lord_in_house/7/4",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 4
+    },
+    "summary": "Two kendras linked: marriage joins home, comfort and education. Raman, Braha and Rath read a happy marriage, comforts, vehicles and education; BPHS gives a truthful, intelligent, religious native with an independent-minded spouse.",
+    "themes": [
+      "home and marriage",
+      "independent spouse",
+      "truthfulness",
+      "property",
+      "domestic life"
+    ],
+    "common_outcomes": [
+      "Happy marriage and a lucky partner (Raman; Braha); loves spouse and family (Rath)",
+      "Comforts, homes, land and vehicles (Raman; Braha)",
+      "High academic qualifications (Raman; Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.76: the spouse is not under the native's control; dental complaints (traditional notes)",
+      "Raman, afflicted: an immature partner spoils domestic harmony; problems with conveyances",
+      "Braha: desire for moksha",
+      "Bhavartha Ratnakara 6.12: the 7th, 2nd and 10th lords together in the 4th are listed for extra-marital attachment (traditional view)"
+    ],
+    "by_area": {
+      "personality": "Truthful, intelligent and religious (BPHS 24.76).",
+      "career": "",
+      "finance": "Comforts and many vehicles (Raman); land, homes and conveyances (Braha).",
+      "health": "BPHS 24.76: dental complaints (traditional note only).",
+      "relationships": "Happy married life with a lucky partner and many children (Raman); loves spouse and family (Rath); an independent spouse (BPHS 24.76).",
+      "family": "Raman: many children.",
+      "spirituality": "Religious (BPHS 24.76); desire for moksha (Braha)."
+    },
+    "strengtheners": [
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)",
+      "The 7th house linked with a benefic and its lord strong (Phaladeepika 16.20: a virtuous spouse, happy marriage, children)",
+      "The 7th lord with Venus and free of malefic aspect or conjunction (Bhavartha Ratnakara 6.1: one marriage)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: affliction spoils domestic harmony; heavy affliction by the nodes and malefics questions the spouse's conduct",
+      "7th, 2nd and 10th lords together in the 4th (Bhavartha Ratnakara 6.12)",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.76",
+        "view": "Seventh lord in the 4th: the wife is not under his control; he is truthful, intelligent, righteous, and may have dental trouble.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-76"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.76 (tr. G.C. Sharma; cross-check translation)",
+        "view": "The wife will not be under his control; fond of truth, intelligent and religious; dental diseases.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "A lucky, happy partner with many children and comforts; high academic qualifications; many vehicles. Afflicted: an immature, mean partner spoils harmony; endless problems with conveyances.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Happy marriage, nice comforts, happy; may own land, homes and conveyances; fine educational degree; desire for moksha.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. VI st. 12",
+        "view": "If the lords of the 7th, 2nd and 10th are in the 4th, the person will be addicted to other women.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.3.1-10.3.3 (pp. 149-150) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 7th lord behaves like Venus; its house position shows the native's attitude to the spouse (dominating in the 1st, loving spouse and family in the 4th, harmony and respect in the 7th, obsessed with the spouse in the 10th); in the 6th, 8th or 12th the spouse is of a different status and a culture gap is seen.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Translate 'wife not under control' into a respectful 'an independent-minded partner'. No medical claims."
+  },
+  {
+    "id": "lord_in_house/7/5",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 5
+    },
+    "summary": "A kendra lord in a trikona: partnership joins intelligence, children and merit. BPHS, Raman's lord list and Braha are favourable (early marriage, a well-off spouse, happiness); Phaladeepika 10.2 and a combination in Raman's 7th-house chapter give a sharply opposite traditional rule for spouse and children.",
+    "themes": [
+      "romance",
+      "virtue",
+      "cheerfulness",
+      "wealth",
+      "kendra-trikona link"
+    ],
+    "common_outcomes": [
+      "Honourable, virtuous, cheerful and wealthy (BPHS 24.77)",
+      "Early marriage; a mature, well-off spouse who helps the native (Raman); a beautiful, wealthy or devoted spouse (Braha)",
+      "Gains from the spouse's family; happiness from children (Braha)"
+    ],
+    "rare_outcomes": [
+      "Raman: a weak 7th lord may deny children; mixed influences give daughters; trouble to superiors through foreign sources",
+      "Phaladeepika 10.2 (traditional): the 7th lord in the 5th gives loss of the wife or sonlessness; Raman's combination: the 7th lord in the 5th may mean no marriage, or childlessness",
+      "Braha: good marriage karma from past-life activities; successful business partnerships",
+      "Exchange with the 5th lord forms a Maha yoga (Phaladeepika 6.32)"
+    ],
+    "by_area": {
+      "personality": "Honourable and endowed with all virtues (BPHS 24.77); good character (Raman); intelligent (Braha).",
+      "career": "Braha: successful business partnerships.",
+      "finance": "All kinds of wealth (BPHS 24.77); spouse from an affluent family (Raman).",
+      "health": "",
+      "relationships": "Early marriage to a mature, helpful partner (Raman); happy love affairs (Braha). Phaladeepika 10.2 gives an opposite traditional rule.",
+      "family": "Happiness from children (Braha); Raman: a weak 7th lord may deny children.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman: the favourable list assumes a strong 7th lord",
+      "Exchange with the 5th lord (Phaladeepika 6.32)",
+      "Kendra lord in a trikona (BPHS 34.11-12)",
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: weak 7th lord, no children; severe affliction, doubtful parentage (traditional view)",
+      "Phaladeepika 10.2 and Raman's 7th-house combination (see disagreements)",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.77",
+        "view": "Seventh lord in the 5th: honourable, endowed with all virtues, always delighted, and lord of all kinds of wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-77"
+      },
+      {
+        "source": "Phaladeepika 6.32 (tr. V. Subrahmanya Sastri)",
+        "view": "Exchange of the 5th and 7th lords is a Maha yoga.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.77 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Honourable, endowed with all seven principal virtues, always delighted and endowed with all kinds of wealth.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "Early marriage; partner from an affluent family, mature and an advantage; a weak 7th lord may give no children; mixed influences only daughters; trouble to superiors through foreign sources; good character.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Important Combinations' (pp. 171-174)",
+        "view": "If the 7th lord is in the 5th or the 5th lord in the 7th, the native may not marry, or if married, be childless.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "A beautiful, wealthy or devoted spouse, gains from spouse's family, intelligent, happiness from children, successful business partnerships, happy love affairs, good marriage karma from the previous life.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 10.2 (tr. V. Subrahmanya Sastri)",
+        "view": "If the lord of the 7th is in the 5th, the native will lose his wife or become sonless (traditional rule).",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621582.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Direct conflict: BPHS 24.77, Raman's lord-placement list and Braha are favourable, while Phaladeepika 10.2 and the combination Raman quotes in his 7th-house chapter make this a rule for loss of spouse, no marriage or no children. Raman prints both without reconciling them.",
+    "confidence": "medium",
+    "phrasing_guidance": "Warm and positive about partnership and merit. Never mention loss of a spouse or childlessness; say marriage and children are judged from several factors."
+  },
+  {
+    "id": "lord_in_house/7/6",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 6
+    },
+    "summary": "The lord of marriage in the house of conflict and illness. BPHS, Raman, Braha and Phaladeepika all read friction or health concerns in marriage; Raman and Bhavartha Ratnakara add the possibility of more than one marriage, and Rath a gap in status between partners.",
+    "themes": [
+      "relationship friction",
+      "spouse's wellbeing",
+      "service-oriented spouse",
+      "Duskriti yoga",
+      "disputes"
+    ],
+    "common_outcomes": [
+      "Marital discord or unhappy partnerships (BPHS 24.78; Braha)",
+      "Concern for the spouse's health (BPHS 24.78; Raman; Braha)",
+      "More than one marriage, or marriage to a cousin (Raman; Bhavartha Ratnakara 6.3-6.4)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.78: the native is angry, inimical to the spouse and lacks happiness (traditional view)",
+      "Phaladeepika 6.64 Dushkriti yoga (7th lord in 6, 8 or 12): a harsh classical description including loss of the wife and straying",
+      "Raman: with Venus also badly placed, sexual-health and fertility concerns; with Venus weak, losing a partner through an indiscreet act (traditional view)",
+      "Raman, 300 Combinations no. 267: the 7th lord with Venus in the 6th is listed for a frigid spouse (traditional view)"
+    ],
+    "by_area": {
+      "personality": "Given to anger and devoid of happiness (BPHS 24.78).",
+      "career": "",
+      "finance": "",
+      "health": "Raman lists health and fertility concerns if Venus is also afflicted (traditional notes only).",
+      "relationships": "Discord, possible divorce, unhappy partnerships (Braha); a sickly, jealous spouse (Raman); a status or culture gap (Rath).",
+      "family": "Raman: may marry a cousin such as an uncle's daughter.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus well placed (Raman distinguishes Venus's condition from the 7th lord's)",
+      "Benefic aspect on the 7th house (Phaladeepika 15.5)",
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)"
+    ],
+    "weakeners_or_cancellations": [
+      "Badly afflicted 7th lord with Venus ill-disposed (Raman)",
+      "Venus in the 6th or debilitated as well (Bhavartha Ratnakara 6.3-6.4: more than one marriage)",
+      "Phaladeepika 15.5: a house whose lord is in the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Rath (Crux 10.3.3): the 7th lord in the 6th, 8th or 12th shows a spouse of different status or culture",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman. For Leo lagna Saturn rules both the 6th and 7th and is in its own sign here.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.78",
+        "view": "Seventh lord in the 6th: the wife is sickly; enmity with (or from) women; the native is angry and lacks happiness.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-78"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.64 (tr. V. Subrahmanya Sastri)",
+        "view": "Duskriti yoga: the 7th lord in 6, 8 or 12; the native may lose his wife (classical phrasing).",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.78 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Begets a sickly wife and is inimical to her; given to anger and devoid of happiness.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "Two marriages with both partners living, or marriage to a cousin; badly afflicted with Venus ill-disposed: impotency and other diseases; a sickly, jealous spouse; Venus well placed but the 7th lord afflicted: piles; Venus weak: losing the partner through an indiscreet act.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Marital discord, divorce, sickly spouse, unhappy or unsuccessful partnerships.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. VI st. 3-4",
+        "view": "If Venus is in the 6th or debilitated, or the 7th lord is in the 6th or the 12th, the native will have more than one wife.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Phaladeepika 15.5 (tr. V. Subrahmanya Sastri)",
+        "view": "A house whose lord is in the 6th, 8th or 12th suffers; a benefic aspect makes it flourish.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621587.html"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 267 Kalatrashanda Yoga (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "If the 7th lord joins the 6th with Venus, the wife will be frigid (traditional combination).",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.3.1-10.3.3 (pp. 149-150) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 7th lord behaves like Venus; its house position shows the native's attitude to the spouse (dominating in the 1st, loving spouse and family in the 4th, harmony and respect in the 7th, obsessed with the spouse in the 10th); in the 6th, 8th or 12th the spouse is of a different status and a culture gap is seen.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Never predict a spouse's illness, death or divorce. Say partnership is an area to tend with patience and that the spouse may be service-minded."
+  },
+  {
+    "id": "lord_in_house/7/7",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 7
+    },
+    "summary": "The 7th lord in its own house strengthens marriage and partnership. BPHS, Raman and Rath read happiness, a magnetic personality and an honourable spouse; Braha adds that a malefic 7th lord here can still bring major marital problems.",
+    "themes": [
+      "marital happiness",
+      "strong partnership",
+      "discernment",
+      "courage",
+      "public life"
+    ],
+    "common_outcomes": [
+      "Happiness through the spouse; a just, honourable spouse from a reputable family (BPHS 24.79; Raman)",
+      "Charming, magnetic personality; courageous, skilful and intelligent (BPHS 24.79; Raman; Braha)",
+      "Harmony and respect between partners (Rath)"
+    ],
+    "rare_outcomes": [
+      "Rath: the 7th lord in its own kendra creates a Mahapurusha yoga (for Mars, Mercury, Jupiter, Venus or Saturn) with happiness, success and a good spouse",
+      "Braha: if the 7th lord is a natural malefic, major problems and possibly divorce even though it is in its own sign",
+      "Raman: weak and afflicted, a lonely life without marriage or friends and loss through marriage negotiations",
+      "Bhavartha Ratnakara (ch. XI st. 5): 5th, 7th and 9th lords in their own houses give holy dips during their periods",
+      "BPHS 24.79: wind-type complaints (traditional note)"
+    ],
+    "by_area": {
+      "personality": "Courageous, skilful and intelligent (BPHS 24.79); charming and magnetic (Raman); powerful, handsome and respected (Braha).",
+      "career": "",
+      "finance": "",
+      "health": "BPHS 24.79: wind-type complaints (traditional note only).",
+      "relationships": "Happiness through the spouse (BPHS 24.79); much sought after, an honourable spouse (Raman); harmony and respect (Rath); Braha: a malefic 7th lord can still disturb the marriage.",
+      "family": "Raman: the spouse comes from a family of reputation and standing.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman: the lord well placed",
+      "A natural-benefic 7th lord (Braha: then marriage is a source of great pleasure)",
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)",
+      "The 7th house linked with a benefic and its lord strong (Phaladeepika 16.20: a virtuous spouse, happy marriage, children)",
+      "The 7th lord with Venus and free of malefic aspect or conjunction (Bhavartha Ratnakara 6.1: one marriage)"
+    ],
+    "weakeners_or_cancellations": [
+      "A natural-malefic 7th lord (Braha: major problems despite own sign)",
+      "Raman: weak and afflicted gives loneliness and failed negotiations",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman. Raman's rule applies directly here: a natural benefic owning the 7th (Jupiter for Virgo, Mercury for Sagittarius, Venus for Aries and Scorpio, the Moon for Capricorn) stops acting as a malefic when it occupies the 7th, and a natural malefic owning it (Mars for Taurus and Libra, Saturn for Cancer and Leo, the Sun for Aquarius) stops acting as a benefic. When Venus is the 7th lord here (Aries, Scorpio), see the karaka debate under disagreements.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.79",
+        "view": "Seventh lord in the 7th: enjoys happiness through the wife; courageous, discerning, intelligent, and troubled only by vata.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-79"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.79 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Happiness through the wife; courageous, skilful and intelligent; afflicted only by windy diseases.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "Well placed: a charming, magnetic personality, sought out by the opposite sex; a just, honourable spouse from a reputable family. Weak and afflicted: a lonely life without marriage and friends, loss through marriage negotiations.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Own sign: powerful, handsome, respected; a beautiful, powerful or special spouse; if the ruler is a benefic, marriage is a source of great pleasure; if a malefic, major problems and likely divorce even in its own sign.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.3.3, 10.3.6 (p. 150) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 7th lord in the 7th shows harmony and respect toward the spouse; in the 7th it creates a Mahapurusha yoga, blessing the native with happiness, success and a good spouse.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.20 (tr. V. Subrahmanya Sastri)",
+        "view": "If the 7th house is connected with a benefic and its lord is strong, the spouse is virtuous, lives happily with the native and is blessed with children.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. VII st. 10 with Raman's notes",
+        "view": "The text repeats that a karaka in its own bhava harms it (Venus in the 7th harms the wife); Raman disagrees from experience: Venus in the 7th makes the spouse beautiful and passionate, and only affliction by Mars, Saturn or Rahu spoils it.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "BPHS, Raman and Rath are favourable; Braha says a natural-malefic 7th lord in its own sign can still give major problems. Karaka debate for Venus as 7th lord in the 7th (Aries, Scorpio lagnas): Bhavartha Ratnakara says it harms the spouse; Raman rejects this from experience.",
+    "confidence": "high",
+    "phrasing_guidance": "Positive: strong partnership potential. Avoid absolute promises; marriage depends on the whole chart and D9."
+  },
+  {
+    "id": "lord_in_house/7/8",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 8
+    },
+    "summary": "The lord of marriage in the house of sudden change and joint resources. BPHS, Raman, Braha and Phaladeepika agree on less marital happiness and concern for the spouse's health or temper; Raman and Braha add a rich partner or gains through wills and insurance.",
+    "themes": [
+      "marital challenge",
+      "spouse's family",
+      "joint resources",
+      "transformation",
+      "Duskriti yoga"
+    ],
+    "common_outcomes": [
+      "Less marital happiness; estrangement possible (BPHS 24.80; Raman; Braha)",
+      "Concern for the spouse's health or temperament (BPHS 24.80; Raman)",
+      "A rich partner or marriage among relatives (Raman); gains from insurance or wills (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.80: the spouse is unwell, ill-disposed and disobedient (traditional view)",
+      "Raman, afflicted, and Braha: early loss of the partner (traditional view, never stated as a prediction); Raman: the native may die in distant lands (traditional view)",
+      "Phaladeepika 6.64 Dushkriti yoga: a harsh classical description including loss of the wife",
+      "Braha: good life span for the native"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "A rich partner (Raman); gains from insurance companies or wills (Braha).",
+      "health": "",
+      "relationships": "Deprived of marital happiness (BPHS 24.80); sickly, ill-tempered spouse leading to estrangement (Raman); divorce, no happiness from spouse (Braha); status gap (Rath).",
+      "family": "Raman: marriage may take place with relatives.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman: the lord well placed gives marriage with relatives or a rich partner",
+      "Benefic aspect on the 7th house (Phaladeepika 15.5)",
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: affliction gives the harsh partner results",
+      "Phaladeepika 15.5: a house whose lord is in the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Rath (Crux 10.3.3): the 7th lord in the 6th, 8th or 12th shows a spouse of different status or culture",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman. For Cancer lagna Saturn rules both the 7th and 8th and is in its own sign here; BPHS 34.7 says an 8th lord that also owns the 7th is specifically harmful.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.80",
+        "view": "Seventh lord in the 8th: deprived of marital happiness; the wife may be sickly, ill-natured and disobedient.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-80"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.64 (tr. V. Subrahmanya Sastri)",
+        "view": "Duskriti yoga: the 7th lord in 6, 8 or 12; classical phrasing says the native may lose his wife.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.80 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Deprived of marital happiness; the wife troubled by diseases, of poor disposition and disobedient.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "Well placed: marriage with relatives or a rich partner. Afflicted: early death of the partner and the native dying in distant lands; a sickly, ill-tempered spouse leading to estrangement and separation.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Divorce, possible death of marriage partner, no happiness from spouse, gains from insurance companies or wills, good life span.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 15.5 (tr. V. Subrahmanya Sastri)",
+        "view": "A house whose lord is in the 6th, 8th or 12th suffers; a benefic aspect makes it flourish.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621587.html"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.3.1-10.3.3 (pp. 149-150) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 7th lord behaves like Venus; its house position shows the native's attitude to the spouse (dominating in the 1st, loving spouse and family in the 4th, harmony and respect in the 7th, obsessed with the spouse in the 10th); in the 6th, 8th or 12th the spouse is of a different status and a culture gap is seen.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Never predict illness, death or divorce of a spouse. Frame as a deep partnership that needs patience and openness, possibly with shared or inherited resources."
+  },
+  {
+    "id": "lord_in_house/7/9",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 9
+    },
+    "summary": "A kendra lord in a trikona: partnership joins fortune, father and dharma. Raman, Braha and Bhavartha Ratnakara read an accomplished, fortunate spouse and fortune made abroad; BPHS adds many relationships alongside devotion to the spouse.",
+    "themes": [
+      "fortunate spouse",
+      "dharma",
+      "travel",
+      "kendra-trikona link",
+      "attachment"
+    ],
+    "common_outcomes": [
+      "An accomplished, devoted or religious spouse who supports a righteous life (Raman; Braha)",
+      "Fortune made in foreign lands, or residence abroad (Raman; Braha)",
+      "Gains from the spouse or the spouse's family (Braha); many undertakings (BPHS 24.81)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.81: union with many women while well disposed to his own wife (traditional view)",
+      "Raman: if fortified, the father may live abroad; if afflicted, the partner may draw the native from dharma and wealth may be wasted",
+      "Exchange of the 7th and 9th lords: fortunate in marriage and self-earned wealth (Bhavartha Ratnakara 8.19); also a Maha yoga (Phaladeepika 6.32)"
+    ],
+    "by_area": {
+      "personality": "Lucky (Braha).",
+      "career": "Many undertakings (BPHS 24.81); fortune made abroad (Raman).",
+      "finance": "Gains from spouse or spouse's family (Braha); self-earned wealth when the 7th and 9th lords exchange (Bhavartha Ratnakara 8.19).",
+      "health": "",
+      "relationships": "Well disposed to his wife (BPHS 24.81); a wealthy, beautiful, devoted spouse (Braha); an accomplished spouse (Raman).",
+      "family": "Happiness from the father (Braha); the father may live abroad (Raman).",
+      "spirituality": "A religious or spiritual partner; gains from guru and elders (Braha); a spouse who supports a righteous life (Raman)."
+    },
+    "strengtheners": [
+      "Exchange with the 9th lord (Bhavartha Ratnakara 8.19; Phaladeepika 6.32)",
+      "Kendra lord in a trikona (BPHS 34.11-12)",
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)",
+      "The 7th house linked with a benefic and its lord strong (Phaladeepika 16.20: a virtuous spouse, happy marriage, children)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: afflicted, the partner may draw the native from dharma and wealth may be lost",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.81",
+        "view": "Seventh lord in the 9th: associates with many women, mind attached to the wife, and has many undertakings.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-81"
+      },
+      {
+        "source": "Phaladeepika 6.32 (tr. V. Subrahmanya Sastri)",
+        "view": "Exchanges of sign between lords other than 3, 6, 8, 12 are Maha yogas (applies to 7th-9th exchange).",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.81 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Union with many women, well disposed to his own wife, many undertakings.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "Fortified: the father may live abroad while the native makes his fortune in foreign lands; an accomplished wife enabling a righteous life. Afflicted: father may die early; the partner may drag the native from dharma and he may waste wealth.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Spouse is wealthy, beautiful and devoted; gains from spouse or spouse's family; religious or spiritual partner; lucky; happiness from father; gains from guru and elders; may reside in a foreign country.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. VIII st. 19",
+        "view": "If the 9th lord is in the 7th and the 7th lord in the 9th, the person is fortunate in regard to the wife and has self-earned wealth.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Positive: a partner who adds to fortune and values. Do not mention multiple partners."
+  },
+  {
+    "id": "lord_in_house/7/10",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 10
+    },
+    "summary": "Two kendras linked: partnership joins career and public standing. Raman and Braha read a devoted, career-minded spouse who helps the native's work and a profession involving travel or abroad; BPHS gives religious conduct, wealth and children but a spouse who does not follow the native's wishes.",
+    "themes": [
+      "career partnership",
+      "public dealings",
+      "independent spouse",
+      "dharma",
+      "wealth"
+    ],
+    "common_outcomes": [
+      "A spouse who helps the career or earns too (Raman; Braha)",
+      "A profession abroad or involving constant travel (Raman; Braha)",
+      "Religious conduct, wealth and children (BPHS 24.82)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.82: a disobedient spouse (traditional view); Raman instead says devoted and faithful",
+      "Raman, afflicted: an avaricious, over-ambitious spouse whose demands damage the career",
+      "Rath: the native may be obsessed with the spouse; in one example chart the 7th lord in the 10th links the first marriage to professional success",
+      "Bhavartha Ratnakara 9.21: 6th, 7th and 10th lords in kendras or trikonas give power and fame"
+    ],
+    "by_area": {
+      "personality": "Religious (BPHS 24.82).",
+      "career": "Career abroad or with constant travel (Raman; Braha); successful career aided by the spouse (Braha).",
+      "finance": "Wealth (BPHS 24.82); the spouse contributes income (Raman).",
+      "health": "",
+      "relationships": "Devoted, faithful spouse (Raman) versus a disobedient one (BPHS 24.82); obsessed with the spouse (Rath).",
+      "family": "Sons and the like (BPHS 24.82).",
+      "spirituality": "Religious (BPHS 24.82)."
+    },
+    "strengtheners": [
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)",
+      "The 7th house linked with a benefic and its lord strong (Phaladeepika 16.20: a virtuous spouse, happy marriage, children)",
+      "6th, 7th and 10th lords in kendras or trikonas (Bhavartha Ratnakara 9.21)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: affliction gives an over-ambitious spouse and a declining career",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman. For Gemini (Jupiter 7+10) and Sagittarius (Mercury 7+10) the 7th lord also owns the 10th and is in its own sign here.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.82",
+        "view": "Seventh lord in the 10th: the wife is not obedient; the native is devoted to dharma and has wealth and sons.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-82"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.82 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Begets a disobedient wife; religious; endowed with wealth, sons and so on.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "May flourish in a profession abroad or one involving constant travel; a devoted, faithful spouse who may be employed and add to income or help the career. Afflicted: an avaricious, over-ambitious spouse; the career may deteriorate.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Powerful or career-oriented spouse, spouse aids in career, successful career, profession involves travel.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.3.3 (p. 150) and ch. XIII example chart (p. 293) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 7th lord in the 10th: the native is obsessed about the spouse; in an example chart Venus as 7th lord in the 10th links the first marriage to professional success.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. IX st. 21",
+        "view": "The 6th, 7th and 10th lords in kendras or trikonas: power and much fame.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "BPHS 24.82 calls the spouse disobedient; Raman calls the spouse devoted and faithful (unless afflicted).",
+    "confidence": "high",
+    "phrasing_guidance": "Positive about career and partnership; describe the spouse as independent and capable."
+  },
+  {
+    "id": "lord_in_house/7/11",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 11
+    },
+    "summary": "The lord of marriage in the house of gains and desires. BPHS, Raman and Braha agree on gains through the spouse; BPHS and Raman add more than one relationship in some readings, and BPHS and Rath less happiness from children.",
+    "themes": [
+      "gains through spouse",
+      "networks",
+      "business partners",
+      "daughters"
+    ],
+    "common_outcomes": [
+      "Wealth through the spouse, or a spouse from a rich background (BPHS 24.83; Raman; Braha)",
+      "Benefits from partners; financial gains after marriage (Braha)",
+      "Desires fulfilled (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.83: less happiness from sons; daughters (traditional view); Rath: children suffer from this position (the lord aspects the 5th)",
+      "Raman: more than one marriage or association with many partners; if afflicted, more than one marriage with one spouse outliving the native (traditional view)"
+    ],
+    "by_area": {
+      "personality": "Braha: a strong desire nature.",
+      "career": "Braha: benefits from business partners.",
+      "finance": "Gains through the spouse (BPHS 24.83; Braha); a spouse who brings much wealth (Raman).",
+      "health": "",
+      "relationships": "Happy marriage (Braha); Raman allows more than one marriage (traditional view).",
+      "family": "Less happiness from children, daughters (BPHS 24.83); children suffer (Rath).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman: a beneficially disposed lord gives a wealthy spouse",
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)",
+      "The 7th house linked with a benefic and its lord strong (Phaladeepika 16.20: a virtuous spouse, happy marriage, children)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: affliction gives more than one marriage",
+      "The 7th lord and Venus each in a dual sign or navamsa (Phaladeepika 10.5; Raman, How to Judge a Horoscope p. 173: more than one marriage)",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.83",
+        "view": "Seventh lord in the 11th: wealth through wives; little happiness from sons; more daughters.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-83"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.83 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Gains wealth through his wife, less happiness from sons and the like, and has daughters.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "More than one marriage or association with many women; if beneficially disposed the wife hails from a rich background or brings much wealth; if afflicted, more than one marriage, one wife outliving him.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "A kama lord in a kama house fulfils desires and gives a strong desire nature; benefits from partners, happy marriage, financial gains after marriage.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.3.6 (p. 150) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 7th lord carries its influence to the houses it aspects; in the 11th, children suffer.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Positive about gains through partnership. Do not predict the sex or number of children or more than one marriage."
+  },
+  {
+    "id": "lord_in_house/7/12",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 7,
+      "placed_in": 12
+    },
+    "summary": "The lord of marriage in the house of loss, expense and the foreign. BPHS, Raman, Braha, Rath and Phaladeepika agree on less marital ease, spending and a partner of modest or different background; Raman and Bhavartha Ratnakara add more than one marriage. Rath makes an exception for Gemini and Virgo lagnas.",
+    "themes": [
+      "expenditure through spouse",
+      "foreign connection",
+      "Duskriti yoga",
+      "privacy in marriage",
+      "textiles trade"
+    ],
+    "common_outcomes": [
+      "Less happiness from the partner; separation possible (Braha; Raman; Phaladeepika 6.64)",
+      "Spending connected with the spouse; a frugal or close-fisted native (BPHS 24.84; Raman)",
+      "A spouse from a poorer or different background (Raman; Rath)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.84: livelihood related to clothes; an extravagant spouse",
+      "Raman and Bhavartha Ratnakara 6.3-6.4: more than one marriage, possibly a second marriage kept secret (traditional view)",
+      "Braha: a strong sexual nature (the 12th rules bed pleasures)",
+      "Raman: if both Venus and the 7th lord are weak, may only dream of marriage (traditional view)",
+      "Rath: for Gemini and Virgo, the 7th lord Jupiter is also the badhaka lord, and in the 12th it gives excellent results, its dasa marked by joy and prosperity"
+    ],
+    "by_area": {
+      "personality": "Miserly (BPHS 24.84); close-fisted (Raman).",
+      "career": "Livelihood related to clothes or textiles (BPHS 24.84).",
+      "finance": "Penury (BPHS 24.84); generally poor (Raman); an extravagant spouse (BPHS 24.84).",
+      "health": "",
+      "relationships": "No happiness from the partner, unsuccessful partnerships (Braha); separation (Raman); spouse from a poor family (Rath); a strong sexual nature (Braha).",
+      "family": "Raman: the spouse may come from a servant's family (traditional view).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Benefic aspect on the 7th house (Phaladeepika 15.5)",
+      "Gemini or Virgo lagna with Jupiter as the 7th lord (Rath: excellent results)",
+      "The 7th lord or Venus joined or aspected by Jupiter or Mercury (Raman, 300 Combinations no. 239 Satkalatra: a noble, virtuous spouse)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: severe affliction gives early separation; weak Venus and 7th lord together, no marriage",
+      "Venus in the 6th or debilitated as well (Bhavartha Ratnakara 6.3-6.4)",
+      "Phaladeepika 15.5: a house whose lord is in the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Rath (Crux 10.3.3): the 7th lord in the 6th, 8th or 12th shows a spouse of different status or culture",
+      "Raman: the results must not be applied literally without judging the whole chart and the strength of every planet (How to Judge a Horoscope p. 171)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7, 34.14; Raman, How to Judge a Horoscope pp. 13-15; Frawley): the 7th is a kendra; natural benefics owning kendras lose their benefic quality and natural malefics owning them stop being inauspicious, and BPHS names the 7th and 10th 'specially for happiness'. Raman adds that a natural benefic owning a kendra stops acting as a malefic when it occupies that same kendra. The 7th lord is also a maraka (Raman's notes to Bhavartha Ratnakara ch. X), used only for timing and never stated to users. By lagna: Venus (2+7) for Aries is a 'direct killer' and Mars (7+12) for Taurus a killer (BPHS 34.19-24); Jupiter (7+10) for Gemini and (4+7) for Virgo is malefic (BPHS 34.25, 34.31; Raman); Saturn (7+8) for Cancer and Mars (2+7) for Libra are killers (BPHS 34.27, 34.33); Saturn (6+7) for Leo and Venus (7+12) for Scorpio are malefic (BPHS 34.29, 34.35); Mercury (7+10) for Sagittarius can confer a yoga with the Sun (BPHS 34.37) though Raman counts it evil; the Moon for Capricorn and Mercury (4+7) for Pisces are malefic (BPHS 34.39, 34.43); the Sun for Aquarius is a killer in BPHS 34.41 but a benefic in Raman. For Taurus (Mars 7+12) and Scorpio (Venus 7+12) the 7th lord also owns the 12th and is in its own sign here.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.84",
+        "view": "Seventh lord in the 12th: poor or miserly; the wife is extravagant; earns a living through clothing.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-84"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.64 (tr. V. Subrahmanya Sastri)",
+        "view": "Duskriti yoga: the 7th lord in 6, 8 or 12; classical phrasing says the native may lose his wife.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.84 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Incurs penury, a miser, livelihood related to clothes; the wife is a spendthrift.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Results of the Seventh [Lord] Occupying Different Houses' (pp. 170-171)",
+        "view": "More than one marriage, possibly a clandestine second marriage, or a second after losing the first; severe affliction: separation soon after marriage and no second marriage; both karaka and 7th lord weak: only dreams of women; the wife may hail from a servant's family; close-fisted and generally poor.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 7th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Divorce, spouse may die early, no happiness from marriage partner, unhappy or unsuccessful partnerships, good sex life; a strong sexual nature, as the 7th governs passions and the 12th bed pleasures.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. XV 15.9-15.10 (pp. 323-324) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "Planets in the 12th show losses to the houses they own: the 7th lord in the 12th gives a spouse from a poor family; for Virgo or Gemini lagna the badhaka 7th lord Jupiter in the 12th gives excellent results, its dasa marked by joy and prosperity.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. VI st. 3-4",
+        "view": "If Venus is in the 6th or debilitated, or the 7th lord is in the 6th or 12th, more than one marriage.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.3.1-10.3.3 (pp. 149-150) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 7th lord behaves like Venus; its house position shows the native's attitude to the spouse (dominating in the 1st, loving spouse and family in the 4th, harmony and respect in the 7th, obsessed with the spouse in the 10th); in the 6th, 8th or 12th the spouse is of a different status and a culture gap is seen.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 14, 19-44 (tr. G.C. Sharma)",
+        "view": "Benefics owning kendras do not give benefic effects and malefics owning them are not inauspicious; the 7th and 10th are 'specially for happiness'; lagna-by-lagna lists of auspicious, malefic and 'killer' planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Kendra lords are benefic when natural malefics and malefic when natural benefics; a natural benefic owning a kendra ceases to be malefic when it occupies that kendra, and a natural malefic owning a kendra ceases to be benefic when it occupies it; per-lagna lists.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of the quadrants 4, 7 and 10 are auspicious if natural malefics and inauspicious if natural benefics; quadrant rulership reverses natural status.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Rath gives a lagna exception (Jupiter for Gemini and Virgo) that the other sources do not mention. The earlier note that modern authors stress foreign relocation is not supported by the sources read; it has been removed.",
+    "confidence": "high",
+    "phrasing_guidance": "Do not predict loss of a spouse or a second marriage. Frame as a partnership that asks for patience and careful budgeting; mention the Gemini/Virgo exception only as a supportive factor."
+  }
+]

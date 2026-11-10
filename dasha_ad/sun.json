@@ -1,0 +1,524 @@
+[
+  {
+    "id": "dasha_ad/sun/sun",
+    "layer": "dasha_ad",
+    "key": {"md": "Sun", "ad": "Sun"},
+    "summary": "The Sun's own sub-period opens its mahadasha (about 3 months 18 days). BPHS makes it a time of wealth and grain when the Sun is exalted, in its own sign, a kendra, a trikona or the 11th, and a hard time when it is debilitated or badly placed. Other texts stress fame and money through authority, alongside fever, heat, travel and worry about the father.",
+    "themes": ["opening of the Sun period", "authority and officials", "the father", "fever and heat", "travel away from home"],
+    "common_outcomes": [
+      "wealth and grain when the Sun is well placed (BPHS 52.1-3)",
+      "fame through royal favour, wandering in wild or hilly country, gain of wealth (Phaladeepika 21.3)",
+      "wealth through Brahmins, Kshatriyas or arms, with mental suffering and wandering in a foreign land (Jataka Parijata 18.62)",
+      "unpleasantness with relatives and superiors, anxiety, headache, ear pain, fear of rulers and enemies, loss of money, travel (Raman p. 235)"
+    ],
+    "rare_outcomes": [
+      "loss of the father (Phaladeepika 21.3); danger to the father if the Sun is afflicted (Raman p. 235)",
+      "[maraka: text predicts danger to life / death] when the Sun rules the 2nd or 7th (BPHS 52.1-3); Raman lists fear of death",
+      "a theft, a snake bite or an accident (Rele p. 72)"
+    ],
+    "by_area": {
+      "personality": "Mental suffering and anxiety (Jataka Parijata 18.62; Raman p. 235); firmness of mind when the Sun is strong (Rele p. 72).",
+      "career": "Fame and favour from the ruler (Phaladeepika 21.3) or recognition from government (Rele p. 72) when well placed; trouble with superiors and loss of power when afflicted (Rele p. 72; Raman p. 235).",
+      "finance": "Wealth and grain when well placed (BPHS 52.1-3; Phaladeepika 21.3); loss of money (Raman p. 235).",
+      "health": "Fever and illness from heat (Phaladeepika 21.3); headache, ear pain, urinary or kidney tendency, stomach-ache (Raman p. 235). Good health when the Sun is strong (Rele p. 72).",
+      "relationships": "Birth of a son when the Sun is strong (Rele p. 72).",
+      "family": "Trouble among relatives (Rele p. 72; Raman p. 235); risk to the father (Phaladeepika 21.3).",
+      "spirituality": "Gains through religious people (Raman p. 235)."
+    },
+    "strengtheners": ["Sun exalted or in its own sign (BPHS 52.1)", "Sun in the 11th, a kendra or a trikona (BPHS 52.1)", "Sun well placed and joined with the 2nd and 4th lords: princely comfort and vehicles (Rele p. 72)"],
+    "weakeners_or_cancellations": ["Sun debilitated, or in an inauspicious house or sign (BPHS 52.2)", "Sun in the 6th, 8th or 12th or with malefics or lords of evil houses (Rele p. 72)", "Sun lord of the 2nd or 7th (BPHS 52.2-3)"],
+    "lagna_or_context_notes": "In its own sub-period the Sun is both dasha and sub-period lord, so its position from the dasha lord is always the 1st; BPHS judges it from the lagna and by dignity. BPHS gives medium results when the Sun is in houses other than those listed. The Sun owns only Leo, so it is the 2nd or 7th lord only for Cancer or Aquarius lagna.",
+    "source_views": [
+      {"source": "BPHS 52.1-3, tr. R. Santhanam vol. 2", "view": "Wealth and grain if the Sun is exalted, in its own sign, the 11th, a kendra or trikona; adverse if debilitated or in an inauspicious house or sign; medium elsewhere. As lord of the 2nd or 7th: danger of premature death or death-like suffering. Remedy: Mrityunjaya japa or worship of the Sun.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 52.1-3, Sanskrit with English gloss, enjoylearningsanskrit.com", "view": "Same reading; verse 3 gives Mrityunjaya japa and a shanti pleasing to the Sun, for health.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-52"},
+      {"source": "Phaladeepika 21.3 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Fame through royal favour, a wandering life in wild hilly country, gain of wealth; fever, illness from heat, possible loss of the father.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621593.html"},
+      {"source": "Jataka Parijata 18.62 (tr. V. Subrahmanya Sastri vol. 2)", "view": "Wealth through Brahmins or Kshatriyas or by arms; much mental suffering; a wandering life through a foreign wild country.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology ch. XXIV, p. 235", "view": "3 months 18 days. Unpleasantness with relatives and superiors, anxiety, headache, ear pain, urinary or kidney tendency, sickness, fear of rulers and enemies, fear of death, loss of money, danger to the father if the Sun is afflicted, stomach-ache, travel, gains through religious people, wandering abroad.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "V.G. Rele, Directional Astrology of the Hindus, p. 72", "view": "Well placed (exalted, own sign, angles, trines, 11th): birth of a son, more knowledge and wealth, success, firmness of mind, government favour, good health; with the 2nd and 4th lords, princely comfort and vehicles. Debilitated, in 6/8/12 or with evil planets or lords of evil houses: trouble among relatives, difficulties with superiors, loss of power and wealth, disgrace, chance of accident, theft, snake bite or loss of the father.", "url": "https://archive.org/details/qylx-directional-astrology-of-the-hindus-as-propounded-"}
+    ],
+    "disagreements": "BPHS and Rele make this sub-period good or bad by the Sun's placement; Phaladeepika, Jataka Parijata and Raman give a mixed picture with no conditions (gains and fame alongside fever, worry and risk to the father). Saravali 42 gives no Sun-Sun result.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a short, intense opening phase: good for recognition when the Sun is strong, but advise rest from heat and overwork, care with superiors, and attention to the father's health. Do not predict death.",
+    "conditional_results": [
+      {"when": "ad_dignity in ['exalted', 'moolatrikona', 'own'] or ad_house in [1, 4, 5, 7, 9, 10, 11]", "polarity": "good", "effects": ["acquisition of wealth and grain"], "source": "BPHS 52.1 (tr. Santhanam)"},
+      {"when": "ad_dignity == 'debilitated'", "polarity": "bad", "effects": ["adverse results"], "source": "BPHS 52.2 (tr. Santhanam; Sanskrit gloss)"},
+      {"when": "manual: Sun in an inauspicious house or sign", "polarity": "bad", "effects": ["adverse results"], "source": "BPHS 52.2 (tr. Santhanam)"},
+      {"when": "ad_house in DUSTHANA or ad_with_malefic", "polarity": "bad", "effects": ["trouble among relatives", "difficulties with superiors", "loss of power and wealth", "public disgrace", "chance of accident, theft or snake bite", "loss of the father"], "source": "Rele p. 72"},
+      {"when": "'maraka' in ad_role", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death] or death-like suffering"], "source": "BPHS 52.2 (tr. Santhanam)"},
+      {"when": "manual: Sun well placed and joined with the lords of the 2nd and 4th", "polarity": "good", "effects": ["enough wealth for princely comfort", "vehicles"], "source": "Rele p. 72"}
+    ],
+    "remedies": [
+      {"remedy": "Mrityunjaya japa", "source": "BPHS 52.3 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "worship of the Sun (its mantras, charity)", "source": "BPHS 52.3 (tr. Santhanam)"}
+    ],
+    "phases": ""
+  },
+  {
+    "id": "dasha_ad/sun/moon",
+    "layer": "dasha_ad",
+    "key": {"md": "Sun", "ad": "Moon"},
+    "summary": "The Moon's sub-period in the Sun's mahadasha (6 months) is mostly favourable: marriage or family events, property, vehicles, favour from authorities and the end of troubles when the Moon is in a kendra or trikona, exalted or in its own sign. A waning or afflicted Moon, or one in the 6th, 8th or 12th, brings worry, disputes, losses and water-related or urinary trouble.",
+    "themes": ["home and property", "marriage and children", "favour from authorities", "mind and emotions", "water and fluids"],
+    "common_outcomes": [
+      "marriage, gain of wealth and property, house, land, cattle and vehicles (BPHS 52.4-6)",
+      "enemies subdued, troubles end, wealth grows; farming, house-building, friendships (Phaladeepika 21.4)",
+      "wealth through relatives and friends, idle pastimes with good company, jaundice and similar ailments (Jataka Parijata 18.63)",
+      "the valour of enemies subdued; health, wealth and happiness (Saravali 42.12)",
+      "favours from superiors, more business, new enterprises, new clothes, respect among relatives; trouble through women, eye trouble (Raman p. 235)"
+    ],
+    "rare_outcomes": [
+      "imprisonment, journeys to difficult places (BPHS 52.7-10)",
+      "[maraka: text predicts danger to life / death] when the Moon rules a maraka house (BPHS 52.13-14)",
+      "fear of drowning, depression, suicidal temptation (Rele p. 73)"
+    ],
+    "by_area": {
+      "personality": "Mental agony when the Moon is in the 6th, 8th or 12th (BPHS 52.7-10); fulfilment of ambitions when strong (BPHS 52.6).",
+      "career": "Favours from the ruler and fulfilment of ambitions (BPHS 52.6); new office or employment (Rele p. 73); loss of position and antagonism with authorities when afflicted (BPHS 52.7-10).",
+      "finance": "Gains of wealth, property and vehicles (BPHS 52.4-6; Phaladeepika 21.4); loss of wealth and grain when the Moon is waning or with malefics (BPHS 52.7-10).",
+      "health": "Jaundice (Jataka Parijata 18.63; Raman); consumption, fire accidents and water-borne disease if the Moon is malefic (Phaladeepika 21.4); urinary trouble and bodily pain when in 6/8/12 (BPHS 52.7-10); eye trouble (Raman).",
+      "relationships": "Marriage, birth of children, happiness from wife and children (BPHS 52.4-6, 52.11-12); distress to wife and children when the Moon is waning or afflicted (BPHS 52.7-10).",
+      "family": "Disputes with co-sharers of property when the Moon is in 6/8/12 (BPHS 52.7-10); wealth through relatives (Jataka Parijata 18.63).",
+      "spirituality": "Religious functions at home (BPHS 52.11-12)."
+    },
+    "strengtheners": ["Moon in a kendra or trikona (BPHS 52.4)", "Moon exalted or in its own sign (BPHS 52.5-6)", "Moon in the 1st, 9th, 11th or a kendra from the Sun, or with benefics (BPHS 52.11-12, gloss and Rele)"],
+    "weakeners_or_cancellations": ["waning Moon or Moon with malefics (BPHS 52.7)", "Moon in the 6th, 8th or 12th from the lagna (BPHS 52.8-10)", "Moon in the 6th, 8th or 12th from the Sun, or weak (BPHS 52.13)", "Moon lord of a maraka house (BPHS 52.14)"],
+    "lagna_or_context_notes": "BPHS uses both reference points here: verses 4-10 count from the lagna, verses 11-14 from the Sun (the dasha lord). The Moon is a natural friend of the Sun (Rele p. 120). Gloss verse 4 reads the Moon 'combust by the Sun' in a kendra or trikona; Santhanam does not.",
+    "source_views": [
+      {"source": "BPHS 52.4-14, tr. R. Santhanam vol. 2", "view": "Moon in a kendra or trikona: marriage, wealth, house, land, cattle, vehicles. Exalted or own sign: marriage, children, favour of rulers, ambitions fulfilled. Waning or with malefics: distress to wife and children, failures, disputes, loss of servants, antagonism with government, loss of wealth. In the 6th, 8th or 12th: danger from water, mental agony, imprisonment, disease, loss of position, hard journeys, disputes with co-sharers, bad food, thieves, displeasure of the ruler, urinary trouble, bodily pain. Benefics in the 1st, 9th or a kendra from the dasha lord: luxuries, fortune, kingdom, marriage, land, vehicles, children and grandchildren. Moon in 6/8/12 from the dasha lord or weak: coarse food, living away from home. Lord of a maraka house: premature death. Remedy: give a white cow and a female buffalo.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 52.4-14, Sanskrit with English gloss, enjoylearningsanskrit.com", "view": "Verse 11 reads the condition as the Moon (dasha-lord reference) in the 11th, 9th or a kendra, or with benefics; verse 13 involves the 6th lord in the 7th, 8th or 12th while weak; verse 14 adds irregular meals and travel; remedy a white cow and buffalo with shanti.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-52"},
+      {"source": "Phaladeepika 21.4 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Enemies defeated, troubles end, wealth grows; agriculture, house-building, friendships. If the Moon is malefic: consumption, fire accidents, water-borne disease.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621593.html"},
+      {"source": "Jataka Parijata 18.63 (tr. V. Subrahmanya Sastri vol. 2)", "view": "Wealth through relatives and friends, idle pastimes with intimate and respectable people, severe jaundice and kindred ailments.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "Saravali 42.12 (English text, lakshminarayanlenasia.com PDF)", "view": "Subdues the valour of enemies; health, wealth and happiness.", "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology ch. XXIV, p. 235", "view": "6 months. Favours from superiors, more business, fresh enterprises, trouble through women, eye trouble, many friends, idle pastimes, jaundice, new clothes and ornaments, good health and food, respect among relatives.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "V.G. Rele, Directional Astrology of the Hindus, pp. 72-73", "view": "Moon in angles or trines: marriage or a child, property, auspicious events at home, jewellery, sea voyages, new office. With malefics, lords of evil houses or waning: family sickness, disgrace, loss of servants and office. In evil houses: fear of drowning, worry, melancholia, urinary trouble, displacement. In the 9th, 11th or angles or with benefics from the significator: prosperity, marriage, a son or grandson. In the 2nd or 7th: travel, untimely meals, accident.", "url": "https://archive.org/details/qylx-directional-astrology-of-the-hindus-as-propounded-"}
+    ],
+    "disagreements": "For verse 11 Santhanam reads 'benefics in the 1st, 9th or a kendra from the dasha lord', while the Sanskrit gloss and Rele read the Moon itself in the 9th, 11th or a kendra from the dasha lord, or with benefics. For verse 14 Santhanam predicts premature death for the Moon as maraka lord; Rele speaks only of an accident. Classical texts without conditions (Phaladeepika, Jataka Parijata, Saravali) are mostly favourable.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a generally supportive, home-focused stretch: property, family events and goodwill from superiors. If the Moon is weak or afflicted, advise care of emotional balance, fluids and diet. Avoid predictions of drowning, suicide or death.",
+    "conditional_results": [
+      {"when": "ad_house in [1, 4, 5, 7, 9, 10]", "polarity": "good", "effects": ["marriage and other functions", "gain of wealth and property", "house, land, cattle and vehicles"], "source": "BPHS 52.4-5 (tr. Santhanam)"},
+      {"when": "ad_dignity in ['exalted', 'moolatrikona', 'own']", "polarity": "good", "effects": ["marriage", "birth of children", "favours from government", "fulfilment of ambitions"], "source": "BPHS 52.5-6 (tr. Santhanam)"},
+      {"when": "not moon_waxing or ad_with_malefic", "polarity": "bad", "effects": ["distress to wife and children", "failures in ventures", "disputes", "loss of servants", "antagonism with government", "loss of wealth and grain"], "source": "BPHS 52.7 (tr. Santhanam)"},
+      {"when": "ad_house in DUSTHANA", "polarity": "bad", "effects": ["danger from water", "mental agony", "imprisonment", "illness", "loss of position", "journeys to difficult places", "disputes with co-sharers", "bad food", "trouble from thieves", "displeasure of the ruler", "urinary trouble and bodily pain"], "source": "BPHS 52.8-10 (tr. Santhanam)"},
+      {"when": "ad_from_md in [1, 4, 7, 9, 10, 11] or ad_with_benefic", "polarity": "good", "effects": ["comforts and pleasures", "dawn of fortune", "happiness from wife and children", "high position", "marriage and religious functions", "garments, land and vehicles", "birth of children and grandchildren"], "source": "BPHS 52.11-12 (Sanskrit gloss; Rele p. 73)"},
+      {"when": "manual: benefics in the 1st, 9th or a kendra from the Sun (the dasha lord)", "polarity": "good", "effects": ["the same favourable results as above"], "source": "BPHS 52.11-12 (tr. Santhanam)"},
+      {"when": "ad_from_md in DUSTHANA", "polarity": "bad", "effects": ["poor or coarse food", "living away from home"], "source": "BPHS 52.13-14 (tr. Santhanam)"},
+      {"when": "manual: the Moon weak", "polarity": "bad", "effects": ["poor food", "living away from home"], "source": "BPHS 52.13-14 (tr. Santhanam)"},
+      {"when": "'maraka' in ad_role", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]"], "source": "BPHS 52.14 (tr. Santhanam)"},
+      {"when": "ad_house in MARAKA_HOUSES", "polarity": "bad", "effects": ["travel and untimely meals", "an accident"], "source": "Rele p. 73"},
+      {"when": "manual: the Moon malefic", "polarity": "bad", "effects": ["consumption", "fire accidents", "water-borne disease"], "source": "Phaladeepika 21.4 (tr. Sastri)"}
+    ],
+    "remedies": [
+      {"remedy": "give a white cow and a female buffalo in charity", "source": "BPHS 52.14 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "perform shanti", "source": "BPHS 52.14 (Sanskrit gloss)"}
+    ],
+    "phases": ""
+  },
+  {
+    "id": "dasha_ad/sun/mars",
+    "layer": "dasha_ad",
+    "key": {"md": "Sun", "ad": "Mars"},
+    "summary": "Mars's sub-period in the Sun's mahadasha (about 4 months 6 days) gives land, houses, wealth, command and victory over enemies when Mars is exalted, in its own sign, a kendra or a trikona, especially with the lagna lord. Mars in the 8th or 12th from the Sun, weak or with malefics brings harshness, quarrels with brothers, loss of kin and money, and illness.",
+    "themes": ["land and property", "courage and command", "brothers", "conflict and enemies", "bile, blood and fever"],
+    "common_outcomes": [
+      "land, wealth, grain and a house (BPHS 52.15-16)",
+      "wealth in gems and gold, royal favour, bilious disease (Jataka Parijata 18.64)",
+      "corals, gold, success in battle, splendour and happiness (Saravali 42.13)",
+      "disease and wounds, loss of status, enemies, quarrels with relatives, danger from authorities, loss of wealth (Phaladeepika 21.5)",
+      "rheumatism, quarrels, enteric fever, dysentery, theft or waste of money, alongside gold, gems and royal favour (Raman pp. 235-236)"
+    ],
+    "rare_outcomes": [
+      "command of an army (BPHS 52.17-18)",
+      "imprisonment (BPHS 52.19-20)",
+      "apoplexy, accidents by fire or animals when Mars is in the 2nd or 7th (Rele p. 74)"
+    ],
+    "by_area": {
+      "personality": "Firm mind and courage when strong (BPHS 52.18; Rele p. 73); brutality or a cruel mind and mental ailment when afflicted (BPHS 52.19-20).",
+      "career": "Commander's post, defeat of enemies (BPHS 52.17-18); military rank with the 9th or 10th lord (Rele p. 73); loss of status and danger from authorities (Phaladeepika 21.5).",
+      "finance": "Land, houses, wealth and grain (BPHS 52.15-16); gems and gold (Jataka Parijata 18.64; Saravali 42.13); loss of wealth through government when Mars is debilitated or weak (BPHS 52.21).",
+      "health": "Bilious disease (Jataka Parijata 18.64); wounds and disease (Phaladeepika 21.5); rheumatism, fever, dysentery (Raman); mental and bodily disease when Mars rules the 2nd or 7th (BPHS 52.21).",
+      "relationships": "",
+      "family": "More siblings and family comfort when strong (BPHS 52.18); disputes with brothers and loss of kinsmen when afflicted (BPHS 52.19-20).",
+      "spirituality": ""
+    },
+    "strengtheners": ["Mars exalted or in its own sign, in a kendra or trikona (BPHS 52.15)", "Mars joined with the lagna lord (BPHS 52.17)", "Mars joined with the 9th or 10th lord (Rele p. 73); with the 9th and 11th lords (BPHS 52.17 gloss)"],
+    "weakeners_or_cancellations": ["Mars in the 8th or 12th from the Sun (BPHS 52.19)", "Mars with malefics or without dignity and strength (BPHS 52.19-20)", "Mars debilitated or weak (BPHS 52.21)", "Mars lord of the 2nd or 7th (BPHS 52.21)"],
+    "lagna_or_context_notes": "BPHS counts the good positions from the lagna (verse 15) and the bad 8th/12th from the dasha lord (verse 19). Mars is a natural friend of the Sun (Rele p. 120).",
+    "source_views": [
+      {"source": "BPHS 52.15-22, tr. R. Santhanam vol. 2", "view": "Mars exalted, own sign, kendra or trikona: land, wealth, grain, house. With the lagna lord: all-round gains, army command, enemies destroyed, peace of mind, family comfort, more siblings. In the 8th or 12th from the dasha lord, with malefics or without dignity: brutality, mental ailment, imprisonment, loss of kin, disputes with brothers, failures. Debilitated or weak: loss of wealth through government. Lord of the 2nd or 7th: disease of mind and body. Remedy: Vedic recitation, japa, vrishotsarga (release of a bull).", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 52.15-22, Sanskrit with English gloss, enjoylearningsanskrit.com", "view": "Adds the 11th to the good houses, red garments among the gains, and gains with the 9th and 11th lords; reads verse 19 as a 10th lord in the 12th or 8th, afflicted and weak; remedy as Santhanam.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-52"},
+      {"source": "Phaladeepika 21.5 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Disease and wounds, loss of status, trouble from enemies, quarrels with relatives, danger from authorities, loss of wealth.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621593.html"},
+      {"source": "Jataka Parijata 18.64 (tr. V. Subrahmanya Sastri vol. 2)", "view": "Wealth as gems and gold, royal favour leading to prosperity, bilious and allied disease.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "Saravali 42.13 (English text, lakshminarayanlenasia.com PDF)", "view": "Corals, gold, success in battle, splendour and happiness.", "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology ch. XXIV, pp. 235-236", "view": "4 months 6 days. Rheumatic trouble, quarrels, enteric fever, dysentery, trouble to relatives, loss by theft or waste, failures; also gold and gems, royal favour, bilious disease, worry, danger from fire, loss of reputation.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "V.G. Rele, Directional Astrology of the Hindus, pp. 73-74", "view": "Exalted, own sign, 11th, angles or trines: property, wealth, courage, military success; with the lagna lord all-round happiness; with the 9th or 10th lord leadership or military rank; enemies destroyed, happiness from brothers, much travel. Debilitated or in evil houses from the significator with malefics: quarrels with superiors and inferiors, fickle mind, imprisonment, loss of a brother. In the 2nd or 7th: acute disease, fever, fire or animal accidents, apoplexy.", "url": "https://archive.org/details/qylx-directional-astrology-of-the-hindus-as-propounded-"}
+    ],
+    "disagreements": "Phaladeepika gives only adverse results, Saravali and Jataka Parijata mostly favourable ones; BPHS makes it depend on placement. The gloss reads BPHS 52.19 as a 10th lord in the 8th or 12th; Santhanam as Mars in the 8th or 12th from the dasha lord.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe an energetic, competitive phase good for property and decisive action when Mars is strong. If afflicted, advise avoiding quarrels (especially with siblings), impulsive spending and risky physical activity. No predictions of imprisonment as fact.",
+    "conditional_results": [
+      {"when": "ad_dignity in ['exalted', 'moolatrikona', 'own'] or ad_house in [1, 4, 5, 7, 9, 10]", "polarity": "good", "effects": ["acquisition of land", "gain of wealth and grain", "acquisition of a house"], "source": "BPHS 52.15-16 (tr. Santhanam)"},
+      {"when": "ad_house == 11", "polarity": "good", "effects": ["auspicious undertakings, gains of land and wealth"], "source": "BPHS 52.15 (Sanskrit gloss); Rele p. 73"},
+      {"when": "manual: Mars joined with the lagna lord", "polarity": "good", "effects": ["all-round gains", "commander's position", "enemies destroyed", "peace of mind", "family comfort", "more siblings"], "source": "BPHS 52.17-18 (tr. Santhanam)"},
+      {"when": "manual: Mars joined with the lords of the 9th and 11th (gloss) or the 9th or 10th (Rele)", "polarity": "good", "effects": ["gains", "leadership or military rank"], "source": "BPHS 52.17 (Sanskrit gloss); Rele p. 73"},
+      {"when": "ad_from_md in [8, 12] or ad_with_malefic", "polarity": "bad", "effects": ["brutality", "mental ailment", "imprisonment", "loss of kinsmen", "disputes with brothers", "failure in ventures"], "source": "BPHS 52.19-20 (tr. Santhanam)"},
+      {"when": "ad_dignity == 'debilitated'", "polarity": "bad", "effects": ["loss of wealth through the displeasure of the government"], "source": "BPHS 52.21 (tr. Santhanam)"},
+      {"when": "manual: Mars weak or without dignity", "polarity": "bad", "effects": ["loss of wealth through government", "failures and quarrels"], "source": "BPHS 52.19-21 (tr. Santhanam)"},
+      {"when": "'maraka' in ad_role", "polarity": "bad", "effects": ["diseases of mind and body"], "source": "BPHS 52.21 (tr. Santhanam)"},
+      {"when": "ad_house in MARAKA_HOUSES", "polarity": "bad", "effects": ["acute disease or fever", "accident by fire or animals"], "source": "Rele p. 74"}
+    ],
+    "remedies": [
+      {"remedy": "recitation of the Vedas and japa", "source": "BPHS 52.22 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "vrishotsarga (ritual release of a bull)", "source": "BPHS 52.22 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "charity", "source": "BPHS 52.22 (Sanskrit gloss)"}
+    ],
+    "phases": ""
+  },
+  {
+    "id": "dasha_ad/sun/rahu",
+    "layer": "dasha_ad",
+    "key": {"md": "Sun", "ad": "Rahu"},
+    "summary": "Rahu's sub-period in the Sun's mahadasha (about 10 months 24 days) is widely treated as difficult: new enemies, loss or theft of money, family disputes, poison or snake fears, headaches and eye trouble. BPHS says the first two months are worst when Rahu is in a kendra or trikona, after which things improve if Rahu is with benefics; Rahu in an upachaya house brings recognition and fame.",
+    "themes": ["enemies and theft", "family disputes", "poison and snakes", "headaches and eyes", "recognition after early trouble"],
+    "common_outcomes": [
+      "new enemies, wealth lost or stolen, poison danger, strong sensual cravings, headaches and eye complaints (Phaladeepika 21.6)",
+      "trouble from relatives and enemies, loss of place, mental misery (Jataka Parijata 18.65)",
+      "loss of wealth, danger from thieves and snakes, wounds, distress to wife and children in the first two months (BPHS 52.23-24)",
+      "family disputes, journeys, loss of money, failure, fear of thieves and reptiles, scandal (Raman p. 236)"
+    ],
+    "rare_outcomes": [
+      "[maraka: text predicts danger to life / death] (Jataka Parijata 18.65 'pang of death prematurely setting in'; BPHS 52.30 with Rahu in the 2nd or 7th)",
+      "imprisonment, loss of position (BPHS 52.27-29)",
+      "deportation, tumour, wasting disease, dysentery (Rele p. 74)",
+      "gains by speculation, influential friends, great power (Rele p. 74)"
+    ],
+    "by_area": {
+      "personality": "Mental misery (Jataka Parijata 18.65); excessive craving for sensual pleasure (Phaladeepika 21.6).",
+      "career": "Favours from government, recognition and fame when Rahu is in an upachaya or well placed from the Sun (BPHS 52.25-26); loss of position when badly placed (BPHS 52.27-28; Jataka Parijata 18.65).",
+      "finance": "Loss or theft of wealth (Phaladeepika 21.6; BPHS 52.23); loss of cattle, house and fields when Rahu is 8th or 12th from the Sun (BPHS 52.29).",
+      "health": "Poison, headaches, eye complaints (Phaladeepika 21.6); wounds (BPHS 52.24); consumption, skin enlargement, dysentery when badly placed (BPHS 52.29).",
+      "relationships": "Distress to wife and children in the early part (BPHS 52.24); birth of a son when Rahu is in an upachaya (BPHS 52.26).",
+      "family": "Family disputes and trouble from relatives (Jataka Parijata 18.65; Raman); family happiness when well placed (BPHS 52.26).",
+      "spirituality": ""
+    },
+    "strengtheners": ["Rahu with benefics or in a benefic navamsa (BPHS 52.24-25)", "Rahu in the 3rd, 6th, 10th or 11th from the lagna (BPHS 52.26)", "Rahu with a yogakaraka (BPHS 52.25-26)", "Rahu auspiciously placed from the Sun (BPHS 52.26)"],
+    "weakeners_or_cancellations": ["Rahu in the 8th or 12th from the Sun, or weak (BPHS 52.27-29)", "Rahu in the 2nd or 7th, or with their lords (BPHS 52.30)"],
+    "lagna_or_context_notes": "Rahu is a natural enemy of the Sun; Phaladeepika 20.39 and 20.52-53 say the nodes act through the planets they join. BPHS uses the lagna for the kendra/trikona and upachaya rules and the dasha lord (the Sun) for the 8th/12th rule.",
+    "source_views": [
+      {"source": "BPHS 52.23-31, tr. R. Santhanam vol. 2", "view": "Rahu in a kendra or trikona from the lagna: first two months loss of wealth, thieves, snakes, wounds, distress to wife and children; after that, comforts, health, satisfaction and royal favour if Rahu is with benefics or in a benefic navamsa. In an upachaya from the lagna, with a yogakaraka or well placed from the dasha lord: recognition, fortune, fame, a son, family happiness, with some distress to wife and children. Weak, or 8th/12th from the dasha lord: imprisonment, loss of position, thieves and snakes, wounds, loss of cattle, house and fields, consumption, dysentery. In the 2nd or 7th or with their lords: premature death, snakes. Remedy: worship and japa of Durga, gift of a black cow or female buffalo.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 52.23-31, Sanskrit with English gloss, enjoylearningsanskrit.com", "view": "Same structure; verse 30 reads Rahu in the 2nd with the 2nd lord; remedy adds the gift of a goat.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-52"},
+      {"source": "Phaladeepika 21.6 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "New enemies, wealth lost or stolen, general trouble, poison danger, excessive sensual craving, severe headaches, eye complaints.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621593.html"},
+      {"source": "Jataka Parijata 18.65 (tr. V. Subrahmanya Sastri vol. 2)", "view": "Pang of death prematurely setting in, trouble from relatives and enemies, loss of place, mental misery.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology ch. XXIV, p. 236", "view": "10 months 24 days. Many troubles, changes by Rahu's position, family disputes, journeys, pang of death, trouble from relatives and enemies, mental misery, loss of money, failures, fear of thieves and reptiles, scandal.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "V.G. Rele, Directional Astrology of the Hindus, p. 74", "view": "In angles or trines: early loss of wealth and snake bite, later happiness, influential friends, power, travel, gains by speculation. In the 3rd, 6th, 10th or 11th, with trine lords or friendly from the significator: fame, a son. In evil houses from the significator: deportation, imprisonment, losses, tumour, phthisis, dysentery. In the 2nd or 7th or with their lords: death, accident or calamities.", "url": "https://archive.org/details/qylx-directional-astrology-of-the-hindus-as-propounded-"}
+    ],
+    "disagreements": "Phaladeepika, Jataka Parijata and Raman give only adverse results; BPHS and Rele allow a favourable second phase or good results from an upachaya. Santhanam's verse 27-29 list includes 'happiness to wife and children' among bad results, which looks like a misprint for distress. Saravali 42 gives no Sun-Rahu result.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a testing sub-period calling for caution with money, security and family harmony, often easing after the first couple of months. Mention upachaya gains when the chart shows them. Do not predict death, snake bite or imprisonment as fact.",
+    "conditional_results": [
+      {"when": "ad_house in [1, 4, 5, 7, 9, 10]", "polarity": "bad", "effects": ["in the first two months: loss of wealth", "danger from thieves and snakes", "wounds", "distress to wife and children"], "source": "BPHS 52.23-24 (tr. Santhanam)"},
+      {"when": "ad_house in [1, 4, 5, 7, 9, 10] and ad_with_benefic", "polarity": "good", "effects": ["after the first two months: comforts, sound health, satisfaction, favours from government"], "source": "BPHS 52.24-25 (tr. Santhanam)"},
+      {"when": "manual: Rahu in the navamsa of a benefic", "polarity": "good", "effects": ["after the first two months: comforts, health and royal favour"], "source": "BPHS 52.24-25 (tr. Santhanam)"},
+      {"when": "ad_house in UPACHAYA", "polarity": "good", "effects": ["recognition from government", "good fortune, name and fame", "birth of a son", "family happiness", "some distress to wife and children"], "source": "BPHS 52.25-26 (tr. Santhanam)"},
+      {"when": "manual: Rahu joined with a yogakaraka", "polarity": "good", "effects": ["recognition, fortune and fame"], "source": "BPHS 52.25-26 (tr. Santhanam; Sanskrit gloss)"},
+      {"when": "manual: Rahu auspiciously placed from the Sun (the dasha lord)", "polarity": "good", "effects": ["royal honour, fortune and fame, with some family harassment"], "source": "BPHS 52.26 (tr. Santhanam; Sanskrit gloss)"},
+      {"when": "ad_from_md in [8, 12]", "polarity": "bad", "effects": ["imprisonment", "loss of position", "danger from thieves and snakes", "wounds", "loss of cattle, house and fields", "consumption and dysentery"], "source": "BPHS 52.27-29 (tr. Santhanam)"},
+      {"when": "manual: Rahu weak", "polarity": "bad", "effects": ["the same adverse results as Rahu 8th or 12th from the Sun"], "source": "BPHS 52.27-29 (tr. Santhanam)"},
+      {"when": "ad_house in MARAKA_HOUSES", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]", "danger from snakes"], "source": "BPHS 52.30 (tr. Santhanam)"},
+      {"when": "manual: Rahu joined with the lord of the 2nd or 7th", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]", "danger from snakes"], "source": "BPHS 52.30 (tr. Santhanam)"}
+    ],
+    "remedies": [
+      {"remedy": "worship and japa of Goddess Durga", "source": "BPHS 52.31 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "give a black cow or a female buffalo in charity", "source": "BPHS 52.31 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "give a goat in charity", "source": "BPHS 52.31 (Sanskrit gloss)"}
+    ],
+    "phases": "BPHS 52.23-25: with Rahu in a kendra or trikona the first two months are troubled (loss, thieves, wounds); after that the evil fades and good results follow if Rahu is with benefics or in a benefic navamsa. Rele (p. 74) gives the same early-bad, later-good pattern."
+  },
+  {
+    "id": "dasha_ad/sun/jupiter",
+    "layer": "dasha_ad",
+    "key": {"md": "Sun", "ad": "Jupiter"},
+    "summary": "Jupiter's sub-period in the Sun's mahadasha (about 9 months 18 days) is among the best in this mahadasha: marriage, favour from authorities, wealth, a son, honour and religious merit, with high position when Jupiter rules the 9th or 10th. Jupiter in the 6th or 8th from the Sun or with malefics brings trouble to family, displeasure of superiors and losses.",
+    "themes": ["favour from authorities", "marriage and children", "dharma and worship", "teachers and elders", "wealth"],
+    "common_outcomes": [
+      "marriage, royal favour, wealth and grain, a son, ambitions fulfilled, clothes (BPHS 52.32-33)",
+      "enemies destroyed, wealth from many sources, daily worship, honouring elders and relatives (Phaladeepika 21.7)",
+      "wealth through a worthy son, honour to gods and Brahmins, virtuous acts, good company and conversation (Jataka Parijata 18.66)",
+      "destruction of diseases, enemies, sins and poverty; virtue and happiness (Saravali 42.15)",
+      "benefits from friends, education, employment in high circles, birth of a child, reputation and court honours (Raman p. 236)"
+    ],
+    "rare_outcomes": [
+      "kingdom or a high government post, palanquin or car (BPHS 52.34-35)",
+      "ear disease and lung consumption (Phaladeepika 21.7)",
+      "Rele: may administer justice; when afflicted, may cheat under the garb of religion (p. 75)"
+    ],
+    "by_area": {
+      "personality": "Charitable, religious, devoted to deity and teacher (BPHS 52.36); philanthropic and just (Rele p. 75); mental worry when afflicted (BPHS 52.38).",
+      "career": "Royal favour (BPHS 52.32-33); high position when Jupiter rules the 9th or 10th (BPHS 52.34-35); employment in high circles (Raman); displeasure of superiors when afflicted (BPHS 52.37-38).",
+      "finance": "Wealth and grain (BPHS 52.33); wealth from many sources (Phaladeepika 21.7); loss of wealth through wrong deeds when afflicted (BPHS 52.38).",
+      "health": "Ear disease, consumption (Phaladeepika 21.7); bodily pain when afflicted (BPHS 52.37-38); diseases destroyed (Saravali 42.15).",
+      "relationships": "Marriage and a son (BPHS 52.32-33); distress to wife and children when afflicted (BPHS 52.37).",
+      "family": "Honouring elders and relatives (Phaladeepika 21.7); wealth through a son (Jataka Parijata 18.66).",
+      "spirituality": "Worship of deities, devotion to the teacher, charity and merit (BPHS 52.35-36; Jataka Parijata 18.66; Phaladeepika 21.7)."
+    },
+    "strengtheners": ["Jupiter in a kendra or trikona, exalted, in its own sign or own varga (BPHS 52.32)", "Jupiter lord of the 9th or 10th (BPHS 52.34)", "Jupiter well placed from the Sun (BPHS 52.35-36)"],
+    "weakeners_or_cancellations": ["Jupiter in the 6th or 8th from the Sun (BPHS 52.37)", "Jupiter with malefics (BPHS 52.37)", "Jupiter debilitated (Rele p. 75)"],
+    "lagna_or_context_notes": "Jupiter is a natural friend of the Sun (Rele p. 120). BPHS counts the good kendra/trikona from the lagna and the bad 6th/8th from the dasha lord.",
+    "source_views": [
+      {"source": "BPHS 52.32-39, tr. R. Santhanam vol. 2", "view": "Jupiter in a kendra or trikona from the lagna, exalted, own sign or own varga: marriage, government favour, wealth and grain, a son, ambitions fulfilled, clothes. Lord of the 9th or 10th: high position, conveyances. Well placed from the dasha lord: fortune, charity, religious leanings, worship, devotion to the teacher. In the 6th or 8th from the dasha lord or with malefics: distress to wife and children, bodily pain, displeasure of the ruler, goals unmet, loss of wealth through sinful acts, worry. Remedy: gift of gold and a tawny cow, worship of the chosen deity.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 52.32-39, Sanskrit with English gloss, enjoylearningsanskrit.com", "view": "Adds a friend's varga, honour from Brahmins, a 'Naravahana' yoga (being carried by men), and reads verse 37 as the sign lord in the 7th or 8th, debilitated or with a malefic; remedy gold, personal mantra, tawny cows.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-52"},
+      {"source": "Phaladeepika 21.7 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Enemies destroyed, wealth from various sources, daily worship of the gods, honouring Brahmins, elders and relatives; ear disease and pulmonary consumption.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621593.html"},
+      {"source": "Jataka Parijata 18.66 (tr. V. Subrahmanya Sastri vol. 2)", "view": "Wealth through a worthy son, honour to gods and Brahmins, virtuous acts, good traditional observances, good company and conversation.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "Saravali 42.15 (English text, lakshminarayanlenasia.com PDF)", "view": "Destruction of disease, enemies, sins and poverty; gain of virtues and happiness.", "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology ch. XXIV, p. 236", "view": "9 months 18 days. Benefits from friends, more education, employment in high circles, success through obstacles, a child, wealth through sons, honour to religious people, virtuous acts, good company, reputation, gains and court honours.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "V.G. Rele, Directional Astrology of the Hindus, pp. 74-75", "view": "Exalted, angles, trines or a friendly house: intellectual growth, marriage or a son, favours, promotion, respect, philanthropy, justice. Debilitated, in the 6th or 8th or with malefics: trouble or death to wife, children or an elder, displeasure of superiors, worry, hypocrisy.", "url": "https://archive.org/details/qylx-directional-astrology-of-the-hindus-as-propounded-"}
+    ],
+    "disagreements": "Nearly all sources are favourable; Phaladeepika alone adds ear disease and consumption without conditions. BPHS counts the bad 6th/8th from the dasha lord; the gloss reads the 7th or 8th; Rele the 6th or 8th from the lagna.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a supportive, expansive phase for family, learning, mentors and recognition. If Jupiter is afflicted, advise honesty in money matters and care for family members' wellbeing. Do not predict the death of family members.",
+    "conditional_results": [
+      {"when": "ad_house in [1, 4, 5, 7, 9, 10] or ad_dignity in ['exalted', 'moolatrikona', 'own']", "polarity": "good", "effects": ["marriage", "favours from government", "wealth and grain", "birth of a son", "ambitions fulfilled by the ruler's favour", "gain of clothes"], "source": "BPHS 52.32-33 (tr. Santhanam)"},
+      {"when": "9 in ad_rules or 10 in ad_rules", "polarity": "good", "effects": ["high position in government", "comfort of conveyances", "rise in status"], "source": "BPHS 52.34-35 (tr. Santhanam)"},
+      {"when": "manual: Jupiter well placed with reference to the Sun (the dasha lord)", "polarity": "good", "effects": ["better fortune", "charity and religious inclination", "worship of deities", "devotion to the teacher", "ambitions fulfilled"], "source": "BPHS 52.35-36 (tr. Santhanam)"},
+      {"when": "ad_from_md in [6, 8] or ad_with_malefic", "polarity": "bad", "effects": ["distress to wife and children", "bodily pain", "displeasure of the government", "desired goals not reached", "loss of wealth through sinful deeds", "mental worry"], "source": "BPHS 52.37-38 (tr. Santhanam)"},
+      {"when": "ad_dignity == 'debilitated' or ad_house in [6, 8]", "polarity": "bad", "effects": ["trouble to wife and children or an elder", "displeasure of superiors", "worry and anxiety"], "source": "Rele p. 75"}
+    ],
+    "remedies": [
+      {"remedy": "give gold in charity", "source": "BPHS 52.39 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "give a tawny cow in charity", "source": "BPHS 52.39 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "worship of one's chosen deity (ishta devata) and its mantra", "source": "BPHS 52.39 (tr. Santhanam; Sanskrit gloss)"}
+    ],
+    "phases": ""
+  },
+  {
+    "id": "dasha_ad/sun/saturn",
+    "layer": "dasha_ad",
+    "key": {"md": "Sun", "ad": "Saturn"},
+    "summary": "Saturn's sub-period in the Sun's mahadasha (about 11 months 12 days) pairs natural enemies and is treated by most texts as hard: losses, hostility, illness in the family, separation from children or elders, low energy and trouble from authorities. BPHS and Uttara Kalamrita allow good results (enemies defeated, marriage at home, wealth) when Saturn is in a kendra or trikona or strong in dignity.",
+    "themes": ["father-son friction (Sun and Saturn)", "hostility and enemies", "losses and expenses", "chronic and phlegm illness", "work and servants"],
+    "common_outcomes": [
+      "hostility from everyone, low energy, an ignoble calling, worry, risk from rulers or thieves (Jataka Parijata 18.67)",
+      "loss of wealth, separation from children, loss of elders, unusual expenses, loss of goods or servants, phlegm disorders (Phaladeepika 21.8)",
+      "royal anger, poverty, defeat by enemies (Saravali 42.17)",
+      "family sickness, new enemies, loss of property, expulsion from home, accidents, quarrels, loans (Raman pp. 236-237)"
+    ],
+    "rare_outcomes": [
+      "renown in the country, wealth from many sources (BPHS 52.41-42)",
+      "imprisonment (BPHS 52.43-44)",
+      "[maraka: text predicts danger to life / death] when Saturn rules the 2nd or 7th (BPHS 52.46); Rele: death of parents (p. 75)"
+    ],
+    "by_area": {
+      "personality": "Low energy and worry (Jataka Parijata 18.67; Raman).",
+      "career": "Recognition and renown when Saturn is strong (BPHS 52.41-42); loss in ventures (BPHS 52.43-44); an ignoble calling (Jataka Parijata 18.67); authority over workers when strong (Rele p. 75).",
+      "finance": "Some gain of grain, more property and wealth from many sources when well placed (BPHS 52.40-42); loss of wealth and unusual expenses (Phaladeepika 21.8; BPHS 52.44).",
+      "health": "Rheumatism, pain, fever, dysentery (BPHS 52.43); phlegm disorders, uncleanliness (Phaladeepika 21.8); bile, phlegm and abdominal trouble (Rele p. 75).",
+      "relationships": "Marriage and auspicious events at home when Saturn is in a kendra or trikona (BPHS 52.40; Rele p. 75); separation from children (Phaladeepika 21.8).",
+      "family": "Quarrels with co-sharers (BPHS 52.44); separation from parents if Saturn is debilitated (BPHS 52.46); loss of elders (Phaladeepika 21.8).",
+      "spirituality": ""
+    },
+    "strengtheners": ["Saturn in a kendra or trikona (BPHS 52.40)", "Saturn exalted, own or friendly sign with a friendly planet (BPHS 52.41-42)", "Sun and Saturn both in own or exaltation signs or navamsas, in or ruling kendras/trikonas (Uttara Kalamrita 6.30)"],
+    "weakeners_or_cancellations": ["Saturn in the 8th or 12th from the Sun, or with malefics (BPHS 52.43-44)", "Saturn debilitated (BPHS 52.46)", "Saturn lord of the 2nd or 7th (BPHS 52.46)", "Sun and Saturn both malefic for the chart (Uttara Kalamrita 6.30)"],
+    "lagna_or_context_notes": "Saturn is a natural enemy of the Sun (Rele p. 120: a temporal friendship can improve it). BPHS counts the good kendra/trikona from the lagna and the bad 8th/12th from the dasha lord.",
+    "source_views": [
+      {"source": "BPHS 52.40-47, tr. R. Santhanam vol. 2", "view": "Saturn in a kendra or trikona from the lagna: enemies destroyed, enjoyment, some grain, marriage at home. Exalted, own or friendly sign with a friendly planet: wellbeing, more property, recognition, renown, wealth from many sources. In the 8th or 12th from the dasha lord or with malefics: rheumatism, pain, fever, dysentery, imprisonment, loss in ventures and wealth, quarrels with co-sharers. Phases: loss of friends at the start, good in the middle, distress at the end. Debilitated: separation from parents, wandering. Lord of the 2nd or 7th: danger of premature death. Remedy: give a black cow, buffalo and goat; Mrityunjaya japa.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 52.40-47, Sanskrit with English gloss, enjoylearningsanskrit.com", "view": "Same; verse 45 says debilitation intensifies the phase pattern.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-52"},
+      {"source": "Phaladeepika 21.8 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Loss of wealth, separation from children, women's ailments, loss of elders, unusual expenses, sudden loss of clothes, utensils, goods or servants, uncleanliness, phlegm disorders.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621593.html"},
+      {"source": "Jataka Parijata 18.67 (tr. V. Subrahmanya Sastri vol. 2)", "view": "Hostility from everyone, want of energy, an ignoble calling, mental worry, risk from rulers or thieves.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "Saravali 42.17 (English text, lakshminarayanlenasia.com PDF)", "view": "Royal wrath, poverty and defeat by enemies.", "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"},
+      {"source": "Uttara Kalamrita 6.30 (tr. S.S. Sareen; alt. numbering 31)", "view": "If the Sun and Saturn are in own or exaltation signs or navamsas, or in or ruling kendras or trikonas, Saturn's sub-period in the Sun's dasha gives happiness, wealth and victory; if both are malefic, distress.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology ch. XXIV, pp. 236-237", "view": "11 months 12 days. Constant sickness in the family, many new enemies, some loss of property, ailments, unhappiness, expulsion from home or country, accidents, quarrels, loss of money, low energy, ignoble calling, worry, loans, danger from thieves and rulers.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "V.G. Rele, Directional Astrology of the Hindus, p. 75", "view": "In angles or trines: enemies destroyed, moderate prosperity, helps marriage; exalted, own house or with friends: wealth, honour, community leadership, authority over workers. In evil houses from the significator or with evil planets: bile and phlegm disease, abdominal pain, dysentery, loss of wealth and honour, estrangement from family, imprisonment, death of parents, travel. In the 2nd or 7th: accident or death.", "url": "https://archive.org/details/qylx-directional-astrology-of-the-hindus-as-propounded-"}
+    ],
+    "disagreements": "Phaladeepika, Jataka Parijata, Saravali and Raman give only adverse results; BPHS, Uttara Kalamrita and Rele give good results when Saturn (and for Uttara Kalamrita also the Sun) is well placed or dignified.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a demanding, slow phase that rewards patience and discipline: advise care with authority figures, budgeting, steady health routines (joints, digestion, colds) and kindness toward elders. Mention its better side when Saturn is well placed. Avoid predicting a parent's death or imprisonment.",
+    "conditional_results": [
+      {"when": "ad_house in [1, 4, 5, 7, 9, 10]", "polarity": "good", "effects": ["destruction of enemies", "full enjoyment", "some gain of grain", "marriage and other auspicious functions at home"], "source": "BPHS 52.40 (tr. Santhanam)"},
+      {"when": "manual: Saturn exalted, in its own or a friendly sign, and joined with a friendly planet", "polarity": "good", "effects": ["wellbeing", "more property", "recognition by government", "renown in the country", "wealth from many sources"], "source": "BPHS 52.41-42 (tr. Santhanam)"},
+      {"when": "ad_from_md in [8, 12] or ad_with_malefic", "polarity": "bad", "effects": ["rheumatism and pains", "fever and dysentery", "imprisonment", "loss in ventures", "loss of wealth", "quarrels and disputes with co-sharers"], "source": "BPHS 52.43-44 (tr. Santhanam)"},
+      {"when": "ad_dignity == 'debilitated'", "polarity": "bad", "effects": ["separation from parents", "wandering", "phase effects made stronger"], "source": "BPHS 52.45-46 (tr. Santhanam; Sanskrit gloss)"},
+      {"when": "'maraka' in ad_role", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]"], "source": "BPHS 52.46 (tr. Santhanam)"},
+      {"when": "ad_house in MARAKA_HOUSES", "polarity": "bad", "effects": ["accident", "[maraka: text predicts danger to life / death]"], "source": "Rele p. 75"},
+      {"when": "manual: Sun and Saturn both in own or exaltation signs or navamsas, or in or ruling kendras or trikonas", "polarity": "good", "effects": ["happiness", "wealth", "victory"], "source": "Uttara Kalamrita 6.30 (tr. Sareen)"},
+      {"when": "manual: Sun and Saturn both malefic for the chart", "polarity": "bad", "effects": ["distress"], "source": "Uttara Kalamrita 6.30 (tr. Sareen)"}
+    ],
+    "remedies": [
+      {"remedy": "give a black cow, a female buffalo and a goat in charity", "source": "BPHS 52.47 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "Mrityunjaya japa", "source": "BPHS 52.47 (tr. Santhanam; Sanskrit gloss)"}
+    ],
+    "phases": "BPHS 52.45: loss of friends at the start, good effects in the middle, distress at the end; the gloss adds that debilitation of Saturn intensifies this."
+  },
+  {
+    "id": "dasha_ad/sun/mercury",
+    "layer": "dasha_ad",
+    "key": {"md": "Sun", "ad": "Mercury"},
+    "summary": "Mercury's sub-period in the Sun's mahadasha (about 10 months 6 days) gives high position, vehicles, ornaments, learning, pilgrimage, marriage and a son when Mercury is in a kendra or trikona, especially in the 5th, 9th or 10th or with the 9th lord. Classical texts without conditions stress skin trouble, digestive and humoral disorders, family trouble and worry; when Mercury is in the 12th from the Sun BPHS predicts body and mind distress.",
+    "themes": ["learning and speech", "skin and nerves", "commerce and gains", "fame through writing", "short journeys"],
+    "common_outcomes": [
+      "high position, enthusiasm, happiness from wife and children, vehicles, clothes, ornaments, pilgrimage (BPHS 52.48-49)",
+      "skin eruptions, boils, jaundice, flatulence, pain in belly and hips, loss of land, humoral disease (Phaladeepika 21.9)",
+      "trouble from relatives, mental distress, low spirits, waste of money, slight comfort (Jataka Parijata 18.68)",
+      "itch, skin disease, more enemies (Saravali 42.14)",
+      "gain of money, reputation, new clothes, new learning, alongside trouble through relatives, worry, ill-health, disputes with rulers or judges, short journeys (Raman p. 237)"
+    ],
+    "rare_outcomes": [
+      "fame through a new name, composing poems under one's own name (BPHS 52.52-53)",
+      "exile to a foreign country at the end (BPHS 52.54-56)"
+    ],
+    "by_area": {
+      "personality": "Enthusiasm and vivacity (BPHS 52.48); wit and extempore speech (Rele p. 75); depression and worry (Jataka Parijata 18.68).",
+      "career": "High position and vehicles through the ruler's favour (BPHS 52.48-49); popularity and respect (BPHS 52.50-51); displeasure of the ruler at the end (BPHS 52.55-56); disputes with judges (Raman).",
+      "finance": "Wealth and grain increase (BPHS 52.51); waste of money (Jataka Parijata 18.68); loss of land (Phaladeepika 21.9).",
+      "health": "Skin disease, jaundice, flatulence, belly and hip pain (Phaladeepika 21.9; Saravali 42.14); body pain and fever when Mercury rules the 2nd or 7th (BPHS 52.56).",
+      "relationships": "Marriage and a son (BPHS 52.51-52); distress to wife and children when Mercury is 12th from the Sun (BPHS 52.54).",
+      "family": "Trouble from relatives (Jataka Parijata 18.68; Raman).",
+      "spirituality": "Pilgrimage, religious rites, devotion to teacher and deities, charity, japa (BPHS 52.49-53)."
+    },
+    "strengtheners": ["Mercury in a kendra or trikona from the lagna (BPHS 52.48-49)", "Mercury joined with the 9th lord (BPHS 52.50)", "Mercury in the 5th, 9th or 10th (BPHS 52.51)", "Mercury in a good house such as a trikona from the Sun (BPHS 52.52-53)"],
+    "weakeners_or_cancellations": ["Mercury in the 6th, 8th or 12th from the Sun (in practice only the 12th) (BPHS 52.54)", "Mercury debilitated (BPHS 52.54 gloss; Rele p. 76)", "Mercury lord of the 2nd or 7th (BPHS 52.56)"],
+    "lagna_or_context_notes": "Mercury is never more than one sign from the Sun, so 'from the dasha lord' it can only be 12th, 1st or 2nd; Santhanam notes the 6th and 8th are impossible. Rele treats Mercury as neutral to the Sun.",
+    "source_views": [
+      {"source": "BPHS 52.48-57, tr. R. Santhanam vol. 2", "view": "Mercury in a kendra or trikona from the lagna: high position, enthusiasm, happiness from wife and children, vehicles, clothes, ornaments, pilgrimage, cattle. With the 9th lord: very beneficial. In the 9th, 5th or 10th: popularity, pious deeds, devotion, more wealth, a son. In an auspicious house such as a trikona from the dasha lord: marriage, rites, charity, fame, a new name, good food, wealth. In 6/8/12 from the dasha lord: body distress, disturbed mind, distress to wife and children. Phases: evil at the start, some good in the middle, displeasure of the ruler and exile at the end. Lord of the 2nd or 7th: body pain and fever. Remedy: recite the Vishnu Sahasranama, give grains and a silver idol.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 52.48-57, Sanskrit with English gloss, enjoylearningsanskrit.com", "view": "Adds varga strength and the 9th and 11th lords for increased profits; verse 54 adds debilitation of the dasha lord among the adverse conditions; verse 56 reads the 7th lord in the 2nd; remedy Vishnu Sahasranama, food donation, silver image.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-52"},
+      {"source": "Phaladeepika 21.9 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Skin eruptions, boils or ulcers, skin disease, jaundice, flatulence, pain in belly and hips, loss of land, disease from imbalance of the three humours.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621593.html"},
+      {"source": "Jataka Parijata 18.68 (tr. V. Subrahmanya Sastri vol. 2)", "view": "Trouble from relatives, mental distress, depression, waste of money, slight comfort.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "Saravali 42.14 (English text, lakshminarayanlenasia.com PDF)", "view": "Itch, skin disease and an increase of enemies.", "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology ch. XXIV, p. 237", "view": "10 months 6 days. Gain in money, good reputation, new clothes and ornaments, new learning; trouble through relatives, distress, depression, waste, friends turning enemies, anxiety, bad health, ungrateful children, disputes with ruler or judge, disgrace, many short journeys.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "V.G. Rele, Directional Astrology of the Hindus, pp. 75-76", "view": "Exalted, in angles, trines or the 11th from the lagna or significator: respect among the learned, extempore speech, wit, marriage or a son, favours, pilgrimage, prosperity. In 6/8/12 from the significator or debilitated: mental and physical pain, many short journeys, trouble to wife and children, indiscreet speech. In the 2nd or 7th: illness, fever, stammering.", "url": "https://archive.org/details/qylx-directional-astrology-of-the-hindus-as-propounded-"}
+    ],
+    "disagreements": "BPHS and Rele are largely favourable for a well-placed Mercury; Phaladeepika, Jataka Parijata and Saravali give only troubles (skin disease, worry, family trouble); Raman mixes both. For the 2nd/7th rule Santhanam reads Mercury as lord of the 2nd or 7th, the gloss as the 7th lord in the 2nd.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a period for study, communication, business and recognition when Mercury is well placed; advise care with skin, digestion and nerves, and tact in speech and with officials, especially near the end of the sub-period.",
+    "conditional_results": [
+      {"when": "ad_house in [1, 4, 5, 7, 9, 10]", "polarity": "good", "effects": ["high position", "enthusiasm and vivacity", "happiness from wife and children", "conveyance through the ruler's favour", "clothes and ornaments", "pilgrimage", "cattle"], "source": "BPHS 52.48-49 (tr. Santhanam)"},
+      {"when": "manual: Mercury joined with the lord of the 9th", "polarity": "good", "effects": ["very beneficial results"], "source": "BPHS 52.50 (tr. Santhanam)"},
+      {"when": "manual: Mercury linked with the 9th and 11th lords", "polarity": "good", "effects": ["merit from pilgrimage", "increased profits"], "source": "BPHS 52.50 (Sanskrit gloss)"},
+      {"when": "ad_house in [5, 9, 10]", "polarity": "good", "effects": ["reverence and popularity", "pious deeds and religious rites", "devotion to teacher and deities", "more wealth and grain", "birth of a son"], "source": "BPHS 52.50-51 (tr. Santhanam)"},
+      {"when": "manual: Mercury in an auspicious house such as a trikona from the Sun (the dasha lord)", "polarity": "good", "effects": ["marriage", "oblations, charity and religious rites", "name and fame, fame under another name", "good food", "wealth, robes and ornaments"], "source": "BPHS 52.52-53 (tr. Santhanam)"},
+      {"when": "ad_from_md in DUSTHANA", "polarity": "bad", "effects": ["bodily distress", "disturbed peace of mind", "distress to wife and children"], "source": "BPHS 52.54-55 (tr. Santhanam)"},
+      {"when": "ad_dignity == 'debilitated'", "polarity": "bad", "effects": ["bodily pain", "mental distress", "family suffering"], "source": "BPHS 52.54-55 (Sanskrit gloss); Rele p. 76"},
+      {"when": "'maraka' in ad_role", "polarity": "bad", "effects": ["bodily pain", "attacks of fever"], "source": "BPHS 52.56 (tr. Santhanam)"},
+      {"when": "ad_house in MARAKA_HOUSES", "polarity": "bad", "effects": ["illness, particularly fever", "stammering speech"], "source": "Rele p. 76"}
+    ],
+    "remedies": [
+      {"remedy": "recite the Vishnu Sahasranama", "source": "BPHS 52.57 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "give grains (food) in charity", "source": "BPHS 52.57 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "give an idol made of silver", "source": "BPHS 52.57 (tr. Santhanam; Sanskrit gloss)"}
+    ],
+    "phases": "BPHS 52.55-56 (when the adverse conditions apply): evil effects at the start, some good in the middle, displeasure of the ruler and exile or much travel at the end."
+  },
+  {
+    "id": "dasha_ad/sun/ketu",
+    "layer": "dasha_ad",
+    "key": {"md": "Sun", "ad": "Ketu"},
+    "summary": "Ketu's sub-period in the Sun's mahadasha (about 4 months 6 days) is described as generally bad: bodily pain, mental agony, loss of money and friends, displeasure of authorities, quarrels with kin and pain in the head or legs. BPHS gives good results (happiness with family, fame, gains) when Ketu is in the 3rd, 6th, 10th or 11th.",
+    "themes": ["loss and separation", "displeasure of authorities", "kin disputes", "head, eyes, teeth and throat", "travel abroad"],
+    "common_outcomes": [
+      "bodily pain, mental agony, loss of wealth, danger from government, quarrels with kinsmen (BPHS 52.58)",
+      "loss of friends, family disputes, enemies, loss of wealth and position, illness of elders, severe pain in legs and head (Phaladeepika 21.10)",
+      "throat disease, mental anguish, eye inflammation (Jataka Parijata 18.69)",
+      "loss of money, nervous exhaustion, misgivings, a long journey, change of house through disputes, fear of rulers, being cheated (Raman p. 237)"
+    ],
+    "rare_outcomes": [
+      "[maraka: text predicts danger to life / death] (Jataka Parijata 18.69 'premature death'; BPHS 52.64 for Ketu in or 'lord of' the 2nd or 7th)",
+      "[maraka: text predicts the death of the father] when Ketu is 8th or 12th from the Sun (BPHS 52.60-61)",
+      "news of a death at the end when Ketu is with the lagna lord (BPHS 52.59)"
+    ],
+    "by_area": {
+      "personality": "Mental agony (BPHS 52.58; Jataka Parijata 18.69); mind full of misgivings (Raman).",
+      "career": "Danger from government (BPHS 52.58); loss of position (BPHS 52.60-61; Phaladeepika 21.10); renown when Ketu is in an upachaya (BPHS 52.62-63).",
+      "finance": "Loss of wealth (BPHS 52.58; Phaladeepika 21.10; Raman).",
+      "health": "Bodily pain (BPHS 52.58); teeth or cheek disease and urinary trouble (BPHS 52.60); throat and eye disease (Jataka Parijata 18.69); head and leg pain (Phaladeepika 21.10).",
+      "relationships": "Happiness from wife and children when Ketu is in an upachaya (BPHS 52.62-63).",
+      "family": "Quarrels with kinsmen (BPHS 52.58); illness of elders (Phaladeepika 21.10).",
+      "spirituality": ""
+    },
+    "strengtheners": ["Ketu in the 3rd, 6th, 10th or 11th from the lagna (BPHS 52.62)", "Ketu with a yogakaraka and in an auspicious navamsa or varga (BPHS 52.62 gloss)", "Ketu in the 8th or with a trikona lord (Rele p. 76)"],
+    "weakeners_or_cancellations": ["Ketu in the 8th or 12th from the Sun (BPHS 52.60)", "Ketu in, or 'lord of', the 2nd or 7th (BPHS 52.64)"],
+    "lagna_or_context_notes": "Ketu is a natural enemy of the Sun. BPHS counts the good upachaya from the lagna and the bad 8th/12th from the dasha lord. Rele reads the bad houses as the 6th or 12th from the lagna or the dasha lord and makes the 8th from the lagna a mitigating placement.",
+    "source_views": [
+      {"source": "BPHS 52.58-64, tr. R. Santhanam vol. 2", "view": "Bodily pain, mental agony, loss of wealth, danger from government, quarrels with kin. With the lagna lord: some happiness at the start, distress in the middle, news of a death at the end. In the 8th or 12th from the dasha lord: teeth or cheek disease, urinary trouble, loss of position, friends and wealth, death of the father, foreign travel, enemies. In the 3rd, 6th, 10th or 11th from the lagna: happiness from wife and children, satisfaction, more friends, clothes, renown. Lord of or in the 2nd or 7th: danger of premature death. Remedy: Durga mantras (Shat Chandi path) and a goat in charity.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 52.58-64, Sanskrit with English gloss, enjoylearningsanskrit.com", "view": "Verse 62 requires Ketu in an upachaya with a yogakaraka and in an auspicious amsa and varga; verse 59 gives early happiness and wealth, middle distress, and eventually news of death with the lagna lord.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-52"},
+      {"source": "Phaladeepika 21.10 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Loss of friends, disputes with family, trouble from enemies, loss of wealth and position, illness of elders, severe pain in legs and head.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621593.html"},
+      {"source": "Jataka Parijata 18.69 (tr. V. Subrahmanya Sastri vol. 2)", "view": "Throat disease, mental anguish, ophthalmia or premature death.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology ch. XXIV, p. 237", "view": "4 months 6 days. Loss of money, troubled mind, fainting or nervous exhaustion, misgivings, a long journey, change of house due to disputes, trouble among relatives, throat disease, ophthalmia or premature death, fear of rulers and enemies, being cheated.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "V.G. Rele, Directional Astrology of the Hindus, p. 76", "view": "Generally bad: mental and physical trouble, displeasure of superiors, trouble from relatives. Mitigated if Ketu is in the 8th or with a trikona lord: success, contentment, happiness from wife and children. In the 6th or 12th from the lagna or the significator: teeth and mouth trouble, urinary trouble, deportation, distant travel, loss of wealth, death of the father or a trusted friend, harassment from enemies.", "url": "https://archive.org/details/qylx-directional-astrology-of-the-hindus-as-propounded-"}
+    ],
+    "disagreements": "All sources treat the sub-period as mainly adverse. BPHS gives good results from the 3rd, 6th, 10th or 11th; Rele instead names the 8th or a link with a trikona lord as mitigating and counts the 6th as bad. Santhanam's verse 64 speaks of Ketu as 'lord of' the 2nd or 7th, though nodes own no sign in this library; only the placement is checkable. Saravali 42 gives no Sun-Ketu result.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a short, unsettled phase: advise rest, care with eyes, throat, teeth and head, avoiding disputes with relatives and officials, and caution over being misled. Do not predict a death in the family.",
+    "conditional_results": [
+      {"when": "manual: Ketu joined with the lagna lord", "polarity": "bad", "effects": ["some happiness and wealth at the start", "distress in the middle", "news of a death at the end"], "source": "BPHS 52.59 (tr. Santhanam; Sanskrit gloss)"},
+      {"when": "ad_from_md in [8, 12]", "polarity": "bad", "effects": ["disease of teeth or cheeks", "urinary trouble", "loss of position, friends and wealth", "[maraka: text predicts the death of the father]", "foreign journey", "trouble from enemies"], "source": "BPHS 52.60-61 (tr. Santhanam)"},
+      {"when": "ad_house in UPACHAYA", "polarity": "good", "effects": ["happiness from wife and children", "satisfaction", "more friends", "gain of clothes", "renown"], "source": "BPHS 52.62-63 (tr. Santhanam)"},
+      {"when": "manual: Ketu in an upachaya, joined with a yogakaraka and in an auspicious navamsa and varga", "polarity": "good", "effects": ["favourable results from one's actions", "happiness with spouse and children", "fame"], "source": "BPHS 52.62-63 (Sanskrit gloss)"},
+      {"when": "ad_house in MARAKA_HOUSES", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]"], "source": "BPHS 52.64 (tr. Santhanam)"},
+      {"when": "ad_house == 8", "polarity": "good", "effects": ["trouble mitigated", "success and contentment", "happiness from wife and children"], "source": "Rele p. 76"},
+      {"when": "manual: Ketu joined with the lord of a trikona", "polarity": "good", "effects": ["trouble mitigated", "success and contentment"], "source": "Rele p. 76"},
+      {"when": "ad_house in [6, 12]", "polarity": "bad", "effects": ["trouble with teeth and mouth", "urinary trouble", "travel to distant countries", "loss of wealth", "harassment from enemies"], "source": "Rele p. 76"}
+    ],
+    "remedies": [
+      {"remedy": "recite the mantras of Goddess Durga (Shat Chandi path)", "source": "BPHS 52.64 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "give a goat in charity", "source": "BPHS 52.64 (tr. Santhanam; Sanskrit gloss)"}
+    ],
+    "phases": "BPHS 52.59: when Ketu is joined with the lagna lord, some happiness at the start, distress in the middle and news of a death at the end."
+  },
+  {
+    "id": "dasha_ad/sun/venus",
+    "layer": "dasha_ad",
+    "key": {"md": "Sun", "ad": "Venus"},
+    "summary": "Venus's sub-period closes the Sun's mahadasha (1 year). BPHS makes it rich in marriage, comforts, jewels, vehicles, travel and high position when Venus is in a kendra or trikona or dignified, with a moderate start, gains in the middle and some loss of standing at the end. Other classical texts, reflecting the Sun-Venus enmity, stress head, throat and stomach ailments, illness of spouse and children, and losses.",
+    "themes": ["marriage and pleasures", "jewels, vehicles and comforts", "spouse's health", "reputation at the end", "Sun-Venus enmity"],
+    "common_outcomes": [
+      "marriage, property, travel, meeting officials, high position, sweets, pearls and jewels, clothes, vehicles, good reputation (BPHS 52.65-68)",
+      "headache, stomach pain, anal trouble, loss of house, wealth and grain, illness of children, serious illness of the wife (Phaladeepika 21.11)",
+      "pearls or products of the sea, fatigue, addiction to bad women, profitless discussion (Jataka Parijata 18.70)",
+      "head and throat disease, fever and gout, defeat by enemies, leaving one's country (Saravali 42.16)",
+      "gain of money, respect from rulers, vehicles, likely marriage, more property, illness, good works, pearls, fatigue (Raman p. 238)"
+    ],
+    "rare_outcomes": [
+      "royal insignia, rulership (BPHS 52.65-66 gloss)",
+      "[maraka: text predicts danger to life / death] when Venus is joined with the lord of the 6th or 8th (BPHS 52.72)"
+    ],
+    "by_area": {
+      "personality": "Enthusiasm, magnanimity (BPHS 52.67-68); mental agony when Venus is 6/8/12 from the Sun (BPHS 52.69).",
+      "career": "High position and meetings with officials (BPHS 52.65-66); loss of position or fame at the end (BPHS 52.70); displeasure of the ruler when badly placed (BPHS 52.69).",
+      "finance": "Riches, pearls, jewels, cattle, grain and vehicles (BPHS 52.67-68); loss of house, wealth and grain (Phaladeepika 21.11).",
+      "health": "Headache, stomach and anal trouble (Phaladeepika 21.11); head, throat, fever and gout (Saravali 42.16); body pain and disease when Venus rules the 7th (BPHS 52.71).",
+      "relationships": "Marriage and happiness with the wife (BPHS 52.65); serious illness of the wife (Phaladeepika 21.11); distress to wife and children when 6/8/12 from the Sun (BPHS 52.69); illicit connections (Jataka Parijata 18.70; Rele).",
+      "family": "Auspicious functions at home (BPHS 52.67); enmity with kin and loss of comforts at the end (BPHS 52.70-71); illness of children (Phaladeepika 21.11).",
+      "spirituality": "Meeting Brahmins (BPHS 52.66)."
+    },
+    "strengtheners": ["Venus in a kendra or trikona (BPHS 52.65)", "Venus exalted, in its own sign, own varga or a friendly sign (BPHS 52.65)", "Venus in Cancer (Rele p. 76)"],
+    "weakeners_or_cancellations": ["Venus in the 6th, 8th or 12th from the Sun (BPHS 52.69)", "Venus lord of the 7th (or 2nd) (BPHS 52.71)", "Venus joined with the lord of the 6th or 8th (BPHS 52.72)"],
+    "lagna_or_context_notes": "Venus is a natural enemy of the Sun (Rele p. 120). From the Sun, Venus can only be within two signs either side, so 'from the dasha lord' it can be 12th but not 6th or 8th. BPHS counts the good kendra/trikona from the lagna.",
+    "source_views": [
+      {"source": "BPHS 52.65-73, tr. R. Santhanam vol. 2", "view": "Venus in a kendra or trikona, exalted, own sign, own varga or a friendly sign: marriage and happiness with the wife, property, travel, meeting Brahmins and officials, high position, riches, magnanimity, auspicious functions, sweets, pearls and jewels, clothes, cattle, grain, vehicles, enthusiasm, good name. In 6/8/12 from the dasha lord: displeasure of the ruler, mental agony, distress to wife and children. Moderate at the start, good in the middle, disrepute, loss of position, enmity with kin and loss of comforts at the end. Lord of the 7th (and 2nd): body pain and disease. Joined with the lord of the 6th or 8th: premature death. Remedy: Mrityunjaya japa, Rudra japa, gift of a tawny cow or female buffalo.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 52.65-73, Sanskrit with English gloss, enjoylearningsanskrit.com", "view": "Adds royal insignia and conveyances carried by men; verse 69 reads Venus in 6/8/12 and weak under the dasha lord; verse 72 links the 8th and 12th houses with untimely death; remedy names a white cow and buffalo with Rudra japa.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-52"},
+      {"source": "Phaladeepika 21.11 (tr. V. Subrahmanya Sastri, wisdomlib)", "view": "Headache, stomach pain, trouble in the anus, farm work, loss of house, wealth and grain, illness of children, serious illness of the wife.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621593.html"},
+      {"source": "Jataka Parijata 18.70 (tr. V. Subrahmanya Sastri vol. 2)", "view": "Pearls or other products of the sea, fatigue, addiction to bad women, profitless discussion.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "Saravali 42.16 (English text, lakshminarayanlenasia.com PDF)", "view": "Head and throat disease, fever and gout, followed by defeat by enemies and leaving one's native country.", "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology ch. XXIV, p. 238", "view": "1 year. Gain of money, respect from rulers, vehicles, likely marriage, more property, illness, many good works, pearls and precious stones, fatigue, addiction to immoral women, profitless discussions.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "V.G. Rele, Directional Astrology of the Hindus, pp. 76-77", "view": "Exalted, own house, trines or Cancer: a wife of choice and desired children, distant travel, music, luxury, wealth. In 6/8/12 from the lagna or significator: displeasure of superiors, worry, illicit connection, loss of wife, son and wealth. With the 7th lord: mental disease and sloth; with the 8th and 12th lords: accidental death.", "url": "https://archive.org/details/qylx-directional-astrology-of-the-hindus-as-propounded-"}
+    ],
+    "disagreements": "BPHS, Raman and Rele (for a well-placed Venus) are favourable; Phaladeepika and Saravali give only illness and loss; Jataka Parijata is mixed. The BPHS remedy cow is tawny in Santhanam and white in the gloss. Santhanam places the death danger with the 6th or 8th lord, the gloss with the 8th and 12th houses, Rele with the 8th and 12th lords.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a comfortable, social closing phase of the Sun period when Venus is well placed, while advising moderation in pleasures, attention to the spouse's health and care of reputation toward the end. Do not predict death or infidelity as fact.",
+    "conditional_results": [
+      {"when": "ad_house in [1, 4, 5, 7, 9, 10] or ad_dignity in ['exalted', 'moolatrikona', 'own', 'friend']", "polarity": "good", "effects": ["marriage and happiness with the wife", "gain of property", "travel and meeting officials", "high position", "riches and majesty", "auspicious functions at home", "pearls, jewels and clothes", "cattle, grain and vehicles", "good reputation"], "source": "BPHS 52.65-68 (tr. Santhanam)"},
+      {"when": "ad_sign == 'cancer'", "polarity": "good", "effects": ["a wife of choice and desired children", "distant travel", "luxury and wealth"], "source": "Rele p. 76"},
+      {"when": "ad_from_md in DUSTHANA", "polarity": "bad", "effects": ["displeasure of the ruler", "mental agony", "distress to wife and children"], "source": "BPHS 52.69 (tr. Santhanam)"},
+      {"when": "ad_house in DUSTHANA", "polarity": "bad", "effects": ["displeasure of superiors", "worry and anxiety", "illicit connection", "loss of wife, son and wealth"], "source": "Rele pp. 76-77"},
+      {"when": "7 in ad_rules", "polarity": "bad", "effects": ["bodily pain", "risk of disease"], "source": "BPHS 52.71 (tr. Santhanam)"},
+      {"when": "manual: Venus joined with the lord of the 6th or 8th", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]"], "source": "BPHS 52.72 (tr. Santhanam)"},
+      {"when": "manual: Venus joined with the lords of the 8th and 12th", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death] by accident"], "source": "Rele p. 77"},
+      {"when": "manual: Venus joined with the lord of the 7th", "polarity": "bad", "effects": ["mental disease and sloth"], "source": "Rele p. 77"}
+    ],
+    "remedies": [
+      {"remedy": "Mrityunjaya japa", "source": "BPHS 52.72-73 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "Rudra japa", "source": "BPHS 52.73 (tr. Santhanam; Sanskrit gloss)"},
+      {"remedy": "give a tawny cow (gloss: a white cow) or a female buffalo in charity", "source": "BPHS 52.73 (tr. Santhanam; Sanskrit gloss)"}
+    ],
+    "phases": "BPHS 52.70: moderate at the start, good in the middle, and at the end disrepute, loss of position, enmity with kin and loss of comforts."
+  }
+]

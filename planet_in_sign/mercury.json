@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "planet_in_sign/mercury/aries",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Aries"
+    },
+    "summary": "Mercury in Aries (Mesha), a Mars-ruled fire sign that is neutral for Mercury, gives a quick, combative and impatient intellect: sharp in debate and fond of the arts, but classical texts warn of hasty speech, loose finances and a tendency to bend the truth.",
+    "themes": [
+      "quick wit",
+      "argumentative speech",
+      "impulsive decisions",
+      "writing and invention",
+      "financial carelessness"
+    ],
+    "common_outcomes": [
+      "Fast thinker and speaker who enjoys argument and competition of ideas",
+      "Learned or well-read, with an interest in music, dance or the performing arts",
+      "Restless mind that alternates between fickle and firm",
+      "Money earned with effort can slip away through haste or overspending"
+    ],
+    "rare_outcomes": [
+      "Saravali 26.1-2 adds a writer who produces fiction or invented material",
+      "Saravali also mentions repeated debts and even confinement (read today as legal or contractual trouble from rash commitments)",
+      "Brihat Jataka 18.8 (Mercury in a Mars sign) lists gambling, debt, fondness for drink, scepticism and deceitful dealings"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.1-2: fond of fights, very learned, interested in music and dance, sometimes fickle and sometimes firm. Brihat Jataka 18.8 adds a tendency to falsehood.",
+      "career": "Saravali 26.1-2: a writer who produces invented or fictional material.",
+      "finance": "Saravali 26.1-2: loses hard-earned money and incurs debts; Brihat Jataka 18.8: poor. Careful contracts and budgeting matter.",
+      "health": "Saravali describes a lean build; no further health claims should be made.",
+      "relationships": "Saravali 26.1-2 mentions strong attachment to sexual pleasure; Brihat Jataka 18.8 (Sastri) mentions a difficult spouse.",
+      "family": "",
+      "spirituality": "Brihat Jataka 18.8 calls the native unbelieving (Neely) or an atheist (Sastri): a sceptical, questioning mind."
+    },
+    "strengtheners": [
+      "Saravali 26.25-30: Mercury in Aries/Scorpio aspected by the Sun gives truthfulness, happiness and honour from the ruler; aspected by Jupiter gives happiness, great wealth and command (though also called sinful); aspected by Venus gives royal service, trustworthiness and a spouse",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (rules of interpretation): planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 26.25-30: Saturn's aspect gives misery, fierceness and loss of one's own people; the Moon's aspect makes the native serve others and lack virtues",
+      "Mars' aspect gives learning, wealth and courage but adds lying and quarrelling (Saravali 26.25-30)",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 26.1-2 (tr. R. Santhanam)",
+        "view": "Combative, learned but crafty, lean, fond of music and dance, untruthful, sensual, a writer of fiction, heavy eater, loses earned money, debts and confinement, mind alternately fickle and firm.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 26.25-30, aspects on Mercury in Aries/Scorpio (tr. R. Santhanam)",
+        "view": "Sun: truthful, happy, honoured by the ruler. Moon: attracts women, serves others. Mars: learned, wealthy, brave but untruthful. Jupiter: happy, rich, commanding. Venus: royal service, trustworthy. Saturn: miserable, harsh, without his own people.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.8 (tr. M. D. Neely)",
+        "view": "Mercury in a sign of Mars: gambler, debtor, fond of drink, unbelieving, thieving and poor, given to falsehood and fraud.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501813.html"
+      },
+      {
+        "source": "AstroSage, Mercury in Aries (via summary)",
+        "view": "Restates the Saravali description: combative, learned, writer, debts.",
+        "url": "https://www.astrosage.com/planet/mercury/mercury-in-aries.asp"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra ch. 3 (natural relationships)",
+        "view": "Mercury treats Mars as neutral, so Aries is a neutral sign for Mercury.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-50/"
+      },
+      {
+        "source": "Brihat Jataka 18.8 (tr. V. Subrahmanya Sastri, 2nd ed., p. 345)",
+        "view": "Mercury in a Mars sign: addicted to gambling, takes others' wealth, [a drunkard], an atheist, steals, poor, has a wicked wife, a cheat, speaks falsehood. Sastri's note to 18.10: Mercury is good in signs owned by benefics and bad in signs owned by malefics and in its debilitation sign.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "Mars, Jupiter and Saturn are neutral to Mercury. Mercury is best in the first half of Virgo and worst in Pisces.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali and Brihat Jataka agree on the negative tone (rashness, untruth, debt), but Saravali also grants real learning and artistic talent, while Brihat Jataka's verse is almost wholly unfavourable (Sastri and Neely agree on this). Brihat Jataka treats Aries and Scorpio together as Mars signs; Saravali separates them, and its Scorpio verse is harsher than its Aries verse.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as a quick, competitive mind that does best when it slows down before speaking, signing or spending. Do not call the person dishonest, a gambler or headed for jail; present those classical lines as cautions about haste. Weigh aspects and the condition of Mars before concluding."
+  },
+  {
+    "id": "planet_in_sign/mercury/taurus",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Taurus"
+    },
+    "summary": "Mercury in Taurus (Vrishabha), the earth sign of its friend Venus, gives a steady, practical and pleasant intellect: sweet in speech, skilled, learned and good at earning honestly. Classical texts rate it favourably.",
+    "themes": [
+      "sweet speech",
+      "practical intelligence",
+      "honest earnings",
+      "teaching",
+      "taste and refinement"
+    ],
+    "common_outcomes": [
+      "Skilful, generous and well regarded",
+      "Learned in traditional or technical knowledge",
+      "Pleasant, persuasive speech",
+      "Wealth earned by fair means; enjoys good clothes, ornaments and comfort"
+    ],
+    "rare_outcomes": [
+      "Saravali mentions fondness for physical exercise",
+      "Brihat Jataka 18.8 (Mercury in a Venus sign) describes a teacher who is devoted to his guru and generous",
+      "Saravali 26.31-36: with Jupiter's aspect the person rises to leadership and fame"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.3-4: firm in disposition, a soft and sweet speaker, skilful and very liberal.",
+      "career": "Brihat Jataka 18.8: a teacher (Sastri and Neely agree).",
+      "finance": "Saravali 26.3-4: sincerely earned wealth. Brihat Jataka 18.8 (Sastri): keen on amassing a large property.",
+      "health": "",
+      "relationships": "Saravali 26.3-4: a chaste spouse and a sensual nature.",
+      "family": "Brihat Jataka 18.8 (Sastri): wife and children; respects parents and elders.",
+      "spirituality": "Saravali 26.3-4: knowledge of Vedas and Sastras. Brihat Jataka 18.8 (Neely): devoted to the guru."
+    },
+    "strengtheners": [
+      "Saravali 26.31-36: Moon's aspect gives trust, wealth, piety, health, lasting family ties and a ministerial role; Jupiter's aspect gives great learning, kept promises, leadership and fame; Venus' aspect gives fortune, gentleness and charm",
+      "Friend's sign: Braha says Mercury is 'welcomed' in the signs of its friends the Sun and Venus; Phaladeepika 3.18 calls a planet in a friend's house 'delighted'",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 26.31-36 (Taurus/Libra group): Sun's aspect is described as bringing poverty, grief, a sickly body and censure; Mars' aspect brings disease, enemies, royal insult and loss of possessions; Saturn's aspect brings unhappiness, disease and grief over relatives",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 26.3-4 (tr. R. Santhanam)",
+        "view": "Skilful, very generous, famous, versed in scripture and learning, fond of good clothes, ornaments and exercise, honest wealth, faithful wife, sweet speech, sensual.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 26.31-36, aspects on Mercury in Taurus/Libra (tr. R. Santhanam)",
+        "view": "Sun: poor and censured. Moon: trusted, wealthy, a minister. Mars: loss of goods. Jupiter: learned leader, famous. Venus: fortunate, gentle. Saturn: unhappy, grieving over kin.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.8 (tr. M. D. Neely)",
+        "view": "Mercury in a Venus sign: a teacher, wanting many children and wealth, generous, devoted to the guru.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501813.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra ch. 3 (natural relationships)",
+        "view": "Venus is Mercury's natural friend, so Taurus is a friendly sign.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-50/"
+      },
+      {
+        "source": "Brihat Jataka 18.8 (tr. V. Subrahmanya Sastri, 2nd ed., p. 345)",
+        "view": "Mercury in a Venus sign: a teacher, endowed with wife and children, keen on amassing a large property, liberal in gifts, respects parents and elders.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "The Sun and Venus are Mercury's friends, and Mercury is welcomed in their signs.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Little disagreement on the core: Saravali and Brihat Jataka are both favourable. They differ in emphasis (Saravali on refinement and honest wealth, Brihat Jataka on teaching and respect for elders or the guru). Saravali's Sun-aspect line cannot apply literally: Mercury never moves more than about 28 degrees from the Sun, so the Sun's 7th-house aspect on it does not occur.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a grounded, pleasant communicator with good earning sense. Avoid promising wealth; describe it as a supportive tendency that depends on the rest of the chart."
+  },
+  {
+    "id": "planet_in_sign/mercury/gemini",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Gemini"
+    },
+    "summary": "Mercury in Gemini (Mithuna), its own air sign, is at home: eloquent, curious, witty and skilled at teaching and the arts. Own-sign dignity makes Mercury 'confident' and gives its results freely.",
+    "themes": [
+      "eloquence",
+      "curiosity",
+      "teaching",
+      "writing and poetry",
+      "networks of friends"
+    ],
+    "common_outcomes": [
+      "Articulate, charming and quick-learning",
+      "Skilled at teaching arts, languages or crafts",
+      "Many friends and contacts; enjoys debate",
+      "Comfortable means and personal independence"
+    ],
+    "rare_outcomes": [
+      "Saravali mentions two marriages or reduced marital intimacy",
+      "Brihat Jataka 18.9 adds a tendency to boast",
+      "Forms Bhadra Mahapurusha Yoga if Gemini is a kendra from the lagna (Phaladeepika 6.1-2)"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.5-6: sweet and able speaker, fond of arguments, independent. Brihat Jataka 18.9 (Sastri): talkative, affable, intent on pleasure.",
+      "career": "Brihat Jataka 18.9: learned in the sciences and arts and skilled at teaching them. Saravali 26.5-6: proficient in work, a poet.",
+      "finance": "Saravali calls the native very affluent and munificent.",
+      "health": "",
+      "relationships": "Saravali 26.5-6 mentions reduced marital intimacy and two wives; best read as a need for mental companionship.",
+      "family": "Saravali speaks of many sons and friends.",
+      "spirituality": "Saravali 26.5-6: learned in Vedas and Sastras."
+    },
+    "strengtheners": [
+      "Own sign (Phaladeepika 3.18: a planet in its own house is 'confident'); Braha: Mercury produces very good results in Gemini or Virgo",
+      "In a kendra from the lagna it forms Bhadra Yoga (Phaladeepika 6.1-2; Raman, Three Hundred Important Combinations no. 23)",
+      "Saravali 26.37-42 (Gemini/Virgo group): Sun's aspect gives truthfulness, fortune and favour from the ruler; Jupiter's aspect gives a minister's post, beauty, charity, wealth and courage; Saturn's aspect gives progress, modesty, success and wealth",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 26.37-42: Mars' aspect gives genius and royal service but an injured body; Venus' aspect gives learning and royal employment but low company",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (rules of interpretation): planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled"
+    ],
+    "lagna_or_context_notes": "Bhadra Yoga arises when Gemini is a kendra from the lagna, i.e. for Gemini, Virgo, Sagittarius and Pisces lagnas (Phaladeepika 6.1-2). Raman (Three Hundred Important Combinations no. 23) adds that Mercury must be very powerful, otherwise the yoga is present only on paper.",
+    "source_views": [
+      {
+        "source": "Saravali 26.5-6 (tr. R. Santhanam)",
+        "view": "Attractive, eloquent, affluent, honourable and independent; argumentative, a learned poet, generous, with many children and friends; marital intimacy reduced, two wives mentioned.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.9 (tr. M. D. Neely)",
+        "view": "Mercury in Gemini: boastful, skilled in teaching the arts, kind-spoken, pleasure-loving.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501814.html"
+      },
+      {
+        "source": "Phaladeepika 6.1-2 (tr. V. Subrahmanya Sastri)",
+        "view": "Bhadra Yoga (Mercury in own or exaltation sign in a kendra): long life, sharp intellect, spotless fame praised by scholars, wealth, eloquence in assemblies.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Phaladeepika 3.18",
+        "view": "A planet in its own house is described as 'confident'.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621575.html"
+      },
+      {
+        "source": "Brihat Jataka 18.9 (tr. V. Subrahmanya Sastri, 2nd ed., p. 346)",
+        "view": "Mercury in Gemini: talkative, learned in the sciences and arts, affable, always intent on pleasure.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 23 Bhadra Yoga (p. 53)",
+        "view": "Mercury in a kendra in its own or exaltation sign: strong, well-built, taciturn, helps relatives, long-lived. Mercury must be very powerful or the yoga exists only on paper.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Mercury, Budha, name 106 'Fond of Virgo'",
+        "view": "Virgo is where Mercury is happiest: own sign, moolatrikona and exaltation at once. Virgo, an earth sign, helps Mercury express stability; Gemini is excellent for intellectual pursuits.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "Mercury owns Gemini and Virgo and produces very good results in either sign.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali's mention of two wives and less intimacy is not echoed in Brihat Jataka. On Brihat Jataka 18.9 the translations differ in tone: Neely has 'boastful', Sastri 'talkative'. All agree on eloquence and skill in the arts.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a naturally strong communicator and learner. Present the marriage lines from Saravali only as a possible need for mental rapport, never as a prediction of divorce or remarriage."
+  },
+  {
+    "id": "planet_in_sign/mercury/cancer",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Cancer"
+    },
+    "summary": "Mercury in Cancer (Karka), the Moon's water sign, which Mercury treats as an enemy's sign, gives an imaginative, emotional and changeable intellect: talented with words and music but restless, talkative and prone to friction with relatives.",
+    "themes": [
+      "emotional intelligence",
+      "poetic imagination",
+      "restlessness",
+      "travel or living abroad",
+      "family friction"
+    ],
+    "common_outcomes": [
+      "Learned and poetic, with a feeling-led way of thinking",
+      "Restless and changeable; may take up many occupations",
+      "Inclination to live or work away from the birthplace",
+      "Fond of music; talkative"
+    ],
+    "rare_outcomes": [
+      "Saravali says popularity may come through the reputation of ancestors",
+      "Brihat Jataka 18.9: income from water or water-related trades, together with enmity from one's own people",
+      "Saravali mentions loss of wealth through romantic involvements"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.7-8: fickle-minded, prattling, fond of arguments.",
+      "career": "Saravali 26.7-8: interested in many jobs, a good poet. Brihat Jataka 18.9: earns through water.",
+      "finance": "Brihat Jataka links gains to water; Saravali warns of money lost through enmity with women.",
+      "health": "",
+      "relationships": "Saravali 26.7-8: fond of the company of women, but loses wealth through enmity with them.",
+      "family": "Both main texts mention hostility with relatives (Brihat Jataka 18.9 Sastri: hated by his relations), even as the ancestors' fame brings popularity (Saravali).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saravali 26.43-48: Jupiter's aspect makes the native a great scholar, dear to all and to the ruler, who goes beyond the usual bounds of learning; Venus' aspect gives beauty, skill in singing and instruments, and fortune",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 26.43-48: Moon's aspect brings loss of wealth or vigour and misery through women; Mars' aspect brings little learning, lying and invention of falsehoods; Saturn's aspect brings vanity, imprisonment and hostility to siblings and elders",
+      "Enemy's sign: Braha and BPHS both list the Moon as Mercury's enemy; Phaladeepika 3.19: a planet in an enemy's house is 'distressed'",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 26.7-8 (tr. R. Santhanam)",
+        "view": "Learned but restless, prefers living abroad, enjoys music and pleasure, talkative and inconstant, quarrels with relatives, loses wealth through women, takes up many jobs, a good poet whose popularity rests on ancestral fame.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 26.43-48, aspects on Mercury in Cancer (tr. R. Santhanam)",
+        "view": "Sun: craftsman's trades. Moon: loses wealth and vigour through women. Mars: untruthful, weak in learning. Jupiter: great scholar, favoured by the ruler. Venus: handsome, musical, fortunate. Saturn: vain, hostile to kin, confinement.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.9 (tr. M. D. Neely)",
+        "view": "Mercury in the Moon's sign: gains wealth from water, becomes hostile to his own people.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501814.html"
+      },
+      {
+        "source": "Phaladeepika 3.19",
+        "view": "A planet in an enemy's house is 'exceedingly distressed'.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621575.html"
+      },
+      {
+        "source": "Brihat Jataka 18.9 (tr. V. Subrahmanya Sastri, 2nd ed., p. 347)",
+        "view": "Mercury in Cancer: earns wealth through water, hated by his relations.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "The Moon is an enemy to Mercury.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "The texts agree on family friction. Saravali stresses poetic talent and restlessness; Brihat Jataka stresses water-related income. Mercury regards the Moon as an enemy (BPHS ch. 3; Braha), though the Moon regards Mercury as a friend; five-fold (panchadha) friendship can change the relationship in an individual chart.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as an imaginative, emotionally attuned mind that benefits from structure and from not taking family disagreements to heart. Avoid predicting estrangement or financial loss; mention them only as areas to handle with care."
+  },
+  {
+    "id": "planet_in_sign/mercury/leo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Leo"
+    },
+    "summary": "Mercury in Leo (Simha), the Sun's fire sign and a friend's sign for Mercury, gives a proud, authoritative way of speaking and thinking, yet both Saravali and Brihat Jataka describe it unfavourably, warning of weak memory or judgement, restlessness and strained family ties.",
+    "themes": [
+      "proud speech",
+      "authority",
+      "restlessness",
+      "family tension",
+      "self-presentation"
+    ],
+    "common_outcomes": [
+      "Speech and thinking take on a confident, commanding tone",
+      "Can gain some name or wealth (Saravali)",
+      "Tension with siblings or kin while being kind to outsiders",
+      "Restless or wandering tendencies"
+    ],
+    "rare_outcomes": [
+      "Saravali mentions working in service of others and difficulty with children",
+      "Brihat Jataka 18.10 adds loss of comfort and self-inflicted embarrassment"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.9-10: weak memory, not truthful, independent. Brihat Jataka 18.10 (Sastri): ignorant and always wandering.",
+      "career": "Saravali 26.9-10: may work as a servant (in service of others).",
+      "finance": "Saravali grants wealth and fame; Brihat Jataka 18.10 calls the native penniless (Sastri).",
+      "health": "Saravali mentions a weak constitution; do not convert this into a health prediction.",
+      "relationships": "Saravali: unfortunate in respect of the spouse; Brihat Jataka 18.10: hated (Sastri) or disliked (Neely) by women. Best read as a need to listen more in relationships.",
+      "family": "Saravali 26.9-10: conflict with brothers, few or no children, against one's own people but kind to others. Brihat Jataka 18.10 (Sastri): insulted by his own people.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saravali 26.49-54: Moon's aspect gives beauty, skill, wealth and talent in poetry, music and dance; Jupiter's aspect gives beauty, learning, eloquence, fame and conveyances; Venus' aspect gives beauty, courage, conveyances and a minister's post",
+      "Mercury with the Sun forms Budha-Aditya Yoga (intelligence, skill, reputation), but Raman warns it should not be assumed regardless of their distance (Three Hundred Important Combinations no. 24)",
+      "Sastri's note to Brihat Jataka 18.10: in Leo Mercury 'improves a little', being in a friend's house",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 26.49-54: Sun's aspect gives wealth and virtue but jealousy, cruelty and fickleness; Mars' aspect gives baseness, misery, injury and lack of skill; Saturn's aspect gives a lacklustre appearance and misery",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 26.9-10 (tr. R. Santhanam)",
+        "view": "Lacks wisdom and memory though may be wealthy and famous; untruthful, physically weak, quarrels with brothers, unlucky in marriage, few or no children, works for others, hostile to kin but kind to outsiders.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 26.49-54, aspects on Mercury in Leo (tr. R. Santhanam)",
+        "view": "Sun: jealous, harsh, yet rich. Moon: beautiful, skilled, wealthy, artistic. Mars: base, injured. Jupiter: eloquent, famous. Venus: very beautiful, a minister. Saturn: miserable.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.10 (tr. M. D. Neely)",
+        "view": "Mercury in Leo: disliked by women, loses wealth, comfort and children, wanders, lacks learning, driven by desire, brings humiliation on himself.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501815.html"
+      },
+      {
+        "source": "Brihat Jataka 18.10 (tr. V. Subrahmanya Sastri, 2nd ed., p. 347)",
+        "view": "Mercury in Leo: hated by women, penniless, without happiness or sons, always wandering, ignorant, fond of young women, insulted by his own people. Sastri's note: in Leo Mercury improves a little, being a friendly house.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "The Sun is Mercury's friend and Mercury is welcomed in its sign.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Dignity rules (friend's sign, per BPHS and Braha) and the classical sign verses (largely adverse) point in different directions; Sastri's note softens the verse only slightly. Saravali allows wealth and fame alongside the negatives; Brihat Jataka is uniformly negative in both translations.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a confident, authoritative communicator who benefits from humility and careful listening. Do not tell the user they lack intelligence, will be childless or unlucky in marriage; these classical statements should be treated as low-weight unless the rest of the chart confirms them."
+  },
+  {
+    "id": "planet_in_sign/mercury/virgo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Virgo"
+    },
+    "summary": "Mercury in Virgo (Kanya) is in its exaltation, moolatrikona and own sign at once: the strongest possible sign for Mercury, giving a precise, discerning, articulate and skilful mind with gifts for writing, analysis and the arts.",
+    "themes": [
+      "analytical precision",
+      "eloquence",
+      "writing and craft",
+      "discernment",
+      "virtue"
+    ],
+    "common_outcomes": [
+      "Sharp, analytical and well-organised mind",
+      "Eloquent and skilled in writing, poetry, crafts or technical arts",
+      "Generous, wise and patient; reasons well",
+      "Respected by learned or good people"
+    ],
+    "rare_outcomes": [
+      "Saravali notes the native may be the eldest child and is attractive to others but of modest vigour",
+      "Forms Bhadra Mahapurusha Yoga in a kendra from the lagna",
+      "Saravali also calls the native argumentative despite being modest"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.11-12: virtuous, eloquent, sweet, modest and argumentative. Brihat Jataka 18.10 (Sastri): liberal, forgiving, inventive and fearless.",
+      "career": "Saravali 26.11-12: skilled in writing, poetry and fine or mechanical arts; disposed to serve others.",
+      "finance": "Saravali calls the native charitable; Brihat Jataka 18.10 (Sastri): lives in comfort.",
+      "health": "",
+      "relationships": "Saravali 26.11-12: liked by women.",
+      "family": "Saravali: often the eldest child.",
+      "spirituality": "Saravali: honoured by the virtuous."
+    },
+    "strengtheners": [
+      "Exaltation: deepest at 15 degrees Virgo (BPHS 3.49-50); moolatrikona after the exaltation portion, own sign for the rest (BPHS 3.53). Braha: Mercury functions best in the first half of Virgo",
+      "Phaladeepika 3.18: an exalted planet is 'blazing', in moolatrikona 'happy'",
+      "Bhadra Yoga if in a kendra from the lagna (Phaladeepika 6.1-2; Raman no. 23)",
+      "Saravali 26.37-42 (Gemini/Virgo group): Sun's aspect gives truthfulness and royal favour; Jupiter's aspect a minister's post and wealth; Saturn's aspect success and wealth; Moon's aspect study of the Sastras and success in all undertakings",
+      "Foss: Virgo is where Mercury is happiest (own, moolatrikona and exaltation together)"
+    ],
+    "weakeners_or_cancellations": [
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (rules of interpretation): planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a planet exalted in the birth chart but debilitated in the navamsa gives very mixed results",
+      "Saravali 26.37-42: Mars' aspect gives genius but an injured body; Venus' aspect gives learning but low company"
+    ],
+    "lagna_or_context_notes": "Bhadra Yoga arises when Virgo is a kendra from the lagna, i.e. for Virgo, Gemini, Sagittarius and Pisces lagnas (Phaladeepika 6.1-2). Raman (no. 23) adds that Mercury must be very powerful for the yoga to deliver.",
+    "source_views": [
+      {
+        "source": "Saravali 26.11-12 (tr. R. Santhanam)",
+        "view": "Virtuous, eloquent, skilled in writing, poetry and fine and mechanical arts, gentle, attractive, modest vigour, often eldest child, honoured by the good, charitable, modest, argumentative, strong.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.10 (tr. M. D. Neely)",
+        "view": "Mercury in Virgo: generous, wise, many good qualities, happy, patient, a good reasoner, fearless.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501815.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.49-50, 3.53",
+        "view": "Virgo is Mercury's exaltation sign, deepest at 15 degrees; debilitation is the seventh sign at the same degree. Mercury's moolatrikona is the 5 degrees after the exaltation portion in Virgo; the rest is own sign.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-53/"
+      },
+      {
+        "source": "Phaladeepika 6.1-2",
+        "view": "Bhadra Yoga results: sharp intellect, fame among scholars, wealth, eloquence.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Jataka 18.10 (tr. V. Subrahmanya Sastri, 2nd ed., p. 347)",
+        "view": "Mercury in Virgo: liberal in gifts, learned, many good qualities, lives in comfort, forgiving, inventive and fearless.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 23 Bhadra Yoga (p. 53)",
+        "view": "Mercury in a kendra in its own or exaltation sign: strong, well-built, taciturn, helps relatives, long-lived. Mercury must be very powerful or the yoga exists only on paper.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Mercury, Budha, name 106 'Fond of Virgo'",
+        "view": "Virgo is where Mercury is happiest: own sign, moolatrikona and exaltation at once. Virgo, an earth sign, helps Mercury express stability; Gemini is excellent for intellectual pursuits.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "Mercury functions best in the first half of Virgo, where it is exalted.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources agree this is Mercury's best sign. BPHS 3.53 gives only the length of the moolatrikona portion (5 degrees after the exaltation portion), so the exact boundary at 15 or 16 degrees depends on interpretation; Braha simply says the first half of Virgo is best. Saravali's 'less virile' and 'argumentative' remarks are not found in Brihat Jataka.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a strong, precise and capable mind. Avoid overpromising: an exalted Mercury still depends on its house, combustion and the rest of the chart. Do not repeat Saravali's remark on virility."
+  },
+  {
+    "id": "planet_in_sign/mercury/libra",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Libra"
+    },
+    "summary": "Mercury in Libra (Tula), the air sign of its friend Venus, gives a diplomatic, artistic and trade-minded intellect: fond of discussion and the arts, generous in spending and respectful of teachers, though Saravali also warns of fickleness and calculated charm.",
+    "themes": [
+      "diplomacy",
+      "trade and commerce",
+      "arts",
+      "balanced speech",
+      "inconsistency"
+    ],
+    "common_outcomes": [
+      "Knowledgeable in arts and enjoys debate",
+      "Runs varied business interests; spends freely",
+      "Respectful toward teachers, guests and the sacred",
+      "Amiable and sociable"
+    ],
+    "rare_outcomes": [
+      "Saravali says the native may appear to serve others for advantage, and swings between short temper and calm",
+      "Brihat Jataka 18.8 (Mercury in a Venus sign) describes a teacher devoted to the guru"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.13-14: amiable, fond of arguments, fickle, sometimes short-tempered and sometimes peaceful.",
+      "career": "Saravali 26.13-14: business in various directions, knowledge of arts, an able speaker. Brihat Jataka 18.8: a teacher.",
+      "finance": "Saravali notes lavish spending; Brihat Jataka 18.8 (Sastri): keen on amassing a large property.",
+      "health": "",
+      "relationships": "",
+      "family": "Brihat Jataka 18.8 (Sastri): wife and children; respects parents and elders.",
+      "spirituality": "Saravali 26.13-14: honours the wise, guests, gods and preceptors; devoted to the gods."
+    },
+    "strengtheners": [
+      "Friend's sign (Phaladeepika 3.18: 'delighted' in a friend's house; Braha: Mercury is welcomed in Venus' signs)",
+      "Saravali 26.31-36 (Taurus/Libra group): Moon's aspect makes the native trusted, wealthy and a minister; Jupiter's aspect gives learning, leadership and fame; Venus' aspect gives fortune and charm",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 26.31-36: Sun's aspect is described as bringing poverty and censure; Mars' aspect, disease, enemies and losses; Saturn's aspect, unhappiness and grief over relatives",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 26.13-14 (tr. R. Santhanam)",
+        "view": "Knows the arts, fond of argument, spends freely, varied businesses, honours sages, guests and gods, appears to serve others, amiable and devout but crafty and fickle, alternately short-tempered and calm.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 26.31-36, aspects on Mercury in Taurus/Libra (tr. R. Santhanam)",
+        "view": "Sun: poor and censured. Moon: trusted, wealthy, a minister. Mars: loss of goods. Jupiter: learned leader. Venus: fortunate and gentle. Saturn: unhappy.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.8 (tr. M. D. Neely)",
+        "view": "Mercury in a Venus sign: teacher, generous, devoted to the guru, wishes for family and wealth.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501813.html"
+      },
+      {
+        "source": "Brihat Jataka 18.8 (tr. V. Subrahmanya Sastri, 2nd ed., p. 345)",
+        "view": "Mercury in a Venus sign: a teacher, endowed with wife and children, keen on amassing property, liberal, respects parents and elders.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "Venus is Mercury's friend and Mercury is welcomed in its signs.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka treats Taurus and Libra alike and is favourable; Saravali gives Libra a more mixed picture (devout yet fraudulent and fickle) than Taurus.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a diplomatic, artistic and commercially minded communicator. Mention consistency and sincerity as growth areas rather than calling the person deceitful."
+  },
+  {
+    "id": "planet_in_sign/mercury/scorpio",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Scorpio"
+    },
+    "summary": "Mercury in Scorpio (Vrischika), Mars' fixed water sign and neutral for Mercury, is rated among its worst placements by the classical texts, which warn of grief, harsh conduct, bad company and debt.",
+    "themes": [
+      "secrecy",
+      "investigation",
+      "sharp tongue",
+      "hardship",
+      "debts"
+    ],
+    "common_outcomes": [
+      "Intense, suspicious or penetrating thinking",
+      "Periods of trouble or worry tied to speech and dealings",
+      "Tendency toward debts or financial strain if unchecked",
+      "Can be guarded or stingy"
+    ],
+    "rare_outcomes": [
+      "Saravali speaks of bad company, theft and enjoyment of harsh punishment",
+      "Brihat Jataka 18.8 (Mercury in a Mars sign): gambling, drink, scepticism, fraud"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.15-16: not outspoken, miserly, fond of giving harsh punishments.",
+      "career": "Saravali 26.15-16: interested in blameworthy work; the classical texts give no career praise.",
+      "finance": "Debt and money troubles are a classical warning (Saravali 26.15-16; Brihat Jataka 18.8); careful financial discipline is advised.",
+      "health": "",
+      "relationships": "Saravali 26.15-16 warns of wicked company and base associates; trust and transparency are themes.",
+      "family": "",
+      "spirituality": "Saravali 26.15-16: lacking truth, religion and shame. Brihat Jataka 18.8 (Sastri): an atheist."
+    },
+    "strengtheners": [
+      "Saravali 26.25-30 (Aries/Scorpio group): Sun's aspect gives truthfulness and honour; Jupiter's aspect gives wealth and command; Venus' aspect gives trusted service and a spouse",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 26.25-30: Saturn's aspect brings misery and fierceness; Mars' aspect adds lying and quarrels",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (rules of interpretation): planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 26.15-16 (tr. R. Santhanam)",
+        "view": "Trouble, grief and misfortune; hostile to the virtuous, lacking truth, religion and shame; dull, stingy, unscrupulous, keeps bad company, incurs debts.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 26.25-30, aspects on Mercury in Aries/Scorpio (tr. R. Santhanam)",
+        "view": "Sun: truthful and honoured. Jupiter: happy, rich, commanding. Venus: royal service. Saturn: miserable and harsh.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.8 (tr. M. D. Neely)",
+        "view": "Mercury in a Mars sign: gambling, debt, drink, unbelief, deceit and poverty.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501813.html"
+      },
+      {
+        "source": "Brihat Jataka 18.8 (tr. V. Subrahmanya Sastri, 2nd ed., p. 345)",
+        "view": "Mercury in a Mars sign: gambling, takes others' wealth, [drink], atheism, theft, poverty, a wicked wife, cheating, falsehood. Sastri's note to 18.10: Mercury is good in signs owned by benefics and bad in signs owned by malefics and in its debilitation sign.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "Mars, Jupiter and Saturn are neutral to Mercury.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Classical texts are consistently adverse; Sastri's note to Brihat Jataka 18.10 gives the reason (Mercury is bad in signs owned by malefics). Investigative or research-minded readings found online are not in Saravali or Brihat Jataka and have no cited source here.",
+    "confidence": "medium",
+    "phrasing_guidance": "Never call the user a thief, liar or immoral. Present the placement as a deep, probing mind that does best with honesty, clear agreements and caution about debt. Lean on aspects and Mars' condition."
+  },
+  {
+    "id": "planet_in_sign/mercury/sagittarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Sagittarius"
+    },
+    "summary": "Mercury in Sagittarius (Dhanu), Jupiter's fire sign and neutral for Mercury, gives a learned, eloquent and principled intellect; classical texts rate it well, describing scholarship, fame, generosity and advisory roles.",
+    "themes": [
+      "scholarship",
+      "eloquence",
+      "advisory roles",
+      "teaching",
+      "generosity"
+    ],
+    "common_outcomes": [
+      "Learned in scripture, philosophy or higher studies",
+      "Skilful, persuasive speaker; respected by authorities",
+      "Generous and charitable",
+      "Good at writing and the arts"
+    ],
+    "rare_outcomes": [
+      "Saravali mentions ministerial roles or service as family priest",
+      "Saravali adds bravery and a meditative disposition"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.17-18: famous, liberal, valorous, practises meditation. Brihat Jataka 18.11 (Sastri): argues well on any side.",
+      "career": "Saravali 26.17-18: a minister or family priest, a teacher, skilful speaker, expert in writing and fine arts. Brihat Jataka 18.11: honoured by the sovereign.",
+      "finance": "Saravali calls the native very rich and charitable.",
+      "health": "",
+      "relationships": "",
+      "family": "Saravali: chief among his own people; may serve as family priest.",
+      "spirituality": "Strong: performs sacrifices, meditates, learned in sacred texts (Saravali 26.17-18)."
+    },
+    "strengtheners": [
+      "Saravali 26.55-60 (Sagittarius/Pisces group): Moon's aspect makes a writer who is beautiful, wealthy, trustworthy and happy; Jupiter's aspect gives wealth, learning and a minister's or treasurer's role; Venus' aspect gives a teacher of children, wealth and courage",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 26.55-60: Saturn's aspect gives life in remote places, wickedness and lack of success",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 26.17-18 (tr. R. Santhanam)",
+        "view": "Famous, generous, versed in scripture, brave, meditative, may be a minister or family priest, wealthy, performs sacrifices, teaches, skilful speaker, charitable, good at writing and arts.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 26.55-60, aspects on Mercury in Sagittarius/Pisces (tr. R. Santhanam)",
+        "view": "Moon: a writer, wealthy. Mars: leader, famous writer. Jupiter: rich, learned, minister or treasurer. Venus: teaches others, wealthy. Saturn: lives in isolation, unsuccessful.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.11 (tr. M. D. Neely)",
+        "view": "Mercury in Sagittarius: respected by rulers, wise, skilled in speech.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501816.html"
+      },
+      {
+        "source": "Brihat Jataka 18.11 (tr. V. Subrahmanya Sastri, 2nd ed., p. 349)",
+        "view": "Mercury in Dhanus: honoured by the sovereign, learned, argues well on any side.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "Mars, Jupiter and Saturn are neutral to Mercury.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Both texts are favourable. Saravali's Sun-aspect line for this group mentions urinary illness and epilepsy; it cannot apply literally, since Mercury never moves far enough from the Sun to receive its 7th-house aspect, and should be given no weight.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a learned, articulate and ethically minded thinker. Keep any mention of advisory or leadership roles conditional on the wider chart."
+  },
+  {
+    "id": "planet_in_sign/mercury/capricorn",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Capricorn"
+    },
+    "summary": "Mercury in Capricorn (Makara), Saturn's earth sign and neutral for Mercury, gives a practical, cautious and work-focused intellect; classical texts are largely unfavourable, describing work for others, hardship, debt and timidity.",
+    "themes": [
+      "practicality",
+      "working for others",
+      "caution",
+      "hardship",
+      "anxiety"
+    ],
+    "common_outcomes": [
+      "Does work on behalf of others or in subordinate roles",
+      "Practical, methodical thinking; some artistic skill",
+      "Periods of financial strain or debt",
+      "Worry or restless sleep"
+    ],
+    "rare_outcomes": [
+      "Saravali mentions gossip and untruthfulness",
+      "Brihat Jataka 18.11 (Mercury in a Saturn sign) adds forced labour or obligations"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.19-20: timid and dull; restless dreams and wandering.",
+      "career": "Brihat Jataka 18.11 (Sastri): does others' work, sculptural work, works as a labourer. Saravali 26.19-20: does others' work.",
+      "finance": "Both texts mention poverty or debt; steady saving and caution with loans are relevant.",
+      "health": "",
+      "relationships": "",
+      "family": "Saravali mentions being without the support of relatives.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saravali 26.61-66 (Capricorn/Aquarius group): Jupiter's aspect gives abundant money and grain, honour and fame; Mars' aspect gives calm and happiness; Sun's aspect gives great strength, sweet speech and fame",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 26.61-66: Saturn's aspect gives poverty and misery; Venus' aspect gives an unsuitable spouse and strong passions",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 26.19-20 (tr. R. Santhanam)",
+        "view": "Mean, dull, does others' work, lacks virtue, many hardships, restless dreams, tale-bearer and liar, without relatives, untidy, timid.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 26.61-66, aspects on Mercury in Capricorn/Aquarius (tr. R. Santhanam)",
+        "view": "Sun: strong. Moon: earns through water or trade in flowers or liquor. Mars: calm and happy. Jupiter: prosperous, honoured, famous. Venus: unfavourable marriage. Saturn: poor and miserable.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.11 (tr. M. D. Neely)",
+        "view": "Mercury in a Saturn sign: works for others, some knowledge of art, poverty, debts, forced labour.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501816.html"
+      },
+      {
+        "source": "Brihat Jataka 18.11 (tr. V. Subrahmanya Sastri, 2nd ed., p. 349)",
+        "view": "Mercury in a Saturn sign: does other people's work, poor, inclined to sculptural work, contracts debts, works as a labourer.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "Mars, Jupiter and Saturn are neutral to Mercury.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Classical texts agree on an unfavourable tone. BPHS and Braha both treat Saturn as neutral to Mercury, so Capricorn is a neutral sign; claims online that Saturn is Mercury's friend are not supported by these sources.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as a methodical, hardworking mind that may carry responsibility for others and should avoid unnecessary debt. Do not label the person dull or dishonest; avoid fatalistic statements about poverty."
+  },
+  {
+    "id": "planet_in_sign/mercury/aquarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Aquarius"
+    },
+    "summary": "Mercury in Aquarius (Kumbha), Saturn's air sign and neutral for Mercury, is described unfavourably by the classical texts: low fortune, social friction, work for others and outward religiosity without depth.",
+    "themes": [
+      "unconventional thinking",
+      "detachment",
+      "ritual over substance",
+      "social friction",
+      "service"
+    ],
+    "common_outcomes": [
+      "Attached to many religious rites, sometimes formally rather than deeply (Saravali)",
+      "Periods of low recognition or setbacks",
+      "Does others' work; money is tight (Brihat Jataka 18.11)",
+      "Modest and reserved"
+    ],
+    "rare_outcomes": [
+      "Saravali mentions hostility toward the spouse and being insulted",
+      "Brihat Jataka 18.11 (Saturn sign): debts and work for others"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.21-22: timid and modest; lacking a good disposition.",
+      "career": "Brihat Jataka 18.11 (Sastri): does others' work, works as a labourer.",
+      "finance": "Brihat Jataka warns of poverty and debts; steady planning helps.",
+      "health": "",
+      "relationships": "Saravali warns of friction with the spouse; emotional expressiveness is a growth area.",
+      "family": "",
+      "spirituality": "Attached to religious rites (Saravali), though possibly more outward than inward."
+    },
+    "strengtheners": [
+      "Saravali 26.61-66 (Capricorn/Aquarius group): Jupiter's aspect gives prosperity, honour and fame; Mars' aspect gives calm and happiness",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 26.61-66: Saturn's aspect gives poverty; Venus' aspect is unfavourable for marriage",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 26.21-22 (tr. R. Santhanam)",
+        "view": "Lacks good disposition and deeds though attached to many religious rites, abandons worthy acts, insulted, hostile to spouse, unlucky, timid, untidy, modest.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 26.61-66, aspects on Mercury in Capricorn/Aquarius (tr. R. Santhanam)",
+        "view": "Jupiter: prosperous and honoured. Mars: calm and happy. Saturn: very poor. Venus: unfavourable marriage.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.11 (tr. M. D. Neely)",
+        "view": "Mercury in a Saturn sign: works for others, poverty, debts, modest art knowledge.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501816.html"
+      },
+      {
+        "source": "Brihat Jataka 18.11 (tr. V. Subrahmanya Sastri, 2nd ed., p. 349)",
+        "view": "Mercury in a Saturn sign: does other people's work, poor, sculptural work, debts, works as a labourer.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "Mars, Jupiter and Saturn are neutral to Mercury.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali and Brihat Jataka (both translations) are adverse. The 'innovative, humanitarian' reading common online draws on Western sign symbolism and has no classical or cited modern source here.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as an independent, unconventional thinker. Avoid predicting marital conflict or poverty; mention only that warmth in communication and financial planning are useful focus areas."
+  },
+  {
+    "id": "planet_in_sign/mercury/pisces",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mercury",
+      "sign": "Pisces"
+    },
+    "summary": "Mercury in Pisces (Meena) is debilitated, deepest at 15 degrees: logical, detailed thinking is weakened and intuition, imagination and feeling take over. Classical texts give a mixed picture (good conduct and a faithful spouse, but limited formal learning and money), and the debility can be cancelled by neecha bhanga.",
+    "themes": [
+      "debilitation",
+      "intuition over logic",
+      "imagination",
+      "service",
+      "living abroad"
+    ],
+    "common_outcomes": [
+      "Intuitive, imaginative and empathic thinking; less comfortable with detail and contracts",
+      "Serves others or works in support roles",
+      "Modest artistic or craft skill",
+      "May live or work away from home"
+    ],
+    "rare_outcomes": [
+      "Saravali says the native is skilled at sewing or fine handwork",
+      "Saravali has a paradoxical line: skilled at taking others' wealth yet remaining poor",
+      "With neecha bhanga, creative and spiritual gifts as a communicator (astromedha.in)"
+    ],
+    "by_area": {
+      "personality": "Saravali 26.23-24: fond of good conduct and purity; virtuous and fortunate.",
+      "career": "Saravali 26.23-24: skilled in stitching or fine handwork. Brihat Jataka 18.11: serves others (Neely) or wins over servants and is skilled in humble handicrafts (Sastri).",
+      "finance": "Saravali mentions poverty; written agreements and careful reading of terms help.",
+      "health": "",
+      "relationships": "Saravali 26.23-24: a chaste spouse.",
+      "family": "Saravali mentions few or no children; treat as low weight.",
+      "spirituality": "Saravali: fond of purity yet without formal religion. Foss: the debilitation is a challenge to accept Jupiter's wisdom without trying to reinvent it; letting go of Mercury's agenda can make it very auspicious."
+    },
+    "strengtheners": [
+      "Neecha bhanga (Phaladeepika 7.26-30): Jupiter (lord of Pisces) or Mercury's exaltation-sign lord (Mercury itself, lord of Virgo) in a kendra from the lagna or Moon; or the two lords in mutual kendras; or Mercury aspected by Jupiter (7.28)",
+      "Raman (no. 250) reads the cancelling planet as the one exalted in Pisces, i.e. Venus in a kendra from the lagna or Moon",
+      "astromedha.in: cancellation if Jupiter or Mercury is in a kendra",
+      "Saravali 26.55-60 (Sagittarius/Pisces group): Jupiter's aspect gives wealth, intelligence, nobility and a minister's or treasurer's role; Moon's aspect makes a wealthy, happy writer; Venus' aspect gives a teacher, wealth and courage"
+    ],
+    "weakeners_or_cancellations": [
+      "Phaladeepika 3.19: a debilitated planet is 'greatly afraid'; Braha: Pisces is Mercury's worst sign",
+      "Closest to 15 degrees Pisces the debility is deepest (BPHS 3.50)",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a debilitated planet that is also vargottama is only worse off",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled; Raman (Budha-Aditya Yoga) suggests Mercury may partly escape this",
+      "Saturn's aspect (Saravali 26.55-60): life in remote places and lack of success"
+    ],
+    "lagna_or_context_notes": "Raman (Three Hundred Important Combinations no. 250) reckons neecha bhanga from both the lagna and the Moon, so check kendras from both before giving a weak reading.",
+    "source_views": [
+      {
+        "source": "Saravali 26.23-24 (tr. R. Santhanam)",
+        "view": "Fond of good conduct and purity, lives abroad, few children and limited money, but a chaste spouse; virtuous and fortunate yet irreligious; skilled in sewing; lacks formal learning; skilled at taking others' wealth while staying poor.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.11 (tr. M. D. Neely)",
+        "view": "Mercury in Pisces: serves others, modest artistic skill.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501816.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.49-50",
+        "view": "Debilitation is the seventh sign from exaltation at the same degree: 15 degrees Pisces for Mercury.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-50/"
+      },
+      {
+        "source": "Phaladeepika 7.26-30",
+        "view": "Neecha bhanga raja yoga conditions: the debilitation-sign lord or exaltation-sign lord in a kendra from the lagna or Moon; the two in mutual kendras; or the debilitated planet aspected by its sign lord.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621579.html"
+      },
+      {
+        "source": "astromedha.in, Mercury in Pisces (practitioner, no classical citation)",
+        "view": "Empathic, creative and spiritual communicators when supported; indecision and vague agreements as challenges; cancellation if Jupiter or Mercury is in a kendra.",
+        "url": "https://astromedha.in/insights/vedic/mercury-in-pisces"
+      },
+      {
+        "source": "Brihat Jataka 18.11 (tr. V. Subrahmanya Sastri, 2nd ed., p. 349)",
+        "view": "Mercury in Pisces: wins over his servants and is skilled in the handicrafts of low-caste people.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 250 Neechabhanga Raja Yoga (pp. 242-244)",
+        "view": "The lord of the debilitation sign, or the planet exalted there, in a kendra from the lagna or Moon cancels debility. Raman follows B. Suryanarain Rao in reading 'thaduchchanatha' as the planet exalted in that sign, and notes the reading is disputed.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Mercury, Budha, name 10 'Speaking truth'",
+        "view": "Mercury, unless retrograde, is debilitated in Pisces. The debilitation is the challenge to accept Jupiter's wisdom without trying to reinvent it; any planet in Pisces can gently let go of its agenda, which can make it very auspicious.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer ('Budha-Mercury' section)",
+        "view": "Mercury functions worst in Pisces, its fallen sign.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 24 Budha-Aditya Yoga (p. 54)",
+        "view": "Mercury with the Sun: highly intelligent, skilful, good reputation, comforts. Planets with the Sun usually become combust and lose power, but Mercury may be an exception; the yoga should not be assumed regardless of the distance between them.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali's verse mixes favourable (virtuous, fortunate, faithful spouse) and unfavourable lines. On Brihat Jataka 18.11 the translations differ: Neely has the native serving others, Sastri has him winning over his servants. Practitioners disagree on whether Jupiter's aspect alone cancels the debility or whether a kendra placement is needed; Phaladeepika 7.28 supports the aspect route, and Raman notes the meaning of 'thaduchchanatha' is disputed. Foss alone exempts a retrograde Mercury from debilitation. In BPHS Mercury treats Jupiter as neutral (Braha agrees); it is Jupiter that treats Mercury as an enemy.",
+    "confidence": "high",
+    "phrasing_guidance": "Never call the person unintelligent. Describe a mind that thinks in images and feelings, and suggest structure, checklists and careful contracts as practical supports. Always check neecha bhanga before giving any 'weak Mercury' reading, and avoid stating that someone will be poor or childless."
+  }
+]

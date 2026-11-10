@@ -1,0 +1,56 @@
+{
+ "meera": {
+  "weighted": 75.2,
+  "sections": {
+   "glance": 72.5,
+   "personality": 76.8,
+   "mind": 74.0,
+   "career": 76.7,
+   "finance": 83.7,
+   "health": 69.8,
+   "relationships": 74.6,
+   "family": 70.4,
+   "spirituality": 62.5,
+   "yogas": 79.9,
+   "guidance": 76.5,
+   "timeline": 76.9
+  },
+  "violations": 2
+ },
+ "arjun": {
+  "weighted": 75.0,
+  "sections": {
+   "glance": 74.0,
+   "personality": 78.35,
+   "mind": 76.8,
+   "career": 76.2,
+   "finance": 78.9,
+   "health": 71.1,
+   "relationships": 72.3,
+   "family": 75.2,
+   "spirituality": 72.5,
+   "yogas": 67.9,
+   "guidance": 69.7,
+   "timeline": 77.9
+  },
+  "violations": 1
+ },
+ "devika": {
+  "weighted": 74.9,
+  "sections": {
+   "glance": 71.6,
+   "personality": 77.3,
+   "mind": 81.9,
+   "career": 76.4,
+   "finance": 72.1,
+   "health": 71.4,
+   "relationships": 80.6,
+   "family": 71.1,
+   "spirituality": 73.1,
+   "yogas": 75.9,
+   "guidance": 74.9,
+   "timeline": 74.0
+  },
+  "violations": 2
+ }
+}

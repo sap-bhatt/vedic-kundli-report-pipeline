@@ -1,0 +1,2128 @@
+[
+  {
+    "id": "rising_sign/aries",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Aries"
+    },
+    "summary": "Aries rising is classically read as a lean, quick, combative and self-willed person, brave but hot-tempered and restless. For this lagna the Sun and Jupiter are the main helpers, Mars as lagna lord supports them, and Saturn, Mercury and Venus are counted as difficult; Venus is the main maraka.",
+    "themes": [
+      "courage and initiative",
+      "temper and quarrels",
+      "restlessness",
+      "independence",
+      "head and injuries"
+    ],
+    "common_outcomes": [
+      "Brave, enterprising and independent, with a quick temper and a dislike of being directed (PD 9.1; JP 9.104; HJH; Frawley).",
+      "Restless or always on the move (PD 9.1: always on his legs; JP 9.104: wandering habits).",
+      "Lean or middle stature, round eyes, weak knees noted by Phaladeepika and Jataka Parijata; Raman adds a long face and neck and a mark or scar on the head.",
+      "Liable to cuts, bruises and wounds and to complaints of the head when Aries is afflicted (PD 9.1; BR Mesha st. 5; HJH)."
+    ],
+    "rare_outcomes": [
+      "Bhavartha Ratnakara (Mesha st. 22): baths in the Ganges in the periods of Venus, Jupiter and the Sun if all three are in the 10th.",
+      "Jataka Parijata 9.104: hostile to relatives and of uncertain wealth.",
+      "Raman: mental strain is possible if Saturn and the Moon are both in Aries (HJH ch. IV)."
+    ],
+    "by_area": {
+      "personality": "Fierce, proud, quick-tempered and quarrelsome yet heroic (JP 9.104); fickle and impatient (PD 9.1); independent, courageous, ambitious, stubborn but frank, goes to extremes (HJH); dynamic, competitive, lives in the head, strategic, can be self-centred (Frawley p. 117).",
+      "career": "Enterprising, able to plan, drawn to scientific thought (HJH); good at research, invention and new ideas (Frawley p. 117).",
+      "finance": "Possessed of uncertain wealth (JP 9.104). Self-earned fortune if Mars and Venus are in the 7th (BR Mesha st. 15); the Sun, Mercury and Venus in the 11th give fortune in their periods (BR Mesha st. 20).",
+      "health": "Fear of eruptive fevers (smallpox), weapons and wounds (BR Mesha st. 5); bruised limbs (PD 9.1); head complaints when Aries is afflicted and a hot constitution (HJH); Mercury and Mars in the 6th give wounds and skin eruptions in their periods (BR Mesha st. 14).",
+      "relationships": "Longs for women (PD 9.1); Frawley says Aries types benefit from relationships to balance their self-focus (p. 117).",
+      "family": "Hostile to relatives (JP 9.104). Raman notes Parasara and Lomasa hold that the lagna lord in the 5th gives little happiness from children (BR Mesha notes to st. 12).",
+      "spirituality": "Frawley: growth comes from using a sharp mind to seek truth rather than to promote oneself (p. 117)."
+    },
+    "strengtheners": [
+      "Bhavartha Ratnakara: the lords of the 4th and 5th (Moon and Sun) together give Raja Yoga (Mesha st. 1); the Sun or Moon in Cancer gives Raja Yoga (st. 21); the Sun aspected by Jupiter becomes a yogakaraka (st. 19).",
+      "The 2nd lord in the 12th is good only for Aries, because Venus is then exalted in Pisces (BR Mesha st. 7 and Raman's note).",
+      "Mars becomes a yoga-giver in the 2nd with Jupiter and Venus (st. 9), in the 4th with Jupiter (st. 11; Raman: neecha-bhanga) and in the 5th (st. 12).",
+      "Jupiter-Sun, Jupiter-Mars or Mars-Sun links are highly favourable for Aries (Santhanam's note on BPHS 34.19-22); Laghu Parashari notes list Sun+Mars, Sun+Moon, Mars+Jupiter as fruitful (Verma).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter and Saturn together (9th and 10th lords) do not give Raja Yoga because Saturn also owns the 11th (BPHS 34.19-22; LP Aries vv.; BR Mesha st. 4; HPA).",
+      "Jupiter gives bad results if under the control of a malefic (BPHS 34.19-22); Jupiter in the 11th gives no yoga in its period (BR Mesha st. 13); Jupiter in the 10th (debilitated) can act as a maraka (BR Mesha st. 3).",
+      "Mars in the 3rd with Jupiter and Venus gives no yoga (BR Mesha st. 10); Mars in the 8th gives no yoga by itself (st. 16).",
+      "Mars joined with the 6th lord can bring death through head disease in its period (BR Mesha st. 6) [maraka: text predicts danger to life / death].",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "For Aries the 9th lord Jupiter also owns the 12th and the 10th lord Saturn also owns the 11th, so the 9-10 combination is spoiled; the cleaner Raja Yoga for Aries comes from the Sun (5th) with the Moon (4th) or with Mars or Jupiter.",
+    "attributes": {
+      "lord": "Mars",
+      "element": "fire (BPHS 4.6-7: fiery)",
+      "modality": "movable / chara (BPHS 4.5; PD 1.9)",
+      "gender": "male, odd, cruel (krura) sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "head (BPHS 4.4; BJ 1.4; PD 1.4)",
+      "dosha_temperament": "bilious / pitta (BPHS 4.5)",
+      "symbol": "ram (BJ 1.5: remaining signs are as their names; Frawley p. 117)",
+      "colour": "blood-red (BPHS 4.6-7); red (BJ 1.20)",
+      "direction": "east (BPHS 4.6-7; BJ 1.11)",
+      "day_night_strength": "night-strong (BPHS 4.6-7; BJ 1.10)",
+      "rising_mode": "prishtodaya, rises with its back (BPHS 4.6-7; BJ 1.10; PD 1.8)",
+      "guna": "rajas (BPHS 4.6-7)",
+      "footedness": "quadruped (BPHS 4.6-7; BJ 1.5 notes; PD 1.7)",
+      "abode": "hills (BPHS 4.6-7); forest (PD 1.5)",
+      "other": "big physique, denotes courage, related to kings (BPHS 4.6-7)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.1",
+        "description": "Round eyes, weak knees, fierce, afraid of water, eats sparingly, fond of women, always on the move, fickle, speaks untruth, limbs bruised.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.104",
+        "description": "Hostile to relatives, wandering, lean, hot-tempered, quarrelsome, proud, weak-kneed, uncertain wealth, heroic.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV p. 26",
+        "description": "Independent thinker, courageous, sensitive; middle stature, ruddy, sharp sight, long face and neck, round eyes, scar on head; enterprising, ambitious, stubborn, frank, quick-tempered, hot constitution.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers p. 117",
+        "description": "Dynamic, aggressive, competitive, much initiative, penetrating perception, scientific and inventive, willful, can be self-centred.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "none by single lordship (PVR Table 30); Jupiter is called 'the yogakaraka' by Raman in HPA ch. XVII; the Sun becomes a yogakaraka when aspected by Jupiter (BR Mesha st. 19)"
+      ],
+      "functional_benefics": [
+        "Jupiter (BPHS 34.19-22; LP; HJH: best benefic; HPA; PVR)",
+        "Sun (BPHS 34.19-22; LP; HJH; HPA; PVR)",
+        "Mars, lagna lord, helpful to other good planets though also 8th lord (BPHS 34.19-22; HJH: next benefic after Jupiter; PVR)"
+      ],
+      "functional_malefics": [
+        "Saturn, 10th and 11th lord (BPHS 34.19-22; LP; HJH; HPA; PVR)",
+        "Mercury, 3rd and 6th lord (BPHS; LP; HJH: the greatest malefic; HPA; PVR)",
+        "Venus, 2nd and 7th lord (BPHS; LP; HJH; HPA; PVR)"
+      ],
+      "neutral_or_mixed": [
+        "Moon, 4th lord: not discussed by Parasara; mixed by association (Santhanam's note); auspicious if weak (Verma's LP note); not listed for movable lagnas by PVR because it depends on waxing or waning"
+      ],
+      "marakas": [
+        "Venus: direct or independent killer (BPHS 34.19-22); maraka (BR Mesha st. 2) [maraka: text predicts danger to life / death]",
+        "Saturn and Mercury kill when associated with Venus (BPHS 34.19-22); Laghu Parashari ranks Saturn, Mercury, Venus as marakas in reducing order",
+        "Jupiter becomes a maraka if in the 10th (BR Mesha st. 3)"
+      ],
+      "notes": "Raja Yoga for Aries is said to arise from the Sun and Moon combined (BR Mesha st. 1; Frawley p. 161)."
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 19-22",
+        "view": "Jupiter and the Sun are auspicious; Saturn, Mercury and Venus malefic; Mars, though 8th lord, helps good planets; Jupiter-Saturn conjunction gives no good; Jupiter under a malefic gives bad results; Venus is an independent killer and Saturn and others kill if joined to him [maraka: text predicts danger to life / death].",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-7",
+        "view": "Aries is the head of Kalapurusha; movable, male, bilious; blood-red, large-bodied, quadruped, night-strong, courageous, eastern, royal, hill-roaming, rajasic, rises with its back, fiery, ruled by Mars.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4, 10, 20",
+        "view": "Aries governs the head; a nocturnal, back-rising sign; colour red.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 1; Phaladeepika 1 (tr. V. Subrahmanya Sastri) vv. 4-9",
+        "view": "Aries rising gives round eyes, weak knees, fierceness, fear of water, sparing diet, restlessness, fickleness and bruised limbs; Aries is movable, cruel, male, abode a forest.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 104",
+        "view": "Hostile to relatives, wandering, lean, irritable, quarrelsome, proud, weak-kneed, uncertain wealth, heroic.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Aries vv. 43-46",
+        "view": "Saturn, Mercury and Venus inauspicious, Jupiter and Sun auspicious; Saturn-Jupiter gives no yoga; the verse that Venus does not kill though a maraka is judged corrupt by Verma, who calls Venus a strong maraka in the 2nd or 7th.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Mesha st. 1-22",
+        "view": "Moon-Sun gives Raja Yoga; Venus is a maraka; Jupiter is a maraka in the 10th; Jupiter-Saturn no Raja Yoga; fear of pox, weapons, wounds; 2nd lord in the 12th is good only here; many placements of Mars that make or break yoga. Raman's notes: Keraleeya names Mercury and Saturn as marakas; in his experience several Aries natives died in Venus dasa.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II p. 13 and ch. IV p. 26",
+        "view": "Jupiter best benefic, then Mars; Saturn, Mercury and Venus malefic, Mercury the worst. Aries rising: courageous, independent, enterprising, quick-tempered; head troubles if afflicted.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "Saturn, Mercury and Venus ill-disposed; Jupiter and Sun auspicious; Jupiter the yogakaraka; Jupiter-Saturn gives no benefit; Venus as maraka will not kill but Saturn and similar planets can.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 117, 161",
+        "view": "Aries types are dynamic, competitive, strategic and headstrong; for Aries and Scorpio, Raja Yoga comes from the Sun with the Moon.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "Functional benefics Sun, Mars, Jupiter; malefics Mercury, Venus, Saturn; no yogakaraka; Moon not listed for movable lagnas.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Venus as killer: BPHS 34 makes Venus an independent killer; Raman (BR notes) reports Parasara and Keraleeya saying Venus alone cannot kill, and HPA says Venus as maraka will not kill; Verma rejects that reading as corrupt; Raman's own experience is that Aries natives have died in Venus dasa. Jupiter: auspicious in BPHS, Raman's yogakaraka in HPA, but a maraka in the 10th per Bhavartha Ratnakara. Mercury vs Saturn as worst malefic: HJH names Mercury; Santhanam's note on BPHS stresses Saturn's 11th (moolatrikona) lordship. Moon: BPHS silent; Verma counts a weak Moon auspicious.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists."
+  },
+  {
+    "id": "rising_sign/taurus",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Taurus"
+    },
+    "summary": "Taurus rising is classically read as a steady, enduring, pleasure-loving and generous person, attached to land, cattle, comfort and beauty, and happier in the middle and later parts of life. Saturn (9th and 10th lord) is the yogakaraka for most authorities, while Jupiter, the Moon and Venus are counted as difficult.",
+    "themes": [
+      "endurance",
+      "comfort and beauty",
+      "land and cattle",
+      "stubbornness",
+      "late-life happiness"
+    ],
+    "common_outcomes": [
+      "Patient and enduring; bears hardship and forgives (PD 9.2; HJH; Frawley).",
+      "Fond of comfort, beauty, music and pleasure (PD 9.2; HJH; Frawley).",
+      "Linked with agriculture, cattle and property (PD 9.2; JP 9.104; Frawley p. 118).",
+      "Obstinate and slow to move once committed (HJH; Frawley)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 9.2: marks or moles on the back, face or sides.",
+      "Bhavartha Ratnakara (Vrishabha st. 2): Rahu in the 10th, or Mars and Jupiter in Capricorn, gives baths in sacred rivers.",
+      "Raman: nervous complaints are common after about fifty (HJH ch. IV)."
+    ],
+    "by_area": {
+      "personality": "Forgiving, liberal, enduring, fond of young women (PD 9.2); respectful to elders and Brahmanas, fond of debate, wandering, fortunate, calm (JP 9.104); obstinate, proud, ambitious, open to flattery but affectionate, self-reliant, with a piercing intellect and great endurance (HJH); stable, fixed, sensual, possessive, slow to anger and slow to forgive (Frawley p. 118).",
+      "career": "Agriculture (PD 9.2); business, banking or property, artistic and poetic work (Frawley p. 118); sees himself as born to exercise authority (HJH).",
+      "finance": "Plenty of wealth in Venus dasa (BR Vrishabha st. 13); Jupiter and Mercury joined or in mutual aspect give Dhana Yoga, spoiled if Mars joins or aspects (st. 5-6); the Moon in the lagna reduces wealth (st. 14); Mars dasa gives financial gain (st. 8).",
+      "health": "Plump thighs and a large face (PD 9.2); Raman: stout or corpulent tendency and nervous complaints after fifty (HJH).",
+      "relationships": "Fond of young women (PD 9.2); lustful (JP 9.104); values marriage and a stable home, romantic (Frawley p. 118).",
+      "family": "Few sons (JP 9.104); not much happiness from children (HJH).",
+      "spirituality": "Pays homage to elders and Brahmanas (JP 9.104); devotional, drawn to tradition and ritual (Frawley p. 118)."
+    },
+    "strengtheners": [
+      "Saturn alone gives Raja Yoga (BPHS 34.23-24; LP Taurus vv. 47-48; HPA); Raman (after B. Suryanarayana Rao) says Saturn is best in the 10th (BR notes).",
+      "Mercury joining Saturn or the Sun acts more effectively (Santhanam's note on BPHS 34.23-24); Saturn + Mercury is the best yoga for Taurus (Verma's LP note).",
+      "The Moon in the 4th, or aspected by Jupiter or Mercury, can give yoga (BR Vrishabha st. 3).",
+      "Mars in the 7th becomes benefic (BR Vrishabha st. 4); Jupiter, Mercury and Mars linked together become yoga-givers (st. 7); Mercury in a kendra gives yoga in its period (st. 8).",
+      "Venus and Mercury in the lagna with Jupiter in the 7th gives a powerful yoga in Mercury dasa (BR Vrishabha st. 9).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter, 8th and 11th lord, is the first-rate adversary (Santhanam's note on BPHS 34.23-24).",
+      "The Dhana Yoga of Jupiter and Mercury fails if Mars joins or aspects them (BR Vrishabha st. 6).",
+      "The Moon in the lagna does not give much wealth for Taurus, though it helps other lagnas (BR Vrishabha st. 14-15).",
+      "Raman/Suryanarayana Rao: Saturn may give Raja Yoga without letting the native hold on to the gains; Saturn in the 2nd is destructive (BR notes).",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "Saturn owns the best trine (9th) and the best angle (10th) for Taurus, hence its reputation as the strongest yogakaraka of the zodiac (Santhanam; Verma). Venus as lagna lord also owns the 6th (its moolatrikona Libra), which is why several texts do not count it as a benefic.",
+    "attributes": {
+      "lord": "Venus",
+      "element": "earth (BPHS 4.8: earthy)",
+      "modality": "fixed / sthira (BPHS 4.5; PD 1.9)",
+      "gender": "female, even, gentle (saumya) sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "face (BPHS 4.4; BJ 1.4; PD 1.4); face and neck (Frawley p. 117)",
+      "dosha_temperament": "windy / vata (BPHS 4.5)",
+      "symbol": "bull (BJ 1.5; Frawley p. 117)",
+      "colour": "white (BPHS 4.8; BJ 1.20)",
+      "direction": "south (BPHS 4.8; BJ 1.11)",
+      "day_night_strength": "night-strong (BPHS 4.8; BJ 1.10)",
+      "rising_mode": "prishtodaya (BPHS 4.8; BJ 1.10; PD 1.8)",
+      "footedness": "quadruped (BPHS 4.8; PD 1.7)",
+      "abode": "villages (BPHS 4.8); a field under water / meadow (PD 1.5)",
+      "other": "long; represents businessmen (BPHS 4.8)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.2",
+        "description": "Plump thighs, large face, engaged in agriculture, happy in middle and later life, fond of young women, liberal, forgiving, enduring, owns cattle, marks on back, face or sides.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.104",
+        "description": "Owns many cows, reveres elders and Brahmanas, fond of learned debate, wandering, fortunate, lustful, calm, few sons.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV p. 26",
+        "description": "Obstinate, proud, ambitious, affectionate; short, stout, square build, large eyes; self-reliant, enduring, magnetic, fond of music and pleasure.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers pp. 117-118",
+        "description": "Stable, enduring, fixed; sense of form and beauty; possessive and materialistic; good memory; values marriage and home; devotional.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "Saturn, 9th and 10th lord (BPHS 34.23-24; LP; HJH; HPA; PVR; Raman, HJH ch. II p. 15) - but Bhavartha Ratnakara (Vrishabha st. 1) denies it"
+      ],
+      "functional_benefics": [
+        "Saturn (all except BR)",
+        "Sun, 4th lord (BPHS 34.23-24 auspicious; HJH; PVR; Laghu Parashari editions differ: auspicious or neutral)",
+        "Mercury, 2nd and 5th lord (BPHS: somewhat auspicious; LP: auspicious; HJH; PVR)",
+        "Mars per HJH only (owner of 7th and 12th)"
+      ],
+      "functional_malefics": [
+        "Jupiter, 8th and 11th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Moon, 3rd lord (BPHS; LP; HJH; HPA; PVR)",
+        "Venus, lagna and 6th lord (BPHS; LP; HPA; PVR); HJH says Venus may be neutral as lagna lord"
+      ],
+      "neutral_or_mixed": [
+        "Mars, 7th and 12th lord: neutral (PVR); little maraka power (Verma); benefic in the 7th (BR st. 4); killer (BPHS)"
+      ],
+      "marakas": [
+        "Jupiter, Venus, the Moon and Mars inflict death (BPHS 34.23-24) [maraka: text predicts danger to life / death]",
+        "Jupiter, Venus and the Moon kill in their periods if they gain maraka power (HPA)",
+        "Verma: classical marakas are Mars and Mercury, but Jupiter, Venus and the Moon kill sooner when linked to them"
+      ],
+      "notes": "Santhanam cites Susloka Sataka that the 6th lordship does not taint Venus for Taurus, but prefers Parasara."
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 23-24",
+        "view": "Jupiter, Venus and the Moon are malefic; Saturn and the Sun auspicious; Saturn causes Raja Yoga; Mercury somewhat auspicious; Jupiter's group and Mars inflict death [maraka: text predicts danger to life / death].",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-5, 8",
+        "view": "Taurus is the face; fixed, female, windy; white, long, quadruped, night-strong, southern, villages and traders, earthy, back-rising, ruled by Venus.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4, 10, 20",
+        "view": "Taurus governs the face; nocturnal and back-rising; colour white.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 2",
+        "view": "Plump thighs, big face, agriculture, happiness in middle and later life, generous, forgiving, enduring, owns cattle.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 104",
+        "view": "Many cows, devoted to elders, fond of disputation, fortunate, lustful, calm, few sons.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Taurus vv. 47-48",
+        "view": "Jupiter, Venus and the Moon inauspicious; Saturn and Mercury auspicious; Saturn alone Rajayogakaraka; Jupiter and others marakas. Editions differ on whether the Sun is auspicious or neutral.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Vrishabha st. 1-15",
+        "view": "Saturn is not a yogakaraka despite owning 9 and 10; the Sun and Mercury give no yoga even in the lagna; Moon in 4th or aspected by Jupiter/Mercury gives yoga; Mars benefic in 7th; Jupiter-Mercury Dhana Yoga spoiled by Mars; wealth in Venus dasa. Raman disagrees on Saturn, siding with Parasara.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II pp. 13-15 and ch. IV p. 26",
+        "view": "Saturn the best benefic and a yogakaraka; Mercury, Mars and Sun benefic; Jupiter, Venus, Moon evil, Venus perhaps neutral. Taurus rising: obstinate, enduring, magnetic, music-loving; nervous trouble after fifty; little joy from children.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "Saturn the most auspicious and alone gives Raja Yoga; Jupiter, Venus and the Moon evil and can kill in their periods.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 117-118",
+        "view": "Taurus types are stable, sensual, possessive, artistic, value marriage and tradition.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "Yogakaraka Saturn; functional benefics Sun, Mercury, Saturn; neutral Mars; malefics Moon, Jupiter, Venus (table layout as printed in the copy read).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Saturn: the author of Bhavartha Ratnakara denies Saturn yogakaraka status for Taurus; Parasara, Laghu Parashari, Raman, PVR all affirm it, and Raman explains the dissent as Saturn granting status without letting it be kept. Venus: malefic in BPHS, LP, HPA, PVR; neutral in HJH; Susloka Sataka (cited by Santhanam) says the 6th lordship does not taint Venus here. Sun: auspicious in BPHS and HJH; neutral in some LP readings. Mars: benefic (HJH), neutral (PVR, Verma), killer (BPHS).",
+    "confidence": "high",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists."
+  },
+  {
+    "id": "rising_sign/gemini",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Gemini"
+    },
+    "summary": "Gemini rising is classically read as a quick, sociable, talkative and pleasure-loving person, good at reading others, fond of music and learning, but restless and changeable. Venus (5th lord) is the one clearly good planet; Mars, Jupiter and the Sun are counted as difficult; there is no single-planet yogakaraka.",
+    "themes": [
+      "intellect and speech",
+      "restlessness",
+      "music and arts",
+      "sociability",
+      "changeability"
+    ],
+    "common_outcomes": [
+      "Clever, quick-witted, fond of reading, writing and talk (HJH; Frawley).",
+      "Liking for music and dance (PD 9.3); voluptuous and fond of relatives (JP 9.105).",
+      "Skilled at reading others' thoughts (PD 9.3).",
+      "Nervous, restless and changeable; can exhaust itself (HJH; Frawley)."
+    ],
+    "rare_outcomes": [
+      "Jataka Parijata 9.105: exceedingly prosperous, contemplative and philosophical, but ailing.",
+      "Bhavartha Ratnakara (Mithuna st. 10): Mercury in the 11th brings misunderstandings with the eldest brother.",
+      "Frawley p. 118: tends to marry more than once."
+    ],
+    "by_area": {
+      "personality": "Dark eyes, curly hair, raised nose, home-keeping, playful (PD 9.3); compassionate, worthy, contemplative, liked by the good (JP 9.105); wavering mind, ingenious, vivacious, inconsistent (HJH); restless, adaptable, articulate, can be unreliable or tricky (Frawley p. 118).",
+      "career": "Experts in mechanical sciences, conversation and literature, best in active work (HJH); writers, journalists, secretaries, programmers, scientists (Frawley p. 118).",
+      "finance": "Venus, Mars and the Moon in the 2nd give wealth in Venus dasa (BR Mithuna st. 2); the Moon and Mars in the 11th with Saturn in the 9th give strong Dhana Yoga (st. 8); Mars and Saturn in the 2nd with the Moon in the 8th lose wealth in their periods (st. 5-6).",
+      "health": "Ailing (JP 9.105); prone to sudden nervous breakdown (HJH); weak but active, can be hypersensitive (HJH; Frawley).",
+      "relationships": "Sporting with women (PD 9.3); voluptuous (JP 9.105); should be careful with the opposite sex (HJH); mobile in relationships, may marry more than once (Frawley p. 118).",
+      "family": "Fond of relatives (JP 9.105); home-keeping (PD 9.3); misunderstanding with the eldest brother if Mercury is in the 11th (BR Mithuna st. 10).",
+      "spirituality": "Knows the real nature of the world and spirit, contemplative (JP 9.105); can become quite spiritual once seeking inner knowledge (Frawley p. 119)."
+    },
+    "strengtheners": [
+      "Venus with Mercury gives Raja Yoga (LP Gemini notes; HPA); Venus with Saturn in good signs gives a distinguished career (HPA).",
+      "The Sun and Mercury in the 3rd make Mercury give yoga in its period (BR Mithuna st. 1).",
+      "Saturn's 9th lordship (moolatrikona) outweighs its 8th lordship (Santhanam's notes on BPHS 34.2-7); Saturn-Mercury links give Raja Yoga (Verma).",
+      "Santhanam suggests a Saturn-Jupiter exchange between the 9th and 10th could be favourable for Gemini (his own view, note on BPHS 34.25-26).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter and Saturn together give the same poor result as for Aries (BPHS 34.25-26; LP; HPA).",
+      "Mars, 6th and 11th lord, is the most malefic (HJH; Santhanam).",
+      "Jupiter as owner of two kendras (7th and 10th) carries kendradhipatya dosha and maraka status (Verma's LP notes).",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "Gemini is a biped (human) sign, which Brihat Jataka 1.17 counts as strong when it is the lagna. For Gemini, Jupiter owns two angles, so the classical 'benefic owning angles' blemish falls heavily on it.",
+    "attributes": {
+      "lord": "Mercury",
+      "element": "air (BPHS 4.9: airy)",
+      "modality": "dual / dvisvabhava (BPHS 4.5; PD 1.9)",
+      "gender": "male, odd, cruel sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "arms (BPHS 4.4); neck, upper chest and shoulders (BJ 1.4); breast (PD 1.4); lower neck and shoulders (Frawley p. 118)",
+      "dosha_temperament": "mixed - all three doshas (BPHS 4.5)",
+      "symbol": "a man and a woman holding a mace and a lute (BPHS 4.9; BJ 1.5)",
+      "colour": "grass-green (BPHS 4.9); parrot-green (BJ 1.20)",
+      "direction": "west (BPHS 4.9; BJ 1.11)",
+      "day_night_strength": "night-strong (BPHS 4.9; BJ 1.10)",
+      "rising_mode": "rises with its head (BPHS 4.9; BJ 1.10); ubhayodaya per PD 1.8 and some (BJ 1.10 notes)",
+      "footedness": "biped / human (BPHS 4.9; PD 1.7)",
+      "abode": "villages (BPHS 4.9); bedroom (PD 1.5)",
+      "other": "even body (BPHS 4.9)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.3",
+        "description": "Black eyes, curly hair, fond of women, reads others' minds, raised nose, likes music and dance, stays at home.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.105",
+        "description": "Voluptuous, fond of relatives, compassionate, very prosperous, worthy, knows the world and the spirit, contemplative, liked by the virtuous, handsome, but ailing.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV p. 26",
+        "description": "Wavering, ingenious, quick-witted, nervous, restless; tall, straight, active; clever talker and writer; can be deceptive if malefics are in Gemini.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers pp. 118-119",
+        "description": "Nervous, adaptable, fine intellect and speech, speculative, mobile in relationships, the most changeable sign.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "none by single lordship (PVR); Venus is the planet called most beneficial (BPHS; LP; HJH; HPA)"
+      ],
+      "functional_benefics": [
+        "Venus, 5th and 12th lord (BPHS 34.25-26: the only auspicious planet; LP; HJH; HPA; PVR)"
+      ],
+      "functional_malefics": [
+        "Mars, 6th and 11th lord (BPHS; LP; HJH: most malefic; HPA; PVR)",
+        "Jupiter, 7th and 10th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Sun, 3rd lord (BPHS; LP; HJH; HPA; PVR)"
+      ],
+      "neutral_or_mixed": [
+        "Moon, 2nd lord (HJH; PVR neutral)",
+        "Mercury, lagna and 4th lord (HJH; PVR neutral)",
+        "Saturn, 8th and 9th lord (PVR neutral; Santhanam and Frawley: favourable because the 9th is its moolatrikona)"
+      ],
+      "marakas": [
+        "The Moon is the prime killer but depends on association (BPHS 34.25-26) [maraka: text predicts danger to life / death]",
+        "Other LP readings and HPA say the Moon will not kill; BR Mithuna st. 7: the Moon as 2nd lord does not become a maraka",
+        "Saturn is not able to kill (LP, Verma's reading)",
+        "Jupiter as 7th lord is a maraka (Verma)"
+      ],
+      "notes": "Frawley p. 161 prints 'Saturn for Gemini and Libra' among single-planet Raja Yoga givers; Saturn owns the 8th and 9th for Gemini (not an angle), so this looks like a misprint."
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 25-26",
+        "view": "Mars, Jupiter and the Sun malefic; Venus the only auspicious planet; Jupiter-Saturn as for Aries; the Moon is the prime killer but acts through association [maraka: text predicts danger to life / death].",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-5, 9",
+        "view": "Gemini is the arms; dual, male, mixed temperament; head-rising, a couple with mace and lute, western, airy, biped, night-strong, villages, grass-green, Mercury.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4-5, 10, 17, 20",
+        "view": "Gemini governs neck, upper chest and shoulders; a man and woman with harp and mace; nocturnal but head-rising; green.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 3; Phaladeepika 1 (tr. V. Subrahmanya Sastri) v. 8",
+        "view": "Black eyes, curly hair, reads thoughts, music and dance, home-loving; Gemini rises both ways (ubhayodaya).",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 105",
+        "view": "Voluptuous, kind, prosperous, contemplative, handsome but ailing.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Gemini vv. 49-50",
+        "view": "Mars, Jupiter and the Sun evil; Venus alone auspicious; Jupiter-Saturn as for Aries; Saturn cannot kill. Variant readings put the Moon among the evil planets or say the Moon does not kill.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Mithuna st. 1-10",
+        "view": "Sun-Mercury in the 3rd gives yoga in Mercury dasa; several Dhana Yogas involving Mars, Moon, Saturn; the Moon as 2nd lord is not a maraka; Mercury in the 11th troubles the eldest brother.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II p. 13 and ch. IV p. 26",
+        "view": "Venus the most beneficial; Mars most malefic; Jupiter and Sun evil; Moon and Mercury neutral. Gemini rising: quick-witted, restless, literary, mechanical aptitude.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "Mars, Jupiter and Sun evil; Venus most beneficial; Venus with Saturn in good signs gives a famous career; Venus and Mercury give Raja Yoga; the Moon will not kill though a maraka.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 118-119, 159-160",
+        "view": "Gemini types are nervous, articulate and changeable; for Gemini, Saturn's 9th (moolatrikona) lordship outweighs its 8th; Venus as 5th and 12th lord mainly gives 5th house results.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "No yogakaraka; benefic Venus; neutrals Moon, Mercury, Saturn; malefics Sun, Mars, Jupiter.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "The Moon as maraka: BPHS calls it the prime killer; Bhavartha Ratnakara, HPA and some Laghu Parashari readings say it does not kill. Saturn: neutral (PVR), favourable (Santhanam, Frawley), unable to kill (LP); BPHS gives no direct verdict beyond the Jupiter-Saturn rule. Mercury and the Moon are neutral in HJH and PVR. Rising mode: BPHS and Brihat Jataka make Gemini head-rising; Phaladeepika makes it rise both ways.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists."
+  },
+  {
+    "id": "rising_sign/cancer",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Cancer"
+    },
+    "summary": "Cancer rising is classically read as sensitive, home- and family-centred, fond of good food, clothes and comfort, intelligent and frugal, with strong emotions. Mars (5th and 10th lord) is the yogakaraka; Jupiter and the Moon are also good; Venus and Mercury are counted as difficult.",
+    "themes": [
+      "home and family",
+      "sensitivity and emotion",
+      "frugality",
+      "intuition",
+      "property"
+    ],
+    "common_outcomes": [
+      "Sensitive, emotional, intuitive and receptive (HJH; Frawley).",
+      "Attached to home, family and friends; many houses or dwells in others' homes (PD 9.4; JP 9.105; HJH; Frawley).",
+      "Intelligent, industrious and frugal, sometimes to miserliness (PD 9.4; HJH).",
+      "Fond of water and of good food, clothes and ornaments (PD 9.4; JP 9.105)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 9.4: henpecked; short; crooked in views.",
+      "Bhavartha Ratnakara (Karkataka st. 6-7): Mercury, Venus and the Moon in the 11th, Jupiter in the lagna and Saturn in the 10th gives a kingly Maharaja Yoga.",
+      "Raman: often disappointed in love (HJH ch. IV)."
+    ],
+    "by_area": {
+      "personality": "Intelligent, quick-walking, crooked in views (PD 9.4); soft voice, a mind inclined to fraud yet virtuous (JP 9.105); extremely sensitive, inquisitive, restless, frugal, honest and unbending, loves justice (HJH); friendly, caring, nurturing, may be shy or dependent (Frawley p. 119).",
+      "career": "Suits occupations of a fluctuating nature (HJH); can gain social or political influence through sensitivity to the masses (Frawley p. 119).",
+      "finance": "Rich, with many houses (PD 9.4); Mars, Jupiter and the Moon in the 2nd with Sun and Venus in the 5th give wealth (BR Karkataka st. 4); Sun and Mars in the 10th make one rich (st. 8).",
+      "health": "Fleshy neck, short stature, bulky (PD 9.4; JP 9.105).",
+      "relationships": "Henpecked (PD 9.4); disappointments in love affairs (HJH); values intimate exchange of feeling (Frawley).",
+      "family": "Surrounded by friends, few sons (PD 9.4); deeply attached to family and children (HJH); loves home and family, sometimes narrowly (Frawley p. 119).",
+      "spirituality": "Psychic tendencies (HJH); devotional bent when opening to the spiritual life (Frawley p. 119)."
+    },
+    "strengtheners": [
+      "Mars, owner of the 5th and 10th, gives full yoga (BPHS 34.27-28; LP; HJH; HPA; PVR; BR Karkataka st. 2).",
+      "Mars with Jupiter gives Raja Yoga (LP; HPA); Mars with the Moon or Jupiter in houses 1, 5, 9 or 10 gives reputation (HPA).",
+      "The Moon in the lagna with Jupiter, or with Mars in Capricorn, Saturn in Libra or the Sun in Aries gives Raja Yoga (BR Karkataka st. 10-13).",
+      "Venus in the 12th or 2nd gives yoga (BR Karkataka st. 3); Mercury and Venus in the 12th give Raja Yoga in Venus dasa (st. 9); Mercury and Venus in the 5th make Mercury give yoga (st. 5).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter, though 9th lord, gives no special yoga; Raman says its period mixes career gains with debts, disease and enemies (BR Karkataka st. 1 and notes).",
+      "The Sun's dasa brings loss of wealth if the Moon and Mars are in the lagna, the Sun and Mercury in the 4th and Venus in the 11th (BR Karkataka st. 14-15).",
+      "Jupiter with Venus, or Jupiter with Saturn, are spoilt combinations (Verma).",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "For movable lagnas the 11th lord is a strong malefic: Venus for Cancer (Santhanam's note on BPHS 34.27-28). The Moon as lagna lord is the least of the three benefics (Mars, Jupiter, Moon) in Santhanam's ranking.",
+    "attributes": {
+      "lord": "Moon",
+      "element": "water (BPHS 4.10-11: watery)",
+      "modality": "movable / chara (BPHS 4.5; PD 1.9)",
+      "gender": "female, even, gentle sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "heart (BPHS 4.4; BJ 1.4; PD 1.4); chest (Frawley p. 119)",
+      "dosha_temperament": "phlegmatic / kapha (BPHS 4.5)",
+      "symbol": "crab (BJ 1.5; Frawley p. 119)",
+      "colour": "pale red (BPHS 4.10-11); pink (BJ 1.20)",
+      "direction": "north (BJ 1.11: Cancer and its trines)",
+      "day_night_strength": "night-strong (BPHS 4.10-11; BJ 1.10)",
+      "rising_mode": "prishtodaya (BPHS 4.10-11; BJ 1.10; PD 1.8)",
+      "guna": "sattva (BPHS 4.10-11)",
+      "footedness": "many-footed / centipede (BPHS 4.10-11); watery sign (BJ 1.5 notes; PD 1.7)",
+      "abode": "forests (BPHS 4.10-11); a chasm with water (PD 1.5)",
+      "other": "bulky body; represents Brahmins (BPHS 4.10-11)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.4",
+        "description": "Henpecked, fleshy neck, many friends and houses, rich, short, crooked in views, quick in walking, intelligent, fond of water, few sons.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.105",
+        "description": "Sumptuous food, clothes and jewels, soft voice, a mind inclined to fraud yet virtuous, bulky, likes to live in others' houses.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV pp. 26-27",
+        "description": "Sensitive, inquisitive, restless, musical; middle-sized, full face, fair; intelligent, frugal, family-attached, honest, intuitive, adaptable.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers p. 119",
+        "description": "Open, caring, nurturing, popular, emotional, attached to home, imaginative, devotional.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "Mars, 5th and 10th lord (BPHS 34.27-28; LP: Mars alone; HJH ch. II p. 15; HPA; PVR; BR Karkataka st. 2; Frawley p. 161)"
+      ],
+      "functional_benefics": [
+        "Mars (all)",
+        "Jupiter, 9th and 6th lord (BPHS; LP: somewhat auspicious; HJH; HPA; PVR)",
+        "Moon, lagna lord (BPHS; PVR)"
+      ],
+      "functional_malefics": [
+        "Venus, 4th and 11th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Mercury, 3rd and 12th lord (BPHS; LP; HJH; HPA; PVR)"
+      ],
+      "neutral_or_mixed": [
+        "Sun, 2nd lord (HJH; PVR neutral)",
+        "Saturn, 7th and 8th lord (HJH; PVR neutral)",
+        "Moon (HJH neutral, as lagna lord)"
+      ],
+      "marakas": [
+        "Saturn and the Sun are killers acting by association (BPHS 34.27-28) [maraka: text predicts danger to life / death]",
+        "The Sun does not kill; Venus, Mercury and other evil planets become marakas (LP; HPA)",
+        "Death in Jupiter dasa if the Sun and Mars are in the 10th (BR Karkataka st. 8)"
+      ],
+      "notes": "Saturn is best placed in Capricorn with Mars or the Moon (Santhanam's note)."
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 27-28",
+        "view": "Venus and Mercury malefic; Mars, Jupiter and the Moon auspicious; Mars gives a full yoga; Saturn and the Sun are killers acting by association [maraka: text predicts danger to life / death].",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-5, 10-11",
+        "view": "Cancer is the heart; movable, female, phlegmatic; pale red, forest-dwelling, Brahmin, night-strong, many-footed, bulky, sattvic, watery, back-rising, ruled by the Moon.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4-5, 10, 20",
+        "view": "Cancer governs the heart; a watery sign (some call it centipede); nocturnal, back-rising; pink.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 4",
+        "view": "Henpecked, fleshy neck, many friends and houses, rich, short, crooked views, intelligent, fond of water, few sons.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 105",
+        "view": "Fine food, clothes and jewels, soft voice, a mind inclined to fraud but virtuous, bulky, lives in others' houses.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Cancer vv. 51-53",
+        "view": "Venus and Mercury evil; Mars and Jupiter auspicious; Mars alone yogakaraka; the Sun does not kill; Jupiter-Mars gives Raja Yoga. A variant counts Venus, Saturn, Mercury, Jupiter and the Sun as inauspicious.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Karkataka st. 1-16",
+        "view": "Jupiter gives no special yoga; Mars is yogakaraka; Venus is good in the 12th or 2nd; many Moon-in-lagna Raja Yogas; Sun and Mars in the 10th give wealth but death in Jupiter dasa.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II p. 13 and ch. IV pp. 26-27",
+        "view": "Jupiter and Mars benefic, Mars better; Venus and Mercury evil; Saturn, Moon, Sun neutral. Cancer rising: sensitive, frugal, family-loving, intuitive.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "Venus and Mercury evil; Jupiter and Mars good; Mars Rajayogakaraka; Mars-Jupiter Raja Yoga; the Sun does not kill.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 119, 161",
+        "view": "Cancer types are nurturing, emotional and popular; Mars is a single-planet Raja Yoga giver for Cancer.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "Yogakaraka Mars; benefics Moon, Mars, Jupiter; neutrals Sun, Saturn; malefics Mercury, Venus.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Jupiter: auspicious as 9th lord in BPHS, LP, HJH, HPA, PVR, but Bhavartha Ratnakara says it gives no special yoga (6th lordship), and Raman's notes report mixed periods. Marakas: BPHS names the Sun and Saturn (by association); LP and HPA say the Sun does not kill and point to Venus and Mercury. The Moon as lagna lord: auspicious (BPHS, PVR) vs neutral (HJH).",
+    "confidence": "high",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists."
+  },
+  {
+    "id": "rising_sign/leo",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Leo"
+    },
+    "summary": "Leo rising is classically read as proud, brave and commanding, quick to anger, drawn to forests, hills and travel, and able to overcome enemies and charm rulers. Mars (4th and 9th lord) is the yogakaraka and the best planet; the Sun and Jupiter are also good; Mercury, Venus and Saturn are counted as difficult.",
+    "themes": [
+      "pride and authority",
+      "courage",
+      "temper",
+      "ambition",
+      "leadership"
+    ],
+    "common_outcomes": [
+      "Proud, powerful and brave (PD 9.5; JP 9.106; Frawley).",
+      "Angry at trifles (PD 9.5).",
+      "Overcomes enemies and wins favour with rulers (JP 9.106).",
+      "Ambitious, with ambitions that often stay partly unfulfilled (HJH)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 9.5: devoted to the mother; drawn to forests and hills.",
+      "Jataka Parijata 9.106: repairs to foreign places; few sons.",
+      "Bhavartha Ratnakara (Simha st. 7): Mars and Saturn in the 12th make Saturn give yoga in its period."
+    ],
+    "by_area": {
+      "personality": "Reddish eyes, large chin, broad face, arrogant, powerful, angry at trifles, firm-minded (PD 9.5); brave, charms kings, overcomes foes (JP 9.106); ambitious, warm-hearted, sincere, tolerant, forgiving, but lacking tact (HJH); proud, dramatic, noble-hearted, wants recognition (Frawley pp. 119-120).",
+      "career": "Charms kings (JP 9.106); often struggles and is misunderstood by superiors, ambitions partly unrealised (HJH); likes to shine and lead (Frawley p. 120).",
+      "finance": "The Sun, Mercury and Mars together, or the Sun, Jupiter and Mercury together, give good wealth; the Sun and Mercury give some fortune (BR Simha st. 1-3); the Sun, Mercury and Mars in the lagna give wealth in Mercury dasa (st. 6). Frawley: Mercury as 2nd and 11th lord is a double significator of income (p. 160).",
+      "health": "Bilious constitution, nervous troubles (HJH).",
+      "relationships": "Longs for women (JP 9.106); does not always do well in partnership, may dominate partners (Frawley p. 120).",
+      "family": "Few sons (JP 9.106); obedient to the mother (PD 9.5); may hold children too tightly (Frawley p. 120).",
+      "spirituality": "Orthodox in religion yet tolerant, some philosophical knowledge (HJH); can develop greatness of soul when pride is controlled (Frawley p. 120)."
+    },
+    "strengtheners": [
+      "Mars, owning the 4th and 9th, is the best planet (BPHS 34.29-30; LP; HJH; HPA; PVR; Frawley).",
+      "Jupiter with Mars produces Raja Yoga in good houses (LP; HPA); Sun with Mars is the best combination (Verma).",
+      "Venus is good in the 3rd (BR Simha st. 5).",
+      "Santhanam reports from experience that the Moon can still act as a yogakaraka for Leo (note on BPHS 34.29-30).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter with Venus does not give good results and can destroy yoga (BPHS 34.29-30; LP; HPA; BR Simha st. 4).",
+      "Venus in the 10th is bad and gives no yoga (BR Simha st. 5).",
+      "Bhavartha Ratnakara (Kumbha st. 1): for Leo the mere combination of the 9th and 10th lords (Mars and Venus) gives no yoga; Raman disagrees from practice.",
+      "Saturn, 6th and 7th lord and enemy of the Sun, is adverse (Santhanam; Verma).",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "Raman (HJH) and BPHS make Mars the top planet for Leo because it owns both an angle and a trine; the Sun is the third-ranked benefic after Mars and Jupiter (Santhanam).",
+    "attributes": {
+      "lord": "Sun",
+      "element": "fire (Frawley p. 119: fixed fire; BPHS 4.12 does not state an element)",
+      "modality": "fixed / sthira (BPHS 4.5; PD 1.9)",
+      "gender": "male, odd, cruel sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "stomach (BPHS 4.4; BJ 1.4); belly (PD 1.4); solar plexus (Frawley p. 119)",
+      "dosha_temperament": "bilious / pitta (BPHS 4.5)",
+      "symbol": "lion (BJ 1.5; Frawley p. 119)",
+      "colour": "white (BPHS 4.12); pale white (BJ 1.20)",
+      "direction": "east (BPHS 4.12; BJ 1.11)",
+      "day_night_strength": "day-strong (BPHS 4.12; BJ 1.10)",
+      "rising_mode": "rises with its head (BPHS 4.12; BJ 1.10; PD 1.8)",
+      "guna": "sattva (BPHS 4.12)",
+      "footedness": "quadruped (BPHS 4.12; PD 1.7)",
+      "abode": "forests (BPHS 4.12); mountain (PD 1.5)",
+      "other": "royal sign; large body (BPHS 4.12)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.5",
+        "description": "Reddish eyes, large chin, broad face, arrogant, powerful, angry at trifles, fond of forests and hills, obedient to the mother, firm-minded.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.106",
+        "description": "Few sons, hostile to the complacent, brave, charms kings, overcomes foes, longs for women, goes abroad.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV p. 27",
+        "description": "Ambitious, warm-hearted, artistic; magnetic, broad shoulders, bilious; adaptable, sincere, tolerant, often struggling and misunderstood by superiors.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers pp. 119-120",
+        "description": "Strong sense of self, proud, bold, dramatic, wants attention, noble heart, can become dejected when unsuccessful.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "Mars, 4th and 9th lord (BPHS 34.29-30; LP; HJH; HPA; PVR; Frawley p. 161)"
+      ],
+      "functional_benefics": [
+        "Mars (all)",
+        "Jupiter, 5th and 8th lord (BPHS; PVR; Verma prefers the BPHS reading; HJH neutral)",
+        "Sun, lagna lord (BPHS; HJH; PVR)"
+      ],
+      "functional_malefics": [
+        "Mercury, 2nd and 11th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Venus, 3rd and 10th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Saturn, 6th and 7th lord (BPHS; LP; HPA; PVR; HJH neutral)"
+      ],
+      "neutral_or_mixed": [
+        "Moon, 12th lord (HJH; PVR neutral)",
+        "Jupiter and Saturn neutral in HJH"
+      ],
+      "marakas": [
+        "Saturn and the Moon are killers acting by association (BPHS 34.29-30) [maraka: text predicts danger to life / death]",
+        "Mercury has maraka qualities but does not kill by himself (LP; a variant names Saturn instead)",
+        "Saturn does not kill when a maraka, but Mercury and other evil planets do (HPA)"
+      ],
+      "notes": ""
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 29-30",
+        "view": "Mercury, Venus and Saturn malefic; Mars, Jupiter and the Sun auspicious; Jupiter-Venus gives nothing good; Saturn and the Moon are killers by association [maraka: text predicts danger to life / death].",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-5, 12",
+        "view": "Leo is the stomach; fixed, male, bilious; Sun-ruled, sattvic, quadruped, royal, forest, head-rising, large white body, eastern, day-strong.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4, 10, 20",
+        "view": "Leo governs the stomach; diurnal, head-rising; pale white.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 5",
+        "view": "Reddish eyes, big chin, broad face, arrogant, powerful, angry at trifles, likes forests and hills, obeys the mother, firm.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 106",
+        "view": "Few sons, brave, charms kings, conquers foes, longs for women, travels abroad.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Leo vv. 54-56",
+        "view": "Saturn, Mercury and Venus inauspicious; Mars only auspicious; Jupiter-Venus gives nothing; Mars-Jupiter especially good; Mercury has maraka qualities but does not kill alone. Verma prefers the BPHS reading that makes Mars, Jupiter and the Sun auspicious.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Simha st. 1-7; Kumbha st. 1",
+        "view": "Sun, Mercury, Mars and Jupiter combinations give wealth; Jupiter and Venus destroy yoga; Venus good in the 3rd, bad in the 10th; Saturn gives yoga with Mars in the 12th; 9th-10th lord combination alone gives no yoga for Leo.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II pp. 13-15 and ch. IV p. 27",
+        "view": "Mars and Sun benefic, Mars most; Mercury and Venus malefic; Jupiter, Moon, Saturn neutral. Leo rising: ambitious, warm, tolerant, often frustrated.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "Mars the most auspicious; Venus-Jupiter no Raja Yoga; Jupiter-Mars in good houses gives Raja Yoga; Saturn, Venus, Mercury evil; Saturn does not kill as maraka but Mercury does.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 119-120, 158-161",
+        "view": "Leo types are proud, dramatic and noble-hearted; Saturn's lordship is highly malefic for Leo; Mercury as 2nd and 11th lord is good for income; Mars is a single-planet Raja Yoga giver.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "Yogakaraka Mars; benefics Sun, Mars, Jupiter; neutral Moon; malefics Mercury, Venus, Saturn.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Jupiter: auspicious in BPHS and PVR; neutral in HJH; omitted from the good list in some LP readings because of its 8th lordship. Saturn: malefic in BPHS, LP, PVR, Frawley; neutral in HJH. Marakas: BPHS names Saturn and the Moon; LP and HPA point to Mercury and say Saturn does not kill. 9th+10th lord combination (Mars-Venus): Bhavartha Ratnakara denies yoga; Raman and Verma allow it in good placements.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists."
+  },
+  {
+    "id": "rising_sign/virgo",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Virgo"
+    },
+    "summary": "Virgo rising is classically read as modest, truthful, kind-spoken and learned, skilled in many kinds of work, discriminating and prudent, with few children. Mercury and Venus are the good planets and together give yoga; Mars, Jupiter and the Moon are counted as difficult; there is no single-planet yogakaraka.",
+    "themes": [
+      "learning and skill",
+      "modesty",
+      "discrimination",
+      "service",
+      "nervous sensitivity"
+    ],
+    "common_outcomes": [
+      "Learned and skilled in various works, interprets scriptures (PD 9.6; JP 9.106).",
+      "Truthful and kind in speech, modest (PD 9.6; JP 9.106).",
+      "Prudent, methodical, discriminating, economical (HJH; Frawley).",
+      "Few children (PD 9.6)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 9.6: drooping shoulders and arms; gains respect through others' houses and wealth.",
+      "Bhavartha Ratnakara (Kanya st. 3-4): the Moon and Venus in the 7th, Jupiter in the 11th and the Sun in Aries give several wives in the periods of Jupiter and Venus (Raman: read today as a romantic life).",
+      "Raman: may suffer nervous breakdown or paralysis when Virgo is afflicted (HJH)."
+    ],
+    "by_area": {
+      "personality": "Truthful, kind-spoken, modest look (PD 9.6); skilled, prosperous, talented, sound judgment, fond of relations, sincere (JP 9.106); impulsive, emotional, fond of learning and the arts, lacking self-confidence, methodical, shrewd (HJH); discriminating, exacting, orderly, service-minded (Frawley pp. 120-121).",
+      "career": "Physical and chemical sciences, authorship (HJH); teachers, doctors, healers, craftsmen, actors (Frawley p. 120); skilled in various works (JP 9.106).",
+      "finance": "Respectability through others' houses and wealth (PD 9.6); prosperous (JP 9.106); the Sun linked to Venus or the Moon gives wealth in Sun dasa, followed by loss in Venus dasa (BR Kanya st. 1-2); Saturn in the 11th gives good results in its period (st. 6).",
+      "health": "Nervous breakdown or paralysis if afflicted (HJH); weakest physically of the signs, nervous digestion, chronic disorders (Frawley p. 121; Virgo shares sixth-house traits, p. 162).",
+      "relationships": "Fond of sexual enjoyment (PD 9.6); delights in the company of women (JP 9.106); shy when young (Frawley p. 121).",
+      "family": "Very few children (PD 9.6); fond of relations (JP 9.106).",
+      "spirituality": "Knows the meaning of the shastras (PD 9.6); suited to philosophies of purity and detachment such as Vedanta (Frawley p. 121)."
+    },
+    "strengtheners": [
+      "Mercury with Venus produces yoga (BPHS 34.31-32; LP; HPA); Verma ranks Venus in the 10th with Mercury in the 9th as the best form.",
+      "Jupiter and Venus in the 4th give yoga in their periods (BR Kanya st. 5); Raman finds Venus dasa better than Jupiter's.",
+      "The Sun does well when joined to good planets in good houses, e.g. with Mercury in the 10th (Santhanam's note).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter rules two angles (4th and 7th) and is a strong maraka in the 7th (Verma's LP note).",
+      "Saturn's 6th lordship (moolatrikona) makes it less reliable despite owning the 5th (Santhanam; Frawley p. 160).",
+      "Venus loses its good results if linked with the Sun (BR Kanya st. 2 and Raman's note).",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "Virgo is a biped sign, strong as lagna (Brihat Jataka 1.17). Mercury rules both the lagna and the 10th, so its strength matters doubly.",
+    "attributes": {
+      "lord": "Mercury",
+      "element": "earth (Frawley p. 120: mutable earth; BPHS 4.13-14 does not state an element)",
+      "modality": "dual / dvisvabhava (BPHS 4.5; PD 1.9)",
+      "gender": "female, even, gentle sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "hip (BPHS 4.4; PD 1.4); navel (BJ 1.4 as translated); intestines (Frawley p. 120)",
+      "dosha_temperament": "windy / vata (BPHS 4.5)",
+      "symbol": "a maiden in a boat holding corn and fire (BPHS 4.13-14; BJ 1.5)",
+      "colour": "variegated (BPHS 4.13-14); piebald (BJ 1.20)",
+      "direction": "south (BPHS 4.13-14; BJ 1.11)",
+      "day_night_strength": "day-strong (BPHS 4.13-14; BJ 1.10)",
+      "rising_mode": "rises with its head (BPHS 4.13-14; BJ 1.10; PD 1.8)",
+      "guna": "tamas (BPHS 4.13-14)",
+      "footedness": "biped / human (BPHS 4.13-14; PD 1.7)",
+      "abode": "hills (BPHS 4.13-14); land with water and corn (PD 1.5)",
+      "other": "medium build; represents the business community (BPHS 4.13-14)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.6",
+        "description": "Drooping shoulders and arms, respected through others' houses and wealth, truthful, kind speech, modest look, fond of pleasure, knows the shastras, few children.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.106",
+        "description": "Skilled in many works, prosperous, talented, sound judgement, enjoys women's company, fond of relations, sincere.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV p. 27",
+        "description": "Impulsive, emotional, studious, artistic, methodical; middle-sized, prominent chest; prudent, diplomatic, shrewd, speculative; nervous trouble if afflicted.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers pp. 120-121",
+        "description": "Good intellect and language, practical knowledge, healers and craftsmen, physically delicate, discriminating and service-oriented.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "none by single lordship (PVR); Mercury with Venus gives yoga (BPHS 34.31-32; LP: both called yogakarakas; HPA)"
+      ],
+      "functional_benefics": [
+        "Venus, 2nd and 9th lord (BPHS; LP: only Venus; HJH: alone the best; HPA; PVR)",
+        "Mercury, lagna and 10th lord (BPHS; LP notes; PVR; HJH neutral)"
+      ],
+      "functional_malefics": [
+        "Mars, 3rd and 8th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Jupiter, 4th and 7th lord (BPHS; LP; HJH; PVR)",
+        "Moon, 11th lord (BPHS; LP; HJH; HPA; PVR)"
+      ],
+      "neutral_or_mixed": [
+        "Sun, 12th lord: by association (BPHS; HJH; PVR neutral)",
+        "Saturn, 5th and 6th lord: not mentioned by Parasara; mixed (Santhanam; HJH and PVR neutral; Frawley p. 159)"
+      ],
+      "marakas": [
+        "Venus is also a killer (BPHS 34.31-32) [maraka: text predicts danger to life / death]",
+        "Venus does not kill by itself; Mars and others become marakas (LP, Verma's reading); a variant says the Sun does not kill",
+        "The Sun does not kill even as maraka; Venus, the Moon and Jupiter kill when they have maraka power (HPA)",
+        "Mars as 8th lord can also kill (Santhanam's note)"
+      ],
+      "notes": ""
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 31-32",
+        "view": "Mars, Jupiter and the Moon malefic; Mercury and Venus auspicious; Venus-Mercury gives yoga; Venus is also a killer [maraka: text predicts danger to life / death]; the Sun acts by association.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-5, 13-14",
+        "view": "Virgo is the hip; dual, female, windy; hill-dwelling, day-strong, head-rising, medium build, biped, southern, maiden with grain and fire, traders, variegated, tamasic, Mercury.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4-5, 10, 20",
+        "view": "Virgo governs the navel region (as translated); a woman in a boat with corn and fire; diurnal, head-rising; piebald.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 6",
+        "view": "Drooping shoulders, respected through others' wealth, truthful, gentle speech, modest, knows the shastras, few children.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 106",
+        "view": "Skilled in many works, prosperous, talented, judicious, fond of relations, sincere.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Virgo vv. 57-58",
+        "view": "Mars, Jupiter and the Moon evil; only Venus auspicious; Venus and Mercury yogakarakas; Venus does not kill; Mars and others are marakas. Variant: Mercury-Venus gives Raja Yoga and the Sun does not kill.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Kanya st. 1-6",
+        "view": "Sun linked to Venus or Moon gives wealth in Sun dasa; loss in Venus dasa; Jupiter and Venus in the 4th give yoga; Saturn in the 11th gives good results.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II p. 13 and ch. IV p. 27",
+        "view": "Venus alone the best benefic; Moon, Mars, Jupiter malefic; Saturn, Sun, Mercury neutral. Virgo rising: studious, methodical, shrewd, nervous.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "Venus alone most powerful; Mercury and Venus together give Raja Yoga; Mars and the Moon evil; the Sun does not kill; Venus, Moon and Jupiter kill when given maraka power.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 120-121, 159-162",
+        "view": "Virgo types are discriminating, practical, service-minded and physically sensitive; Saturn as 5th and 6th lord is mixed; Virgo carries some sixth-house tendency to disease.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "No yogakaraka; benefics Mercury, Venus; neutrals Sun, Saturn; malefics Moon, Mars, Jupiter.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Venus as maraka: BPHS says Venus is also a killer; LP (Verma's reading) says Venus does not kill by itself; HPA lists Venus among planets that kill when empowered. Sun: BPHS and LP variants say it acts by association or does not kill. Mercury: benefic in BPHS and PVR, neutral in HJH (owning two angles). Saturn: not ruled on by Parasara; neutral to mixed in moderns.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists."
+  },
+  {
+    "id": "rising_sign/libra",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Libra"
+    },
+    "summary": "Libra rising is classically read as good-looking, refined and fond of pleasure, clever in trade and argument, honoured by rulers, yet sometimes timid or irresolute; Raman and Frawley stress idealism, love of justice and influence over people. Saturn (4th and 5th lord) is the yogakaraka; Mercury is also good; Jupiter, the Sun and Mars are counted as difficult; Venus is neutral.",
+    "themes": [
+      "balance and justice",
+      "beauty and pleasure",
+      "trade and negotiation",
+      "idealism",
+      "public influence"
+    ],
+    "common_outcomes": [
+      "Handsome, with a lovely face and eyes (JP 9.107; HJH).",
+      "Clever in trade, impartial in argument (PD 9.7).",
+      "Honoured by rulers; learned (JP 9.107).",
+      "Idealistic, loves justice and order, can sway masses (HJH; Frawley)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 9.7: has two names.",
+      "Jataka Parijata 9.107: front teeth set apart; irresolute and very timid.",
+      "Bhavartha Ratnakara (Thula st. 15): Saturn, Jupiter, Mercury and Mars in Aquarius with Rahu in the 10th give pilgrimages in Rahu dasa."
+    ],
+    "by_area": {
+      "personality": "Lean, tall, wandering, brave yet merciless, impartial in argument (PD 9.7); calm and pensive but irresolute and timid (JP 9.107); idealistic, quick-witted, forceful, keen observer, not easily moved by reason, loves truth (HJH); sense of harmony and justice, reformer, idealist, charismatic (Frawley p. 121).",
+      "career": "Clever in trading (PD 9.7); political leaders and religious reformers with great influence over masses (HJH); leaders, generals, administrators, artists working for social change (Frawley p. 121).",
+      "finance": "Possesses women, wealth and lands (JP 9.107); the Sun, Venus and Mercury in the lagna give fortune and wealth (BR Thula st. 8); Mercury, Saturn and Venus in the lagna, or the Moon and Mars in the 7th, give riches in Mercury dasa (st. 9-10).",
+      "health": "Lean and frail body (PD 9.7); Jupiter linked with Venus (or both in Saturn's or Mars' signs or aspected by them) brings pox, wounds or similar troubles in their joint periods (BR Thula st. 3-4).",
+      "relationships": "Fond of love's pleasures (JP 9.107); sensual disposition (HJH); charismatic, values beauty around them, less concerned with home and family (Frawley p. 121).",
+      "family": "Limited number of children (PD 9.7). The Sun and Mercury in the 12th aspected by Saturn: father fortunate but lives to middle age (BR Thula st. 5).",
+      "spirituality": "Worships gods and Brahmins (PD 9.7); can transcend the world through love of truth (Frawley p. 121)."
+    },
+    "strengtheners": [
+      "Saturn, lord of the 4th and 5th, gives Raja Yoga (BPHS 34.33-34; LP; HJH; HPA; PVR; BR Thula st. 1; Frawley).",
+      "The Moon with Mercury gives Raja Yoga (BPHS 34.33-34; LP variant; HPA).",
+      "Saturn in the lagna with the Moon in Cancer gives Raja Yoga (BR Thula st. 14); Jupiter in the 8th, Saturn in the 9th, Mars and Mercury in the 10th give a strong Raja Yoga (st. 11).",
+      "Mars or the Sun linked to Saturn, Mercury or Venus can turn helpful (Santhanam's note; BR Thula st. 6-7).",
+      "Venus is good only in the lagna or the 8th (Verma, citing Pt. Rama Yatna Ojha).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter, lord of the 3rd and 6th, is the dire malefic (Santhanam; HJH; PVR).",
+      "Jupiter, Mars and the Sun linked together but not to Saturn, Mercury or the Moon are more malefic (Santhanam).",
+      "Venus in the lagna can act as a maraka (BR Thula st. 13) [maraka: text predicts danger to life / death].",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "Libra is a movable sign: the 11th lord (the Sun) is a strong malefic for movable lagnas (Santhanam). Frawley notes Libra is sometimes called the best ascendant for worldly influence, because Saturn becomes a Raja Yoga planet and the main malefic is Jupiter (p. 161). Libra is a biped sign, strong as lagna (Brihat Jataka 1.17).",
+    "attributes": {
+      "lord": "Venus",
+      "element": "air (Frawley p. 121: cardinal air; BPHS 4.15-16 does not state an element)",
+      "modality": "movable / chara (BPHS 4.5; PD 1.9)",
+      "gender": "male, odd, cruel sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "space below the navel (BPHS 4.4); intestines (BJ 1.4 as translated); groins (PD 1.4); lower abdomen (Frawley p. 121)",
+      "dosha_temperament": "mixed - all three doshas (BPHS 4.5)",
+      "symbol": "a person holding scales (BJ 1.5)",
+      "colour": "black (BPHS 4.15-16; BJ 1.20)",
+      "direction": "west (BPHS 4.15-16; BJ 1.11)",
+      "day_night_strength": "day-strong (BPHS 4.15-16; BJ 1.10)",
+      "rising_mode": "rises with its head (BPHS 4.15-16; BJ 1.10; PD 1.8)",
+      "guna": "rajas (BPHS 4.15-16)",
+      "footedness": "biped / human (BPHS 4.15-16; PD 1.7)",
+      "abode": "land (BPHS 4.15-16); a merchant's house (PD 1.5)",
+      "other": "medium build; called destructive or mischievous; represents Sudras (BPHS 4.15-16)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.7",
+        "description": "Lean, frail, few children, worships gods and Brahmins, wandering, two names, tall, clever in trade, brave, merciless, impartial in argument.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.107",
+        "description": "Lovely face and eyes, honoured by kings, learned, fond of love's pleasures, women, wealth and lands; front teeth apart; calm, pensive, irresolute and timid.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV pp. 27-28",
+        "description": "Idealistic, quick-witted, forceful; fair, handsome, youthful; sensual, keen observer, loves justice and music; political and religious leaders.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers p. 121",
+        "description": "Reformers, idealists, prophets; sense of justice; sway masses; charismatic; like fame; can become propagandists.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "Saturn, 4th and 5th lord (BPHS 34.33-34; LP: Saturn evidently the only Rajayogakaraka; HJH; HPA; PVR; BR Thula st. 1; Frawley p. 161)"
+      ],
+      "functional_benefics": [
+        "Saturn (all)",
+        "Mercury, 9th and 12th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Venus per HJH and PVR (lagna lord)"
+      ],
+      "functional_malefics": [
+        "Jupiter, 3rd and 6th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Sun, 11th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Mars, 2nd and 7th lord (BPHS; LP; HPA; PVR)",
+        "Moon per HJH"
+      ],
+      "neutral_or_mixed": [
+        "Venus, lagna and 8th lord: neutral (BPHS 34.33-34)",
+        "Mars: a feeble benefic (HJH)",
+        "Moon, 10th lord: forms Raja Yoga with Mercury (BPHS; LP)"
+      ],
+      "marakas": [
+        "Mars is a killer; Jupiter and other malefics can also kill (BPHS 34.33-34) [maraka: text predicts danger to life / death]",
+        "Mars has maraka traits but does not kill; Jupiter and others do (LP; HPA; BR Thula st. 2, 13)",
+        "Venus becomes a maraka if in the lagna (BR Thula st. 13)",
+        "Jupiter, Venus and Mars kill when empowered as marakas (HPA)"
+      ],
+      "notes": "Bhavartha Ratnakara (Thula st. 1) adds that Jupiter, though 3rd and 6th lord, can also give yoga; Raman calls this against ordinary rules."
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 33-34",
+        "view": "Jupiter, the Sun and Mars malefic; Saturn and Mercury auspicious; the Moon and Mercury give Raja Yoga; Mars is a killer and Jupiter and others can kill [maraka: text predicts danger to life / death]; Venus neutral.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-5, 15-16",
+        "view": "Libra is below the navel; movable, male, mixed temperament; head-rising, day-strong, black, rajasic, western, land, mischievous, medium build, biped, Venus.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4-5, 10, 20",
+        "view": "A person with scales; diurnal, head-rising; black.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 7",
+        "view": "Lean, few children, devout, wandering, two names, tall, clever in trade, brave, merciless, impartial.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 107",
+        "view": "Lovely face, honoured by kings, learned, pleasure-loving, wealthy in lands, teeth apart, calm but timid and irresolute.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Libra vv. 59-61",
+        "view": "Jupiter, Sun and Mars inauspicious; Saturn and Mercury auspicious; Saturn the only Rajayogakaraka; Mars a maraka who does not kill; variant adds Moon-Mercury Raja Yoga. Readings are silent on Venus; Verma reports Venus good only in the lagna or 8th.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Thula st. 1-15",
+        "view": "Saturn gives yoga and Jupiter can too; Mars does not kill; Jupiter-Venus links bring pox or wounds; Venus is a maraka in the lagna; several Raja Yogas. Raman disputes that Mars cannot kill.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II pp. 13-15 and ch. IV pp. 27-28",
+        "view": "Saturn, Mercury, Venus benefic, Saturn best; Sun, Jupiter, Moon malefic; Mars a feeble benefic. Libra rising: idealistic, just, influential.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "Saturn alone gives Raja Yoga; Jupiter, Sun, Mars inauspicious; Mercury and Saturn good; Moon-Mercury Raja Yoga; Mars does not kill; Jupiter, Venus, Mars kill when empowered.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 121, 157, 161",
+        "view": "Libra types are idealists and reformers; Saturn is a Raja Yoga planet; Libra is sometimes called the best ascendant, with Jupiter its main malefic; some say even Jupiter can be good for Libra.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "Yogakaraka Saturn; benefics Mercury, Venus, Saturn; no neutrals; malefics Sun, Mars, Jupiter.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Mars as killer: BPHS calls Mars a killer; LP, HPA and Bhavartha Ratnakara say Mars does not kill; Raman (BR notes) says from cases that Mars can. Venus: neutral (BPHS), benefic (HJH, PVR), good only in lagna or 8th (Ojha via Verma), maraka in lagna (BR). Jupiter: dire malefic in most, but Bhavartha Ratnakara and some cited by Frawley allow it to give good results. Moon: Raja Yoga partner with Mercury (BPHS, LP, HPA) vs malefic (HJH).",
+    "confidence": "high",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists."
+  },
+  {
+    "id": "rising_sign/scorpio",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Scorpio"
+    },
+    "summary": "Scorpio rising is classically read as intense, proud, sharp-eyed and forceful, able to endure, often meeting early illness or separation from parents and teachers, and capable of harsh action yet honoured by rulers. The Sun and Moon (10th and 9th lords) are the yogakarakas and Jupiter is good; Mercury, Venus and Saturn are counted as difficult; Mars is neutral.",
+    "themes": [
+      "intensity",
+      "secrecy and depth",
+      "endurance",
+      "conflict and courage",
+      "occult interest"
+    ],
+    "common_outcomes": [
+      "Forceful, proud and fiercely willed (JP 9.108; HJH; Frawley).",
+      "Broad eyes and chest, round thighs and knees (PD 9.8).",
+      "Early-life illness and separation from parents or teachers (PD 9.8).",
+      "Interest in the occult and hidden things (HJH; Frawley)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 9.8: lotus marks on hands and feet; honoured by the sovereign.",
+      "Jataka Parijata 9.108: long-lived and wealthy.",
+      "Raman: liable to piles (HJH)."
+    ],
+    "by_area": {
+      "personality": "Cruel looks, very fickle, proud, learned, hostile to good men, pensive (JP 9.108); does cruel acts but honoured by the ruler (PD 9.8); sarcastic, impulsive, subtle mind hard to influence, generous, fond of excitement and contest (HJH); intense, secretive, perceptive, passionate (Frawley p. 122).",
+      "career": "Soldiers, police, athletes, chemists, surgeons, researchers (Frawley p. 122); enterprising, good writers, conversationalists, can master music and fine arts (HJH).",
+      "finance": "Wealthy (JP 9.108); Jupiter and Mercury joined or in mutual aspect give much wealth (BR Vrischika st. 1); Jupiter and Mercury in the 5th with the Moon in the 11th give great fortune (st. 4).",
+      "health": "Illness early in life (PD 9.8); long-lived (JP 9.108); hot constitution, piles (HJH).",
+      "relationships": "Passionate and attached (Frawley p. 122); a woman born under Scorpio is described as masculine in nature (HJH).",
+      "family": "Separated from parents and teachers (PD 9.8).",
+      "spirituality": "Drawn to occult study (HJH); depth psychology, Tantra and Yoga, can develop profound insight (Frawley p. 122). Jupiter in the 3rd gives a charitable disposition (BR Vrischika st. 2)."
+    },
+    "strengtheners": [
+      "The Sun (10th lord) and the Moon (9th lord) are yogakarakas, especially in exchange or joined in the 9th or 10th (BPHS 34.35-36; LP; HPA; Verma; Frawley p. 161).",
+      "Jupiter and Mercury joined or in mutual aspect give wealth (BR Vrischika st. 1).",
+      "The Sun, Mercury and Venus in the 7th give fame and power in Mercury dasa (BR Vrischika st. 2-3); Jupiter, the Moon and Ketu in the 9th give power in Jupiter dasa (st. 5).",
+      "Saturn becomes practically auspicious in the 5th or 9th (Santhanam's note).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Mercury, 8th and 11th lord, is wholly evil (Verma); Venus, 7th and 12th lord, carries kendradhipatya dosha and maraka status (Verma).",
+      "Mars with Jupiter is a spoilt combination per Verma, as Jupiter takes on the 6th lord's blemish.",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "Scorpio as lagna carries some eighth-house tendencies (Frawley p. 162). Santhanam cites Susloka Sataka that the 6th lordship does not taint Mars for Scorpio.",
+    "attributes": {
+      "lord": "Mars",
+      "element": "water (Frawley p. 122: fixed water); BPHS 4.16 says it resorts to water and land",
+      "modality": "fixed / sthira (BPHS 4.5; PD 1.9)",
+      "gender": "female, even, gentle sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "private parts (BPHS 4.4; BJ 1.4; PD 1.4; Frawley p. 122)",
+      "dosha_temperament": "phlegmatic / kapha (BPHS 4.5)",
+      "symbol": "scorpion (BJ 1.5; Frawley p. 122)",
+      "colour": "reddish-brown (BPHS 4.16); golden (BJ 1.20)",
+      "direction": "north (BPHS 4.16; BJ 1.11)",
+      "day_night_strength": "day-strong (BPHS 4.16; BJ 1.10)",
+      "rising_mode": "rises with its head (BJ 1.10; PD 1.8)",
+      "footedness": "centipede / reptile (keeta) (BPHS 4.16; BJ 1.5 notes; PD 1.7)",
+      "abode": "holes (BPHS 4.16); a hole or cavity (PD 1.5)",
+      "other": "slender, hairy, very sharp or passionate; represents Brahmins (BPHS 4.16)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.8",
+        "description": "Round thighs and knees, broad eyes and chest, early illness, separated from parents and teachers, cruel acts, honoured by the king, lotus marks on hands and feet.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.108",
+        "description": "Silly with cruel looks, very fickle, proud, long-lived, wealthy, learned, hostile to the good, brooding.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV p. 28",
+        "description": "Sarcastic, impulsive, occult-minded; handsome, broad eyes, tall, curly hair; generous, fickle, fond of contest; hot constitution, piles.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers p. 122",
+        "description": "Profound, intense, secretive; soldiers, police, surgeons, researchers; passionate; capable of deep insight.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "Sun, 10th lord, and Moon, 9th lord (BPHS 34.35-36; LP; HPA; Frawley p. 161 as Sun+Moon Raja Yoga)"
+      ],
+      "functional_benefics": [
+        "Jupiter, 2nd and 5th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Moon (BPHS; LP; HJH: the best benefic; PVR)",
+        "Sun (BPHS as yogakaraka; HJH)"
+      ],
+      "functional_malefics": [
+        "Mercury, 8th and 11th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Venus, 7th and 12th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Saturn, 3rd and 4th lord (BPHS; LP; PVR)"
+      ],
+      "neutral_or_mixed": [
+        "Mars, lagna and 6th lord (BPHS: neutral; HJH; PVR; some LP readings call Mars evil)",
+        "Saturn neutral in HJH",
+        "Sun neutral in PVR"
+      ],
+      "marakas": [
+        "Venus and other malefics acquire the power to kill (BPHS 34.35-36) [maraka: text predicts danger to life / death]",
+        "Jupiter does not kill though 2nd lord; Mercury and others do (LP; HPA)"
+      ],
+      "notes": ""
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 35-36",
+        "view": "Venus, Mercury and Saturn malefic; Jupiter and the Moon auspicious; the Sun and Moon are yogakarakas; Mars neutral; Venus and others can kill [maraka: text predicts danger to life / death].",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-5, 16",
+        "view": "Scorpio is the privities; fixed, female, phlegmatic; slender, centipede, Brahmin, holes, northern, day-strong, reddish-brown, water and land, hairy, sharp, Mars.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4-5, 10, 20",
+        "view": "Scorpio governs the private parts; a reptile sign; diurnal, head-rising; golden.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 8",
+        "view": "Round thighs and knees, broad eyes and chest, early illness, separation from parents and teachers, cruel acts, honoured by rulers.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 108",
+        "view": "Cruel looks, fickle, proud, long-lived, wealthy, learned, hostile to the good, sorrowful.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Scorpio vv. 62-63",
+        "view": "Mercury, Venus and Saturn inauspicious; Jupiter and Moon auspicious; Sun and Moon yogakarakas; Jupiter does not kill. A variant lists Mars among the evil planets.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Vrischika st. 1-5",
+        "view": "Jupiter-Mercury links give wealth; Jupiter in the 3rd charitable; Sun-Mercury-Venus in the 7th give fame in Mercury dasa; Jupiter-Moon-Ketu in the 9th give power in Jupiter dasa. Raman notes Parasara's Sun-Moon Raja Yoga.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II p. 13 and ch. IV p. 28",
+        "view": "Moon the best benefic; Jupiter and Sun benefic; Mercury and Venus evil; Mars and Saturn neutral. Scorpio rising: sarcastic, occult-minded, enterprising.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "Jupiter beneficial; Sun and Moon produce Raja Yoga; Mercury and Venus evil; Jupiter does not kill even as maraka.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 122, 161-162",
+        "view": "Scorpio types are intense, secretive and deep; Sun with Moon gives Raja Yoga for Scorpio.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "No yogakaraka; benefics Moon, Jupiter; neutrals Sun, Mars; malefics Mercury, Venus, Saturn.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Mars as lagna lord: neutral in BPHS, HJH and PVR; evil in some LP readings; Susloka Sataka (via Santhanam) removes the 6th-lord blemish. Saturn: malefic (BPHS, LP, PVR) vs neutral (HJH), practically good in trines (Santhanam). Sun: yogakaraka (BPHS, LP, HPA) vs only neutral in PVR's table. Bhavartha Ratnakara stresses Jupiter-Mercury wealth combinations rather than the Sun-Moon yoga.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists."
+  },
+  {
+    "id": "rising_sign/sagittarius",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Sagittarius"
+    },
+    "summary": "Sagittarius rising is classically read as eloquent, generous, favoured by rulers and strong against enemies, the best of the family, with fame and wealth; moderns add a principled, religious and philosophical bent. The Sun and Mars are the good planets and the Sun with Mercury gives yoga; Venus is the chief malefic.",
+    "themes": [
+      "principle and religion",
+      "generosity",
+      "eloquence",
+      "royal favour",
+      "philosophy"
+    ],
+    "common_outcomes": [
+      "Wise, eloquent and liberal in giving (PD 9.9; JP 9.108).",
+      "Favoured by rulers; overcomes enemies (PD 9.9).",
+      "Best of the family, prosperous, famous (JP 9.108).",
+      "Religious, philosophical, honest and principled (HJH; Frawley)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 9.9: long face and neck, large ears and nose, short stature; won over only by kindness.",
+      "Bhavartha Ratnakara (Dhanus st. 4): Mars and Sun in Aquarius with Rahu in Leo give a sea-bath in Rahu dasa.",
+      "Raman: in later years careful about lungs and rheumatic pains (HJH)."
+    ],
+    "by_area": {
+      "personality": "Intent on his work, eloquent, generous, strong, won by kindness (PD 9.9); wise, best of the family (JP 9.108); philosophical, humane, impulsive, enterprising, conventional, honest, hates show (HJH); positive, generous, principled, can be dogmatic or self-righteous (Frawley pp. 122-123).",
+      "career": "Favourite of the king (PD 9.9); business-like and prompt (HJH); lawyers, religious leaders, businessmen (Frawley p. 123).",
+      "finance": "Possessing fame and wealth (JP 9.108); Saturn in the 5th or 11th gives yoga in its period, the 11th only for this lagna (BR Dhanus st. 1-2); Sun and Venus in the 9th with Saturn in the 3rd give fame and wealth in Saturn dasa (st. 3).",
+      "health": "Tends to corpulence; lungs and rheumatic pains in later years (HJH).",
+      "relationships": "Strict control over relations with the opposite sex (HJH); finds it hard to settle down (Frawley p. 123).",
+      "family": "The best of the family (JP 9.108); can inherit from father or family (Frawley p. 123).",
+      "spirituality": "Inclined to philosophy and occult study, God-fearing (HJH); keeps a higher aspiration, attracted to religion (Frawley p. 123)."
+    },
+    "strengtheners": [
+      "The Sun (9th lord) with Mercury (10th lord) gives yoga (BPHS 34.37-38; LP); Santhanam: still better if they join.",
+      "Mars with Jupiter is greatly auspicious (Verma; HPA); Mars gives mainly 5th house results (Santhanam).",
+      "The Moon with Jupiter can give an excellent yoga (Santhanam's note).",
+      "Saturn in the 5th or 11th gives yoga (BR Dhanus st. 1-2).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Venus, 6th and 11th lord, is the chief malefic (BPHS; LP; HJH; HPA; PVR).",
+      "Mars with Mercury is a spoilt combination (Verma).",
+      "The Moon as 8th lord cannot be a strong yogakaraka unless well linked to Mercury, the Sun or Mars (Santhanam).",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "Mercury owns two angles here (7th and 10th) yet BPHS counts it capable of yoga with the Sun; Santhanam explains this by the 10th being Mercury's moolatrikona sign. Sagittarius' first half is a biped sign, strong as lagna (Brihat Jataka 1.17).",
+    "attributes": {
+      "lord": "Jupiter",
+      "element": "fire (BPHS 4.17-18: fiery)",
+      "modality": "dual / dvisvabhava (BPHS 4.5; PD 1.9)",
+      "gender": "male, odd, cruel sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "thighs (BPHS 4.4; BJ 1.4; PD 1.4); hips (Frawley p. 122)",
+      "dosha_temperament": "bilious / pitta (BPHS 4.5)",
+      "symbol": "a man with a bow whose hind part is a horse (BJ 1.5); archer or centaur (Frawley p. 122)",
+      "colour": "tawny (BPHS 4.17-18); yellowish or brown (BJ 1.20)",
+      "direction": "east (BPHS 4.17-18; BJ 1.11)",
+      "day_night_strength": "night-strong (BPHS 4.17-18; BJ 1.10)",
+      "rising_mode": "rises with its head (BPHS 4.17-18); back-rising per BJ 1.10 and PD 1.8",
+      "guna": "sattva (BPHS 4.17-18)",
+      "footedness": "first half biped, second half quadruped (BPHS 4.17-18; PD 1.7)",
+      "abode": "land (BPHS 4.17-18); king's residence (PD 1.5)",
+      "other": "royal, splendorous, even build (BPHS 4.17-18)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.9",
+        "description": "Long face and neck, big ears and nose, intent on work, short, king's favourite, eloquent, generous, destroys enemies, won by kindness, very strong.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.108",
+        "description": "Wise, best of his family, prosperous, with fame and wealth.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV p. 28",
+        "description": "Philosophical, humane, enterprising; tends to corpulence, good-looking; conventional, honest, God-fearing, self-controlled.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers pp. 122-123",
+        "description": "Positive, generous, expansive, moral and religious; can be conventional or dogmatic; lucky, outdoor-loving.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "none by single lordship (PVR); the Sun and Mercury together give yoga (BPHS 34.37-38; LP); Raman (HPA) names Mars the best planet"
+      ],
+      "functional_benefics": [
+        "Mars, 5th and 12th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Sun, 9th lord (BPHS; LP; HJH; HPA; PVR)"
+      ],
+      "functional_malefics": [
+        "Venus, 6th and 11th lord (BPHS: the only inauspicious planet; LP; HJH; HPA; PVR)",
+        "Saturn, 2nd and 3rd lord (HJH; PVR; Verma)",
+        "Mercury per HJH"
+      ],
+      "neutral_or_mixed": [
+        "Jupiter, lagna and 4th lord: neutral (BPHS; HJH; PVR)",
+        "Moon, 8th lord (HJH; PVR neutral)",
+        "Mercury, 7th and 10th lord (PVR neutral; BPHS capable of yoga with the Sun)"
+      ],
+      "marakas": [
+        "Saturn is a killer; Venus acquires killing powers (BPHS 34.37-38) [maraka: text predicts danger to life / death]",
+        "Saturn is a maraka who kills (LP, Verma's reading); several other LP readings, and HPA, say Saturn does not kill",
+        "Venus causes death when given maraka jurisdiction (HPA)"
+      ],
+      "notes": "HPA prints that the Sun and Mars combining produce Raja Yoga for Sagittarius."
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 37-38",
+        "view": "Only Venus inauspicious; Mars and the Sun auspicious; the Sun and Mercury give yoga; Saturn is a killer; Jupiter neutral; Venus acquires killing powers [maraka: text predicts danger to life / death].",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-5, 17-18",
+        "view": "Sagittarius is the thighs; dual, male, bilious; head-rising, Jupiter, sattvic, tawny, night-strong, fiery, royal, biped then quadruped, bow, eastern, land, splendorous.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4-5, 10, 20",
+        "view": "A man with a bow, hind part a horse; nocturnal and back-rising; yellowish or brown.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 9",
+        "view": "Long face and neck, big ears and nose, short, royal favour, eloquent, generous, destroys enemies, very strong.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 108",
+        "view": "Wise, best of his family, prosperous, famous and wealthy.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Sagittarius vv. 64-65",
+        "view": "Only Venus inauspicious; Mars and Sun auspicious; Sun-Mercury gives Raja Yoga; Saturn is a maraka who kills (Verma's reading; other readings say Saturn does not kill, which Verma rejects).",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Dhanus st. 1-4",
+        "view": "Saturn in the 5th or 11th gives yoga; Sun and Venus in the 9th with Saturn in the 3rd give fame and wealth in Saturn dasa.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II p. 13 and ch. IV p. 28",
+        "view": "Mars and Sun benefic; Venus, Saturn, Mercury evil; Jupiter and Moon neutral. Sagittarius rising: philosophical, honest, conventional.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "Mars the best planet, with Jupiter much good; Sun and Mars good; Venus evil; Saturn does not bring death even as maraka, Venus does.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 122-123",
+        "view": "Sagittarius types are generous, principled and religious, lucky, sometimes dogmatic.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "No yogakaraka; benefics Sun, Mars; neutrals Moon, Mercury, Jupiter; malefics Venus, Saturn.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Saturn as killer: BPHS and Verma say yes; other LP readings and HPA say Saturn does not kill. Mercury: capable of yoga (BPHS, LP), neutral (PVR), evil (HJH). Rising mode: BPHS makes Sagittarius head-rising; Brihat Jataka and Phaladeepika make it back-rising.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists."
+  },
+  {
+    "id": "rising_sign/capricorn",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Capricorn"
+    },
+    "summary": "Capricorn rising is classically read as hard-working, persistent and strong-willed, finishing what it starts, practical and ambitious, though sometimes lazy, shameless or prone to wind complaints. Venus (5th and 10th lord) is the yogakaraka and Mercury is good; Mars, Jupiter and the Moon are counted as difficult.",
+    "themes": [
+      "perseverance",
+      "ambition",
+      "practicality",
+      "tradition",
+      "late success"
+    ],
+    "common_outcomes": [
+      "Carries through what he undertakes; great strength or courage (PD 9.10).",
+      "Persevering, industrious, ambitious, starts slowly and succeeds over time (HJH; Frawley).",
+      "Weak lower limbs, prone to wind disorders (PD 9.10).",
+      "Fortunate (PD 9.10)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 9.10: a religious hypocrite; attached to older women; devoid of shame.",
+      "Jataka Parijata 9.108: perfidious, speaks dejectedly.",
+      "Bhavartha Ratnakara (Makara st. 4-5): Venus and Mercury in the lagna with the Moon in the 5th aspected by Jupiter gives an emperor-like Maharaja Yoga."
+    ],
+    "by_area": {
+      "personality": "Courageous, completes tasks, indolent, fortunate, always on the move (PD 9.10); speaks dejectedly (JP 9.108); stoical, sympathetic, generous, strong in purpose, secretive, vindictive when Saturn is afflicted, talkative (HJH); hard-working, tenacious, ambitious, shrewd, traditional (Frawley p. 123).",
+      "career": "Capable of great endeavour, industrious (HJH); business, science, technology, mathematics (Frawley p. 123).",
+      "finance": "Access to conveyances (BR Makara st. 7, which Raman calls vague); Saturn and Mercury in the 9th give fortune (st. 9); Jupiter in the lagna with Venus and Mars in the 11th gives money through brothers in Jupiter dasa (st. 6); cannot economise, likes show (HJH).",
+      "health": "Weak lower limbs, wind disease (PD 9.10); Mercury in the 8th and Jupiter in the lagna aspected by Venus give long life but poverty (BR Makara st. 1-2).",
+      "relationships": "Fond of women (PD 9.10; JP 9.108); perfectionist at home, may not get on with the spouse (HJH).",
+      "family": "Money through brothers in some configurations (BR Makara st. 6, 8).",
+      "spirituality": "Phaladeepika calls the native a religious hypocrite; Frawley sees capacity to bring spiritual principles into daily practical work (p. 123)."
+    },
+    "strengtheners": [
+      "Venus, owner of the 5th and 10th, is the only planet capable of a superior yoga (BPHS 34.39-40; LP; HJH; HPA; PVR; Frawley).",
+      "Venus with Mercury gives special yoga (LP; HPA); Mercury in the 10th with Venus in the 9th is a Dharma-Karmadhipati yoga (Verma).",
+      "Venus in the 5th is good (BR Makara st. 3); the Moon in Cancer with Mars in Capricorn gives Raja Yoga (st. 10); Rahu in the 12th with Jupiter becomes a yogakaraka (st. 9).",
+      "Mercury (6th and 9th lord) gives yoga for Capricorn because its 9th lordship is joined with its exaltation (BR Karkataka st. 1 and Raman's note).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Venus in the 10th gives no yoga because of kendra lordship by a benefic (BR Makara st. 3 and Raman's note).",
+      "Mars, 4th and 11th lord, is the worst malefic (HJH; Santhanam).",
+      "Mars with Mercury, and the Moon with Mercury, are spoilt combinations (Verma).",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "For movable lagnas the 11th lord (Mars for Capricorn) is a strong malefic (Santhanam). Saturn as lagna lord also owns the 2nd but is said not to kill on its own (BPHS; LP).",
+    "attributes": {
+      "lord": "Saturn",
+      "element": "earth (BPHS 4.19-20: earthy)",
+      "modality": "movable / chara (BPHS 4.5; PD 1.9)",
+      "gender": "female, even, gentle sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "knees (BPHS 4.4; PD 1.4; Frawley p. 123); joints (BJ 1.4)",
+      "dosha_temperament": "windy / vata (BPHS 4.5)",
+      "symbol": "a crocodile with a deer's face (BJ 1.5); crocodile (Frawley p. 123)",
+      "colour": "variegated (BPHS 4.19-20; BJ 1.20)",
+      "direction": "south (BPHS 4.19-20; BJ 1.11)",
+      "day_night_strength": "night-strong (BPHS 4.19-20; BJ 1.10)",
+      "rising_mode": "prishtodaya (BPHS 4.19-20; BJ 1.10; PD 1.8)",
+      "guna": "tamas (BPHS 4.19-20)",
+      "footedness": "first half quadruped, second half footless and watery (BPHS 4.19-20; PD 1.7)",
+      "abode": "forests and land (BPHS 4.19-20); water-abounding forest (PD 1.5)",
+      "other": "large body (BPHS 4.19-20)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.10",
+        "description": "Weak lower limbs, great strength, completes tasks, indolent, attached to older women, religious hypocrite, fortunate, always moving, wind disease, shameless.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.108",
+        "description": "Fond of lovely women, perfidious, speaks dejectedly.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV p. 28",
+        "description": "Stoical, sympathetic, determined, secretive; tall, lean, prominent nose, stooping; adaptable, ambitious, persevering, perfectionist at home, talkative.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers pp. 123-124",
+        "description": "Practical realisation; hard-working, persevering, slow start then long-term success; ambitious, rigid, shrewd, traditional.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "Venus, 5th and 10th lord (BPHS 34.39-40; LP: the only Rajayogakaraka; HJH ch. II p. 15; HPA; PVR; Frawley p. 161)"
+      ],
+      "functional_benefics": [
+        "Venus (all)",
+        "Mercury, 6th and 9th lord (BPHS; LP; HJH; PVR)",
+        "Saturn, lagna and 2nd lord (HJH; PVR)"
+      ],
+      "functional_malefics": [
+        "Mars, 4th and 11th lord (BPHS; LP; HJH: worst; HPA; PVR)",
+        "Jupiter, 3rd and 12th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Moon, 7th lord (BPHS; LP; HJH; HPA)"
+      ],
+      "neutral_or_mixed": [
+        "Sun, 8th lord: neutral (BPHS; HJH; PVR); inauspicious per Verma",
+        "Saturn: neither very good nor bad (Santhanam)"
+      ],
+      "marakas": [
+        "Saturn will not kill on its own; Mars and other malefics inflict death (BPHS 34.39-40; LP) [maraka: text predicts danger to life / death]",
+        "Saturn shows killing power if joined to Jupiter, Mars or the Moon (Santhanam)",
+        "The Moon as 7th lord is a maraka (Verma)"
+      ],
+      "notes": ""
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 39-40",
+        "view": "Mars, Jupiter and the Moon malefic; Venus and Mercury auspicious; Saturn not a killer of its own; Mars and others kill [maraka: text predicts danger to life / death]; the Sun neutral; only Venus gives a superior yoga.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-5, 19-20",
+        "view": "Capricorn is the knees; movable, female, windy; Saturn, tamasic, earthy, southern, night-strong, back-rising, large, variegated, forest and land, quadruped then aquatic.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4-5, 10, 20",
+        "view": "Capricorn governs the joints (knees); a crocodile with a deer's face; nocturnal, back-rising; variegated.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 10",
+        "view": "Weak lower limbs, strong, completes tasks, lazy, hypocritical in religion, fortunate, wind disease.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 108",
+        "view": "Fond of women, perfidious, dejected speech.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Capricorn vv. 66-68",
+        "view": "Mars, Jupiter and the Moon evil; Venus and Mercury auspicious; Venus the only Rajayogakaraka; Venus-Mercury especially good; Saturn himself not a maraka; Mars and others kill.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Makara st. 1-10; Karkataka st. 1",
+        "view": "Mercury in the 8th with Jupiter in the lagna aspected by Venus gives long life with poverty; Venus good in the 5th, not in the 10th; Maharaja Yoga with Venus, Mercury, Moon and Jupiter; Saturn-Mercury in the 9th give fortune; Rahu with Jupiter in the 12th becomes yogakaraka; Mercury gives yoga for Makara.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II pp. 13-15 and ch. IV p. 28",
+        "view": "Venus the most powerful benefic; Mercury and Saturn benefic; Mars, Jupiter, Moon evil, Mars worst; Sun neutral. Capricorn rising: persevering, ambitious, stoical.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "Venus the most powerful, with Mercury gives Raja Yoga; Mars, Jupiter and the Moon evil.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 123-124, 157, 161",
+        "view": "Capricorn types are hard-working and tenacious with late success; Saturn as lagna lord is a temporal benefic; Venus is a single-planet Raja Yoga giver.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "Yogakaraka Venus; benefics Venus, Mercury, Saturn; neutral Sun; malefics Mars, Jupiter.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Sun: neutral (BPHS, HJH, PVR) vs inauspicious as 8th lord (Verma). Venus in the 10th: Bhavartha Ratnakara says it gives no yoga there, while BPHS and moderns treat Venus as yogakaraka without that limit. Phaladeepika's view (hypocrisy, shamelessness) is much harsher than Raman's and Frawley's.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists. Phaladeepika's harsher traits (hypocrisy, shamelessness) should not be repeated to a user."
+  },
+  {
+    "id": "rising_sign/aquarius",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Aquarius"
+    },
+    "summary": "Aquarius rising is classically read harshly - secretive, covetous, careful with money, with fluctuating gains and losses - while Raman and Frawley describe a reserved, humanitarian, intelligent person suited to teaching, writing and service. Venus (4th and 9th lord) is the yogakaraka and Saturn is good; Jupiter, the Moon and Mars are counted as difficult.",
+    "themes": [
+      "humanitarian service",
+      "reserve",
+      "teaching and writing",
+      "frugality",
+      "spiritual faith"
+    ],
+    "common_outcomes": [
+      "Reserved, sympathetic and helpful to others (HJH; Frawley).",
+      "Fluctuating gains and losses; careful or miserly with money (PD 9.11; JP 9.109).",
+      "Endures long journeys (PD 9.11).",
+      "Shines as teacher, writer, speaker (HJH)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 9.11: body shaped like a water-pot; fond of perfumes and flowers.",
+      "Raman: setbacks that can affect reputation unless other factors help (HJH).",
+      "Bhavartha Ratnakara (Kumbha st. 6): the Sun, Mercury and Jupiter in the 3rd give political power through the Sun."
+    ],
+    "by_area": {
+      "personality": "Secretly does wrong, covetous, uses others' wealth (PD 9.11); crafty, miserly (JP 9.109); reserved, peevish when provoked but quick to calm, generous, very sympathetic, intelligent, good memory, sometimes timid (HJH); self-effacing, humanitarian, may be eccentric (Frawley p. 124).",
+      "career": "Teachers, writers, lecturers, astrology, upholders of causes (HJH); religious leaders and teachers rather than political leaders (Frawley p. 124); Frawley notes Aquarius is sometimes called the worst ascendant for fame and charisma (p. 162).",
+      "finance": "Limited means, gains and losses (PD 9.11); master of much wealth (JP 9.109). Venus and Saturn in the 11th give yoga in Venus dasa (BR Kumbha st. 5).",
+      "health": "Colic and chest pain (HJH); a weak chest if Saturn is in the 4th (HJH).",
+      "relationships": "Fond of other men's wives (JP 9.109); devoted to the spouse, needs a happy home or health suffers, family happiness not sufficient (HJH).",
+      "family": "Insufficient happiness in family life (HJH).",
+      "spirituality": "Frawley: often called the best sign for spiritual growth, capable of surrender to the Divine (pp. 124, 162)."
+    },
+    "strengtheners": [
+      "Venus, owner of the 4th and 9th, is the only Raja Yoga planet (BPHS 34.41-42; LP; HJH; HPA; PVR; Frawley).",
+      "Venus with Mars (9th and 10th lords) gives Raja Yoga (LP; HPA); best if Venus is in the 10th and Mars in the 9th (Verma). Raman holds the 9-10 combination works in practice (BR notes).",
+      "Venus in the lagna, the Sun in the 10th and Rahu in Aquarius give yoga in Rahu and Jupiter dasas (BR Kumbha st. 2).",
+      "Jupiter aspecting the 2nd and Saturn aspecting the lagna (each its own house) help finances in both periods (Raman's note on BR Kumbha st. 4).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Bhavartha Ratnakara (Kumbha st. 1): the mere combination of the 9th and 10th lords gives no particular yoga.",
+      "The Sun and Mars in the 8th bring sorrow in their periods (BR Kumbha st. 3); Jupiter in the lagna with Saturn in the 2nd gives mixed results in Jupiter dasa and none in Saturn's (st. 4).",
+      "Saturn as lagna lord also owns the 12th, so it is weaker in the 12th (Verma; Frawley p. 162).",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "Aquarius is a biped sign, strong as lagna (Brihat Jataka 1.17). Frawley calls Aquarius sometimes the worst ascendant for worldly fame because the lagna lord also owns the 12th, yet the best for spiritual growth (p. 162).",
+    "attributes": {
+      "lord": "Saturn",
+      "element": "air (BPHS 4.21: airy)",
+      "modality": "fixed / sthira (BPHS 4.5; PD 1.9)",
+      "gender": "male, odd, cruel sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "ankles (BPHS 4.4); calves (BJ 1.4; PD 1.4); lower legs (Frawley p. 124)",
+      "dosha_temperament": "mixed - all three doshas (BPHS 4.5)",
+      "symbol": "a man holding a pot (BPHS 4.21; BJ 1.5)",
+      "colour": "deep brown (BPHS 4.21; BJ 1.20)",
+      "direction": "west (BPHS 4.21; BJ 1.11)",
+      "day_night_strength": "very strong by day (BPHS 4.21; BJ 1.10)",
+      "rising_mode": "rises with its head (BPHS 4.21; BJ 1.10; PD 1.8)",
+      "guna": "tamas (BPHS 4.21)",
+      "footedness": "biped / human (BPHS 4.21; PD 1.7)",
+      "abode": "deep water (BPHS 4.21); a potter's place (PD 1.5)",
+      "other": "medium build; represents Sudras (BPHS 4.21); some call Aquarius a watery sign (BJ 1.5 notes)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.11",
+        "description": "Secret wrongdoing, pot-shaped body, clever at striking, endures long journeys, limited means, covetous, uses others' wealth, gains and losses, fond of perfumes and flowers.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.109",
+        "description": "Crafty-minded, fond of other men's wives, miserly, master of much wealth.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV p. 29",
+        "description": "Reserved, generous, sympathetic, intelligent; tall, lean, handsome; good writers and speakers, interest in astrology; family happiness limited; colic and chest pain.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers p. 124",
+        "description": "Most self-effacing type; humanitarian or servile; drawn to the outcast; lacks charisma in politics but succeeds as religious teacher.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "Venus, 4th and 9th lord (BPHS 34.41-42: the only Raja Yoga planet; LP; HJH ch. II p. 15; HPA; PVR; Frawley p. 161)"
+      ],
+      "functional_benefics": [
+        "Venus (all)",
+        "Saturn, lagna and 12th lord (BPHS; PVR)",
+        "Sun and Mars per HJH"
+      ],
+      "functional_malefics": [
+        "Jupiter, 2nd and 11th lord (BPHS: dire malefic per Santhanam; LP; HJH; HPA; PVR)",
+        "Moon, 6th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Mars, 3rd and 10th lord (BPHS; LP; PVR)"
+      ],
+      "neutral_or_mixed": [
+        "Mercury, 5th and 8th lord: mixed (BPHS); neutral (HJH; PVR)",
+        "Sun, 7th lord: neutral (PVR); killer (BPHS)"
+      ],
+      "marakas": [
+        "Jupiter, the Sun and Mars are killers (BPHS 34.41-42) [maraka: text predicts danger to life / death]",
+        "Jupiter, Mars and others kill when given maraka powers (LP)",
+        "Santhanam: of the three, Mars is the least; a strong link between them reduces longevity"
+      ],
+      "notes": ""
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 41-42",
+        "view": "Jupiter, the Moon and Mars malefic; Venus and Saturn auspicious; Venus the only Raja Yoga planet; Jupiter, the Sun and Mars killers [maraka: text predicts danger to life / death]; Mercury mixed.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-5, 21",
+        "view": "Aquarius is the ankles; fixed, male, mixed temperament; man with a pot, deep brown, medium, biped, day-strong, deep water, airy, head-rising, tamasic, western, Saturn.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4-5, 10, 20",
+        "view": "Aquarius governs the calves; a man with a pot; diurnal, head-rising; deep brown; some count it watery.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 11",
+        "view": "Secretive wrongdoing, pot-like body, enduring traveller, limited means, covetous, gains and losses, fond of perfumes.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 109",
+        "view": "Crafty, unfaithful, miserly, wealthy.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Aquarius vv. 69-70",
+        "view": "Jupiter, Moon and Mars evil; only Venus auspicious; Mars with Venus gives Raja Yoga; Jupiter and Mars kill when empowered. Verma cites Jha's BPHS reading of Venus with Mercury as an alternative yoga.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Kumbha st. 1-6",
+        "view": "The mere 9th-10th lord combination gives no yoga for Kumbha and Simha; Venus-Sun-Rahu yoga in Rahu and Jupiter dasas; Sun and Mars in the 8th bring sorrow; Venus and Saturn in the 11th give yoga. Raman disagrees with stanza 1, citing Parasara and Jataka Chandrika.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II pp. 13-15 and ch. IV p. 29",
+        "view": "Venus benefic; Sun and Mars also benefic; Jupiter and Moon malefic; Mercury neutral. Aquarius rising: reserved, humanitarian, literary.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "Venus alone auspicious; Venus and Mars give Raja Yoga; Jupiter and the Moon evil.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 124, 161-162",
+        "view": "Aquarius types are self-effacing, humanitarian, devotional; Aquarius is sometimes called the worst ascendant for fame but best for spiritual growth; Venus is a single-planet Raja Yoga giver.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "Yogakaraka Venus; benefics Venus, Saturn; neutrals Sun, Mercury; malefics Moon, Mars, Jupiter.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "9th-10th lords (Venus-Mars): Bhavartha Ratnakara denies yoga by mere combination; LP, HPA and Raman's notes affirm it. Sun and Mars: killers in BPHS but benefics in HJH. Saturn: auspicious (BPHS, PVR) but weakened by 12th lordship (Verma, Frawley). Phaladeepika and Jataka Parijata describe Aquarius far more negatively than Raman or Frawley.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists. Do not repeat the classical charges of secret wrongdoing or infidelity to a user."
+  },
+  {
+    "id": "rising_sign/pisces",
+    "layer": "rising_sign",
+    "key": {
+      "sign": "Pisces"
+    },
+    "summary": "Pisces rising is classically read as learned, grateful, kind to friends, fond of the spouse, fortunate and able to overcome enemies, with a well-proportioned body and good eyes; moderns add emotion, imagination, devotion and dependence on others. The Moon (5th lord) and Mars (2nd and 9th lord) are the good planets and Mars with Jupiter gives yoga; Saturn, Venus, the Sun and Mercury are counted as difficult.",
+    "themes": [
+      "devotion and religion",
+      "emotion and imagination",
+      "learning",
+      "gratitude",
+      "sea and water"
+    ],
+    "common_outcomes": [
+      "Learned, grateful, overcomes enemies, fortunate (PD 9.12; JP 9.109).",
+      "Well-proportioned shining body and very good eyes (PD 9.12).",
+      "Kind to friends and fond of the spouse (PD 9.12; JP 9.109).",
+      "Religious, devotional and sensitive (HJH; Frawley)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 9.12: gains by trading pearls and sea products; drinks much water.",
+      "Bhavartha Ratnakara (Meena st. 4): Jupiter in the 5th gives more daughters than sons.",
+      "Bhavartha Ratnakara (Meena st. 12-14): the Sun, Mercury, Venus, Jupiter and Saturn in their own signs and the Moon and Mars exalted form a great yoga, even if one or two are missing."
+    ],
+    "by_area": {
+      "personality": "Learned, grateful, kind to friends, spirited and strong (PD 9.12; JP 9.109); stubborn, psychically receptive, highly religious, stoical, reserved, just, lacking self-confidence (HJH); emotional, imaginative, impressionable, compassionate, may lack boundaries (Frawley pp. 124-125).",
+      "career": "Gains from pearls and sea produce (PD 9.12); ambitious to rule over others but rarely realises it (HJH); good followers and promoters, musicians (Frawley p. 125). Jupiter, lord of the lagna and 10th, in the 10th gives Raja Yoga (BR Meena st. 11).",
+      "finance": "Possesses much corn and wealth (JP 9.109); frugal (HJH); the Moon in the 2nd with Mars in the 5th gives wealth in Moon dasa (BR Meena st. 5); the Moon in the 12th loses wealth (st. 2).",
+      "health": "Drinks water excessively (PD 9.12); sensitive digestion and nerves, emotional disorders, can depend on sugar or alcohol (Frawley p. 125).",
+      "relationships": "Fond of his wife (PD 9.12); can become dependent or make others dependent (Frawley p. 125).",
+      "family": "More daughters and few sons if Jupiter is in the 5th (BR Meena st. 4); generally dependent on others through life yet independent in spirit (HJH).",
+      "spirituality": "Highly religious, God-fearing, rigid in observance (HJH); loves ceremony, ritual and devotion (Frawley p. 125)."
+    },
+    "strengtheners": [
+      "Mars with Jupiter gives yoga (BPHS 34.43-44; LP); Mars with the Moon or Jupiter gives Raja Yoga (HPA).",
+      "Mars and Jupiter in exchange (9th and 10th) form a very powerful Raja Yoga; the Moon in the 10th with Jupiter exalted in the 5th is also powerful (Verma).",
+      "Saturn in the 12th is good (BR Meena st. 2); Mercury, Jupiter, the Moon and Mars in the 4th give kingly fame in their periods (st. 9-10).",
+      "The lagna is strong when occupied or aspected by its own lord, Jupiter or Mercury, and not by other planets (Brihat Jataka 1.19).",
+      "Whatever a sign gives as lagna is also given, in a lesser way, when the Moon occupies it (Phaladeepika 9.13); the lagna and Moon should be read together.",
+      "Raman: the sign delineations hold for an empty lagna; planets in the 1st, the strength of the lagna lord and aspects on the lagna modify them (How to Judge a Horoscope vol. 1, ch. IV, p. 25)."
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn, 11th and 12th lord, is the most harmful (Santhanam; Frawley p. 160).",
+      "Venus in the 12th gives no yoga for Pisces or Aquarius (BR Meena st. 1).",
+      "The yoga of Saturn in the 12th is reduced in the Moon's sub-period of Jupiter dasa (BR Meena st. 3).",
+      "Mars with Mercury, and Mercury with Jupiter, are spoilt combinations (Verma).",
+      "Raman: when the Sun, Moon and lagna are afflicted by more than one malefic, proneness to accidents is indicated (How to Judge a Horoscope vol. 1, ch. IV, p. 25-26).",
+      "BPHS 34.45-46 (Santhanam): lordship-based roles are only a frame; a planet that forms a strong yoga (e.g. a Nabhasa yoga) gives that yoga's results despite its role for the lagna."
+    ],
+    "lagna_or_context_notes": "For Pisces the lagna lord Jupiter also owns the 10th, giving it double angular lordship; BPHS still treats Jupiter as very favourable here (Santhanam: next to Mars), while HJH and PVR call it neutral.",
+    "attributes": {
+      "lord": "Jupiter",
+      "element": "water (BPHS 4.22-24: watery)",
+      "modality": "dual / dvisvabhava (BPHS 4.5; PD 1.9)",
+      "gender": "female, even, gentle sign (BPHS 4.5 notes; PD 1.9)",
+      "body_part": "feet (BPHS 4.4; BJ 1.4; PD 1.4; Frawley p. 124)",
+      "dosha_temperament": "phlegmatic / kapha (BPHS 4.5)",
+      "symbol": "two fishes, each tail to the other's head (BPHS 4.22-24; BJ 1.5)",
+      "colour": "white (BJ 1.20)",
+      "direction": "north (BPHS 4.22-24; BJ 1.11)",
+      "day_night_strength": "night-strong (BPHS 4.22-24); diurnal per BJ 1.10",
+      "rising_mode": "rises both ways / ubhayodaya (BPHS 4.22-24; BJ 1.10; PD 1.8)",
+      "guna": "sattva (BPHS 4.22-24)",
+      "footedness": "footless, watery (BPHS 4.22-24; PD 1.7)",
+      "abode": "water (BPHS 4.22-24; PD 1.5)",
+      "other": "medium build; denotes resoluteness (BPHS 4.22-24)",
+      "attribute_sources": "BPHS 4.3-24 (Santhanam); Brihat Jataka 1.4-6, 1.10-11, 1.20 (Sastri); Phaladeepika 1.4-9 (Sastri); Frawley, Astrology of the Seers pp. 117-125 for element where BPHS is silent."
+    },
+    "description_by_source": [
+      {
+        "source": "Phaladeepika 9.12",
+        "description": "Drinks much water, symmetrical shining body, fond of wife, gains from pearls and sea produce, learned, grateful, conquers enemies, fine eyes, fortunate.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9.109",
+        "description": "Learned, sparing in enjoyments, kind to friends, spirited and strong, much corn and wealth.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Raman, How to Judge a Horoscope vol. 1 ch. IV p. 29",
+        "description": "Stubborn, psychic, highly religious, stoical; fair, stout, middle height; orthodox, superstitious, reserved, frugal, just, lacking self-confidence.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Frawley, Astrology of the Seers pp. 124-125",
+        "description": "Emotional, expansive, intuitive, imaginative, impressionable, devotional, fond of ritual and music, lacks boundaries.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      }
+    ],
+    "functional_roles": {
+      "yogakaraka": [
+        "none by single lordship (PVR); Mars with Jupiter gives yoga (BPHS 34.43-44; LP); Mars is 'the most powerful' (HPA)"
+      ],
+      "functional_benefics": [
+        "Mars, 2nd and 9th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Moon, 5th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Jupiter, lagna and 10th lord (Santhanam: very favourable, next to Mars)"
+      ],
+      "functional_malefics": [
+        "Saturn, 11th and 12th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Venus, 3rd and 8th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Sun, 6th lord (BPHS; LP; HJH; HPA; PVR)",
+        "Mercury, 4th and 7th lord (BPHS; LP; HJH; HPA; PVR)"
+      ],
+      "neutral_or_mixed": [
+        "Jupiter: neutral (HJH; PVR)"
+      ],
+      "marakas": [
+        "Mars is a killer but will not kill independently; Saturn and Mercury are killers (BPHS 34.43-44; LP) [maraka: text predicts danger to life / death]",
+        "Mars does not kill even as maraka (HPA)",
+        "Venus, as 8th lord, can take on a killer role (Santhanam)"
+      ],
+      "notes": ""
+    },
+    "source_views": [
+      {
+        "source": "BPHS ch. 34 (tr. R. Santhanam, vol. 1) vv. 43-44",
+        "view": "Saturn, Venus, the Sun and Mercury malefic; Mars and the Moon auspicious; Mars with Jupiter gives yoga; Mars, though a killer, does not kill alone; Saturn and Mercury are killers [maraka: text predicts danger to life / death].",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "BPHS ch. 4 (tr. R. Santhanam, vol. 1) vv. 4-5, 22-24",
+        "view": "Pisces is the feet; dual, female, phlegmatic; two fishes, night-strong, watery, sattvic, resolute, footless, medium build, northern, rises both ways, Jupiter.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Brihat Jataka ch. 1 (tr. V. Subrahmanya Sastri) vv. 4-5, 10, 20",
+        "view": "Pisces governs the feet; two fishes head to tail; rises both ways; counted among diurnal signs; white.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 9 (tr. V. Subrahmanya Sastri) v. 12",
+        "view": "Drinks much water, fine body, fond of wife, gains from sea produce, learned, grateful, conquers foes, fine eyes, fortunate.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.92117"
+      },
+      {
+        "source": "Jataka Parijata 9 (tr. V. Subrahmanya Sastri) v. 109",
+        "view": "Learned, moderate in pleasures, kind to friends, spirited, rich in corn and wealth.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Laghu Parashari / Jataka Chandrika ch. 5 (tr. and notes O.P. Verma), Pisces vv. 71-72",
+        "view": "Saturn, Venus, Sun and Mercury inauspicious; Mars and Moon auspicious; Mars and Jupiter together give yoga; Mars is a maraka who does not kill; Saturn and Mercury are marakas.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch. 1 (tr. and notes B.V. Raman, 2nd ed. 1947), Meena st. 1-14",
+        "view": "Venus in the 12th gives no yoga; Saturn in the 12th is good; Moon in the 12th loses wealth; Jupiter in the 5th gives more daughters; Jupiter in the 10th gives Raja Yoga; planets in own and exaltation signs give a great yoga.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, ch. II p. 13 and ch. IV p. 29",
+        "view": "Moon and Mars benefic; Saturn, Sun, Venus, Mercury malefic; Jupiter neutral. Pisces rising: religious, reserved, frugal, just.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XVII (Key-Planets for Each Sign), pp. 134-137",
+        "view": "The Moon and Mars auspicious, Mars most powerful; Mars with the Moon or Jupiter gives Raja Yoga; Saturn, Venus, Sun, Mercury evil; Mars does not kill as maraka.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, pp. 124-125, 160",
+        "view": "Pisces types are emotional, devotional and impressionable; Saturn as 11th and 12th lord is very inauspicious for Pisces.",
+        "url": "https://archive.org/details/the-astrology-of-seers-david-frawley-pandit-vama-deva-shastri"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, sec. 13.2, Table 30",
+        "view": "No yogakaraka; benefics Moon, Mars; neutral Jupiter; malefics Sun, Mercury, Venus, Saturn.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Jupiter as lagna and 10th lord: very favourable in Santhanam's reading of BPHS but neutral in HJH and PVR. Mars as maraka: does not kill independently (BPHS, LP) or does not kill at all (HPA). Day/night strength: BPHS calls Pisces night-strong; Brihat Jataka counts it among diurnal signs.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe the rising sign as a tendency, not a fixed fate; blend it with planets in the 1st house, the lagna lord and the Moon sign. Name functional roles plainly (e.g. 'Saturn tends to work in your favour') and never turn maraka lore into a death or illness prediction; skip old caste, gender and fidelity stereotypes from the classical lists."
+  }
+]

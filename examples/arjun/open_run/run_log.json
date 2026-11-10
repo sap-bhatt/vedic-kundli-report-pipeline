@@ -1,0 +1,385 @@
+{
+ "model": "claude-haiku-5-5",
+ "provider": "file",
+ "base_url": null,
+ "dry_run": false,
+ "settings": {
+  "temperature": null,
+  "max_tokens": {
+   "section": 16000,
+   "timeline": 32000,
+   "editor": 16000,
+   "guidance": 16000
+  },
+  "extra": {
+   "cache_control": {
+    "type": "ephemeral"
+   }
+  },
+  "timeout": 900
+ },
+ "started": "2026-11-11T01:53:45",
+ "wall_seconds": 5.0,
+ "total_input_tokens": 218045,
+ "total_output_tokens": 26513,
+ "calls": [
+  {
+   "step": "glance",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 9945,
+   "output_tokens": 1334,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 809,
+   "target": [
+    600,
+    900
+   ]
+  },
+  {
+   "step": "family",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 13603,
+   "output_tokens": 1828,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 1118,
+   "target": [
+    650,
+    900
+   ]
+  },
+  {
+   "step": "mind",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 8173,
+   "output_tokens": 1278,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 803,
+   "target": [
+    600,
+    900
+   ]
+  },
+  {
+   "step": "personality",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 10397,
+   "output_tokens": 1674,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 1058,
+   "target": [
+    1000,
+    1400
+   ]
+  },
+  {
+   "step": "finance",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 9897,
+   "output_tokens": 1622,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 929,
+   "target": [
+    600,
+    900
+   ]
+  },
+  {
+   "step": "relationships",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 10744,
+   "output_tokens": 1333,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 817,
+   "target": [
+    800,
+    1100
+   ]
+  },
+  {
+   "step": "career",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 10832,
+   "output_tokens": 1954,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 1198,
+   "target": [
+    1100,
+    1500
+   ]
+  },
+  {
+   "step": "spirituality",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 10270,
+   "output_tokens": 1722,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 1039,
+   "target": [
+    600,
+    900
+   ]
+  },
+  {
+   "step": "timeline",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 32000,
+   "input_tokens": 40914,
+   "output_tokens": 4950,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [
+    "Guardrail lint, line 71 [health_list]: \"illness\" in: ...Sankata (Rahu, to Jan 2030) is the crisis tone in the texts: losses, illness and weakness, fear of enemies, separation and official trouble, and c..."
+   ],
+   "words": 2726,
+   "target": [
+    2000,
+    2800
+   ]
+  },
+  {
+   "step": "health",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 7812,
+   "output_tokens": 871,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 451,
+   "target": [
+    400,
+    600
+   ]
+  },
+  {
+   "step": "yogas",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 9832,
+   "output_tokens": 1551,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 1059,
+   "target": [
+    800,
+    1100
+   ]
+  },
+  {
+   "step": "timeline",
+   "attempt": 1,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 32000,
+   "input_tokens": 45963,
+   "output_tokens": 4950,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 2726,
+   "target": [
+    2000,
+    2800
+   ]
+  },
+  {
+   "step": "guidance",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 29663,
+   "output_tokens": 1446,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 776,
+   "target": [
+    700,
+    1000
+   ]
+  }
+ ],
+ "events": [
+  {
+   "step": "inputs",
+   "reused": "examples/arjun/open_run/inputs"
+  },
+  {
+   "step": "writers",
+   "results": [
+    {
+     "section": "glance",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "personality",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "mind",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "career",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "finance",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "health",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "relationships",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "family",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "spirituality",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "yogas",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "timeline",
+     "kept_attempt": 1,
+     "attempts": 2,
+     "findings_left": 0,
+     "blocked": false
+    }
+   ]
+  },
+  {
+   "step": "guidance",
+   "result": {
+    "section": "guidance",
+    "kept_attempt": 0,
+    "attempts": 1,
+    "findings_left": 0,
+    "blocked": false
+   }
+  },
+  {
+   "step": "final_lint",
+   "findings": {
+    "career": 0,
+    "family": 0,
+    "finance": 0,
+    "glance": 0,
+    "guidance": 0,
+    "health": 0,
+    "mind": 0,
+    "personality": 0,
+    "relationships": 0,
+    "spirituality": 0,
+    "timeline": 0,
+    "yogas": 0
+   }
+  },
+  {
+   "step": "assemble",
+   "cmd": "tools\\assemble_report.py --chart examples\\arjun\\chart_data.json --sections examples\\arjun\\open_run\\sections --name Arjun --out examples\\arjun\\open_run\\report.html --pdf examples\\arjun\\open_run\\report.pdf",
+   "returncode": 0,
+   "stdout": "tables: 20 placed: d1_positions, houses, d9_positions, functional_roles, panchang_avakhada, baladi_avasthas, profession_indicators, d10_positions, wealth_houses, body_correspondences, manglik_check, yogas_present, dosha_checks, mahadashas, antardashas, current_transits, slow_ingresses, summary_10y, chara_periods, remedies\nwrote examples\\arjun\\open_run\\report.html: ~16424 words, 76 sources; missing sections: none\npdf written with playwright:msedge 157 examples\\arjun\\open_run\\report.pdf\n",
+   "stderr": ""
+  }
+ ]
+}

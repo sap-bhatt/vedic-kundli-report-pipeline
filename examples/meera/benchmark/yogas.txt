@@ -1,0 +1,67 @@
+10Yogas and doshas
+
+A yoga is a planetary combination with a named result; a dosha is a combination considered afflicting. Modern software detects dozens of them, often with loose definitions, so the useful question is not "is it present?" but "how strong is it, and does the rest of the chart support it?" The computation behind this report records which variant of each rule fired; that is reflected in the weights below.
+
+Table 11. Yogas present, with their weight in this chart
+
+ | | Yoga | How it forms here | Meaning and assessment | Weight
+
+ | Yogakaraka Venus | Venus rules the 5th (trikona) and 10th (kendra); exalted in Pisces; own sign in D9 | The chart's single most reliable source of success, recognition, creativity and good fortune. Placed in the 3rd, an upachaya house, so it works through her own initiative, skill and communication and grows with time. Strongest in Venus periods and sub-periods (Aug 2030 – Oct 2031) and through Rahu, which sits with it (2032–2050). | High
+
+ | Raja Yoga (Saturn with Mars and Moon) | Lagna lord Saturn (lord of the 1st, both a kendra and a trikona) conjoined with the 4th lord Mars and the 7th lord Moon | Kendra–trikona lords connected: status, authority, support. Formed in the 12th house, which diverts its results toward foreign lands, institutions, service and private life rather than public rank; Jupiter's aspect on the conjunction helps. A real but modest Raja Yoga. | Medium–Low
+
+ | Parivartana (Mars–Jupiter, Dainya type) | 4th/11th lord Mars in the 12th; 3rd/12th lord Jupiter in the 4th | Phaladeepika (ch. 6, vv. 32–34, as summarised in reference works) classes exchanges involving a dusthana lord as Dainya, generally inauspicious: effort, expense, unappreciated work. Here the exchange also gives each planet the strength of its own sign and binds home and distance together: relocation, property abroad, spiritual life rooted at home. Read as "costly but meaningful", not as misfortune. | Medium
+
+ | Sunapha | Mercury in the 2nd from the Moon | Phaladeepika (ch. 6, sl. 6): self-acquired wealth, intelligence, renown. Formed by Mercury, it emphasises cleverness, speech and skill in the arts. Mercury is directionally strong but combust, so the effect is real but understated. | Medium
+
+ | Chandra-Mangala | Moon and Mars in the same sign | Earning through enterprise and bold action; emotional courage, with impatience as its shadow. In the 12th and with a waning Moon, it supports energetic earning and spending more than accumulation. | Medium–Low
+
+ | Dhana Yoga (Saturn–Mars) | 2nd lord Saturn and 11th lord Mars conjoined | Wealth combination, but in the 12th: income from foreign, distant or institutional sources, quickly reinvested in home, travel, family and causes. | Low–Medium
+
+Further strengths that are not formal yogas
+
+Mercury in the lagna with directional strength: Jupiter and Mercury gain dig bala in the 1st house. The 9th lord placed and strong in the lagna is a classic indicator of personal fortune (BPHS ch. 24, v. 97).
+
+Jupiter vargottama and aspecting the 12th-house group: the chart's main protective influence on the lagna lord, the Moon and Mars.
+
+A strong navamsa core: the D9 lagna lord Moon in its own sign in the D9 lagna; Venus and Mars in their own signs; Jupiter vargottama.
+
+Doshas
+
+Table 12. Dosha checks
+
+ | Dosha | Status | Comment
+
+ | Manglik (Kuja) | From lagna and Moon; cancelled under the Jupiter-aspect rule | See section 7. Genuine but mitigated; handled through chart comparison in matching.
+
+ | Kaal Sarp | Absent | Jupiter and Venus lie outside the Rahu–Ketu axis, so no form of the yoga applies. The software names the pattern "Vasuki" for reference only. The concept itself does not appear in BPHS, Phaladeepika or Jataka Parijata and is widely regarded as a late addition.
+
+ | Pitra (ancestral) dosha flags | Fires on the modern rule "Moon with Mars or Saturn" | A modern category, not a classical yoga. Its useful content is the 12th-house and 9th-house theme of duty to elders and lineage. Traditional responses are gratitude and service to elders and ancestors (e.g. offerings during Pitru Paksha), not fear.
+
+ | Ganda Moola | Present: Moon in Mula, pada 4 | Mula is one of the six nakshatras at the junction of water and fire signs. Popular sources attribute its effects mainly to the father or paternal family, and consistently describe the 4th pada as the mildest. A traditional shanti (pacifying) puja is customary in infancy; in adult life it is of minor weight.
+
+ | Ghata (Ghatak) | Flagged | Ghatak chakra is a muhurta (timing) tool that marks certain weekdays, lunar days, nakshatras and months as unfavourable for a given Moon sign. It is used to avoid starting important undertakings on those days, not as a natal affliction.
+
+ | Gandanta (planets) | Mars at 0°40' Sagittarius; Jupiter at 1°47' Aries by the wider definition | Intensity and transition for these planets' matters; see section 2.
+
+ | Guru-Chandal, Shrapit, Angarak, Grahan | Absent | Jupiter is not with Rahu; Saturn is not with Rahu; Mars is not with Rahu; neither luminary is with a node.
+
+ | Sade Sati / Dhaiya | Currently in Kantaka (Ardhashtama) Dhaiya (Saturn 4th from Moon) | From 29 Mar 2025 to 3 Jun 2027, then 20 Oct 2027 to 23 Feb 2028. See section 11.
+
+Notable yogas that are absent
+
+Malavya: Venus is exalted but in the 3rd, not a kendra, so this great Venus yoga narrowly misses. Its quality remains; its angular, public expression does not, which is why her success depends on initiative.
+
+Gajakesari: Jupiter is 5th from the Moon, in a trine rather than a kendra. A Jupiter–Moon link exists by aspect, but not in the Gajakesari form.
+
+Sasa and Ruchaka: the lagna lord Saturn and Mars are both strong planets for this lagna, but neither is in a kendra, so these Mahapurusha yogas are absent.
+
+Budhaditya: the Sun and Mercury are in different signs.
+
+Dharma-Karmadhipati (9th and 10th lords connected), Lakshmi, Saraswati and the Viparita Raja yogas are absent; fortune comes through the routes described above rather than through these classic combinations.
+
+Kemadruma (an isolated Moon) is absent, which is good.
+
+Synthesis
+
+The dominant positive structures are the exalted yogakaraka Venus, the directionally strong 9th lord Mercury in the lagna, and the vargottama Jupiter whose aspect protects the 12th-house group. The 12th-house conjunction carries both a Raja Yoga and a Dhana Yoga, but sends their results inward and outward — to faraway places, institutions, service and spiritual life — rather than into conventional status. The afflicting factors (the Manglik indication, the Dainya exchange, the weight on the Moon) are real but each is matched by a mitigating factor. This is a chart in which success is made rather than given, and in which giving, distance and devotion are part of the success.

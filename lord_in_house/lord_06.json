@@ -1,0 +1,1257 @@
+[
+  {
+    "id": "lord_in_house/6/1",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 1
+    },
+    "summary": "The lord of conflict, service and illness joins the self. BPHS gives a sickly but famous, wealthy and courageous person who is at odds with his own people; Raman and Bhavartha Ratnakara add trouble from cousins, while Raman also names military or penal careers when the lord is well aspected.",
+    "themes": [
+      "competition",
+      "resilience",
+      "health sensitivity",
+      "service",
+      "self-reliance"
+    ],
+    "common_outcomes": [
+      "Health and constitution need attention (BPHS 24.61; Braha; Bhavartha Ratnakara 5.1)",
+      "Friction with one's own people or cousins (BPHS 24.61; Bhavartha Ratnakara 5.1 with Raman's note)",
+      "Hard-working; drawn to army, prisons, medicine or healing (Raman; Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.61: also famous, rich, honourable, adventurous and virtuous",
+      "Raman: may live in the maternal uncle's house; a weak and afflicted lord is listed for criminal conduct (traditional view)",
+      "Braha: thin build, special diet, difficult start in life, no fame",
+      "Rath: the 6th lord in the lagna is in the 8th from the 6th, giving disease to enemies and good health to the native",
+      "Raman, 300 Combinations no. 265 Vrana yoga: a malefic 6th lord in the lagna, 8th or 10th is a classical combination for serious illness, which Raman says must not be applied literally"
+    ],
+    "by_area": {
+      "personality": "Adventurous and virtuous but at odds with his own people (BPHS 24.61); Rath: inimical toward his own family and self.",
+      "career": "Raman: well aspected, a soldier, commander, minister of war or prison official. Braha: hard worker, medical or healing arts.",
+      "finance": "Rich (BPHS 24.61).",
+      "health": "BPHS 24.61 and Bhavartha Ratnakara 5.1: sickly (traditional); Braha: poor health; Rath gives the opposite (good health to self).",
+      "relationships": "Bhavartha Ratnakara 5.1: troubled by cousins; Raman's note adds worry from relatives' machinations.",
+      "family": "Raman: lives in the maternal uncle's house; Braha: close to the maternal uncle, born to a common family.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman: the lord well aspected gives military or administrative authority",
+      "The lagna lord stronger than the 6th lord, in a benefic's sign or amsa and aspected by a benefic (Phaladeepika 16.17: health and comfort)",
+      "The 6th lord in a benefic's sign and aspected by benefics (Raman, How to Judge a Horoscope p. 136: many friends)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: weak and afflicted gives the criminal-conduct reading (traditional view)",
+      "Lagna lord in the lagna with the 6th, 8th or 12th lord (Raman, 300 Combinations no. 111 Rogagrastha: weak constitution)",
+      "Lagna lord and 6th lord both in the lagna, or the lagna lord in the 6th aspected by the 6th lord (Raman p. 136: trouble from relatives)",
+      "The 6th lord in a kendra joined or aspected by malefics (Phaladeepika 16.16; Raman, How to Judge a Horoscope p. 136: constant trouble from enemies)",
+      "Phaladeepika 16.19: the house occupied by the 6th lord becomes a source of enmity for the native"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman. For Taurus (Venus) and Scorpio (Mars) the 6th lord is the lagna lord itself; Bhavartha Ratnakara 5.8 says that when a weak lagna lord who also owns the 6th is joined by benefics, enemies turn friends.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.61",
+        "view": "Sixth lord in the lagna: sickly but famous, an enemy to his own people or himself; wealthy, honoured, adventurous and virtuous.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-61"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.61 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Sickly, famous, inimical to his own men, rich, honourable, adventurous and virtuous.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "Well aspected: a soldier or commander, minister of war or officer concerned with prisons; lives in the maternal uncle's house. Weak and afflicted: a robber, thief or gang leader.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Important Combinations' (p. 136)",
+        "view": "If the lagna lord is in the 6th aspected by the 6th lord, or both are in the lagna or the 4th, the person is constantly troubled by relatives; the 6th lord in a kendra aspected by evil planets gives trouble from enemies.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Poor health, thin or emaciated body, special diet, gains no fame, hard worker, interest or career in medical or healing arts, difficult childhood, close to maternal uncle, born to a common family.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. V st. 1, 8 with Raman's notes",
+        "view": "The 6th lord in the lagna: troubled by cousins and diseases (Raman: also mental worry from relatives' machinations). A weak lagna lord who also owns the 6th, joined by benefics: enemies turn friends.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (pp. 120-121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The native is inimical toward the matters of the house where the 6th lord is placed; houses counted from the 6th to its lord are promoted for the native and damaged for the enemy, the reverse for houses counted back from the lord to the 6th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (p. 121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 6th lord in the lagna: inimical toward his own family and self; being 8th from the 6th it gives disease to enemies and good health to self.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 265 Vrana Yoga (pp. 260-261) (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "A malefic 6th lord in the lagna, 8th or 10th is a classical combination for a serious disease; Raman says a literal application is not at all recommended.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Health: BPHS, Bhavartha Ratnakara and Braha read a weaker constitution; Rath reads good health for the native and disease for enemies. Fame: BPHS says famous, Braha says no fame. Raman's career results (military, prisons) depend on the lord being well aspected.",
+    "confidence": "medium",
+    "phrasing_guidance": "Lead with resilience, discipline and a capacity for service. Mention health only as a matter of routine and self-care; no medical or moral claims."
+  },
+  {
+    "id": "lord_in_house/6/2",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 2
+    },
+    "summary": "The lord of conflict and service in the house of wealth, speech and family. BPHS is favourable (eloquent, adventurous, famous among his people, living abroad); Raman and Braha are not (family sorrow, loss through enemies, speech and eye complaints). Earnings come, but slowly and through work.",
+    "themes": [
+      "eloquence",
+      "work ethic",
+      "living away",
+      "family",
+      "earned wealth"
+    ],
+    "common_outcomes": [
+      "Earnings through hard work, coming slowly (Braha); intent on his own work (BPHS 24.62)",
+      "Family life strained by sorrow or quarrels (Raman; Braha)",
+      "Loss of money through enemies or thieves (Raman; Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.62: adventurous, famous among his people, a skilful speaker, living in foreign countries, happy",
+      "Raman and Braha both list speech and eye complaints (stammer, defective vision) as traditional notes",
+      "Raman: a weak, ill-disposed lord with a weak Venus is listed for loss or absence of a spouse and hardship (traditional view)",
+      "Rath: being 9th from the 6th, enemies suffer misfortune while the native becomes fortunate; counted back, it is 5th, so children may trouble the native"
+    ],
+    "by_area": {
+      "personality": "BPHS 24.62: adventurous and a skilful speaker. Braha: may use harsh language or untruths (traditional view).",
+      "career": "Intent on his own work (BPHS 24.62); earning through hard work (Braha).",
+      "finance": "Money comes slowly and with hard work (Braha); loss through enemies (Raman; Braha).",
+      "health": "Raman and Braha: eye, teeth, mouth or speech complaints (traditional notes only).",
+      "relationships": "Rath: hostile toward his enemies.",
+      "family": "Raman: suffering and sorrow in family life; Braha: domestic problems; BPHS: famous among his people.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The lagna lord stronger than the 6th lord, in a benefic's sign or amsa and aspected by a benefic (Phaladeepika 16.17: health and comfort)",
+      "The 6th lord in a benefic's sign and aspected by benefics (Raman, How to Judge a Horoscope p. 136: many friends)",
+      "Benefic aspect on the 2nd house (Phaladeepika 15.5)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: a weak, ill-disposed 6th lord here, with Venus weak, gives the harshest family results",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Phaladeepika 16.19: the house occupied by the 6th lord becomes a source of enmity for the native"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.62",
+        "view": "Sixth lord in the 2nd: brave, famous in his family, lives in foreign places, happy, a good speaker and devoted to his work.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-62"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.62 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Adventurous, famous among his people, lives in alien countries, happy, a skilful speaker, always interested in his own work.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "With benefic association (as printed): untold suffering in family life, loss of money through enemies, defective vision, uneven teeth, stammering. Weak and ill-disposed: loss of wife in the malefic's period; with Venus weak, celibacy and poverty.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "An artha lord in an artha house is good for earning, but money comes slowly with hard work since the 6th is a dusthana; domestic problems, foul language, limited education, poor right-eye vision, speech defect, loses money through enemies or thieves.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (pp. 120-121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The native is inimical toward the matters of the house where the 6th lord is placed; houses counted from the 6th to its lord are promoted for the native and damaged for the enemy, the reverse for houses counted back from the lord to the 6th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (p. 121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 6th lord in the 2nd: the native is inimical toward his enemies; enemies suffer misfortune and the native becomes fortunate, but counting back the native may be troubled by children.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "BPHS 24.62 is favourable (eloquent, famous, happy abroad); Raman and Braha are clearly unfavourable for family and money; Rath reads it as good for the native against enemies. The core that most sources share is effortful earnings and family strain.",
+    "confidence": "medium",
+    "phrasing_guidance": "Positive about work ethic and persistence. Say family finances and speech benefit from care; no health or loss predictions."
+  },
+  {
+    "id": "lord_in_house/6/3",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 3
+    },
+    "summary": "The lord of conflict in the house of siblings and courage. BPHS, Raman, Braha and Rath agree: friction with siblings, a quick temper and less courage than the house would suggest.",
+    "themes": [
+      "siblings",
+      "temper",
+      "subordinates",
+      "competition",
+      "effort"
+    ],
+    "common_outcomes": [
+      "Friction or enmity with siblings (BPHS 24.63; Raman; Braha; Rath)",
+      "Quick temper; lacking courage (BPHS 24.63; Braha; Rath)",
+      "Disobedient servants or helpers (BPHS 24.63)"
+    ],
+    "rare_outcomes": [
+      "Raman: a sibling's ill health, or the maternal uncle siding with a sibling against the native; a weak, afflicted lord is listed for no younger siblings",
+      "Braha: nursing or medical career; hearing trouble in the right ear; little enjoyment of the arts",
+      "Rath: being 10th from the 6th, it ruins the enemy's career and wealth while promoting the native's own"
+    ],
+    "by_area": {
+      "personality": "Given to anger and bereft of courage (BPHS 24.63); quarrelsome and fearful (Braha); cowardly and angry (Rath).",
+      "career": "Braha: nursing or medical profession. Rath: own career and wealth promoted at the enemy's expense.",
+      "finance": "",
+      "health": "Braha: hearing problems in the right ear (traditional note).",
+      "relationships": "Hostile to siblings (BPHS 24.63; Rath); enmity with brothers (Raman); sickly siblings (Braha).",
+      "family": "Raman: maternal uncle may side with a sibling against the native.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The lagna lord stronger than the 6th lord, in a benefic's sign or amsa and aspected by a benefic (Phaladeepika 16.17: health and comfort)",
+      "Rath: the 3rd is itself a dusthana in his scheme; dusthana lords associating in dusthanas form Vipareeta yoga (Crux 2.3)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: weak and afflicted, no younger siblings (traditional view)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Phaladeepika 16.19: the house occupied by the 6th lord becomes a source of enmity for the native"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.63",
+        "view": "Sixth lord in the 3rd: given to anger, lacking valour; a brother becomes an enemy and servants are disobedient.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-63"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.63 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Given to anger, bereft of courage, inimical to all co-born, with disobedient servants.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "Fortified: enmity with brothers, or the maternal uncle befriends a brother against the native, or a brother is often ill. Weak and afflicted: no younger brothers.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Little or no happiness from siblings, quarrelsome or bad-tempered, hard to achieve desires, career in nursing or medicine, lacks courage, fearful, hearing problems in right ear, sickly siblings.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (pp. 120-121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The native is inimical toward the matters of the house where the 6th lord is placed; houses counted from the 6th to its lord are promoted for the native and damaged for the enemy, the reverse for houses counted back from the lord to the 6th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (p. 121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 6th lord in the 3rd: detests co-borns, cowardly and angry; being 10th from the 6th it ruins the enemy's career and wealth while promoting the native's own.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Sources agree on sibling friction and low courage. Rath alone adds that the placement promotes the native's career at the enemy's expense.",
+    "confidence": "high",
+    "phrasing_guidance": "Say sibling and team relationships need patience and that confidence can be built. Avoid labelling the person cowardly or angry."
+  },
+  {
+    "id": "lord_in_house/6/4",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 4
+    },
+    "summary": "The lord of conflict in the house of mother, home and education. BPHS, Raman and Braha agree on strain with the mother and an unsettled home and education; BPHS alone adds great wealth.",
+    "themes": [
+      "mother",
+      "domestic friction",
+      "restlessness",
+      "property disputes",
+      "wealth"
+    ],
+    "common_outcomes": [
+      "Less happiness from or discord with the mother (BPHS 24.64; Raman; Braha)",
+      "Unsettled or difficult home, property and vehicles (Raman; Braha)",
+      "Breaks in education (Raman; Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.64: intelligent and very rich, but a tale-bearer, jealous and evil-minded (traditional view)",
+      "Raman: lives in a dilapidated building; maternal uncles may be cultivators; if weak and afflicted, ancestral property tied up in debts and trouble through servants",
+      "Braha: little ancestral inheritance; sickly at the close of life"
+    ],
+    "by_area": {
+      "personality": "Intelligent (BPHS 24.64); BPHS also lists jealousy and tale-bearing (traditional view).",
+      "career": "Raman: if weak and afflicted, menial work.",
+      "finance": "BPHS 24.64: very rich. Raman: ancestral property in debts if weak. Braha: few fixed assets.",
+      "health": "",
+      "relationships": "Raman p. 136: the 6th and lagna lords together in the 4th give constant trouble from relatives.",
+      "family": "Discord with or less comfort from the mother (BPHS 24.64; Raman; Braha); Braha: sickly mother.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The lagna lord stronger than the 6th lord, in a benefic's sign or amsa and aspected by a benefic (Phaladeepika 16.17: health and comfort)",
+      "The 6th lord in a benefic's sign and aspected by benefics (Raman, How to Judge a Horoscope p. 136: many friends)"
+    ],
+    "weakeners_or_cancellations": [
+      "The 6th lord in a kendra joined or aspected by malefics (Phaladeepika 16.16; Raman, How to Judge a Horoscope p. 136: constant trouble from enemies)",
+      "Lagna lord and 6th lord together in the 4th (Raman p. 136: trouble from relatives)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Phaladeepika 16.19: the house occupied by the 6th lord becomes a source of enmity for the native"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.64",
+        "view": "Sixth lord in the 4th: deprived of happiness from the mother; intelligent but a tale-bearer, jealous, unsteady-minded and very rich.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-64"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.64 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Devoid of maternal happiness, intelligent, a tale-bearer, jealous, evil-minded and very rich.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "Well fortified: lives in a dilapidated building, breaks in education, discards his mother; maternal uncles are cultivators. Weak and afflicted: quarrels with mother, ancestral property in debts, menial work, troublesome home and servants.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Important Combinations' (p. 136)",
+        "view": "The 6th lord in a kendra aspected by evil planets: vexed by enemies; lagna lord and 6th lord both in the 4th: troubled by relatives.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Discord with mother, sickly mother, difficulty owning land, home or conveyances, car problems, few comforts, breaks in education, hard to obtain a degree, little ancestral inheritance, few fixed assets.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (pp. 120-121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The native is inimical toward the matters of the house where the 6th lord is placed; houses counted from the 6th to its lord are promoted for the native and damaged for the enemy, the reverse for houses counted back from the lord to the 6th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.16-16.19 (tr. V. Subrahmanya Sastri)",
+        "view": "Malefics in the 6th, a strong 6th lord linked with the lagna lord, or the 6th lord in a kendra with malefics give lasting trouble from enemies; a lagna lord stronger than the 6th lord gives health; the 6th lord in a dusthana, weak, with a stronger lagna lord destroys enemies; the house the 6th lord occupies becomes inimical.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "BPHS 24.64 says very rich; Raman (ancestral property in debts) and Braha (few fixed assets) do not support this. All agree on the mother and home theme.",
+    "confidence": "high",
+    "phrasing_guidance": "Say home life, studies and the bond with the mother may need extra nurturing. Avoid negative character labels."
+  },
+  {
+    "id": "lord_in_house/6/5",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 5
+    },
+    "summary": "The lord of conflict in the house of children and intelligence. BPHS, Raman, Braha and Rath agree on friction or health concerns with children; Braha and Raman add competitive success and a fortunate link with the maternal uncle.",
+    "themes": [
+      "unstable gains",
+      "children friction",
+      "speculation risk",
+      "analytical mind",
+      "compassion"
+    ],
+    "common_outcomes": [
+      "Friction with children or friends (BPHS 24.65; Braha; Rath)",
+      "Fluctuating finances; losses from investments (BPHS 24.65; Braha)",
+      "Defeats enemies and competitors; good job and health (Braha)"
+    ],
+    "rare_outcomes": [
+      "Raman: sickly children; the native may be adopted by the maternal uncle and become fortunate",
+      "BPHS 24.65: happy, selfish yet kind",
+      "Braha: dull intellect or difficulty with exams (traditional view); knowledge of healing carried over from a past life"
+    ],
+    "by_area": {
+      "personality": "Happy, selfish and kind (BPHS 24.65); disturbed mind (Braha).",
+      "career": "Good job; beats competitors (Braha).",
+      "finance": "Fluctuating finances (BPHS 24.65); losses from investments (Braha).",
+      "health": "Braha: good health for the native.",
+      "relationships": "Enmity with friends (BPHS 24.65; Rath: friends become inimical as the 6th lord aspects the 11th); unhappy love affairs (Braha).",
+      "family": "Friction with children (BPHS 24.65; Braha; Rath); Raman: sickly children, adoption by the maternal uncle.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The lagna lord stronger than the 6th lord, in a benefic's sign or amsa and aspected by a benefic (Phaladeepika 16.17: health and comfort)",
+      "Benefic aspect on the 5th house (Phaladeepika 15.5)"
+    ],
+    "weakeners_or_cancellations": [
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Phaladeepika 16.19: the house occupied by the 6th lord becomes a source of enmity for the native"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman. For Virgo lagna Saturn rules both the 5th and 6th and is in its own sign here.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.65",
+        "view": "Sixth lord in the 5th: fluctuating wealth; enmity with sons and friends; happy, selfish and kind.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-65"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.65 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Fluctuating finances, enmity with sons and friends; happy, selfish and kind.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "Sickly children; the native will be adopted by his maternal uncle and become fortunate.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Friction with child, sickly child, disturbed mind, difficulty passing exams, healing knowledge from a past life, losses from investments, unhappy love affairs, but good health, good job, destroys enemies, beats competitors.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (pp. 120-121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The native is inimical toward the matters of the house where the 6th lord is placed; houses counted from the 6th to its lord are promoted for the native and damaged for the enemy, the reverse for houses counted back from the lord to the 6th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (p. 121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The 6th lord in the 5th can cause children or friends (it aspects the 11th) to become inimical.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Advise caution with speculation. Present friction with children or friends as something to work through; never predict a child's illness."
+  },
+  {
+    "id": "lord_in_house/6/6",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 6
+    },
+    "summary": "The 6th lord in its own house. Phaladeepika calls it Harsha yoga (happiness, health, victory over enemies); BPHS gives enmity with kin but friendship with outsiders; Braha is favourable; Raman, in 300 Combinations, says that in practice the evil of the 6th lordship is only modified, not removed.",
+    "themes": [
+      "Harsha yoga",
+      "victory over rivals",
+      "service",
+      "resilience",
+      "kin vs outsiders"
+    ],
+    "common_outcomes": [
+      "Overcomes enemies and competitors (Phaladeepika 6.63; Braha)",
+      "Friction with one's own kin but good relations with outsiders (BPHS 24.66; Raman, 300 Combinations remarks)",
+      "Benefits from cousins and the maternal uncle, who may be prominent (Raman; Braha)"
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 6.63 Harsha yoga: happiness, good fortune, a strong constitution, aversion to sin, friendship with eminent people, wealth, fame and sons",
+      "Raman, How to Judge a Horoscope: with a weak lagna lord, a lasting illness and enmity with kin (traditional view)",
+      "Raman p. 136: the 6th lord in the 6th with Mars, aspected by Rahu or Ketu, is listed for loss of estates by auction",
+      "Braha: healthy, good job, good workers, interest in medicine"
+    ],
+    "by_area": {
+      "personality": "Phaladeepika 6.63: afraid of sinful deeds, invincible. BPHS 24.66: friendly to outsiders.",
+      "career": "Braha: good job and good servants or workers; interest in medicine or healing.",
+      "finance": "Mediocre wealth (BPHS 24.66); wealthy (Braha; Phaladeepika 6.63).",
+      "health": "Strong constitution (Phaladeepika 6.63; Braha). Raman: a weak lagna lord with this placement is a traditional caution.",
+      "relationships": "Enmity with one's own kin, friendship with others (BPHS 24.66); friends among the eminent (Phaladeepika 6.63).",
+      "family": "Increase of cousins and a famous maternal uncle (Raman; Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "A strong lagna lord (Raman: the harsh result is tied to a weak lagna lord)",
+      "The 6th lord in a dusthana and debilitated, in an enemy sign or combust, with a stronger lagna lord (Phaladeepika 16.18: destruction of enemies)",
+      "The lagna lord stronger than the 6th lord, in a benefic's sign or amsa and aspected by a benefic (Phaladeepika 16.17: health and comfort)"
+    ],
+    "weakeners_or_cancellations": [
+      "Conjunction with a weak lagna lord (Raman: lasting illness and enmity with kin)",
+      "With Mars and aspected by Rahu or Ketu (Raman p. 136)",
+      "Raman, 300 Combinations no. 105: judge by 'the intrinsic evil nature of the ownership'"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.66",
+        "view": "Sixth lord in the 6th: enmity with own relatives, friendship with others; average wealth and happiness.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-66"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.63 (tr. V. Subrahmanya Sastri)",
+        "view": "The 6th lord in 6, 8 or 12 forms Harsha yoga: happy, fortunate, strong-bodied, overcomes enemies, shuns sin, befriends eminent people, gains wealth, fame, friends and children.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, nos. 105-107 Harsha, Sarala, Vimala Yogas (pp. 129-130), read in the book (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "The lords of the 6th, 8th and 12th in the 6th, 8th and 12th give Harsha, Sarala and Vimala. Raman remarks that in practice results have often been contrary, that Parashara does not support the evil of dusthana lordship vanishing, and cites BPHS: 6th lord in the 6th, relatives become enemies while outsiders become friends.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Astromedha, Harsha Yoga (practitioner site, via summary)",
+        "view": "Treats the 6th lord in the 6th as Harsha yoga if the lord is not debilitated or combust; gives victory over rivals and resilience.",
+        "url": "https://astromedha.in/insights/vedic/harsha-yoga"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.66 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Enmity with his kinsmen but friendly to others; mediocre happiness in matters like wealth.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "Increase of cousins; maternal uncle becomes famous; with a weak lagna lord, an incurable disease and increased enmity with kith and kin.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Important Combinations' (p. 136)",
+        "view": "The 6th lord in the 6th with Mars aspected by Rahu or Ketu: loss of estates by auction.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Own sign: healthy, good job, defeats enemies, beats competitors, wealthy, interest in medicine, good servants and workers, gains from maternal uncle, uncle prominent, benefits from cousins.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (p. 120) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "Lords of the 3rd, 6th, 8th or 12th in the 6th give good results because the significations of the dusthanas they rule are annihilated.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.16-16.19 (tr. V. Subrahmanya Sastri)",
+        "view": "Malefics in the 6th, a strong 6th lord linked with the lagna lord, or the 6th lord in a kendra with malefics give lasting trouble from enemies; a lagna lord stronger than the 6th lord gives health; the 6th lord in a dusthana, weak, with a stronger lagna lord destroys enemies; the house the 6th lord occupies becomes inimical.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Phaladeepika 6.57 counts the 6th lord in the 6th as Harsha yoga and Raman's own definition (6th, 8th and 12th lords in the 6th, 8th and 12th) includes it; an earlier note in this file, taken from a practitioner summary, wrongly said Raman excludes it. Raman nevertheless reports that in practice the results are often contrary and the evil is only modified. BPHS 24.66 is mixed, Braha and Phaladeepika favourable.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as strong resilience and the ability to beat obstacles. Mention family friction gently; no health predictions."
+  },
+  {
+    "id": "lord_in_house/6/7",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 7
+    },
+    "summary": "The lord of conflict in the house of marriage and partnership. BPHS, Raman and Braha agree on less happiness in marriage; BPHS still gives fame, virtue and wealth, while Raman adds marriage within the extended family and cautions about the spouse's health.",
+    "themes": [
+      "marital friction",
+      "partnership disputes",
+      "public standing",
+      "courage",
+      "wealth"
+    ],
+    "common_outcomes": [
+      "Less happiness through marriage; discord with the spouse (BPHS 24.67; Braha)",
+      "Partnerships that turn into disputes or debts (Braha)",
+      "Marriage to a cousin or within the extended family (Raman)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.67: famous, virtuous, honourable, adventurous and wealthy",
+      "Raman: the maternal uncle lives far away or abroad; an afflicted lord is listed for early separation or loss of the spouse, and certain sign conditions for a sickly or childless spouse (traditional view)",
+      "Bhavartha Ratnakara 9.21: the 6th, 7th and 10th lords in kendras or trikonas give power and fame (Raman notes the 6th-lord evil still appears in its period)",
+      "Rath (Crux 10.1.2): a 6th-7th link may mean marrying after starting work or a working spouse, or more serious things, depending on the chart"
+    ],
+    "by_area": {
+      "personality": "Famous, virtuous, honourable and adventurous (BPHS 24.67); Braha: unhappy, no fame (the 6th lord aspects the lagna).",
+      "career": "Rath: a 6th-7th link can mean marrying after joining service.",
+      "finance": "Wealthy (BPHS 24.67); Braha: debts on account of the spouse.",
+      "health": "Braha: poor health for the native (traditional note).",
+      "relationships": "Less marital happiness (BPHS 24.67); marital discord and unsuccessful partnerships (Braha); marriage to a cousin (Raman).",
+      "family": "Raman: maternal uncle lives far off or abroad.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The lagna lord stronger than the 6th lord, in a benefic's sign or amsa and aspected by a benefic (Phaladeepika 16.17: health and comfort)",
+      "The 6th lord in a benefic's sign and aspected by benefics (Raman, How to Judge a Horoscope p. 136: many friends)",
+      "6th, 7th and 10th lords all in kendras or trikonas (Bhavartha Ratnakara 9.21)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: an afflicted 6th lord gives the separation reading",
+      "The 6th lord in a kendra joined or aspected by malefics (Phaladeepika 16.16; Raman, How to Judge a Horoscope p. 136: constant trouble from enemies)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Phaladeepika 16.19: the house occupied by the 6th lord becomes a source of enmity for the native"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman. For Leo lagna Saturn rules both the 6th and the 7th and is in its own sign here.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.67",
+        "view": "Sixth lord in the 7th: deprived of happiness through the wife; famous, virtuous, proud, adventurous and wealthy.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-67"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.67 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Deprived of happiness through wedlock; famous, virtuous, honourable, adventurous and wealthy.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "Generally marries a maternal uncle's or paternal aunt's daughter; maternal uncle lives far off or abroad; afflicted: early divorce or loss of the wife; in hermaphrodite signs a sickly or barren wife; troubles with disreputable women.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Marital discord, unhealthy spouse, debts on account of spouse, unsuccessful partnerships; poor health, no fame and unhappy because the 6th lord aspects the ascendant.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. IX st. 21 with Raman's notes",
+        "view": "If the 6th, 7th and 10th lords are in kendras or trikonas the person enjoys power and fame; Raman notes the 6th lord does not lose its evil entirely, which shows in its period.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. X 10.1.2 (p. 147) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "Any link between the 6th and 7th houses can mean something as innocuous as marrying after joining service or having a working spouse, or something more serious, depending on the chart.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (pp. 120-121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The native is inimical toward the matters of the house where the 6th lord is placed; houses counted from the 6th to its lord are promoted for the native and damaged for the enemy, the reverse for houses counted back from the lord to the 6th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.16-16.19 (tr. V. Subrahmanya Sastri)",
+        "view": "Malefics in the 6th, a strong 6th lord linked with the lagna lord, or the 6th lord in a kendra with malefics give lasting trouble from enemies; a lagna lord stronger than the 6th lord gives health; the 6th lord in a dusthana, weak, with a stronger lagna lord destroys enemies; the house the 6th lord occupies becomes inimical.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "BPHS gives fame and wealth alongside marital unhappiness; Braha says no fame and debts. Raman's cousin-marriage and separation lines have no counterpart in BPHS.",
+    "confidence": "high",
+    "phrasing_guidance": "Say partnerships thrive with patience and clear communication. Never predict divorce, a spouse's illness or a 'bad marriage'."
+  },
+  {
+    "id": "lord_in_house/6/8",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 8
+    },
+    "summary": "A dusthana lord in another dusthana. BPHS, Raman and Braha read it unfavourably (health, rivals, debts, conduct), while Phaladeepika's Harsha yoga and Rath's Vipareeta principle read a reversal in the native's favour. Results depend heavily on the rest of the chart.",
+    "themes": [
+      "Harsha / Viparita yoga",
+      "reversal of obstacles",
+      "hidden matters",
+      "health sensitivity",
+      "research"
+    ],
+    "common_outcomes": [
+      "Health and routines need conscious attention (BPHS 24.68; Raman; Braha)",
+      "Powerful enemies or jealous people; trouble from subordinates (Braha)",
+      "Possible reversal: gains through others' setbacks when the Vipareeta condition holds (Rath; Phaladeepika 6.63)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.68 (both translations): sickly, hostile, coveting others' wealth and spouses, impure (traditional view); Raman's 300 Combinations quotes this line against Harsha yoga",
+      "Raman, How to Judge a Horoscope: fortified, middle-length life; afflicted, debts, a harsh disease and cruelty (traditional view)",
+      "Phaladeepika 6.63 Harsha yoga: happiness, good fortune, strong body, victory over enemies, wealth and fame",
+      "Braha: no gain from a partner's wealth, wills or insurance"
+    ],
+    "by_area": {
+      "personality": "BPHS 24.68 and Raman list harsh traits (traditional view); Phaladeepika 6.63 says afraid of sinful deeds.",
+      "career": "Braha: bad jobs, losses through subordinates.",
+      "finance": "Raman: debts if afflicted. Braha: no gains from wills, insurance or a partner's wealth.",
+      "health": "Sickly (BPHS 24.68); chronic illnesses (Braha); Phaladeepika 6.63 gives the opposite (strong body). Traditional notes only.",
+      "relationships": "Braha: powerful enemies or jealous people.",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The 6th lord in a dusthana and debilitated, in an enemy sign or combust, with a stronger lagna lord (Phaladeepika 16.18: destruction of enemies)",
+      "Association of the 6th and 8th lords in a dusthana without benefics (Rath, Crux 2.3: Vipareeta raja yoga)",
+      "Raman: the lord fortified gives the milder result"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: an afflicted lord gives debts and harsh disease",
+      "Raman, 300 Combinations no. 105: the 'sting' of the 6th lordship is only modified, not removed",
+      "Benefics conjoining a Vipareeta combination lose their own significations (Rath, Crux 2.3)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.68",
+        "view": "Sixth lord in the 8th: sickly, inimical to the learned, desirous of others' wealth and spouses, and impure.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-68"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.63 (tr. V. Subrahmanya Sastri)",
+        "view": "Harsha yoga: the 6th lord in 6, 8 or 12 gives happiness, fortune, strong body, victory over enemies, wealth, fame and good friends.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, nos. 105-107 Harsha, Sarala, Vimala Yogas (pp. 129-130), read in the book (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "Harsha: 6th lord in a dusthana gives fortune, health and fame; Raman remarks that in practice the results have often been contrary, quoting Parashara that the 6th lord in the 8th or 12th makes one sickly, hostile to the learned, adulterous and violent.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Barbara Pijan Lama, Viparita Raja Yoga (practitioner, via summary)",
+        "view": "Viparita results are situational: they open a window after others' misfortune and modify, not erase, the difficult lordship.",
+        "url": "https://www.barbarapijan.com/bpa/Yoga/Raja_Yoga/Viparita_Raja_yoga.htm"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.68 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Sickly, inimical, desires others' wealth, interested in others' wives, impure.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "Fortified: middle life (madhyayu). Afflicted: plenty of debts, loathsome diseases, pursues women other than his wife, takes pleasure in inflicting pain.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Unhealthy, chronic illnesses, bad jobs, powerful enemies or jealous people, bad servants, dishonest workers, losses due to subordinates, medium life span, no benefit from partner's wealth, wills or insurance.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. II 2.3 (pp. 12-13) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "Vipareeta yoga: lords of two malefic houses associating; when this happens in a dusthana a Vipareeta raja yoga results and the native gains by others' losses; benefics should not join it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (pp. 120-121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The native is inimical toward the matters of the house where the 6th lord is placed; houses counted from the 6th to its lord are promoted for the native and damaged for the enemy, the reverse for houses counted back from the lord to the 6th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.16-16.19 (tr. V. Subrahmanya Sastri)",
+        "view": "Malefics in the 6th, a strong 6th lord linked with the lagna lord, or the 6th lord in a kendra with malefics give lasting trouble from enemies; a lagna lord stronger than the 6th lord gives health; the 6th lord in a dusthana, weak, with a stronger lagna lord destroys enemies; the house the 6th lord occupies becomes inimical.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Direct conflict: BPHS 24.68, Raman (both books) and Braha are unfavourable; Phaladeepika 6.63 (Harsha) and Rath's Vipareeta principle are favourable. Raman explicitly argues against the favourable reading from practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as 'obstacles can turn around with discipline'. State BPHS's harsh line only as a traditional view if needed; no health, morality or longevity predictions."
+  },
+  {
+    "id": "lord_in_house/6/9",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 9
+    },
+    "summary": "The lord of conflict and service in the house of fortune, father and dharma. BPHS and Raman both name trade or work in wood and stone with fluctuating fortunes; Raman and Braha agree on friction with the father and benefits from the maternal uncle or cousins.",
+    "themes": [
+      "fluctuating fortune",
+      "trade",
+      "father",
+      "dharma tests",
+      "service"
+    ],
+    "common_outcomes": [
+      "Work in wood, stone or building materials; fluctuating professional fortunes (BPHS 24.69; Raman: mason, timber merchant or stone cutter)",
+      "Friction or misunderstanding with the father (Raman; Braha)",
+      "Benefits from the maternal uncle or cousins (Raman; Braha)"
+    ],
+    "rare_outcomes": [
+      "Raman: well fortified, the father may be a judge; afflicted, poverty, misfortune through relatives, ingratitude to teachers (traditional view)",
+      "Braha: good health, good jobs, honest workers and tenants; but bad luck, little faith and no gains from gurus",
+      "BPHS 24.69 (Sharma's note): 'pashana' can also mean poison"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Trade in wood and stone with fluctuating fortunes (BPHS 24.69); mason, timber merchant or stone cutter when moderately placed (Raman); good jobs (Braha).",
+      "finance": "Raman: poverty if afflicted. Braha: bad luck.",
+      "health": "Braha: good health.",
+      "relationships": "Benefits from cousins (Raman); powerful or religious maternal uncle (Braha).",
+      "family": "Friction with the father (Raman; Braha); Braha: sickly father or a father in medicine.",
+      "spirituality": "Braha: little enjoyment of religion, no faith, no gains from gurus; Raman: ungrateful toward preceptors if afflicted (traditional view)."
+    },
+    "strengtheners": [
+      "Raman: the lord well fortified gives a judge father and a fortunate maternal uncle",
+      "The lagna lord stronger than the 6th lord, in a benefic's sign or amsa and aspected by a benefic (Phaladeepika 16.17: health and comfort)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: afflicted gives poverty and unrighteous deeds (traditional view)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Phaladeepika 16.19: the house occupied by the 6th lord becomes a source of enmity for the native"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman. For Cancer (Jupiter 6+9) and Capricorn (Mercury 6+9) the 6th lord also owns the 9th and is in its own sign here; BPHS 34 calls both auspicious for those lagnas.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.69",
+        "view": "Sixth lord in the 9th: trades in wood and stone; business sees alternating losses and gains.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-69"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.69 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Trades in wood and stones ('pashana' may also mean poison) and has fluctuating professional fortunes.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "Well fortified: father becomes a judge, maternal uncle highly fortunate, misunderstandings with father, benefits from cousins. Afflicted: poverty, misfortunes through relatives, ungrateful to preceptors. Moderate: a mason, timber merchant or stone cutter.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Good health, good jobs, gains from a powerful or religious uncle, honest workers and tenants; friction with father, sickly father, father in medicine, bad luck, no faith, no gains from gurus.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (pp. 120-121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The native is inimical toward the matters of the house where the 6th lord is placed; houses counted from the 6th to its lord are promoted for the native and damaged for the enemy, the reverse for houses counted back from the lord to the 6th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.16-16.19 (tr. V. Subrahmanya Sastri)",
+        "view": "Malefics in the 6th, a strong 6th lord linked with the lagna lord, or the 6th lord in a kendra with malefics give lasting trouble from enemies; a lagna lord stronger than the 6th lord gives health; the 6th lord in a dusthana, weak, with a stronger lagna lord destroys enemies; the house the 6th lord occupies becomes inimical.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Say fortune is built through persistence and that business may be cyclical; treat the 'wood and stone' line as an old example of material trades."
+  },
+  {
+    "id": "lord_in_house/6/10",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 10
+    },
+    "summary": "The lord of service and competition in the house of career. BPHS is favourable (well known, a gifted speaker, happy abroad, but critical of the father); Raman and Braha are not (enemies blocking career, changes, hypocrisy or dismissal in Raman's harsh lines).",
+    "themes": [
+      "service career",
+      "competition at work",
+      "father",
+      "success abroad",
+      "reputation"
+    ],
+    "common_outcomes": [
+      "Career shaped by competition and enemies; obstacles to promotion (Braha; Raman)",
+      "Earnings through hard work, coming slowly (Braha)",
+      "Success or happiness in foreign countries (BPHS 24.70)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.70: well known among his people, a gifted speaker, not respectful toward the father",
+      "Raman: fortified, a show of orthodoxy covering unscrupulous conduct; weak, dismissal and formidable enemies (traditional view)",
+      "Braha: career in medicine; difficulty finding one's career or dharma",
+      "Raman, 300 Combinations no. 265 Vrana yoga (malefic 6th lord in the 10th) is a classical illness combination Raman says not to apply literally"
+    ],
+    "by_area": {
+      "personality": "Gifted speaker (BPHS 24.70). Raman's 'poses as pious' line is a traditional view.",
+      "career": "Well known (BPHS 24.70); enemies harm career, career changes, medicine (Braha); dismissal if weak (Raman).",
+      "finance": "Braha: money comes slowly and after hard work.",
+      "health": "",
+      "relationships": "",
+      "family": "Not respectfully disposed to the father (BPHS 24.70).",
+      "spirituality": "Raman: outward orthodoxy without inner scruple (traditional view)."
+    },
+    "strengtheners": [
+      "The 6th lord in a benefic's sign and aspected by benefics (Raman, How to Judge a Horoscope p. 136: many friends)",
+      "The lagna lord stronger than the 6th lord, in a benefic's sign or amsa and aspected by a benefic (Phaladeepika 16.17: health and comfort)",
+      "6th, 7th and 10th lords in kendras or trikonas (Bhavartha Ratnakara 9.21: power and fame)"
+    ],
+    "weakeners_or_cancellations": [
+      "The 6th lord in a kendra joined or aspected by malefics (Phaladeepika 16.16; Raman, How to Judge a Horoscope p. 136: constant trouble from enemies)",
+      "Raman: a weak lord gives dismissal and powerful enemies",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Phaladeepika 16.19: the house occupied by the 6th lord becomes a source of enmity for the native"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.70",
+        "view": "Sixth lord in the 10th: famous in the family, not devoted to (or critical of) the father, and happy abroad.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-70"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.70 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Well known among his men, not respectfully disposed to his father, happy in foreign countries, a gifted speaker.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "Fortified: sinful and destructive, poses as orthodox and pious but unscrupulous in religious matters. Weak: dismissal, formidable enemies, low life or begging.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "An artha lord in an artha house is good for earning, but money comes slowly after hard work; career in medicine, difficulty finding one's career, changes in career, enemies harm career or stand in the way of promotion.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. IX st. 21",
+        "view": "The 6th, 7th and 10th lords in kendras or trikonas: power and much fame.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (pp. 120-121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The native is inimical toward the matters of the house where the 6th lord is placed; houses counted from the 6th to its lord are promoted for the native and damaged for the enemy, the reverse for houses counted back from the lord to the 6th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.16-16.19 (tr. V. Subrahmanya Sastri)",
+        "view": "Malefics in the 6th, a strong 6th lord linked with the lagna lord, or the 6th lord in a kendra with malefics give lasting trouble from enemies; a lagna lord stronger than the 6th lord gives health; the 6th lord in a dusthana, weak, with a stronger lagna lord destroys enemies; the house the 6th lord occupies becomes inimical.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "BPHS 24.70 is favourable (fame, speech, success abroad); Raman and Braha are unfavourable for career. Bhavartha Ratnakara gives a fame yoga when the 6th, 7th and 10th lords all occupy kendras or trikonas.",
+    "confidence": "medium",
+    "phrasing_guidance": "Positive about persistence in a competitive career and success abroad. Mention the father relationship gently, if at all; no moral labels."
+  },
+  {
+    "id": "lord_in_house/6/11",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 11
+    },
+    "summary": "The lord of competition in the house of gains and elder siblings. BPHS gives wealth through enemies, virtue and courage but less happiness from children; Raman and Braha focus on the elder sibling and on gains that vary with the lord's condition.",
+    "themes": [
+      "gains through competition",
+      "courage",
+      "honour",
+      "children concerns",
+      "settlements"
+    ],
+    "common_outcomes": [
+      "Gains through competition, enemies or service (BPHS 24.71; Braha: profitable jobs)",
+      "Elder sibling's fortunes and relations are a theme (Raman; Braha)",
+      "Courage and virtue (BPHS 24.71)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.71: somewhat less happiness from children",
+      "Raman: benefic, the eldest brother may be a judge; ordinary, he holds such a post for a time; malefic, a hard life and suffering through convictions (traditional view)",
+      "Braha: problems with friends, few opportunities, hard to fulfil desires; wealthy uncle",
+      "A strong 2nd lord joined with the 6th lord or Mars, with a strong lagna lord, gives wealth through enemies (Raman, 300 Combinations no. 140)"
+    ],
+    "by_area": {
+      "personality": "Virtuous and adventurous (BPHS 24.71).",
+      "career": "Profitable jobs (Braha).",
+      "finance": "Wealth through enemies (BPHS 24.71); Raman: a poor life if the lord is malefic.",
+      "health": "Braha: good health.",
+      "relationships": "Braha: problems with friends; bad friends.",
+      "family": "Discord with or ill health of the eldest sibling (Braha); eldest brother a judge if benefic (Raman); less happiness from children (BPHS 24.71).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman: a benefic disposition gives the judge result for the elder sibling",
+      "A strong 2nd lord joined with the 6th lord (Raman, 300 Combinations no. 140 Satrumooladdhana)",
+      "The lagna lord stronger than the 6th lord, in a benefic's sign or amsa and aspected by a benefic (Phaladeepika 16.17: health and comfort)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: a malefic disposition gives a hard life (traditional view)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Phaladeepika 16.19: the house occupied by the 6th lord becomes a source of enmity for the native"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman. For Gemini (Mars 6+11) and Sagittarius (Venus 6+11) the 6th lord also rules the 11th and is in its own sign here; Raman calls Mars the most malefic planet for Gemini.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.71",
+        "view": "Sixth lord in the 11th: wealth gained through enemies; virtuous, adventurous and honoured, but without happiness from children.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-71"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.71 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Gains wealth through enemies, virtuous, adventurous, somewhat bereft of progenic happiness.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "If benefic, the eldest brother will be a judge; if ordinary, he becomes a judge for a time but loses the post; if malefic, a poor and wretched life and suffering on account of convictions.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Profitable jobs, good health, discord with eldest sibling, sickly eldest sibling, wealthy uncle, problems with friends, few opportunities, hard to fulfil desires.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 140 Satrumooladdhana Yoga (p. 151) (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "A strong 2nd lord joined with the 6th lord or Mars, with a powerful lagna lord in vaiseshikamsa: earns money through enemies.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (pp. 120-121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The native is inimical toward the matters of the house where the 6th lord is placed; houses counted from the 6th to its lord are promoted for the native and damaged for the enemy, the reverse for houses counted back from the lord to the 6th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.16-16.19 (tr. V. Subrahmanya Sastri)",
+        "view": "Malefics in the 6th, a strong 6th lord linked with the lagna lord, or the 6th lord in a kendra with malefics give lasting trouble from enemies; a lagna lord stronger than the 6th lord gives health; the 6th lord in a dusthana, weak, with a stronger lagna lord destroys enemies; the house the 6th lord occupies becomes inimical.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "BPHS reads gains through enemies; Braha reads few opportunities and hard-won desires. Raman makes the result depend on whether the lord is benefic, ordinary or malefic.",
+    "confidence": "medium",
+    "phrasing_guidance": "Positive about winning through competition. Mention elder siblings or friends gently; never predict problems with children."
+  },
+  {
+    "id": "lord_in_house/6/12",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 6,
+      "placed_in": 12
+    },
+    "summary": "A dusthana lord in the house of loss. BPHS, Raman and Braha read it unfavourably (spending on vices, harm to others, bad health and jobs); Phaladeepika's Harsha yoga and Rath's Vipareeta principle read enemies and debts dissolving.",
+    "themes": [
+      "Harsha / Viparita yoga",
+      "expenditure",
+      "enemies dissolve",
+      "foreign lands",
+      "conduct"
+    ],
+    "common_outcomes": [
+      "Spending that needs discipline (BPHS 24.72)",
+      "Losses through subordinates or dishonest workers (Braha)",
+      "Possible reversal: enemies suffer loss and the native gains, especially with the 12th lord involved (Rath; Phaladeepika 6.63)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.72 (both translations): spends on vices, hostile to the learned, cruel to living beings (traditional view); Raman's 300 Combinations quotes this against Harsha yoga",
+      "Raman, How to Judge a Horoscope: even well disposed, sorrow through a destructive nature; afflicted, a hard existence (traditional view)",
+      "Phaladeepika 6.63 Harsha yoga: happiness, good fortune, strong body, victory over enemies, wealth and fame",
+      "Braha: hearing and eyesight complaints on the left side; little sexual pleasure (traditional notes)"
+    ],
+    "by_area": {
+      "personality": "BPHS 24.72 and Raman list harsh traits (traditional view); Phaladeepika 6.63 says afraid of sinful deeds.",
+      "career": "Braha: bad jobs, dishonest workers, losses through subordinates.",
+      "finance": "Spending on vices (BPHS 24.72).",
+      "health": "Braha: bad health (traditional note); Phaladeepika 6.63 gives a strong body.",
+      "relationships": "Braha: little sexual pleasure.",
+      "family": "Braha: an unfortunate maternal uncle.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The 6th lord in a dusthana and debilitated, in an enemy sign or combust, with a stronger lagna lord (Phaladeepika 16.18: destruction of enemies)",
+      "6th and 12th lords conjoined, especially in a dusthana (Rath, Crux 2.3: the enemy suffers losses and the native gains; Vipareeta raja yoga)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: afflicted gives a hard existence",
+      "Raman, 300 Combinations no. 105: the evil of the 6th lordship is only modified",
+      "Benefics joining the combination lose their own significations (Rath, Crux 2.3)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley): lords of the 3rd, 6th and 11th give evil effects, and Raman ranks the 6th lord less malefic than the 11th but more than the 3rd. By lagna: Mercury (3+6) is the greatest malefic for Aries and Mars (6+11) the most malefic for Gemini (Raman); Saturn (6+7) for Leo, Jupiter (3+6) for Libra, the Moon for Aquarius and the Sun for Pisces are malefics (BPHS 34.29-44); Venus (6+11) is the only inauspicious planet for Sagittarius (BPHS 34.37). Exceptions: Jupiter (6+9) for Cancer and Mercury (6+9) for Capricorn are auspicious (BPHS 34.27, 34.39; Raman); Mars (1+6) is neutral for Scorpio (BPHS 34.35; Raman); for Taurus, Venus (1+6) is listed as a malefic in BPHS 34.23 but neutral in Raman, and Frawley says a lagna lord stays generally auspicious though tainted by the 6th; Saturn (5+6) for Virgo is neutral in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.72",
+        "view": "Sixth lord in the 12th: spends on vices, hostile to the learned and given to harming living beings.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-72"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.63 (tr. V. Subrahmanya Sastri)",
+        "view": "Harsha yoga: 6th lord in 6, 8 or 12 gives happiness, fortune, victory over enemies, wealth and fame.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, nos. 105-107 Harsha, Sarala, Vimala Yogas (pp. 129-130), read in the book (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "Harsha: 6th lord in a dusthana gives fortune and fame; Raman remarks that in practice results have often been contrary and quotes Parashara that the 6th lord in the 8th or 12th makes one sickly, hostile to the learned, adulterous and violent.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.72 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Always spends on vices, hostile to learned people, tortures living beings.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IX 'Results of Lord of Sixth House Occupying Different Houses' (pp. 135-136)",
+        "view": "Well disposed: difficulty and sorrow through a destructive nature; causes harm to others. Afflicted: a miserable, hard existence.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 6th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Bad health, bad jobs, dishonest workers, losses through subordinates, unfortunate uncle, no sexual pleasure, plain bedding, ailments of the anus, left ear and left eye.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. II 2.3 (pp. 12-13) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "If the 6th lord and 12th lord conjoin, the enemy suffers losses and the native gains; in a dusthana this becomes a Vipareeta raja yoga; benefics should not join it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. IX 9.3 (pp. 120-121) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "The native is inimical toward the matters of the house where the 6th lord is placed; houses counted from the 6th to its lord are promoted for the native and damaged for the enemy, the reverse for houses counted back from the lord to the 6th.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.16-16.19 (tr. V. Subrahmanya Sastri)",
+        "view": "Malefics in the 6th, a strong 6th lord linked with the lagna lord, or the 6th lord in a kendra with malefics give lasting trouble from enemies; a lagna lord stronger than the 6th lord gives health; the 6th lord in a dusthana, weak, with a stronger lagna lord destroys enemies; the house the 6th lord occupies becomes inimical.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of the 3rd, 6th and 11th give evil effects; lagna-by-lagna lists (e.g. Jupiter auspicious for Cancer, Mercury and Venus auspicious for Capricorn, Mars neutral for Scorpio, Venus the only inauspicious planet for Sagittarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lords of the 3rd, 6th and 11th are malefic, the 11th worst, the 6th less, the 3rd least; per-lagna lists of benefic, malefic and neutral planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 3, 6 and 11 are generally inauspicious and project a more negative force than the lords of 6, 8 and 12 as houses; the lagna lord stays generally auspicious even if it also rules the 6th; the 6th lord 'promotes disease or gives power to our enemies, as that is what it rules'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Direct conflict: BPHS 24.72, Raman (both books) and Braha are unfavourable; Phaladeepika 6.63 and Rath's Vipareeta principle are favourable. Raman argues from practice that the favourable reading rarely holds in full.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as 'conflicts tend to dissolve' and advise mindful spending. State BPHS's harsh line only as a traditional view if needed; no moral judgements."
+  }
+]

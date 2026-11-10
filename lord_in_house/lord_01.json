@@ -1,0 +1,1006 @@
+[
+  {
+    "id": "lord_in_house/1/1",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 1
+    },
+    "summary": "The lagna lord in its own house (always its own sign) makes the self strong and self-directed: good physical vitality, cleverness and independence, with a restless or changeable streak.",
+    "themes": [
+      "self-reliance",
+      "vitality",
+      "independence",
+      "restlessness"
+    ],
+    "common_outcomes": [
+      "strong sense of identity and personal initiative",
+      "good bodily comfort and resilience",
+      "clever, capable of shaping own circumstances",
+      "some fickleness or restlessness of mind"
+    ],
+    "rare_outcomes": [
+      "BPHS (traditional view) mentions more than one marriage or relationships outside marriage; this is a text-specific line, not a general rule"
+    ],
+    "by_area": {
+      "personality": "Self-reliant and independent; lives by own exertion; clever and vigorous but changeable (BPHS 24.1; Raman HTJH I; Rath 4.4.1: strong, brave, intelligent, fickle-minded).",
+      "career": "Rises by own effort; when the lagna lord is well placed the person becomes known in own community and country (Raman HTJH I).",
+      "finance": "Charak lists ownership of, and benefit from, landed property.",
+      "health": "Sound health and long life (Charak); a strong lagna lord in a kendra supports bodily well-being (BPHS 12.1). Do not make medical claims.",
+      "relationships": "BPHS 24.1, Raman ('one married and another illegal'), Charak and Rath all repeat a traditional line about two marriages or outside ties; treat it as a sign of an independent streak to be checked against the 7th house and Venus.",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "lagna lord is automatically in own sign here; for Virgo lagna Mercury is also exalted; strong shadbala and good navamsa (own/exalted/friendly D9) amplify results",
+      "benefic aspects or conjunctions on the lagna (BPHS 12.4)",
+      "lagna lord a natural benefic (Mercury, Jupiter, Venus) in a kendra: BPHS 12.5 promises long life, wealth, intelligence and royal favour",
+      "lagna lord in a movable sign aspected by benefics: fame and comforts (BPHS 12.6)",
+      "lords of the 1st, 2nd and 11th each in their own house form a dhana yoga (Bhavartha Ratnakara II, Dhana yogas st. 7)",
+      "well disposed in the lagna: fame in own community and country (Raman HTJH I)"
+    ],
+    "weakeners_or_cancellations": [
+      "combustion by the Sun or association with malefics/dusthana lords reduces the good effect (BPHS 12.1-2)",
+      "papakartari (hemmed between malefics) around the lagna (Phaladeepika 15.6)",
+      "debilitated or weak in navamsa"
+    ],
+    "lagna_or_context_notes": "The lagna lord is treated as auspicious for its lagna even when a natural malefic (Phaladeepika 15.10; BPHS 34; Laghu Parashari sloka 6 commentary: the lagna lord is auspicious under all conditions). For Aries and Libra lagna the lagna lord also owns the 8th; Laghu Parashari sloka 9 says the 8th-lord blemish is removed when that planet is also the lagna lord, and O.P. Verma's commentary adds that this holds when it sits in the lagna or the 8th, which is the case here. Lagna lord placed in its own house gives that house's well-being (Phaladeepika 15.9).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.1 (Sanskrit with English, enjoylearningsanskrit.com)",
+        "view": "Bodily comfort, strength, intelligence, but fickle; two wives or relations with others possible.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-1"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.1 (English, Santhanam-based text on archive.org)",
+        "view": "Physical well-being and prowess; clever but inconstant; two wives or affairs.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 12.1, 12.5-6 (Tanu Bhava)",
+        "view": "Lagna lord in kendra/kona gives bodily happiness; benefic lagna lord in kendra gives long life, wealth, intellect, royal favour.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-12"
+      },
+      {
+        "source": "Phaladeepika 15.9-10 (Mantreswara)",
+        "view": "The bhava occupied by the lagna lord flourishes; even a malefic lagna lord promotes the house it occupies.",
+        "url": "https://www.siva.sh/phaladeepika/15/6-10"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "Lives by own exertion, independent spirit; two wives or one married and another illicit. Well disposed: famous in own community and country. Results must be weighed by the lord's strength and aspects.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Sound health, long-lived, valorous, thoughtful, very fickle; two wives, adulterous; owns and benefits from landed property.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.1 (p. 34)",
+        "view": "Strong, fickle-minded, brave, intelligent; two or more wives; a mahapurusha (great person).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Dhana yogas st. 7",
+        "view": "Dhana yoga if the lords of the 11th, 1st and 2nd are in their respective houses.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, slokas 6 and 9 with notes",
+        "view": "Trikona lords (lagna included per Sita Ram Jha) are auspicious and the lagna lord is auspicious under all conditions; an 8th lord who also owns the lagna is auspicious, especially when placed in the lagna or the 8th.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "All sources agree on strength and independence. BPHS, Raman, Charak and Rath all repeat the two-marriages line; it is not echoed in the general bhava rules, and Raman stresses that such combinations are general and must be weighed by the lord's strength and aspects.",
+    "confidence": "high",
+    "phrasing_guidance": "Emphasise self-reliance, vitality and initiative; mention restlessness as something to channel. Do not predict multiple marriages or infidelity; at most say traditional texts link this to a strong independent streak in relationships."
+  },
+  {
+    "id": "lord_in_house/1/2",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 2
+    },
+    "summary": "The self is invested in wealth, family and speech: the person works to build resources and values, and tends to be cultured, principled and contented.",
+    "themes": [
+      "wealth-building",
+      "family values",
+      "speech",
+      "learning"
+    ],
+    "common_outcomes": [
+      "gains wealth through own effort",
+      "learned, well-spoken and principled",
+      "close identification with family and its values",
+      "contentment and good conduct"
+    ],
+    "rare_outcomes": [
+      "youthful appearance (ELS rendering of BPHS 24.2)",
+      "BPHS traditional line mentioning more than one wife or many spouses",
+      "Raman: teased or worried by enemies; prominent eyes",
+      "Rath 4.4.2: happiness from children hard to obtain (traditional view)"
+    ],
+    "by_area": {
+      "personality": "Cultured, dutiful, content and honourable (BPHS 24.2); good character, generous-hearted, ambitious and far-sighted when well placed (Raman HTJH I); sober and self-respecting (Charak).",
+      "career": "",
+      "finance": "More gains (Raman HTJH I); learned and prosperous (Charak; Rath 4.4.2: scholarly, wealthy); the lagna lord nourishes the house of wealth (Phaladeepika 15.9).",
+      "health": "",
+      "relationships": "BPHS 24.2 (Santhanam rendering) and Charak mention several spouses; treat as text-specific.",
+      "family": "Gladly discharges duties to kith and kin when the lord is well disposed (Raman HTJH I).",
+      "spirituality": "Religious-minded (BPHS 24.2 Santhanam rendering; Charak; Rath 4.4.2)."
+    },
+    "strengtheners": [
+      "lagna lord in own sign in the 2nd (Capricorn lagna: Saturn in Aquarius) or a friendly sign",
+      "Jupiter or Venus aspecting or joining",
+      "link with the 11th lord (BPHS 13.4 wealth yoga logic)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction to the 2nd house can sharpen speech (BPHS 13.13 for afflicted 2nd)",
+      "debilitation (Sagittarius lagna: Jupiter in Capricorn) or combustion"
+    ],
+    "lagna_or_context_notes": "For Capricorn lagna Saturn owns both the 1st and 2nd and sits in its own sign Aquarius; Bhavartha Ratnakara (II, Dhana st. 7) counts lords of the 1st, 2nd and 11th in their own houses as a dhana yoga, which this placement partly meets.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.2 (enjoylearningsanskrit.com)",
+        "view": "Youthful look, gains, learned, content, good conduct, honourable, good spouses.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-2"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.2 (Santhanam-based text, archive.org)",
+        "view": "Earns well, learned, religious, honourable; many wives.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.9 (Mantreswara)",
+        "view": "The house the lagna lord occupies prospers.",
+        "url": "https://www.siva.sh/phaladeepika/15/6-10"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "More gains, worried by enemies, good character, respectable and generous. Well disposed: discharges duties to kith and kin, ambitious, prominent eyes, forethought.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Learned, prosperous, religious, long-lived, sober, self-respecting; several wives; many virtues; earns from land and horses.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.2 (p. 34)",
+        "view": "Scholarly, wealthy, happy, religious, honourable and passionate; progenic bliss hard to obtain.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      }
+    ],
+    "disagreements": "Renderings differ slightly ('good spouses' vs 'many wives'; Charak also 'several wives'). Rath adds that children are hard to obtain, a line not in BPHS 24.2 as rendered here or in Raman.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as an orientation toward building resources and living by family values. Avoid any claims about number of marriages."
+  },
+  {
+    "id": "lord_in_house/1/3",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 3
+    },
+    "summary": "The self expresses itself through courage, initiative and communication: brave, enterprising and self-made, with siblings and short ventures prominent.",
+    "themes": [
+      "courage",
+      "initiative",
+      "communication",
+      "siblings",
+      "self-effort"
+    ],
+    "common_outcomes": [
+      "lion-like courage and willingness to take risks",
+      "prosperity and honour won by personal effort",
+      "intelligent and content",
+      "help from, and rise through, siblings (Raman, Charak, Rath)"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional line: two wives",
+      "Raman: fame as a musician or mathematician when well disposed"
+    ],
+    "by_area": {
+      "personality": "Bold and enterprising with lion-like courage (BPHS 24.3; Charak); Rath 6.5: dynamic, enterprising, bold and fortunate, as the lord aspects the 9th from here.",
+      "career": "When the lagna lord is well disposed, rise in life comes through brothers, and the person may become known as a musician or mathematician depending on the sign and planets involved (Raman HTJH I).",
+      "finance": "Prosperous (BPHS 24.3; Charak; Rath 4.4.3: wealthy, fortunate).",
+      "health": "Rath 6.5: the Martian influence of the 3rd gives a robust physique.",
+      "relationships": "BPHS 24.3, Raman and Charak repeat a two-marriages line; check the 7th house before saying anything.",
+      "family": "Brothers are helpful (Rath 4.4.3); blessed with brothers and relatives (Charak); rise through brothers (Raman).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Mars connection or strong lagna lord: upachaya placements improve with malefic strength (Phaladeepika 15.7: strong malefics in 3/6/11 support)",
+      "exaltation: Scorpio lagna, Mars in Capricorn",
+      "benefic aspect on the 3rd; good D9 dignity"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Leo lagna (Sun in Libra) and Aquarius lagna (Saturn in Aries)",
+      "the 3rd is a mildly malefic (trishadaya) house; association with the 3rd lord's malefic role may bring restlessness",
+      "affliction can make courage turn into rashness or conflicts with siblings"
+    ],
+    "lagna_or_context_notes": "Rath (Crux 6.5) reads the Martian influence of the 3rd as good for the lagna lord: robust physique and success in contests, plus fortune through its aspect on the 9th. Phaladeepika 15.7 adds that strong malefics in the 3rd, 6th or 11th from a bhava support it.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.3 (enjoylearningsanskrit.com)",
+        "view": "Brave as a lion, prosperous, honoured, intelligent, content; two wives.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-3"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.3 (Santhanam-based text, archive.org)",
+        "view": "Lion-like courage, wealth, honour, intelligence, happiness; two wives.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.7 (Mantreswara)",
+        "view": "Strong malefics in the 3rd, 6th or 11th from a bhava support it during their periods.",
+        "url": "https://www.siva.sh/phaladeepika/15/6-10"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "Highly courageous, fortunate, respectable, two wives, intelligent, happy. Well disposed: rise through brothers; may become famous as a musician or mathematician.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Very courageous like a lion, prosperous, wise, self-respecting, two wives, blessed with brothers and relatives.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.3 (p. 34)",
+        "view": "Courageous, wealthy, honourable, fortunate, intelligent, happy, passionate; brothers helpful.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 6.4-6.5 (third lord; lords in the third) (pp. 65-66)",
+        "view": "With the lagna lord in the 3rd the native is dynamic, enterprising, bold and fortunate (it aspects the 9th); the Martian influence gives a robust physique and success in battles.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      }
+    ],
+    "disagreements": "Classical and modern sources agree on courage and self-effort. The two-marriages line appears in BPHS, Raman and Charak but not in Rath.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as courage and self-made success. Mention the 'two wives' line only as an old textual statement if asked, never as a prediction."
+  },
+  {
+    "id": "lord_in_house/1/4",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 4
+    },
+    "summary": "The self is rooted in home, mother and inner contentment: the person enjoys parental support, comforts and an attractive, pleasant nature.",
+    "themes": [
+      "home",
+      "mother",
+      "comfort",
+      "emotional security",
+      "property"
+    ],
+    "common_outcomes": [
+      "happiness from parents, especially mother",
+      "comforts of home, property or vehicles",
+      "pleasant, attractive, good-natured",
+      "property gained through the mother's side when well placed (Raman)"
+    ],
+    "rare_outcomes": [
+      "BPHS: many siblings (brothers)",
+      "BPHS: a pleasure-loving or sensual temperament"
+    ],
+    "by_area": {
+      "personality": "Gentle, appealing, virtuous but fond of pleasures (BPHS 24.4); materialistic, well built, fair-looking and well-behaved (Raman HTJH I).",
+      "career": "",
+      "finance": "If well disposed, considerable landed property, especially through maternal sources; rich, happy, famous, with many conveyances (Raman HTJH I).",
+      "health": "Kendra placement of the lagna lord supports bodily comfort (BPHS 12.1); Charak adds long life and a small appetite.",
+      "relationships": "",
+      "family": "Happiness from parents and many brothers (BPHS 24.4; Raman); devoted to mother and father (Charak); parental happiness assured (Rath 4.4.4).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "lagna lord in own sign in the 4th (Gemini lagna: Mercury in Virgo, also exalted; Sagittarius lagna: Jupiter in Pisces)",
+      "lagna lord in the 4th aspected by benefics gives complete domestic happiness (BPHS 15.2)",
+      "strong Moon (karaka for mother)",
+      "exchange of the 1st and 4th lords gives Bhagyavahana yoga: general fortune and vehicles (Bhavartha Ratnakara IV st. 13)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction to the 4th or Moon reduces domestic peace",
+      "debilitation: Aries lagna (Mars in Cancer) and Capricorn lagna (Saturn in Aries); neecha-bhanga rules may modify",
+      "combustion"
+    ],
+    "lagna_or_context_notes": "For Aries lagna (Mars in Cancer) and Capricorn lagna (Saturn in Aries) the lagna lord is debilitated in the 4th, so results are mixed unless cancellation applies. For Gemini and Sagittarius lagna, the lagna lord also owns the 4th, giving a strong own-sign placement.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.4 (enjoylearningsanskrit.com)",
+        "view": "Parental comforts, many siblings, sensual, virtuous, charming.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-4"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.4 (Santhanam-based text, archive.org)",
+        "view": "Paternal and maternal happiness, several brothers, lustful yet virtuous and charming.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 15.2 (Bandhu Bhava)",
+        "view": "Lagna lord (or 4th lord) in the 4th with benefic aspect gives full domestic happiness.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-15"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "Happiness from parents, many brothers, materialistic, well built, fair, well behaved. Favourably disposed: considerable landed property especially through maternal sources, rich, famous, many conveyances.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Comforts from mother, several brothers, sensuous, virtuous, good-looking, long-lived, devoted to parents, small appetite.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.4 (p. 34)",
+        "view": "Parental happiness assured; siblings, properties, virtues and charm; works with missionary zeal.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. IV st. 13",
+        "view": "Bhagyavahana yoga (fortune and conveyances) when the lords of the lagna and the 4th exchange houses.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "Sources agree. The 'many siblings' line (BPHS, Raman, Charak) is not explained by house logic and is treated as text-specific.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a home-centred, comfort-seeking, family-supported nature. Avoid predicting number of siblings."
+  },
+  {
+    "id": "lord_in_house/1/5",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 5
+    },
+    "summary": "A kendra-trikona link: the self joins intelligence, creativity and merit. The person is respected and favoured by authorities but can be proud or quick-tempered; children are a focus with some traditional cautions.",
+    "themes": [
+      "intelligence",
+      "children",
+      "creativity",
+      "status",
+      "pride"
+    ],
+    "common_outcomes": [
+      "respected and honoured",
+      "favour of superiors, rulers or government",
+      "service to or work under others (Raman, Rath)",
+      "pride and a quick temper"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional line: moderate happiness from children and difficulty concerning the first child; state only as a traditional view"
+    ],
+    "by_area": {
+      "personality": "Honourable, proud, short-tempered (BPHS 24.5; Charak; Rath 4.4.5); Raman adds subservient, serving others.",
+      "career": "If fortified, in the good graces of rulers or political parties and likely to enter trade or diplomatic service (Raman HTJH I); Rath: a favourite of rulers who still tends to serve others.",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "BPHS 24.5, Raman, Charak and Rath all carry a traditional caution about the first child and modest happiness from children; state only as an old view.",
+      "spirituality": "If fortified, propitiates deities suited to the 5th lord (Raman HTJH I); given to virtuous deeds (Charak)."
+    },
+    "strengtheners": [
+      "exaltation: Pisces lagna, Jupiter in Cancer",
+      "Phaladeepika 15.10 example: Mars as lagna lord in the 5th (Leo for Aries, Pisces for Scorpio) aspected by a benefic brings children soon",
+      "Jupiter (karaka of children) strong; benefic aspect on the 5th"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction to the 5th or Jupiter is where the BPHS child caution becomes relevant",
+      "debilitation: Cancer lagna (Moon in Scorpio) and Taurus lagna (Venus in Virgo); combustion"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 15.10 gives a direct example: Mars as lagna lord in the 5th (Leo for Aries, Pisces for Scorpio) with benefic aspect promises children early, which softens the BPHS caution. The lagna lord in a kona falls under BPHS 12.1 (bodily happiness).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.5 (enjoylearningsanskrit.com)",
+        "view": "Moderate happiness from children, first child lost; honourable, angry, dear to rulers.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-5"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.5 (Santhanam-based text, archive.org)",
+        "view": "Mediocre progenic happiness, loses first child; honoured, given to anger, dear to the king.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.10 (Mantreswara)",
+        "view": "A malefic lagna lord still promotes the house it occupies; Mars as lagna lord in the 5th aspected by a benefic gives sons quickly.",
+        "url": "https://www.siva.sh/phaladeepika/15/6-10"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "First child does not survive, little happiness from children, short-tempered, subservient, serving others. Fortified: favour of rulers or political parties, trade or diplomatic service, worship suited to the 5th lord.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Easily angered, proud, honoured by the ruler; ordinary comfort from children, first-born may not survive; long-lived, virtuous deeds.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.5 (p. 34)",
+        "view": "Progenic bliss not assured, first child could be lost; honourable, friendly, short-tempered, favourite of rulers but tends to serve others.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      }
+    ],
+    "disagreements": "BPHS, Raman, Charak and Rath all give a caution about the first child; Phaladeepika's rule that the lagna lord promotes the house it occupies (with its 5th-house example) points the other way. Read the 5th house, its lord and Jupiter before saying anything about children.",
+    "confidence": "medium",
+    "phrasing_guidance": "Stress intelligence, creativity and recognition. Never predict loss of a child; if asked about the classical line, say older texts gave a caution about children which modern practice checks against many other factors."
+  },
+  {
+    "id": "lord_in_house/1/6",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 6
+    },
+    "summary": "The self is placed in the house of obstacles, service and competition: life involves effort against rivals, work and health routines; outcomes depend heavily on whether benefics support the lord.",
+    "themes": [
+      "obstacles",
+      "service",
+      "competition",
+      "routine",
+      "resilience"
+    ],
+    "common_outcomes": [
+      "life shaped by work, duty and overcoming opponents",
+      "less physical ease; needs good routines",
+      "competitive strength if the lord is strong",
+      "military, medical or health-service careers when fortified (Raman)",
+      "debts that clear in time (Raman)"
+    ],
+    "rare_outcomes": [
+      "BPHS: trouble from enemies when the lord is with malefics and lacks benefic aspect",
+      "Rath 4.4.6: traditional line about early loss of spouse; never predict"
+    ],
+    "by_area": {
+      "personality": "Intelligent and courageous (Rath 4.4.6).",
+      "career": "When fortified the person may join the army and rise to command, or head medical or health services, or become an expert physician or surgeon (Raman HTJH I).",
+      "finance": "Debts that are cleared in the lagna lord's dasa (Raman HTJH I); frugal and rich, earns from lands (Charak); Rath: debts, but with benefic aspect or in the lagna lord's period destroys enemies and gains wealth and status.",
+      "health": "Classical texts say bodily comfort is reduced (BPHS 24.6, 12.1); Charak gives good health unless afflicted. Do not predict illness.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "lagna lord in own sign in the 6th (Taurus lagna: Venus in Libra; Scorpio lagna: Mars in Aries) - the lord owns the 6th too, so results are much better",
+      "exaltation: Libra lagna, Venus in Pisces",
+      "benefic aspect on the lord or the 6th (BPHS 24.6 conditions harm on its absence)",
+      "strong lagna lord: Phaladeepika 15.9 says the injury is slight when the lord is strong"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic conjunction with no benefic aspect (BPHS 24.6)",
+      "debilitation, combustion or weak navamsa",
+      "Phaladeepika 15.5: a bhava lord in a dusthana harms the bhava"
+    ],
+    "lagna_or_context_notes": "For Taurus and Scorpio lagna the lagna lord owns the 6th and sits in its own sign, and lagna ownership predominates (Phaladeepika 15.10).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.6 (enjoylearningsanskrit.com)",
+        "view": "Lack of bodily comfort; if malefics afflict without benefic aspect, enemies trouble the native.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-6"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 12.1 (Tanu Bhava)",
+        "view": "Lagna lord with malefics in the 6th, 8th or 12th reduces bodily happiness.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-12"
+      },
+      {
+        "source": "Phaladeepika 15.5, 15.9 (Mantreswara)",
+        "view": "A lord in a dusthana injures its house; harm is slight if the lord is strong, severe if weak.",
+        "url": "https://www.siva.sh/phaladeepika/15/6-10"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "As for the 3rd plus debts, liquidated in the lagna lord's dasa. Fortified: army commander, or head of medical/health services, or expert physician or surgeon.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Good health, destroys opponents, frugal and rich, earns from lands; if afflicted, poor health and trouble from enemies.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.6 (p. 34)",
+        "view": "Debts and ill health, troubled by enemies; intelligent and courageous; with benefic aspect or in the lagna lord's period destroys enemies and gains wealth and royal status; early loss of spouse indicated.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      }
+    ],
+    "disagreements": "BPHS is cautionary (reduced bodily comfort, enemies). Charak gives good health and victory over opponents unless afflicted, and Raman and Rath give strong positive results when the lord is fortified or benefic-aspected. All views depend on strength.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of challenges, service and resilience rather than illness or enmity as fate. Suggest healthy routines without making medical predictions."
+  },
+  {
+    "id": "lord_in_house/1/7",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 7
+    },
+    "summary": "The self faces the partner and the public: relationships, partnerships and dealings with others define life. BPHS gives sharply split results depending on whether the lord is malefic or benefic.",
+    "themes": [
+      "partnership",
+      "marriage",
+      "public dealings",
+      "travel"
+    ],
+    "common_outcomes": [
+      "life strongly oriented toward spouse, partners and the public",
+      "much travel or time spent abroad (Raman, Charak)",
+      "results swing sharply with the lagna lord's strength (Rath, Raman)"
+    ],
+    "rare_outcomes": [
+      "BPHS (malefic lagna lord): a traditional line about the spouse's longevity; state only as an old view, never predict",
+      "BPHS (benefic lagna lord): wandering, poverty or detachment, or alternatively becoming a ruler",
+      "Raman: if well disposed, a licentious life abroad, or being 'a puppet in the hands of' parents-in-law"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Much travelling; if well disposed, spends most of the time in foreign countries (Raman HTJH I); Charak (malefic lagna lord): wanders in foreign lands.",
+      "finance": "Rich or poor depending on other factors (Raman HTJH I); Rath 4.4.7: if the lord is strong, great wealth and prosperity.",
+      "health": "",
+      "relationships": "Marriage is central and sensitive. BPHS, Raman and Rath carry traditional lines about the spouse's longevity or more than one marriage; Charak instead gives a brilliant, good-looking, good-natured spouse, with loss of spouse only for a malefic lagna lord; Raman adds possible dependence on parents-in-law. Never predict these.",
+      "family": "",
+      "spirituality": "Detachment or ascetic leanings later in life (Raman HTJH I; BPHS 24.7 'virakta'); Rath: may become an ascetic or nomad unless the lord is strong."
+    },
+    "strengtheners": [
+      "lagna lord a strong natural benefic with good D9 (no lagna lord is exalted in the 7th)",
+      "benefic aspects on the 7th",
+      "BPHS 24.7: a benefic lord can even make one a ruler",
+      "Rath 4.4.7: a strong lagna lord here gives great wealth and prosperity",
+      "Rath (Crux, chart 15): neecha-bhanga in the lagna lord's company in the 7th cancelled the wandering result and gave a rise after marriage"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic lagna lord afflicted in the 7th (BPHS 24.7 caution)",
+      "debilitation: Virgo lagna, Mercury in Pisces",
+      "lagna lord in an enemy sign: Leo lagna (Sun in Aquarius), Capricorn lagna (Saturn in Cancer)"
+    ],
+    "lagna_or_context_notes": "Which lords count as 'malefic' here is debated: BPHS 24.7 and Charak split results by the lord's natural nature, but in opposite directions. Rath's chart 15 (Jupiter as lagna lord in the 7th with neecha-bhanga Venus) shows strength overriding the negative lines. Mercury in the 7th for Gemini/Virgo lagna is in a Jupiter sign; Jupiter in the 7th for Sagittarius/Pisces lagna is in a Mercury sign.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.7 (enjoylearningsanskrit.com, with word-by-word)",
+        "view": "If malefic, the wife does not live (traditional); if benefic, the native may wander, be poor or detached, or even be a king.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-7"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.7 (Santhanam-based text, archive.org)",
+        "view": "Malefic: wife short-lived. Benefic: aimless, poor, dejected, though a strong benefic may make one a king.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.9 (Mantreswara)",
+        "view": "Lagna lord's occupation of a bhava assures its well-being.",
+        "url": "https://www.siva.sh/phaladeepika/15/6-10"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "Wife does not live or more than one marriage; later detachment and ascetic life; rich or poor by other factors; much travel. Well disposed: much time abroad, licentious, or dependent on parents-in-law.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Brilliant, good-looking, good-natured wife. If the lagna lord is a natural malefic: bereft of wife, detached, poor or a king, wandering in foreign lands.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.7 (p. 34) and chart 15",
+        "view": "Wife short-lived, more than one marriage, misfortunes; unless strong could become ascetic or nomad; if strong, great wealth and prosperity. In chart 15 neecha-bhanga cancelled the wandering result and a rise came after marriage.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      }
+    ],
+    "disagreements": "Sources agree that the placement makes partnership, travel and detachment central and that strength decides, but split the details differently. BPHS: malefic lord harms the spouse, benefic lord gives wandering, poverty or detachment (or kingship). Charak reverses this: a good spouse in general, loss of spouse and wandering for a malefic lord. Raman gives the harsh lines unconditionally but adds travel and wealth-or-poverty. Rath makes the outcome depend on strength. Phaladeepika 15.9's rule (the lagna lord helps the house it occupies) is the most positive view.",
+    "confidence": "medium",
+    "phrasing_guidance": "Talk about partnership focus and growth through relationships. Never mention spouse longevity or death. If asked, say BPHS has a cautionary verse that modern practice does not apply literally."
+  },
+  {
+    "id": "lord_in_house/1/8",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 8
+    },
+    "summary": "The self is drawn into hidden matters, research, transformation and the occult; classical texts warn of hardships and a volatile temperament, especially if the lord is weak.",
+    "themes": [
+      "occult",
+      "research",
+      "transformation",
+      "secrecy",
+      "volatility"
+    ],
+    "common_outcomes": [
+      "interest in occult, astrology, research or hidden knowledge",
+      "life marked by sudden changes and reinventions",
+      "intense, private nature",
+      "periods of stress or setbacks that test resilience"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional list: sickliness, theft, strong anger, gambling, illicit relationships"
+    ],
+    "by_area": {
+      "personality": "Learned, with gambling tendencies and interest in occultism (Raman HTJH I; BPHS 24.8); Rath 4.4.8: learned, short-tempered.",
+      "career": "",
+      "finance": "Sources split: Charak says accumulates wealth; Rath says wealth nil; BPHS mentions gambling. Bhavartha Ratnakara (II, Nirdhana st. 1) gives poverty from birth when the lords of the lagna, 4th and 9th are all in the 8th (less if only two).",
+      "health": "Raman: a weak constitution unless favourable aspects exist (HTJH I, 'Other Important Combinations'); Charak: long-lived but with ill-health. Do not make medical predictions.",
+      "relationships": "Traditional lines on illicit ties (BPHS 24.8, Charak) and an unhappy married life (Rath 4.4.8); do not predict.",
+      "family": "",
+      "spirituality": "Interest in occultism (Raman); good for spiritual pursuits (Charak); a strong lord makes one religiously inclined and keen to help others (Raman)."
+    },
+    "strengtheners": [
+      "lagna lord in own sign in the 8th (Aries lagna: Mars in Scorpio; Libra lagna: Venus in Taurus) - lagna ownership predominates and results improve",
+      "exaltation: Sagittarius lagna, Jupiter in Cancer",
+      "benefic aspect (Phaladeepika 15.3 makes benefic aspect the saving factor)",
+      "strong shadbala and good D9",
+      "strong lord: takes pride in helping others, many friends, religiously inclined (Raman HTJH I)"
+    ],
+    "weakeners_or_cancellations": [
+      "combust, debilitated or in an enemy sign without benefic aspect: Phaladeepika 15.3 calls this destruction of the bhava's results",
+      "malefic conjunction (BPHS 12.1)",
+      "lagna lord in the 8th together with the 4th and 9th lords: poverty yoga (Bhavartha Ratnakara II, Nirdhana st. 1)",
+      "lagna lord in the 8th without favourable aspects: weak constitution (Raman HTJH I)"
+    ],
+    "lagna_or_context_notes": "For Aries and Libra lagna the lagna lord also owns the 8th and sits in its own sign here. Laghu Parashari sloka 9 says the 8th-lord blemish is removed when that planet also owns the lagna, and O.P. Verma's commentary specifies that this applies when it occupies the lagna or the 8th, so these two lagnas get a much milder reading.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.8 (enjoylearningsanskrit.com)",
+        "view": "Skilled in occult learning, but sickly, thievish, very angry, a gambler, with illicit ties.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-8"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.8 (Santhanam-based text, archive.org)",
+        "view": "Scholarly, but sickly, thievish, quick-tempered, gambling, consorting with others' wives.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.3, 15.9 (Mantreswara)",
+        "view": "A bhava lord in the 8th that is combust/debilitated/in enemy sign without benefic aspect ruins the bhava; a strong lord limits the injury.",
+        "url": "https://www.siva.sh/phaladeepika/15/1-5"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "Learned, gambling tendencies, interest in occultism, mean character. Strong lord: helps others, many friends, religious, peaceful end. Also: lagna lord in the 8th gives a weak constitution unless favourable aspects exist.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Long-lived, accumulates wealth, ill-health, adulterous, thievish, gambler, easily angered; good for spiritual pursuits.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.8 (p. 34)",
+        "view": "Learned, diseased, short-tempered, unfortunate, gambler, profligate; married life miserable and wealth nil.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Nirdhana yogas st. 1 with Raman's note",
+        "view": "Lords of the lagna, 4th and 9th in the 8th give poverty from birth; if only two of them are there, the poverty is less.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, sloka 9 with notes",
+        "view": "The 8th lord is inauspicious unless it also owns the lagna; per the commentary, the lagna-cum-8th lord is auspicious when in the lagna or the 8th.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "Classical texts and Rath are mostly negative; Charak gives long life and wealth alongside the negatives; Raman gives a positive picture when the lord is strong. Rath says wealth is nil while Charak says wealth accumulates.",
+    "confidence": "medium",
+    "phrasing_guidance": "Lead with depth, research ability and resilience through change. Never label the person as a thief, gambler or unfaithful; present BPHS's list as an old, severe text that modern practice softens. No health or longevity predictions."
+  },
+  {
+    "id": "lord_in_house/1/9",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 9
+    },
+    "summary": "One of the best placements: the self joins fortune, dharma and the guru. The person is lucky, well-liked, devout, eloquent and blessed with family and wealth.",
+    "themes": [
+      "fortune",
+      "dharma",
+      "devotion",
+      "father",
+      "higher learning"
+    ],
+    "common_outcomes": [
+      "good fortune and support from elders, teachers and father",
+      "religious or philosophical nature",
+      "eloquence and skill",
+      "happiness through spouse, children and wealth"
+    ],
+    "rare_outcomes": [
+      "BPHS specifically: devotion to Vishnu"
+    ],
+    "by_area": {
+      "personality": "Fortunate, principled, beloved by people (BPHS 24.9); protector of others and a good orator (Raman HTJH I).",
+      "career": "",
+      "finance": "Rich (Raman; BPHS 24.9; Rath 4.4.9); if well disposed, inherits good ancestral and paternal property (Raman).",
+      "health": "",
+      "relationships": "Happiness through spouse and children (BPHS 24.9; Raman).",
+      "family": "If well disposed, the father is famous, philanthropic and god-fearing (Raman); happy family (Rath 4.4.9).",
+      "spirituality": "Religious; traditional mention of devotion to Vishnu (BPHS 24.9; Raman; Charak; Rath)."
+    },
+    "strengtheners": [
+      "exaltation: Leo lagna (Sun in Aries) and Aquarius lagna (Saturn in Libra)",
+      "Jupiter aspect, strong 9th lord",
+      "lagna lord and 9th lord connected (classical raja yoga)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Scorpio lagna, Mars in Cancer",
+      "combustion, malefic affliction, papakartari on the 9th"
+    ],
+    "lagna_or_context_notes": "For Leo lagna (Sun in Aries) and Aquarius lagna (Saturn in Libra) the lagna lord is exalted here.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.9 (enjoylearningsanskrit.com)",
+        "view": "Fortunate, dear to people, devotee of Vishnu, skilled in speech, with spouse, sons and wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-9"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.9 (Santhanam-based text, archive.org)",
+        "view": "Fortunate, beloved, devoted to Vishnu, skilful, eloquent; wife, sons, wealth.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 12.1, 12.5",
+        "view": "Lagna lord in a kona gives bodily happiness; benefic lagna lord in kona gives long life, wealth, favour.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-12"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "Fortunate, protector of others, religious, Vishnu-worshipper, good orator, happiness from wife and children, rich. Well disposed: good ancestral and paternal property; father famous and philanthropic.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Fortunate, learned, beloved, worships Vishnu, benevolent talker, wife, sons, wealth, very famous.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.9 (pp. 34-35)",
+        "view": "Fortunate, popular, skilled, eloquent, happy family, wealth, blessed by Jupiter (Vishnu).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      }
+    ],
+    "disagreements": "None significant; all classical and modern sources agree.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe as a fortunate, principled placement. Phrase devotion generally (spiritual or philosophical leaning) rather than naming a deity unless the user's tradition calls for it."
+  },
+  {
+    "id": "lord_in_house/1/10",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 10
+    },
+    "summary": "The self is expressed through career, reputation and public action: the person is self-made, recognised by authorities and well known, with support from the father.",
+    "themes": [
+      "career",
+      "reputation",
+      "authority",
+      "self-earned wealth",
+      "father"
+    ],
+    "common_outcomes": [
+      "career and public standing central to identity",
+      "recognition from government or superiors",
+      "fame and self-earned income",
+      "support or happiness through father"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "Honourable, famous, self-made and ambitious (Rath 4.4.10).",
+      "career": "Professional success, honoured by eminent people; may become a research scholar or specialist in the field shown by the lagna and 10th lords (Raman HTJH I); royal honour and fame (BPHS 24.10).",
+      "finance": "Self-earned wealth (BPHS 24.10; Charak: fame and wealth through own prowess; Rath: prosperous).",
+      "health": "Kendra placement supports vitality (BPHS 12.1).",
+      "relationships": "",
+      "family": "Happiness from the father (BPHS 24.10; Charak: all comforts from father; Rath: blessed by parents).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "directional strength (dig bala): Sun or Mars in the 10th",
+      "exaltation: Aries lagna (Mars in Capricorn) and Capricorn lagna (Saturn in Libra)",
+      "own sign: Virgo lagna (Mercury in Gemini) and Pisces lagna (Jupiter in Sagittarius)",
+      "lagna lord connected with the 9th or 5th lord; benefic aspects",
+      "lords of the lagna, 4th and 9th in the 10th, lagna or 7th together with the 10th lord: very fortunate in their dasas (Bhavartha Ratnakara VIII st. 9-10)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Gemini lagna, Mercury in Pisces",
+      "combustion and malefic aspect"
+    ],
+    "lagna_or_context_notes": "Exalted for Aries and Capricorn lagna; own sign for Virgo and Pisces lagna (the lagna lord also owns the 10th). Debilitated for Gemini lagna, where neecha-bhanga should be checked.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.10 (enjoylearningsanskrit.com)",
+        "view": "Happiness from father, royal honour, fame, self-earned wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-10"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.10 (Santhanam-based text, archive.org)",
+        "view": "Paternal happiness, royal honour, fame, self-earned wealth.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.9",
+        "view": "The house the lagna lord occupies flourishes.",
+        "url": "https://www.siva.sh/phaladeepika/15/6-10"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "Results of the 4th plus professional success, honoured by eminent men, a research scholar or specialist in the field of the lagna and 10th lords.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Learned, honoured by the ruler, comforts from father, fame and wealth through own prowess.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.10 (p. 35)",
+        "view": "Honourable, famous, self-made, blessed by parents, ambitious and prosperous.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. VIII (Bhagya yogas) st. 9-10",
+        "view": "If the lords of the lagna, 9th and 4th are in the 10th, lagna or 7th with the 10th lord, the native becomes very fortunate in the dasas of those lords.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "None significant; all sources agree.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of ambition and public achievement; avoid guaranteeing fame or office."
+  },
+  {
+    "id": "lord_in_house/1/11",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 11
+    },
+    "summary": "The self is aimed at gains, goals and networks: steady income, good qualities and wide reputation.",
+    "themes": [
+      "gains",
+      "networks",
+      "ambitions",
+      "fame",
+      "elder siblings"
+    ],
+    "common_outcomes": [
+      "regular gains and fulfilment of desires",
+      "good character and wide reputation",
+      "large social or professional network"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional line: many wives (Santhanam) or many good qualities (ELS reading)"
+    ],
+    "by_area": {
+      "personality": "Good qualities and fame (BPHS 24.11; Charak); excellent qualities of head and heart (Rath 4.4.11).",
+      "career": "Constant gains in business for a businessman (Raman HTJH I).",
+      "finance": "Never in financial straits; large business profits (Raman); constant gains (BPHS 24.11); good income (Rath).",
+      "health": "",
+      "relationships": "BPHS (Santhanam rendering), Charak and Rath carry a line about several spouses or love affairs; do not use.",
+      "family": "Owes prosperity to an elder brother (Raman); long-lived sons (Charak).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "connection with the 2nd lord (wealth yoga logic, BPHS 13.4)",
+      "exaltation: Cancer lagna (Moon in Taurus) and Taurus lagna (Venus in Pisces)",
+      "strong malefic lagna lords do well in upachayas (Phaladeepika 15.7)"
+    ],
+    "weakeners_or_cancellations": [
+      "11th is also a trishadaya house; desires can multiply",
+      "debilitation: Pisces lagna, Jupiter in Capricorn"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.11 (enjoylearningsanskrit.com)",
+        "view": "Always gaining, good character, famous, multiple spouses or good qualities.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-11"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.11 (Santhanam-based text, archive.org)",
+        "view": "Constant gains, good qualities, fame, many wives.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "Results of the 2nd plus constant business gains; never in financial straits. Prosperity owed to elder brother; enormous profits consistent with other planets.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Manifold benefits, good qualities, multiple wives, famous, long-lived sons, lives in comfort.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.11 (p. 35)",
+        "view": "Good income, reputation, love affairs or wives, excellent qualities of head and heart.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      }
+    ],
+    "disagreements": "The two BPHS renderings differ on whether the verse speaks of many wives or many good qualities; Charak and Rath side with the spouse reading.",
+    "confidence": "high",
+    "phrasing_guidance": "Focus on gains, networks and fulfilment of goals. Do not mention multiple marriages."
+  },
+  {
+    "id": "lord_in_house/1/12",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 1,
+      "placed_in": 12
+    },
+    "summary": "The self is drawn toward expenditure, distance and withdrawal: classical texts warn of reduced comfort, heavy spending and anger unless benefics help; modern readers add foreign residence and spiritual inclination.",
+    "themes": [
+      "expenditure",
+      "foreign lands",
+      "withdrawal",
+      "spirituality",
+      "loss"
+    ],
+    "common_outcomes": [
+      "high or uncontrolled expenses",
+      "living in a foreign land (Charak)",
+      "visits to holy places and charitable spending (Raman)",
+      "less physical ease unless benefics support"
+    ],
+    "rare_outcomes": [
+      "BPHS: wasteful spending and anger when no benefic aspect or conjunction"
+    ],
+    "by_area": {
+      "personality": "Can be quick-tempered (BPHS 24.12); Rath 4.4.12: the cause of own misfortunes, short temper, a spendthrift.",
+      "career": "Losses and little success in business enterprises unless fortified (Raman HTJH I); Charak: lives in a foreign land.",
+      "finance": "Many losses (Raman); spending patterns follow the nature of the lagna and 12th lords (Rath 4.4.12); when strong, inherited riches are spent on charity (Raman).",
+      "health": "Classical texts reduce bodily comfort (BPHS 12.1, 24.12; Charak); no medical predictions.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Visits holy places; when well placed, emotionally balanced and dedicated to public welfare (Raman HTJH I)."
+    },
+    "strengtheners": [
+      "benefic aspect or conjunction (BPHS 24.12 conditions the bad results on their absence)",
+      "lagna lord in own sign in the 12th (Aquarius lagna: Saturn in Capricorn) - lagna ownership predominates",
+      "Jupiter's aspect or a spiritually oriented D9 supports the moksha side"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic association without benefic aspect (BPHS 12.1, 24.12)",
+      "weak lord: Phaladeepika 15.9 says harm is severe when the lord is weak",
+      "debilitation: Libra lagna, Venus in Virgo"
+    ],
+    "lagna_or_context_notes": "For Aquarius lagna Saturn owns the 12th too and sits in own sign Capricorn; lagna ownership predominates (Phaladeepika 15.10; BPHS 34), so the placement is far milder. For Libra lagna Venus is debilitated in Virgo in the 12th, which increases the classical caution unless neecha-bhanga applies.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.12 (enjoylearningsanskrit.com)",
+        "view": "Without benefic help: lack of bodily comfort, wasteful spending, quick temper.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-12"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.12 (Santhanam-based text, archive.org)",
+        "view": "Devoid of physical happiness, spends unfruitfully, given to anger, if without benefic aspect/conjunction.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.5, 15.9",
+        "view": "Lord in a dusthana harms its bhava; strong lord limits the harm; benefic aspect restores prosperity.",
+        "url": "https://www.siva.sh/phaladeepika/15/1-5"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. IV 'Results of Lord of First House Occupying Different Houses' (pp. 21-22)",
+        "view": "Same as the 8th, plus many losses, visits to holy places, no success in business. Well placed: spends inherited riches on charity, emotionally balanced, dedicated to public welfare.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Lagna lord (pp. 230-231)",
+        "view": "Bereft of bodily comforts, unworthy pursuits, lives in a foreign land; without benefic influence, futile expenditure and anger.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 4.4 'Placement of Ascendant Lord' 4.4.12 (p. 35)",
+        "view": "Cause of own misfortunes, little physical felicity, short temper, spendthrift; expenses depend on the ascendant and 12th lords.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      }
+    ],
+    "disagreements": "Classical texts and Rath treat this as unfavourable; Raman gives a charitable, public-service expression when the lord is well placed; Charak names living in a foreign land, which BPHS 24.12 does not state.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe as a placement of giving, distance and inner life; suggest mindful spending. Avoid predicting isolation, loss or illness."
+  }
+]

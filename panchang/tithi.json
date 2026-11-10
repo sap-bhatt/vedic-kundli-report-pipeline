@@ -1,0 +1,2454 @@
+[
+  {
+    "id": "panchang/tithi/1",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Pratipada",
+      "paksha": "Shukla",
+      "n": 1
+    },
+    "summary": "Birth on Shukla Pratipada (Nanda class). Jataka Bharanam describes the native as large family and many relatives, wise and discerning, owns gold and gems.",
+    "themes": [
+      "tithi",
+      "nanda",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "large family and many relatives",
+      "wise and discerning",
+      "owns gold and gems",
+      "modest, graceful",
+      "skilled; bears himself like a ruler"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "gold and precious things",
+      "health": "",
+      "relationships": "",
+      "family": "many relatives; a large family",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11)."
+    ],
+    "lagna_or_context_notes": "Muhurta Chintamani treats bright-half tithis 1-5 as weak because the Moon is weak; Krishna Darshan likewise. This is an electional rule; read it for birth only as a weak-Moon note.",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.1 (p.19)",
+        "view": "Birth on Pratipada: large family and many relatives; wise and discerning; owns gold and gems; modest, graceful; skilled; bears himself like a ruler. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Brahma; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Agni. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Sun (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Agni; nature 'increasing'; group Nanda. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Brahma, Muhurta Chintamani Agni, Krishna Darshan Agni. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "nanda",
+      "deity_brihat_samhita": "Brahma",
+      "deity_muhurta_chintamani": "Agni",
+      "deity_krishna_darshan": "Agni",
+      "nature_krishna_darshan": "increasing",
+      "planet_lord_pvr": "Sun"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/2",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Dwitiya",
+      "paksha": "Shukla",
+      "n": 2
+    },
+    "summary": "Birth on Shukla Dwitiya (Bhadra class). Jataka Bharanam describes the native as self-controlled and compassionate, virtuous, learned, a clear thinker.",
+    "themes": [
+      "tithi",
+      "bhadra",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "self-controlled and compassionate",
+      "virtuous",
+      "learned, a clear thinker",
+      "fortunate and cheerful",
+      "widely praised"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "virtuous and self-restrained"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Muhurta Chintamani treats bright-half tithis 1-5 as weak because the Moon is weak; Krishna Darshan likewise. This is an electional rule; read it for birth only as a weak-Moon note.",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.2 (p.19)",
+        "view": "Birth on Dwitiya: self-controlled and compassionate; virtuous; learned, a clear thinker; fortunate and cheerful; widely praised. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Vidhata; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Brahma. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Moon (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Brahma / the Ashwini Kumaras; nature 'auspicious'; group Bhadra. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Vidhata, Muhurta Chintamani Brahma, Krishna Darshan Brahma / the Ashwini Kumaras. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "bhadra",
+      "deity_brihat_samhita": "Vidhata",
+      "deity_muhurta_chintamani": "Brahma",
+      "deity_krishna_darshan": "Brahma / the Ashwini Kumaras",
+      "nature_krishna_darshan": "auspicious",
+      "planet_lord_pvr": "Moon"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/3",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Tritiya",
+      "paksha": "Shukla",
+      "n": 3
+    },
+    "summary": "Birth on Shukla Tritiya (Jaya class). Jataka Bharanam describes the native as strong desires, restless, favoured by those in power.",
+    "themes": [
+      "tithi",
+      "jaya",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "strong desires",
+      "restless",
+      "favoured by those in power",
+      "fond of travel and pleasures",
+      "intelligent but proud"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "favour from rulers or authorities",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Muhurta Chintamani treats bright-half tithis 1-5 as weak because the Moon is weak; Krishna Darshan likewise. This is an electional rule; read it for birth only as a weak-Moon note.",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.3 (p.19)",
+        "view": "Birth on Tritiya: strong desires; restless; favoured by those in power; fond of travel and pleasures; intelligent but proud. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Vishnu; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Gauri. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Mars (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Gauri; nature 'strong'; group Jaya. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Vishnu, Muhurta Chintamani Gauri, Krishna Darshan Gauri. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "jaya",
+      "deity_brihat_samhita": "Vishnu",
+      "deity_muhurta_chintamani": "Gauri",
+      "deity_krishna_darshan": "Gauri",
+      "nature_krishna_darshan": "strong",
+      "planet_lord_pvr": "Mars"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/4",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Chaturthi",
+      "paksha": "Shukla",
+      "n": 4
+    },
+    "summary": "Birth on Shukla Chaturthi (Rikta class). Jataka Bharanam describes the native as charitable, courageous, very capable in work.",
+    "themes": [
+      "tithi",
+      "rikta",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "charitable",
+      "courageous",
+      "very capable in work",
+      "somewhat miserly by temperament",
+      "fickle mind"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "careful, even tight, with money despite being charitable",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Rikta ('empty') class: Muhurta Chintamani and Brihat Samhita reserve these tithis for harsh or destructive works; Krishna Darshan advises Rikta-born natives to worship the tithi deity as a remedy."
+    ],
+    "lagna_or_context_notes": "Muhurta Chintamani treats bright-half tithis 1-5 as weak because the Moon is weak; Krishna Darshan likewise. This is an electional rule; read it for birth only as a weak-Moon note.",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.4 (p.19)",
+        "view": "Birth on Chaturthi: charitable; courageous; very capable in work; somewhat miserly by temperament; fickle mind. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Yama; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Ganesha. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Mercury (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Yama / Ganesha; nature 'cruel'; group Rikta. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Yama, Muhurta Chintamani Ganesha, Krishna Darshan Yama / Ganesha. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "rikta",
+      "deity_brihat_samhita": "Yama",
+      "deity_muhurta_chintamani": "Ganesha",
+      "deity_krishna_darshan": "Yama / Ganesha",
+      "nature_krishna_darshan": "cruel",
+      "planet_lord_pvr": "Mercury"
+    },
+    "remedies": [
+      {
+        "remedy": "worship or mantra of the tithi's presiding deity",
+        "source": "Krishna Darshan (Saptarishis Astrology)"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/5",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Panchami",
+      "paksha": "Shukla",
+      "n": 5
+    },
+    "summary": "Birth on Shukla Panchami (Purna class). Jataka Bharanam describes the native as blessed with children and friends, kind to all creatures, honoured by leaders.",
+    "themes": [
+      "tithi",
+      "purna",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "blessed with children and friends",
+      "kind to all creatures",
+      "honoured by leaders",
+      "eloquent",
+      "generous"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "honoured by people of standing",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "children and friends",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11)."
+    ],
+    "lagna_or_context_notes": "Muhurta Chintamani treats bright-half tithis 1-5 as weak because the Moon is weak; Krishna Darshan likewise. This is an electional rule; read it for birth only as a weak-Moon note.",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.5 (p.19)",
+        "view": "Birth on Panchami: blessed with children and friends; kind to all creatures; honoured by leaders; eloquent; generous. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is the Moon; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is the Serpents. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Jupiter (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity the Serpents / Saraswati; nature 'prosperous'; group Purna. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives the Moon, Muhurta Chintamani the Serpents, Krishna Darshan the Serpents / Saraswati. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "purna",
+      "deity_brihat_samhita": "the Moon",
+      "deity_muhurta_chintamani": "the Serpents",
+      "deity_krishna_darshan": "the Serpents / Saraswati",
+      "nature_krishna_darshan": "prosperous",
+      "planet_lord_pvr": "Jupiter"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/6",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Shashthi",
+      "paksha": "Shukla",
+      "n": 6
+    },
+    "summary": "Birth on Shukla Shashthi (Nanda class). Jataka Bharanam describes the native as keeps his word, wealthy, steady and brave.",
+    "themes": [
+      "tithi",
+      "nanda",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "keeps his word",
+      "wealthy",
+      "steady and brave",
+      "energetic and well known",
+      "a scar or mark on the body"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "wealth",
+      "health": "the text mentions a scar or wound mark on the body",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.6 (p.19)",
+        "view": "Birth on Shashthi: keeps his word; wealthy; steady and brave; energetic and well known; a scar or mark on the body. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Subrahmanya (Kartikeya); tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Guha (Kartikeya). Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Venus (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Kartikeya (Subrahmanya); nature 'glorious'; group Nanda. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Subrahmanya (Kartikeya), Muhurta Chintamani Guha (Kartikeya), Krishna Darshan Kartikeya (Subrahmanya). Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "nanda",
+      "deity_brihat_samhita": "Subrahmanya (Kartikeya)",
+      "deity_muhurta_chintamani": "Guha (Kartikeya)",
+      "deity_krishna_darshan": "Kartikeya (Subrahmanya)",
+      "nature_krishna_darshan": "glorious",
+      "planet_lord_pvr": "Venus"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/7",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Saptami",
+      "paksha": "Shukla",
+      "n": 7
+    },
+    "summary": "Birth on Shukla Saptami (Bhadra class). Jataka Bharanam describes the native as appreciates good qualities, attractive, lively eyes, devoted to the gods.",
+    "themes": [
+      "tithi",
+      "bhadra",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "appreciates good qualities",
+      "attractive, lively eyes",
+      "devoted to the gods",
+      "attractive to women",
+      "may covet others' wealth",
+      "powerful against rivals"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "devoted to worship"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.7 (p.19)",
+        "view": "Birth on Saptami: appreciates good qualities; attractive, lively eyes; devoted to the gods; attractive to women; may covet others' wealth; powerful against rivals. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Indra; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is the Sun. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Saturn (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Surya; nature 'friendly'; group Bhadra. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Indra, Muhurta Chintamani the Sun, Krishna Darshan Surya. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "bhadra",
+      "deity_brihat_samhita": "Indra",
+      "deity_muhurta_chintamani": "the Sun",
+      "deity_krishna_darshan": "Surya",
+      "nature_krishna_darshan": "friendly",
+      "planet_lord_pvr": "Saturn"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/8",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Ashtami",
+      "paksha": "Shukla",
+      "n": 8
+    },
+    "summary": "Birth on Shukla Ashtami (Jaya class). Jataka Bharanam describes the native as well-off and well known, fond of the spouse (or of women; the word allows both), restless, changeable mind.",
+    "themes": [
+      "tithi",
+      "jaya",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "well-off and well known",
+      "fond of the spouse (or of women; the word allows both)",
+      "restless, changeable mind"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "comfortable means",
+      "health": "",
+      "relationships": "affectionate towards the spouse",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.8 (p.20)",
+        "view": "Birth on Ashtami: well-off and well known; fond of the spouse (or of women; the word allows both); restless, changeable mind. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is the Vasus; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Shiva. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Rahu (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Shiva-Shakti; nature 'conflictual'; group Jaya. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives the Vasus, Muhurta Chintamani Shiva, Krishna Darshan Shiva-Shakti. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "jaya",
+      "deity_brihat_samhita": "the Vasus",
+      "deity_muhurta_chintamani": "Shiva",
+      "deity_krishna_darshan": "Shiva-Shakti",
+      "nature_krishna_darshan": "conflictual",
+      "planet_lord_pvr": "Rahu"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/9",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Navami",
+      "paksha": "Shukla",
+      "n": 9
+    },
+    "summary": "Birth on Shukla Navami (Rikta class). Jataka Bharanam describes the native as neglects the needs of relatives, harsh speech, argumentative, hostile.",
+    "themes": [
+      "tithi",
+      "rikta",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "neglects the needs of relatives",
+      "harsh speech",
+      "argumentative, hostile",
+      "the text also mentions steadiness in good conduct"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "may turn away from relatives' affairs",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Rikta ('empty') class: Muhurta Chintamani and Brihat Samhita reserve these tithis for harsh or destructive works; Krishna Darshan advises Rikta-born natives to worship the tithi deity as a remedy."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.9 (p.20)",
+        "view": "Birth on Navami: neglects the needs of relatives; harsh speech; argumentative, hostile; the text also mentions steadiness in good conduct. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is the Serpents; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Durga. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Sun (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Durga; nature 'fierce'; group Rikta. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives the Serpents, Muhurta Chintamani Durga, Krishna Darshan Durga. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "rikta",
+      "deity_brihat_samhita": "the Serpents",
+      "deity_muhurta_chintamani": "Durga",
+      "deity_krishna_darshan": "Durga",
+      "nature_krishna_darshan": "fierce",
+      "planet_lord_pvr": "Sun"
+    },
+    "remedies": [
+      {
+        "remedy": "worship or mantra of the tithi's presiding deity",
+        "source": "Krishna Darshan (Saptarishis Astrology)"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/10",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Dashami",
+      "paksha": "Shukla",
+      "n": 10
+    },
+    "summary": "Birth on Shukla Dashami (Purna class). Jataka Bharanam describes the native as mind set on dharma, wealth and splendour, learned in many texts.",
+    "themes": [
+      "tithi",
+      "purna",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "mind set on dharma",
+      "wealth and splendour",
+      "learned in many texts",
+      "large-hearted and very humble",
+      "fond of pleasure"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "wealth and splendour",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "dharma-minded"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.10 (p.20)",
+        "view": "Birth on Dashami: mind set on dharma; wealth and splendour; learned in many texts; large-hearted and very humble; fond of pleasure. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Dharma; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Yama. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Moon (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Dharmaraja (Yama); nature 'gentle'; group Purna. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Dharma, Muhurta Chintamani Yama, Krishna Darshan Dharmaraja (Yama). Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "purna",
+      "deity_brihat_samhita": "Dharma",
+      "deity_muhurta_chintamani": "Yama",
+      "deity_krishna_darshan": "Dharmaraja (Yama)",
+      "nature_krishna_darshan": "gentle",
+      "planet_lord_pvr": "Moon"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/11",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Ekadashi",
+      "paksha": "Shukla",
+      "n": 11
+    },
+    "summary": "Birth on Shukla Ekadashi (Nanda class). Jataka Bharanam describes the native as devoted to the gods and the learned, keeps vows and gives in charity, pure-hearted and capable.",
+    "themes": [
+      "tithi",
+      "nanda",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "devoted to the gods and the learned",
+      "keeps vows and gives in charity",
+      "pure-hearted and capable",
+      "intent on merit and own duties"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "vows, charity and religious duty"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.11 (p.20)",
+        "view": "Birth on Ekadashi: devoted to the gods and the learned; keeps vows and gives in charity; pure-hearted and capable; intent on merit and own duties. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Rudra; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is the Vishvedevas. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Mars (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity the Vishvedevas / Kubera; nature 'blissful'; group Nanda. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Rudra, Muhurta Chintamani the Vishvedevas, Krishna Darshan the Vishvedevas / Kubera. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "nanda",
+      "deity_brihat_samhita": "Rudra",
+      "deity_muhurta_chintamani": "the Vishvedevas",
+      "deity_krishna_darshan": "the Vishvedevas / Kubera",
+      "nature_krishna_darshan": "blissful",
+      "planet_lord_pvr": "Mars"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/12",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Dwadashi",
+      "paksha": "Shukla",
+      "n": 12
+    },
+    "summary": "Birth on Shukla Dwadashi (Bhadra class). Jataka Bharanam describes the native as fond of water, splendid nature, enjoys home life.",
+    "themes": [
+      "tithi",
+      "bhadra",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "fond of water",
+      "splendid nature",
+      "enjoys home life",
+      "always feeds others",
+      "wealthy and wise"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "acquires wealth",
+      "health": "",
+      "relationships": "",
+      "family": "enjoys home and hospitality",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.12 (p.20)",
+        "view": "Birth on Dwadashi: fond of water; splendid nature; enjoys home life; always feeds others; wealthy and wise. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Aditya (the Sun); tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Hari (Vishnu). Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Mercury (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Vishnu; nature 'glorious'; group Bhadra. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Aditya (the Sun), Muhurta Chintamani Hari (Vishnu), Krishna Darshan Vishnu. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "bhadra",
+      "deity_brihat_samhita": "Aditya (the Sun)",
+      "deity_muhurta_chintamani": "Hari (Vishnu)",
+      "deity_krishna_darshan": "Vishnu",
+      "nature_krishna_darshan": "glorious",
+      "planet_lord_pvr": "Mercury"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/13",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Trayodashi",
+      "paksha": "Shukla",
+      "n": 13
+    },
+    "summary": "Birth on Shukla Trayodashi (Jaya class). Jataka Bharanam describes the native as good-looking, lacking in sattvic (calm, pure) qualities, combative.",
+    "themes": [
+      "tithi",
+      "jaya",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "good-looking",
+      "lacking in sattvic (calm, pure) qualities",
+      "combative",
+      "can be very harsh",
+      "follows own desires"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.13 (p.20)",
+        "view": "Birth on Trayodashi: good-looking; lacking in sattvic (calm, pure) qualities; combative; can be very harsh; follows own desires. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Manmatha (Kama); tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Kama. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Jupiter (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Shiva / Kamadeva / Dharma; nature 'victorious'; group Jaya. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Manmatha (Kama), Muhurta Chintamani Kama, Krishna Darshan Shiva / Kamadeva / Dharma. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "jaya",
+      "deity_brihat_samhita": "Manmatha (Kama)",
+      "deity_muhurta_chintamani": "Kama",
+      "deity_krishna_darshan": "Shiva / Kamadeva / Dharma",
+      "nature_krishna_darshan": "victorious",
+      "planet_lord_pvr": "Jupiter"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/14",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Chaturdashi",
+      "paksha": "Shukla",
+      "n": 14
+    },
+    "summary": "Birth on Shukla Chaturdashi (Rikta class). Jataka Bharanam describes the native as can be harsh or fierce, clever, with many friends, preoccupied with romance.",
+    "themes": [
+      "tithi",
+      "rikta",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "can be harsh or fierce",
+      "clever, with many friends",
+      "preoccupied with romance",
+      "contradictory speech",
+      "swings between delight and anger"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "romantic, surrounded by admirers",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Rikta ('empty') class: Muhurta Chintamani and Brihat Samhita reserve these tithis for harsh or destructive works; Krishna Darshan advises Rikta-born natives to worship the tithi deity as a remedy."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.14 (p.20)",
+        "view": "Birth on Chaturdashi: can be harsh or fierce; clever, with many friends; preoccupied with romance; contradictory speech; swings between delight and anger. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Kali; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Shiva. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Venus (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Shiva / Kali / Rudra; nature 'fierce'; group Rikta. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Kali, Muhurta Chintamani Shiva, Krishna Darshan Shiva / Kali / Rudra. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "rikta",
+      "deity_brihat_samhita": "Kali",
+      "deity_muhurta_chintamani": "Shiva",
+      "deity_krishna_darshan": "Shiva / Kali / Rudra",
+      "nature_krishna_darshan": "fierce",
+      "planet_lord_pvr": "Venus"
+    },
+    "remedies": [
+      {
+        "remedy": "worship or mantra of the tithi's presiding deity",
+        "source": "Krishna Darshan (Saptarishis Astrology)"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/15",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Purnima",
+      "paksha": "Shukla",
+      "n": 15
+    },
+    "summary": "Birth on Shukla Purnima (Purna class). Jataka Bharanam describes the native as many virtues, charming and very compassionate, naturally knowledgeable in love and pleasure.",
+    "themes": [
+      "tithi",
+      "purna",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "many virtues",
+      "charming and very compassionate",
+      "naturally knowledgeable in love and pleasure"
+    ],
+    "rare_outcomes": [
+      "Krishna Darshan: where the natal Moon is badly afflicted, the full-Moon mind can be over-sensitive and emotional disturbances amplified."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "charming, affectionate",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.15 (p.21)",
+        "view": "Birth on Purnima: many virtues; charming and very compassionate; naturally knowledgeable in love and pleasure. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371ca"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is the Vishvedevas; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is the Moon. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Saturn (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Chandra (Soma) / the Vishvedevas; nature 'gentle'; group Purna. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives the Vishvedevas, Muhurta Chintamani the Moon, Krishna Darshan Chandra (Soma) / the Vishvedevas. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "purna",
+      "deity_brihat_samhita": "the Vishvedevas",
+      "deity_muhurta_chintamani": "the Moon",
+      "deity_krishna_darshan": "Chandra (Soma) / the Vishvedevas",
+      "nature_krishna_darshan": "gentle",
+      "planet_lord_pvr": "Saturn"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/16",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Pratipada",
+      "paksha": "Krishna",
+      "n": 16
+    },
+    "summary": "Birth on Krishna Pratipada (Nanda class). Jataka Bharanam describes the native as large family and many relatives, wise and discerning, owns gold and gems.",
+    "themes": [
+      "tithi",
+      "nanda",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "large family and many relatives",
+      "wise and discerning",
+      "owns gold and gems",
+      "modest, graceful",
+      "skilled; bears himself like a ruler"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "gold and precious things",
+      "health": "",
+      "relationships": "",
+      "family": "many relatives; a large family",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.1 (p.19)",
+        "view": "Birth on Pratipada: large family and many relatives; wise and discerning; owns gold and gems; modest, graceful; skilled; bears himself like a ruler. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Brahma; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Agni. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Sun (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Agni; nature 'increasing'; group Nanda. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Brahma, Muhurta Chintamani Agni, Krishna Darshan Agni. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "nanda",
+      "deity_brihat_samhita": "Brahma",
+      "deity_muhurta_chintamani": "Agni",
+      "deity_krishna_darshan": "Agni",
+      "nature_krishna_darshan": "increasing",
+      "planet_lord_pvr": "Sun"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/17",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Dwitiya",
+      "paksha": "Krishna",
+      "n": 17
+    },
+    "summary": "Birth on Krishna Dwitiya (Bhadra class). Jataka Bharanam describes the native as self-controlled and compassionate, virtuous, learned, a clear thinker.",
+    "themes": [
+      "tithi",
+      "bhadra",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "self-controlled and compassionate",
+      "virtuous",
+      "learned, a clear thinker",
+      "fortunate and cheerful",
+      "widely praised"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "virtuous and self-restrained"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.2 (p.19)",
+        "view": "Birth on Dwitiya: self-controlled and compassionate; virtuous; learned, a clear thinker; fortunate and cheerful; widely praised. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Vidhata; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Brahma. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Moon (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Brahma / the Ashwini Kumaras; nature 'auspicious'; group Bhadra. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Vidhata, Muhurta Chintamani Brahma, Krishna Darshan Brahma / the Ashwini Kumaras. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "bhadra",
+      "deity_brihat_samhita": "Vidhata",
+      "deity_muhurta_chintamani": "Brahma",
+      "deity_krishna_darshan": "Brahma / the Ashwini Kumaras",
+      "nature_krishna_darshan": "auspicious",
+      "planet_lord_pvr": "Moon"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/18",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Tritiya",
+      "paksha": "Krishna",
+      "n": 18
+    },
+    "summary": "Birth on Krishna Tritiya (Jaya class). Jataka Bharanam describes the native as strong desires, restless, favoured by those in power.",
+    "themes": [
+      "tithi",
+      "jaya",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "strong desires",
+      "restless",
+      "favoured by those in power",
+      "fond of travel and pleasures",
+      "intelligent but proud"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "favour from rulers or authorities",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.3 (p.19)",
+        "view": "Birth on Tritiya: strong desires; restless; favoured by those in power; fond of travel and pleasures; intelligent but proud. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Vishnu; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Gauri. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Mars (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Gauri; nature 'strong'; group Jaya. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Vishnu, Muhurta Chintamani Gauri, Krishna Darshan Gauri. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "jaya",
+      "deity_brihat_samhita": "Vishnu",
+      "deity_muhurta_chintamani": "Gauri",
+      "deity_krishna_darshan": "Gauri",
+      "nature_krishna_darshan": "strong",
+      "planet_lord_pvr": "Mars"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/19",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Chaturthi",
+      "paksha": "Krishna",
+      "n": 19
+    },
+    "summary": "Birth on Krishna Chaturthi (Rikta class). Jataka Bharanam describes the native as charitable, courageous, very capable in work.",
+    "themes": [
+      "tithi",
+      "rikta",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "charitable",
+      "courageous",
+      "very capable in work",
+      "somewhat miserly by temperament",
+      "fickle mind"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "careful, even tight, with money despite being charitable",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Rikta ('empty') class: Muhurta Chintamani and Brihat Samhita reserve these tithis for harsh or destructive works; Krishna Darshan advises Rikta-born natives to worship the tithi deity as a remedy."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.4 (p.19)",
+        "view": "Birth on Chaturthi: charitable; courageous; very capable in work; somewhat miserly by temperament; fickle mind. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Yama; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Ganesha. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Mercury (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Yama / Ganesha; nature 'cruel'; group Rikta. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Yama, Muhurta Chintamani Ganesha, Krishna Darshan Yama / Ganesha. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "rikta",
+      "deity_brihat_samhita": "Yama",
+      "deity_muhurta_chintamani": "Ganesha",
+      "deity_krishna_darshan": "Yama / Ganesha",
+      "nature_krishna_darshan": "cruel",
+      "planet_lord_pvr": "Mercury"
+    },
+    "remedies": [
+      {
+        "remedy": "worship or mantra of the tithi's presiding deity",
+        "source": "Krishna Darshan (Saptarishis Astrology)"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/20",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Panchami",
+      "paksha": "Krishna",
+      "n": 20
+    },
+    "summary": "Birth on Krishna Panchami (Purna class). Jataka Bharanam describes the native as blessed with children and friends, kind to all creatures, honoured by leaders.",
+    "themes": [
+      "tithi",
+      "purna",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "blessed with children and friends",
+      "kind to all creatures",
+      "honoured by leaders",
+      "eloquent",
+      "generous"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "honoured by people of standing",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "children and friends",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.5 (p.19)",
+        "view": "Birth on Panchami: blessed with children and friends; kind to all creatures; honoured by leaders; eloquent; generous. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is the Moon; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is the Serpents. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Jupiter (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity the Serpents / Saraswati; nature 'prosperous'; group Purna. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives the Moon, Muhurta Chintamani the Serpents, Krishna Darshan the Serpents / Saraswati. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "purna",
+      "deity_brihat_samhita": "the Moon",
+      "deity_muhurta_chintamani": "the Serpents",
+      "deity_krishna_darshan": "the Serpents / Saraswati",
+      "nature_krishna_darshan": "prosperous",
+      "planet_lord_pvr": "Jupiter"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/21",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Shashthi",
+      "paksha": "Krishna",
+      "n": 21
+    },
+    "summary": "Birth on Krishna Shashthi (Nanda class). Jataka Bharanam describes the native as keeps his word, wealthy, steady and brave.",
+    "themes": [
+      "tithi",
+      "nanda",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "keeps his word",
+      "wealthy",
+      "steady and brave",
+      "energetic and well known",
+      "a scar or mark on the body"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "wealth",
+      "health": "the text mentions a scar or wound mark on the body",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.6 (p.19)",
+        "view": "Birth on Shashthi: keeps his word; wealthy; steady and brave; energetic and well known; a scar or mark on the body. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Subrahmanya (Kartikeya); tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Guha (Kartikeya). Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Venus (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Kartikeya (Subrahmanya); nature 'glorious'; group Nanda. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Subrahmanya (Kartikeya), Muhurta Chintamani Guha (Kartikeya), Krishna Darshan Kartikeya (Subrahmanya). Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "nanda",
+      "deity_brihat_samhita": "Subrahmanya (Kartikeya)",
+      "deity_muhurta_chintamani": "Guha (Kartikeya)",
+      "deity_krishna_darshan": "Kartikeya (Subrahmanya)",
+      "nature_krishna_darshan": "glorious",
+      "planet_lord_pvr": "Venus"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/22",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Saptami",
+      "paksha": "Krishna",
+      "n": 22
+    },
+    "summary": "Birth on Krishna Saptami (Bhadra class). Jataka Bharanam describes the native as appreciates good qualities, attractive, lively eyes, devoted to the gods.",
+    "themes": [
+      "tithi",
+      "bhadra",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "appreciates good qualities",
+      "attractive, lively eyes",
+      "devoted to the gods",
+      "attractive to women",
+      "may covet others' wealth",
+      "powerful against rivals"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "devoted to worship"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.7 (p.19)",
+        "view": "Birth on Saptami: appreciates good qualities; attractive, lively eyes; devoted to the gods; attractive to women; may covet others' wealth; powerful against rivals. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c8"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Indra; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is the Sun. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Saturn (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Surya; nature 'friendly'; group Bhadra. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Indra, Muhurta Chintamani the Sun, Krishna Darshan Surya. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "bhadra",
+      "deity_brihat_samhita": "Indra",
+      "deity_muhurta_chintamani": "the Sun",
+      "deity_krishna_darshan": "Surya",
+      "nature_krishna_darshan": "friendly",
+      "planet_lord_pvr": "Saturn"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/23",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Ashtami",
+      "paksha": "Krishna",
+      "n": 23
+    },
+    "summary": "Birth on Krishna Ashtami (Jaya class). Jataka Bharanam describes the native as well-off and well known, fond of the spouse (or of women; the word allows both), restless, changeable mind.",
+    "themes": [
+      "tithi",
+      "jaya",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "well-off and well known",
+      "fond of the spouse (or of women; the word allows both)",
+      "restless, changeable mind"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "comfortable means",
+      "health": "",
+      "relationships": "affectionate towards the spouse",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.8 (p.20)",
+        "view": "Birth on Ashtami: well-off and well known; fond of the spouse (or of women; the word allows both); restless, changeable mind. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is the Vasus; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Shiva. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Rahu (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Shiva-Shakti; nature 'conflictual'; group Jaya. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives the Vasus, Muhurta Chintamani Shiva, Krishna Darshan Shiva-Shakti. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "jaya",
+      "deity_brihat_samhita": "the Vasus",
+      "deity_muhurta_chintamani": "Shiva",
+      "deity_krishna_darshan": "Shiva-Shakti",
+      "nature_krishna_darshan": "conflictual",
+      "planet_lord_pvr": "Rahu"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/24",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Navami",
+      "paksha": "Krishna",
+      "n": 24
+    },
+    "summary": "Birth on Krishna Navami (Rikta class). Jataka Bharanam describes the native as neglects the needs of relatives, harsh speech, argumentative, hostile.",
+    "themes": [
+      "tithi",
+      "rikta",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "neglects the needs of relatives",
+      "harsh speech",
+      "argumentative, hostile",
+      "the text also mentions steadiness in good conduct"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "may turn away from relatives' affairs",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Rikta ('empty') class: Muhurta Chintamani and Brihat Samhita reserve these tithis for harsh or destructive works; Krishna Darshan advises Rikta-born natives to worship the tithi deity as a remedy."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.9 (p.20)",
+        "view": "Birth on Navami: neglects the needs of relatives; harsh speech; argumentative, hostile; the text also mentions steadiness in good conduct. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is the Serpents; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Durga. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Sun (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Durga; nature 'fierce'; group Rikta. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives the Serpents, Muhurta Chintamani Durga, Krishna Darshan Durga. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "rikta",
+      "deity_brihat_samhita": "the Serpents",
+      "deity_muhurta_chintamani": "Durga",
+      "deity_krishna_darshan": "Durga",
+      "nature_krishna_darshan": "fierce",
+      "planet_lord_pvr": "Sun"
+    },
+    "remedies": [
+      {
+        "remedy": "worship or mantra of the tithi's presiding deity",
+        "source": "Krishna Darshan (Saptarishis Astrology)"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/25",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Dashami",
+      "paksha": "Krishna",
+      "n": 25
+    },
+    "summary": "Birth on Krishna Dashami (Purna class). Jataka Bharanam describes the native as mind set on dharma, wealth and splendour, learned in many texts.",
+    "themes": [
+      "tithi",
+      "purna",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "mind set on dharma",
+      "wealth and splendour",
+      "learned in many texts",
+      "large-hearted and very humble",
+      "fond of pleasure"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "wealth and splendour",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "dharma-minded"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.10 (p.20)",
+        "view": "Birth on Dashami: mind set on dharma; wealth and splendour; learned in many texts; large-hearted and very humble; fond of pleasure. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Dharma; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Yama. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Moon (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Dharmaraja (Yama); nature 'gentle'; group Purna. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Dharma, Muhurta Chintamani Yama, Krishna Darshan Dharmaraja (Yama). Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "purna",
+      "deity_brihat_samhita": "Dharma",
+      "deity_muhurta_chintamani": "Yama",
+      "deity_krishna_darshan": "Dharmaraja (Yama)",
+      "nature_krishna_darshan": "gentle",
+      "planet_lord_pvr": "Moon"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/26",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Ekadashi",
+      "paksha": "Krishna",
+      "n": 26
+    },
+    "summary": "Birth on Krishna Ekadashi (Nanda class). Jataka Bharanam describes the native as devoted to the gods and the learned, keeps vows and gives in charity, pure-hearted and capable.",
+    "themes": [
+      "tithi",
+      "nanda",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "devoted to the gods and the learned",
+      "keeps vows and gives in charity",
+      "pure-hearted and capable",
+      "intent on merit and own duties"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "vows, charity and religious duty"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11)."
+    ],
+    "lagna_or_context_notes": "Muhurta Chintamani treats the last third of the dark half as low (waning, weak Moon); Krishna Darshan says these tithis suit inward or spiritual work more than worldly beginnings.",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.11 (p.20)",
+        "view": "Birth on Ekadashi: devoted to the gods and the learned; keeps vows and gives in charity; pure-hearted and capable; intent on merit and own duties. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Rudra; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is the Vishvedevas. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Mars (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity the Vishvedevas / Kubera; nature 'blissful'; group Nanda. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Rudra, Muhurta Chintamani the Vishvedevas, Krishna Darshan the Vishvedevas / Kubera. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "nanda",
+      "deity_brihat_samhita": "Rudra",
+      "deity_muhurta_chintamani": "the Vishvedevas",
+      "deity_krishna_darshan": "the Vishvedevas / Kubera",
+      "nature_krishna_darshan": "blissful",
+      "planet_lord_pvr": "Mars"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/27",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Dwadashi",
+      "paksha": "Krishna",
+      "n": 27
+    },
+    "summary": "Birth on Krishna Dwadashi (Bhadra class). Jataka Bharanam describes the native as fond of water, splendid nature, enjoys home life.",
+    "themes": [
+      "tithi",
+      "bhadra",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "fond of water",
+      "splendid nature",
+      "enjoys home life",
+      "always feeds others",
+      "wealthy and wise"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "acquires wealth",
+      "health": "",
+      "relationships": "",
+      "family": "enjoys home and hospitality",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Muhurta Chintamani treats the last third of the dark half as low (waning, weak Moon); Krishna Darshan says these tithis suit inward or spiritual work more than worldly beginnings.",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.12 (p.20)",
+        "view": "Birth on Dwadashi: fond of water; splendid nature; enjoys home life; always feeds others; wealthy and wise. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Aditya (the Sun); tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Hari (Vishnu). Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Mercury (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Vishnu; nature 'glorious'; group Bhadra. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Aditya (the Sun), Muhurta Chintamani Hari (Vishnu), Krishna Darshan Vishnu. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "bhadra",
+      "deity_brihat_samhita": "Aditya (the Sun)",
+      "deity_muhurta_chintamani": "Hari (Vishnu)",
+      "deity_krishna_darshan": "Vishnu",
+      "nature_krishna_darshan": "glorious",
+      "planet_lord_pvr": "Mercury"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/28",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Trayodashi",
+      "paksha": "Krishna",
+      "n": 28
+    },
+    "summary": "Birth on Krishna Trayodashi (Jaya class). Jataka Bharanam describes the native as good-looking, lacking in sattvic (calm, pure) qualities, combative.",
+    "themes": [
+      "tithi",
+      "jaya",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "good-looking",
+      "lacking in sattvic (calm, pure) qualities",
+      "combative",
+      "can be very harsh",
+      "follows own desires"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Muhurta Chintamani treats the last third of the dark half as low (waning, weak Moon); Krishna Darshan says these tithis suit inward or spiritual work more than worldly beginnings.",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.13 (p.20)",
+        "view": "Birth on Trayodashi: good-looking; lacking in sattvic (calm, pure) qualities; combative; can be very harsh; follows own desires. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Manmatha (Kama); tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Kama. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Jupiter (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Shiva / Kamadeva / Dharma; nature 'victorious'; group Jaya. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Manmatha (Kama), Muhurta Chintamani Kama, Krishna Darshan Shiva / Kamadeva / Dharma. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. Keep it to one or two sentences; let the birth chart carry the weight.",
+    "attributes": {
+      "nature_class": "jaya",
+      "deity_brihat_samhita": "Manmatha (Kama)",
+      "deity_muhurta_chintamani": "Kama",
+      "deity_krishna_darshan": "Shiva / Kamadeva / Dharma",
+      "nature_krishna_darshan": "victorious",
+      "planet_lord_pvr": "Jupiter"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/tithi/29",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Chaturdashi",
+      "paksha": "Krishna",
+      "n": 29
+    },
+    "summary": "Birth on Krishna Chaturdashi (Rikta class). BPHS lists it among inauspicious births needing remedy; Jataka Bharanam's Chaturdashi verse describes a fierce but clever, sociable person.",
+    "themes": [
+      "tithi",
+      "rikta",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "can be harsh or fierce",
+      "clever, with many friends",
+      "preoccupied with romance",
+      "contradictory speech",
+      "swings between delight and anger"
+    ],
+    "rare_outcomes": [
+      "[maraka: text predicts danger to life / death] - BPHS divides Krishna Chaturdashi into six parts: the first is auspicious; the others are said to harm the father, mother, maternal uncle, the family line, or the native's wealth/life in turn (ch. 87 sl. 1-3)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "romantic, surrounded by admirers",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "BPHS lists birth on Krishna Chaturdashi among inauspicious births (ch. 85 sl. 1-4).",
+      "Rikta ('empty') class: Muhurta Chintamani and Brihat Samhita reserve these tithis for harsh or destructive works; Krishna Darshan advises Rikta-born natives to worship the tithi deity as a remedy."
+    ],
+    "lagna_or_context_notes": "Muhurta Chintamani treats the last third of the dark half as low (waning, weak Moon); Krishna Darshan says these tithis suit inward or spiritual work more than worldly beginnings.",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.14 (p.20)",
+        "view": "Birth on Chaturdashi: can be harsh or fierce; clever, with many friends; preoccupied with romance; contradictory speech; swings between delight and anger. The verse names the tithi only, not the paksha.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371c9"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is Kali; tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3-4 (p.19-20)",
+        "view": "Lord of this tithi is Shiva. Nanda, Bhadra, Jaya, Rikta, Purna give results 'according to their names'. In the bright half tithis 1-5 are weak (Moon weak), 6-10 middling, 11-15 good; in the dark half the order is reversed.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48d"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Venus (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity Shiva / Kali / Rudra; nature 'fierce'; group Rikta. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 85 sl. 1-4; ch. 87 sl. 1-13",
+        "view": "Krishna Chaturdashi birth is inauspicious even with a good lagna. Of its six parts only the first is good; the rest threaten father, mother, maternal uncle, family, or the native [maraka: text predicts danger to life / death]. Remedy: worship of a gold Shiva image, kalasha with Varuna mantras, havan for the nine planets.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives Kali, Muhurta Chintamani Shiva, Krishna Darshan Shiva / Kali / Rudra. Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength. Jataka Bharanam's Chaturdashi verse is mixed (fierce but clever, many friends) and does not distinguish the dark-half tithi; BPHS treats Krishna Chaturdashi as a dosha needing remedy.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "rikta",
+      "deity_brihat_samhita": "Kali",
+      "deity_muhurta_chintamani": "Shiva",
+      "deity_krishna_darshan": "Shiva / Kali / Rudra",
+      "nature_krishna_darshan": "fierce",
+      "planet_lord_pvr": "Venus"
+    },
+    "remedies": [
+      {
+        "remedy": "worship of Shiva (gold image), kalasha with Varuna mantras, navagraha havan, sprinkling the child and parents, feeding Brahmins",
+        "source": "BPHS ch. 87 sl. 4-13"
+      },
+      {
+        "remedy": "worship or mantra of the tithi's presiding deity",
+        "source": "Krishna Darshan (Saptarishis Astrology)"
+      }
+    ]
+  },
+  {
+    "id": "panchang/tithi/30",
+    "layer": "panchang",
+    "key": {
+      "tithi": "Amavasya",
+      "paksha": "Krishna",
+      "n": 30
+    },
+    "summary": "Birth on Amavasya (new Moon, Purna class by count). BPHS treats it as an inauspicious birth needing remedy; one manuscript verse describes a calm, parent-devoted, high-minded person.",
+    "themes": [
+      "tithi",
+      "purna",
+      "Moon-Sun relationship",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "calm and high-minded",
+      "devoted to father and mother",
+      "not easily discouraged by hardship",
+      "learned in sacred lore",
+      "slender build"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "devoted to parents",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Tithi gandanta: birth in the last 2 ghatikas (about 48 min) of a Purna tithi (5/10/15) or the first 2 ghatikas of a Nanda tithi (1/6/11) is treated as inauspicious; BPHS prescribes remedies (BPHS ch. 92 sl. 1-2, 6-11).",
+      "BPHS lists Amavasya birth among inauspicious births and says the native is prone to poverty (ch. 85 sl. 1-4; ch. 86 sl. 1-9)."
+    ],
+    "lagna_or_context_notes": "Krishna Darshan: the Moon is invisible; the mind turns inward; a strong day for meditation and ancestor rites.",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), tithi-phala v.16 (p.21)",
+        "view": "Sixteenth verse of the tithi section, after Purnima; the tithi name is illegible in the manuscript, so its reading as Amavasya is inferred from position. Calm, high-minded, devoted to parents, not discouraged by hardship, learned, slender.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371ca"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 99 (Tithi-guna) sl. 1-3",
+        "view": "Lord of this tithi is the Pitris (ancestors); tithis fall in five classes of three (1/6/11 Nanda, 2/7/12 Bhadra, 3/8/13 Jaya, 4/9/14 Rikta, 5/10/15 Purna). Works suited to the deity are done on its day (an electional rule, not a birth result).",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.3 commentary (p.20)",
+        "view": "Amavasya is for rites to the ancestors (pitri-karma); celebratory and nourishing acts are not begun on it.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c48e"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (Table 3)",
+        "view": "Planetary lord of this tithi: Rahu (lords run Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu and repeat; Amavasya = Rahu). Tithi is a 12-degree step of the Moon from the Sun.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Krishna Darshan, 'Tithi, the Lunar Day and its Effect on the Mind' (Saptarishis Astrology, publisher-hosted PDF)",
+        "view": "Presiding deity the Pitris (ancestors); nature 'ancestral'; group Purna. Birth tithi links the native to its deity, whose worship is advised for mental peace, especially for Rikta or afflicted tithis. Bright-half births tend to be more outgoing, dark-half births more inward.",
+        "url": "https://saptarishisastrology.com/wp-content/uploads/2023/02/tithi-the-lunar-day-its-effect-on-the-mind-by-krishna-darshan.pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 92 sl. 1-2, 6-11",
+        "view": "Tithi gandanta = last 2 ghatikas of Purna tithis and first 2 ghatikas of Nanda tithis; birth then [maraka: text predicts danger to life / death]; remedies: gift of a bullock, worship of the tithi deity on a kalasha, havan, feeding Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 85 sl. 1-4; ch. 86 sl. 1-9",
+        "view": "One born on Amavasya is always troubled by poverty; remedy by worship of the Sun and Moon (deities of Amavasya), havan, and gifts of gold, silver and a black cow.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Tithi deities differ by text: Brihat Samhita gives the Pitris (ancestors), Muhurta Chintamani no separate Amavasya deity in the verse, Krishna Darshan the Pitris (ancestors). Jataka Bharanam gives one result per tithi name for both pakshas, while Muhurta Chintamani and Krishna Darshan treat the waxing and waning halves as different in strength. Jataka Bharanam's Amavasya verse is mild and positive, while BPHS calls Amavasya birth inauspicious and poverty-prone.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a minor colouring of temperament, never as fate. Mention the tithi deity as a devotional focus. If a dosha is noted (gandanta, Rikta, Amavasya, Krishna Chaturdashi), mention it gently as a traditional concern with a traditional remedy; do not repeat any prediction about death or harm to parents.",
+    "attributes": {
+      "nature_class": "purna",
+      "deity_brihat_samhita": "the Pitris (ancestors)",
+      "deity_muhurta_chintamani": "",
+      "deity_krishna_darshan": "the Pitris (ancestors)",
+      "nature_krishna_darshan": "ancestral",
+      "planet_lord_pvr": "Rahu"
+    },
+    "remedies": [
+      {
+        "remedy": "for tithi-gandanta birth: worship of the tithi's deity on a kalasha, havan and the gift of a bullock",
+        "source": "BPHS ch. 92 sl. 6-11"
+      },
+      {
+        "remedy": "worship of the Sun and Moon on a kalasha, havan with their mantras, gifts of gold, silver and a black cow",
+        "source": "BPHS ch. 86 sl. 1-9"
+      }
+    ]
+  }
+]

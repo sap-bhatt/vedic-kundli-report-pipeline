@@ -1,0 +1,1675 @@
+[
+  {
+    "id": "aspect/saturn/1",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 1
+    },
+    "summary": "Saturn aspecting the lagna gives burdens, delays, a serious and austere temperament and early misfortune in the classical and Raman's reading; Braha links it with a spiritual, renunciate bent.",
+    "themes": [
+      "burdens",
+      "seriousness",
+      "delay",
+      "austerity"
+    ],
+    "common_outcomes": [
+      "troubled by heavy loads, travel and illness; irritable; lacking happiness (Saravali 34.1-7)",
+      "the same results as Saturn in the lagna: grave, serious, slow but certain progress, inactive habits, loss through negligence; misfortunes early in life (Raman, HJH vol. 1, p. 43)",
+      "a malefic aspect on the lagna is inauspicious for health and well-being (Saravali 34.10-11; BPHS 12.3)"
+    ],
+    "rare_outcomes": [
+      "Saravali 34.1-7 and Jataka Parijata 11.45: attachment to older women / older wives, uncleanliness, mischief-making",
+      "Braha: Saturn aspecting the lagna, the lagna lord or the Sun is common among those in serious spiritual practice",
+      "Jataka Parijata 15.23: Jupiter, the Moon and the lagna aspected by Saturn, with Jupiter in the 9th, gives a holy founder of a school of philosophy",
+      "Jataka Parijata 6.62: Mars in the lagna aspected by Saturn and the Sun is linked to smallpox (aspect on a planet in the lagna)",
+      "Raman (HJH vol. 1, pp. 249-250): Jupiter or Venus in the lagna with the 6th lord aspected by Saturn, Rahu or Mars brings trouble from relatives"
+    ],
+    "by_area": {
+      "personality": "serious, grave, slow and self-contained (Raman HJH vol. 1, p. 43); irritable (Saravali 34.1-7)",
+      "career": "progress slow but certain; loss through lack of opportunity (Raman)",
+      "finance": "",
+      "health": "illness and fatigue from burdens (Saravali 34.1-7); poor bodily health without benefic aspect (BPHS 12.3)",
+      "relationships": "",
+      "family": "",
+      "spirituality": "ascetic, detached orientation (Braha)"
+    },
+    "strengtheners": [
+      "Saturn owning the lagna (Capricorn or Aquarius rising): its aspect on its own sign gives happiness, wealth and royal favour (Saravali 34.8)",
+      "a benefic also aspecting the lagna (BPHS 12.3; Phaladeepika 15.2)"
+    ],
+    "weakeners_or_cancellations": [
+      "no benefic aspect on the lagna (BPHS 12.3)",
+      "Saturn debilitated or ruling the 8th/12th (Phaladeepika 15.1; Braha)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects house 1 fully from house 7 (7th aspect), house 11 (special 3rd aspect) and house 4 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 9 and 5, three-quarters from houses 10 and 6. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "1 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [11, 4]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 34.1-7, 34.8, 34.10-11 (Eng. tr., retyped edition)",
+        "view": "Saturn aspecting the ascendant: heavy loads, travels, diseases, irascible, fond of aged women, unhappy, dirty, foolish. A planet aspecting its own sign as ascendant gives happiness and wealth; a malefic aspect on the lagna is inauspicious.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Jataka Parijata 11.45 (tr. Sastri)",
+        "view": "If Saturn aspects the lagna, the native has aged wives, is unclean and mischief-making.",
+        "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the First House', p. 43",
+        "view": "Saturn in the first house: calm, grave, emaciated, slow progress, inactive habits; the same results if the ascendant is aspected by Saturn; misfortunes early in life.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Shani--Saturn'",
+        "view": "Nearly all those in serious spiritual practice have Saturn aspecting the Sun, ascendant or ascendant lord.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "BPHS 12.3 (tr. Santhanam)",
+        "view": "No bodily health if the ascendant or Moon is aspected by or joined with a malefic without a benefic's aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Phaladeepika 15.1-2 (tr. V. Subrahmanya Sastri)",
+        "view": "Houses aspected by malefics suffer unless the malefic owns the house; good results need the planets free of debility, combustion and enemy signs; mixed aspects give mixed results.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical texts and Raman read it as a burden and source of unhappiness; Braha adds a positive spiritual reading. Saravali 34.8 reverses the result when Saturn owns the lagna.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as maturity, responsibility and slow, steady progress; avoid predicting misfortune or illness."
+  },
+  {
+    "id": "aspect/saturn/2",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 2
+    },
+    "summary": "Saturn aspecting the 2nd harms speech, eyes, diet and savings in the sources, especially with other malefics there.",
+    "themes": [
+      "wealth",
+      "speech",
+      "eyes",
+      "food"
+    ],
+    "common_outcomes": [
+      "poor food, weak eyesight, speech or dental troubles and strain on money and knowledge (Braha, Saturn in the 8th)",
+      "several malefics in the 2nd aspected by Saturn give diseased eyes (Jataka Parijata 11.68, sloka number partly illegible)"
+    ],
+    "rare_outcomes": [
+      "Raman (HJH vol. 1, p. 85): the Moon and Mars in the 2nd aspected by Saturn give a peculiar skin disease",
+      "Saravali 34.15-20: the Sun in the 2nd aspected only by Saturn brings pennilessness"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "money comes hard (Braha); poverty with the Sun in the 2nd (Saravali 34.15-20)",
+      "health": "eyes, teeth and mouth (Braha; Jataka Parijata 11.68); skin with Moon-Mars there (Raman)",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn owning the 2nd (Phaladeepika 15.1)",
+      "Saturn yogakaraka (Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "other malefics in the 2nd (Jataka Parijata 11.68)",
+      "no benefic aspect (Phaladeepika 15.2)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects house 2 fully from house 8 (7th aspect), house 12 (special 3rd aspect) and house 5 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 10 and 6, three-quarters from houses 11 and 7. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "2 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [12, 5]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Jataka Parijata 11.68 (tr. Sastri; number partly illegible)",
+        "view": "If several malefics are in the 2nd and Saturn aspects it, the native has diseased eyes.",
+        "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Second House', p. 85",
+        "view": "If the Moon and Mars are in the 2nd and Saturn aspects it, a peculiar skin disease.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Saturn in the 8th house'",
+        "view": "Saturn in the 8th aspects the 2nd, 5th and 10th; bad food, defective eyesight, speech or dental problems from the malefic aspect on the 2nd.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Saravali 34.15-20 (Eng. tr., retyped edition)",
+        "view": "The Sun in the 2nd aspected only by Saturn: pennilessness.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of careful money habits and looking after eyes and teeth; no disease predictions."
+  },
+  {
+    "id": "aspect/saturn/3",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 3
+    },
+    "summary": "Saturn aspecting the 3rd (often by its special 3rd aspect from the lagna) brings trouble with siblings in Braha; BPHS lists Saturn with Rahu on the 3rd in its death chapter.",
+    "themes": [
+      "siblings",
+      "courage",
+      "hearing"
+    ],
+    "common_outcomes": [
+      "troubles with brothers and sisters (Braha, Saturn in the 9th)"
+    ],
+    "rare_outcomes": [
+      "BPHS 44.25-31: the 3rd aspected or occupied by Saturn and Rahu shows death through poison, water, fire, a fall or confinement [maraka: text predicts the manner of death]",
+      "Raman (HJH vol. 1, pp. 139-140): Saturn as 3rd lord aspecting the 3rd supports brothers; in other charts Saturn's aspect on the 3rd with a weak 3rd lord goes with partial deafness"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "hearing is noted in Raman's chart examples; report with care",
+      "relationships": "",
+      "family": "strain or distance with siblings (Braha)",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn owning the 3rd - Raman's example where the 3rd lord's own aspect supports siblings (HJH vol. 1, p. 139)"
+    ],
+    "weakeners_or_cancellations": [
+      "Rahu also connected with the 3rd (BPHS 44.25-31)",
+      "a weak 3rd lord (Raman)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects house 3 fully from house 9 (7th aspect), house 1 (special 3rd aspect) and house 6 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 11 and 7, three-quarters from houses 12 and 8. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "3 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [1, 6]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Saturn in the 9th house'",
+        "view": "Because Saturn will aspect the 3rd, there will be troubles with brothers and sisters.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "BPHS 44.25-31 (tr. Santhanam)",
+        "view": "If the 3rd is aspected or occupied by Saturn and Rahu, death through poison, water, fire, fall from height or confinement.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Third House', pp. 139-140",
+        "view": "Saturn as 3rd lord aspecting the 3rd: the native has brothers; the 3rd aspected by Saturn with a debilitated 3rd lord: partial deafness (chart examples).",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'",
+        "view": "Malefics throw destructive aspects; a Saturn aspect, besides harm, gives an ascetic or restrictive energy to what it touches; rulership of the aspecting planet is crucial.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Talk about effort, discipline and possibly distance with siblings; never mention death predictions."
+  },
+  {
+    "id": "aspect/saturn/4",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 4
+    },
+    "summary": "Saturn aspecting the 4th tends to reduce domestic ease and bring an ascetic bent (Braha), but Raman counts a yogakaraka Saturn's aspect as strengthening the 4th.",
+    "themes": [
+      "home",
+      "mother",
+      "inner peace"
+    ],
+    "common_outcomes": [
+      "strong ascetic leanings when Saturn in the 10th aspects the 4th (Braha)"
+    ],
+    "rare_outcomes": [
+      "Raman (HJH vol. 1, Fourth House chart): the aspect of Saturn as 4th lord on the Moon could have been good but for Saturn being a natural malefic (aspect on the Moon)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "home life can feel restricted (Braha)",
+      "spirituality": "detachment (Braha)"
+    },
+    "strengtheners": [
+      "Saturn yogakaraka: its aspect fortifies the 4th (Raman, HJH vol. 1, p. 187)",
+      "Saturn owning the 4th (Phaladeepika 15.1)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn as 8th or 12th lord (Braha)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects house 4 fully from house 10 (7th aspect), house 2 (special 3rd aspect) and house 7 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 12 and 8, three-quarters from houses 1 and 9. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "4 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [2, 7]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187",
+        "view": "Chart example: the 4th aspected by the Sun, Mercury and Jupiter; 'Yogakaraka Saturn's aspect is equally important', so the 4th is quite strong.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Saturn in the 10th house'",
+        "view": "Strong ascetic leanings, especially as Saturn in the 10th aspects the 4th, 7th and 12th.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 15.1-2 (tr. V. Subrahmanya Sastri)",
+        "view": "Houses aspected by malefics suffer unless the malefic owns the house; good results need the planets free of debility, combustion and enemy signs; mixed aspects give mixed results.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Braha reads it as restrictive; Raman's chart treats a yogakaraka Saturn's aspect as a strength.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a sober, responsible home life; if Saturn is functionally good, stress stability."
+  },
+  {
+    "id": "aspect/saturn/5",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 5
+    },
+    "summary": "Saturn aspecting the 5th makes progeny harder or fewer and can disrupt education; classical texts add adoption and other unusual progeny rules.",
+    "themes": [
+      "children",
+      "education",
+      "romance"
+    ],
+    "common_outcomes": [
+      "a malefic aspect on the 5th gives children with difficulty (Saravali 34.27)",
+      "limited number of children and, per some texts, a broken education (Braha, Saturn in the 11th)",
+      "children, love affairs and pleasures are strained (Braha, Saturn in the 8th)"
+    ],
+    "rare_outcomes": [
+      "BPHS 16.9: the 5th owned by Saturn or Mercury and occupied or aspected by Saturn and Mandi gives adopted children",
+      "Saravali 34.28: Mercury in its own sign in the 5th aspected only by Saturn gives children raised through a kinsman",
+      "Braha: speculation can still profit with Saturn in the 11th aspecting the 5th"
+    ],
+    "by_area": {
+      "personality": "education can be interrupted (Braha)",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "fewer or delayed children (Saravali 34.27; Braha)",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn owning the 5th (Phaladeepika 15.1)",
+      "benefic aspect on the 5th too (Saravali 34.25-27)"
+    ],
+    "weakeners_or_cancellations": [
+      "the 5th in a malefic sign and divisions (Saravali 34.27, 34.37)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects house 5 fully from house 11 (7th aspect), house 3 (special 3rd aspect) and house 8 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 1 and 9, three-quarters from houses 2 and 10. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "5 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [3, 8]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the 5th is owned by Saturn or Mercury and Mandi also occupies or aspects it",
+        "polarity": "mixed",
+        "effects": [
+          "adopted children"
+        ],
+        "source": "BPHS 16.9 (tr. Santhanam)"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 34.27-28 (Eng. tr., retyped edition)",
+        "view": "Malefic navamsa and malefic aspect on the 5th: progeny with difficulty; Mercury's sign in the 5th with Mercury aspected by Saturn only: progeny through a kinsman.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "BPHS 16.9 (tr. Santhanam)",
+        "view": "5th owned by Saturn or Mercury and occupied or aspected by Saturn and Mandi: adopted issues.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Saturn in the 11th house' and 'Saturn in the 8th house'",
+        "view": "Aspect on the 5th limits children and, per some scriptures, breaks education; from the 8th it harms children, love affairs and pleasures.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of patience and responsibility around children and study; never predict childlessness."
+  },
+  {
+    "id": "aspect/saturn/6",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 6
+    },
+    "summary": "Saturn aspecting the 6th, combined with Mars there, brings fear from enemies in Saravali; malefic aspects on the 6th raise danger from opponents in Jataka Parijata.",
+    "themes": [
+      "enemies",
+      "disputes",
+      "illness"
+    ],
+    "common_outcomes": [
+      "fear from enemies when the 6th is aspected by Saturn and occupied by Mars (Saravali 34.43-44)",
+      "malefic aspect or occupation of the 6th brings much trouble from enemies (Jataka Parijata 13.72)"
+    ],
+    "rare_outcomes": [
+      "Jataka Parijata 13.72: Mars in the 6th aspected by Saturn gives an affair with an enemy's wife",
+      "Braha's example: Saturn aspecting its own sign Capricorn in the 6th is an 'altered' aspect"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "opposition and rivalry (Saravali 34.43-44)",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic aspect on the 6th (Saravali 34.43-44)",
+      "Saturn owning the 6th (Braha's own-sign rule)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars in the 6th (Saravali 34.43-44)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects house 6 fully from house 12 (7th aspect), house 4 (special 3rd aspect) and house 9 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 2 and 10, three-quarters from houses 3 and 11. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "6 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [4, 9]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: Mars occupies the 6th",
+        "polarity": "bad",
+        "effects": [
+          "fear from enemies"
+        ],
+        "source": "Saravali 34.43-44"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 34.43-44 (Eng. tr., retyped edition)",
+        "view": "If the 6th is aspected by Saturn and occupied by Mars, fear from enemies; benefics remove the fear.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Jataka Parijata 13.72 (tr. Sastri)",
+        "view": "Mars in the 6th aspected by Saturn: liaison with an enemy's wife; malefic aspect on the 6th: much danger from enemies.",
+        "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'",
+        "view": "Malefics throw destructive aspects; a Saturn aspect, besides harm, gives an ascetic or restrictive energy to what it touches; rulership of the aspecting planet is crucial.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali 33.64 holds that malefics in the 6th are favourable; that is placement, not aspect, but it explains why some astrologers treat Saturn's influence on the 6th as helpful.",
+    "confidence": "medium",
+    "phrasing_guidance": "Talk about handling competition and conflict with patience; avoid predictions of scandal."
+  },
+  {
+    "id": "aspect/saturn/7",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 7
+    },
+    "summary": "Saturn aspecting the 7th (e.g. from the lagna or the 10th) harms or cools married life in the sources and lowers sexual drive; classical texts add grave spouse rules when Mars is in the 7th.",
+    "themes": [
+      "marriage",
+      "spouse",
+      "desire"
+    ],
+    "common_outcomes": [
+      "married life is harmed by Saturn's aspect on the 7th (Braha, Saturn in the 1st)",
+      "sexual passions toned down (Braha, Saturn in the 10th)"
+    ],
+    "rare_outcomes": [
+      "Saravali 34.50-51: Mars in the 7th aspected only by Saturn - the wife will pass away [maraka: text predicts the spouse's death]",
+      "Saravali 34.55: Venus in the 7th aspected by Mars and Saturn, with the 7th in their divisions, makes both partners immoral",
+      "Jataka Parijata 6.55: the Sun in the 1st or 7th with or aspected by Saturn damages the right eye",
+      "Saravali 34.47: each aspecting planet adds to the count of spouses"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "delays, distance or coolness in marriage (Braha)",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn owning the 7th (Cancer or Leo lagna) (Phaladeepika 15.1)",
+      "benefic aspect on the 7th too (Phaladeepika 15.2)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars in the 7th (Saravali 34.50-51)",
+      "Saturn as 8th or 12th lord (Braha)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects house 7 fully from house 1 (7th aspect), house 5 (special 3rd aspect) and house 10 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 3 and 11, three-quarters from houses 4 and 12. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "7 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [5, 10]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: Mars occupies the 7th and Saturn is the only planet aspecting it",
+        "polarity": "bad",
+        "effects": [
+          "[maraka: text predicts the spouse's death]"
+        ],
+        "source": "Saravali 34.50-51"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Saturn in the 1st house' and 'Saturn in the 10th house'",
+        "view": "Married life is harmed by Saturn's aspect on the 7th; sexual passions toned down by aspects to the 7th and 12th.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Saravali 34.47, 34.50-51, 34.55 (Eng. tr., retyped edition)",
+        "view": "Mars in the 7th aspected only by Saturn: the wife will certainly pass away; Venus in the 7th aspected by Mars and Saturn in their divisions: both immoral.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Jataka Parijata 6.55 (tr. Sastri)",
+        "view": "The Sun in the 1st or 7th joined with or aspected by Saturn soon harms the right eye.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of a serious, duty-bound approach to partnership and the value of patience; never predict a spouse's death or infidelity."
+  },
+  {
+    "id": "aspect/saturn/8",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 8
+    },
+    "summary": "Sources split on Saturn aspecting the 8th: Braha reads it as good for longevity, while Jataka Parijata ties it (with other afflictions) to a disease of eating.",
+    "themes": [
+      "longevity",
+      "chronic illness"
+    ],
+    "common_outcomes": [
+      "long life, as Saturn's aspect on the 8th favours longevity (Braha, Saturn in the 2nd)"
+    ],
+    "rare_outcomes": [
+      "Jataka Parijata 6.92: with a weak 8th lord and a malefic aspect on the lagna, Saturn in or aspecting the 8th brings a disease that prevents taking food",
+      "Phaladeepika 15.8: the planet aspecting the 8th can harm a house in its own dasha"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "longevity favoured (Braha); chronic digestive trouble when other afflictions combine (Jataka Parijata 6.92)",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn owning the 8th (Phaladeepika 15.1)"
+    ],
+    "weakeners_or_cancellations": [
+      "weak 8th lord and malefic aspect on the lagna (Jataka Parijata 6.92)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects house 8 fully from house 2 (7th aspect), house 6 (special 3rd aspect) and house 11 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 4 and 12, three-quarters from houses 5 and 1. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "8 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [6, 11]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the 8th lord is weak and the lagna is aspected by a malefic",
+        "polarity": "bad",
+        "effects": [
+          "a disease that prevents taking food"
+        ],
+        "source": "Jataka Parijata 6.92 (tr. Sastri)"
+      },
+      {
+        "when": "manual: during the dasha of the planet aspecting the 8th house",
+        "polarity": "bad",
+        "effects": [
+          "the house under study can suffer"
+        ],
+        "source": "Phaladeepika 15.8 (tr. Sastri)"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Saturn in the 2nd house'",
+        "view": "The person may be long-lived, as Saturn's aspect on the 8th is good for longevity.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Jataka Parijata 6.92 (tr. Sastri)",
+        "view": "Weak 8th lord, malefic aspect on the lagna, and the 8th occupied or aspected by Saturn: a disease preventing the taking of food.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 15.8 (tr. Sastri)",
+        "view": "The planet aspecting the 8th is among those causing destruction of a house in its dasha.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Braha treats Saturn's aspect on the 8th as supporting longevity (Saturn as karaka of longevity); Jataka Parijata and Phaladeepika treat a Saturn link to the 8th as harmful.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of endurance and steady health habits; never speak of lifespan or death."
+  },
+  {
+    "id": "aspect/saturn/9",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 9
+    },
+    "summary": "Saturn alone aspecting the 9th gives prosperity with stomach complaints in Raman; Saravali gives fortune away from home unless Saturn owns the 9th, and specific results for Saturn's aspect on Jupiter in the 9th.",
+    "themes": [
+      "fortune",
+      "dharma",
+      "father"
+    ],
+    "common_outcomes": [
+      "prosperous but troubled by stomach complaints if only Saturn aspects the 9th (Raman, HJH vol. 2, p. 195)",
+      "fortune rises away from one's own country if a non-owner aspects the 9th (Saravali 32.4)",
+      "Saturn in a kendra aspecting the 9th brings ups and downs (Braha, Saturn in the 7th)"
+    ],
+    "rare_outcomes": [
+      "Saravali 32.6-7: Jupiter in the 9th aspected by Saturn gives land and immovable property, donkeys and buffaloes",
+      "Saravali 32.8-22: Jupiter in the 9th aspected by the Sun and Saturn gives a leader of a country, town or group; by the Moon and Saturn a lustful nature; by Mars and Saturn a mean, spiteful nature; by Mercury and Saturn good fortune and learning",
+      "Jataka Parijata 15.23: Saturn aspecting Jupiter in the 9th along with the Moon and lagna gives a founder of a philosophy",
+      "Raman (HJH vol. 2, p. 195): Saturn and Mars afflicting the 9th and its lord give base conduct"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "prosperity (Raman)",
+      "health": "stomach complaints (Raman)",
+      "relationships": "",
+      "family": "",
+      "spirituality": "a malefic aspect on the 9th lessens its good results without benefic help (Saravali 32.26-27)"
+    },
+    "strengtheners": [
+      "Saturn owning the 9th: fortune in one's own country and the malefic proves auspicious (Saravali 32.4, 32.27)",
+      "Saturn yogakaraka or well aspected by Jupiter (Braha, Saturn in the 9th)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars also afflicting the 9th (Raman)",
+      "no benefic aspect (Saravali 32.26)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects house 9 fully from house 3 (7th aspect), house 7 (special 3rd aspect) and house 12 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 5 and 1, three-quarters from houses 6 and 2. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [7, 12]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "fortune in one's own country"
+        ],
+        "source": "Saravali 32.4"
+      },
+      {
+        "when": "not (9 in md_rules)",
+        "polarity": "mixed",
+        "effects": [
+          "fortune dawns away from home"
+        ],
+        "source": "Saravali 32.4"
+      },
+      {
+        "when": "manual: Saturn is the only planet aspecting the 9th",
+        "polarity": "mixed",
+        "effects": [
+          "prosperity with stomach complaints"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2, 'Concerning the Ninth House', p. 195"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2, 'Concerning the Ninth House', p. 195",
+        "view": "If only Saturn aspects the 9th, the native, though prosperous, suffers stomach complaints; Saturn and Mars afflicting the 9th and its lord give vile acts.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Saravali 32.4-27 (Eng. tr., retyped edition)",
+        "view": "9th aspected by its lord: fortune at home, by others: elsewhere; results of Saturn's aspect on Jupiter in the 9th singly and jointly; a malefic owning the 9th proves auspicious.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Jataka Parijata 15.23 (tr. Sastri)",
+        "view": "Jupiter, the Moon and the lagna aspected by Saturn with Jupiter in the 9th: an illustrious founder of a system of philosophy.",
+        "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Saturn in the 7th house'",
+        "view": "Saturn in the 7th aspects the 1st, 4th and 9th, bringing major ups and downs.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of fortune that builds slowly through effort, perhaps away from home; mention digestion only as general self-care."
+  },
+  {
+    "id": "aspect/saturn/10",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 10
+    },
+    "summary": "Saturn aspecting the 10th (by its 10th aspect from the lagna, 7th from the 4th, 3rd from the 8th) is read as straining career and fame, though Raman's charts tie it to practical, crafts-based skill.",
+    "themes": [
+      "career",
+      "status",
+      "work"
+    ],
+    "common_outcomes": [
+      "career and fame are strained by the malefic aspect (Braha, Saturn in the 8th)",
+      "malefic aspects on the 10th (from the Moon) prevent its good results (Saravali 33.63)"
+    ],
+    "rare_outcomes": [
+      "Raman (HJH vol. 2, chart): the 10th aspected by Saturn, with a Venus-Saturn link, in a dancer's chart - art with mass appeal",
+      "Raman (HJH vol. 2): Saturn aspecting the 10th lord keeps one in low-paying work (aspect on the 10th lord, not the house)",
+      "Braha's example: Saturn aspecting Aries (its fall sign) in the 10th is an aspect with altered, harmful effect"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "slow or hard-won career progress (Braha); disciplined, practical work (Raman's charts)",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn owning the 10th (Aries/Taurus lagna) (Phaladeepika 15.1)",
+      "Saturn yogakaraka (Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn aspecting its fall sign Aries (Braha)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects house 10 fully from house 4 (7th aspect), house 8 (special 3rd aspect) and house 1 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 6 and 2, three-quarters from houses 7 and 3. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "10 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [8, 1]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Saturn in the 8th house'",
+        "view": "Saturn in the 8th aspects the 2nd, 5th and 10th, harming career and fame.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2, 'Concerning the Tenth House', pp. 239-240 and 295",
+        "view": "Saturn aspecting the 10th lord: a low-paying job all life; chart of a dancer where Saturn aspects the 10th.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Saravali 33.63 (Eng. tr., retyped edition)",
+        "view": "If malefics aspect the 10th from the Moon, its benefic results may not come.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "Saravali's rule is from the Moon; Braha's from the lagna.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of a career built by persistence and discipline; avoid predicting failure."
+  },
+  {
+    "id": "aspect/saturn/11",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 11
+    },
+    "summary": "Saturn connected with the 11th (by aspect, ownership or divisions) gives gains through land, towns, long-lasting works, iron and cattle; Saravali also says malefic influence reduces the 11th.",
+    "themes": [
+      "gains",
+      "income",
+      "property"
+    ],
+    "common_outcomes": [
+      "gains through towns and villages, durable works, iron, donkeys and buffaloes (Saravali 34.64)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "steady income from property, industry or long-term work (Saravali 34.64)",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn exalted: full results (Saravali 34.67)",
+      "Saturn owning the 11th (Phaladeepika 15.1)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn in own or friendly sign gives half, inimical a quarter, combust very little (Saravali 34.67)",
+      "malefic influence decreases the 11th's results (Saravali 34.65)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects house 11 fully from house 5 (7th aspect), house 9 (special 3rd aspect) and house 2 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 7 and 3, three-quarters from houses 8 and 4. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "11 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [9, 2]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "full gains"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_dignity in ['own', 'friend']",
+        "polarity": "mixed",
+        "effects": [
+          "half the gains"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_dignity == 'enemy'",
+        "polarity": "bad",
+        "effects": [
+          "one quarter of the gains"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "very meagre gains"
+        ],
+        "source": "Saravali 34.67"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 34.58, 34.64-67 (Eng. tr., retyped edition)",
+        "view": "Saturn or its divisions connected with the 11th: gains through towns and villages, lasting acts, iron, donkeys and buffaloes; malefic influence decreases; dignity scales results.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "Saravali 34.64 lists positive Saturnine gains while 34.65 says malefic influence reduces the house; both are in the same passage.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of slow but durable gains; avoid amounts."
+  },
+  {
+    "id": "aspect/saturn/12",
+    "layer": "aspect",
+    "key": {
+      "planet": "Saturn",
+      "house": 12
+    },
+    "summary": "Saturn aspecting the 12th (e.g. by its 3rd aspect from the 10th) is linked by Braha with ascetic leanings and lowered sensual drive; no classical house-specific result was found.",
+    "themes": [
+      "renunciation",
+      "expenses",
+      "bed pleasures"
+    ],
+    "common_outcomes": [
+      "ascetic leanings and toned-down sexual passions (Braha, Saturn in the 10th)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "lower sensual drive (Braha)",
+      "family": "",
+      "spirituality": "detachment (Braha)"
+    },
+    "strengtheners": [
+      "Saturn owning the 12th (Phaladeepika 15.1 principle)"
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Saturn aspects house 12 fully from house 6 (7th aspect), house 10 (special 3rd aspect) and house 3 (special 10th aspect) (BPHS 26.2-5; Brihat Jataka 2.13; Phaladeepika 2.23; Saravali 4.32-33). Classical partial aspects: one-half from houses 8 and 4, three-quarters from houses 9 and 5. Jataka Parijata 2.31 calls Saturn exceedingly powerful through its 3rd/10th ('quarter') aspect; JP 2.32 says Saturn's look inclines downward. As a natural malefic its aspect is classed as harmful (Phaladeepika 15.2; Braha: harm plus an ascetic, restrictive quality), but when Saturn owns the house, or is yogakaraka, sources read it as protective or strengthening (Phaladeepika 15.1; Saravali 34.8; Raman).",
+    "conditional_results": [
+      {
+        "when": "12 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn aspects its own sign: as the house lord a malefic's aspect protects rather than harms"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri); BPHS 11.14-16 (tr. Santhanam); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "'yogakaraka' in md_role",
+        "polarity": "good",
+        "effects": [
+          "the aspect of yogakaraka Saturn strengthens the house"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Fourth House', p. 187 (chart example); Braha, 'Saturn in the 9th house'"
+      },
+      {
+        "when": "md_house in [10, 3]",
+        "polarity": "mixed",
+        "effects": [
+          "Saturn reaches this house by its special 3rd/10th aspect, its most powerful glance; its influence here is strong"
+        ],
+        "source": "Jataka Parijata 2.31 (tr. Sastri); BPHS 26.2-5"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "Saturn cannot deliver good results even where it owns the house"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's exaltation sign (Libra)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Saturn's debilitation sign (Aries)",
+        "polarity": "bad",
+        "effects": [
+          "great harm to the house"
+        ],
+        "source": "Braha, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); Brihat Jataka 2.13 (tr. Swami Vijnananda); Phaladeepika 2.23 (tr. Sastri)",
+        "view": "All planets aspect the 7th fully; Saturn also has full special aspects on the 3rd and 10th; other planets aspect the 3rd/10th with only a quarter.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Saturn in the 10th house'",
+        "view": "Saturn in the 10th aspects the 4th, 7th and 12th: strong ascetic leanings; passions toned down by the aspects to the 7th and 12th.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 15.1-2 (tr. V. Subrahmanya Sastri)",
+        "view": "Houses aspected by malefics suffer unless the malefic owns the house; good results need the planets free of debility, combustion and enemy signs; mixed aspects give mixed results.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Speak of a simple, disciplined lifestyle and inner retreat; keep it light."
+  }
+]

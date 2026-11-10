@@ -1,0 +1,2119 @@
+[
+  {
+    "id": "aspect/mars/1",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 1
+    },
+    "summary": "Mars aspecting the lagna gives a martial, courageous, quick-tempered and physically robust nature, with scars or injuries, and in Saravali a combative, righteous streak.",
+    "themes": [
+      "courage",
+      "temper",
+      "vitality",
+      "injury"
+    ],
+    "common_outcomes": [
+      "fond of bold deeds and fights, irritable, prone to broken relationships, yet very righteous (Saravali 34.1-7)",
+      "martial nature, ruddy and sturdy body (Raman HJH vol. 1 ch. 4, chart notes)",
+      "scars on the body (Raman HJH vol. 1 ch. 4, chart notes)",
+      "a fiery person, especially if Mars also aspects the lagna lord (Frawley p. 216)"
+    ],
+    "rare_outcomes": [
+      "Lagna aspected by Mars while the 6th lord is in the 10th, 7th or 1st: harm from enemies' black magic (Jataka Parijata 6.93).",
+      "Sun in the lagna aspected by Mars: colic, consumption and asthma (Jataka Parijata 6.62); Raman repeats this as asthma or lung trouble (HJH vol. 1 ch. 4).",
+      "Saravali 34.1-7 also names strong sexual vigour as a Mars-aspect trait.",
+      "Aspects on the natal Moon (the Moon treated as a second lagna, BPHS ch. 12): Phaladeepika 18.6-11 gives Mars's aspect on the Moon as kingship in Aries, Leo, Scorpio and Capricorn; poverty in Taurus; trade in iron tools in Gemini; a warrior in Cancer; cleverness in Virgo; a rogue in Libra; a cheat in Sagittarius; liaisons with others' spouses in Aquarius; sinfulness in Pisces."
+    ],
+    "by_area": {
+      "personality": "Brave, combative, fiery, quick to anger, principled (Saravali 34.1-7; Frawley p. 216).",
+      "career": "",
+      "finance": "",
+      "health": "Robust build but scars, cuts and heat-related trouble (Raman HJH vol. 1 ch. 4).",
+      "relationships": "Relationships may break through anger (Saravali 34.1-7).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saravali 34.8: Aries or Scorpio lagna aspected by its own lord Mars gives happiness, wealth and closeness to rulers.",
+      "Mars as yogakaraka or lagna lord (Raman HJH vol. 1 ch. 2; HPA ch. XIII)."
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 34.10-11: a malefic aspecting the lagna is inauspicious unless it owns it.",
+      "Mars combust in a Raman case 'aspects the lagna adversely' (HJH vol. 2 ch. XII, chart notes)."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 1 fully from the 7th (7th aspect), the 10th (4th aspect) and the 6th (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.1-7",
+        "view": "If Mars aspects the ascendant one is fond of valorous acts and battles, irascible, has severed relationships, is very righteous and sexually well endowed.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.8, 34.10-11",
+        "view": "A planet aspecting its own sign as lagna gives happiness, wealth, royal favour; otherwise a malefic aspect on the lagna is inauspicious.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 6.62, 6.93",
+        "view": "Sun in the lagna aspected by Mars: colic, consumption and asthma; lagna aspected by Mars with the 6th lord in the 10th, 7th or 1st: suffering from enemies' magic.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 4 (First House), general rules and chart notes",
+        "view": "Mars aspect on the lagna gives martial nature, ruddiness, healthy constitution, sturdy figure and scars; the Sun in the lagna aspected by Mars gives asthma or lung trouble.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers p. 216",
+        "view": "Mars on the ascendant renders a person fiery, particularly if it also aspects the lagna lord.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 18.6-11",
+        "view": "Moon in each sign aspected by Mars (first in the list).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Saravali calls the Mars-aspected native 'very righteous' while also irascible; Raman stresses physical marks. Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as courage, drive and energy; advise care with temper and with cuts, burns or accidents; do not mention black magic. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "1 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "happiness, wealth and closeness to people in power"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; Saravali 34.8"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 7,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 10,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 6,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 11,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 4,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 9,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 5,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mars/2",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 2
+    },
+    "summary": "Mars aspecting the 2nd sharpens intellect, calculation and memory and gives a cutting tongue; with the luminaries in the 2nd or 12th and Saturn's influence it is named in eye disease.",
+    "themes": [
+      "speech",
+      "intellect",
+      "wealth",
+      "eyes"
+    ],
+    "common_outcomes": [
+      "sharp, piercing intelligence with a mathematical bent and strong memory (Frawley pp. 284-285, 290-291, chart readings)",
+      "sharp, sarcastic speech (Frawley pp. 284-285)"
+    ],
+    "rare_outcomes": [
+      "Moon or Sun in the 2nd (and the other luminary in the 12th) conjoined with or aspected by Saturn and Mars: eye disease (Phaladeepika ch. 14).",
+      "Mars aspecting the 2nd from both the lagna and the Moon recorded in a limb-trouble case (Raman HJH vol. 1 ch. 9, chart notes)."
+    ],
+    "by_area": {
+      "personality": "Quick, incisive mind; outspoken (Frawley pp. 284-291).",
+      "career": "",
+      "finance": "",
+      "health": "Eye strain when the luminaries in the 2nd/12th are also afflicted (Phaladeepika ch. 14).",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Mars, Saturn and the Sun occupying the 2nd destroy wealth (Saravali 34.15-20) - occupation, not aspect; no text gives Mars's aspect on the 2nd as wealth loss."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 2 fully from the 8th (7th aspect), the 11th (4th aspect) and the 7th (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 284-285, 290-291 (example charts)",
+        "view": "Mars aspecting the 2nd house of speech and its lord gives a sharp mind and biting sarcasm; Mars aspecting the 2nd and its lord from lagna and Moon gives a mathematical-musical mind and powerful memory.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) ch. 14 (diseases), slokas before 14.27 and 14.27",
+        "view": "Moon and Sun in the 12th and 2nd, conjoined with or aspected by Saturn and Mars: eye disease; the 3rd, 11th and Jupiter influenced by Saturn and Mars: ear disease; Rahu aspected by Mars in the 6th or 8th: carbuncle.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Speak of a sharp, quick mind and the need for tactful speech. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "2 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 8,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 11,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 7,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 12,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 5,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 10,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 6,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mars/3",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 3
+    },
+    "summary": "Mars is the significator of younger siblings; joined by the 3rd lord, his aspect on the 3rd favours brothers and courage, but his aspect on Saturn or Mercury in the 3rd harms co-born or friends.",
+    "themes": [
+      "siblings",
+      "courage",
+      "initiative",
+      "hearing"
+    ],
+    "common_outcomes": [
+      "the 3rd lord together with Mars aspecting the 3rd: good results for the 3rd house (BPHS 14.2)",
+      "Moon alone in the 3rd aspected by male planets (Mars is one): younger brothers (BPHS 14.12-13)",
+      "planets aspecting the 3rd increase the number of younger co-born (Saravali 34.21-24)"
+    ],
+    "rare_outcomes": [
+      "Saturn in the 3rd aspected by Mars destroys co-born; Mercury in the 3rd aspected by Mars harms friends (Saravali 34.21-24).",
+      "The 3rd and 11th houses influenced by Saturn and Mars: ear disease (Phaladeepika ch. 14); Raman's deafness cases have Mars aspecting the 3rd (HJH vol. 1 ch. 6)."
+    ],
+    "by_area": {
+      "personality": "Courage and enterprise (BPHS 14.1 associates the 3rd with courage).",
+      "career": "",
+      "finance": "",
+      "health": "Hearing trouble with Saturn's added influence (Phaladeepika ch. 14).",
+      "relationships": "",
+      "family": "Younger brothers and support from siblings when Mars joins the 3rd lord's aspect (BPHS 14.2, 14.12-13); harm to co-born when Mars aspects Saturn there (Saravali 34.21-24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "BPHS 14.2: Mars with the 3rd lord aspecting (or occupying) the 3rd.",
+      "Raman HJH vol. 1 ch. 6: Mars's aspect on the 3rd is more powerful from his own sign."
+    ],
+    "weakeners_or_cancellations": [
+      "Mars and Saturn both aspecting the 3rd are bad for it (Raman HJH vol. 1 ch. 6, chart notes)."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 3 fully from the 9th (7th aspect), the 12th (4th aspect) and the 8th (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 14.2, 14.12-13",
+        "view": "If the 3rd lord along with Mars aspects the 3rd, the 3rd gives good results (Santhanam: an alternative reading has them jointly aspect or occupy it); Moon alone in the 3rd aspected by male planets gives younger brothers.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.21-24",
+        "view": "Aspects on the 3rd increase the number of younger co-born; Saturn in the 3rd aspected by Mars destroys co-born; Mercury there aspected by Mars destroys friends.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 6 (Third House), chart notes",
+        "view": "Mars (Bhratrukaraka) aspecting the 3rd: stronger from his own sign; Mars and Saturn aspecting it is bad; Mars aspecting the 3rd with the 3rd lord afflicted appears in deafness cases.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) ch. 14 (diseases), slokas before 14.27 and 14.27",
+        "view": "Moon and Sun in the 12th and 2nd, conjoined with or aspected by Saturn and Mars: eye disease; the 3rd, 11th and Jupiter influenced by Saturn and Mars: ear disease; Rahu aspected by Mars in the 6th or 8th: carbuncle.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "BPHS 14.2 treats Mars's aspect with the 3rd lord as good for the 3rd, while Saravali 34.21-24 gives Mars's aspect on Saturn or Mercury in the 3rd as destructive. Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of courage and sibling bonds; avoid predicting harm to siblings. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "3 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "Mars as 3rd lord aspecting the 3rd: the house prospers"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; BPHS 14.2"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 9,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 12,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 8,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 1,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 6,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 11,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 7,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mars/4",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 4
+    },
+    "summary": "Mars aspecting the 4th brings energy and technical, practical bent to learning and property matters; as a malefic it is risky for vehicles and peace at home unless Mars is a functional benefic.",
+    "themes": [
+      "home",
+      "property",
+      "education",
+      "vehicles"
+    ],
+    "common_outcomes": [
+      "energy in studies; a technical or engineering bent, especially from a watery sign (Raman HJH vol. 1 ch. 10, Practical Examples)",
+      "Ketu in the 4th aspected by Mars: a visionary who is grounded in matter-of-fact science (Raman HJH vol. 1 ch. 7, chart notes)",
+      "a malefic related to the 4th brings vehicle losses and accidents (BPHS 15.10-14)"
+    ],
+    "rare_outcomes": [
+      "Classical combination: Saturn in the 10th, Mars aspecting the 4th and the Sun aspecting the 7th: [maraka: text predicts death by assassination] (Raman HJH vol. 2 ch. XII).",
+      "Sun in the 4th aspected by Mars (or Saturn): obstacles in life (Raman HJH vol. 1 ch. 7)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Engineering, technical or property-related learning (Raman HJH vol. 1 ch. 10).",
+      "finance": "Property and vehicles: risk of loss or accidents under malefic aspect (BPHS 15.10-14).",
+      "health": "",
+      "relationships": "",
+      "family": "Heat or friction at home when Mars is a functional malefic (BPHS 15.10-14 general rule).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Mars as 4th lord aspecting the 4th from his own sign (Raman HJH vol. 1 ch. 7 chart notes; Raman HPA ch. XIII).",
+      "Mars as yogakaraka (Cancer, Leo lagnas) aspecting the 4th enhances it (Raman HPA ch. XIII)."
+    ],
+    "weakeners_or_cancellations": [
+      "BPHS 15.10-14: malefic influence on the 4th harms vehicles and brings accidents."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 4 fully from the 10th (7th aspect), the 1st (4th aspect) and the 9th (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 15.10-14",
+        "view": "A benefic related to the 4th and its lord gives conveyances and safety; a malefic causes losses of vehicles and accidents.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 7 (Fourth House) and ch. 10 (Practical Examples)",
+        "view": "Mars aspecting the 4th powerfully from a watery sign suggests engineering, hydroelectric or oil technology; Ketu in the 4th aspected by Mars gives a visionary steeped in practical science; the Sun in the 4th aspected by Saturn or Mars shows obstacles.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XII (Eighth House)",
+        "view": "Saturn in the 10th, Mars aspecting the 4th and the Sun aspecting the 7th: death by assassination.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as drive for property, technical study and home improvement; advise care with vehicles. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "4 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "the 4th is protected by its own lord's aspect"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; BPHS 11.14-16; Raman HJH vol. 1 ch. 7 chart notes"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 10,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 1,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 9,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 2,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 7,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 12,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 8,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mars/5",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 5
+    },
+    "summary": "Mars aspecting the 5th is a classic affliction to children (miscarriage, loss, worry) unless Mars is the lagna lord or otherwise a functional benefic; it also sharpens intellect and risk-taking.",
+    "themes": [
+      "children",
+      "pregnancy",
+      "speculation",
+      "intellect"
+    ],
+    "common_outcomes": [
+      "Mars's aspect on the 5th is bad as a natural malefic but good when Mars is lagna lord (Raman HJH vol. 1 ch. 8, chart notes)",
+      "Mars aspecting the 5th from a fiery sign: repeated miscarriages in the wife (Raman HJH vol. 1 ch. 8, chart)",
+      "Mars as 5th lord aspecting the 5th: births followed by loss of children (Raman HJH vol. 1 ch. 8, chart)",
+      "Rahu in the 5th from the Moon aspected by Mars: miscarriages and premature births (Raman HJH vol. 1 ch. 8, chart)"
+    ],
+    "rare_outcomes": [
+      "Sun in the 5th in Saturn's divisions aspected by Mars: children of base character (Saravali 34.31-32).",
+      "Mars aspecting the 5th lord and Putrakaraka spoils the 5th (Raman HJH vol. 1 ch. 8 charts)."
+    ],
+    "by_area": {
+      "personality": "Rash speculation tendencies when Mars influences the 5th (Raman HJH vol. 1 ch. 8 general notes).",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "Delays, miscarriage or worry over children under Mars's aspect (Raman HJH vol. 1 ch. 8).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Mars as lagna lord (Raman HJH vol. 1 ch. 8).",
+      "Jupiter's aspect on the 5th as a redeeming feature (Raman HJH vol. 1 ch. 10, Practical Examples)."
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: mutual aspect of Mars and Saturn involving the 5th can destroy its significations (HJH vol. 1 ch. 8, chart notes)."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 5 fully from the 11th (7th aspect), the 2nd (4th aspect) and the 10th (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 8 (Fifth House), chart notes",
+        "view": "The aspect of Mars, a natural malefic, on the 5th is bad, but as lagna lord it is good.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 8 (Fifth House), chart notes",
+        "view": "Mars aspecting the 5th from a fiery sign: 4 or 5 abortions; Mars as 5th lord aspecting the 5th: birth and death of children; Rahu in the 5th from the Moon aspected by Mars: miscarriages.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.27, 34.31-32",
+        "view": "Malefic aspect on the 5th gives progeny with difficulty; Sun in the 5th in Saturn's divisions aspected by Mars: abject children.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Raman treats Mars's aspect as both bad (natural malefic) and good (as lagna lord); he also gives Mars as 5th lord aspecting the 5th as harmful, against the general rule that a lord's aspect protects its house (BPHS 11.14-16). Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Never predict miscarriage or loss of children; speak of the need for care and patience around pregnancy and children. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "5 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 11,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 2,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 10,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 3,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 8,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 1,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 9,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mars/6",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 6
+    },
+    "summary": "Mars is the significator of disease and enemies; his aspect on the 6th activates disease combinations (heart, lung, liver) while giving fight against enemies.",
+    "themes": [
+      "disease",
+      "enemies",
+      "competition"
+    ],
+    "common_outcomes": [
+      "Saturn with Mandi in the 6th aspected by Mars (or the Sun or Rahu): heart or lung disease (Raman HJH vol. 1 ch. 9)",
+      "6th lord Mars aspecting the 6th: liver and spleen trouble in a long period (Raman HJH vol. 1 ch. 9, chart)"
+    ],
+    "rare_outcomes": [
+      "Rahu in the 6th aspected by Mars: carbuncle (Phaladeepika 14.27).",
+      "6th (Aries) aspected by its lord Mars in a paralysis case (Raman HJH vol. 1 ch. 9, chart)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Strength to fight competitors (Mars as natural ruler of strife, Raman HJH vol. 2 ch. XIV).",
+      "finance": "",
+      "health": "Inflammation, blood and heat disorders, heart, lung or liver issues in Raman's cases (HJH vol. 1 ch. 9).",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Benefic aspect on the 6th removes fear of enemies (Saravali 34.43-44)."
+    ],
+    "weakeners_or_cancellations": [
+      "Mars occupying the 6th aspected by Saturn brings fear from enemies (Saravali 34.43-44)."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 6 fully from the 12th (7th aspect), the 3rd (4th aspect) and the 11th (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 9 (Sixth House)",
+        "view": "Heart or lung disease if Saturn with Mandi in the 6th is aspected by the Sun, Mars or Rahu; 6th lord Mars aspecting the 6th in a chart with liver and spleen trouble.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.43-44",
+        "view": "Mars in the 6th aspected by Saturn: fear from enemies; benefic occupation or aspect removes it.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) ch. 14 (diseases), slokas before 14.27 and 14.27",
+        "view": "Moon and Sun in the 12th and 2nd, conjoined with or aspected by Saturn and Mars: eye disease; the 3rd, 11th and Jupiter influenced by Saturn and Mars: ear disease; Rahu aspected by Mars in the 6th or 8th: carbuncle.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Speak of competitive strength and of looking after blood pressure, inflammation and digestion; no disease is certain. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "6 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 12,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 3,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 11,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 4,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 9,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 2,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 10,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mars/7",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 7
+    },
+    "summary": "Mars aspecting the 7th (from the lagna, 4th or 12th) brings heat, quarrels and in Raman's cases violent clashes into marriage; as 7th lord his aspect protects it.",
+    "themes": [
+      "marriage",
+      "conflict",
+      "passion",
+      "partnerships"
+    ],
+    "common_outcomes": [
+      "Mars's aspect on the 7th (with Ketu there) gave violent clashes in married life (Raman HJH vol. 2 ch. XI, chart)",
+      "Mars aspecting the 7th is unwelcome when he rules malefic houses; a 9th-lord aspect can check it (Raman HJH vol. 2 ch. XI, chart)",
+      "Mars as 7th lord aspecting the 7th protects it (Raman HJH vol. 2 ch. XI, chart)"
+    ],
+    "rare_outcomes": [
+      "Saturn or Mars aspecting Venus in the 7th: adultery (Raman HJH vol. 2 ch. XI, classical rules).",
+      "Venus in the 7th in Saturn/Mars divisions aspected by Mars and Saturn: both partners immoral (Saravali 34.54-55).",
+      "Sun in the 7th afflicted by Mars: strife-ridden marriage, with blood pressure and heart strain (Raman HJH vol. 2 ch. XI).",
+      "Mars afflicting Saturn in the 7th: courts may intervene, or [maraka: text speaks of violence such as suicide or murder ending the marriage] (Raman HJH vol. 2 ch. XI).",
+      "7th afflicted by Mars's 8th aspect with Ketu there, in a death-timing case (Raman HJH vol. 2 ch. XII, chart)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "Passion with friction; quarrels, separations or legal disputes in partnership under malefic Mars (Raman HJH vol. 2 ch. XI); stable if Mars rules the 7th.",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Mars as 7th lord (Raman HJH vol. 2 ch. XI).",
+      "Aspect of the 9th lord or Jupiter checking Mars (Raman HJH vol. 2 ch. XI, chart notes)."
+    ],
+    "weakeners_or_cancellations": [
+      "Mars ruling malefic houses (3, 6, 11) (Raman HJH vol. 2 ch. XI).",
+      "Mars with Ketu or Rahu (Raman HJH vol. 2 ch. XI chart notes)."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 7 fully from the 1st (7th aspect), the 4th (4th aspect) and the 12th (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XI (Seventh House), rules and chart notes",
+        "view": "Mars's aspect on the 7th with Ketu there gave violent clashes; unwelcome as lord of malefic houses but checked by the 9th lord's aspect; as 7th lord his aspect protects; Saturn or Mars aspecting Venus in the 7th gives adultery; Mars afflicting the Sun or Saturn in the 7th gives strife or court cases.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.47, 34.54-55",
+        "view": "Number of marriages follows planets aspecting the 7th; Venus in the 7th aspected by Mars and Saturn makes native and spouse immoral.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Raman's 'Mars in the 7th unaspected by benefics' rule concerns occupation; aspect results here come from chart studies rather than classical verses, except the Venus rules. Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of passion and the need for patience and fairness in partnership; never mention violence, adultery or death. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "7 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "Mars as 7th lord protects the 7th by his aspect"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; Raman HJH vol. 2 ch. XI; BPHS 11.14-16"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 1,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 4,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 12,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 5,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 10,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 3,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 11,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mars/8",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 8
+    },
+    "summary": "Mars's aspect on the 8th (from the 1st, 2nd or 5th) is read in Raman's longevity cases as a sign of sudden or violent events; with Saturn in the 8th it harms marital understanding.",
+    "themes": [
+      "longevity",
+      "accidents",
+      "crises",
+      "hidden matters"
+    ],
+    "common_outcomes": [
+      "Saturn in the 8th aspected by Mars (especially by the 4th or 8th aspect) is not conducive to mutual understanding in marriage (Raman HJH vol. 2 ch. XI)"
+    ],
+    "rare_outcomes": [
+      "Mars aspecting the 8th with Saturn in a Nigala drekkana: [maraka: text links it to death in captivity] (Raman HJH vol. 2 ch. XII, chart).",
+      "8th aspected by Mars who is 7th from the Moon: [maraka: death by poisoning in a case] (Raman HJH vol. 2 ch. XII, chart).",
+      "8th from the Moon (Scorpio) aspected by Mars from a fiery sign with Rahu: a highly malefic aspect (Raman HJH vol. 2 ch. XII, chart).",
+      "Retrograde planet in the 6th, 8th or a kendra in a sign of Mars and aspected by Mars: [maraka: text gives the child 3 years] (Raman HJH vol. 2 ch. XII, balarishta list).",
+      "Rahu in the 8th aspected by Mars: carbuncle (Phaladeepika 14.27)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Accidents, surgery or sudden crises in Raman's cases (HJH vol. 2 ch. XII).",
+      "relationships": "Friction with the partner when Mars aspects Saturn in the 8th (Raman HJH vol. 2 ch. XI).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Mars with Rahu or in a fiery sign makes the aspect harsher (Raman HJH vol. 2 ch. XII, chart notes)."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 8 fully from the 2nd (7th aspect), the 5th (4th aspect) and the 1st (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XI and ch. XII (Seventh and Eighth Houses)",
+        "view": "Saturn in the 8th aspected by Mars harms mutual understanding; several death-timing cases show Mars aspecting the 8th; balarishta rule with Mars's aspect on a retrograde planet.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13 (note)",
+        "view": "Mars as lord of war has full aspect on the 4th (house of the grave) and the 8th (house of death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) ch. 14 (diseases), slokas before 14.27 and 14.27",
+        "view": "Moon and Sun in the 12th and 2nd, conjoined with or aspected by Saturn and Mars: eye disease; the 3rd, 11th and Jupiter influenced by Saturn and Mars: ear disease; Rahu aspected by Mars in the 6th or 8th: carbuncle.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Never present death or captivity rules; at most advise caution with risk, speed and surgery. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "8 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 2,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 5,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 1,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 6,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 11,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 4,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 12,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mars/9",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 9
+    },
+    "summary": "Mars aspecting Jupiter in the 9th gives gold and wealth; on the 9th itself Raman's cases read Mars as a blemish to father, fortune or freedom.",
+    "themes": [
+      "fortune",
+      "father",
+      "dharma",
+      "travel"
+    ],
+    "common_outcomes": [
+      "Jupiter in the 9th aspected by Mars: endowed with gold (Saravali 32.6-7)"
+    ],
+    "rare_outcomes": [
+      "Jupiter in the 9th aspected by Mars together with: the Sun - sovereignty, gems, courage, vehicles; the Moon - army chief or minister; Mercury - learning, virtue, keeping one's word; Venus - wealth, learning, life abroad but cruelty; Saturn - a mean, spiteful life abroad among unsteady people (Saravali 32.8-22).",
+      "Mars aspecting the 9th with Saturn in the 2nd, the Sun in the 5th and Rahu in the 12th: imprisonment (Bandhana yoga) in a Raman case (HJH vol. 2 ch. XVI).",
+      "Mars adversely aspecting the 9th lord: theft of valuables (Raman HJH vol. 2 ch. XIII)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Gold and wealth when Mars aspects Jupiter in the 9th (Saravali 32.6-7).",
+      "health": "",
+      "relationships": "",
+      "family": "Father's affairs blemished when the 9th is aspected by Mars and its lord and karaka are weak (Raman HJH vol. 2 ch. XIII, chart notes).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saravali 32.4: the 9th aspected by its lord (Mars for Leo and Cancer lagnas) gives fortune in one's own country.",
+      "Saravali 32.27: a malefic in the 9th that owns it is auspicious, more so with benefic aspect."
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 32.4: aspect by planets other than the 9th lord moves fortune abroad.",
+      "Saravali 32.23: the results for Jupiter in the 9th hold only when no other planets aspect."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 9 fully from the 3rd (7th aspect), the 6th (4th aspect) and the 2nd (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 32.4, 32.6-23",
+        "view": "9th aspected by its own lord: fortune at home; Jupiter in the 9th aspected by Mars: gold; joint aspects of Mars with other planets give the listed results.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XIII and ch. XVI, rules and chart notes",
+        "view": "Mars adversely aspecting the 9th lord: robbery; Mars aspecting the 9th with other malefic placements: Bandhana yoga; the 9th aspected by Mars blemishes father-related matters in cases.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of fortune earned through effort and boldness; do not mention imprisonment or robbery. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "fortune made in one's own country"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; Saravali 32.4"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      },
+      {
+        "when": "not (9 in md_rules)",
+        "polarity": "mixed",
+        "effects": [
+          "fortune tends to come away from home"
+        ],
+        "source": "Saravali 32.4"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 3,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 6,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 2,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 7,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 12,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 5,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 1,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mars/10",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 10
+    },
+    "summary": "Mars aspecting the 10th gives a forceful career in engineering, the armed forces, law, printing, medicine or property, and in Raman's cases authority with a combative edge.",
+    "themes": [
+      "career",
+      "authority",
+      "property",
+      "action"
+    ],
+    "common_outcomes": [
+      "Mars aspecting the 10th or its lord: immovable property from the father (Raman HJH vol. 2 ch. XIV)",
+      "lagna and lagna lord aspected by Mars from the 10th: an armed-forces career (Raman HJH vol. 2 ch. XIV, chart)",
+      "Mars and Jupiter aspecting the 10th and its lord: a post of authority (Raman HJH vol. 2 ch. XIV, chart)",
+      "Mars aspecting the 10th in great strength (with neecha-bhanga) and Mercury as 6th lord: a forceful lawyer (Raman HJH vol. 2 ch. XIV, chart)",
+      "Mars aspecting a 10th held by Jupiter: printing alongside publishing (Raman HJH vol. 2 ch. XIV, chart)"
+    ],
+    "rare_outcomes": [
+      "Mars aspecting the 10th with Saturn-Mars in the 7th and the Sun aspected by Saturn: a rise from humble life to dictatorship and a violent end, in a Raman case (HJH vol. 2 ch. XIV)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Engineering, defence, police, law, surgery, property or industry; drive and authority (Raman HJH vol. 2 ch. XIV).",
+      "finance": "Property through the father (Raman HJH vol. 2 ch. XIV).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Mars as 10th lord aspecting the 10th from a kendra while exalted: great authority (Raman HJH vol. 2 ch. XIV, chart).",
+      "Raman HJH vol. 2 ch. XIV: aspects close to the 10th cusp decide the type of work."
+    ],
+    "weakeners_or_cancellations": [
+      "Mars with Rahu aspecting the 10th in a physician case (Raman HJH vol. 2 ch. XIV) - mixed rather than harmful."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 10 fully from the 4th (7th aspect), the 7th (4th aspect) and the 3rd (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XIV (Tenth House), rules and chart notes",
+        "view": "Mars aspecting the 10th lord gives property from the father; Mars's aspect on the 10th or lagna appears in charts of soldiers, lawyers, engineers, printers, doctors and an authoritarian ruler.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of drive, leadership and technical or protective work; avoid the dictator example. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "10 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "authority and responsibility in career"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; Raman HJH vol. 2 ch. XIV; BPHS 11.14-16"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 4,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 7,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 3,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 8,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 1,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 6,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 2,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mars/11",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 11
+    },
+    "summary": "Mars related to the 11th brings gains through gold, coral, ornaments, rubies, money, courage, travel, fire and weapons; as a malefic his influence also reduces 11th-house results.",
+    "themes": [
+      "gains",
+      "income",
+      "elder siblings"
+    ],
+    "common_outcomes": [
+      "gains through gold, coral, ornaments, ruby, money, valour, journeys, fire and weapons (Saravali 34.60)"
+    ],
+    "rare_outcomes": [
+      "The 3rd, 11th and Jupiter influenced by Saturn and Mars: ear disease (Phaladeepika ch. 14).",
+      "Mars aspecting the 11th adversely in a Raman case with afflicted 11th lord (HJH vol. 2 ch. XV)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Income through metals, technical trades, energy, defence or bold enterprise (Saravali 34.60).",
+      "health": "",
+      "relationships": "",
+      "family": "Raman counts Mars as a karaka for co-born in 11th-house cases (HJH vol. 2 ch. XV).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exalted: gains in full; own or friendly sign: half (Saravali 34.67)."
+    ],
+    "weakeners_or_cancellations": [
+      "Malefic influence decreases 11th-house gains (Saravali 34.65).",
+      "Combust or inimical: a quarter or less (Saravali 34.67)."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 11 fully from the 5th (7th aspect), the 8th (4th aspect) and the 4th (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.60, 34.65-67",
+        "view": "Mars or his divisions related to the 11th: gains through gold, coral, ornaments, ruby, money, valour, travel, fire and weapons; benefics increase and malefics decrease such gains; dignity scales them.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) ch. 14 (diseases), slokas before 14.27 and 14.27",
+        "view": "Moon and Sun in the 12th and 2nd, conjoined with or aspected by Saturn and Mars: eye disease; the 3rd, 11th and Jupiter influenced by Saturn and Mars: ear disease; Rahu aspected by Mars in the 6th or 8th: carbuncle.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Saravali 34.60 lists Mars's 11th-house gains positively, while 34.65 says malefic influence reduces 11th-house effects. Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as income through effort, technical or competitive fields. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "11 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      },
+      {
+        "when": "md_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "gains in full"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_dignity in ['own', 'moolatrikona', 'friend']",
+        "polarity": "good",
+        "effects": [
+          "about half of the stated gains"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_combust or md_dignity == 'enemy'",
+        "polarity": "bad",
+        "effects": [
+          "only a quarter or less of the gains"
+        ],
+        "source": "Saravali 34.67"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 5,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 8,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 4,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 9,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 2,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 7,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 3,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mars/12",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mars",
+      "house": 12
+    },
+    "summary": "Mars's aspect on the 12th spoils the wealth-saving effect of benefics there and appears with eye trouble and wasteful spending.",
+    "themes": [
+      "expenses",
+      "losses",
+      "sleep",
+      "eyes"
+    ],
+    "common_outcomes": [
+      "Jupiter, a waxing Moon or Venus in the 12th increase wealth only if Mars does not aspect them (Saravali 34.69-70)"
+    ],
+    "rare_outcomes": [
+      "Sun in the 12th aspected by Mars or Saturn: defective vision (Raman HJH vol. 2 ch. XVI).",
+      "Luminaries in the 12th and 2nd aspected by Saturn and Mars: eye disease (Phaladeepika ch. 14).",
+      "12th with malefics aspected by Mars and the Moon: money wasted on pleasures and racing (Raman HJH vol. 2 ch. XVI, chart).",
+      "12th lord and lagna lord Mars aspecting the 12th with Jupiter and Saturn: life spent propagating a faith (Raman HJH vol. 2 ch. XVI, chart)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Spending or losses rise; benefic savings in the 12th are undone (Saravali 34.69-70).",
+      "health": "Eye strain under combined Mars-Saturn influence (Phaladeepika ch. 14; Raman HJH vol. 2 ch. XVI).",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Saravali 34.69-70: Mars's aspect cancels the wealth growth that benefics in the 12th would give.",
+      "BPHS 23.11: the 12th and its lord with and aspected by malefics: wandering from country to country."
+    ],
+    "lagna_or_context_notes": "Mars aspects house 12 fully from the 6th (7th aspect), the 9th (4th aspect) and the 5th (8th aspect); BPHS 26.4 makes the 4th and 8th aspects full for Mars, while Brihat Jataka 2.13 stresses Mars's potency through them.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.69-70",
+        "view": "Jupiter, increasing Moon and Venus in the 12th cause growth of wealth provided Mars does not aspect them.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XVI (Twelfth House), rules and chart notes",
+        "view": "Sun in the 12th aspected by Mars or Saturn: defective vision; a 12th aspected by Mars and the Moon in a case of wasteful spending.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 23.11",
+        "view": "12th and its lord with and aspected by malefics: wandering from country to country.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) ch. 14 (diseases), slokas before 14.27 and 14.27",
+        "view": "Moon and Sun in the 12th and 2nd, conjoined with or aspected by Saturn and Mars: eye disease; the 3rd, 11th and Jupiter influenced by Saturn and Mars: ear disease; Rahu aspected by Mars in the 6th or 8th: carbuncle.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Mars aspects the 4th and 8th besides the 7th; these aspects are sometimes evil and sometimes beneficial: when Mars is a yogakaraka (e.g. lord of 4 and 9) and aspects a friendly planet by his 4th aspect, the significations of that planet and house are greatly enhanced; the same holds for the 8th aspect.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as a need for budget discipline and rest; avoid predicting loss. Describe Mars's aspect as energy, drive, heat and conflict entering that house; say it is protective when Mars rules good houses; avoid violent or fatal wording.",
+    "conditional_results": [
+      {
+        "when": "12 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'yogakaraka' in md_role or 'lagna_lord' in md_role or 'trikona_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "as lagna lord, trine lord or yogakaraka Mars's aspect protects and strengthens the house instead of harming it"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 8 chart notes; Raman HPA ch. XIII"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "bad",
+        "effects": [
+          "the aspect carries the harm of a functional malefic (lord of 3, 6 or 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; HJH vol. 2 ch. XI chart notes"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 6,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "4th (special, full)",
+        "from_house": 9,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "8th (special, full)",
+        "from_house": 5,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 10,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 3,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 8,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 4,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "planet_in_sign/jupiter/aries",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Aries"
+    },
+    "summary": "Jupiter in Aries (Mesha), the fire sign of its friend Mars, gives energetic, assertive wisdom: leadership, effort-driven prosperity and a strong sense of justice, with a tendency toward argument, enemies and heavy expenditure.",
+    "themes": [
+      "leadership",
+      "courage",
+      "effort-driven wealth",
+      "justice and discipline",
+      "opposition"
+    ],
+    "common_outcomes": [
+      "Gains wealth, ornaments and status through personal effort",
+      "Prominent or respected profession; capable of leading",
+      "Argumentative; attracts rivals or opponents",
+      "Generous and forgiving despite a forceful manner"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.12 (Jupiter in a Mars sign): commander of an army, gains through the spouse, famous",
+      "Saravali 27.1-2 says the native may impose severe punishments (read as a strict, rule-enforcing role)"
+    ],
+    "by_area": {
+      "personality": "Saravali 27.1-2: argumentative and splendorous. Brihat Jataka 18.12 (Sastri): forgiving, brave and generous.",
+      "career": "Saravali 27.1-2: an eminent and famous profession. Brihat Jataka 18.12: head of an army.",
+      "finance": "Wealth and ornaments through effort; Saravali warns of heavy expenses.",
+      "health": "Saravali mentions risk of bodily injury; do not convert into a health prediction.",
+      "relationships": "Brihat Jataka 18.12: many wives and children (Sastri); good qualities gained through the spouse (Neely).",
+      "family": "Saravali and Brihat Jataka both mention children.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Friendly sign (Phaladeepika 3.18: 'delighted')",
+      "Saravali 27.25-30 (Aries/Scorpio group): Sun's aspect makes the native charitable, truthful and fortunate with famous children; Moon's aspect gives a writer of history and poetry, gems and learning; Mars' aspect gives high birth, valour and political knowledge; Venus' aspect gives comforts of home, dress and spouse",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 27.25-30: Mercury's aspect makes the native crafty and fault-finding; Saturn's aspect brings untidiness, miserliness and no lasting children or friendships; Mars' aspect, though favourable, adds a disobedient spouse and servants",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (rules of interpretation): planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 27.1-2 (tr. R. Santhanam)",
+        "view": "Argumentative, gains gems and ornaments by effort, strong, with children and wealth, respected profession, radiant, many enemies, heavy expenses, risk of injury, may impose severe punishments.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.25-30, aspects on Jupiter in Aries/Scorpio (tr. R. Santhanam)",
+        "view": "Sun: charitable, truthful, famous children, very fortunate. Moon: writer of history and poetry, gems, dear to women, learned. Mars: high birth, valorous, fierce, political knowledge, but a disobedient spouse and servants. Mercury: liar, crafty, fault-finding, serves others. Venus: comforts of home, dress and spouse, but timid. Saturn: untidy, miserly, sharp, famous, no lasting children or friendship.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. M. D. Neely)",
+        "view": "Jupiter in a Mars sign: army leader, much wealth, spouse and children, generous, a good servant, forgiving, sharp-witted, gains good qualities through the spouse, famous.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501817.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra ch. 3 (natural relationships)",
+        "view": "Mars is a natural friend of Jupiter, so Aries is a friendly sign.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-50/"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. V. Subrahmanya Sastri, 2nd ed., p. 350)",
+        "view": "Jupiter in a Mars sign: head of an army, very wealthy, many wives and children, liberal, good servants, forgiving, brave, generous, famous. Sastri's note: Jupiter is good in all signs except Makara (its debilitation). In a Mars sign Jupiter gives liberality and controls Mars' fiery spirit, hence forgiving.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Both texts agree on leadership and wealth; Saravali adds enemies, expense and injury risk that Brihat Jataka omits. The two Brihat Jataka translations differ on the spouse: Sastri has 'many wives', Neely 'gains good qualities through the spouse'.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as principled, energetic leadership and effort-based success. Mention rivals and expenses as things to manage, not as threats. No injury predictions."
+  },
+  {
+    "id": "planet_in_sign/jupiter/taurus",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Taurus"
+    },
+    "summary": "Jupiter in Taurus (Vrishabha), the earth sign of Venus (an enemy of Jupiter), still gives classically good results: a stable, prosperous, cultured and devout person with practical skill in law, policy or medicine and a contented domestic life.",
+    "themes": [
+      "material stability",
+      "culture and refinement",
+      "devotion",
+      "practical knowledge",
+      "domestic contentment"
+    ],
+    "common_outcomes": [
+      "Sturdy build, good looks and a stable temperament",
+      "Prosperous: cattle, property or steady wealth",
+      "Devoted to spouse and respectful toward teachers and the sacred",
+      "Intelligent and articulate"
+    ],
+    "rare_outcomes": [
+      "Saravali 27.3-4: knowledge of medicine and of governance or policy, and skill with practical experiments",
+      "Brihat Jataka 18.12 (Venus sign): strong body, many friends, well-loved"
+    ],
+    "by_area": {
+      "personality": "Saravali 27.3-4: modest, distinguished in speech, intelligence and skill.",
+      "career": "Saravali 27.3-4: political or judicial wisdom, medical accomplishments and skill in experiments; a good profession.",
+      "finance": "Saravali: cows and abundant wealth; Brihat Jataka 18.12: wealthy.",
+      "health": "Saravali notes a broad, stout build only.",
+      "relationships": "Saravali: devoted to the spouse.",
+      "family": "Brihat Jataka 18.12: sons and friends.",
+      "spirituality": "Saravali 27.3-4: honours Brahmins and the gods."
+    },
+    "strengtheners": [
+      "Saravali 27.31-36 (Taurus/Libra group): Sun's aspect gives attendants, learning and a minister's post; Moon's aspect gives great wealth and calm; Mars' aspect gives attractiveness, courage and high birth; Mercury's aspect gives learning, fortune and virtue; Venus' aspect gives charm, affluence and comforts",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Enemy's sign (Phaladeepika 3.19), though the classical sign verses remain favourable",
+      "Saravali 27.31-36: Saturn's aspect gives learning and abundant wealth but an untidy, plain appearance and no spouse"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 27.3-4 (tr. R. Santhanam)",
+        "view": "Broad stout body, honours the learned and gods, radiant, fortunate, devoted to spouse, good-looking, good profession, cattle and wealth, articulate, skilled, knows governance, law and medicine, modest.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.31-36, aspects on Jupiter in Taurus/Libra (tr. R. Santhanam)",
+        "view": "Sun: attendants and cattle, travels, tall, learned, a minister. Moon: very rich, calm, dear to mother and spouse. Mars: dear to women, learned, brave, affluent, of high birth. Mercury: learned, skilful, fortunate, virtuous. Venus: very attractive, affluent, fine ornaments and comforts. Saturn: scholar with abundant wealth and grain, prominent locally, but untidy, plain and without a spouse.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. M. D. Neely)",
+        "view": "Jupiter in a Venus sign: strong body, children, friends, means to wealth, generous, well-loved.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501817.html"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. V. Subrahmanya Sastri, 2nd ed., p. 350)",
+        "view": "Jupiter in a Venus sign: a sound body, wealthy, friends and sons, liberal, liked by all. Sastri's note: Jupiter is good in all signs except Makara (its debilitation).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Dignity theory (enemy's sign) suggests weakened results, while both Saravali and Brihat Jataka give favourable descriptions. Sastri's notes explain the classical view: Jupiter is good in all signs except Capricorn, and is good in Venus' signs despite the enmity.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe stable, comfortable prosperity and practical wisdom. Avoid guaranteeing wealth; note the enemy-sign status only as a reason to check the wider chart."
+  },
+  {
+    "id": "planet_in_sign/jupiter/gemini",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Gemini"
+    },
+    "summary": "Jupiter in Gemini (Mithuna), Mercury's air sign and an enemy's sign for Jupiter, gives a scholarly, eloquent and courteous mind: knowledge expressed through words, writing and teaching, with comfortable means and many friends.",
+    "themes": [
+      "scholarship",
+      "eloquence",
+      "courtesy",
+      "poetry and writing",
+      "advisory roles"
+    ],
+    "common_outcomes": [
+      "Learned, articulate and courteous",
+      "Skilled and virtuous; respects elders and relatives",
+      "Good writer or poet",
+      "Comfortable means, good clothes, many friends"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.12 (Jupiter in a Mercury sign): ministerial position",
+      "Saravali 27.37-42: with Mercury's aspect, a skilled astrologer"
+    ],
+    "by_area": {
+      "personality": "Saravali 27.5-6: eloquent, courteous and virtuous; honours elders and relatives.",
+      "career": "Brihat Jataka 18.12: posted as a minister. Saravali 27.5-6: a good poet, skilful.",
+      "finance": "Saravali calls the native affluent.",
+      "health": "",
+      "relationships": "",
+      "family": "Respects elders and relatives (Saravali); Brihat Jataka mentions many sons.",
+      "spirituality": "Saravali 27.5-6: devoted to his duties."
+    },
+    "strengtheners": [
+      "Saravali 27.37-42 (Gemini/Virgo group): Sun's aspect makes an important householder with wife, sons and money; Moon's aspect gives affluence, fortune and happiness; Mercury's aspect gives a skilled astrologer and fine speaker; Venus' aspect leads to temple building; Saturn's aspect gives leadership of a group, state or village",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Enemy's sign (Phaladeepika 3.19)",
+      "Saravali 27.37-42: Mars' aspect gives easy success and wealth but plain looks; Venus' aspect, alongside temple building, adds loose relationships"
+    ],
+    "lagna_or_context_notes": "Raman (Three Hundred Important Combinations, Hamsa Yoga remarks) states that Jupiter's ownership of kendras is generally undesirable; this applies for Gemini and Virgo lagnas, where Jupiter rules two kendras.",
+    "source_views": [
+      {
+        "source": "Saravali 27.5-6 (tr. R. Santhanam)",
+        "view": "Prosperous and learned, attractive eyes, eloquent and courteous, skilled, virtuous, respects elders and relatives, kind and rich speech, dutiful, a good poet.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.37-42, aspects on Jupiter in Gemini/Virgo (tr. R. Santhanam)",
+        "view": "Sun: important householder. Moon: affluent. Mars: successful but plain. Mercury: skilled astrologer. Venus: builds temples. Saturn: community leader.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. M. D. Neely)",
+        "view": "Jupiter in a Mercury sign: many clothes, children and friends, ministerial position, happiness.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501817.html"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. V. Subrahmanya Sastri, 2nd ed., p. 350)",
+        "view": "Jupiter in a Mercury sign: many clothes, attendants and other paraphernalia, many sons and friends, posted as a minister, happy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 19 Hamsa Yoga, remarks (p. 44)",
+        "view": "The ownership of kendras by Jupiter is not desirable, though the principle loses significance when Hamsa Yoga is present.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Enemy-sign dignity is not reflected in the classical sign verses, which are favourable; Sastri's note says Jupiter is good in every sign except Capricorn.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe an articulate, learned communicator with a gift for teaching and advice. Keep the minister line as advisory influence, conditional on the wider chart."
+  },
+  {
+    "id": "planet_in_sign/jupiter/cancer",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Cancer"
+    },
+    "summary": "Jupiter in Cancer (Karka) is exalted, deepest at 5 degrees: wisdom, generosity and good fortune are at their fullest. Texts describe a learned, kind, truthful and prosperous person with good children and wide respect, and Hamsa Yoga if in a kendra.",
+    "themes": [
+      "exaltation",
+      "wisdom",
+      "generosity",
+      "prosperity",
+      "good children"
+    ],
+    "common_outcomes": [
+      "Learned, kind and charitable; good character",
+      "Wealth and abundant resources",
+      "Respected widely; truthful and disciplined",
+      "Children who do well; loyal friendships"
+    ],
+    "rare_outcomes": [
+      "Saravali 27.7-8: may attain royal or ruler-like standing",
+      "Hamsa Mahapurusha Yoga in a kendra (Phaladeepika 6.1, 6.3): righteous, honoured, ruler-like"
+    ],
+    "by_area": {
+      "personality": "Saravali 27.7-8: good-natured, charitable, truthful and given to penance.",
+      "career": "Saravali 27.7-8: a distinguished profession and royal standing (read today as respect and influence).",
+      "finance": "Strongly favourable: abundant grain and wealth (Saravali); gems and wealth (Brihat Jataka).",
+      "health": "Saravali notes a strong constitution only.",
+      "relationships": "Brihat Jataka 18.13 includes spouse among its blessings; Saravali: attached to friends.",
+      "family": "Saravali: long-lived sons.",
+      "spirituality": "Saravali: truth and penance. Foss (name 8): a strong Jupiter, such as exalted in Cancer, improves the chance of finding a truly enlightened teacher."
+    },
+    "strengtheners": [
+      "Exaltation at 5 degrees Cancer (BPHS 3.49-50); Phaladeepika 3.18: an exalted planet is 'blazing'",
+      "In a kendra from the lagna forms Hamsa Yoga (Phaladeepika 6.1, 6.3); Raman prefers an exaltation-sign Hamsa to an own-sign one (Three Hundred Important Combinations no. 19)",
+      "Saravali 27.43-48: Moon's aspect gives great wealth, royal standing, conveyances and a fine family; Mercury's aspect gives relatives, wealth, trustworthiness and a minister's post; Venus' aspect gives riches and happiness; Saturn's aspect gives local prominence and comfort in old age",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 27.43-48: Mars' aspect brings very early marriage and risk of wounds alongside wealth and courage; Sun's aspect gives fame but early lack of happiness, wealth and spouse, gained later",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a planet exalted in the birth chart but debilitated in the navamsa gives very mixed results",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (rules of interpretation): planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled"
+    ],
+    "lagna_or_context_notes": "Hamsa Yoga needs Cancer to be a kendra from the lagna: Cancer, Aries, Libra and Capricorn lagnas (Phaladeepika 6.1, 6.3). Raman (no. 19) calls the 10th the strongest kendra and gives a Libra-lagna chart with exalted Jupiter in the 10th as a typical full Hamsa Yoga.",
+    "source_views": [
+      {
+        "source": "Saravali 27.7-8 (tr. R. Santhanam)",
+        "view": "Learned, handsome, charitable scholar with good nature and strong body, famous, truthful, disciplined, abundant grain and wealth, long-lived sons, respected by all, possibly ruler-like, distinguished profession, loyal to friends.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.43-48, aspects on Jupiter in Cancer (tr. R. Santhanam)",
+        "view": "Sun: famous and ahead of others, after early lack of happiness, wealth and spouse. Moon: very rich, splendid, royal standing, conveyances, fine spouse and sons. Mars: marriage in boyhood, gold, learned, valorous, wounded body. Mercury: relatives and friends, rich, quarrelsome, sinless, a minister, trustworthy. Venus: many partners, great riches, happy. Saturn: prominent in village, army or town, talkative, affluent, pleasures in old age. (The transcription heads verses 44-48 'Gemini/Virgo' by an evident copying slip; they sit under the Cancer heading.)",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. M. D. Neely)",
+        "view": "Jupiter in Cancer: happiness in intelligence, wealth, spouse, children and jewels.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501818.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.49-50",
+        "view": "Jupiter's exaltation is Cancer at 5 degrees.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-50/"
+      },
+      {
+        "source": "Phaladeepika 6.1, 6.3",
+        "view": "Hamsa Yoga: Jupiter in own or exaltation sign in a kendra; righteous, honoured, ruler-like, handsome, enjoys good food.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "jagannathhora.com, Jupiter in Cancer (via summary)",
+        "view": "Exalted Jupiter, deepest near 5 degrees; Hamsa Yoga when in a kendra.",
+        "url": "https://jagannathhora.com/jupiter-in-cancer/"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. V. Subrahmanya Sastri, 2nd ed., p. 352)",
+        "view": "Jupiter in Cancer: gems, sons, wealth, wives, influence, a good intellect, all comforts.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 19 Hamsa Yoga (pp. 43-47)",
+        "view": "Jupiter in a kendra in its own or exaltation sign: handsome, liked by others, righteous and pure-minded. Possible only for movable and common lagnas; the 10th is the strongest kendra; Jupiter's kendra ownership is normally undesirable but loses significance when Hamsa is present, and an exaltation-sign Hamsa is preferable to an own-sign one. Malefic aspects restrict the results.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Jupiter, Brihaspati, names 4, 7 and 8",
+        "view": "Jupiter is exalted in Cancer, the sign of the mother. A strong, exalted Jupiter improves the chance of finding a truly enlightened teacher; exalted Jupiter is more philosophical than the ritual-minded debilitated Jupiter.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Strong agreement across sources. The only difference is emphasis: Saravali stresses fame and character, Brihat Jataka domestic happiness and wealth, Foss the quality of one's teachers.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a fortunate, wise and generous placement while noting that results depend on house, aspects and dasha timing. Avoid promising 'royal' status; translate it as respect and influence."
+  },
+  {
+    "id": "planet_in_sign/jupiter/leo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Leo"
+    },
+    "summary": "Jupiter in Leo (Simha), the fire sign of its friend the Sun, gives dignified, courageous and authoritative wisdom: leadership, eminence in gatherings, victory over opponents and prosperity.",
+    "themes": [
+      "authority",
+      "courage",
+      "leadership",
+      "eminence",
+      "dignified generosity"
+    ],
+    "common_outcomes": [
+      "Strong, brave and learned",
+      "Leadership and command of others",
+      "Prominent in assemblies or public life",
+      "Overcomes opponents; wealth and eminent relatives"
+    ],
+    "rare_outcomes": [
+      "Saravali 27.9-10: may live in hills, forts, forests or temples",
+      "Saravali also notes the native holds firm grudges while being a generous friend",
+      "Brihat Jataka 18.13 (Sastri): head of an army in addition to all the Cancer results"
+    ],
+    "by_area": {
+      "personality": "Saravali 27.9-10: lastingly inimical yet abundant in friendship; strong and courageous.",
+      "career": "Brihat Jataka 18.13: head of an army. Saravali: stands out in an assembly, kingly heroism, defeats all enemies.",
+      "finance": "Saravali: wealthy.",
+      "health": "Saravali: sturdy build.",
+      "relationships": "Saravali: abundant friendship.",
+      "family": "Eminent relatives (Saravali).",
+      "spirituality": "Saravali names temples among the places the native lives."
+    },
+    "strengtheners": [
+      "Friendly sign (Phaladeepika 3.18)",
+      "Sastri's note to Brihat Jataka 18.13: in Leo Jupiter is 'doubly strong', taking on the Cancer results as well",
+      "Saravali 27.49-54: Sun's aspect gives fame, virtue and great affluence; Mercury's aspect gives knowledge of building, sweet speech and a minister's post; Venus' aspect gives royal honours and strength; Moon's aspect gives beauty and wealth through the spouse",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 27.49-54: Mars' aspect gives skill and daring but cruelty; Moon's aspect, beauty but untidiness; Saturn's aspect, eloquence but unhappiness and a difficult family",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (Sun and 'Combustion' sections): a planet within about 8 degrees of the Sun is combust and its significations and the houses it rules are spoiled"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 27.9-10 (tr. R. Santhanam)",
+        "view": "Firm in enmity yet generous in friendship, strong, brave, learned, wealthy, eminent relatives, may rise to royal standing, stands out in assemblies, defeats enemies, sturdy, may dwell in hills, forts, forests or temples.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.49-54, aspects on Jupiter in Leo (tr. R. Santhanam)",
+        "view": "Sun: dear to good men, famous, kingly, very affluent, virtuous. Moon: very beautiful, untidy, rich through the spouse's fortune, controls the senses. Mars: honours elders, distinguished acts, skilful, pure, daring, cruel. Mercury: knows building works, virtuous, sweet speaker, minister, learned. Venus: dear to women, fortunate, royal honours, strong. Saturn: garrulous, eloquent, unhappy, sharp, a difficult spouse and children.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. M. D. Neely)",
+        "view": "Jupiter in Leo: leader of an army.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501818.html"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. V. Subrahmanya Sastri, 2nd ed., p. 352)",
+        "view": "Jupiter in Leo: head of an army besides all that is said for Jupiter in Cancer. Sastri's note: in Leo Jupiter is doubly strong, taking the Cancer characteristics too.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "None substantial; both texts stress leadership. Neely's rendering of Brihat Jataka 18.13 gives only 'leader of an army', while Sastri's adds the full Cancer results.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as natural authority and principled leadership. Mention forgiveness and humility as growth areas instead of 'holds grudges'."
+  },
+  {
+    "id": "planet_in_sign/jupiter/virgo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Virgo"
+    },
+    "summary": "Jupiter in Virgo (Kanya), Mercury's earth sign and an enemy's sign for Jupiter, gives careful, analytical and refined wisdom: a skilled scholar with deep knowledge of texts and arts, steady success, purity of heart and enjoyment of fine things.",
+    "themes": [
+      "analytical scholarship",
+      "skill",
+      "steady success",
+      "refinement",
+      "service"
+    ],
+    "common_outcomes": [
+      "Virtuous, skilled and learned",
+      "Deep knowledge of treatises and arts",
+      "Steady success in undertakings",
+      "Enjoys fragrances, flowers and good clothes; charitable"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.12 (Mercury sign): ministerial position",
+      "Saravali 27.37-42: with Mercury's aspect, a skilled astrologer; with Venus' aspect, builds temples"
+    ],
+    "by_area": {
+      "personality": "Saravali 27.11-12: virtuous and pure-hearted.",
+      "career": "Saravali 27.11-12: skilful in work, rich experience in Sastras and fine arts, steady gains in undertakings. Brihat Jataka 18.12: a minister.",
+      "finance": "Saravali: affluent and charitable.",
+      "health": "",
+      "relationships": "",
+      "family": "Brihat Jataka: many sons and friends.",
+      "spirituality": "Saravali: pure-hearted and wonderfully learned."
+    },
+    "strengtheners": [
+      "Saravali 27.37-42 (Gemini/Virgo group): Sun's aspect makes an important householder; Moon's aspect gives fortune and happiness; Mercury's aspect gives astrological skill; Venus' aspect leads to temple building; Saturn's aspect gives leadership of a group or village",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Enemy's sign (Phaladeepika 3.19)",
+      "Saravali 27.37-42: Mars' aspect gives success but plain looks"
+    ],
+    "lagna_or_context_notes": "Raman (Three Hundred Important Combinations, Hamsa Yoga remarks) states that Jupiter's ownership of kendras is generally undesirable; this applies for Gemini and Virgo lagnas, where Jupiter rules two kendras.",
+    "source_views": [
+      {
+        "source": "Saravali 27.11-12 (tr. R. Santhanam)",
+        "view": "Virtuous skilled scholar, fond of fragrances, fine clothes and flowers, steadily successful, deep knowledge of treatises and arts, wealthy, charitable, pure-hearted, very learned.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.37-42, aspects on Jupiter in Gemini/Virgo (tr. R. Santhanam)",
+        "view": "Moon: affluent. Mercury: skilled astrologer. Venus: builds temples. Saturn: town or community leader.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. M. D. Neely)",
+        "view": "Jupiter in a Mercury sign: clothes, children, friends, ministerial position, happiness.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501817.html"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. V. Subrahmanya Sastri, 2nd ed., p. 350)",
+        "view": "Jupiter in a Mercury sign: many clothes and attendants, many sons and friends, a minister, happy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 19 Hamsa Yoga, remarks (p. 44)",
+        "view": "The ownership of kendras by Jupiter is not desirable, though the principle loses significance when Hamsa Yoga is present.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Classical sign verses are favourable despite the enemy-sign dignity; Sastri's note says Jupiter is good in all signs except Capricorn.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a careful, learned and service-minded person with refined tastes. Keep any minister or leadership line conditional on the wider chart."
+  },
+  {
+    "id": "planet_in_sign/jupiter/libra",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Libra"
+    },
+    "summary": "Jupiter in Libra (Tula), Venus' air sign and an enemy's sign for Jupiter, gives cultured, diplomatic and worldly wisdom: a learned and affluent person who may work away from home, earn through the arts or trade, and excel among peers.",
+    "themes": [
+      "diplomacy",
+      "culture and arts",
+      "affluence",
+      "foreign assignments",
+      "business standing"
+    ],
+    "common_outcomes": [
+      "Learned and affluent, fond of jewellery and fine things yet modest",
+      "Postings or work in other places or abroad",
+      "Excels among business peers",
+      "Honours guests and the sacred"
+    ],
+    "rare_outcomes": [
+      "Saravali 27.13-14: may earn through dance, drama or performing arts",
+      "Saravali mentions many children"
+    ],
+    "by_area": {
+      "personality": "Saravali 27.13-14: modest and pleasing in appearance.",
+      "career": "Saravali 27.13-14: foreign assignments, earnings through dance and drama, superior among fellow businessmen.",
+      "finance": "Saravali: very affluent.",
+      "health": "",
+      "relationships": "Brihat Jataka 18.12: liked by all, has friends.",
+      "family": "Saravali: many children.",
+      "spirituality": "Saravali: honours gods and guests."
+    },
+    "strengtheners": [
+      "Saravali 27.31-36 (Taurus/Libra group): Moon's aspect gives wealth and calm; Mercury's aspect gives learning and virtue; Venus' aspect gives charm and affluence; Sun's aspect gives learning and a minister's post",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Enemy's sign (Phaladeepika 3.19)",
+      "Saravali 27.31-36: Saturn's aspect gives learning and wealth but no spouse"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 27.13-14 (tr. R. Santhanam)",
+        "view": "Learned scholar, many children, foreign postings, very affluent, fond of jewellery yet modest, earns through dance and drama, pleasing appearance, excels among business peers, honours gods and guests.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.31-36, aspects on Jupiter in Taurus/Libra (tr. R. Santhanam)",
+        "view": "Sun: attendants, tall, learned, a minister. Moon: very rich and calm. Mars: attractive, brave, high birth. Mercury: learned and virtuous. Venus: very attractive and affluent. Saturn: learned and wealthy but untidy and without a spouse.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. M. D. Neely)",
+        "view": "Jupiter in a Venus sign: strong body, children, friends, wealth, generous, well-loved.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501817.html"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. V. Subrahmanya Sastri, 2nd ed., p. 350)",
+        "view": "Jupiter in a Venus sign: a sound body, wealthy, friends and sons, liberal, liked by all.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "As with Taurus, the enemy-sign status is not reflected in the favourable classical sign verses; Sastri notes that Jupiter is good in Venus' signs.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a cultured, diplomatic and commercially capable person. Avoid predicting foreign residence; say opportunities away from home are indicated."
+  },
+  {
+    "id": "planet_in_sign/jupiter/scorpio",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Scorpio"
+    },
+    "summary": "Jupiter in Scorpio (Vrischika), the water sign of its friend Mars, gives deep, scriptural and intense wisdom: an expert in texts, a commentator or builder of institutions, but with a fierce streak, hardships and, classically, few children.",
+    "themes": [
+      "depth of knowledge",
+      "scriptural expertise",
+      "institution building",
+      "intensity",
+      "hardship"
+    ],
+    "common_outcomes": [
+      "Expert in scripture or specialised knowledge",
+      "Skilled; may build temples, towns or institutions",
+      "Intense, sometimes fierce or showy conduct",
+      "Periods of difficulty alongside achievement"
+    ],
+    "rare_outcomes": [
+      "Saravali 27.15-16: may become a ruler or write commentaries on many works",
+      "Saravali mentions many partners but few children (low weight)",
+      "Brihat Jataka 18.12 (Mars sign): army leader, famous"
+    ],
+    "by_area": {
+      "personality": "Saravali 27.15-16: very fierce and ostentatious, yet virtuous; may commit contemptuous acts.",
+      "career": "Saravali 27.15-16: expert in Sastras, writes commentaries, builds temples and towns. Brihat Jataka 18.12: head of an army.",
+      "finance": "Brihat Jataka grants great wealth; Saravali notes hardships.",
+      "health": "Saravali mentions illness among hardships; do not convert into a prediction.",
+      "relationships": "Saravali mentions many partners (a period marker of status).",
+      "family": "Saravali: few children; treat as low weight.",
+      "spirituality": "Saravali 27.15-16: expert in sacred texts and their commentaries."
+    },
+    "strengtheners": [
+      "Friendly sign (Phaladeepika 3.18)",
+      "Saravali 27.25-30 (Aries/Scorpio group): Sun's aspect gives charity, truthfulness and famous children; Moon's aspect gives learning and writing; Mars' aspect gives valour and political knowledge; Venus' aspect gives comforts",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 27.25-30: Mercury's aspect makes crafty; Saturn's aspect brings miserliness and no lasting children or friendship",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (rules of interpretation): planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 27.15-16 (tr. R. Santhanam)",
+        "view": "Expert in scripture, may become a ruler or commentator, skilled, builds temples and towns, many partners but few sons, illness and hardship, fierce, showy, fundamentally virtuous though may do disdainful acts.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.25-30, aspects on Jupiter in Aries/Scorpio (tr. R. Santhanam)",
+        "view": "Sun: charitable, truthful, famous children. Moon: writer of history and poetry, learned. Mars: valorous, political knowledge, disobedient servants. Mercury: crafty, fault-finding. Venus: comforts. Saturn: miserly, no lasting children or friendship.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. M. D. Neely)",
+        "view": "Jupiter in a Mars sign: army leader, wealthy, generous, forgiving, sharp-witted, famous.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501817.html"
+      },
+      {
+        "source": "Brihat Jataka 18.12 (tr. V. Subrahmanya Sastri, 2nd ed., p. 350)",
+        "view": "Jupiter in a Mars sign: head of an army, very wealthy, many wives and children, liberal, forgiving, brave, generous, famous.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka treats Aries and Scorpio alike and is favourable; Saravali gives Scorpio a more mixed picture (scriptural mastery but hardship, fierceness and few children).",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as profound knowledge and the ability to build lasting institutions. Do not predict childlessness or illness; mention intensity as something to channel well."
+  },
+  {
+    "id": "planet_in_sign/jupiter/sagittarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Sagittarius"
+    },
+    "summary": "Jupiter in Sagittarius (Dhanu) is in its moolatrikona (0-10 degrees) and own sign (10-30 degrees): a strong, dharmic Jupiter that gives a teacher, priest or adviser, charitable, learned, well-travelled and drawn to solitude and pilgrimage. Hamsa Yoga if in a kendra.",
+    "themes": [
+      "dharma",
+      "teaching and priesthood",
+      "charity",
+      "travel and pilgrimage",
+      "lasting wealth"
+    ],
+    "common_outcomes": [
+      "Teacher, preceptor or guide; conducts rites or ceremonies",
+      "Charitable, helpful and loyal to one's own",
+      "Learned in scripture or philosophy",
+      "Travels widely; visits sacred places"
+    ],
+    "rare_outcomes": [
+      "Saravali 27.17-18: may lead a region or serve as a minister",
+      "Brihat Jataka 18.13 (own sign): provincial ruler, minister, army commander or wealthy",
+      "Hamsa Yoga in a kendra"
+    ],
+    "by_area": {
+      "personality": "Saravali 27.17-18: charitable, helpful, friendly to his own people, prefers solitude. Foss (name 52): Sagittarius is Jupiter's male sign, the priest or educator; its challenge is appreciating other people's opinions.",
+      "career": "Saravali 27.17-18: a preceptor, head of a region or a minister. Brihat Jataka 18.13 (own sign): a king, minister, commander or very wealthy.",
+      "finance": "Saravali: lasting wealth.",
+      "health": "",
+      "relationships": "Saravali: friendly to his own people.",
+      "family": "",
+      "spirituality": "Strong: rites, vows, initiations and pilgrimage (Saravali 27.17-18)."
+    },
+    "strengtheners": [
+      "Moolatrikona 0-10 degrees (BPHS 3.53); Foss (name 45) calls Sagittarius the moolatrikona and 'most favoured' of Jupiter's signs. Phaladeepika 3.18 calls a planet in moolatrikona 'happy' and in own sign 'confident'",
+      "Hamsa Yoga if in a kendra (Phaladeepika 6.1, 6.3; Raman no. 19)",
+      "Saravali 27.55-60 (Sagittarius/Pisces group): Moon's aspect gives many kinds of happiness, a fortunate marriage and wealth; Mercury's aspect gives a minister's or ruler's standing with wealth and children; Venus' aspect gives learning, long life and Lakshmi's blessing",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 27.55-60: Sun's aspect brings enmity with authority and loss of wealth and relatives; Mars' aspect, injury in conflict, cruelty and loss of children; Saturn's aspect, fear and neglect by others",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (rules of interpretation): planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled"
+    ],
+    "lagna_or_context_notes": "Hamsa Yoga needs Sagittarius to be a kendra from the lagna: Sagittarius, Gemini, Virgo and Pisces lagnas (Phaladeepika 6.1, 6.3). Raman (no. 19) says that when Hamsa is present Jupiter's kendra ownership ceases to matter, though an own-sign Hamsa keeps a trace of that defect; his own-sign example (Jupiter in the 10th) gave a self-made, respected public figure rather than a ruler.",
+    "source_views": [
+      {
+        "source": "Saravali 27.17-18 (tr. R. Santhanam)",
+        "view": "A preceptor who conducts rites, vows and initiations, lasting wealth, charitable, loyal, helpful, learned in scripture, may lead a region or be a minister, travels widely, prefers solitude, visits shrines.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.55-60, aspects on Jupiter in Sagittarius/Pisces (tr. R. Santhanam)",
+        "view": "Sun: hostile to the ruler, without wealth and relatives. Moon: many kinds of happiness, fortunate marriage, honour and wealth. Mars: injured in war, cruel, loses children. Mercury: minister or ruler, wealth, children, delights. Venus: happy, learned, long-lived, blessed by Lakshmi. Saturn: untidy, fearful, neglected, unhappy.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. M. D. Neely)",
+        "view": "Jupiter in own sign: provincial ruler, minister, army commander or wealthy.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501818.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.53",
+        "view": "Jupiter's moolatrikona is the first 10 degrees of Sagittarius; the rest is own sign.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-53/"
+      },
+      {
+        "source": "Phaladeepika 6.1, 6.3",
+        "view": "Hamsa Yoga definition and results.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. V. Subrahmanya Sastri, 2nd ed., p. 352)",
+        "view": "Jupiter in his own sign: a king, his minister, a commander of forces, or immensely wealthy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 19 Hamsa Yoga (pp. 43-47)",
+        "view": "Jupiter in a kendra in its own or exaltation sign: handsome, liked by others, righteous and pure-minded. Possible only for movable and common lagnas; the 10th is the strongest kendra; Jupiter's kendra ownership is normally undesirable but loses significance when Hamsa is present, and an exaltation-sign Hamsa is preferable to an own-sign one. Malefic aspects restrict the results.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Jupiter, Brihaspati, names 45 and 52",
+        "view": "Sagittarius is the moolatrikona, 'most favoured' of Jupiter's signs, a place of the battle of good and evil. It is the priest or educator working for the people; feeling naturally correct, its challenge is appreciating others' opinions.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Strong agreement. Saravali emphasises the teacher or priest role, Brihat Jataka the worldly rank of an own-sign Jupiter, Foss the risk of being sure of one's own opinions.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a principled, generous, knowledge-sharing nature. Keep worldly rank conditional on the rest of the chart."
+  },
+  {
+    "id": "planet_in_sign/jupiter/capricorn",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Capricorn"
+    },
+    "summary": "Jupiter in Capricorn (Makara) is debilitated, deepest at 5 degrees: faith, optimism and generosity are restricted by Saturn's sign. Classical texts describe low vigour, hardship and lack of means, but neecha bhanga is common and modern authors read it as practical, earned wisdom.",
+    "themes": [
+      "debilitation",
+      "practicality over faith",
+      "hardship",
+      "service",
+      "earned convictions"
+    ],
+    "common_outcomes": [
+      "Practical, structured worldview; convictions earned through experience (astromedha)",
+      "Periods of hardship, low spirits or limited resources (Saravali, Brihat Jataka)",
+      "Serves others or works in demanding roles (Saravali)",
+      "Interest in ritual and in the practical application of knowledge (Foss)"
+    ],
+    "rare_outcomes": [
+      "Saravali 27.19-20: wish to live abroad",
+      "Saravali 27.61-66: with Saturn's aspect, a learned ruler; with Mars' aspect, valour and command (these aspect results apply to Capricorn/Aquarius)",
+      "With neecha bhanga, rise to prominence after early struggle (Phaladeepika 7.26-30)"
+    ],
+    "by_area": {
+      "personality": "Saravali 27.19-20: timid and low in spirits. Foss (name 7): can show as concern for status or ego, which may arise from a fear of being deficient.",
+      "career": "Saravali 27.19-20: serves others.",
+      "finance": "Saravali: penury; Brihat Jataka 18.13: poor. Disciplined saving is relevant.",
+      "health": "",
+      "relationships": "",
+      "family": "Saravali 27.19-20: lacking affection toward relatives.",
+      "spirituality": "Saravali: lacking religious feeling. Foss: a strong interest in ritual, against the more philosophical Jupiter in Cancer; the knowledge one needs will come when one is ready. astromedha: risk of spiritual emptiness."
+    },
+    "strengtheners": [
+      "Neecha bhanga (Phaladeepika 7.26-30): Saturn (lord of Capricorn) or the Moon (lord of Jupiter's exaltation sign Cancer) in a kendra from the lagna or Moon; the two lords in mutual kendras; or Jupiter aspected by Saturn (7.28). Phaladeepika's commentary allows the planet exalted in Capricorn (Mars) as an alternative reading",
+      "Raman (no. 250) prefers that alternative: Mars, exalted in Capricorn, in a kendra from the lagna or Moon cancels the debility",
+      "Saravali 27.61-66 (Capricorn/Aquarius group): Sun's aspect gives learning, royal standing and courage; Moon's aspect, devotion to parents, learning and charity; Mars' aspect, an army chief who is famous and honoured; Venus' aspect, comforts, wealth and a fine spouse; Saturn's aspect, incomparable learning and rule over a country",
+      "Foss: many great people have a debilitated Jupiter; it helps the practical application of Jupiter's gifts, so it need not cause concern"
+    ],
+    "weakeners_or_cancellations": [
+      "Phaladeepika 3.19: a debilitated planet is 'greatly afraid'; Braha: a planet in its fallen sign is badly weakened unless well aspected",
+      "Deepest debility near 5 degrees Capricorn (BPHS 3.50)",
+      "Saravali 27.61-66: Mercury's aspect gives fame, wealth and friends but strong desires",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a debilitated planet that is also vargottama is only worse off"
+    ],
+    "lagna_or_context_notes": "Raman (Three Hundred Important Combinations no. 250) reckons neecha bhanga from both the lagna and the Moon, so check kendras from both before giving a weak reading.",
+    "source_views": [
+      {
+        "source": "Saravali 27.19-20 (tr. R. Santhanam)",
+        "view": "Less vigorous, much grief and hardship, mean, dull, often poor, serves others, lacks virtue and religious feeling, thin, timid, wishes to live abroad, low spirits.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.61-66, aspects on Jupiter in Capricorn/Aquarius (tr. R. Santhanam)",
+        "view": "Sun: learned, courageous. Moon: devoted to parents. Mars: valorous army chief. Mercury: famous, strong desires. Venus: comforts. Saturn: a learned ruler.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. M. D. Neely)",
+        "view": "Jupiter in Capricorn: base, little wealth, unhappy.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501818.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.49-50",
+        "view": "Debilitation is the seventh sign from exaltation at the same degree: 5 degrees Capricorn.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-50/"
+      },
+      {
+        "source": "Phaladeepika 7.26-30",
+        "view": "Neecha bhanga raja yoga conditions and results.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621579.html"
+      },
+      {
+        "source": "astromedha.in, Jupiter in Capricorn (practitioner, no classical citation)",
+        "view": "Practical, structured worldview, earned convictions; risks of rigidity and spiritual emptiness; cancellation if Saturn is in a kendra or Jupiter itself is in a kendra.",
+        "url": "https://astromedha.in/insights/vedic/jupiter-in-capricorn"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. V. Subrahmanya Sastri, 2nd ed., p. 352)",
+        "view": "Jupiter in Makara: base, poor and unhappy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 250 Neechabhanga Raja Yoga (pp. 242-244)",
+        "view": "The lord of the debilitation sign, or the planet exalted there, in a kendra from the lagna or Moon cancels debility and gives elevation. Raman follows B. Suryanarain Rao in reading 'thaduchchanatha' as the planet exalted in that sign (Mars, for Jupiter in Capricorn) and notes the reading is disputed.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Jupiter, Brihaspati, name 7",
+        "view": "Jupiter's maximum debilitation is in Capricorn, a sign concerned with status: like a teacher who thinks himself special and lacks the humility of pure knowledge, an ego that may come from fear of being deficient. It shows as strong interest in ritual. Many great people have it; it helps the practical application of Jupiter's tendencies, so one should not be concerned.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Classical sign verses are uniformly adverse; Foss and astromedha stress practical wisdom and frequent cancellation. Practitioners differ on whether Mars (exalted in Capricorn) counts as a cancelling planet: Phaladeepika 7.26's commentary gives it as an alternative reading, and Raman adopts it while saying the point is still disputed.",
+    "confidence": "high",
+    "phrasing_guidance": "Never say 'bad Jupiter' or predict poverty. Describe a grounded, practical wisdom that grows through experience, and always check for neecha bhanga, aspects and D9 before giving a weak reading."
+  },
+  {
+    "id": "planet_in_sign/jupiter/aquarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Aquarius"
+    },
+    "summary": "Jupiter in Aquarius (Kumbha), Saturn's air sign and neutral for Jupiter, is described very differently by the two main texts: Saravali gives a harsh picture (gossip, low company, loss through one's own words), while Brihat Jataka, in both Sastri's and the word-by-word translation, says the results equal those of Jupiter in Cancer (gems, wealth, family happiness).",
+    "themes": [
+      "speech and its consequences",
+      "standing among one's own people",
+      "mixed classical verdict"
+    ],
+    "common_outcomes": [
+      "Speech has strong consequences: Saravali says wealth is lost through one's own words",
+      "Mixed fortune depending on aspects and house, because the main texts conflict",
+      "Saravali: may be chief among his own people despite its other warnings"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.13: results like Jupiter in Cancer (gems, wealth, spouse, children, comforts)",
+      "Saravali 27.21-22: association with low company and disreputable work",
+      "Saravali 27.61-66: Saturn's aspect gives a learned ruler"
+    ],
+    "by_area": {
+      "personality": "Saravali warns of malicious or careless talk and ill disposition.",
+      "career": "Saravali 27.21-22: interested in disreputable work, yet chief among his own people.",
+      "finance": "Saravali: loses wealth through own speech; Brihat Jataka: prosperous (like Cancer).",
+      "health": "Saravali mentions frequent illness; do not convert into a prediction.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Brihat Jataka 18.13 (Sastri and the wisdomlib word-by-word gloss): results equal to Jupiter in Cancer; Sastri's note to 18.12: Jupiter is good in all signs except Capricorn",
+      "Saravali 27.61-66 (Capricorn/Aquarius group): Sun's aspect gives learning and courage; Moon's aspect, learning and charity; Mars' aspect, command; Venus' aspect, comforts; Saturn's aspect, a learned ruler",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 27.21-22: the sign verse itself is strongly adverse",
+      "Saravali 27.61-66: Mercury's aspect gives fame with strong desires",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (rules of interpretation): planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Saravali 27.21-22 (tr. R. Santhanam)",
+        "view": "Tale-bearer, ill-disposed, interested in evil work, yet chief among his own people; keeps low company, malicious, miserly, often ill, loses wealth through his own words, lacks intelligence and virtue.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.61-66, aspects on Jupiter in Capricorn/Aquarius (tr. R. Santhanam)",
+        "view": "Sun: learned, courageous. Moon: devoted to parents. Mars: army chief. Venus: comforts. Saturn: learned ruler.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. M. D. Neely, word-by-word gloss; the English rendering omits this line)",
+        "view": "Jupiter in Aquarius: results similar to Jupiter in Cancer.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501818.html"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. V. Subrahmanya Sastri, 2nd ed., p. 352)",
+        "view": "The effect of a birth with Jupiter in Aquarius will be similar to that described for Jupiter in Cancer (gems, sons, wealth, wives, influence, good intellect, comforts). Sastri's note to 18.12: Jupiter is good in all signs except Makara.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Major disagreement: Brihat Jataka equates Aquarius with Cancer (favourable), while Saravali's verse is strongly adverse. The Brihat Jataka line is now verified: Sastri's translation of 18.13 (p. 352) states it explicitly, matching the word-by-word gloss on wisdomlib (Neely's English rendering omits it).",
+    "confidence": "low",
+    "phrasing_guidance": "Because classical sources conflict, keep the reading neutral: wisdom whose results depend on aspects and house, with mindful speech as a practical point. No illness predictions."
+  },
+  {
+    "id": "planet_in_sign/jupiter/pisces",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Jupiter",
+      "sign": "Pisces"
+    },
+    "summary": "Jupiter in Pisces (Meena), its own water sign, gives a spiritually learned, honoured, prosperous and steady person with skill in strategy and conduct; Hamsa Yoga if in a kendra.",
+    "themes": [
+      "own sign",
+      "sacred learning",
+      "honour",
+      "strategy and composure",
+      "prosperity"
+    ],
+    "common_outcomes": [
+      "Expert in sacred or philosophical knowledge",
+      "Honoured by friends and good people",
+      "Rich, steadfast and composed",
+      "Skilled in planning, conduct and strategy"
+    ],
+    "rare_outcomes": [
+      "Saravali 27.23-24: royal official or ruler; unconquerable in contests",
+      "Brihat Jataka 18.13 (own sign): provincial ruler, minister, army commander",
+      "Hamsa Yoga in a kendra"
+    ],
+    "by_area": {
+      "personality": "Saravali 27.23-24: fearless, proud, firm in undertakings, calm in conduct. Foss (name 52): Pisces is vast like the ocean; its challenge is controlling the ego.",
+      "career": "Saravali 27.23-24: a headman in the ruler's employ, skilled in policy, training, conduct and war tactics. Brihat Jataka 18.13: a king, minister, commander or very wealthy.",
+      "finance": "Favourable: rich (Saravali).",
+      "health": "",
+      "relationships": "Saravali: honoured by friends and virtuous people.",
+      "family": "",
+      "spirituality": "Strong: expert in the meaning of the Vedas and Sastras (Saravali)."
+    },
+    "strengtheners": [
+      "Own sign (Phaladeepika 3.18: 'confident')",
+      "Hamsa Yoga in a kendra (Phaladeepika 6.1, 6.3; Raman no. 19)",
+      "Saravali 27.55-60 (Sagittarius/Pisces group): Moon's aspect gives happiness, a fortunate marriage and wealth; Mercury's aspect gives a minister's or ruler's standing; Venus' aspect gives learning, long life and Lakshmi's blessing",
+      "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (navamsa section): a vargottama planet gives results like a planet in its own sign"
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 27.55-60: Sun's aspect brings enmity with authority and loss of wealth; Mars' aspect, injury in conflict and loss of children; Saturn's aspect, fear and neglect",
+      "Raman (no. 19, chart 19): a Sagittarius-lagna chart with Jupiter in Pisces forming Hamsa gave only a pleasant, well-liked person, because Jupiter was strongly aspected by Saturn and Mars"
+    ],
+    "lagna_or_context_notes": "Hamsa Yoga needs Pisces to be a kendra from the lagna: Pisces, Sagittarius, Gemini and Virgo lagnas (Phaladeepika 6.1, 6.3). Raman (no. 19) illustrates the Sagittarius-lagna case (Jupiter in the 4th) and shows malefic aspects restricting it.",
+    "source_views": [
+      {
+        "source": "Saravali 27.23-24 (tr. R. Santhanam)",
+        "view": "Expert in the meaning of sacred texts, honoured by friends and the good, often a royal official, praiseworthy, unconquerable, rich, fearless, proud, steadfast, may become a ruler, skilled in policy and conduct, famous, composed.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 27.55-60, aspects on Jupiter in Sagittarius/Pisces (tr. R. Santhanam)",
+        "view": "Moon: many kinds of happiness, fortunate marriage, wealth. Mercury: minister or ruler, wealth, children. Venus: happy, learned, long-lived, blessed by Lakshmi. Sun: hostile to the ruler, without wealth and relatives. Mars: injured in war, loses children. Saturn: fearful, neglected.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. M. D. Neely)",
+        "view": "Jupiter in own sign: provincial ruler, minister, army commander or wealthy.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501818.html"
+      },
+      {
+        "source": "Phaladeepika 6.1, 6.3",
+        "view": "Hamsa Yoga definition and results.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Jataka 18.13 (tr. V. Subrahmanya Sastri, 2nd ed., p. 352)",
+        "view": "Jupiter in his own sign: a king, his minister, a commander of forces, or immensely wealthy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 19 Hamsa Yoga (pp. 43-47)",
+        "view": "Jupiter in a kendra in its own or exaltation sign: handsome, liked by others, righteous and pure-minded. Possible only for movable and common lagnas; the 10th is the strongest kendra; Jupiter's kendra ownership is normally undesirable but loses significance when Hamsa is present, and an exaltation-sign Hamsa is preferable to an own-sign one. Malefic aspects restrict the results.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Jupiter, Brihaspati, name 52",
+        "view": "Pisces is the ocean, vast like Jupiter, receiving everything; it is the sign closest to Brahman, giving a sense of greatness that is often deserved; its challenge is controlling the ego, and it may take in things not ideal for health.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (general rules: combustion, navamsa, house placements, dignities)",
+        "view": "A planet within about 8 degrees of the Sun is combust and spoiled; a vargottama planet gives own-sign results, while a fallen planet that is vargottama is only worse off and a planet exalted in the birth chart but fallen in the navamsa gives very mixed results; a fallen planet is badly weakened unless well aspected; planets in kendras are powerful, in trikonas enhanced, in the 6th, 8th or 12th spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "None substantial; both main texts are favourable. Foss adds an ego caution that the classical verses do not raise.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a wise, composed and spiritually inclined person with good standing. Keep 'ruler' language as respect and influence, conditional on the wider chart."
+  }
+]

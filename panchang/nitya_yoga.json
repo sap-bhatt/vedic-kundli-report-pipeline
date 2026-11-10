@@ -1,0 +1,1643 @@
+[
+  {
+    "id": "panchang/nitya_yoga/vishkambha",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Vishkambha",
+      "n": 1
+    },
+    "summary": "Birth in Vishkambha yoga ('door bolt / supporting pillar'). Jataka Bharanam describes the native as gets the better of rivals, independent, energetic in every undertaking.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "gets the better of rivals",
+      "independent",
+      "energetic in every undertaking",
+      "mind set on gaining wealth"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "intent on acquiring wealth",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Counted among the harmful yogas for electional work (Muhurta Chintamani ch. 1 v.34-35: first 3 ghatikas avoided for auspicious work)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.1 (p.29)",
+        "view": "Birth in Vishkambha yoga: gets the better of rivals; independent; energetic in every undertaking; mind set on gaining wealth. (Manuscript text is corrupt here; the yoga is identified by verse order, and the AI translation mislabels this part.)",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d2"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Vishkambha is yoga no. 1 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: door bolt / supporting pillar.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.34-35 (p.32)",
+        "view": "For electional work: first 3 ghatikas avoided for auspicious work.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c49a"
+      }
+    ],
+    "disagreements": "The Jataka Bharanam reading rests on a corrupt manuscript passage; treat it as tentative.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart. Where a text calls the yoga inauspicious, present it as a traditional caution with a devotional remedy, never as a fixed misfortune or a health prediction.",
+    "attributes": {
+      "meaning_pvr": "door bolt / supporting pillar"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/priti",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Priti",
+      "n": 2
+    },
+    "summary": "Birth in Priti yoga ('love / affection'). Jataka Bharanam describes the native as eloquent, good-looking and prosperous, generous.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "eloquent",
+      "good-looking and prosperous",
+      "generous",
+      "cheerful",
+      "delights in dharma and affection"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.2 (p.29)",
+        "view": "Birth in Priti yoga: eloquent; good-looking and prosperous; generous; cheerful; delights in dharma and affection.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d2"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Priti is yoga no. 2 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: love / affection.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "love / affection"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/ayushman",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Ayushman",
+      "n": 3
+    },
+    "summary": "Birth in Ayushman yoga ('long-lived'). Jataka Bharanam describes the native as fearless, mind steady as a mountain, fond of visiting many places and gardens.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "fearless",
+      "mind steady as a mountain",
+      "fond of visiting many places and gardens",
+      "honoured"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.3 (p.29)",
+        "view": "Birth in Ayushman yoga: fearless; mind steady as a mountain; fond of visiting many places and gardens; honoured. (Manuscript text is corrupt here; the yoga is identified by verse order, and the AI translation mislabels this part.)",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d2"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Ayushman is yoga no. 3 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: long-lived.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "The Jataka Bharanam reading rests on a corrupt manuscript passage; treat it as tentative.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "long-lived"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/saubhagya",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Saubhagya",
+      "n": 4
+    },
+    "summary": "Birth in Saubhagya yoga ('good fortune (long life of spouse)'). Jataka Bharanam describes the native as learned and wealthy, truthful and well-behaved, strong and discerning.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "learned and wealthy",
+      "truthful and well-behaved",
+      "strong and discerning",
+      "radiant good fortune",
+      "very proud"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "wealthy",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.4 (p.29)",
+        "view": "Birth in Saubhagya yoga: learned and wealthy; truthful and well-behaved; strong and discerning; radiant good fortune; very proud.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d2"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Saubhagya is yoga no. 4 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: good fortune (long life of spouse).",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "good fortune (long life of spouse)"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/shobhana",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Shobhana",
+      "n": 5
+    },
+    "summary": "Birth in Shobhana yoga ('splendid, bright'). Jataka Bharanam describes the native as very clever, high-minded and dignified, devoted to auspicious rites.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "very clever",
+      "high-minded and dignified",
+      "devoted to auspicious rites",
+      "fine conduct and disposition"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.5 (p.29)",
+        "view": "Birth in Shobhana yoga: very clever; high-minded and dignified; devoted to auspicious rites; fine conduct and disposition.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d2"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Shobhana is yoga no. 5 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: splendid, bright.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "splendid, bright"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/atiganda",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Atiganda",
+      "n": 6
+    },
+    "summary": "Birth in Atiganda yoga ('great danger'). Jataka Bharanam describes the native as quick to anger, may suffer illness (the text names a throat or neck complaint), inclined to hypocrisy or heterodoxy.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "quick to anger",
+      "may suffer illness (the text names a throat or neck complaint)",
+      "inclined to hypocrisy or heterodoxy"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "a throat/neck complaint is named",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Counted among the harmful yogas for electional work (Muhurta Chintamani ch. 1 v.34-35: first 6 ghatikas avoided)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.6 (p.30)",
+        "view": "Birth in Atiganda yoga: quick to anger; may suffer illness (the text names a throat or neck complaint); inclined to hypocrisy or heterodoxy.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d3"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Atiganda is yoga no. 6 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: great danger.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.34-35 (p.32)",
+        "view": "For electional work: first 6 ghatikas avoided.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c49a"
+      }
+    ],
+    "disagreements": "No source read gives a contrary birth reading; the name and the muhurta texts agree on a difficult quality.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart. Where a text calls the yoga inauspicious, present it as a traditional caution with a devotional remedy, never as a fixed misfortune or a health prediction.",
+    "attributes": {
+      "meaning_pvr": "great danger"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/sukarma",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Sukarma",
+      "n": 7
+    },
+    "summary": "Birth in Sukarma yoga ('one with good deeds'). Jataka Bharanam describes the native as always cheerful, skilled in all arts, courageous and enthusiastic.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "always cheerful",
+      "skilled in all arts",
+      "courageous and enthusiastic",
+      "intelligent and helpful to others",
+      "accomplishes notable deeds"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "achieves notable work",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.7 (p.30)",
+        "view": "Birth in Sukarma yoga: always cheerful; skilled in all arts; courageous and enthusiastic; intelligent and helpful to others; accomplishes notable deeds.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d3"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Sukarma is yoga no. 7 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: one with good deeds.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "one with good deeds"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/dhriti",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Dhriti",
+      "n": 8
+    },
+    "summary": "Birth in Dhriti yoga ('firmness'). Jataka Bharanam describes the native as wise and generous, constantly cheerful, does well in assemblies.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "wise and generous",
+      "constantly cheerful",
+      "does well in assemblies",
+      "a clause on speech and steadiness is unclear in the manuscript"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.8 (p.30)",
+        "view": "Birth in Dhriti yoga: wise and generous; constantly cheerful; does well in assemblies; a clause on speech and steadiness is unclear in the manuscript.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d3"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Dhriti is yoga no. 8 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: firmness.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "firmness"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/shula",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Shula",
+      "n": 9
+    },
+    "summary": "Birth in Shula yoga ('Shiva's trident (pain)'). Jataka Bharanam describes the native as may suffer poverty and illness, short of good deeds, learning or modesty, intellect at times dull.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "may suffer poverty and illness",
+      "short of good deeds, learning or modesty",
+      "intellect at times dull"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "poverty is named",
+      "health": "illness is named",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Counted among the harmful yogas for electional work (Muhurta Chintamani ch. 1 v.34-35: first 5 ghatikas avoided)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.9 (p.30)",
+        "view": "Birth in Shula yoga: may suffer poverty and illness; short of good deeds, learning or modesty; intellect at times dull. (Manuscript text is corrupt here; the yoga is identified by verse order, and the AI translation mislabels this part.)",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d3"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Shula is yoga no. 9 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: Shiva's trident (pain).",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.34-35 (p.32)",
+        "view": "For electional work: first 5 ghatikas avoided.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c49a"
+      }
+    ],
+    "disagreements": "No source read gives a contrary birth reading; the name and the muhurta texts agree on a difficult quality. The Jataka Bharanam reading rests on a corrupt manuscript passage; treat it as tentative.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart. Where a text calls the yoga inauspicious, present it as a traditional caution with a devotional remedy, never as a fixed misfortune or a health prediction.",
+    "attributes": {
+      "meaning_pvr": "Shiva's trident (pain)"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/ganda",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Ganda",
+      "n": 10
+    },
+    "summary": "Birth in Ganda yoga ('danger'). Jataka Bharanam describes the native as works for others' tasks, pleasing in looks and character, fierce anger.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "works for others' tasks",
+      "pleasing in looks and character",
+      "fierce anger",
+      "well known"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Counted among the harmful yogas for electional work (Muhurta Chintamani ch. 1 v.34-35: first 6 ghatikas avoided)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.10 (p.30)",
+        "view": "Birth in Ganda yoga: works for others' tasks; pleasing in looks and character; fierce anger; well known.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d3"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Ganda is yoga no. 10 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: danger.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.34-35 (p.32)",
+        "view": "For electional work: first 6 ghatikas avoided.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c49a"
+      }
+    ],
+    "disagreements": "No source read gives a contrary birth reading; the name and the muhurta texts agree on a difficult quality.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart. Where a text calls the yoga inauspicious, present it as a traditional caution with a devotional remedy, never as a fixed misfortune or a health prediction.",
+    "attributes": {
+      "meaning_pvr": "danger"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/vriddhi",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Vriddhi",
+      "n": 11
+    },
+    "summary": "Birth in Vriddhi yoga ('growth'). Jataka Bharanam describes the native as takes great pleasure in gathering wealth, becomes rich.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "takes great pleasure in gathering wealth",
+      "becomes rich"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "accumulates wealth",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.11 (p.30)",
+        "view": "Birth in Vriddhi yoga: takes great pleasure in gathering wealth; becomes rich. (Manuscript text is corrupt here; the yoga is identified by verse order, and the AI translation mislabels this part.)",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d3"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Vriddhi is yoga no. 11 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: growth.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "The Jataka Bharanam reading rests on a corrupt manuscript passage; treat it as tentative.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "growth"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/dhruva",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Dhruva",
+      "n": 12
+    },
+    "summary": "Birth in Dhruva yoga ('fixed, constant'). Jataka Bharanam describes the native as pure and blameless, lives settled in a peaceful home, learning and eloquence ('Saraswati in the mouth').",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "pure and blameless",
+      "lives settled in a peaceful home",
+      "learning and eloquence ('Saraswati in the mouth')",
+      "good fame"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "learning and speech",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.12 (p.30)",
+        "view": "Birth in Dhruva yoga: pure and blameless; lives settled in a peaceful home; learning and eloquence ('Saraswati in the mouth'); good fame.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d3"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Dhruva is yoga no. 12 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: fixed, constant.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "fixed, constant"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/vyaghata",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Vyaghata",
+      "n": 13
+    },
+    "summary": "Birth in Vyaghata yoga ('great blow'). Jataka Bharanam describes the native as can be harsh and pitiless, given to slander and untruth, yet a persistent doer of work.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "can be harsh and pitiless",
+      "given to slander and untruth",
+      "yet a persistent doer of work"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Counted among the harmful yogas for electional work (Muhurta Chintamani ch. 1 v.34-35: first 9 ghatikas avoided)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.13 (p.31)",
+        "view": "Birth in Vyaghata yoga: can be harsh and pitiless; given to slander and untruth; yet a persistent doer of work.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d4"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Vyaghata is yoga no. 13 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: great blow.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.34-35 (p.32)",
+        "view": "For electional work: first 9 ghatikas avoided.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c49a"
+      }
+    ],
+    "disagreements": "No source read gives a contrary birth reading; the name and the muhurta texts agree on a difficult quality.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart. Where a text calls the yoga inauspicious, present it as a traditional caution with a devotional remedy, never as a fixed misfortune or a health prediction.",
+    "attributes": {
+      "meaning_pvr": "great blow"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/harshana",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Harshana",
+      "n": 14
+    },
+    "summary": "Birth in Harshana yoga ('cheerful'). Jataka Bharanam describes the native as well-formed body, takes pains over learning, has gems, good food and clothes.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "well-formed body",
+      "takes pains over learning",
+      "has gems, good food and clothes",
+      "subdues enemies"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.14 (p.31)",
+        "view": "Birth in Harshana yoga: well-formed body; takes pains over learning; has gems, good food and clothes; subdues enemies.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d4"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Harshana is yoga no. 14 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: cheerful.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "cheerful"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/vajra",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Vajra",
+      "n": 15
+    },
+    "summary": "Birth in Vajra yoga ('diamond / thunderbolt (strong)'). Jataka Bharanam describes the native as wise and virtuous, knowledgeable and truthful, may be a judge of gems.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "wise and virtuous",
+      "knowledgeable and truthful",
+      "may be a judge of gems",
+      "abundant food and sustenance"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "the text mentions appraising gems",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Counted among the harmful yogas for electional work (Muhurta Chintamani ch. 1 v.34-35: first 3 ghatikas avoided).",
+      "BPHS treats birth in this yoga as inauspicious and prescribes remedies (ch. 85, 88)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.15 (p.31)",
+        "view": "Birth in Vajra yoga: wise and virtuous; knowledgeable and truthful; may be a judge of gems; abundant food and sustenance.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d4"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Vajra is yoga no. 15 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: diamond / thunderbolt (strong).",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.34-35 (p.32)",
+        "view": "For electional work: first 3 ghatikas avoided.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c49a"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 85 sl. 1-4; ch. 88 sl. 1-5",
+        "view": "Birth in Vajra is named among the 'inauspicious yogas' whose evil effects need remedy (ch. 88 sl. 1-5). Remedy: worship of Vishnu, a ghee lamp and abhisheka in a Shiva temple, walking round a pipal tree 108 times, havan, feeding Brahmins, done when the same yoga recurs.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Jataka Bharanam gives Vajra a largely positive birth reading, while BPHS lists it among inauspicious yogas needing remedy.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart. Where a text calls the yoga inauspicious, present it as a traditional caution with a devotional remedy, never as a fixed misfortune or a health prediction.",
+    "attributes": {
+      "meaning_pvr": "diamond / thunderbolt (strong)"
+    },
+    "remedies": [
+      {
+        "remedy": "Vishnu puja, ghee lamp and abhisheka at a Shiva temple, 108 rounds of a pipal tree, havan with a Vishnu mantra, feeding Brahmins; done on the day the same yoga recurs",
+        "source": "BPHS ch. 88 sl. 2-5"
+      }
+    ]
+  },
+  {
+    "id": "panchang/nitya_yoga/siddhi",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Siddhi",
+      "n": 16
+    },
+    "summary": "Birth in Siddhi yoga ('accomplishment'). Jataka Bharanam describes the native as noble-minded and clever, good character, respects the scriptures.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "noble-minded and clever",
+      "good character",
+      "respects the scriptures",
+      "steady gain of fortune and welfare"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.16 (p.31)",
+        "view": "Birth in Siddhi yoga: noble-minded and clever; good character; respects the scriptures; steady gain of fortune and welfare.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d4"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Siddhi is yoga no. 16 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: accomplishment.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "accomplishment"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/vyatipata",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Vyatipata",
+      "n": 17
+    },
+    "summary": "Birth in Vyatipata yoga ('great fall'). Jataka Bharanam describes the native as noble intellect, obeys father and mother, body may be prone to illness.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "noble intellect",
+      "obeys father and mother",
+      "body may be prone to illness",
+      "speech can be harsh",
+      "busy with others' affairs"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "prone to illness",
+      "relationships": "",
+      "family": "obedient to parents",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Counted among the harmful yogas for electional work (Muhurta Chintamani ch. 1 v.34-35: wholly inauspicious; for muhurta its fault is said to last only till midday).",
+      "BPHS treats birth in this yoga as inauspicious and prescribes remedies (ch. 85, 88)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.17 (p.31)",
+        "view": "Birth in Vyatipata yoga: noble intellect; obeys father and mother; body may be prone to illness; speech can be harsh; busy with others' affairs.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d4"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Vyatipata is yoga no. 17 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: great fall.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.34-35 (p.32); v.42 (p.34)",
+        "view": "For electional work: wholly inauspicious; for muhurta its fault is said to last only till midday.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c49a"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 85 sl. 1-4; ch. 88 sl. 1-5",
+        "view": "Birth in Vyatipata is listed among inauspicious births even with a well-placed lagna (ch. 85 sl. 1-4); remedies in ch. 88. Remedy: worship of Vishnu, a ghee lamp and abhisheka in a Shiva temple, walking round a pipal tree 108 times, havan, feeding Brahmins, done when the same yoga recurs.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Jataka Bharanam's verse is mixed and partly positive (noble mind, obedient to parents) while BPHS and Muhurta Chintamani treat Vyatipata as wholly inauspicious. Do not confuse the nitya yoga with the upagraha (shadow point) also called Vyatipata, whose house results BPHS gives separately.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart. Where a text calls the yoga inauspicious, present it as a traditional caution with a devotional remedy, never as a fixed misfortune or a health prediction.",
+    "attributes": {
+      "meaning_pvr": "great fall"
+    },
+    "remedies": [
+      {
+        "remedy": "Vishnu puja, ghee lamp and abhisheka at a Shiva temple, 108 rounds of a pipal tree, havan with a Vishnu mantra, feeding Brahmins; done on the day the same yoga recurs",
+        "source": "BPHS ch. 88 sl. 2-5"
+      }
+    ]
+  },
+  {
+    "id": "panchang/nitya_yoga/variyan",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Variyan",
+      "n": 18
+    },
+    "summary": "Birth in Variyan yoga ('chief / best'). Jataka Bharanam describes the native as enjoys life fully, modest, pleasant speech.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "enjoys life fully",
+      "modest",
+      "pleasant speech",
+      "through good company becomes a benefactor of the community"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.18 (p.31)",
+        "view": "Birth in Variyan yoga: enjoys life fully; modest; pleasant speech; through good company becomes a benefactor of the community.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d4"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Variyan is yoga no. 18 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: chief / best.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "chief / best"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/parigha",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Parigha",
+      "n": 19
+    },
+    "summary": "Birth in Parigha yoga ('obstacle / hindrance (iron bar)'). Jataka Bharanam describes the native as may speak untruths, deceptive mind, lacks restraint, can seem arrogant.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "may speak untruths",
+      "deceptive mind",
+      "lacks restraint, can seem arrogant",
+      "conquers enemies and is loved by his own"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Counted among the harmful yogas for electional work (Muhurta Chintamani ch. 1 v.34-35: first half avoided).",
+      "BPHS treats birth in this yoga as inauspicious and prescribes remedies (ch. 85, 88)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.19 (p.31)",
+        "view": "Birth in Parigha yoga: may speak untruths; deceptive mind; lacks restraint, can seem arrogant; conquers enemies and is loved by his own.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d4"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Parigha is yoga no. 19 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: obstacle / hindrance (iron bar).",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.34-35 (p.32)",
+        "view": "For electional work: first half avoided.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c49a"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 85 sl. 1-4; ch. 88 sl. 1-5",
+        "view": "Birth in Parigha is named among the 'inauspicious yogas' whose evil effects need remedy (ch. 88 sl. 1-5). Remedy: worship of Vishnu, a ghee lamp and abhisheka in a Shiva temple, walking round a pipal tree 108 times, havan, feeding Brahmins, done when the same yoga recurs.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "Jataka Bharanam gives Parigha a largely mixed birth reading, while BPHS lists it among inauspicious yogas needing remedy.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart. Where a text calls the yoga inauspicious, present it as a traditional caution with a devotional remedy, never as a fixed misfortune or a health prediction.",
+    "attributes": {
+      "meaning_pvr": "obstacle / hindrance (iron bar)"
+    },
+    "remedies": [
+      {
+        "remedy": "Vishnu puja, ghee lamp and abhisheka at a Shiva temple, 108 rounds of a pipal tree, havan with a Vishnu mantra, feeding Brahmins; done on the day the same yoga recurs",
+        "source": "BPHS ch. 88 sl. 2-5"
+      }
+    ]
+  },
+  {
+    "id": "panchang/nitya_yoga/shiva",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Shiva",
+      "n": 20
+    },
+    "summary": "Birth in Shiva yoga ('Lord Shiva (purity)'). Jataka Bharanam describes the native as devoted to the inner self, master of the senses, graceful, slender body.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "devoted to the inner self",
+      "master of the senses",
+      "graceful, slender body",
+      "always blessed by Shiva's grace"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "self-mastery and Shiva's grace"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.20 (p.32)",
+        "view": "Birth in Shiva yoga: devoted to the inner self; master of the senses; graceful, slender body; always blessed by Shiva's grace.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d5"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Shiva is yoga no. 20 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: Lord Shiva (purity).",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "Lord Shiva (purity)"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/siddha",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Siddha",
+      "n": 21
+    },
+    "summary": "Birth in Siddha yoga ('accomplished / ready'). Jataka Bharanam describes the native as self-controlled and truthful, fair-complexioned, skilled in all work.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "self-controlled and truthful",
+      "fair-complexioned",
+      "skilled in all work",
+      "all undertakings succeed"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "undertakings succeed",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.21 (p.32)",
+        "view": "Birth in Siddha yoga: self-controlled and truthful; fair-complexioned; skilled in all work; all undertakings succeed.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d5"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Siddha is yoga no. 21 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: accomplished / ready.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "accomplished / ready"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/sadhya",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Sadhya",
+      "n": 22
+    },
+    "summary": "Birth in Sadhya yoga ('possible'). Jataka Bharanam describes the native as humble and clever, a helpful companion, efficient in own work.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "humble and clever",
+      "a helpful companion",
+      "efficient in own work",
+      "overcomes opponents",
+      "accomplishes things as if by mantra"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.22 (p.32)",
+        "view": "Birth in Sadhya yoga: humble and clever; a helpful companion; efficient in own work; overcomes opponents; accomplishes things as if by mantra.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d5"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Sadhya is yoga no. 22 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: possible.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "possible"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/shubha",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Shubha",
+      "n": 23
+    },
+    "summary": "Birth in Shubha yoga ('auspicious'). Jataka Bharanam describes the native as auspicious conduct, kind speech, does good deeds.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "auspicious conduct",
+      "kind speech",
+      "does good deeds",
+      "gives good counsel to others"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.23 (p.32)",
+        "view": "Birth in Shubha yoga: auspicious conduct; kind speech; does good deeds; gives good counsel to others.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d5"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Shubha is yoga no. 23 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: auspicious.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "auspicious"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/shukla",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Shukla",
+      "n": 24
+    },
+    "summary": "Birth in Shukla yoga ('white, bright'). Jataka Bharanam describes the native as self-controlled and truthful, great energy, wins debates and contests.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "self-controlled and truthful",
+      "great energy",
+      "wins debates and contests",
+      "respected",
+      "fair complexion",
+      "splendour and wealth"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "wealth and splendour",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.24 (p.32)",
+        "view": "Birth in Shukla yoga: self-controlled and truthful; great energy; wins debates and contests; respected; fair complexion; splendour and wealth.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d5"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Shukla is yoga no. 24 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: white, bright.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "white, bright"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/brahma",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Brahma",
+      "n": 25
+    },
+    "summary": "Birth in Brahma yoga ('creator (knowledge and purity)'). Jataka Bharanam describes the native as loves study, great brilliance, always truthful in conduct.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "loves study",
+      "great brilliance",
+      "always truthful in conduct",
+      "peaceful and generous",
+      "does fine deeds"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "study and truthfulness"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.25 (p.32)",
+        "view": "Birth in Brahma yoga: loves study; great brilliance; always truthful in conduct; peaceful and generous; does fine deeds.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d5"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Brahma is yoga no. 25 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: creator (knowledge and purity).",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "creator (knowledge and purity)"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/indra",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Indra",
+      "n": 26
+    },
+    "summary": "Birth in Indra yoga ('ruler of the gods'). Jataka Bharanam describes the native as strong, ample, clean prosperity, soft voice.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "strong",
+      "ample, clean prosperity",
+      "soft voice",
+      "learned",
+      "a leader among people with commanding influence"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "leadership and influence",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.26 (p.33)",
+        "view": "Birth in Indra yoga: strong; ample, clean prosperity; soft voice; learned; a leader among people with commanding influence. (Manuscript text is corrupt here; the yoga is identified by verse order, and the AI translation mislabels this part.)",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d6"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Indra is yoga no. 26 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: ruler of the gods.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "The Jataka Bharanam reading rests on a corrupt manuscript passage; treat it as tentative.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart.",
+    "attributes": {
+      "meaning_pvr": "ruler of the gods"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/nitya_yoga/vaidhriti",
+    "layer": "panchang",
+    "key": {
+      "yoga": "Vaidhriti",
+      "n": 27
+    },
+    "summary": "Birth in Vaidhriti yoga ('a class of gods'). Jataka Bharanam describes the native as restless, devious, keeps bad company.",
+    "themes": [
+      "nitya yoga",
+      "Sun-Moon combination",
+      "temperament"
+    ],
+    "common_outcomes": [
+      "restless",
+      "devious",
+      "keeps bad company",
+      "little regard for scripture",
+      "may lose wealth",
+      "mind not settled in virtue"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "loss of wealth is named",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Counted among the harmful yogas for electional work (Muhurta Chintamani ch. 1 v.34-35: wholly inauspicious)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), yoga-phala v.27 (p.33)",
+        "view": "Birth in Vaidhriti yoga: restless; devious; keeps bad company; little regard for scripture; may lose wealth; mind not settled in virtue.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d6"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.9, Table 5)",
+        "view": "Vaidhriti is yoga no. 27 of 27 (Sun + Moon longitude divided into 13 deg 20 min steps); meaning: a class of gods.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The yoga limb is ruled by Vishnu, element akasha (ether); computed from Sun + Moon.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.34-35 (p.32)",
+        "view": "For electional work: wholly inauspicious.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c49a"
+      }
+    ],
+    "disagreements": "Sources agree on an unfavourable reading. PVR glosses the name neutrally ('a class of gods').",
+    "confidence": "low",
+    "phrasing_guidance": "Mention briefly as a tendency, if at all; nitya yoga is a minor factor next to the chart. Where a text calls the yoga inauspicious, present it as a traditional caution with a devotional remedy, never as a fixed misfortune or a health prediction.",
+    "attributes": {
+      "meaning_pvr": "a class of gods"
+    },
+    "remedies": []
+  }
+]

@@ -1,0 +1,570 @@
+[
+  {
+    "id": "planet_in_house/mars/1",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 1},
+    "summary": "Mars in the lagna gives a bold, energetic, hot-blooded nature with courage and drive. The texts warn of rashness, temper, injuries and scars, and it is one of the Kuja dosha houses.",
+    "themes": ["courage", "energy", "rashness and temper", "injuries", "Kuja dosha"],
+    "common_outcomes": [
+      "Injury to a limb, scars or marks on the body (Phaladeepika 8.8, Brihat Jataka 20.6, Raman)",
+      "Cruel, reckless or rash temperament (Phaladeepika 8.8, Jataka Parijata 8.58, Raman)",
+      "Courage, self-confidence and enterprise (Raman, How to Judge a Horoscope)",
+      "Hot constitution and proneness to accidents, cuts and burns (Raman)"
+    ],
+    "rare_outcomes": [
+      "Given to wandering, fickle and sickly (Jataka Parijata 8.58)",
+      "Pilfering habits; big navel; reddish complexion; early danger to the father (Raman HPA)",
+      "Handsome appearance; love of liberty and independence (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Daring, active, practical, independent and rash (Raman); cruel and reckless in the old texts (Phaladeepika 8.8).",
+      "career": "",
+      "finance": "",
+      "health": "Hot constitution; risk of accidents, cuts and burns; overuse of physical resources can harm health (Raman, How to Judge a Horoscope).",
+      "relationships": "Domestic life unhappy unless other factors help (Raman, How to Judge a Horoscope); 1st house is counted for Manglik dosha in most lists (PanchangBodh).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Ruchaka yoga forms for Aries, Scorpio and Capricorn lagna (PanchangBodh)",
+      "Results scale with the dignity of the sign (Brihat Jataka 20.10)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman stresses that aspects to Mars here must be examined carefully (How to Judge a Horoscope)"
+    ],
+    "lagna_or_context_notes": "PanchangBodh: Ruchaka yoga (Mars in a kendra in own or exaltation sign) arises for Aries, Scorpio and Capricorn lagna. Raman's classical Kuja dosha list (2, 4, 7, 8, 12) does not include the 1st (How to Judge a Horoscope, 'Planets in the 7th House'), while PanchangBodh says most modern lists do.",
+    "source_views": [
+      {"source": "Phaladeepika 8.8 (English tr. on siva.sh)", "view": "Injured limb, reduced longevity, cruel and reckless.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6 (tr. V. Subrahmanya Sastri)", "view": "An injured limb.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.58 (tr. V. Subrahmanya Sastri)", "view": "Cruel, daring, wandering, very fickle and sickly.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Hot constitution, scars, pilfering habits, big navel, early danger to father, reddish complexion, active, adventurous, powerful, low-minded.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the First House'", "view": "Hot constitution, courage, self-confidence, enterprise, practical ability, love of liberty, reckless, rash; scars but handsome; unhappy domestic life unless offset; accident-prone; examine aspects.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses (modern site)", "view": "Strong body, quick reflexes, direct manner; impatience and temper; aspects 4th, 7th, 8th; Ruchaka for Aries, Scorpio, Capricorn lagna; most lists count it for Manglik dosha.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed (Mona), Effects of Mars in 12 Houses (modern site)", "view": "Energetic, strong, courageous, focused; reckless, aggressive, acts without consulting.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "The classics stress cruelty and injury; Raman and the modern sites stress courage and enterprise. Kuja dosha lists differ: Raman's classical list omits the 1st house, PanchangBodh says most modern lists include it.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with energy, courage and a direct style; suggest channelling it into sport or decisive work and taking care against haste and accidents. Do not frame Manglik status as a danger to a spouse."
+  },
+  {
+    "id": "planet_in_house/mars/2",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 2},
+    "summary": "Mars in the 2nd makes speech sharp and quarrelsome and ties earning to hard effort. The texts split on money, and this is a Kuja dosha house in the classical list.",
+    "themes": ["harsh speech", "family quarrels", "earning through effort", "food", "Kuja dosha"],
+    "common_outcomes": [
+      "Harsh or sharp speech, quarrelsome (Phaladeepika 8.8; Raman)",
+      "Hot-tempered (Jataka Parijata 8.63; Raman HPA)",
+      "Earns through effort, land or technical skill (Jataka Parijata 8.63; PanchangBodh)",
+      "Mixes with or befriends bad company (Phaladeepika 8.8; Raman, How to Judge a Horoscope)"
+    ],
+    "rare_outcomes": [
+      "Eats poor food (Brihat Jataka 20.6)",
+      "Much travelling in pursuit of metals, mining or agriculture (Jataka Parijata 8.63)",
+      "Broken education; large patrimony (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Quarrelsome, satirical, aggressive and unsympathetic (Raman).",
+      "career": "Metal-work, mining or agriculture (Jataka Parijata 8.63).",
+      "finance": "Phaladeepika gives lack of wealth; Raman (How to Judge a Horoscope) gives good earning and accumulation but miserliness; Raman HPA calls him extravagant.",
+      "health": "",
+      "relationships": "",
+      "family": "Family disputes are a risk (PanchangBodh).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Kuja dosha does not arise when the 2nd is Gemini or Virgo, or when Mars is in Leo or Aquarius (Raman, How to Judge a Horoscope)",
+      "Conjunction with Jupiter or the Moon counters Kuja dosha (Raman, How to Judge a Horoscope)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Mars here may cause speech problems that stall progress (VedicFeed)"
+    ],
+    "lagna_or_context_notes": "Kuja dosha: Raman counts the 2nd as the mildest of the dosha houses (order of strength 2, 12, 4, 7, 8), counted from lagna, Moon or Venus, and judged by bhava not rashi; South Indian practice counts it, many North Indian astrologers do not (PanchangBodh).",
+    "source_views": [
+      {"source": "Phaladeepika 8.8", "view": "Unattractive face or harsh speech, lacks learning and wealth, depends on bad people.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6", "view": "Eats bad food.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.63", "view": "Wanders much for metallurgy and agriculture; hot-tempered.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Quarrelsome, extravagant, harsh speech, short-tempered, wasteful, sharp-tongued, broken education, satirical, large patrimony, aggressive, unpopular.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Second House' and Vol. II Kuja dosha section", "view": "Quarrelsome, good earning but miserly, accumulates money, good talker, befriends evil-minded people, unsympathetic. Kuja dosha house, mildest of the five; exceptions Gemini and Virgo.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses", "view": "Forceful frank speech; money through effort, land or technical skill; quick spending; family disputes; Manglik in South Indian lists, not in many North Indian ones.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed, Effects of Mars in 12 Houses", "view": "Bold, hard-working risk-taker building wealth; harsh speech; afflicted, speech problems.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "On money: Phaladeepika says without wealth, Raman says good earnings and accumulation (How to Judge a Horoscope) or extravagance (HPA). On Kuja dosha: counted in Raman's classical list and South Indian practice, not by many North Indian astrologers (PanchangBodh).",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of frank, forceful speech and self-earned money, advising tact in family talk and steady saving. Mention Manglik only as a matching convention, never as a threat."
+  },
+  {
+    "id": "planet_in_house/mars/3",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 3},
+    "summary": "Mars is at home in the 3rd: courage, prowess, wealth, fame and success through bold effort. Its cost falls on siblings.",
+    "themes": ["courage", "prowess", "initiative", "siblings"],
+    "common_outcomes": [
+      "Brave, invincible and of great prowess (Phaladeepika 8.8, Jataka Parijata 8.65, Raman)",
+      "Wealthy and happy (Phaladeepika 8.8)",
+      "Famous (Jataka Parijata 8.65)",
+      "Bad for brothers and sisters, few or no brothers (Phaladeepika 8.8; Raman)"
+    ],
+    "rare_outcomes": [
+      "Good intellect and strength (Brihat Jataka 20.6, via its rule that Mars in the 3rd acts like the Sun there)",
+      "Danger in journeys; ear defects (Raman, How to Judge a Horoscope)",
+      "Weak sexual morals (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Upright (Jataka Parijata 8.65) and of good character (Phaladeepika 8.8), but Raman calls him reckless, pioneering and unprincipled.",
+      "career": "Writing, media, sport, marketing, defence and technical trades (PanchangBodh).",
+      "finance": "Wealthy (Phaladeepika 8.8).",
+      "health": "Ear defects possible (Raman, How to Judge a Horoscope); accident risk (VedicFeed).",
+      "relationships": "",
+      "family": "Few or no brothers (Phaladeepika 8.8, Raman HPA); worry from family misunderstandings (Raman, How to Judge a Horoscope).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Mars is the natural significator of the 3rd and is generally well placed here (PanchangBodh)",
+      "If the 3rd is Capricorn, Aries or Scorpio, the evil effects are largely modified (Raman, How to Judge a Horoscope)"
+    ],
+    "weakeners_or_cancellations": [
+      "Further affliction of the house shows violent or self-destructive tendencies (Raman, How to Judge a Horoscope)",
+      "A karaka in its own house can strain sibling matters (PanchangBodh, citing some astrologers)"
+    ],
+    "lagna_or_context_notes": "Raman: Mars in the 3rd in Capricorn (exaltation), Aries or Scorpio (own signs) largely removes the bad effects (How to Judge a Horoscope). Not a Kuja dosha house (PanchangBodh).",
+    "source_views": [
+      {"source": "Phaladeepika 8.8", "view": "Good character, wealth, courage, invincible, happy, no brothers.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6 with 20.2", "view": "Mars in houses other than 1, 2 and 9 acts like the Sun: in the 3rd, good intellect and great strength.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.65", "view": "Famous, of immense prowess and upright views.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Pioneering, few brothers, weak sex morals, courageous, intelligent, reckless, adventurous, short-tempered, unprincipled, unpopular.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Third House'", "view": "Bad for siblings, danger by journeys, brave, family misunderstandings, reckless, pioneering, ear defects; further affliction: violent tendencies; Capricorn, Aries or Scorpio modify the evil.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses", "view": "Natural karaka, well placed: initiative, stamina, competitive nerve, results grow with age; spirited sibling bonds; not Manglik.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed, Effects of Mars in 12 Houses", "view": "Frank, witty, direct; over-adventurous with accident risk; short-tempered.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "Phaladeepika and Jataka Parijata praise character (good, upright); Raman calls him unprincipled. All agree on courage; the sibling cost is stated by Phaladeepika and Raman.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with courage, drive and self-made success. Mention sibling friction lightly and recommend care in travel and risky activities."
+  },
+  {
+    "id": "planet_in_house/mars/4",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 4},
+    "summary": "Mars in the 4th is hard on domestic peace: friction with mother and relatives, few comforts and an unsettled home, though property and political success are possible. It is a Kuja dosha house.",
+    "themes": ["domestic friction", "mother", "property", "inner unrest", "Kuja dosha"],
+    "common_outcomes": [
+      "Lacking friends, relatives, comforts or vehicles (Phaladeepika 8.8, Jataka Parijata 8.68)",
+      "Little happiness, troubled mind (Brihat Jataka 20.6 with 20.2; Raman)",
+      "Quarrels at home or with the mother (Raman)",
+      "Owns houses but is not happy in them (Raman, How to Judge a Horoscope)"
+    ],
+    "rare_outcomes": [
+      "Valiant but dominated by the spouse (Jataka Parijata 8.68)",
+      "Success in politics (Raman, How to Judge a Horoscope)",
+      "Sickly mother; danger to the father (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Restless at home and in mind (PanchangBodh); Raman HPA uses coarse and tyrannical.",
+      "career": "Political success (Raman, How to Judge a Horoscope).",
+      "finance": "Property through effort (PanchangBodh); gains through real estate (VedicFeed).",
+      "health": "",
+      "relationships": "Ego clashes can strain the marriage (VedicFeed).",
+      "family": "Deprived of happiness from mother, relations and friends; quarrels with the mother (Raman, How to Judge a Horoscope); no mother or friends (Phaladeepika 8.8).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Kuja dosha does not arise when the 4th is Aries or Scorpio, or when Mars is in Leo or Aquarius (Raman, How to Judge a Horoscope)",
+      "Ruchaka yoga forms for Capricorn, Leo and Libra lagna (PanchangBodh)",
+      "Conjunction with Jupiter or the Moon counters Kuja dosha (Raman, How to Judge a Horoscope)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars has no directional strength in the 4th (PanchangBodh)",
+      "Mars joining Rahu or Ketu here is flagged by Raman as a risk to mental wellbeing, including self-destructive tendencies (How to Judge a Horoscope)"
+    ],
+    "lagna_or_context_notes": "Ruchaka yoga for Capricorn, Leo and Libra lagna (PanchangBodh). Kuja dosha: Raman places the 4th in the middle of the dosha order and exempts Aries and Scorpio in the 4th (How to Judge a Horoscope). PanchangBodh calls the 4th Manglik in every common list and the most testing placement.",
+    "source_views": [
+      {"source": "Phaladeepika 8.8", "view": "Without friends, mother, land, comfort or vehicles.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6 with 20.2", "view": "As the Sun in the 4th: no happiness and a troubled mind.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.68", "view": "Bereft of relations, dominated by the spouse, though valiant.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Sickly mother, quarrels, unhappy home, danger to father, domestic quarrels over conveyances, uncomfortable, coarse, tyrannical.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Fourth House'", "view": "Generally bad: little happiness from mother, relations, friends; political success; quarrels with mother; owns houses without happiness; Rahu or Ketu with Mars is serious.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses", "view": "No digbala, restlessness at home and in mind, property through effort; Ruchaka for Capricorn, Leo, Libra lagna; Manglik in all lists, most testing placement.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed, Effects of Mars in 12 Houses", "view": "Gains through property, enjoys comfort, resilient; restless, aggressive, domestic unrest affects health and marriage.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "Phaladeepika denies land and vehicles; Raman says he owns houses, and PanchangBodh and VedicFeed give property gains. On Kuja dosha severity, PanchangBodh calls the 4th the most testing, while Raman ranks the 7th and 8th as stronger.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of a restless energy that needs a calm home base and patience with family. Do not predict harm to parents; mention Manglik only as a matching custom with known exceptions."
+  },
+  {
+    "id": "planet_in_house/mars/5",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 5},
+    "summary": "Mars in the 5th sharpens and hardens the mind but is classically unfavourable for children, happiness and calm thinking. Some texts still give wealth and daring.",
+    "themes": ["children", "restless mind", "intellect", "speculation", "romance"],
+    "common_outcomes": [
+      "Difficulty with children or few children (Phaladeepika 8.9, Brihat Jataka 20.6 with 20.2, Raman)",
+      "Unhappy, with a disturbed mind (Phaladeepika 8.9, Raman)",
+      "Rash, restless, daring (Jataka Parijata 8.72; Raman)",
+      "Ambitious, intelligent and persevering (Raman HPA)"
+    ],
+    "rare_outcomes": [
+      "Cruel, wandering, unrighteous, sensual yet wealthy (Jataka Parijata 8.72)",
+      "Backbiting or tale-bearing (Phaladeepika 8.9; Raman, How to Judge a Horoscope)",
+      "Colic; health lost through over-indulgence (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Bold and decisive (Raman HPA) but weak-willed and disturbed in mind (Phaladeepika 8.9, Raman).",
+      "career": "Technical, strategic and competitive study suit the sharpened mind (PanchangBodh).",
+      "finance": "Wealthy (Jataka Parijata 8.72); poor (Brihat Jataka 20.6 with 20.2); speculation tempts (PanchangBodh).",
+      "health": "Colic (Raman, How to Judge a Horoscope).",
+      "relationships": "Passionate, fast-moving romance (PanchangBodh); troubles for wife and friends (Raman, How to Judge a Horoscope).",
+      "family": "Misfortunes through children (Raman, How to Judge a Horoscope); children must be judged from the 5th, its lord and Jupiter together, so Mars alone promises nothing (PanchangBodh).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Mars is yogakaraka for Cancer and Leo lagna (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "For Cancer and Leo lagna, Mars is yogakaraka, which changes the reading (PanchangBodh). Not a Kuja dosha house (PanchangBodh).",
+    "source_views": [
+      {"source": "Phaladeepika 8.9", "view": "Unhappy, childless, beset by setbacks, slanderous, weak-willed.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6 with 20.2", "view": "As the Sun in the 5th: childless and without wealth.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.72", "view": "Cruel, wandering, restless, daring, unrighteous, sensual and wealthy.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Unpopular, no issues, ambitious, intelligent, persevering, unhappy, bold, unprincipled, decisive.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Fifth House'", "view": "Troubles for wife, friends and children; disturbed thoughts; rash, weak-minded, backbiter; colic; misfortune through children; over-indulgence harms health.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses", "view": "Sharp technical and strategic mind, passionate romance; children read from house, lord and Jupiter, not Mars alone; speculation temptation; yogakaraka for Cancer and Leo lagna; not Manglik.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed, Effects of Mars in 12 Houses", "view": "Uplifted outlook and noble romance; recklessness strains relationships.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "Jataka Parijata gives wealth, Brihat Jataka gives poverty. The classics deny or trouble children; PanchangBodh says Mars alone cannot decide that. Raman calls him weak-minded (How to Judge a Horoscope) but also persevering and decisive (HPA).",
+    "confidence": "medium",
+    "phrasing_guidance": "Highlight a quick, competitive intelligence and passion; advise patience in speculation and romance. Never predict childlessness."
+  },
+  {
+    "id": "planet_in_house/mars/6",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 6},
+    "summary": "Mars is at its best in the 6th: victory over enemies, wealth, fame and success in competitive or authoritative roles.",
+    "themes": ["victory over rivals", "competitive strength", "service", "wealth", "fame"],
+    "common_outcomes": [
+      "Victorious, destroys opponents (Phaladeepika 8.9, Jataka Parijata 8.76, Raman)",
+      "Wealthy and famous (Phaladeepika 8.9, Jataka Parijata 8.76)",
+      "Success as a ruler, politician or in power (Phaladeepika 8.9; Raman)",
+      "Strong appetite and passion (Phaladeepika 8.9, Jataka Parijata 8.76; Raman)"
+    ],
+    "rare_outcomes": [
+      "Worries from near relatives (Raman)",
+      "Good lands (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Passionate, powerful and intelligent (Raman).",
+      "career": "Police, military, surgery, medicine, law and sport (PanchangBodh); political success (Raman).",
+      "finance": "Opulent; owns property (Jataka Parijata 8.76).",
+      "health": "Inflammation, fever, blood pressure and overwork injuries are the cautions (PanchangBodh).",
+      "relationships": "",
+      "family": "Worries from near relatives (Raman).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Malefics in the 6th give good results (Satyacharya, in Brihat Jataka 20.10 notes)",
+      "Upachaya and one of Mars's best houses (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Mars: accidents, losses and trouble through employees (Raman, How to Judge a Horoscope)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.9", "view": "Passionate, wealthy, famous, royal and victorious.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6 with 20.2", "view": "As the Sun in the 6th: powerful but overcome by enemies (the variant reading, per Sastri's note, gives 'conqueror of enemies').", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.76", "view": "Owns property, destroys foes, strong appetite, opulent, famous and strong.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Successful, good lands, rich, success over enemies, intelligent, political success, powerful, worry from relations.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Sixth House'", "view": "Highly passionate, victorious, successful as ruler or politician; worries from relatives; afflicted: accidents, losses, trouble through employees.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses", "view": "One of the best houses: beats rivals, wins disputes, clears debts; police, military, surgery, law, sport; health cautions; not Manglik.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed, Effects of Mars in 12 Houses", "view": "Stamina and managerial ability; impatient with slower colleagues.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "Only Brihat Jataka's main reading (via its Sun rule) has the native overcome by enemies; every other source gives victory.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak confidently about competitive strength, problem-solving and success in demanding work; add a light note about overwork and heat."
+  },
+  {
+    "id": "planet_in_house/mars/7",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 7},
+    "summary": "Mars in the 7th brings passion and conflict into partnership: friction with the spouse, a strong-willed partner and rash dealings. It is a major Kuja dosha house.",
+    "themes": ["marriage friction", "passion", "partnership conflict", "Kuja dosha"],
+    "common_outcomes": [
+      "Tension, quarrels or clashes in married life (Raman; Jataka Parijata 8.79)",
+      "Humiliation or trouble through women or partners (Brihat Jataka 20.6 with 20.3; Phaladeepika 8.9)",
+      "Rash, stubborn, tactless and peevish (Raman)",
+      "Restless wandering (Phaladeepika 8.9)"
+    ],
+    "rare_outcomes": [
+      "Two marriages (Raman)",
+      "Fond of war (Jataka Parijata 8.79)",
+      "Illness; dropsy (Phaladeepika 8.9; Raman HPA)",
+      "Submissive to the spouse (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Intelligent but tactless, stubborn and peevish (Raman).",
+      "career": "Rash speculation and lack of success (Raman).",
+      "finance": "",
+      "health": "",
+      "relationships": "Clashes and tensions in marriage, or two marriages (Raman); passionate, direct, with a strong-willed partner (PanchangBodh); the classical Kuja dosha dictum treats this as harmful to the spouse (Raman, How to Judge a Horoscope).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Kuja dosha does not arise when the 7th is Capricorn or Cancer, or when Mars is in Leo or Aquarius (Raman, How to Judge a Horoscope)",
+      "Conjunction with Jupiter or the Moon counters Kuja dosha (Raman, How to Judge a Horoscope)",
+      "Ruchaka yoga for Libra, Taurus and Cancer lagna; Mars is yogakaraka for Cancer lagna (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Ruchaka yoga arises for Libra, Taurus and Cancer lagna (PanchangBodh). Raman's Kuja dosha order of strength is 2, 12, 4, 7, 8, so the 7th is the second strongest; it is counted from lagna, Moon or Venus by bhava, and he calls the dosha one of the most misunderstood and misapplied dicta (How to Judge a Horoscope).",
+    "source_views": [
+      {"source": "Phaladeepika 8.9", "view": "Improper conduct, illness, wandering, loss of the spouse.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6 with 20.3", "view": "As the Sun in the 7th: humiliation at the hands of women.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.79", "view": "Quarrelsome about women and fond of war.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Two wives or friction with the wife, dropsy, rash speculation, unsuccessful, intelligent, tactless, stubborn, passionate, tension in married life.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the 7th House' and Kuja dosha section", "view": "Submissive to the spouse, clashes or two marriages, rash and speculative, tactless and unsuccessful. Kuja dosha rules and exceptions (7th exempt in Capricorn or Cancer).", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses", "view": "Passion, directness, strong-willed partner, quick arguments; Manglik in every list; Ruchaka for Libra, Taurus, Cancer lagna; yogakaraka for Cancer.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed, Effects of Mars in 12 Houses", "view": "Long-term contentment and passionate intimacy; disturbances and loss of affection.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "VedicFeed gives a positive, passionate marriage, while the classics and Raman are negative. Raman says both submissive to and in conflict with the spouse. Raman argues the Kuja dosha is overapplied and lists several exemptions.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of passion and strong wills in partnership, with patience and fair conflict as the work. Never predict a spouse's harm, divorce or remarriage; if Manglik comes up, mention the exceptions and that matching is a custom, not a sentence."
+  },
+  {
+    "id": "planet_in_house/mars/8",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 8},
+    "summary": "Mars in the 8th is classically one of its hardest placements, linked with health strain, accidents, few children and marital trouble. It is the strongest Kuja dosha house, though some texts give wealth and authority.",
+    "themes": ["health and accidents", "longevity", "marital strain", "hidden matters", "Kuja dosha"],
+    "common_outcomes": [
+      "Few children and weak eyesight (Brihat Jataka 20.6 with 20.3; Raman)",
+      "Bodily defects or blood-related complaints (Phaladeepika 8.10; Raman, How to Judge a Horoscope)",
+      "Domestic quarrels and dislike of relatives (Raman)",
+      "Public censure (Phaladeepika 8.10)"
+    ],
+    "rare_outcomes": [
+      "Plain dress, rich and with authority over many people (Jataka Parijata 8.83; Raman, How to Judge a Horoscope 'will rule over many')",
+      "Nerve under pressure and a gift for investigation, surgery and hidden subjects (PanchangBodh)",
+      "Danger to maternal uncles (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Hates relatives (Raman); zealous and intuitive (VedicFeed).",
+      "career": "Investigation, surgery and research (PanchangBodh).",
+      "finance": "Poverty (Phaladeepika 8.10) against wealth and authority (Jataka Parijata 8.83).",
+      "health": "Bloody complaints such as piles (Raman, How to Judge a Horoscope); care around accidents and fire (PanchangBodh).",
+      "relationships": "Classical texts link it with loss of or strain with the spouse and extra-marital ties (Raman); strongest Kuja dosha house in Raman's list.",
+      "family": "Very few children (Raman, How to Judge a Horoscope).",
+      "spirituality": "Hidden subjects (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Kuja dosha does not arise when the 8th is Sagittarius or Pisces, or Mars is in Leo or Aquarius (Raman, How to Judge a Horoscope)",
+      "Conjunction with Jupiter or the Moon counters Kuja dosha (Raman, How to Judge a Horoscope)",
+      "'Other alleviating factors' can offset the longevity concern (Raman, How to Judge a Horoscope)",
+      "Satyacharya counts malefics in the 8th as favourable (Brihat Jataka 20.10 notes)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars in the 8th with a fixed lagna, Venus in the 9th, the Moon in the 7th and Jupiter as 2nd lord: a life of servitude (Raman, How to Judge a Horoscope)"
+    ],
+    "lagna_or_context_notes": "Raman's Kuja dosha order places the 8th as the strongest of the five houses, exempting Sagittarius and Pisces (How to Judge a Horoscope). PanchangBodh counts it Manglik in every list and reads the 8th as a house of resilience.",
+    "source_views": [
+      {"source": "Phaladeepika 8.10", "view": "Deformed body, poverty, reduced longevity, public censure.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6 with 20.3", "view": "As the Sun in the 8th: few children and defective eyesight.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.83", "view": "Plain in attire, rich, with authority over a multitude.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Reduced longevity, few children, danger to maternal uncles, widower later, hates relatives, bad sight, extra-marital relations.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Eighth House' and Kuja dosha section", "view": "Longevity concern unless offset, may lose spouse, few children, extra-marital life, hates relatives, quarrels, piles, rules many people; servitude combination; strongest Kuja dosha house, Sagittarius and Pisces exempt.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses", "view": "Nerve under pressure, investigation, surgery, hidden subjects; care with accidents, fire, shared money; resilience; Manglik in all lists.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed, Effects of Mars in 12 Houses", "view": "Zealous, passionate, intuitive, sees through pretence; clingy, fears betrayal.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "Jataka Parijata gives wealth and authority and Raman also says he will rule over many, while Phaladeepika gives poverty and censure. Modern sites read it as intensity and resilience rather than misfortune.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame this as intensity, resilience and investigative ability, with sensible caution around risk and shared finances. Never speak of lifespan, a spouse's death or widowhood; treat Manglik as a matching custom with exemptions."
+  },
+  {
+    "id": "planet_in_house/mars/9",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 9},
+    "summary": "Mars in the 9th gives authority, renown and an active, combative relationship with belief, but most texts flag friction with the father and questionable conduct.",
+    "themes": ["father", "dharma and belief", "authority", "conduct", "fortune through action"],
+    "common_outcomes": [
+      "Strained relations with the father or parents (Phaladeepika 8.10, Jataka Parijata 8.86; Raman)",
+      "Renowned or famous in other respects (Jataka Parijata 8.86; Raman, How to Judge a Horoscope)",
+      "Wields authority and is affluent (Raman, How to Judge a Horoscope); friend of the ruler (Phaladeepika 8.10)",
+      "Stubborn, impetuous and self-seeking (Raman)"
+    ],
+    "rare_outcomes": [
+      "Commits sinful acts (Brihat Jataka 20.6)",
+      "Prone to violence; disliked by many (Phaladeepika 8.10)",
+      "Successful trader or naval merchant; loss from agriculture (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Logical, acute, stubborn and impetuous (Raman HPA); risk of dogmatism (PanchangBodh).",
+      "career": "Trader (Raman HPA); fortune through initiative, land, engineering, law or leadership (PanchangBodh).",
+      "finance": "Affluent (Raman, How to Judge a Horoscope).",
+      "health": "",
+      "relationships": "",
+      "family": "Not a dutiful son (Raman, How to Judge a Horoscope); sickly father (Raman HPA); loss of the father (Phaladeepika 8.10); children and happiness (Raman, How to Judge a Horoscope).",
+      "spirituality": "Belief made active; defends principles and causes (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Jupiter or Mercury with Mars: learned in religion and spiritual lore (Raman, How to Judge a Horoscope)",
+      "Venus with Mars: proficiency in law, foreign residence (Raman, How to Judge a Horoscope)",
+      "Mars is yogakaraka for Cancer and Leo lagna (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn with Mars: drawn to others' spouses and a wicked nature (Raman, How to Judge a Horoscope)"
+    ],
+    "lagna_or_context_notes": "For Cancer and Leo lagna, Mars is yogakaraka (PanchangBodh). Not a Kuja dosha house.",
+    "source_views": [
+      {"source": "Phaladeepika 8.10", "view": "Friend of the ruler but disliked by many, loses the father, prone to violence.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6", "view": "Commits sinful actions.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.86", "view": "Something wrong or untoward toward the parents, but renowned in other respects.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Unkind, worldly, successful trader, loss from agriculture, sickly father, naval merchant, dependent, self-seeking, stubborn, impetuous, logical.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Ninth House'", "view": "Authority, affluence, children, happiness; not a dutiful son but generous and famous; Jupiter or Mercury: religious learning; Venus: two wives, foreign residence, law; Saturn: wicked nature.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses", "view": "Belief made active; spirited bond with father or teachers, father may be courageous or in uniform; fortune through initiative; dogmatism risk; yogakaraka for Cancer and Leo.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed, Effects of Mars in 12 Houses", "view": "Adventurous, long-distance travel, ambitious, truth-seeking; rigid about beliefs.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "Brihat Jataka and Phaladeepika lean negative on conduct; Raman's How to Judge a Horoscope gives authority, wealth and fame; Raman HPA calls him 'dependent' yet a successful trader. PanchangBodh reads it as principled activism.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of strong convictions, initiative and fortune through action, and of a spirited bond with the father or mentors. Do not predict a parent's loss or moral failings."
+  },
+  {
+    "id": "planet_in_house/mars/10",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 10},
+    "summary": "Mars is strongest in the 10th: valour, fame, wealth, command and a self-made career, with harshness in authority as the risk.",
+    "themes": ["career and command", "valour", "fame", "self-made success"],
+    "common_outcomes": [
+      "Power, valour and fame (Brihat Jataka 20.6 with 20.3, Jataka Parijata 8.90, Raman)",
+      "A ruler or person in command who can be harsh (Phaladeepika 8.10; Raman, How to Judge a Horoscope)",
+      "Wealthy, with good profits (Jataka Parijata 8.90, Raman)",
+      "Energetic, adventurous, self-made (Raman HPA)"
+    ],
+    "rare_outcomes": [
+      "Founder of institutions and towns; good agriculturist (Raman HPA)",
+      "Generous and respected by leading people (Phaladeepika 8.10)",
+      "Fond of praise (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Decisive, clever, energetic and rash (Raman).",
+      "career": "Engineering, defence, police, surgery, sport, construction, real estate (PanchangBodh); technical or scientific work when Mercury joins (Raman, How to Judge a Horoscope).",
+      "finance": "Earns much money (Raman, How to Judge a Horoscope).",
+      "health": "Healthy (Raman HPA).",
+      "relationships": "Long hours can strain home life through the aspect on the 4th (PanchangBodh).",
+      "family": "Loved by relations (Raman HPA).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Directional strength (digbala) in the 10th (PanchangBodh)",
+      "Ruchaka yoga for Cancer, Aquarius and Aries lagna (PanchangBodh)",
+      "Mercury with Mars: a skilled scientist or technician patronised by rulers (Raman, How to Judge a Horoscope)",
+      "Venus with Mars: trade in foreign lands (Raman, How to Judge a Horoscope)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn with Mars in the 10th: daring but no progeny (Raman, How to Judge a Horoscope)",
+      "Conflict with superiors and a hard-edged reputation (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "Ruchaka yoga arises for Cancer, Aquarius and Aries lagna (PanchangBodh). Not a Kuja dosha house.",
+    "source_views": [
+      {"source": "Phaladeepika 8.10", "view": "A cruel but generous ruler, respected by leading people.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6 with 20.3", "view": "As the Sun in the 10th: happy and powerful.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.90", "view": "Pre-eminent in valour and wealth, becomes famous.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Founder of institutions and towns, energetic, adventurous, wealthy, healthy, famous, self-made, good profits, successful, loved by relations, decisive.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Tenth House'", "view": "Can become a harsh ruler, fond of praise, bold and rash in governing, earns much; Mercury: scientist or technician; Jupiter: heads low-status groups; Venus: foreign trade; Saturn: daring, no progeny.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses", "view": "Strongest house with digbala; lead, command, build; suited trades; conflict with superiors; Ruchaka for Cancer, Aquarius, Aries; not Manglik.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed, Effects of Mars in 12 Houses", "view": "Strong career drive and success; tendency to negativity.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "Agreement on power and success; Phaladeepika and Raman add harshness in authority, which Jataka Parijata and Raman HPA omit.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak confidently about drive, leadership and building a career by one's own effort; suggest fairness and patience with people under one's authority."
+  },
+  {
+    "id": "planet_in_house/mars/11",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 11},
+    "summary": "Mars in the 11th gives wealth, courage, influence and happiness, with gains rising through effort and property.",
+    "themes": ["gains", "wealth", "influence", "courage", "property"],
+    "common_outcomes": [
+      "Wealthy (Phaladeepika 8.10, Brihat Jataka 20.6 with 20.3, Jataka Parijata 8.94, Raman)",
+      "Brave and valiant (Phaladeepika 8.10, Jataka Parijata 8.94)",
+      "Happy and free of sorrow (Phaladeepika 8.10)",
+      "Influential, with landed property (Raman)"
+    ],
+    "rare_outcomes": [
+      "Eloquent, forceful speaker; lustful (Jataka Parijata 8.94; Raman, How to Judge a Horoscope)",
+      "Crafty (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Good character (Phaladeepika 8.10); clever and commanding (Raman).",
+      "career": "Influence in top circles (Raman, How to Judge a Horoscope).",
+      "finance": "Income through effort, competition, skill, property or leadership, rising with age (PanchangBodh).",
+      "health": "",
+      "relationships": "Energetic, professional friends; money quarrels with elder siblings or friends are a traditional note (PanchangBodh).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Upachaya house, where Mars does well (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Impatience is the main caution (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.10", "view": "Wealthy, happy, brave, free from sorrow, of good character.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6 with 20.3", "view": "As the Sun in the 11th: wealthy.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.94", "view": "Clever in speech, lustful, wealthy and valiant.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Learned, educated, wealthy, influential, property, crafty, happy, commanding.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Eleventh House'", "view": "Eloquent forceful speaker, clever, rich but lustful, landed property, influence in top circles.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses", "view": "Upachaya, does well; income through effort and skill, rising with age; energetic friends; money quarrels with elder siblings; impatience.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed, Effects of Mars in 12 Houses", "view": "Wealth gains and motivating a circle; obstacles, intolerance.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "Little disagreement. Phaladeepika gives good character; Raman HPA calls him crafty.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of steady, effort-driven gains and influence; suggest patience and fairness in money dealings with friends and siblings."
+  },
+  {
+    "id": "planet_in_house/mars/12",
+    "layer": "planet_in_house",
+    "key": {"planet": "Mars", "house": 12},
+    "summary": "Mars in the 12th is read as a draining placement: losses and expenses, trouble in marriage, heat-related ailments, eye trouble and exposure to deception. It is a Kuja dosha house.",
+    "themes": ["expenditure and loss", "marital strain", "eyes and heat", "deception", "Kuja dosha"],
+    "common_outcomes": [
+      "Loss of money or lack of wealth (Jataka Parijata 8.97; Raman)",
+      "Trouble or loss in marriage (Phaladeepika 8.10, Jataka Parijata 8.97; Raman, How to Judge a Horoscope)",
+      "Defective eyes (Phaladeepika 8.10; Raman HPA)",
+      "Liable to fraud and deception (Raman)"
+    ],
+    "rare_outcomes": [
+      "Slanderous, cruel or base (Phaladeepika 8.10)",
+      "Diseases from excess bodily heat (Raman)",
+      "Work abroad, in institutions, or disciplined spiritual practice (PanchangBodh)"
+    ],
+    "by_area": {
+      "personality": "Selfish and hateful (Raman, How to Judge a Horoscope); odious to others (Jataka Parijata 8.97).",
+      "career": "Unsuccessful (Raman HPA); suits work abroad and institutional settings (PanchangBodh).",
+      "finance": "Without wealth (Jataka Parijata 8.97); energy and money spent in distant or unseen places such as travel, legal or medical costs (PanchangBodh).",
+      "health": "Heat-related ailments (Raman); restless sleep (PanchangBodh).",
+      "relationships": "Classical texts give loss of or no spouse (Phaladeepika 8.10, Jataka Parijata 8.97); malefics in the 7th and 8th with Mars here suggest a second marriage (Raman, How to Judge a Horoscope).",
+      "family": "",
+      "spirituality": "Disciplined spiritual practice suits it (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Kuja dosha does not arise when the 12th is Taurus or Libra, or when Mars is in Leo or Aquarius (Raman, How to Judge a Horoscope)",
+      "Conjunction with Jupiter or the Moon counters Kuja dosha (Raman, How to Judge a Horoscope)"
+    ],
+    "weakeners_or_cancellations": [
+      "Aspected by the Sun: danger from fire and wicked people (Raman, How to Judge a Horoscope)",
+      "Mars in the 12th, Saturn in the 2nd, Moon in the lagna and Sun in the 7th: a skin disorder (leucoderma) (Raman, How to Judge a Horoscope)"
+    ],
+    "lagna_or_context_notes": "Kuja dosha: Raman ranks the 12th second-mildest (order 2, 12, 4, 7, 8) and exempts Taurus and Libra (How to Judge a Horoscope). PanchangBodh notes both regional verses count the 12th.",
+    "source_views": [
+      {"source": "Phaladeepika 8.10", "view": "Defective eyes, cruel, no spouse, slanderous and base.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.6 with 20.3", "view": "As the Sun in the 12th: degradation, a fall in standing.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.97", "view": "Becomes odious, without wealth and without a wife.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Unsuccessful, poor, unpopular, heat diseases, suffering, active but fruitless, liable to fraud, dishonest, impediments, deformed eyes.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Twelfth House' and Kuja dosha section", "view": "May lose the spouse, selfish, hateful, heat ailments, deceived, loses money; Sun's aspect: danger from fire; combination notes; Kuja dosha house, Taurus and Libra exempt.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Mars in the 12 houses", "view": "Spends energy and money in distant or unseen places; restless sleep; suits work abroad, institutions, disciplined spiritual practice; Manglik in both regional verses.", "url": "https://panchangbodh.com/mars-in-houses"},
+      {"source": "VedicFeed, Effects of Mars in 12 Houses", "view": "Kind, compassionate, peaceful, fearless; hidden desires and relationship complexes.", "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"}
+    ],
+    "disagreements": "VedicFeed reads it as kind and peaceful, against the uniformly negative classics and Raman. PanchangBodh frames the 12th as a place for foreign work and spiritual discipline rather than mere loss.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame this as energy that works best behind the scenes, abroad or in disciplined practice; advise budgeting and care with trust in money matters. Do not predict loss of a spouse, and keep health notes general."
+  }
+]

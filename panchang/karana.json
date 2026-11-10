@@ -1,0 +1,771 @@
+[
+  {
+    "id": "panchang/karana/bava",
+    "layer": "panchang",
+    "key": {
+      "karana": "Bava",
+      "type": "movable"
+    },
+    "summary": "Birth in Bava karana (movable; lord Indra per Brihat Samhita). Jataka Bharanam describes the native as passionate yet compassionate, strong and of good character, wise and fortunate.",
+    "themes": [
+      "karana",
+      "movable karana",
+      "work and achievement"
+    ],
+    "common_outcomes": [
+      "passionate yet compassionate",
+      "strong and of good character",
+      "wise and fortunate",
+      "wealth that does not dwindle"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "lasting wealth",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), karana-phala v.1 (p.33)",
+        "view": "Birth in Bava karana: passionate yet compassionate; strong and of good character; wise and fortunate; wealth that does not dwindle.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d6"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 100 sl. 1-5",
+        "view": "Bava is a movable karana; its lord is Indra. Suited to: auspicious, lasting and health-giving works (an electional rule, not a birth result). The four fixed karanas begin from the second half of Krishna Chaturdashi.",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.10)",
+        "view": "A karana is half a tithi; 11 karanas: the first 7 (movable) repeat 8 times from the second half of Shukla Pratipada; the last 4 (fixed) come once a month, from the second half of the 29th tithi to the first half of the 1st.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The karana limb is ruled by Ganesha, element prithvi (earth); computed from (Moon - Sun) / 2.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted) (via student notes)",
+        "view": "Karana is of earthy nature and relates to achievement.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Karana is a minor factor; one short line at most.",
+    "attributes": {
+      "type": "movable",
+      "lord_brihat_samhita": "Indra"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/karana/balava",
+    "layer": "panchang",
+    "key": {
+      "karana": "Balava",
+      "type": "movable"
+    },
+    "summary": "Birth in Balava karana (movable; lord Brahma per Brihat Samhita). Jataka Bharanam describes the native as strong and charming, affectionate speech, pure mind.",
+    "themes": [
+      "karana",
+      "movable karana",
+      "work and achievement"
+    ],
+    "common_outcomes": [
+      "strong and charming",
+      "affectionate speech",
+      "pure mind",
+      "knows sacred procedures"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "knows ritual"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), karana-phala v.2 (p.33)",
+        "view": "Birth in Balava karana: strong and charming; affectionate speech; pure mind; knows sacred procedures.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d6"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 100 sl. 1-5",
+        "view": "Balava is a movable karana; its lord is Brahma. Suited to: religious and meritorious acts, things that help Brahmins (an electional rule, not a birth result). The four fixed karanas begin from the second half of Krishna Chaturdashi.",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.10)",
+        "view": "A karana is half a tithi; 11 karanas: the first 7 (movable) repeat 8 times from the second half of Shukla Pratipada; the last 4 (fixed) come once a month, from the second half of the 29th tithi to the first half of the 1st.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The karana limb is ruled by Ganesha, element prithvi (earth); computed from (Moon - Sun) / 2.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted) (via student notes)",
+        "view": "Karana is of earthy nature and relates to achievement.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Karana is a minor factor; one short line at most.",
+    "attributes": {
+      "type": "movable",
+      "lord_brihat_samhita": "Brahma"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/karana/kaulava",
+    "layer": "panchang",
+    "key": {
+      "karana": "Kaulava",
+      "type": "movable"
+    },
+    "summary": "Birth in Kaulava karana (movable; lord Mitra per Brihat Samhita). Jataka Bharanam describes the native as passionate and bold, esteemed by many, children and many friends.",
+    "themes": [
+      "karana",
+      "movable karana",
+      "work and achievement"
+    ],
+    "common_outcomes": [
+      "passionate and bold",
+      "esteemed by many",
+      "children and many friends",
+      "gentle speech",
+      "the best of his family line"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "many friends",
+      "family": "children; foremost in the family",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), karana-phala v.3 (p.33)",
+        "view": "Birth in Kaulava karana: passionate and bold; esteemed by many; children and many friends; gentle speech; the best of his family line.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d6"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 100 sl. 1-5",
+        "view": "Kaulava is a movable karana; its lord is Mitra. Suited to: affairs of love and choosing friends (an electional rule, not a birth result). The four fixed karanas begin from the second half of Krishna Chaturdashi.",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.10)",
+        "view": "A karana is half a tithi; 11 karanas: the first 7 (movable) repeat 8 times from the second half of Shukla Pratipada; the last 4 (fixed) come once a month, from the second half of the 29th tithi to the first half of the 1st.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The karana limb is ruled by Ganesha, element prithvi (earth); computed from (Moon - Sun) / 2.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted) (via student notes)",
+        "view": "Karana is of earthy nature and relates to achievement.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Karana is a minor factor; one short line at most.",
+    "attributes": {
+      "type": "movable",
+      "lord_brihat_samhita": "Mitra"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/karana/taitila",
+    "layer": "panchang",
+    "key": {
+      "karana": "Taitila",
+      "type": "movable"
+    },
+    "summary": "Birth in Taitila karana (movable; lord Aryaman per Brihat Samhita). Jataka Bharanam describes the native as graceful, tender build, playful mind, skilled in the arts.",
+    "themes": [
+      "karana",
+      "movable karana",
+      "work and achievement"
+    ],
+    "common_outcomes": [
+      "graceful, tender build",
+      "playful mind",
+      "skilled in the arts",
+      "clever with words",
+      "good character and a clear intellect"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "arts and speech",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), karana-phala v.4 (p.33)",
+        "view": "Birth in Taitila karana: graceful, tender build; playful mind; skilled in the arts; clever with words; good character and a clear intellect.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d6"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 100 sl. 1-5",
+        "view": "Taitila is a movable karana; its lord is Aryaman. Suited to: things that bring popularity, shelter and house matters (an electional rule, not a birth result). The four fixed karanas begin from the second half of Krishna Chaturdashi.",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.10)",
+        "view": "A karana is half a tithi; 11 karanas: the first 7 (movable) repeat 8 times from the second half of Shukla Pratipada; the last 4 (fixed) come once a month, from the second half of the 29th tithi to the first half of the 1st.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The karana limb is ruled by Ganesha, element prithvi (earth); computed from (Moon - Sun) / 2.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted) (via student notes)",
+        "view": "Karana is of earthy nature and relates to achievement.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Karana is a minor factor; one short line at most.",
+    "attributes": {
+      "type": "movable",
+      "lord_brihat_samhita": "Aryaman"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/karana/gara",
+    "layer": "panchang",
+    "key": {
+      "karana": "Gara",
+      "type": "movable"
+    },
+    "summary": "Birth in Gara karana (movable; lord Bhu (the Earth) per Brihat Samhita). Jataka Bharanam describes the native as keen to help others, thoughtful, overcomes enemies.",
+    "themes": [
+      "karana",
+      "movable karana",
+      "work and achievement"
+    ],
+    "common_outcomes": [
+      "keen to help others",
+      "thoughtful",
+      "overcomes enemies",
+      "brave and resolute",
+      "well-built body"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), karana-phala v.5 (p.33)",
+        "view": "Birth in Gara karana: keen to help others; thoughtful; overcomes enemies; brave and resolute; well-built body. (Manuscript text partly corrupt or cut off here; tentative.)",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d6"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 100 sl. 1-5",
+        "view": "Gara is a movable karana; its lord is Bhu (the Earth). Suited to: farming, seeds, house and shelter (an electional rule, not a birth result). The four fixed karanas begin from the second half of Krishna Chaturdashi.",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.10)",
+        "view": "A karana is half a tithi; 11 karanas: the first 7 (movable) repeat 8 times from the second half of Shukla Pratipada; the last 4 (fixed) come once a month, from the second half of the 29th tithi to the first half of the 1st.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The karana limb is ruled by Ganesha, element prithvi (earth); computed from (Moon - Sun) / 2.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted) (via student notes)",
+        "view": "Karana is of earthy nature and relates to achievement.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      }
+    ],
+    "disagreements": "Jataka Bharanam's verse is damaged here; treat the birth reading as tentative.",
+    "confidence": "low",
+    "phrasing_guidance": "Karana is a minor factor; one short line at most.",
+    "attributes": {
+      "type": "movable",
+      "lord_brihat_samhita": "Bhu (the Earth)"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/karana/vanija",
+    "layer": "panchang",
+    "key": {
+      "karana": "Vanija",
+      "type": "movable"
+    },
+    "summary": "Birth in Vanija karana (movable; lord Sri (Lakshmi) per Brihat Samhita). Jataka Bharanam describes the native as skilled in the arts, soft, pleasant laugh, wise and self-respecting.",
+    "themes": [
+      "karana",
+      "movable karana",
+      "work and achievement"
+    ],
+    "common_outcomes": [
+      "skilled in the arts",
+      "soft, pleasant laugh",
+      "wise and self-respecting",
+      "gains wealth from every kind of trade"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "commerce",
+      "finance": "income from trade",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), karana-phala v.6 (p.34)",
+        "view": "Birth in Vanija karana: skilled in the arts; soft, pleasant laugh; wise and self-respecting; gains wealth from every kind of trade.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d7"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 100 sl. 1-5",
+        "view": "Vanija is a movable karana; its lord is Sri (Lakshmi). Suited to: lasting affairs, trade and partnerships (an electional rule, not a birth result). The four fixed karanas begin from the second half of Krishna Chaturdashi.",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.10)",
+        "view": "A karana is half a tithi; 11 karanas: the first 7 (movable) repeat 8 times from the second half of Shukla Pratipada; the last 4 (fixed) come once a month, from the second half of the 29th tithi to the first half of the 1st.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The karana limb is ruled by Ganesha, element prithvi (earth); computed from (Moon - Sun) / 2.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted) (via student notes)",
+        "view": "Karana is of earthy nature and relates to achievement.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Karana is a minor factor; one short line at most.",
+    "attributes": {
+      "type": "movable",
+      "lord_brihat_samhita": "Sri (Lakshmi)"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/karana/vishti",
+    "layer": "panchang",
+    "key": {
+      "karana": "Vishti",
+      "type": "movable"
+    },
+    "summary": "Birth in Vishti karana (movable; lord Yama per Brihat Samhita). Jataka Bharanam describes the native as can be cruel and harmful to others, inclined to wrong deeds, fickle.",
+    "themes": [
+      "karana",
+      "movable karana",
+      "work and achievement"
+    ],
+    "common_outcomes": [
+      "can be cruel and harmful to others",
+      "inclined to wrong deeds",
+      "fickle",
+      "yet succeeds in his undertakings"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "BPHS lists birth in Bhadra (Vishti) karana among inauspicious births (ch. 85 sl. 1-4) and gives remedies (ch. 88).",
+      "Muhurta Chintamani calls Vishti a major defect for auspicious undertakings (ch. 1 v.43)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), karana-phala v.7 (p.34)",
+        "view": "Birth in Vishti karana: can be cruel and harmful to others; inclined to wrong deeds; fickle; yet succeeds in his undertakings.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d7"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 100 sl. 1-5",
+        "view": "Vishti is a movable karana; its lord is Yama. Suited to: nothing good; only attacking enemies, administering poison and similar harsh acts succeed (an electional rule, not a birth result). The four fixed karanas begin from the second half of Krishna Chaturdashi.",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.10)",
+        "view": "A karana is half a tithi; 11 karanas: the first 7 (movable) repeat 8 times from the second half of Shukla Pratipada; the last 4 (fixed) come once a month, from the second half of the 29th tithi to the first half of the 1st.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The karana limb is ruled by Ganesha, element prithvi (earth); computed from (Moon - Sun) / 2.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted) (via student notes)",
+        "view": "Karana is of earthy nature and relates to achievement.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 1 v.42-43 (p.34)",
+        "view": "Vishti is also called Bhadra; it falls in the first half of Shukla 8 and 15, second half of Shukla 4 and 11, second half of Krishna 3 and 10, and first half of Krishna 7 and 14. A major defect to be avoided for auspicious ceremonies; some hold its fault lasts only till midday.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c49c"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra (English tr., archive.org 'ParasharaHoraSastra' text; chapter numbers as in that edition), ch. 85 sl. 1-4; ch. 88 sl. 1-5",
+        "view": "Birth in Bhadra (Vishti) karana is listed among inauspicious births; remedy: Vishnu puja, ghee lamp and abhisheka at a Shiva temple, 108 rounds of a pipal tree, havan, feeding Brahmins, on the day Bhadra recurs.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      }
+    ],
+    "disagreements": "All sources read treat Vishti as unfavourable; Jataka Bharanam adds that the native nevertheless succeeds in undertakings, and Brihat Samhita that harsh acts (e.g. against enemies) succeed in it.",
+    "confidence": "medium",
+    "phrasing_guidance": "Karana is a minor factor; one short line at most. Present Vishti (Bhadra) birth as a traditional caution with a devotional remedy; never call the person cruel or harmful.",
+    "attributes": {
+      "type": "movable",
+      "lord_brihat_samhita": "Yama"
+    },
+    "remedies": [
+      {
+        "remedy": "Vishnu puja, ghee lamp and abhisheka at a Shiva temple, 108 rounds of a pipal tree, havan, feeding Brahmins, on the day Bhadra recurs",
+        "source": "BPHS ch. 88 sl. 2-5"
+      }
+    ]
+  },
+  {
+    "id": "panchang/karana/shakuni",
+    "layer": "panchang",
+    "key": {
+      "karana": "Shakuni",
+      "type": "fixed"
+    },
+    "summary": "Birth in Shakuni karana (fixed; lord Kali per Brihat Samhita). Jataka Bharanam describes the native as very happy, refined mind, a store of mantra and learning, many virtues.",
+    "themes": [
+      "karana",
+      "fixed karana",
+      "work and achievement"
+    ],
+    "common_outcomes": [
+      "very happy, refined mind",
+      "a store of mantra and learning",
+      "many virtues",
+      "always careful",
+      "joy through own body and father",
+      "skilled in omens"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "happiness through the father",
+      "spirituality": "mantra and omen-lore"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Fixed karanas (Shakuni, Chatushpada, Naga, Kimstughna) occur only around the new Moon: from the second half of Krishna Chaturdashi to the first half of Shukla Pratipada (Brihat Samhita ch. 100 sl. 2; PVR sec. 1.3.10).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), karana-phala v.8 (p.34)",
+        "view": "Birth in Shakuni karana: very happy, refined mind; a store of mantra and learning; many virtues; always careful; joy through own body and father; skilled in omens.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d7"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 100 sl. 1-5",
+        "view": "Shakuni is a fixed karana; its lord is Kali. Suited to: tonics, medicines, herbs and spells (an electional rule, not a birth result). The four fixed karanas begin from the second half of Krishna Chaturdashi.",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.10)",
+        "view": "A karana is half a tithi; 11 karanas: the first 7 (movable) repeat 8 times from the second half of Shukla Pratipada; the last 4 (fixed) come once a month, from the second half of the 29th tithi to the first half of the 1st.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The karana limb is ruled by Ganesha, element prithvi (earth); computed from (Moon - Sun) / 2.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted) (via student notes)",
+        "view": "Karana is of earthy nature and relates to achievement.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Karana is a minor factor; one short line at most.",
+    "attributes": {
+      "type": "fixed",
+      "lord_brihat_samhita": "Kali"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/karana/chatushpada",
+    "layer": "panchang",
+    "key": {
+      "karana": "Chatushpada",
+      "type": "fixed"
+    },
+    "summary": "Birth in Chatushpada karana (fixed; lord Vrisha (the Bull) per Brihat Samhita). Jataka Bharanam describes the native as turns away from good conduct, thin, staff-like body, small in stature and substance.",
+    "themes": [
+      "karana",
+      "fixed karana",
+      "work and achievement"
+    ],
+    "common_outcomes": [
+      "turns away from good conduct",
+      "thin, staff-like body",
+      "small in stature and substance"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Fixed karanas (Shakuni, Chatushpada, Naga, Kimstughna) occur only around the new Moon: from the second half of Krishna Chaturdashi to the first half of Shukla Pratipada (Brihat Samhita ch. 100 sl. 2; PVR sec. 1.3.10).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), karana-phala v.9 (p.34)",
+        "view": "Birth in Chatushpada karana: turns away from good conduct; thin, staff-like body; small in stature and substance.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d7"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 100 sl. 1-5",
+        "view": "Chatushpada is a fixed karana; its lord is Vrisha (the Bull). Suited to: matters of cattle, Brahmins, ancestors and state affairs (an electional rule, not a birth result). The four fixed karanas begin from the second half of Krishna Chaturdashi.",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.10)",
+        "view": "A karana is half a tithi; 11 karanas: the first 7 (movable) repeat 8 times from the second half of Shukla Pratipada; the last 4 (fixed) come once a month, from the second half of the 29th tithi to the first half of the 1st.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The karana limb is ruled by Ganesha, element prithvi (earth); computed from (Moon - Sun) / 2.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted) (via student notes)",
+        "view": "Karana is of earthy nature and relates to achievement.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      }
+    ],
+    "disagreements": "Brihat Samhita assigns Chatushpada useful works (matters of cattle, Brahmins, ancestors and state affairs), while Jataka Bharanam's birth verse is unfavourable.",
+    "confidence": "low",
+    "phrasing_guidance": "Karana is a minor factor; one short line at most. Soften the harsh verse into a tendency to watch (temper, discipline) rather than a character judgement.",
+    "attributes": {
+      "type": "fixed",
+      "lord_brihat_samhita": "Vrisha (the Bull)"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/karana/naga",
+    "layer": "panchang",
+    "key": {
+      "karana": "Naga",
+      "type": "fixed"
+    },
+    "summary": "Birth in Naga karana (fixed; lord Phani (the Serpent) per Brihat Samhita). Jataka Bharanam describes the native as ill-tempered, crooked ways, strong and forceful.",
+    "themes": [
+      "karana",
+      "fixed karana",
+      "work and achievement"
+    ],
+    "common_outcomes": [
+      "ill-tempered",
+      "crooked ways",
+      "strong and forceful",
+      "mind inflamed by anger",
+      "quarrelsome and long in conflict",
+      "brave in battle"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Fixed karanas (Shakuni, Chatushpada, Naga, Kimstughna) occur only around the new Moon: from the second half of Krishna Chaturdashi to the first half of Shukla Pratipada (Brihat Samhita ch. 100 sl. 2; PVR sec. 1.3.10).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), karana-phala v.10 (p.34)",
+        "view": "Birth in Naga karana: ill-tempered; crooked ways; strong and forceful; mind inflamed by anger; quarrelsome and long in conflict; brave in battle.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d7"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 100 sl. 1-5",
+        "view": "Naga is a fixed karana; its lord is Phani (the Serpent). Suited to: long-standing works, harsh deeds, taking things by force (an electional rule, not a birth result). The four fixed karanas begin from the second half of Krishna Chaturdashi.",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.10)",
+        "view": "A karana is half a tithi; 11 karanas: the first 7 (movable) repeat 8 times from the second half of Shukla Pratipada; the last 4 (fixed) come once a month, from the second half of the 29th tithi to the first half of the 1st.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The karana limb is ruled by Ganesha, element prithvi (earth); computed from (Moon - Sun) / 2.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted) (via student notes)",
+        "view": "Karana is of earthy nature and relates to achievement.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      }
+    ],
+    "disagreements": "Brihat Samhita assigns Naga useful works (long-standing works, harsh deeds, taking things by force), while Jataka Bharanam's birth verse is unfavourable.",
+    "confidence": "low",
+    "phrasing_guidance": "Karana is a minor factor; one short line at most. Soften the harsh verse into a tendency to watch (temper, discipline) rather than a character judgement.",
+    "attributes": {
+      "type": "fixed",
+      "lord_brihat_samhita": "Phani (the Serpent)"
+    },
+    "remedies": []
+  },
+  {
+    "id": "panchang/karana/kimstughna",
+    "layer": "panchang",
+    "key": {
+      "karana": "Kimstughna",
+      "type": "fixed"
+    },
+    "summary": "Birth in Kimstughna karana (fixed; lord Maruta, the Wind, per Brihat Samhita). The only birth verse found is fragmentary.",
+    "themes": [
+      "karana",
+      "fixed karana",
+      "work and achievement"
+    ],
+    "common_outcomes": [
+      "the verse is fragmentary: it speaks of a mind that treats right and wrong alike"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Fixed karanas (Shakuni, Chatushpada, Naga, Kimstughna) occur only around the new Moon: from the second half of Krishna Chaturdashi to the first half of Shukla Pratipada (Brihat Samhita ch. 100 sl. 2; PVR sec. 1.3.10).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), karana-phala v.11 (p.34)",
+        "view": "Birth in Kimstughna karana: the verse is fragmentary: it speaks of a mind that treats right and wrong alike. (Manuscript text partly corrupt or cut off here; tentative.)",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d7"
+      },
+      {
+        "source": "Brihat Samhita of Varahamihira (tr. V. Subrahmanya Sastri & M. Ramakrishna Bhat, 1946), ch. 100 sl. 1-5",
+        "view": "Kimstughna is a fixed karana; its lord is Maruta (the Wind). Suited to: meritorious deeds, sacrifices, strengthening and auspicious ceremonies (an electional rule, not a birth result). The four fixed karanas begin from the second half of Krishna Chaturdashi.",
+        "url": "https://archive.org/details/varahamihira-brihat-samhita-panditabhushana-v-subrahmanya-sastri-1946-with-english-ocr-layer"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.10)",
+        "view": "A karana is half a tithi; 11 karanas: the first 7 (movable) repeat 8 times from the second half of Shukla Pratipada; the last 4 (fixed) come once a month, from the second half of the 29th tithi to the first half of the 1st.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "The karana limb is ruled by Ganesha, element prithvi (earth); computed from (Moon - Sun) / 2.",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted) (via student notes)",
+        "view": "Karana is of earthy nature and relates to achievement.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      }
+    ],
+    "disagreements": "Jataka Bharanam's verse is damaged here; treat the birth reading as tentative.",
+    "confidence": "low",
+    "phrasing_guidance": "Karana is a minor factor; one short line at most.",
+    "attributes": {
+      "type": "fixed",
+      "lord_brihat_samhita": "Maruta (the Wind)"
+    },
+    "remedies": []
+  }
+]

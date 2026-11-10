@@ -1,0 +1,303 @@
+[
+  {
+    "id": "profession/rule",
+    "layer": "profession",
+    "key": {"rule": "navamsa_lord_of_10th_lord"},
+    "summary": "Classical rule for the kind of work that suits a person: take the lord of the 10th house (counted from the lagna, the Moon and the Sun, using the strongest of the three), see which navamsa (D9) sign it occupies, and the lord of that sign is the indicator planet whose nature points to the field of livelihood (Phaladeepika 5.1; Brihat Jataka 10.1). It shows a leaning, not a fixed job.",
+    "themes": ["profession", "livelihood", "10th lord", "navamsa dispositor", "classical method"],
+    "common_outcomes": [
+      "Step 1: find the 10th house from the lagna, from the Moon and from the Sun, and the lord of each (Phaladeepika 5.1; Brihat Jataka 10.1 with Sastri's notes).",
+      "Step 2: pick the strongest of these reference points (or of these 10th lords); Sastri's worked example on Brihat Jataka 10.1 takes the strongest of the navamsa lords reached this way.",
+      "Step 3: note the navamsa sign that 10th lord occupies; its lord is the indicator planet, and the work 'prescribed for' that planet describes the livelihood (Phaladeepika 5.2-5.8; Brihat Jataka 10.2-10.3).",
+      "Strength of the indicator decides how easily wealth comes: strong gives gains without much strain, weak gives modest gains (Phaladeepika 5.9).",
+      "Place of earning: judged from the 10th sign or the navamsa sign of the 10th lord; if that sign holds or is aspected by its own lord, or is a fixed sign, the person earns in their own country; if other planets occupy or aspect it, earnings come from elsewhere (Phaladeepika 5.9)."
+    ],
+    "rare_outcomes": [
+      "Source of wealth (a separate rule in the same verses): the planet occupying the 10th from the stronger of lagna and Moon shows who wealth comes through: Sun father, Moon mother, Mars opponents, Mercury friends, Jupiter brothers, Venus spouse or women, Saturn servants or subordinates (Phaladeepika 5.1; Brihat Jataka 10.1; Saravali 33.81).",
+      "Rath: a fixed navamsa for the 10th lord suggests a settled, desk-based job; a movable one, moving around for one's living; a dual one, a mix (Crux of Vedic Astrology 13.7)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Core use: the indicator planet names the family of work; Raman adds that the 10th lord, any occupant of the 10th, and this navamsa lord should be weighed together, the strongest leading (How to Judge a Horoscope vol. 2 ch. XIV).",
+      "finance": "Phaladeepika 5.9: a strong indicator brings wealth without much exertion, a weak one only a little. Brihat Jataka 10.4: strong benefics in the 1st, 2nd and 11th give income from many sources.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Indicator planet strong (Phaladeepika 5.9).",
+      "Rath: the navamsa dispositor of the 10th lord well placed and friendly to the lagna lord and the 10th lord (Crux 13.7)."
+    ],
+    "weakeners_or_cancellations": [
+      "Indicator planet weak: little wealth from the work (Phaladeepika 5.9).",
+      "Rath: if the navamsa dispositor is a malefic and strongly hostile to the 10th lord, the 10th lord's dasha, especially its sub-period, can be hard for career (Crux 13.7).",
+      "Raman: a 10th lord in the 6th, 8th or 12th from the navamsa lagna makes the career routine or slow to rise (How to Judge a Horoscope vol. 2 ch. XIV)."
+    ],
+    "lagna_or_context_notes": "Three reference points (lagna, Moon, Sun) can give three different indicator planets. Varahamihira and Mantreswara say use the strongest; Bhattotpala (quoted by Sastri under Brihat Jataka 10.1) says every one of them should be considered. Rahu and Ketu own no signs in this scheme, so they can never be the indicator planet; neither Phaladeepika 5 nor Brihat Jataka 10 assigns them a livelihood (Raman only groups both under routine work in general).",
+    "source_views": [
+      {"source": "Phaladeepika 5.1 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)", "view": "Wealth is judged from the stronger of the lagna and the Moon; the planet in the 10th from it names the source (father, mother, foe, friend, brother, wife, servant for Sun to Saturn). The profession is that of the lord of the navamsa occupied by the 10th lord counted from the lagna, the Moon and the Sun, whichever is strongest.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 5.9 (tr. Sastri)", "view": "A strong navamsa lord gives wealth without exertion, a weak one little wealth. The country of earning follows the 10th sign or the 10th lord's navamsa sign: own country if that sign holds or is aspected by its lord, or if the navamsa is a fixed sign; elsewhere if other planets occupy or aspect it.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Brihat Jataka 10.1 with notes (tr. V. Subrahmanya Sastri)", "view": "Wealth comes, first, from the person signified by the planet in the 10th from lagna or Moon; second, through the profession of the ruler of the 10th house or of the ruler of the navamsa occupied by the 10th lord from the lagna, Moon or Sun. Sastri's note: take the strongest of the three 10th lords and read its navamsa lord; he cites Bhattotpala, who holds that all of them, not only the strongest, should be considered.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Brihat Jataka 10.3-10.4 with notes (tr. Sastri)", "view": "The person succeeds in the work of the planet owning the navamsa of the 10th lord. Wealth sources are also read from planets in friendly, enemy or own signs; strong benefics in the 11th, 1st and 2nd give income in many ways. A quoted note adds that the profession is judged from planets in the 10th, else from those in the 1st and those aspecting the Sun and Moon, and from planets close to the Sun or the 10th cusp.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Saravali 33.2-6, 33.65-81 (tr. R. Santhanam)", "view": "Karma is read from the 10th of the stronger of lagna and Moon; a strong 10th lord makes work prosper. Livelihood follows the occupant of the 10th, the stronger of the two 10th lords, and the sign on the 10th (with a list of trades per sign). Saravali here gives no navamsa-lord rule.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XIV 'Concerning the Tenth House' (archive.org file of vols 1-2)", "view": "Astrology shows tendencies and aptitudes, not a fixed job, and no factor can be fixed for each vocation. In his study of over 50 charts the 10th lord and 10th house clearly decided the profession in only 15. With an empty 10th, weigh the 10th lord against the navamsa lord of the 10th lord and take the stronger; with an occupant, take the strongest of lord, occupant and navamsa lord; with several, blend. Reckon from lagna, Moon and Sun and prefer the strongest. The strongest planet in the whole chart also bears on profession.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, 13.7 (archive.org file in the same item)", "view": "The navamsa dispositor of the 10th lord can make or mar the career depending on its placement and its relationship with the lagna lord and 10th lord; fixed, movable and dual navamsas of the 10th lord suggest settled, mobile and mixed work.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Barbara Pijan Lama, commentary on Phaladeepika 5 (Kapoor translation)", "view": "Reads the planet trade lists as broad modern associations (for example Venus as music, design, finance and deal-making) and widens 'earning in another country' to crossing any regional, language or cultural boundary. Rahu and Ketu do not appear in the rule.", "url": "https://www.barbarapijan.com/bpa/Vocation/bVocation_phaladeepika_Livelihood.htm"}
+    ],
+    "disagreements": "Which reference point: Phaladeepika 5.1 and Brihat Jataka 10.1 count from the lagna, Moon and Sun and take the strongest; Saravali 33 uses only the stronger of lagna and Moon and reads the sign and lord of the 10th, without the navamsa step. Strongest only or all: Bhattotpala (via Sastri on BJ 10.1) says to consider every 10th lord's navamsa lord, not only the strongest. 10th lord itself: Brihat Jataka 10.1 lets the ruler of the 10th house or the ruler of its navamsa decide; Phaladeepika names only the navamsa lord; Raman weighs both and any occupant, taking the strongest. Trade lists: Varahamihira's lists are short (e.g. Sun: grass, gold, wool, medicine); Mantreswara's are longer and add other items (e.g. Sun: fruit trees, mantras, service under a ruler). Modern authors (Raman, Rath) add the D10 and stress tendencies over fixed outcomes.",
+    "confidence": "high",
+    "phrasing_guidance": "Present the indicator planet as pointing to a family of work or a style of earning, never a single job title or a verdict. Translate old trade lists into modern fields. Mention that the method is one classical view among several (with the D10 and the planets in the 10th) and that effort and choice shape the career.",
+    "conditional_results": []
+  },
+  {
+    "id": "profession/sun",
+    "layer": "profession",
+    "key": {"planet": "Sun"},
+    "summary": "Sun as the indicator: work linked with government, authority or respected institutions, leadership roles, medicine and health products, and trades in gold or metals.",
+    "themes": ["government", "authority", "medicine", "gold and metals", "patronage"],
+    "common_outcomes": [
+      "Service under a ruler or a respected person; working with metals; medicine (Phaladeepika 5.2).",
+      "Dealing in grass, gold, wool, medicine and similar goods (Brihat Jataka 10.2).",
+      "Sastri's modern note: honourable posts under the state or a public body, titled appointments, jewellers and goldsmiths, wool-mill work, mint work (Brihat Jataka 10.2 notes)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 5.2 also lists fruit trees, reciting mantras, wool, and less honest means (fraud, gambling, falsehood)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Raman groups the Sun with the Moon and Mars under economic occupations; Sun or Mars influence on an intellectual planet points to state service (How to Judge a Horoscope vol. 2 ch. XIV).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Indicator strong: gains come with less effort (Phaladeepika 5.9)."],
+    "weakeners_or_cancellations": ["Indicator weak: modest gains (Phaladeepika 5.9)."],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 5.2 (tr. Sastri)", "view": "10th lord in the Sun's navamsa: livelihood through fruit trees, mantra recitation, wool, medicine, metal work or service under a king or respectable person; also through fraud, gambling or falsehood.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Brihat Jataka 10.2 with notes (tr. Sastri)", "view": "Sun as navamsa lord: living by dealing in grass, gold, wool, medicine and the like. Notes: honourable state or public employment, royal and titled posts, jewellers, goldsmiths, wool mills, mints.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XIV", "view": "Sun, Moon and Mars refer generally to economic occupations; Sun or Mars added to an intellectual signature indicates service under the state.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Barbara Pijan Lama, commentary on Phaladeepika 5", "view": "Modern associations for the Sun: politics, public visibility and celebrity, creative literature, drama and showmanship.", "url": "https://www.barbarapijan.com/bpa/Vocation/bVocation_phaladeepika_Livelihood.htm"}
+    ],
+    "disagreements": "Brihat Jataka gives a short list (grass, gold, wool, medicine); Phaladeepika adds fruit trees, mantras, metal work, royal service and dishonest means. Sastri's notes stress state and titled posts.",
+    "confidence": "high",
+    "phrasing_guidance": "Say: drawn to roles with responsibility, public standing or institutional backing; leave out the 'fraud, gambling' items in a consumer report.",
+    "conditional_results": []
+  },
+  {
+    "id": "profession/moon",
+    "layer": "profession",
+    "key": {"planet": "Moon"},
+    "summary": "Moon as the indicator: work connected with water and liquids, food and farming, textiles and clothing, travel or pilgrimage, caring roles and serving the public, often with women as clients or employers.",
+    "themes": ["water and liquids", "agriculture", "textiles", "travel", "caring and public service"],
+    "common_outcomes": [
+      "Trade in water products (pearls, corals), agriculture and cattle farming, pilgrimage, service under a woman, trade in clothes (Phaladeepika 5.3).",
+      "Agriculture, things from water (conches, pearls, fish), or through women (Brihat Jataka 10.2).",
+      "Sastri's modern note: sailors, navigators, fishermen, watermen, midwives, nurses (Brihat Jataka 10.2 notes)."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "Raman groups the Moon with the Sun and Mars under economic occupations (How to Judge a Horoscope vol. 2 ch. XIV).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Indicator strong: gains come with less effort (Phaladeepika 5.9)."],
+    "weakeners_or_cancellations": ["Indicator weak: modest gains (Phaladeepika 5.9)."],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 5.3 (tr. Sastri)", "view": "10th lord in the Moon's navamsa: income through water products, agriculture and cattle, pilgrimage to shrines, service under a young woman, or the cloth trade.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Brihat Jataka 10.2 with notes (tr. Sastri)", "view": "Moon as navamsa lord: living by agriculture, things from water, or through women. Notes: sailors, mariners, fishermen, midwives, nurses.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XIV", "view": "The Moon is among the planets of economic occupations.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Barbara Pijan Lama, commentary on Phaladeepika 5", "view": "Modern associations for the Moon: housing, agriculture, fishing and ocean work, schooling, and working under mother-like or nurturing figures; 'service under a woman' widened to service industries catering to women.", "url": "https://www.barbarapijan.com/bpa/Vocation/bVocation_phaladeepika_Livelihood.htm"}
+    ],
+    "disagreements": "Phaladeepika adds cattle, pilgrimage and the cloth trade to Brihat Jataka's agriculture, water products and women.",
+    "confidence": "high",
+    "phrasing_guidance": "Say: suited to nurturing, public-facing or hospitality work and fields tied to food, water, travel or textiles; avoid gendered wording.",
+    "conditional_results": []
+  },
+  {
+    "id": "profession/mars",
+    "layer": "profession",
+    "key": {"planet": "Mars"},
+    "summary": "Mars as the indicator: work that takes courage and technical skill, such as defence, police or security, engineering, metals and machinery, land and property, cooking or work with fire, and surgery or medicine.",
+    "themes": ["courage", "defence and security", "engineering and metals", "land", "fire and cooking"],
+    "common_outcomes": [
+      "Metals, fighting, cooking, land, gold, weapons and adventurous work (Phaladeepika 5.4).",
+      "Metallurgy and forceful work such as fighting (Brihat Jataka 10.2).",
+      "Sastri's modern note: military ranks, doctors, physicians, chemists, engine drivers, and workers in iron, steel or fire (Brihat Jataka 10.2 notes)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 5.4 also lists troubling others, association with wicked people, spying and theft."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Raman groups Mars with the Sun and Moon under economic occupations; Sun or Mars influence points to state service, and his chart 115 reads a Mars navamsa lord as a military profession (How to Judge a Horoscope vol. 2 ch. XIV).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Indicator strong: gains come with less effort (Phaladeepika 5.9)."],
+    "weakeners_or_cancellations": ["Indicator weak: modest gains (Phaladeepika 5.9)."],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 5.4 (tr. Sastri)", "view": "10th lord in a Mars navamsa: income through metals, battle, cooking, land, gold, weapons, daring acts; also by harming others, bad company, spying or theft.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Brihat Jataka 10.2 with notes (tr. Sastri)", "view": "Mars as navamsa lord: livelihood by metallurgy and violent acts like fighting. Notes: soldiers and officers, doctors, physicians, chemists, butchers, barbers, engine drivers, workers in iron, steel or fire.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XIV (chart 115)", "view": "Mars is among the planets of economic occupations; with the 10th lord in a strong Mars navamsa from the strongest reference point, Raman reads a military profession.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Sastri's notes include medicine (doctors, chemists) under Mars, while Phaladeepika 5.2 lists medicine under the Sun.",
+    "confidence": "high",
+    "phrasing_guidance": "Say: energy for hands-on, technical or protective work; leave out 'theft, spying, harming others' in a consumer report.",
+    "conditional_results": []
+  },
+  {
+    "id": "profession/mercury",
+    "layer": "profession",
+    "key": {"planet": "Mercury"},
+    "summary": "Mercury as the indicator: work with words, numbers and ideas, such as writing, accounting, mathematics, teaching, clerical or office work, trade, astrology and the arts.",
+    "themes": ["writing", "accounts and mathematics", "clerical work", "learning", "trade"],
+    "common_outcomes": [
+      "Composing poetry, study of scriptures, work as a scribe or clerk, astrology, Vedic study on others' behalf, mantra recitation, priestly roles (Phaladeepika 5.5).",
+      "Earning as a writer, through mathematics, poetry or the arts (Brihat Jataka 10.2).",
+      "Sastri's modern note: authors, translators, accountants, astrologers, school teachers, mathematicians, lawyers, booksellers, printers, postmen (Brihat Jataka 10.2 notes)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 5.5 also mentions earning through some trick or pretext."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Raman: Mercury (with Jupiter) refers to intellectual work and Mercury also to traders; Mercury is key for creative writing (How to Judge a Horoscope vol. 2 ch. XIV).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Indicator strong: gains come with less effort (Phaladeepika 5.9)."],
+    "weakeners_or_cancellations": ["Indicator weak: modest gains (Phaladeepika 5.9)."],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 5.5 (tr. Sastri)", "view": "10th lord in a Mercury navamsa: earning by composing poems, scripture study, as a scribe or clerk, through astrology, Vedic study for others, mantra recitation, acting as a priest, or by some trick or pretext.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Brihat Jataka 10.2 with notes (tr. Sastri)", "view": "Mercury as navamsa lord: livelihood as a writer, by mathematics, poetry or the arts. Notes: authors, translators, accountants, astrologers, teachers, mathematicians, poets, lawyers, booksellers, printers, postmen.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XIV", "view": "Jupiter and Mercury refer to intellectual avocations and Mercury also to traders; a scientist shows Mercury prominent, a philosopher Jupiter.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Phaladeepika puts priestly and Vedic work under Mercury as well as Jupiter; Brihat Jataka keeps Mercury to writing, mathematics, poetry and arts.",
+    "confidence": "high",
+    "phrasing_guidance": "Say: suited to communication, analysis, writing, teaching or commerce; skip 'trick or pretext'.",
+    "conditional_results": []
+  },
+  {
+    "id": "profession/jupiter",
+    "layer": "profession",
+    "key": {"planet": "Jupiter"},
+    "summary": "Jupiter as the indicator: work in teaching, advising, law and religion, scholarship, counselling or guidance, and finance or banking, often with the support of learned people or institutions.",
+    "themes": ["teaching", "law and ethics", "religion and scholarship", "advice", "finance and banking"],
+    "common_outcomes": [
+      "Living through the help of learned people, temples or royal favour, by reciting Puranas, study of the Shastras, teaching morality, religious instruction, or money-lending (Phaladeepika 5.6).",
+      "Earning through Brahmins, deities, learned men, mines and the like, or by religious acts (Brihat Jataka 10.3).",
+      "Sastri's modern note: judges, priests, scholars, preachers, ministers, bankers (Brihat Jataka 10.3 notes)."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "Raman: Jupiter (with Mercury) refers to intellectual work; a philosopher's chart shows Jupiter prominent (How to Judge a Horoscope vol. 2 ch. XIV).",
+      "finance": "Phaladeepika 5.6 includes lending money (usury); Sastri's notes include bankers.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Religious instruction and scriptural learning are named as livelihoods (Phaladeepika 5.6; Brihat Jataka 10.3)."
+    },
+    "strengtheners": ["Indicator strong: gains come with less effort (Phaladeepika 5.9)."],
+    "weakeners_or_cancellations": ["Indicator weak: modest gains (Phaladeepika 5.9)."],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 5.6 (tr. Sastri)", "view": "10th lord in a Jupiter navamsa: maintained through Brahmins, gods or royal favour, reciting Puranas, studying Shastras, preaching morality, religious teaching, or money-lending.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Brihat Jataka 10.3 with notes (tr. Sastri)", "view": "Jupiter as navamsa lord: money through Brahmins, deities, learned men, mines and the like, or by religious acts. Notes: judges, priests, learned men, preachers, ministers, bankers.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XIV", "view": "Jupiter and Mercury signify intellectual avocations; Jupiter prominent for philosophers.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Brihat Jataka (Sastri) lists mines under Jupiter, which Phaladeepika does not; Phaladeepika adds money-lending and recitation of Puranas.",
+    "confidence": "high",
+    "phrasing_guidance": "Say: suited to roles of trust, teaching, guidance, law or finance; keep religious wording optional and inclusive.",
+    "conditional_results": []
+  },
+  {
+    "id": "profession/venus",
+    "layer": "profession",
+    "key": {"planet": "Venus"},
+    "summary": "Venus as the indicator: work in the arts, music, dance and design, beauty, fashion, jewellery and luxury goods, hospitality and food, and work that involves women or partnerships.",
+    "themes": ["arts and music", "beauty and fashion", "jewellery and luxury", "hospitality", "partnership"],
+    "common_outcomes": [
+      "Earning through women, cattle, horses, music with dance, silver, perfumes, milk, ornaments, silk, as a companion to a ruler, or by poetic talent (Phaladeepika 5.7).",
+      "Dealing in rubies, silver and the like, and rearing cows and buffaloes (Brihat Jataka 10.3).",
+      "Sastri's modern note: dealers in gold, gems or horses, hotel-keepers, confectioners, musicians, painters, drapers, jewellers, actors, embroiderers, perfume dealers (Brihat Jataka 10.3 notes)."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "Raman: Venus refers to aesthetic professions such as music, acting, dance and other arts (How to Judge a Horoscope vol. 2 ch. XIV).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Indicator strong: gains come with less effort (Phaladeepika 5.9)."],
+    "weakeners_or_cancellations": ["Indicator weak: modest gains (Phaladeepika 5.9)."],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 5.7 (tr. Sastri)", "view": "10th lord in a Venus navamsa: earnings through a woman, cows, buffaloes, elephants, horses, music and dance, silver, scents, milk, ornaments, silks, as a companion to a king, or through poetry.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Brihat Jataka 10.3 with notes (tr. Sastri)", "view": "Venus as navamsa lord: dealing in rubies, silver and the like, and rearing cows and buffaloes. Notes: dealers in gold, rubies, horses; hotel-keepers, confectioners, musicians, painters, drapers, jewellers, players, embroiderers, scent dealers.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XIV", "view": "Venus refers to aesthetic professions (musicians, actors, singers, dancers, artists).", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Barbara Pijan Lama, commentary on Phaladeepika 5", "view": "Modern associations for Venus: music, women's concerns, finance and banking, design, deal-making, alliance-building and contract work.", "url": "https://www.barbarapijan.com/bpa/Vocation/bVocation_phaladeepika_Livelihood.htm"}
+    ],
+    "disagreements": "Brihat Jataka's list is short (gems, silver, cattle); Phaladeepika adds music, scents, ornaments, silk and poetry. Pijan Lama adds finance and contracts, which the classical lists do not name.",
+    "confidence": "high",
+    "phrasing_guidance": "Say: drawn to creative, aesthetic, hospitality or relationship-based work; avoid gendered framing.",
+    "conditional_results": []
+  },
+  {
+    "id": "profession/saturn",
+    "layer": "profession",
+    "key": {"planet": "Saturn"},
+    "summary": "Saturn as the indicator: steady work that rewards patience and effort, such as labour-intensive or service roles, construction, wood, mining, farming of roots and produce, craft and sculpture, and in modern readings large organisations and public systems.",
+    "themes": ["sustained effort", "service and labour", "construction and wood", "mining and land", "large organisations"],
+    "common_outcomes": [
+      "Dealing in roots and fruits, physical labour, through servants, carrying loads, sculpture and wooden goods (Phaladeepika 5.8).",
+      "Living by tiring work, carrying burdens, or enforcing punishments (Brihat Jataka 10.3).",
+      "Sastri's modern note: gardeners, miners and bricklayers among others (Brihat Jataka 10.3 notes)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 5.8 and Brihat Jataka 10.3 also list base or low pursuits, dealing in poor grain, and work as an executioner or butcher; Sastri's notes add shoemakers, scavengers, grave-diggers and undertakers."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Raman: Saturn refers to hard-working jobs; elsewhere in the same chapter Saturn in the 10th can give a ruler, judge or agriculturist working for the masses (How to Judge a Horoscope vol. 2 ch. XIV).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Indicator strong: gains come with less effort (Phaladeepika 5.9)."],
+    "weakeners_or_cancellations": ["Indicator weak: modest gains (Phaladeepika 5.9)."],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 5.8 (tr. Sastri)", "view": "10th lord in a Saturn navamsa: living by roots and fruits, physical exertion, through servants and low people, poor grains, carrying loads, base work, sculpture, wooden goods, or as an executioner or butcher.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Brihat Jataka 10.3 with notes (tr. Sastri)", "view": "Saturn as navamsa lord: living by wearisome work, carrying out punishments, bearing burdens, or some low pursuit. Notes: shoemakers, scavengers, grave-diggers, undertakers; also gardeners, miners, bricklayers.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 2, ch. XIV", "view": "Saturn refers to hard-working jobs.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Barbara Pijan Lama, commentary on Phaladeepika 5", "view": "Modern associations for Saturn: large corporations, bureaucracy, institutional systems and large rule-governed technical systems.", "url": "https://www.barbarapijan.com/bpa/Vocation/bVocation_phaladeepika_Livelihood.htm"}
+    ],
+    "disagreements": "Classical lists stress hard manual or low-status work; Raman elsewhere gives Saturn in the 10th high posts (ruler, judge), and Pijan Lama reads Saturn as large organisations and systems. The classical lists reflect an old social order.",
+    "confidence": "high",
+    "phrasing_guidance": "Say: success through discipline, persistence and structured or long-term work; never use 'low', 'base', 'executioner' or 'butcher' in a consumer report.",
+    "conditional_results": []
+  }
+]

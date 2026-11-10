@@ -1,0 +1,2077 @@
+[
+ {
+  "id": "transit/jupiter/1",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 1
+  },
+  "summary": "Jupiter over the natal Moon's own sign is an unfavourable transit in the classical texts: displacement from home, heavy spending, loss of money and judgment, and quarrels.",
+  "themes": [
+   "displacement",
+   "expenses",
+   "quarrels",
+   "poor judgment"
+  ],
+  "common_outcomes": [
+   "leaving one's place or country",
+   "heavy expenses and loss of wealth",
+   "quarrels and ill-will with others",
+   "loss of clear judgment"
+  ],
+  "rare_outcomes": [
+   "[maraka: text predicts danger to life / death], with loss of position and wealth (Phaladeepika 26.33: Jupiter in the 1st, 8th or 12th from the Moon)"
+  ],
+  "by_area": {
+   "personality": "Judgment and intelligence are said to suffer; prone to friction with others.",
+   "career": "May have to leave one's post or place.",
+   "finance": "Heavy expenses and loss of wealth.",
+   "health": "",
+   "relationships": "Many quarrels; ill-feeling towards others.",
+   "family": "",
+   "spirituality": ""
+  },
+  "strengtheners": [
+   "Jupiter exalted or in own sign (harmless here)",
+   "benefic aspect on transiting Jupiter",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "Jupiter debilitated, in an enemy sign or eclipsed (harm intensified)",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.18",
+    "view": "may leave his country, heavy expenses, ill-will towards others",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.25",
+    "view": "loss of wealth and of intelligence, leaving his place, many quarrels",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "not among Jupiter's good houses (26.7: 2, 11, 9, 5, 7; 26.2 lists 7, 9, 2, 5)",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Phaladeepika 26.33 (tr. V. Subrahmanya Sastri)",
+    "view": "Saturn, Sun, Mars or Jupiter in the 12th, 8th or 1st from the Moon threaten life, position and wealth",
+    "url": "https://www.siva.sh/phaladeepika/26/31-35"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "does not address this house for Jupiter",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "high",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "Jupiter does no harm in this unfavourable house"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a benefic",
+    "polarity": "good",
+    "effects": [
+     "the bad results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [
+   {
+    "remedy": "worship Jupiter with yellow flowers and give gifts of yellow substances",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.47"
+   },
+   {
+    "remedy": "honour Brahmins and the gods, perform expiatory rites, recite mantras and scripture, practise austerity, charity and self-restraint, and keep company with holy people",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.48"
+   },
+   {
+    "remedy": "prayers, mantras, shanti rites, vows, gifts and worship for the badly placed planet; planets favour the harmless, self-controlled and virtuous",
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.49-50"
+   }
+  ],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ },
+ {
+  "id": "transit/jupiter/2",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 2
+  },
+  "summary": "Jupiter in the 2nd from the Moon is a favourable transit: gain of money, happiness at home, respected speech and freedom from enemies.",
+  "themes": [
+   "wealth",
+   "family happiness",
+   "speech",
+   "victory over enemies"
+  ],
+  "common_outcomes": [
+   "gain of money",
+   "domestic happiness",
+   "one's words are respected",
+   "no enemies"
+  ],
+  "rare_outcomes": [],
+  "by_area": {
+   "personality": "Speech carries authority.",
+   "career": "",
+   "finance": "Gain of money and wealth.",
+   "health": "",
+   "relationships": "Gains in love or marriage (BS: 'women'); enemies subside.",
+   "family": "Domestic happiness.",
+   "spirituality": ""
+  },
+  "strengtheners": [
+   "no planet transiting the vedha house (12th from the Moon)",
+   "Jupiter exalted, in moolatrikona or in own sign",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "vedha from a planet in the 12th from the Moon",
+   "Jupiter debilitated, in an enemy sign or eclipsed",
+   "malefic or inimical aspect on transiting Jupiter",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.18",
+    "view": "gain of money, domestic happiness, his words carry weight",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.25",
+    "view": "free from enemies, gains wealth and women",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "Jupiter is good in this house from the Moon; its vedha house is the 12th",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "lists this among Jupiter's auspicious houses (marriage, children, wealth, fame)",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "high",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "12 in tr_vedha_houses",
+    "polarity": "bad",
+    "effects": [
+     "vedha: a planet transiting the 12th from the Moon obstructs the good results of Jupiter in the 2th"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.7; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV (vedhanka table; vedha does not operate between Sun-Saturn or Moon-Mercury, no exception given for Jupiter)"
+   },
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "gives the good results of this house in full"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the good results of this transit are lost"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.53"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the good results of this transit are lost"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.53 (inimical sign)"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a malefic or by a planet inimical to it",
+    "polarity": "bad",
+    "effects": [
+     "the good results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.52-53"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ },
+ {
+  "id": "transit/jupiter/3",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 3
+  },
+  "summary": "Jupiter in the 3rd from the Moon is unfavourable: loss or change of position, obstacles in work, separation from friends and some illness.",
+  "themes": [
+   "loss of position",
+   "obstacles in work",
+   "separation"
+  ],
+  "common_outcomes": [
+   "loss or change of position or place",
+   "obstacles in work and business",
+   "separation from friends"
+  ],
+  "rare_outcomes": [],
+  "by_area": {
+   "personality": "",
+   "career": "Loss of position; obstacles in work and business; may leave one's place.",
+   "finance": "",
+   "health": "Disease (PD).",
+   "relationships": "Separation from friends.",
+   "family": "",
+   "spirituality": ""
+  },
+  "strengtheners": [
+   "Jupiter exalted or in own sign (harmless here)",
+   "a planet in the 7th from the Moon (reverse vedha, Raman)",
+   "benefic aspect on transiting Jupiter",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "Jupiter debilitated, in an enemy sign or eclipsed (harm intensified)",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.18",
+    "view": "loss of position, separation from friends, obstacles in business, disease",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.26",
+    "view": "leaves his place, obstacles in his work",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "not among Jupiter's good houses (26.7: 2, 11, 9, 5, 7; 26.2 lists 7, 9, 2, 5)",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Phaladeepika 26.34 (tr. V. Subrahmanya Sastri)",
+    "view": "Jupiter in the 3rd is one of a set of placements bringing loss of honour and wealth, and danger to life, when the conditions are present",
+    "url": "https://www.siva.sh/phaladeepika/26/31-35"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "lists this among Jupiter's inauspicious houses (loss of status, health problems, anxiety)",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "high",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "7 in tr_vedha_houses",
+    "polarity": "good",
+    "effects": [
+     "reverse vedha: a planet transiting the 7th from the Moon holds back the adverse results of Jupiter in the 3th"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV (states the converse for the Sun and says the vedha points must be applied similarly to all planets)"
+   },
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "Jupiter does no harm in this unfavourable house"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a benefic",
+    "polarity": "good",
+    "effects": [
+     "the bad results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30"
+   },
+   {
+    "when": "manual: if the other placements listed with it in the verse are also present (Moon 8th, Mars 7th, Rahu 9th, Venus 6th, Sun 5th, Saturn 1st, Mercury 4th): 'if all the conditions exist'",
+    "polarity": "bad",
+    "effects": [
+     "loss of honour and wealth",
+     "[maraka: text predicts danger to life / death]"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.34 (the verse does not state the reference point)"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [
+   {
+    "remedy": "worship Jupiter with yellow flowers and give gifts of yellow substances",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.47"
+   },
+   {
+    "remedy": "honour Brahmins and the gods, perform expiatory rites, recite mantras and scripture, practise austerity, charity and self-restraint, and keep company with holy people",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.48"
+   },
+   {
+    "remedy": "prayers, mantras, shanti rites, vows, gifts and worship for the badly placed planet; planets favour the harmless, self-controlled and virtuous",
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.49-50"
+   }
+  ],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ },
+ {
+  "id": "transit/jupiter/4",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 4
+  },
+  "summary": "Jupiter in the 4th from the Moon is unfavourable: trouble and sorrow through relatives, humiliation and a joyless, resigned mood.",
+  "themes": [
+   "trouble from kin",
+   "humiliation",
+   "low mood"
+  ],
+  "common_outcomes": [
+   "sorrow or trouble caused by relatives",
+   "humiliation",
+   "resigned, joyless mood"
+  ],
+  "rare_outcomes": [
+   "danger from cattle (PD)"
+  ],
+  "by_area": {
+   "personality": "Becomes patient and resigned; takes delight in nothing.",
+   "career": "",
+   "finance": "",
+   "health": "",
+   "relationships": "Humiliation.",
+   "family": "Sorrow and trouble through relatives and kinsmen.",
+   "spirituality": ""
+  },
+  "strengtheners": [
+   "Jupiter exalted or in own sign (harmless here)",
+   "a planet in the 5th from the Moon (reverse vedha, Raman)",
+   "benefic aspect on transiting Jupiter",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "Jupiter debilitated, in an enemy sign or eclipsed (harm intensified)",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.18",
+    "view": "sorrow through relatives, humiliation, danger from cattle",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.26",
+    "view": "troubles from kinsmen; becomes patient and resigned, delights in nothing",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "not among Jupiter's good houses (26.7: 2, 11, 9, 5, 7; 26.2 lists 7, 9, 2, 5)",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "lists this among Jupiter's inauspicious houses (loss of status, health problems, anxiety)",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "high",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "5 in tr_vedha_houses",
+    "polarity": "good",
+    "effects": [
+     "reverse vedha: a planet transiting the 5th from the Moon holds back the adverse results of Jupiter in the 4th"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV (states the converse for the Sun and says the vedha points must be applied similarly to all planets)"
+   },
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "Jupiter does no harm in this unfavourable house"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a benefic",
+    "polarity": "good",
+    "effects": [
+     "the bad results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [
+   {
+    "remedy": "worship Jupiter with yellow flowers and give gifts of yellow substances",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.47"
+   },
+   {
+    "remedy": "honour Brahmins and the gods, perform expiatory rites, recite mantras and scripture, practise austerity, charity and self-restraint, and keep company with holy people",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.48"
+   },
+   {
+    "remedy": "prayers, mantras, shanti rites, vows, gifts and worship for the badly placed planet; planets favour the harmless, self-controlled and virtuous",
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.49-50"
+   }
+  ],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ },
+ {
+  "id": "transit/jupiter/5",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 5
+  },
+  "summary": "Jupiter in the 5th from the Moon is one of the best transits: children, prosperity, property and favour from those in authority, with good company and good qualities.",
+  "themes": [
+   "children",
+   "prosperity",
+   "favour of authority",
+   "virtue"
+  ],
+  "common_outcomes": [
+   "birth or happiness of children",
+   "prosperity, gold and property",
+   "favour from rulers or superiors",
+   "association with good people"
+  ],
+  "rare_outcomes": [],
+  "by_area": {
+   "personality": "Good qualities come forward.",
+   "career": "Royal favour; gains servants and helpers.",
+   "finance": "Prosperity: gold, gems, houses, animals.",
+   "health": "",
+   "relationships": "Company of good people.",
+   "family": "Sons / children.",
+   "spirituality": "Association with the virtuous."
+  },
+  "strengtheners": [
+   "no planet transiting the vedha house (4th from the Moon)",
+   "Jupiter exalted, in moolatrikona or in own sign",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "vedha from a planet in the 4th from the Moon",
+   "Jupiter debilitated, in an enemy sign or eclipsed",
+   "malefic or inimical aspect on transiting Jupiter",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.19",
+    "view": "children, company of good people, royal favour",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.27",
+    "view": "servants, prosperity, sons, animals, gold, houses, gems, good qualities",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "Jupiter is good in this house from the Moon; its vedha house is the 4th",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "lists this among Jupiter's auspicious houses (marriage, children, wealth, fame)",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "high",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "4 in tr_vedha_houses",
+    "polarity": "bad",
+    "effects": [
+     "vedha: a planet transiting the 4th from the Moon obstructs the good results of Jupiter in the 5th"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.7; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV (vedhanka table; vedha does not operate between Sun-Saturn or Moon-Mercury, no exception given for Jupiter)"
+   },
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "gives the good results of this house in full"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the good results of this transit are lost"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.53"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the good results of this transit are lost"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.53 (inimical sign)"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a malefic or by a planet inimical to it",
+    "polarity": "bad",
+    "effects": [
+     "the good results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.52-53"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ },
+ {
+  "id": "transit/jupiter/6",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 6
+  },
+  "summary": "Jupiter in the 6th from the Moon is unfavourable: trouble from enemies and cousins, illness and a heavy heart that finds no pleasure in things.",
+  "themes": [
+   "enemies",
+   "illness",
+   "heartache"
+  ],
+  "common_outcomes": [
+   "trouble from enemies and cousins",
+   "illness",
+   "deep sorrow, loss of enjoyment"
+  ],
+  "rare_outcomes": [],
+  "by_area": {
+   "personality": "Heavy-hearted; takes no pleasure in beauty, music or children's play.",
+   "career": "",
+   "finance": "",
+   "health": "Illness.",
+   "relationships": "Trouble from enemies.",
+   "family": "Trouble from cousins.",
+   "spirituality": ""
+  },
+  "strengtheners": [
+   "Jupiter exalted or in own sign (harmless here)",
+   "benefic aspect on transiting Jupiter",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "Jupiter debilitated, in an enemy sign or eclipsed (harm intensified)",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.19",
+    "view": "trouble from enemies and cousins, illness",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.28",
+    "view": "heartache so deep that beauty, music and children's play give no pleasure",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "not among Jupiter's good houses (26.7: 2, 11, 9, 5, 7; 26.2 lists 7, 9, 2, 5)",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "does not address this house for Jupiter",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "high",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "Jupiter does no harm in this unfavourable house"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a benefic",
+    "polarity": "good",
+    "effects": [
+     "the bad results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [
+   {
+    "remedy": "worship Jupiter with yellow flowers and give gifts of yellow substances",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.47"
+   },
+   {
+    "remedy": "honour Brahmins and the gods, perform expiatory rites, recite mantras and scripture, practise austerity, charity and self-restraint, and keep company with holy people",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.48"
+   },
+   {
+    "remedy": "prayers, mantras, shanti rites, vows, gifts and worship for the badly placed planet; planets favour the harmless, self-controlled and virtuous",
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.49-50"
+   }
+  ],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ },
+ {
+  "id": "transit/jupiter/7",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 7
+  },
+  "summary": "Jupiter in the 7th from the Moon is favourable: marital happiness, comforts, wealth, conveyance and journeys for good purposes.",
+  "themes": [
+   "marriage",
+   "comforts",
+   "wealth",
+   "auspicious travel"
+  ],
+  "common_outcomes": [
+   "happiness with spouse",
+   "comforts: good bed, food, conveyance",
+   "wealth",
+   "travel for an auspicious purpose"
+  ],
+  "rare_outcomes": [],
+  "by_area": {
+   "personality": "Good speech and intelligence.",
+   "career": "Journeys for an auspicious purpose.",
+   "finance": "Wealth.",
+   "health": "",
+   "relationships": "Happiness with the spouse; good spouse.",
+   "family": "Children (PD).",
+   "spirituality": ""
+  },
+  "strengtheners": [
+   "no planet transiting the vedha house (3th from the Moon)",
+   "Jupiter exalted, in moolatrikona or in own sign",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "vedha from a planet in the 3th from the Moon",
+   "Jupiter debilitated, in an enemy sign or eclipsed",
+   "malefic or inimical aspect on transiting Jupiter",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.19",
+    "view": "travel for an auspicious purpose, happiness with spouse, children",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.29",
+    "view": "good bed, good spouse, wealth, good food, conveyance; good speech and intelligence",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "Jupiter is good in this house from the Moon; its vedha house is the 3th",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "lists this among Jupiter's auspicious houses (marriage, children, wealth, fame)",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "high",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "3 in tr_vedha_houses",
+    "polarity": "bad",
+    "effects": [
+     "vedha: a planet transiting the 3th from the Moon obstructs the good results of Jupiter in the 7th"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.7; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV (vedhanka table; vedha does not operate between Sun-Saturn or Moon-Mercury, no exception given for Jupiter)"
+   },
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "gives the good results of this house in full"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the good results of this transit are lost"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.53"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the good results of this transit are lost"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.53 (inimical sign)"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a malefic or by a planet inimical to it",
+    "polarity": "bad",
+    "effects": [
+     "the good results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.52-53"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ },
+ {
+  "id": "transit/jupiter/8",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 8
+  },
+  "summary": "Jupiter in the 8th from the Moon is unfavourable: tiring journeys, illness, grief and loss of money, with the texts listing confinement among the dangers.",
+  "themes": [
+   "illness",
+   "grief",
+   "loss",
+   "tiring travel"
+  ],
+  "common_outcomes": [
+   "tiring, fruitless journeys",
+   "illness",
+   "grief and misery",
+   "loss of money"
+  ],
+  "rare_outcomes": [
+   "imprisonment or confinement (BS)",
+   "[maraka: text predicts danger to life / death], with loss of position and wealth (Phaladeepika 26.33: Jupiter in the 1st, 8th or 12th from the Moon)"
+  ],
+  "by_area": {
+   "personality": "",
+   "career": "Misfortune in undertakings.",
+   "finance": "Loss of money.",
+   "health": "Disease, serious illness (BS).",
+   "relationships": "",
+   "family": "",
+   "spirituality": ""
+  },
+  "strengtheners": [
+   "Jupiter exalted or in own sign (harmless here)",
+   "a planet in the 11th from the Moon (reverse vedha, Raman)",
+   "benefic aspect on transiting Jupiter",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "Jupiter debilitated, in an enemy sign or eclipsed (harm intensified)",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.19",
+    "view": "exhausting journeys, misfortune, loss of money, misery",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.30",
+    "view": "imprisonment, disease, grief, fatigue of travel, serious illness",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "not among Jupiter's good houses (26.7: 2, 11, 9, 5, 7; 26.2 lists 7, 9, 2, 5)",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Phaladeepika 26.33 (tr. V. Subrahmanya Sastri)",
+    "view": "Saturn, Sun, Mars or Jupiter in the 12th, 8th or 1st from the Moon threaten life, position and wealth",
+    "url": "https://www.siva.sh/phaladeepika/26/31-35"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "lists this among Jupiter's inauspicious houses (loss of status, health problems, anxiety)",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "high",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "11 in tr_vedha_houses",
+    "polarity": "good",
+    "effects": [
+     "reverse vedha: a planet transiting the 11th from the Moon holds back the adverse results of Jupiter in the 8th"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV (states the converse for the Sun and says the vedha points must be applied similarly to all planets)"
+   },
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "Jupiter does no harm in this unfavourable house"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a benefic",
+    "polarity": "good",
+    "effects": [
+     "the bad results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [
+   {
+    "remedy": "worship Jupiter with yellow flowers and give gifts of yellow substances",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.47"
+   },
+   {
+    "remedy": "honour Brahmins and the gods, perform expiatory rites, recite mantras and scripture, practise austerity, charity and self-restraint, and keep company with holy people",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.48"
+   },
+   {
+    "remedy": "prayers, mantras, shanti rites, vows, gifts and worship for the badly placed planet; planets favour the harmless, self-controlled and virtuous",
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.49-50"
+   }
+  ],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ },
+ {
+  "id": "transit/jupiter/9",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 9
+  },
+  "summary": "Jupiter in the 9th from the Moon is among the best transits: success, influence, wealth and children.",
+  "themes": [
+   "success",
+   "fortune",
+   "influence",
+   "children"
+  ],
+  "common_outcomes": [
+   "success in undertakings",
+   "gain of wealth",
+   "rise in capability and influence",
+   "children"
+  ],
+  "rare_outcomes": [],
+  "by_area": {
+   "personality": "Capable and influential.",
+   "career": "Success in work.",
+   "finance": "Wealth and grain; general prosperity.",
+   "health": "",
+   "relationships": "",
+   "family": "Sons / children (BS).",
+   "spirituality": ""
+  },
+  "strengtheners": [
+   "no planet transiting the vedha house (10th from the Moon)",
+   "Jupiter exalted, in moolatrikona or in own sign",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "vedha from a planet in the 10th from the Moon",
+   "Jupiter debilitated, in an enemy sign or eclipsed",
+   "malefic or inimical aspect on transiting Jupiter",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.20",
+    "view": "success in all prosperity",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.30",
+    "view": "becomes capable and influential; gains sons, success, wealth and grain",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "Jupiter is good in this house from the Moon; its vedha house is the 10th",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "lists this among Jupiter's auspicious houses (marriage, children, wealth, fame)",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "high",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "10 in tr_vedha_houses",
+    "polarity": "bad",
+    "effects": [
+     "vedha: a planet transiting the 10th from the Moon obstructs the good results of Jupiter in the 9th"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.7; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV (vedhanka table; vedha does not operate between Sun-Saturn or Moon-Mercury, no exception given for Jupiter)"
+   },
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "gives the good results of this house in full"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the good results of this transit are lost"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.53"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the good results of this transit are lost"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.53 (inimical sign)"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a malefic or by a planet inimical to it",
+    "polarity": "bad",
+    "effects": [
+     "the good results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.52-53"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ },
+ {
+  "id": "transit/jupiter/10",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 10
+  },
+  "summary": "Jupiter in the 10th from the Moon is unfavourable: threats to position and property, leaving one's place, and loss of health and wealth.",
+  "themes": [
+   "position",
+   "loss",
+   "displacement"
+  ],
+  "common_outcomes": [
+   "danger to one's position",
+   "leaving one's place",
+   "loss of wealth and property",
+   "loss of health"
+  ],
+  "rare_outcomes": [],
+  "by_area": {
+   "personality": "",
+   "career": "Danger to position; may have to leave one's place.",
+   "finance": "Danger to property; loss of wealth.",
+   "health": "Loss of health (BS).",
+   "relationships": "",
+   "family": "Danger to children (PD).",
+   "spirituality": ""
+  },
+  "strengtheners": [
+   "Jupiter exalted or in own sign (harmless here)",
+   "a planet in the 9th from the Moon (reverse vedha, Raman)",
+   "benefic aspect on transiting Jupiter",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "Jupiter debilitated, in an enemy sign or eclipsed (harm intensified)",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.20",
+    "view": "danger to property, position and children",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.31",
+    "view": "leaves his place; loss of health and wealth",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "not among Jupiter's good houses (26.7: 2, 11, 9, 5, 7; 26.2 lists 7, 9, 2, 5)",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "lists this among Jupiter's inauspicious houses (loss of status, health problems, anxiety)",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "high",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "9 in tr_vedha_houses",
+    "polarity": "good",
+    "effects": [
+     "reverse vedha: a planet transiting the 9th from the Moon holds back the adverse results of Jupiter in the 10th"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV (states the converse for the Sun and says the vedha points must be applied similarly to all planets)"
+   },
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "Jupiter does no harm in this unfavourable house"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a benefic",
+    "polarity": "good",
+    "effects": [
+     "the bad results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [
+   {
+    "remedy": "worship Jupiter with yellow flowers and give gifts of yellow substances",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.47"
+   },
+   {
+    "remedy": "honour Brahmins and the gods, perform expiatory rites, recite mantras and scripture, practise austerity, charity and self-restraint, and keep company with holy people",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.48"
+   },
+   {
+    "remedy": "prayers, mantras, shanti rites, vows, gifts and worship for the badly placed planet; planets favour the harmless, self-controlled and virtuous",
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.49-50"
+   }
+  ],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ },
+ {
+  "id": "transit/jupiter/11",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 11
+  },
+  "summary": "Jupiter in the 11th from the Moon is favourable: new position and honour, recovery of health and wealth, children and return home.",
+  "themes": [
+   "gains",
+   "honour",
+   "recovery",
+   "new position"
+  ],
+  "common_outcomes": [
+   "new position or rise",
+   "honour",
+   "recovery of health and wealth",
+   "return to one's home"
+  ],
+  "rare_outcomes": [],
+  "by_area": {
+   "personality": "",
+   "career": "New position; honour.",
+   "finance": "Recovery of wealth.",
+   "health": "Recovery of health (BS).",
+   "relationships": "",
+   "family": "Children (PD); return to homeland (BS).",
+   "spirituality": ""
+  },
+  "strengtheners": [
+   "no planet transiting the vedha house (8th from the Moon)",
+   "Jupiter exalted, in moolatrikona or in own sign",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "vedha from a planet in the 8th from the Moon",
+   "Jupiter debilitated, in an enemy sign or eclipsed",
+   "malefic or inimical aspect on transiting Jupiter",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.20",
+    "view": "children, new position, honour",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.31",
+    "view": "return to his homeland; recovers health and wealth",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "Jupiter is good in this house from the Moon; its vedha house is the 8th",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "lists this among Jupiter's auspicious houses (marriage, children, wealth, fame)",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "high",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "8 in tr_vedha_houses",
+    "polarity": "bad",
+    "effects": [
+     "vedha: a planet transiting the 8th from the Moon obstructs the good results of Jupiter in the 11th"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.7; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV (vedhanka table; vedha does not operate between Sun-Saturn or Moon-Mercury, no exception given for Jupiter)"
+   },
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "gives the good results of this house in full"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the good results of this transit are lost"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.53"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the good results of this transit are lost"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.53 (inimical sign)"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a malefic or by a planet inimical to it",
+    "polarity": "bad",
+    "effects": [
+     "the good results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30; Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.52-53"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ },
+ {
+  "id": "transit/jupiter/12",
+  "layer": "transit",
+  "key": {
+   "planet": "Jupiter",
+   "house_from_moon": 12
+  },
+  "summary": "Jupiter in the 12th from the Moon is unfavourable: grief and anxiety, especially connected with travel.",
+  "themes": [
+   "grief",
+   "anxiety",
+   "travel"
+  ],
+  "common_outcomes": [
+   "grief",
+   "worry and fear",
+   "troubles on journeys"
+  ],
+  "rare_outcomes": [
+   "[maraka: text predicts danger to life / death], with loss of position and wealth (Phaladeepika 26.33: Jupiter in the 1st, 8th or 12th from the Moon)"
+  ],
+  "by_area": {
+   "personality": "Anxious, grieving.",
+   "career": "",
+   "finance": "",
+   "health": "",
+   "relationships": "",
+   "family": "",
+   "spirituality": ""
+  },
+  "strengtheners": [
+   "Jupiter exalted or in own sign (harmless here)",
+   "a planet in the 2th from the Moon (reverse vedha, Raman)",
+   "benefic aspect on transiting Jupiter",
+   "many bindus for the sign in Jupiter's ashtakavarga"
+  ],
+  "weakeners_or_cancellations": [
+   "Jupiter debilitated, in an enemy sign or eclipsed (harm intensified)",
+   "few bindus for the sign"
+  ],
+  "lagna_or_context_notes": "Phaladeepika 26.1: transits are judged from the Moon's sign. Raman: the birth chart, the running dasa/bhukti and ashtakavarga modify transit results, and Jupiter's sign-to-sign transit gives the yearly results. P.V.R. Narasimha Rao: a stationary Jupiter acts strongly on natal points it touches, well from kendras/trikonas of the lagna and badly from dusthanas, and his examples weigh whether Jupiter is a functional benefic in that chart. The Jupiter-Saturn double transit (both aspecting a house, counted from the lagna) is taught in K.N. Rao's school (via summary).",
+  "source_views": [
+   {
+    "source": "Phaladeepika (tr. V. Subrahmanya Sastri) 26.20",
+    "view": "grief and fear (the OCR reads 'arising from property'; wording uncertain)",
+    "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+   },
+   {
+    "source": "Brihat Samhita (tr. N. Chidambaram Iyer) 104.31",
+    "view": "grief during the return journey",
+    "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+   },
+   {
+    "source": "Phaladeepika 26.2, 26.7 (tr. V. Subrahmanya Sastri)",
+    "view": "not among Jupiter's good houses (26.7: 2, 11, 9, 5, 7; 26.2 lists 7, 9, 2, 5)",
+    "url": "https://www.siva.sh/phaladeepika/26/6-10"
+   },
+   {
+    "source": "Phaladeepika 26.33 (tr. V. Subrahmanya Sastri)",
+    "view": "Saturn, Sun, Mars or Jupiter in the 12th, 8th or 1st from the Moon threaten life, position and wealth",
+    "url": "https://www.siva.sh/phaladeepika/26/31-35"
+   },
+   {
+    "source": "Jataka Sara Dipa ch. 44 (via summary: blog paraphrase without verse numbers)",
+    "view": "lists this among Jupiter's inauspicious houses (loss of status, health problems, anxiety)",
+    "url": "https://theeyeofvedas.blogspot.com/2025/11/chapter-44-gochara-phala-adhyaya.html"
+   },
+   {
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV",
+    "view": "gives the same house results as Brihat Samhita; Jupiter's transit shows the yearly effects; transit results must be blended with ashtakavarga bindus, vedha, the running dasa/bhukti and the birth chart",
+    "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+   }
+  ],
+  "disagreements": "Phaladeepika 26.2 and Brihat Samhita 104.4 give Jupiter's good houses as 2, 5, 7, 9 only, while Phaladeepika 26.7 and Brihat Samhita 104.31 also make the 11th good. The vedha pairs (2-12, 5-4, 7-3, 9-10, 11-8) come from Phaladeepika 26.7; reading the same pairs in reverse for the bad houses is Raman's general extension. Bindu thresholds differ (Raman: above 4 in the planet's own ashtakavarga; above 30 in the sarvashtakavarga).",
+  "confidence": "medium",
+  "phrasing_guidance": "Present this as a year-long background tone, not a fixed outcome, and say that the dasha, vedha and ashtakavarga can change it. For difficult houses frame it as a time to be careful with money, travel, relationships or health; never predict death, imprisonment or illness as certain, and offer the sourced remedies gently.",
+  "conditional_results": [
+   {
+    "when": "2 in tr_vedha_houses",
+    "polarity": "good",
+    "effects": [
+     "reverse vedha: a planet transiting the 2th from the Moon holds back the adverse results of Jupiter in the 12th"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV (states the converse for the Sun and says the vedha points must be applied similarly to all planets)"
+   },
+   {
+    "when": "tr_dignity in ['exalted', 'moolatrikona', 'own']",
+    "polarity": "good",
+    "effects": [
+     "Jupiter does no harm in this unfavourable house"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.31"
+   },
+   {
+    "when": "tr_dignity == 'debilitated'",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is in an enemy's sign or eclipsed",
+    "polarity": "bad",
+    "effects": [
+     "the harm of this unfavourable transit is intensified"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.32"
+   },
+   {
+    "when": "manual: if transiting Jupiter is aspected by a benefic",
+    "polarity": "good",
+    "effects": [
+     "the bad results become void"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.30"
+   },
+   {
+    "when": "manual: if the transited sign has many benefic bindus in Jupiter's own ashtakavarga (Raman: above 4)",
+    "polarity": "good",
+    "effects": [
+     "good results, even in the 6th, 8th or 12th from the Moon"
+    ],
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.41; B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has few bindus in Jupiter's ashtakavarga (below 4)",
+    "polarity": "bad",
+    "effects": [
+     "the transit cannot give the good ascribed to it"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXXIV"
+   },
+   {
+    "when": "manual: if the transited sign has more than 30 bindus in the sarvashtakavarga",
+    "polarity": "good",
+    "effects": [
+     "planets transiting it give happiness, wealth, peace of mind and prosperity (25-30 neither good nor bad; under 25 very bad)"
+    ],
+    "source": "B.V. Raman, Hindu Predictive Astrology, Ashtakavarga chapter, rule 41"
+   },
+   {
+    "when": "manual: if Jupiter is stationary (turning retrograde or direct) in a kendra or trikona from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "good",
+    "effects": [
+     "triggers good results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: if Jupiter is stationary in a dusthana (6, 8, 12) from the natal lagna of the rasi or the relevant divisional chart",
+    "polarity": "bad",
+    "effects": [
+     "triggers bad results tied to the natal planets or points it conjoins or aspects within about 7 degrees"
+    ],
+    "source": "P.V.R. Narasimha Rao, Stationary Planets in Transit (2009), 'Principle'"
+   },
+   {
+    "when": "manual: double transit - transiting Jupiter and transiting Saturn both aspect (or occupy) the same sign at the same time",
+    "polarity": "mixed",
+    "effects": [
+     "matters of that house (counted from the lagna in the examples) come to the fore; stronger where natal Jupiter and Saturn also both aspect that house; only delivers when the dasha and yogas support it"
+    ],
+    "source": "LOVA Institute, The Double Transit Effect of Jupiter and Saturn (presented as K.N. Rao's teaching; K.N. Rao via summary)"
+   }
+  ],
+  "remedies": [
+   {
+    "remedy": "worship Jupiter with yellow flowers and give gifts of yellow substances",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.47"
+   },
+   {
+    "remedy": "honour Brahmins and the gods, perform expiatory rites, recite mantras and scripture, practise austerity, charity and self-restraint, and keep company with holy people",
+    "source": "Brihat Samhita 104 (tr. N. Chidambaram Iyer) 104.48"
+   },
+   {
+    "remedy": "prayers, mantras, shanti rites, vows, gifts and worship for the badly placed planet; planets favour the harmless, self-controlled and virtuous",
+    "source": "Phaladeepika 26 (tr. V. Subrahmanya Sastri) 26.49-50"
+   }
+  ],
+  "phases": "Phaladeepika 26.25: Jupiter (with Venus) gives its transit results mainly while in the middle third (second decanate) of the sign."
+ }
+]

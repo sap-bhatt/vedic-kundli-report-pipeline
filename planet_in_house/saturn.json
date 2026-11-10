@@ -1,0 +1,1163 @@
+[
+  {
+    "id": "planet_in_house/saturn/1",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 1
+    },
+    "summary": "In the lagna Saturn is judged chiefly by sign: in its own or exaltation sign (and, per some texts, Jupiter's signs) the classics promise rank like a village or city head; elsewhere they describe a hard, slow start, low vitality and a sober, serious temperament.",
+    "themes": [
+      "dignity-dependent results",
+      "slow start in life",
+      "seriousness and self-discipline",
+      "health and vitality"
+    ],
+    "common_outcomes": [
+      "Serious, grave, patient temperament; progress slow but steady (Raman HJH)",
+      "Difficult childhood or early misfortune when Saturn is not in a dignified sign (Phaladeepika 8.20; Saravali 30.74; Raman HJH)",
+      "Leaning, thin or low-vitality constitution in the classical descriptions (Brihat Jataka 20.9; Raman HJH; Braha)",
+      "Indolence or inactive habits named by several texts (Phaladeepika 8.20; Saravali 30.74; Raman HJH)"
+    ],
+    "rare_outcomes": [
+      "Status equal to a king, chief or city head when Saturn is in own/exaltation sign in the lagna (Phaladeepika 8.20; Saravali 30.74; Brihat Jataka 20.9 adds Sagittarius and Pisces and calls the native a scholar and handsome)",
+      "Bhrigu Sutras 1-7: in the sign of the 4th or 10th lord the native is very fortunate (Maharaja yoga); in Libra, lordship over a village/town with agricultural prosperity",
+      "Bhrigu Sutras 1-7: Saturn in the lagna aspected by the Moon (with no benefic aspect) is said to make one live by begging",
+      "Chamatkar Chintamani (via Bhrigu Sutras commentary): large properties and prosperity, but greedy and narrow-minded; humiliates enemies"
+    ],
+    "by_area": {
+      "personality": "Calm, grave and serious; self-confidence justified and moral stability marked when Saturn is unafflicted; may copy foreign customs (Raman HJH). Braha: mature, disciplined, humble, with an ascetic, non-attached streak.",
+      "career": "Progress in any venture slow but certain; losses through negligence or missed opportunity are possible (Raman HJH). Well placed, Braha says the person can become a leader or politician of high status.",
+      "finance": "Poverty or indigence is the classical complaint outside own/exaltation signs (Phaladeepika 8.20; Brihat Jataka 20.9); Bhrigu Sutras gives agricultural and financial prosperity in Libra.",
+      "health": "Rheumatic and bilious complaints (Bhrigu Sutras 1); childhood illness (Brihat Jataka 20.9; Saravali 30.74); weak, emaciated body (Raman HJH); bone-related ailments and thinness (Braha).",
+      "relationships": "Saturn's aspect from the lagna falls on the 7th, which Braha says harms married life.",
+      "family": "",
+      "spirituality": "Braha: Saturn here gives an ascetic, non-attached nature that cares little for worldly desire."
+    },
+    "strengtheners": [
+      "Saturn in Libra, Capricorn or Aquarius in the lagna (Phaladeepika 8.20; Saravali 30.74; Brihat Jataka 20.9)",
+      "Saturn in Sagittarius or Pisces in the lagna (Brihat Jataka 20.9; Uttara Kalamrita 4.16 says Saturn in a Jupiter sign does only good even in the lagna)",
+      "Saturn in the lagna in the sign of the 4th or 10th lord, i.e. Sagittarius or Pisces lagna (Bhrigu Sutras 1-7 with commentary)",
+      "Benefic (Jupiter/Venus) aspect cancels the Moon-aspect 'begging' result (Bhrigu Sutras 1-7)",
+      "Own or exaltation sign in a kendra forms Sasa yoga (Bhrigu Sutras commentary)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn in Aries (debilitated) in the lagna: sickly, low vitality and ambition, poor start in life (Braha)",
+      "Any sign other than own/exaltation (or Jupiter's) brings the hardship version (Phaladeepika 8.20; Brihat Jataka 20.9; Saravali 30.74)",
+      "Affliction to Saturn removes the 'welfare of others' quality and leaves the foreign-imitation trait (Raman HJH)",
+      "Moon's aspect on lagna-Saturn without benefic aspect (Bhrigu Sutras 1-7)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Saturn rising in Libra is yogakaraka (lord of 4th and 5th) for Libra lagna; Capricorn lagna is better than Aquarius lagna because in Aquarius Saturn also rules the 12th. Raman HJH says the same results follow if Saturn only aspects the lagna. Braha: effects intensify the closer Saturn is to the ascendant degree; Saturn 'gives its full effects in the 36th year'.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.20 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Own or exaltation sign in the lagna: on a par with a king, chief or mayor. Any other sign: sorrow and misery from childhood, indigence, slovenliness and indolence.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 (tr. V. Subrahmanya Sastri)",
+        "view": "Outside Sagittarius, Pisces, Aquarius, Capricorn and Libra: poor, sickly, love-stricken, unclean, ill in childhood, indistinct speech. In those five signs: equal to a king, village headman or city mayor, learned and handsome.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.74 (tr. R. Santhanam)",
+        "view": "Own or exaltation sign: equals a king or heads a country or city; other signs: misery in boyhood, unclean disposition, indolence.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Uttara Kalamrita (Kalidasa) Kanda I, section 4, sloka 16 (tr. S.S. Sareen)",
+        "view": "Saturn in exaltation, own sign or a sign of Jupiter does only good even if in the lagna.",
+        "url": "https://archive.org/details/uttara-kalamrita-kalidas"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8 (Saturn), sutras 1-7 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rheumatic and bilious diseases; in Libra, lordship of village/town and agricultural prosperity; in own sign, a rich father; in the sign of the 4th/10th lord, Maharaja yoga; aspected by the Moon (no benefic aspect), livelihood by begging. Commentator adds that Saturn in the lagna generally gives prosperity and long life and that own/exalted Saturn here forms Sasa yoga.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 1st house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Large properties and prosperity, but greedy, sorrowful and narrow-minded; humiliates enemies.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the first house ('Planets in the First House')",
+        "view": "Foreign customs easily copied; if unafflicted, concern for others' welfare, justified self-confidence, moral stability; calm, grave and serious; body weak; slow but certain progress; some aversion to responsibility; inactive habits; early-life misfortunes. Same if Saturn aspects the lagna.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Lists foreign habits, a strong but cunning and thrifty mind, aspiring and curious nature, sickliness and flatulence among the traits, alongside several moral faults.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 1st house' section",
+        "view": "Health problems, delays and ups and downs unless well placed; Libra, Capricorn, Aquarius, Sagittarius and Pisces give a very long life and leadership; thin, bone ailments, slow and serious; aspect on 7th harms marriage; ascetic and non-attached; debilitated in Aries the person is sickly and starts life badly.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Which signs count as 'good' differs: Phaladeepika and Saravali name only own and exaltation signs; Brihat Jataka adds Sagittarius and Pisces; Uttara Kalamrita names Jupiter's signs generally. Bhrigu Sutras emphasises disease and a rich father in own sign, which its own commentator questions (the 1st house does not signify father). Raman HJH gives a largely positive character picture (moral stability, steady progress), while Raman's Hindu Predictive Astrology lists mostly negative traits for the same placement.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with dignity: if Saturn is in Libra, Capricorn, Aquarius, Sagittarius or Pisces, describe steady, earned authority. Otherwise frame it as a slow start that improves with age and discipline. Avoid predicting poverty, illness or begging; speak of energy management and patience, never of disease."
+  },
+  {
+    "id": "planet_in_house/saturn/2",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 2
+    },
+    "summary": "Saturn in the 2nd strains early finances, family warmth and speech, with several texts promising wealth and comforts later, often away from the native place; for lagnas where Saturn is a functional benefic the financial picture is reversed.",
+    "themes": [
+      "earning through effort",
+      "speech and face",
+      "family life",
+      "later-life or foreign gains"
+    ],
+    "common_outcomes": [
+      "Money comes slowly and with much work (Raman HJH; Braha; Bhrigu Sutras 8-9)",
+      "Harsh or reserved speech; unsocial manner (Raman HJH; Hindu Predictive Astrology; Chamatkar Chintamani via Bhrigu Sutras)",
+      "Unattractive or afflicted face, or mouth/eye complaints (Phaladeepika 8.21; Saravali 30.75; Bhrigu Sutras 8-9; Braha)",
+      "Wealth, vehicles and comforts later in life, often after moving away or abroad (Phaladeepika 8.21; Saravali 30.75; Chamatkar Chintamani; Braha)"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka (Sun's 2nd-house result applied to Saturn): immensely rich but deprived of wealth by the ruler",
+      "Bhrigu Sutras 8-9: two marriages; with a malefic, misconduct with women and charge of a religious institution (matha); no lands",
+      "Gains through metals, storage, mines and labour (Raman HJH); coal, wood, metal, mining (Braha)"
+    ],
+    "by_area": {
+      "personality": "Harsh in speech, unsocial and sorrowful, coming across many opportunities but seldom taking them (Raman HJH).",
+      "career": "Gain by dealing with metals, storage, mines or labour (Raman HJH); hard-labour trades (Braha).",
+      "finance": "Earning is an uphill struggle, much work for little gain, unless the 2nd is Libra, Capricorn or Aquarius (Raman HJH); financial stringency (Bhrigu Sutras 8-9); later accumulation (Phaladeepika 8.21; Saravali 30.75).",
+      "health": "Eye trouble (Bhrigu Sutras 8-9); right-eye, mouth, teeth or gum complaints (Braha); disease of the face (Brihat Jataka via 20.1).",
+      "relationships": "Bhrigu Sutras 8-9 speaks of two marriages; Hindu Predictive Astrology also lists two wives.",
+      "family": "Unhappy family life (Raman HJH; Braha); 'devoid of his own men' (Saravali 30.75).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn in Libra, Capricorn or Aquarius in the 2nd: slow but steady wealth, learning, dedication to family (Raman HJH; Braha)",
+      "Lagnas where Saturn rules good houses: Aries, Taurus, Virgo, Libra, Scorpio, Sagittarius, Capricorn (Bhrigu Sutras commentary); Libra, Virgo, Taurus, Capricorn (Braha)",
+      "Saturn lord of a good house in the 2nd lets the late-life prosperity of Phaladeepika/Saravali materialise (Bhrigu Sutras commentary)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn in Aries in the 2nd: poverty, hard or deceitful work, disturbed family, eye defect (Braha)",
+      "Association with a malefic (Bhrigu Sutras 8-9)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary gives a lagna-by-lagna list where Saturn in the 2nd still brings good finances (e.g. Taurus lagna: Saturn as 9th-10th lord; Libra lagna: 4th-5th lord). Braha notes Saturn's aspect on the 8th from here supports longevity and that full effects show around the 36th year.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.21 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Ugly face, without wealth, follows improper ways; later in life lives in a foreign country with vehicles, wealth and enjoyments.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 with 20.1 (tr. V. Subrahmanya Sastri)",
+        "view": "Brihat Jataka 20.9 gives Saturn's lagna result explicitly and says that in the other houses Saturn gives the same results as the Sun (20.1-3): immensely rich but deprived of wealth by the ruler, with diseases of the face.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.75 (tr. R. Santhanam)",
+        "view": "Ugly face, enjoys worldly prosperity, devoid of his own people, dispenses justice; later goes to other countries and earns money and conveyances.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8, sutras 8-9 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Financial stringency, two wives, no lands, eye troubles; with a malefic, misconduct with women and charge of a matha. Commentator lists lagnas where finances will nonetheless be good.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 2nd house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Harsh speech; acquires wealth after separating from family and leaving the native place.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the second house ('Planets in the Second House')",
+        "view": "Unless the 2nd is Libra, Capricorn or Aquarius, earning is uphill; harsh speech, unsocial, sorrowful, aimless; unhappy family life; gains through metals, storage, mines, labour; unpopular.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Two wives, diseased face, unpopular, broken education, weak sight, unsocial, harsh or stammering speech, fondness for drink.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 2nd house' section",
+        "view": "Poor and hard-working for money, education suffers, mouth/teeth/right-eye issues, family life marred; long-lived; earns from coal, wood, metal, mining; leaves native place later. Negatives do not apply for Libra, Virgo, Taurus or Capricorn lagnas; in own/exaltation, slow steady wealth and learning.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka (via the Sun rule) makes the native very rich though wealth is taken by the ruler, and Saravali says he 'enjoys worldly prosperity', whereas Phaladeepika, Bhrigu Sutras, Raman and Braha describe early poverty or uphill earning. Most agree on later or foreign gains. Raman excepts Libra/Capricorn/Aquarius in the 2nd; Braha and the Bhrigu Sutras commentator except whole lagnas instead.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe money as built slowly through persistence, with improvement later in life or after relocation. Speak of measured, careful speech rather than 'harsh' speech. Do not predict two marriages; mention family responsibilities gently."
+  },
+  {
+    "id": "planet_in_house/saturn/3",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 3
+    },
+    "summary": "Saturn in the 3rd, an upachaya house, is broadly favourable: courage, intelligence and eventual success after early setbacks, while relations with (especially younger) siblings tend to be distant or burdened.",
+    "themes": [
+      "courage and persistence",
+      "siblings",
+      "intelligence",
+      "late success"
+    ],
+    "common_outcomes": [
+      "Courageous, bold and enduring (Saravali 30.76; Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Good intellect (Phaladeepika 8.21; Brihat Jataka via 20.2; Saravali 30.76)",
+      "Loss, absence or strain with brothers/younger siblings (Bhrigu Sutras 10-13; Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Success only after disappointments and reverses; improves with age (Raman HJH; Braha)"
+    ],
+    "rare_outcomes": [
+      "Honoured by rulers; may head local boards or municipalities and protect many (Raman HJH)",
+      "Phaladeepika 8.21: happy with his wife, generous, yet inactive and overcome with sorrow",
+      "Bhrigu Sutras 10-13: livelihood through undesirable trades; in own/exaltation sign many brothers",
+      "Literary or communication talent (Braha)"
+    ],
+    "by_area": {
+      "personality": "Brave, eccentric, prone to gloom and misgiving that lifts with age (Raman HJH); conservative in action, strong-willed (Braha); intelligent and charitable (Saravali 30.76).",
+      "career": "May become head of local bodies (Raman HJH); success late, hard physical work possible, talent in writing or communications (Braha).",
+      "finance": "Wealthy (Raman HJH; Hindu Predictive Astrology); Bhrigu Sutras commentary: a malefic in an upachaya house gives wealth.",
+      "health": "Possible right-ear problem (Braha).",
+      "relationships": "Phaladeepika 8.21: happy with his wife.",
+      "family": "Sorrow through brothers or loss of brothers (Raman HJH; Bhrigu Sutras 10-13); enmity with siblings if Saturn is with a malefic (Bhrigu Sutras 10-13); few younger siblings, relations distant (Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn in own sign or exaltation: many brothers (Bhrigu Sutras 10-13); powerful, motivated, gradually rising (Braha)",
+      "General rule that malefics thrive in upachaya houses (Bhrigu Sutras commentary; Braha; Uttara Kalamrita 4.16)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn afflicted: despondency can deepen into mental affliction (Raman HJH)",
+      "Saturn with a malefic: hostility to siblings (Bhrigu Sutras 10-13)",
+      "Saturn in Aries: suffering through siblings, stagnant life, efforts fail (Braha)"
+    ],
+    "lagna_or_context_notes": "Saturn here aspects the 5th, 9th and 12th. Uttara Kalamrita 4.16 states malefics are auspicious in upachaya houses (3, 6, 10, 11).",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.21 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Very intelligent, liberal, happy with his wife, but inactive and overcome with sorrow.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 with 20.2 (tr. V. Subrahmanya Sastri)",
+        "view": "Brihat Jataka 20.9 gives Saturn's lagna result explicitly and says that in the other houses Saturn gives the same results as the Sun (20.1-3): a good intellect and great strength.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.76 (tr. R. Santhanam)",
+        "view": "Dark complexion, physically clean, base, with indolent attendants, courageous, charitable and highly intelligent.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8, sutras 10-13 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Loss of (or no younger) brothers, livelihood through undesirable trades; own/exaltation sign gives many brothers; with a malefic, enmity towards brothers. Commentator: as a malefic in an upachaya house Saturn makes one courageous and wealthy.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 3rd house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Unhappy on account of brothers; ambitious; a good orator; many obstacles in life.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the third house ('Planets in the Third House')",
+        "view": "Brave, wealthy, loss of brothers, eccentric; honoured by rulers, may head local bodies, protects many; success only after reverses; gloomy mind that improves with age.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Intelligent, wealthy, loss of brothers, polite, adventurous, bold, eccentric, courageous, obliging; agriculture.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 3rd house' section",
+        "view": "Few or distant younger siblings; desires succeed only after initial failures; hard work with no help; courageous and protective; literary or arts talent; possible right-ear issue.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Phaladeepika alone calls the native inactive and sorrowful despite intelligence; the others stress courage and effort. Bhrigu Sutras says own/exalted Saturn gives many brothers, while Braha says even then siblings are few (but of good character).",
+    "confidence": "high",
+    "phrasing_guidance": "Present this as a placement of grit: results come through sustained effort and grow with age. Mention sibling relationships as an area needing patience, not as loss."
+  },
+  {
+    "id": "planet_in_house/saturn/4",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 4
+    },
+    "summary": "Saturn in the 4th is one of its harder classical placements, reducing domestic happiness, comfort, property and the mother's welfare; the results reverse where Saturn is dignified or a functional benefic (e.g. Taurus and Libra lagnas).",
+    "themes": [
+      "domestic happiness",
+      "mother",
+      "property and vehicles",
+      "emotional heaviness"
+    ],
+    "common_outcomes": [
+      "Unhappiness or lack of domestic comfort (Phaladeepika 8.22; Brihat Jataka via 20.2; Jataka Parijata 12.140; Raman HJH)",
+      "Mother's welfare or closeness affected (Phaladeepika 8.22; Bhrigu Sutras 14-21; Raman HJH; Braha)",
+      "Troubles with houses and vehicles; few fixed assets (Phaladeepika 8.22; Raman HJH; Braha)",
+      "Sickliness in early years (Phaladeepika 8.22; Saravali 30.77; Raman HJH)"
+    ],
+    "rare_outcomes": [
+      "Heart complaint or 'broken-heartedness' (Saravali 30.77; Braha)",
+      "Prominent nails and hair (Saravali 30.77)",
+      "Bhrigu Sutras 14-21: in own/exaltation sign, horses and prestigious conveyances; if Saturn is lagna lord, a long-lived mother and all comforts",
+      "Success in foreign countries and good patrimony (Hindu Predictive Astrology)"
+    ],
+    "by_area": {
+      "personality": "Lethargic temperament with a wish for a secluded life (Raman HJH); overly serious (Braha).",
+      "career": "",
+      "finance": "Will not inherit property (Raman HJH) versus 'good patrimony' (Hindu Predictive Astrology); Dhana yoga for Aries, Taurus and Libra lagnas (Bhrigu Sutras commentary).",
+      "health": "Sickly early years (Phaladeepika 8.22; Saravali 30.77); windy and phlegmatic complaints (Raman HJH); heart trouble (Saravali 30.77; Braha).",
+      "relationships": "Disliked by relatives (Raman HJH); devoid of relatives (Saravali 30.77).",
+      "family": "Deprived of the mother or her happiness (Phaladeepika 8.22; Raman HJH); with the 8th lord, loss of mother and happiness (Bhrigu Sutras 14-21); interrupted education (Hindu Predictive Astrology; Braha).",
+      "spirituality": "Own/exaltation Saturn here can make one extraordinarily spiritual and unattached (Braha)."
+    },
+    "strengtheners": [
+      "Saturn in own or exaltation sign: mother and comforts protected, fine conveyances (Bhrigu Sutras 14-21; Braha); Sasa yoga (Bhrigu Sutras commentary)",
+      "Saturn as lagna lord in the 4th: long-lived mother and comforts (Bhrigu Sutras 14-21)",
+      "Taurus and Libra lagnas: happiness and plentiful real estate (Braha); Aries, Taurus, Libra lagnas form Dhana yoga (Bhrigu Sutras commentary)",
+      "Benefic aspect or association (Raman HJH)"
+    ],
+    "weakeners_or_cancellations": [
+      "Association with the 8th lord (Bhrigu Sutras 14-21)",
+      "Saturn in Aries: extreme unhappiness, poor education, no inheritance (Braha)",
+      "Conjunction with the Moon raises concern for the mother (Hindu Predictive Astrology)"
+    ],
+    "lagna_or_context_notes": "Jataka Parijata 12.140 adds that any malefic in the 4th brings misfortune and Saturn specifically removes comfort and happiness. Saturn aspects the 6th, 10th and 1st from here.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.22 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Unhappy, houseless, without vehicles, deprived of the mother, sickly in early years.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 with 20.2 (tr. V. Subrahmanya Sastri)",
+        "view": "Brihat Jataka 20.9 gives Saturn's lagna result explicitly and says that in the other houses Saturn gives the same results as the Sun (20.1-3): no happiness and a troubled mind.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.77 (tr. R. Santhanam)",
+        "view": "Heart disease or broken-heartedness; devoid of relatives, conveyances, wealth, intelligence and happiness; sickly in boyhood; prominent nails and hair.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Jataka Parijata (Vaidyanatha) 12.140 (tr. V. Subrahmanya Sastri, 1932, vol. II)",
+        "view": "Saturn in the 4th causes loss of comfort and happiness.",
+        "url": "https://archive.org/details/JatakaParijata1932"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8, sutras 14-21 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Loss of mother and a stepmother, avoided if Saturn is in own/exaltation sign (then fine conveyances); as lagna lord, long-lived mother and comforts; with the 8th lord, loss of mother and happiness.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the fourth house ('Planets in the Fourth House')",
+        "view": "Sickly early on, deprived of mother, unhappy, windy/phlegmatic complaints, lethargic, no inherited property, trouble from houses and vehicles, wish for seclusion; unfavourable for domestic life unless benefically aspected.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Concern for mother if with the Moon, unhappiness, sudden losses, colic, crafty and narrow mind but a good thinker, encumbered estates yet good patrimony, success abroad, political disfavour, interrupted education.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 4th house' section",
+        "view": "Overly serious, major ups and downs, little happiness from the mother, old houses, car problems, possible heart trouble, seclusion late in life, educational problems; reversed when Saturn is yogakaraka, especially for Taurus and Libra lagnas.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Hindu Predictive Astrology lists 'good patrimony' while Raman's How to Judge a Horoscope says the native will not inherit property. Bhrigu Sutras alone mentions a stepmother. The classics treat the placement as plainly bad; Braha and the Bhrigu Sutras commentator stress lagna-based reversal.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of home life needing extra care and of emotional reserve; mention that the mother may carry responsibilities. Never predict a mother's death or heart disease; check dignity and lagna before giving the difficult reading."
+  },
+  {
+    "id": "planet_in_house/saturn/5",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 5
+    },
+    "summary": "Saturn in the 5th is classically adverse for children, peace of mind and speculative gains; modern authors add that a well-placed Saturn gives a serious, logical mind and a few disciplined children.",
+    "themes": [
+      "children",
+      "mind and intelligence",
+      "romance",
+      "investments"
+    ],
+    "common_outcomes": [
+      "Few, late or no children, or sorrow through them (Phaladeepika 8.22; Brihat Jataka via 20.2; Saravali 30.78; Bhrigu Sutras 22-26; Raman HJH; Braha)",
+      "Restless or unsettled mind (Phaladeepika 8.22; Saravali 30.78; Chamatkar Chintamani)",
+      "Limited wealth or unsteady fortune (Brihat Jataka; Saravali 30.78; Raman HJH)",
+      "Difficulties or disappointments in love affairs (Raman HJH; Braha)"
+    ],
+    "rare_outcomes": [
+      "Bhrigu Sutras 22-26: adopts a daughter; in own sign has daughters; aspected by Jupiter, two wives of whom one is childless",
+      "Gains in mines if Saturn is strengthened by Jupiter (Raman HJH)",
+      "A serious, logical, probing mind and profound love when Saturn is in Libra, Capricorn or Aquarius (Braha)"
+    ],
+    "by_area": {
+      "personality": "Agitated, unkind or hypocritical in the classical lists (Saravali 30.78; Raman HJH); slow, conservative, pessimistic mind (Braha).",
+      "career": "Inferior trades (Bhrigu Sutras 22-26).",
+      "finance": "Poor (Saravali 30.78; Bhrigu Sutras 22-26); Saturn spoils investments unless well placed (Braha); Dhana yoga for Aries, Taurus and Libra lagnas (Bhrigu Sutras commentary).",
+      "health": "Sickly and weak (Raman HJH).",
+      "relationships": "Saturn afflicting the 5th gives disappointments in love (Raman HJH); isolation in romance (Braha).",
+      "family": "Sorrows through children (Raman HJH); childlessness (Brihat Jataka; Chamatkar Chintamani).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn in Libra, Capricorn or Aquarius: highly intelligent, one or two disciplined children (Braha)",
+      "Jupiter's influence on Saturn (Raman HJH; Braha)",
+      "Aries, Taurus and Libra lagnas, where Saturn rules good houses (Bhrigu Sutras commentary; Braha)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn afflicted by Mars: unnatural attachments and heavy troubles (Raman HJH)",
+      "Saturn in Aries: pessimism, failed investments, unhappy children (Braha)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects the 7th, 11th and 2nd from here. Bhrigu Sutras commentary notes that all the classical authorities agree Saturn in the 5th is malefic for the house.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.22 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Wandering, mentally unsettled, bereft of children, wealth and happiness, deceitful and evil-minded.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 with 20.2 (tr. V. Subrahmanya Sastri)",
+        "view": "Brihat Jataka 20.9 gives Saturn's lagna result explicitly and says that in the other houses Saturn gives the same results as the Sun (20.1-3): childless and without wealth.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.78 (tr. R. Santhanam)",
+        "view": "Bereft of happiness, sons, friends, intelligence and kindness; agitated and poor.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8, sutras 22-26 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Childless and very poor, inferior trades, adopts a daughter; own sign gives daughters; Jupiter's aspect gives two wives; a strong Saturn gives affairs. Commentator: Dhana yoga for Aries, Taurus and Libra lagnas.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 5th house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Childless, with an unstable mind and unstable wealth.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the fifth house ('Planets in the Fifth House')",
+        "view": "Evil-minded, sickly, poor; sorrows through children; variable fortune; quarrels with friends; affliction to the 5th by Saturn gives disappointment in love; Jupiter's support gives gains in mines.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Narrow-minded, no children, perverted views, royal displeasure, troubled life, yet clear-minded.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 5th house' section",
+        "view": "Dull or slow mind unless Saturn is well aspected (it rules logic); few or no children; love difficulties; bad for investments; reversed by good aspects except that children stay few; in own/exaltation, highly intelligent with one or two disciplined children.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Classical texts (Phaladeepika, Saravali, Brihat Jataka) say plainly childless; Bhrigu Sutras speaks instead of daughters or adoption; Braha says good aspects reverse most results but children remain few. Hindu Predictive Astrology calls the native both 'narrow-minded' and 'clear-minded'.",
+    "confidence": "high",
+    "phrasing_guidance": "Never state that someone will have no children. Speak of children possibly coming later or being few, and of a careful, serious mind. Advise caution with speculation rather than predicting loss."
+  },
+  {
+    "id": "planet_in_house/saturn/6",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 6
+    },
+    "summary": "Saturn in the 6th, an upachaya and dusthana house, generally gives endurance, a strong appetite and the ability to outlast opponents and competitors, though texts disagree on whether enemies are conquered or the native is pressed by them.",
+    "themes": [
+      "enemies and competition",
+      "work and service",
+      "health resilience",
+      "appetite"
+    ],
+    "common_outcomes": [
+      "Victory over enemies or competitors (Saravali 30.79; Bhrigu Sutras 27-31; Chamatkar Chintamani; Raman HJH; Braha)",
+      "Large appetite (Phaladeepika 8.22; Saravali 30.79; Raman HJH; Braha)",
+      "Courageous, obstinate or stubborn (Phaladeepika 8.22; Saravali 30.79; Raman HJH; Braha)",
+      "Financial or agricultural prosperity (Phaladeepika 8.22; Bhrigu Sutras 27-31)"
+    ],
+    "rare_outcomes": [
+      "Bhrigu Sutras 27-31: with Mars, wide travel and a moderate Raja yoga",
+      "Gains through contract work, mining or masonry when well aspected (Raman HJH)",
+      "Loss of or no benefit from a maternal uncle (Chamatkar Chintamani; Braha)"
+    ],
+    "by_area": {
+      "personality": "Quarrelsome, obstinate, courageous (Raman HJH); stubborn and self-respecting (Phaladeepika 8.22); patient with detail (Braha).",
+      "career": "Difficult jobs or troubles with subordinates and co-workers (Raman HJH; Braha); rise to a high position if the chart is otherwise strong (Braha).",
+      "finance": "Wealthy (Phaladeepika 8.22); full financial and agricultural prosperity (Bhrigu Sutras 27-31).",
+      "health": "Healthy and vital (Braha); if afflicted, illness through privation or neglect (Raman HJH), or asthma/rheumatism (Braha); Phaladeepika 14 links Saturn in the 6th or 8th to nervous complaints.",
+      "relationships": "",
+      "family": "No benefit from cousins or the maternal uncle (Braha); loss of an uncle (Chamatkar Chintamani).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn as lord of the 6th, 8th or 12th placed in the 6th: extremely favourable (Bhrigu Sutras commentary)",
+      "Saturn in Libra, Capricorn or Aquarius: benefits magnified, long life (Braha)",
+      "Good aspects: gains through contracting and mining (Raman HJH)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn in the 6th as 8th lord: reduced longevity indications, rheumatic pains, injury marks (Bhrigu Sutras 27-31)",
+      "Saturn afflicted by Mars: serious illness or operations (Raman HJH); afflicted by Rahu: hysteria (Raman HJH)",
+      "Saturn in Aries: many enemies, poor health (Braha)"
+    ],
+    "lagna_or_context_notes": "Saturn as lord of an auspicious house damages that house's significations from the 6th (Bhrigu Sutras commentary). Saturn aspects the 8th, 12th and 3rd from here.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.22 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "A heavy eater, wealthy, subdued by his enemies, stubborn and self-respecting.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 with 20.2 and Sastri's note (tr. V. Subrahmanya Sastri)",
+        "view": "Brihat Jataka 20.9 gives Saturn's lagna result explicitly and says that in the other houses Saturn gives the same results as the Sun (20.1-3): powerful but overcome by enemies. Sastri notes a variant reading 'enemies destroyed' (credited to Satyacharya) and adds that the Sun is good in the 6th.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.79 (tr. R. Santhanam)",
+        "view": "Very licentious, handsome, courageous, a big eater, crooked, and conqueror of many enemies.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8, sutras 27-31 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Little learning, destruction of enemies, financial and agricultural prosperity; with Mars, travel and a moderate Raja yoga; as 8th lord, longevity concerns and rheumatic pains. Commentator: favourable financially, but disease-prone.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 6th house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Vanquishes enemies, owns cattle, loses an uncle.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 14 (diseases), sl. ~10-11 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Saturn in the 6th or 8th indicates nervous diseases.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the sixth house ('Planets in the Sixth House')",
+        "view": "Quarrelsome, obstinate, voracious eater, foeless, courageous; afflicted, sickness through privation and trouble from subordinates; well aspected, gains through contracts, mining and masonry.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Obstinate, sickly, few children, quarrelsome, clever, active, indebted; also lists venereal complaints.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 6th house' section",
+        "view": "Tremendous ability to defeat enemies and competitors; healthy and vital, big eater; job difficulties and trouble with co-workers; technical talent; no benefit from maternal uncle; afflicted, asthma or rheumatism.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Phaladeepika and the accepted Brihat Jataka reading say the native is subdued by enemies; Saravali, Bhrigu Sutras, Chamatkar Chintamani, Raman (HJH) and Braha say he conquers them (Sastri records the variant reading). Raman's Hindu Predictive Astrology calls him sickly while Braha calls him very healthy.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as staying power in competition and in demanding, service-oriented work. Mention health as something that benefits from routine; do not name diseases."
+  },
+  {
+    "id": "planet_in_house/saturn/7",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 7
+    },
+    "summary": "Saturn in the 7th (where it gains directional strength) burdens marriage and partnerships: delay, an older or careworn spouse, or a duty-bound union, alongside resilience, diplomacy and success or residence abroad.",
+    "themes": [
+      "marriage and spouse",
+      "partnerships",
+      "directional strength",
+      "foreign residence"
+    ],
+    "common_outcomes": [
+      "Strain, delay or sorrow in marriage (Phaladeepika 8.22; Saravali 30.80; Hindu Predictive Astrology; Braha)",
+      "Spouse described as thin, weak or in poor health (BPHS 18.9; Bhrigu Sutras 32-36; Chamatkar Chintamani; Braha)",
+      "Possibility of more than one marriage, or marriage to an older, widowed or divorced person (Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Residence, honour or political success abroad; diplomatic and enterprising (Raman HJH; Hindu Predictive Astrology; Braha)"
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 10.3: Saturn with Mars in Cancer in the 7th gives a chaste, fortunate and beautiful wife (Raman HJH repeats this for Capricorn)",
+      "Jataka Parijata 14.17: Saturn in the 7th in Pisces threatens the loss of the wife",
+      "Chamatkar Chintamani (via Bhrigu Sutras): good friends, stable wealth and a steady-minded spouse, though both partners sickly",
+      "Classical texts (Bhrigu Sutras 32-36; Brihat Jataka via 20.3) warn of humiliation through women or irregular sexual conduct"
+    ],
+    "by_area": {
+      "personality": "Diplomatic, enterprising, ambitious (Raman HJH; Hindu Predictive Astrology); mature, disciplined, long-lived (Braha).",
+      "career": "Political success and honours in foreign lands (Raman HJH); problems in business partnerships (Braha).",
+      "finance": "Poverty is named by Phaladeepika 8.22 and Saravali 30.80; stable wealth by Chamatkar Chintamani; Dhana yoga for Aries, Taurus, Libra lagnas (Bhrigu Sutras commentary).",
+      "health": "Ill health (Saravali 30.80); colic pains and deafness (Raman HJH; Hindu Predictive Astrology).",
+      "relationships": "Late marriage, older partner, possibility of more than one marriage; may feel unloved in the domestic sphere (Braha); under the spouse's influence (Raman HJH); wedded to a poor-quality spouse (Phaladeepika 8.22).",
+      "family": "",
+      "spirituality": "Braha: the strong 7th-house Saturn makes the person mature, disciplined and spiritual."
+    },
+    "strengtheners": [
+      "Directional strength (dig bala) of Saturn in the 7th (Saravali 4.35; Braha)",
+      "Saturn in Libra, Capricorn or Aquarius: wealthy, powerful, mature spouse; more stable marriage; long life (Braha); Sasa yoga (Bhrigu Sutras commentary)",
+      "Aries, Taurus and Libra lagnas, where Saturn rules good houses (Bhrigu Sutras commentary)",
+      "Saturn with Mars in Cancer (Phaladeepika 10.3) or Capricorn (Raman HJH)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn in Pisces in the 7th (Jataka Parijata 14.17; Phaladeepika 10.3 lists Saturn or Mars in Pisces among combinations harmful to the wife)",
+      "Saturn in Aries: great suffering in marriage or no spouse (Braha)",
+      "Saturn joined by Ketu, Mars or Venus intensifies the sexual-conduct warnings (Bhrigu Sutras 32-36)",
+      "Saturn aspected by malefics (Braha)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects the 9th, 1st and 4th from here, which Braha says makes this the most difficult kendra for Saturn even though it is its strongest direction. Raman HJH also quotes a classical rule that Saturn in the 7th (or a malefic lord of the 7th lord's navamsa) gives a spouse of poor character.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.22 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "A bad spouse, poverty, aimless wandering and distress.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 10.3 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Saturn or Mars in Pisces as the 7th is listed with combinations harmful to the wife; Saturn and Mars together in the 7th in Cancer give a chaste, fortunate and beautiful wife.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 with 20.3 (tr. V. Subrahmanya Sastri)",
+        "view": "Brihat Jataka 20.9 gives Saturn's lagna result explicitly and says that in the other houses Saturn gives the same results as the Sun (20.1-3): humiliation at the hands of women.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.80 (tr. R. Santhanam)",
+        "view": "Always in poor health, loses his wife, without wealth, unattractive, sinful, does mean acts.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 18.9 (tr. R. Santhanam, vol. 1)",
+        "view": "Among planets in the 7th describing the spouse, Saturn indicates a sick and weak spouse.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Jataka Parijata (Vaidyanatha) 14.17 (tr. V. Subrahmanya Sastri, 1932, vol. II)",
+        "view": "Saturn in the 7th in Pisces gives the same effect as a debilitated Jupiter there: loss of the wife.",
+        "url": "https://archive.org/details/JatakaParijata1932"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8, sutras 32-36 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Lean-bodied wife, bodily affliction, sorrow and sexual misconduct, worse with Ketu, Mars or Venus. Commentator softens the own/exaltation case and lists Dhana yoga lagnas and Sasa yoga.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 7th house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Good friends, stable wealth and a steady-minded wife; both spouses sickly.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the seventh house ('Planets in the Seventh House')",
+        "view": "Under the spouse's control; more than one marriage or marriage to a widow, divorcee or older person; diplomatic, enterprising; residence abroad, stable marriage, political success, honour in foreign lands; colic and deafness.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "More than one wife, enterprising, sickly, unhappy marriage, ambitious, political success, travel, foreign honours.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 7th house' section",
+        "view": "Marriage and relationships suffer; many hardships; dig bala makes Saturn strong, giving maturity and long life; late marriage to an older partner, possibly more than once; business partnerships troubled; distinction abroad; in own/exaltation the spouse is prosperous and the marriage steadier.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Phaladeepika 10.3 (Sastri) names Cancer for the beneficial Saturn-Mars combination, while Raman HJH gives Capricorn. Chamatkar Chintamani gives a steady-minded spouse and stable wealth against the other texts' poverty and marital sorrow; Raman HJH lists both 'more than one marriage' and 'stable marriage'.",
+    "confidence": "high",
+    "phrasing_guidance": "Talk about commitment, maturity and the value of marrying when ready; a partner who is older or carries responsibility. Do not predict divorce, a spouse's illness or death, or sexual misconduct."
+  },
+  {
+    "id": "planet_in_house/saturn/8",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 8
+    },
+    "summary": "Saturn in the 8th is widely credited with long life but a laborious, responsibility-heavy one, with strain on finances, eyesight and chronic-health matters in the classical lists.",
+    "themes": [
+      "longevity",
+      "hardship and responsibility",
+      "chronic health",
+      "inheritance and joint money"
+    ],
+    "common_outcomes": [
+      "Long life (Bhrigu Sutras 37-40; Raman HJH; Hindu Predictive Astrology; Frawley; Braha)",
+      "Struggle, many responsibilities, perseverance against odds (Raman HJH; Braha; Hindu Predictive Astrology)",
+      "Limited wealth or poverty (Phaladeepika 8.23; Bhrigu Sutras 37-40; Chamatkar Chintamani; Braha)",
+      "Few children and eye trouble (Brihat Jataka via 20.3; Raman HJH)"
+    ],
+    "rare_outcomes": [
+      "Saravali 30.81: short life and failure in undertakings, with anal/skin ailments",
+      "Piles or anal complaints (Phaladeepika 8.23; Saravali 30.81; Braha citing the scriptures)",
+      "Denial of legacies, wills and insurance benefits, or little alimony (Braha)",
+      "With the Moon in the 8th: flatulence and spleen trouble (Raman HJH)"
+    ],
+    "by_area": {
+      "personality": "Cruel-minded or despised by friends in the classical lists (Phaladeepika 8.23); clever and well-informed (Hindu Predictive Astrology); persevering (Raman HJH).",
+      "career": "Earns by serving others (Bhrigu Sutras 37-40).",
+      "finance": "Without wealth (Phaladeepika 8.23); poverty through Saturn's aspect on the 2nd (Bhrigu Sutras commentary); little benefit from the spouse's money (Braha).",
+      "health": "Asthma, lung disorders (Raman HJH; Braha); eye defects (Brihat Jataka; Raman HJH); Phaladeepika 14 associates Saturn in the 6th/8th with nervous complaints.",
+      "relationships": "Classical texts mention liaisons outside one's station (Bhrigu Sutras 37-40; Raman HJH).",
+      "family": "Few children; afflicted Saturn makes children a source of grief (Raman HJH).",
+      "spirituality": "Interest in occult or metaphysical subjects when Saturn is dignified (Braha)."
+    },
+    "strengtheners": [
+      "Saturn in own or exaltation sign: even longer life (Bhrigu Sutras 37-40); vitality and gains from legacies (Braha)",
+      "Strong 8th lord (Bhrigu Sutras 37-40)"
+    ],
+    "weakeners_or_cancellations": [
+      "8th lord in an enemy sign or debilitated: short life and hardship (Bhrigu Sutras 37-40)",
+      "Saturn in Aries: longevity greatly reduced, chronic illness (Braha)",
+      "Saturn with Mars here while Rahu is in the lagna and Gulika in a trine: generative-organ disease (Raman HJH)",
+      "Saturn with another malefic: stomach complaints (Raman HJH)"
+    ],
+    "lagna_or_context_notes": "Frawley (The Houses chapter) notes the 8th is generally the worst house for planets, but Saturn there can aid longevity though not prosperity. The Bhrigu Sutras commentator quotes Bhavartha Ratnakara that Saturn in the 8th gives long life. Saturn aspects the 10th, 2nd and 5th from here (Braha).",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.23 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Unclean and poor, suffers from piles, cruel-minded, chronically hungry, scorned by friends.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 with 20.3 (tr. V. Subrahmanya Sastri)",
+        "view": "Brihat Jataka 20.9 gives Saturn's lagna result explicitly and says that in the other houses Saturn gives the same results as the Sun (20.1-3): few children and defective eyesight.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.81 (tr. R. Santhanam)",
+        "view": "Skin disease and anal fistula, short life, failure in undertakings.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8, sutras 37-40 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Lifespan of 75 years, poverty, earns by serving others; own/exaltation sign lengthens life; a weak 8th lord shortens it. Commentator: Saturn alone among malefics gives good longevity in the 8th; quotes Bhavartha Ratnakara to the same effect.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 8th house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Loss of wealth, friendless, sickly, evil-minded.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the eighth house ('Planets in the Eighth House')",
+        "view": "Good longevity but many responsibilities, perseverance against many odds, defective eyes, few children, paunch, predisposition to asthma and lung disorders; afflicted, grief from children.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Struggling, poor, obscure, few issues, defective sight, clever and well-informed, long life; lists several disorders when joined by malefics.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', p. 145",
+        "view": "Saturn in the 8th can aid longevity, though it does not give prosperity.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 8th house' section",
+        "view": "Very long life but tedious and struggle-filled; aspects on 2nd, 5th and 10th harm money, children and career; denies legacies and insurance; exalted/own sign gives extremely long life and gains from legacies; Aries reduces longevity.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali 30.81 gives short life, while Bhrigu Sutras, Raman, Frawley and Braha all give long life. Hindu Predictive Astrology lists both 'poor' and 'long life'.",
+    "confidence": "medium",
+    "phrasing_guidance": "Emphasise endurance, research ability and a long, steady life-path; mention shared finances as an area for clear agreements. Never quote lifespans or name diseases."
+  },
+  {
+    "id": "planet_in_house/saturn/9",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 9
+    },
+    "summary": "Saturn in the 9th is contested: Phaladeepika and Saravali see loss of fortune, faith and paternal support, while Brihat Jataka and Uttara Kalamrita rate it favourable; a common thread is unorthodox or austere religiosity, such as repairing temples or renunciation.",
+    "themes": [
+      "fortune and luck",
+      "father and teachers",
+      "religion and duty",
+      "renunciation"
+    ],
+    "common_outcomes": [
+      "Fortune comes slowly or with effort (Phaladeepika 8.24; Saravali 30.82; Braha)",
+      "Strained or distant relationship with the father, or a father who struggles (Phaladeepika 8.24; Bhrigu Sutras 41-43; Braha)",
+      "Unconventional religiosity: irreligious in name yet repairs temples, founds charities (Bhrigu Sutras 41-43; Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Thrifty, logical, ceremonial-minded (Hindu Predictive Astrology; Raman HJH)"
+    ],
+    "rare_outcomes": [
+      "Jataka Parijata 15.23 (from Brihat Jataka): Saturn in the 9th unaspected, in a chart with Raja yoga, makes one take holy orders before becoming a lord",
+      "Chamatkar Chintamani (via Bhrigu Sutras): faith in yoga-shastra and renunciation",
+      "Bhrigu Sutras 41-43: builds bathing ghats and cow shelters in the 39th year",
+      "BPHS 20.31: Saturn with the Moon in the 9th and a debilitated lagna lord gives food by begging"
+    ],
+    "by_area": {
+      "personality": "Thrifty, scientific, logical, ceremonial yet irreligious (Hindu Predictive Astrology); may lead a lonely life (Raman HJH).",
+      "career": "Legal success (Hindu Predictive Astrology).",
+      "finance": "Little wealth (Saravali 30.82; Phaladeepika 8.24); work hard for every comfort (Braha).",
+      "health": "",
+      "relationships": "Raman HJH says the native may lead a lonely life and may not marry.",
+      "family": "Bhrigu Sutras 41-43: own/exaltation sign gives a long-lived father; weak or afflicted Saturn the reverse. Troubles with siblings through the aspect on the 3rd (Braha).",
+      "spirituality": "Founder of charitable institutions (Raman HJH; Hindu Predictive Astrology); repairs dilapidated temples (Bhrigu Sutras; Braha); renunciation (Jataka Parijata 15.23; Chamatkar Chintamani)."
+    },
+    "strengtheners": [
+      "Saturn in own sign or exaltation: father long-lived (Bhrigu Sutras 41-43); deep spirituality, wisdom, strong luck (Braha)",
+      "Taurus, Gemini, Libra, Capricorn and Aquarius lagnas (Bhrigu Sutras commentary)",
+      "Jupiter's aspect or yogakaraka status (Braha)",
+      "Uttara Kalamrita 4.16: Saturn is favourable in the 9th"
+    ],
+    "weakeners_or_cancellations": [
+      "Weak Saturn or Saturn with a malefic: father's welfare at risk (Bhrigu Sutras 41-43)",
+      "Saturn with the Moon in the 9th while the lagna lord is debilitated (BPHS 20.31)",
+      "Saturn in Aries: no luck, no wisdom, troubled father (Braha)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: for Taurus and Gemini lagnas Saturn is 9th lord in its own sign here, a powerful Raja yoga; for Aquarius lagna it is the exalted lagna lord. Saturn aspects the 11th, 3rd and 6th from here.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.24 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Bereft of fortune, wealth, children, father and religious merit; turns wicked.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 with 20.3 and Sastri's note (tr. V. Subrahmanya Sastri)",
+        "view": "Brihat Jataka 20.9 gives Saturn's lagna result explicitly and says that in the other houses Saturn gives the same results as the Sun (20.1-3): endowed with children, wealth and happiness. Sastri notes some astrologers hold the Sun bad in the 9th.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.82 (tr. R. Santhanam)",
+        "view": "Devoid of religious merit, little wealth, without co-born, sons and happiness; causes sorrow to others.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Uttara Kalamrita (Kalidasa) Kanda I, section 4, sloka 16 (tr. S.S. Sareen)",
+        "view": "The Sun and Saturn are favourable when in the 9th.",
+        "url": "https://archive.org/details/uttara-kalamrita-kalidas"
+      },
+      {
+        "source": "Jataka Parijata (Vaidyanatha) 15.23 (tr. V. Subrahmanya Sastri, 1932, vol. II)",
+        "view": "When Saturn in the 9th is unaspected, a person with Raja yoga takes to the holy order before becoming a lord (verse taken from Brihat Jataka).",
+        "url": "https://archive.org/details/JatakaParijata1932"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 20.31 (tr. R. Santhanam, vol. 1)",
+        "view": "Saturn in the 9th with the Moon while the lagna lord is debilitated: one lives on food obtained by begging.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8, sutras 41-43 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Sinful yet repairs dilapidated religious buildings; builds ghats and cow shelters in the 39th year; own/exaltation sign gives a long-lived father, weak Saturn the reverse. Commentator lists very favourable lagnas.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 9th house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Cruel-minded, but has faith in yoga-shastra and renunciation.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the ninth house ('Planets in the Ninth House')",
+        "view": "Lonely life, may not marry, known for valour; thrifty in domestic life, somewhat irreligious, may found charitable institutions; Sun or Mercury with Saturn add conflicts or deceit.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Legal success, founder of charitable institutions, miserly, scientific, irreligious, logical, ceremonial-minded, unfilial.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 9th house' section",
+        "view": "Luck spoiled, solutions come tediously; tension with father, gurus and elders; little foreign travel; repairs temples though not religious; as yogakaraka or with Jupiter's aspect, deeply spiritual and philosophical.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka (by the Sun rule) and Uttara Kalamrita 4.16 rate Saturn favourable in the 9th; Phaladeepika, Saravali, Bhrigu Sutras and Chamatkar Chintamani describe it as adverse. The Bhrigu Sutras commentator reconciles this by saying the good results arise only when Saturn rules auspicious houses.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a self-made relationship with luck and belief: faith built through duty, service or austere practice. Avoid saying the person is irreligious or that the father will suffer; check Saturn's dignity first."
+  },
+  {
+    "id": "planet_in_house/saturn/10",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 10
+    },
+    "summary": "Saturn in the 10th is one of its most praised placements in the classics: authority as minister, judge or local leader, hard work and agriculture or public service, though modern authors stress sharp career rises and falls.",
+    "themes": [
+      "career and authority",
+      "hard work",
+      "public service",
+      "fluctuations"
+    ],
+    "common_outcomes": [
+      "Position of authority: king's minister, judge, leader of a group, village or city (Phaladeepika 8.24; Saravali 30.83; Raman HJH)",
+      "Wealth, valour and renown (Phaladeepika 8.24; Saravali 30.83; Raman HJH)",
+      "Great worker; agriculture or land-related work (Phaladeepika 8.24; Raman HJH; Hindu Predictive Astrology)",
+      "Sudden elevations and depressions in career (Raman HJH; Hindu Predictive Astrology; Braha; Rath)"
+    ],
+    "rare_outcomes": [
+      "Pilgrimages and bathing in sacred rivers; ascetic leanings in later life (Bhrigu Sutras 44-45; Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Residence or success in foreign countries (Hindu Predictive Astrology; Braha)",
+      "Works for the downtrodden; dispassionate (Raman HJH)",
+      "Chamatkar Chintamani (via Bhrigu Sutras): poor livelihood and loss of parents early, though enemies are humbled"
+    ],
+    "by_area": {
+      "personality": "Dispassionate, judicious (Raman HJH); ambitious, disciplined, organisational (Braha); stingy and bilious per Bhrigu Sutras 44-45.",
+      "career": "Ruler, minister, judge or local leader (Raman HJH; Saravali 30.83; Phaladeepika 8.24); obstacles if Saturn is with a malefic, success with a benefic (Bhrigu Sutras 44-45); with the 8th lord in a malefic navamsa, a tyrannical superior (Raman HJH).",
+      "finance": "Rich (Phaladeepika 8.24; Saravali 30.83); Bhrigu Sutras doubts financial benefit unless Saturn is a functional benefic (commentary).",
+      "health": "Bilious constitution (Bhrigu Sutras 44-45; Hindu Predictive Astrology).",
+      "relationships": "Braha: aspects on the 7th and 12th tone down sexual passions.",
+      "family": "Rath: as a malefic in the 10th, Saturn obstructs the 9th (father/fortune) by argala.",
+      "spirituality": "Becomes an ascetic in later life (Raman HJH; Hindu Predictive Astrology); Rath: Saturn's beneficial argala on the 12th supports practices such as pranayama."
+    },
+    "strengtheners": [
+      "Saturn in own sign or exaltation (Braha: power and fame grow with age, a rise in the 36th year); Sasa yoga (Bhrigu Sutras commentary)",
+      "Aries, Taurus, Libra, Capricorn and Aquarius lagnas: Raja or Dhana yoga (Bhrigu Sutras commentary)",
+      "Association with a benefic (Bhrigu Sutras 44-45)",
+      "Uttara Kalamrita 4.16: malefics are auspicious in upachaya houses such as the 10th"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn with a malefic: career obstacles (Bhrigu Sutras 44-45)",
+      "BPHS 21.16: Saturn in the 10th with a debilitated planet while a malefic is 10th from the navamsa lagna leaves one without virtuous deeds",
+      "Saturn in Aries: early failures, unrecognised work (Braha)",
+      "Rath: Saturn here can cause vast fluctuations in fortune by obstructing the 9th house"
+    ],
+    "lagna_or_context_notes": "Saturn aspects the 12th, 4th and 7th from here (Braha). Rath (Crux, section on the 9th house argala) reads the 10th as having argala on the 9th; malefics here obstruct paternal support and the smooth flow of fortune.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.24 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "A king or minister, engaged in agriculture, brave, rich and renowned.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 with 20.3 (tr. V. Subrahmanya Sastri)",
+        "view": "Brihat Jataka 20.9 gives Saturn's lagna result explicitly and says that in the other houses Saturn gives the same results as the Sun (20.1-3): happy and powerful.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.83 (tr. R. Santhanam)",
+        "view": "Wealthy, learned, valorous; a minister or judge, or the leader of a group, city or village.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 21.16 (tr. R. Santhanam, vol. 1)",
+        "view": "Saturn in the 10th with a debilitated planet, while the 10th from the navamsa lagna holds a malefic, leaves one bereft of virtuous acts.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8, sutras 44-45 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Bathes in the Ganges in the 25th year, stingy, bilious; obstacles with a malefic, success with a benefic. Commentator: very favourable for Aries, Taurus, Libra, Capricorn and Aquarius lagnas.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 10th house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Loses parents in childhood, sinful deeds, humbles enemies, poor livelihood.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the tenth house ('Planets in the Tenth House')",
+        "view": "Ruler or minister, agriculturist, brave, rich, famous; dispassionate, works for the masses, judge; visits sacred rivers and becomes an ascetic later; sudden elevations and depressions; tyrannical superior if Saturn joins the 8th lord in a malefic navamsa.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Visits to sacred rivers and shrines, great worker, bilious, good farmer, sudden rises and falls, residence abroad, uncertain, ascetic later in life.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (Sagar), section 12.2 on argala to the 9th house and the later 9th-house discussion",
+        "view": "A malefic in the 10th obstructs the 9th; Saturn here can cause vast fluctuations and downturns in fortune and life becomes a battle, but its beneficial argala on the 12th can teach spiritual practices such as pranayama.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 10th house' section",
+        "view": "Most-cited classical placement for 'leader of his village'; ambition and leadership but career ups and downs (kendra); manual trades or judge/minister/spiritual leader; benefits from government and abroad; pilgrimages; in own/exaltation, steadily rising fame.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Phaladeepika, Saravali and Raman are strongly positive; Bhrigu Sutras gives little beyond pilgrimage and stinginess, and Chamatkar Chintamani is negative. Rath and Braha qualify the positive view with marked fluctuation.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a career built on responsibility, endurance and public service, with authority that grows over time; prepare the person for cycles of advance and setback rather than promising fame."
+  },
+  {
+    "id": "planet_in_house/saturn/11",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 11
+    },
+    "summary": "Saturn in the 11th is unanimously favourable in the classics: long life, lasting wealth and income, courage, landed property and standing with government, with some strain on elder siblings or children.",
+    "themes": [
+      "gains and income",
+      "longevity",
+      "influence and government",
+      "elder siblings"
+    ],
+    "common_outcomes": [
+      "Steady, lasting wealth and income (Phaladeepika 8.24; Saravali 30.84; Bhrigu Sutras 46-48; Chamatkar Chintamani; Raman HJH; Braha)",
+      "Long life and freedom from disease (Phaladeepika 8.24; Saravali 30.84; Raman HJH; Braha)",
+      "Courage (Phaladeepika 8.24; Saravali 30.84; Chamatkar Chintamani)",
+      "Landed property and favour from government (Bhrigu Sutras 46-48; Hindu Predictive Astrology; Braha)"
+    ],
+    "rare_outcomes": [
+      "Mahabhagya yoga and learning when Saturn is in own/exaltation sign (Bhrigu Sutras 46-48)",
+      "Earns by employing many people; involvement in politics (Raman HJH)",
+      "Broken education (Hindu Predictive Astrology; Braha citing the scriptures)"
+    ],
+    "by_area": {
+      "personality": "Courageous (Saravali 30.84); learned, feared and respected (Hindu Predictive Astrology); mature and wise (Braha).",
+      "career": "Earns through employing many men and women and through government; involvement in politics (Raman HJH); leadership (Braha).",
+      "finance": "Very wealthy, though obstacles occur (Bhrigu Sutras 46-48); lasting riches (Saravali 30.84); profitable but cautious speculation (Braha).",
+      "health": "Free from sickness and long-lived (Saravali 30.84; Raman HJH).",
+      "relationships": "Few friends (Raman HJH) versus many powerful friends (Braha).",
+      "family": "Eldest sibling or paternal uncle may suffer; limited children through the aspect on the 5th (Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn in own sign or exaltation: learning and Mahabhagya yoga (Bhrigu Sutras 46-48); rise in the 36th year (Braha)",
+      "Aries, Taurus, Libra, Sagittarius, Capricorn, Aquarius lagnas: powerful Dhana yoga (Bhrigu Sutras commentary)",
+      "General rule that malefics thrive in upachaya houses (Uttara Kalamrita 4.16; Bhrigu Sutras commentary)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn as lord of the 6th, 8th or 12th reduces the benefit (Bhrigu Sutras commentary)",
+      "Saturn in Aries: poor opportunities, suffering eldest sibling (Braha)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects the 1st, 5th and 8th from here.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.24 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Long life, lasting wealth and steady income, brave, free from disease and moneyed.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 with 20.3 (tr. V. Subrahmanya Sastri)",
+        "view": "Brihat Jataka 20.9 gives Saturn's lagna result explicitly and says that in the other houses Saturn gives the same results as the Sun (20.1-3): wealthy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.84 (tr. R. Santhanam)",
+        "view": "Long-lived, lasting riches, courageous, skilled in arts, free from sickness, endowed with money and followers.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8, sutras 46-48 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Very wealthy with obstacles, landed property, favoured by government; own/exaltation gives learning and Mahabhagya yoga. Commentator: all planets prosper in the 11th unless lords of 6, 8 or 12.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 11th house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Always wealthy and courageous.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the eleventh house ('Planets in the Eleventh House')",
+        "view": "Earns through employing many people, few friends, fond of enjoyment, earns through government; long and healthy life; respected in politics.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Learned, feared and respected, very wealthy, much landed property, broken education, conveyances, political success and influence.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 11th house' section",
+        "view": "Long-lived, wise and powerful; government ties; wealthy and influential landlord; eldest sibling and paternal uncles may suffer; limited children; speculation profitable but cautious.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Raman HJH says the native has few friends; Braha says many influential friends. Otherwise sources agree.",
+    "confidence": "high",
+    "phrasing_guidance": "A reliable 'slow-and-steady gains' placement: describe income that builds and lasts, and influence earned through organisation. Mention elder-sibling relations gently."
+  },
+  {
+    "id": "planet_in_house/saturn/12",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Saturn",
+      "house": 12
+    },
+    "summary": "Saturn in the 12th is classically adverse: expenses and losses, low standing or opposition, and eye or limb troubles; benefic association, dignity, or Saturn ruling a dusthana can turn it towards foreign success, thrift and spiritual practice.",
+    "themes": [
+      "expenses and losses",
+      "seclusion and foreign lands",
+      "eyes",
+      "spiritual practice"
+    ],
+    "common_outcomes": [
+      "Heavy or wasteful expenditure, poverty, trade losses (Phaladeepika 8.24; Saravali 30.85; Bhrigu Sutras 49-53; Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Defective eyesight (Saravali 30.85; Bhrigu Sutras 49-53; Raman HJH; Hindu Predictive Astrology)",
+      "A defect in some limb or body part (Phaladeepika 8.24; Bhrigu Sutras 49-53; Raman HJH)",
+      "Enemies, insult or loss of standing (Phaladeepika 8.24; Brihat Jataka via 20.3; Saravali 30.85; Raman HJH)"
+    ],
+    "rare_outcomes": [
+      "Learning in occult science and attraction to yoga in later life (Hindu Predictive Astrology)",
+      "Happiness in foreign travel (Chamatkar Chintamani via Bhrigu Sutras); success in remote foreign lands if Saturn is dignified (Braha)",
+      "Chamatkar Chintamani: as lagna lord in the 12th, destroys enemies",
+      "Bhrigu Sutras 49-53: with a benefic, happiness, good eyesight and a good after-life; with a malefic, the reverse"
+    ],
+    "by_area": {
+      "personality": "Talkative, unkind or shameless in the classical lists (Saravali 30.85); pessimist (Raman HJH); dexterous (Hindu Predictive Astrology).",
+      "career": "Not favourable for a steady career (Braha); losses in trade (Raman HJH; Hindu Predictive Astrology).",
+      "finance": "Cannot hold on to wealth (Braha); spends much (Saravali 30.85); wasteful expenditure with a malefic (Bhrigu Sutras 49-53).",
+      "health": "Eye trouble (Saravali; Bhrigu Sutras; Raman HJH); left eye/ear or foot complaints (Braha).",
+      "relationships": "Little sexual pleasure, sleeps on hard beds (Braha).",
+      "family": "Without children (Phaladeepika 8.24).",
+      "spirituality": "Attracted towards yoga in later life (Hindu Predictive Astrology); dignified Saturn gives success in pursuing higher consciousness (Braha)."
+    },
+    "strengtheners": [
+      "Association with a benefic (Bhrigu Sutras 49-53)",
+      "Saturn as lord of the 6th, 8th or 12th in the 12th: very beneficial (Bhrigu Sutras commentary)",
+      "Saturn in Libra, Capricorn or Aquarius: retains wealth, spends wisely, succeeds abroad (Braha)",
+      "Saturn as lagna lord in the 12th: destroys enemies (Chamatkar Chintamani)"
+    ],
+    "weakeners_or_cancellations": [
+      "Association with a malefic: poor eyesight, waste, poverty (Bhrigu Sutras 49-53)",
+      "Saturn as lord of an auspicious house: that house's matters suffer (Bhrigu Sutras commentary)",
+      "Saturn in Aries: debts, little success abroad (Braha)"
+    ],
+    "lagna_or_context_notes": "Saturn aspects the 2nd, 6th and 9th from here. Braha notes the houses Saturn rules are spoiled by this placement.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.24 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Impudent, poor, childless, with a defective limb, dull, and driven out by enemies.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Brihat Jataka (Varahamihira) 20.9 with 20.3 (tr. V. Subrahmanya Sastri)",
+        "view": "Brihat Jataka 20.9 gives Saturn's lagna result explicitly and says that in the other houses Saturn gives the same results as the Sun (20.1-3): degradation or loss of position.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 30.85 (tr. R. Santhanam)",
+        "view": "Distressed, morally fallen, talkative, defective eyesight, unkind, shameless, spends much, insulted.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 8, sutras 49-53 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Sinful with a bodily affliction; with a malefic, poor eyesight, waste and poverty; with a benefic, happiness and good eyesight. Commentator: very beneficial if Saturn rules the 6th, 8th or 12th.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 12th house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Shameless, small eyes, happy in foreign travel; as lagna lord, destroys enemies.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the twelfth house ('Planets in the Twelfth House')",
+        "view": "Dull-headed, loses money, squint eyes, deformed limb, many enemies, trade losses, pessimist, secret wrongdoing.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Squint eyes, trade losses, learned in occult science, poor, spendthrift, many enemies, dexterous, unpopular, attracted to yoga later in life.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Saturn in the 12th house' section",
+        "view": "Expenses, cannot hold wealth, hard beds, little sexual pleasure, left eye/ear or foot complaints; not good for a steady career; in own/exaltation, wise spending, success in remote foreign lands and in the pursuit of higher consciousness.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources agree on the difficult core; Hindu Predictive Astrology and Braha add a spiritual or foreign-success upside that the older classics (Phaladeepika, Saravali) do not mention.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as a call for budgeting and for meaningful solitude, retreat or service abroad. Do not predict poverty, disability or after-death states."
+  }
+]

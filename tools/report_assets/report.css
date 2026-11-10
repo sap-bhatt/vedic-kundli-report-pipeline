@@ -1,0 +1,97 @@
+/* Fonts are bundled (SIL OFL, see fonts/OFL-*.txt) and embedded as data URIs by assemble_report.py: no network at render time. */
+@font-face{ font-family:"EB Garamond"; src:url("fonts/EBGaramond.woff2") format("woff2"); font-weight:400 800; font-style:normal; }
+@font-face{ font-family:"EB Garamond"; src:url("fonts/EBGaramond-Italic.woff2") format("woff2"); font-weight:400 800; font-style:italic; }
+@font-face{ font-family:"Cormorant Garamond"; src:url("fonts/CormorantGaramond.woff2") format("woff2"); font-weight:300 700; font-style:normal; }
+@font-face{ font-family:"Cormorant Garamond"; src:url("fonts/CormorantGaramond-Italic.woff2") format("woff2"); font-weight:300 700; font-style:italic; }
+@font-face{ font-family:"Om"; src:url("fonts/NotoSerifDevanagari-Om.woff2") format("woff2"); unicode-range:U+0950; }
+:root{
+  --ink:#2b2420; --muted:#6d625a; --maroon:#6e1f1f; --saffron:#b06a24; --gold:#b8955a;
+  --paper:#fffdf8; --tint:#f6efe2; --tint2:#fbf6ec; --rule:#d9c8a8; --good:#3f6b3a; --warn:#8a4b14;
+}
+/* Page furniture: running header (name set by the assembler) and page number, via @page margin boxes (Chromium 131+). */
+@page { size: A4; margin: 18mm 16mm 17mm;
+  @top-center{ content:"Janma Kundli Report"; font-family:"Cormorant Garamond", Georgia, serif; font-size:9pt; color:#8a7a6a;
+    letter-spacing:0.3pt; vertical-align:bottom; padding-bottom:4mm; }
+  @bottom-center{ content:counter(page); font-family:"EB Garamond", Georgia, serif; font-size:9pt; color:#8a7a6a;
+    vertical-align:top; padding-top:4mm; }
+}
+@page :first { @top-center{ content:none; } @bottom-center{ content:none; } }
+*{ box-sizing:border-box; }
+html{ -webkit-print-color-adjust:exact; print-color-adjust:exact; }
+body{ margin:0; background:var(--paper); color:var(--ink);
+  font-family:"EB Garamond", Garamond, "Georgia", "Times New Roman", serif;
+  font-size:11pt; line-height:1.5; }
+.wrap{ max-width:178mm; margin:0 auto; padding:0 2mm; }
+h1,h2,h3,h4{ font-family:"Cormorant Garamond", "EB Garamond", Georgia, serif; color:var(--maroon); line-height:1.2; }
+h2{ font-size:22pt; margin:0 0 4mm; padding-bottom:2mm; border-bottom:1.2pt solid var(--gold);
+  page-break-before:always; break-before:page; }
+h2.first{ page-break-before:auto; break-before:auto; }
+h2 .num{ color:var(--saffron); font-weight:600; margin-right:3mm; }
+h3{ font-size:14.5pt; margin:6mm 0 2mm; color:#5a1a1a; }
+h3,h4,caption{ page-break-after:avoid; break-after:avoid; }
+h4{ font-size:12pt; margin:4mm 0 1.5mm; color:var(--saffron); }
+p{ margin:0 0 2.6mm; text-align:justify; hyphens:auto; }
+ul,ol{ margin:0 0 3mm 5mm; padding-left:4mm; }
+li{ margin-bottom:1.2mm; }
+em{ color:#4a3a30; }
+.term{ font-style:italic; color:var(--maroon); }
+.small{ font-size:9.5pt; color:var(--muted); }
+table{ width:100%; border-collapse:collapse; margin:2mm 0 4mm; font-size:9.6pt; page-break-inside:avoid; break-inside:avoid; }
+th{ background:var(--tint); color:var(--maroon); font-family:"Cormorant Garamond", Georgia, serif; font-size:10.5pt;
+  text-align:left; padding:1.6mm 2mm; border-bottom:1pt solid var(--gold); }
+td{ padding:1.3mm 2mm; border-bottom:0.5pt solid var(--rule); vertical-align:top; }
+table.long{ page-break-inside:auto; break-inside:auto; }
+tr{ page-break-inside:avoid; break-inside:avoid; }
+thead{ display:table-header-group; }
+tr:nth-child(even) td{ background:var(--tint2); }
+caption{ caption-side:top; text-align:left; font-family:"Cormorant Garamond", Georgia, serif; font-weight:600;
+  color:var(--saffron); font-size:11pt; padding-bottom:1mm; }
+/* code-built numbered tables */
+.tblock{ margin:3mm 0 4mm; }
+.tblock:not(.split){ page-break-inside:avoid; break-inside:avoid; }
+.tblock.split .tnote{ page-break-before:avoid; break-before:avoid; }
+.tblock.split tbody tr:last-child{ page-break-before:avoid; break-before:avoid; }
+.tblock table{ margin:0 0 1.2mm; }
+table.ct.split{ page-break-inside:auto; break-inside:auto; }
+table.ct caption{ padding-bottom:1.4mm; }
+tr.now td{ font-weight:600; color:#3a1414; }
+.tnote{ font-size:8.8pt; line-height:1.4; color:var(--muted); text-align:left; margin:0 0 3mm; }
+h3 + .tblock, h4 + .tblock{ margin-top:1mm; }
+p, li{ orphans:2; widows:2; }
+figure{ margin:3mm 0 4mm; page-break-inside:avoid; break-inside:avoid; text-align:center; }
+figcaption{ font-size:9.5pt; color:var(--muted); margin-top:1.5mm; }
+.charts{ display:flex; gap:6mm; justify-content:center; page-break-inside:avoid; break-inside:avoid; }
+.charts figure{ flex:1; margin:2mm 0; }
+.box{ border:0.8pt solid var(--rule); border-left:3pt solid var(--saffron); background:var(--tint2);
+  padding:2.5mm 3.5mm; margin:3mm 0 4mm; page-break-inside:avoid; break-inside:avoid; }
+.box h4{ margin-top:0; }
+.box.note{ border-left-color:var(--maroon); }
+.box.good{ border-left-color:var(--good); }
+.weigh{ display:inline-block; font-size:8.8pt; padding:0.2mm 2mm; border-radius:2mm; border:0.6pt solid var(--gold); color:var(--maroon); background:#fff; white-space:nowrap; }
+.cite{ font-size:8.8pt; color:var(--muted); overflow-wrap:anywhere; word-break:break-all; }
+.cols{ display:flex; gap:6mm; } .cols > div{ flex:1; }
+/* cover */
+.cover{ height:255mm; display:flex; flex-direction:column; justify-content:center; align-items:center; text-align:center;
+  border:1.5pt solid var(--gold); outline:0.6pt solid var(--gold); outline-offset:-4mm; padding:18mm 14mm;
+  page-break-after:always; break-after:page; background:linear-gradient(#fffdf8,#f8f1e3); }
+.cover .om{ font-size:30pt; color:var(--saffron); margin-bottom:6mm; font-family:"Om", "EB Garamond", serif; }
+.cover h1{ font-size:38pt; margin:0 0 3mm; letter-spacing:0.5pt; }
+.cover .sub{ font-family:"Cormorant Garamond", Georgia, serif; font-size:15pt; color:var(--saffron); margin-bottom:12mm; }
+.cover .name{ font-family:"Cormorant Garamond", Georgia, serif; font-size:30pt; color:var(--ink); margin-bottom:6mm; }
+.cover .details{ font-size:12pt; line-height:1.7; color:var(--ink); margin-bottom:12mm; }
+.cover .orn{ width:60mm; height:0; border-top:0.8pt solid var(--gold); margin:4mm auto; }
+.cover .calc{ font-size:9.5pt; color:var(--muted); max-width:120mm; }
+.toc{ page-break-after:always; break-after:page; }
+.toc .tt{ font-family:"Cormorant Garamond", Georgia, serif; font-size:24pt; color:var(--maroon); border-bottom:1.2pt solid var(--gold); padding-bottom:2mm; margin:0 0 5mm; }
+.toc ol{ list-style:none; margin:0; padding:0; }
+.toc li{ display:flex; align-items:baseline; font-size:12pt; padding:2mm 0; border-bottom:0.5pt solid var(--rule); margin:0; }
+.toc li span.n{ width:10mm; color:var(--saffron); font-weight:600; }
+.toc li span.d{ flex:1; }
+.toc li span.s{ color:var(--muted); font-size:9.5pt; text-align:right; padding-left:4mm; }
+svg text{ font-family:"EB Garamond", Georgia, serif; }
+.pl{ font-size:13px; fill:#2b2420; font-weight:600; }
+.sg{ font-size:10.5px; fill:#b06a24; }
+.asc{ font-size:11px; fill:#6e1f1f; font-style:italic; }
+.ctitle{ font-size:15px; fill:#6e1f1f; font-family:"Cormorant Garamond", Georgia, serif; font-weight:600; }
+.charts figcaption{ text-align:left; line-height:1.4; }
+@media screen{ body{ padding:10mm 0; } .cover{ margin-bottom:10mm; } }

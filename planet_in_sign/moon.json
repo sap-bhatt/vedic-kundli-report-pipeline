@@ -1,0 +1,1239 @@
+[
+  {
+    "id": "planet_in_sign/moon/aries",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Aries"
+    },
+    "summary": "The Moon in Aries (Mars's sign, neutral for the Moon) gives a quick, restless, courageous and proud mind. Texts describe a lively, impulsive person, popular with others, whose finances can be unsteady.",
+    "themes": [
+      "neutral sign",
+      "impulsiveness",
+      "courage",
+      "restlessness",
+      "pride",
+      "quick mind"
+    ],
+    "common_outcomes": [
+      "Quick-thinking, decisive, impatient",
+      "Restless, fond of travel and movement",
+      "Brave and self-respecting; values honour over money",
+      "Changeable moods"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 17.1: eldest among siblings; marks or scars on the head; fear of water",
+      "Saravali 23.1: no siblings (contrasting with BJ's 'eldest'); many sons; easily won over by women",
+      "Phaladeepika 9.1 (Aries rising/Moon): eats little, always on the move, tends to bend the truth"
+    ],
+    "by_area": {
+      "personality": "Quick to understand, restless and heroic (Brihat Jataka 17.1); valorous, self-respecting and fickle (Saravali 23.1); impulsive, irritable, enterprising, haughty and restless (Raman HPA ch. XXII).",
+      "career": "Raman HPA ch. XXII: enterprising and dexterous but subordinate in position.",
+      "finance": "Brihat Jataka 17.1: unstable wealth; Saravali 23.1: lasting wealth.",
+      "health": "Texts mention weak knees or legs and head wounds (Brihat Jataka 17.1; Saravali 23.1) as traditional bodily markers; do not use as predictions.",
+      "relationships": "Won over by women (Saravali 23.1); popular and fond of women (Raman).",
+      "family": "Brihat Jataka 17.1 makes the native the eldest sibling while Saravali 23.1 says without co-born; Saravali adds more sons.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Bright (waxing, well-lit) Moon, which Braha (pp. 19-20) treats as benefic and stronger",
+      "Jupiter's aspect (Saravali 23.2-7: servants and high status for Moon in Aries)",
+      "Venus's aspect (Saravali 23.2-7: luck and sons)",
+      "Mercury's aspect (Saravali 23.2-7: teaching and poetic fame)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 23.2-7: poverty, dishonesty)",
+      "Mars's aspect (Saravali 23.2-7: eye/teeth trouble and wounds)",
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 17.1 (tr. M. D. Neely, 2007)",
+        "view": "Round reddish eyes, eats pungent food sparingly, quick to understand, restless wanderer, lustful, weak knees, fragile nails, head scars, unstable wealth, heroic, popular with women, good at service, proud, eldest sibling, timid around water.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501793.html"
+      },
+      {
+        "source": "Saravali 23.1, Moon in Aries (tr. R. Santhanam)",
+        "view": "Golden complexion, lasting wealth, no siblings, brave, proud, lustful, weak legs, thin hair, fickle, values honour over wealth, many sons, friendly, fears deep water, head wounds.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.2-7, aspects on the Moon in Aries (tr. R. Santhanam)",
+        "view": "Sun: irritability with royal honour; Mars: eye/teeth trouble and wounds; Mercury: teaching, poetic fame; Jupiter: servants and high status; Venus: luck and sons; Saturn: poverty and dishonesty.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.1 and 9.13 (tr. V. Subrahmanya Sastri)",
+        "view": "Aries: round eyes, weak knees, fierce, fears water, eats little, always moving, ticklish, prone to lying; 9.13 says the same applies when the Moon is in the sign.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table and his note on the Chaukhamba reading give the Moon's friends as Sun and Mercury, with Mars, Jupiter, Venus and Saturn neutral and no enemies.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "The Moon's friends are the Sun and Mercury; all the rest are neutral to it.",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Round eyes, impulsive, fond of travel, irritable, quick to decide and act, haughty, enterprising, subordinate in position, self-respecting, ambitious, popular, restless, versatile.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), '1st House' (pp. 79-90) and 'Yogas', Miscellaneous Notes no. 1",
+        "view": "The scriptures call the Moon in Aries a fine or beneficial placement; Braha finds this odd since the Moon falls in Scorpio, the other Mars sign, and suggests the reason is Aries' closeness to the exaltation point at 3 degrees Taurus.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka says unstable wealth and eldest sibling; Saravali says lasting wealth and no siblings. Treat both sibling and wealth claims as low-confidence. Braha notes that the scriptures call Aries a fine place for the Moon, possibly because it is close to the exaltation point at 3 degrees Taurus.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe an energetic, brave, quick-reacting mind that benefits from patience. Avoid bodily-mark or water-fear claims unless asked about classical texts."
+  },
+  {
+    "id": "planet_in_sign/moon/taurus",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Taurus"
+    },
+    "summary": "The Moon is exalted in Taurus (deepest exaltation at 3°), and per BPHS the rest of Taurus (about 4-30°) is its moolatrikona. It gives a calm, patient, generous and attractive temperament with growing happiness in middle and later life.",
+    "themes": [
+      "exaltation",
+      "moolatrikona",
+      "emotional stability",
+      "patience",
+      "generosity",
+      "later-life happiness"
+    ],
+    "common_outcomes": [
+      "Steady, patient, forbearing mind",
+      "Attractive appearance and graceful manner",
+      "Generous and charitable; loyal friend",
+      "Happiness and stability increase in middle and later life"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 17.2 and Saravali 23.8: more daughters",
+      "Brihat Jataka 17.2: some separation from early relatives or family wealth",
+      "Phaladeepika 9.2: work connected with agriculture or cattle"
+    ],
+    "by_area": {
+      "personality": "Self-denying, enduring and authoritative (Brihat Jataka 17.2); large-hearted, charitable, discerning and forbearing (Saravali 23.8); liberal, intelligent, of sound judgment but a wavering mind (Raman HPA ch. XXII).",
+      "career": "Agriculture and cattle (Phaladeepika 9.2); Raman: ability to command, influential.",
+      "finance": "Raman HPA ch. XXII: rich and lucky; Phaladeepika 9.14 (any exalted planet): wealth and treasures.",
+      "health": "Brihat Jataka 17.2 mentions strong digestion and a kapha constitution; present only as a temperament note.",
+      "relationships": "Raman HPA ch. XXII: popular, fond of the opposite sex, influenced by women, love intrigues.",
+      "family": "Classical texts mention more daughters (Brihat Jataka 17.2; Saravali 23.8); confirm from the 5th house before saying so.",
+      "spirituality": "Brihat Jataka 17.2 calls the native self-denying."
+    },
+    "strengtheners": [
+      "Within 0-3° (exaltation) per BPHS 3.49-51",
+      "Bright (waxing, well-lit) Moon, which Braha (pp. 19-20) treats as benefic and stronger",
+      "Jupiter's aspect (Saravali 23.9-14: fame and virtue)",
+      "Venus's aspect (Saravali 23.9-14: comforts and luxuries)",
+      "Mercury's aspect (Saravali 23.9-14: learning)",
+      "Kendra placement (Braha p. 50), especially the 4th, where the Moon has directional strength (Braha p. 60)"
+    ],
+    "weakeners_or_cancellations": [
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker",
+      "Saturn's aspect (Saravali 23.9-14: poverty, though children)",
+      "Mars's aspect (Saravali 23.9-14: strong desires, strain in marriage)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna). Braha ('Planets in the Houses', pp. 79 ff.) reads the exalted Moon house by house: Taurus lagna (1st) attractive, respected, happy marriage; Aquarius lagna (4th) fine homes and comforts, a happy bond with the mother; Capricorn lagna (5th) intelligence and faith; Scorpio lagna (7th) a blissful marriage; Leo lagna (10th) public fame; Cancer lagna (11th) large gains and goals realised. He says results are smaller but still good if the Moon is waning.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 3.49-51",
+        "view": "Moon exalted in Taurus at 3°; the first 3° are exaltation and the remainder of Taurus is moolatrikona.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3"
+      },
+      {
+        "source": "Brihat Jataka 17.2 (tr. M. D. Neely, 2007)",
+        "view": "Attractive, lively gait, broad face and thighs, marks on back/face/sides, self-denying, enduring, authoritative, strong digestion, kapha nature, daughters, liked by women, loyal friend, happy in middle and later life.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501794.html"
+      },
+      {
+        "source": "Saravali 23.8, Moon in Taurus (tr. R. Santhanam)",
+        "view": "Big-hearted, charitable, famous, bright, more daughters, discerning, happy in middle and later life, graceful, forbearing.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.9-14, aspects on the Moon in Taurus (tr. R. Santhanam)",
+        "view": "Sun: farming or lending; Mars: strong desire, strain in marriage; Mercury: learning; Jupiter: fame and virtue; Venus: comforts; Saturn: poverty but children.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.2, 9.13, 9.14 (tr. V. Subrahmanya Sastri)",
+        "view": "Taurus: big face, agriculture, happy in middle/later life, generous, forgiving, enduring, owns cattle; exalted planet gives fame, wealth and virtues.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Liberal, powerful, happy, able to command, intelligent, handsome, influential, happy in middle and later life, patient, respected, sound judgment but a wavering mind, lucky, popular.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. 'The Signs: How Planets Transmit Influences of the Stars', pp. 125-127",
+        "view": "Moon's exaltation point is 3 degrees Taurus; its moolatrikona is given as 4-20 degrees Taurus.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Chandra, the Moon, name 20",
+        "view": "The Moon is exalted in Taurus, where it is most fertile; the exaltation falls in Krittika, followed by Rohini, the Moon's favourite nakshatra.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Planetary Powers' p. 47 and 'Planets in the Houses' pp. 79 ff.",
+        "view": "A planet past its deepest exaltation degree is technically no longer exalted; gives house-by-house results for the Moon in Taurus or Cancer.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Moolatrikona range: BPHS 3.51-54 makes all of Taurus after the first 3 degrees moolatrikona, while Frawley (p. 127) gives 4-20 degrees. Braha (p. 47) says a planet past its deepest exaltation degree is technically no longer exalted, while BPHS treats the whole sign as exaltation. The core meaning is consistent across texts.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as emotional steadiness and contentment that deepens with age. Do not predict the gender of children."
+  },
+  {
+    "id": "planet_in_sign/moon/gemini",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Gemini"
+    },
+    "summary": "The Moon in Gemini is in Mercury's sign, a friend of the Moon. It gives a quick, witty, communicative and artistic mind, fond of music, games and social play.",
+    "themes": [
+      "friendly sign",
+      "wit",
+      "communication",
+      "arts and music",
+      "sociability",
+      "sensuality"
+    ],
+    "common_outcomes": [
+      "Sharp, clever, curious mind",
+      "Gentle, agreeable speech; eloquent",
+      "Love of music, dance, poetry and games",
+      "Strong social and romantic interests"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 17.3: works as a messenger or go-between",
+      "Saravali 23.16: 'two mothers' (e.g. a foster or step-mother figure)",
+      "Phaladeepika 9.3: able to read others' thoughts; likes to stay at home"
+    ],
+    "by_area": {
+      "personality": "Sharp-minded and gentle-spoken (Brihat Jataka 17.3); intelligent, jocular and eloquent (Saravali 23.16); well read, witty, persuasive and subtle (Raman HPA ch. XXII).",
+      "career": "Messenger or go-between (Brihat Jataka 17.3); Raman: powerful speaker, learned in scriptures, fond of music.",
+      "finance": "",
+      "health": "",
+      "relationships": "Skilled in the arts of love (Brihat Jataka 17.3; Saravali 23.16); won over by women (Saravali 23.16); fond of women (Raman).",
+      "family": "Saravali 23.16: 'two mothers', a rare, text-specific note.",
+      "spirituality": "Learned in scriptures (Raman HPA ch. XXII)."
+    },
+    "strengtheners": [
+      "Strong sign lord (Mercury): Saravali 23.88 says the Moon-sign results come to pass fully only when the Moon, its sign and that sign's lord are strong",
+      "Mars's aspect (Saravali 23.17-22: valour and wealth)",
+      "Jupiter's aspect (Saravali 23.17-22: teaching, eloquence)",
+      "Venus's aspect (Saravali 23.17-22: luxury)",
+      "Bright (waxing, well-lit) Moon, which Braha (pp. 19-20) treats as benefic and stronger"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 23.17-22: isolation and loss)",
+      "Sun's aspect (Saravali 23.17-22: learning with hardship)",
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 17.3 (tr. M. D. Neely, 2007)",
+        "view": "Drawn to romance and skilled in intimacy, coppery eyes, learned, messenger/go-between, curly hair, sharp mind, knows games and gestures, graceful, gentle speech, hearty appetite, loves music and dance, prominent nose.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501795.html"
+      },
+      {
+        "source": "Saravali 23.16, Moon in Gemini (tr. R. Santhanam)",
+        "view": "Prominent nose, dark eyes, skilled in love arts and poetry, intelligent, radiant, jovial, eloquent, influenced by partners, tall, two mothers.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.17-22, aspects on the Moon in Gemini (tr. R. Santhanam)",
+        "view": "Sun: learning with hardship; Mars: valour and wealth; Mercury: skill in earning; Jupiter: teaching, eloquence; Venus: luxury; Saturn: isolation and loss.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.3, 9.13 (tr. V. Subrahmanya Sastri)",
+        "view": "Gemini: dark eyes, curly hair, playful with partners, reads others' thoughts, raised nose, loves music and dance, stays home.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table and his note on the Chaukhamba reading give the Moon's friends as Sun and Mercury, with Mars, Jupiter, Venus and Saturn neutral and no enemies.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "The Moon's friends are the Sun and Mercury; all the rest are neutral to it.",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Well read, creative, learned in scriptures, persuasive, a powerful speaker, witty, fond of music, a thought reader, subtle.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources agree closely on intellect, music and romance.",
+    "confidence": "high",
+    "phrasing_guidance": "Highlight wit, communication and artistic sense. Keep sexual or romantic notes general and respectful."
+  },
+  {
+    "id": "planet_in_sign/moon/cancer",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Cancer"
+    },
+    "summary": "Cancer is the Moon's own sign. It gives a caring, home-loving, intuitive and loyal nature, attached to friends and water, but Brihat Jataka notes the waxing-waning pattern of the Moon shows as ups and downs in wealth and mood.",
+    "themes": [
+      "own sign",
+      "nurturing",
+      "home",
+      "intuition",
+      "loyalty",
+      "fluctuation"
+    ],
+    "common_outcomes": [
+      "Caring, protective, emotionally deep",
+      "Many friends and attachment to home",
+      "Love of water, gardens and flowers",
+      "Fluctuating moods and finances"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 17.4 and Saravali 23.23: skill in astrology",
+      "Saravali 23.23: minister or trusted adviser; builds houses and wells; lives abroad",
+      "Phaladeepika 9.4: many houses, wealthy, few sons, walks fast"
+    ],
+    "by_area": {
+      "personality": "Loyal to friends and influenced by the partner (Brihat Jataka 17.4); fortunate, valorous, grateful and truthful (Saravali 23.23); wise, kind, sensitive, meditative, prudent and frugal (Raman HPA ch. XXII).",
+      "career": "Astrology (Brihat Jataka 17.4; Saravali 23.23); minister or adviser, builder of houses and wells (Saravali 23.23); Raman: scientist.",
+      "finance": "Brihat Jataka 17.4: loss of wealth in waxing-waning cycles; Saravali 23.23 and Phaladeepika 9.4: wealthy, many houses; Raman: much immovable property.",
+      "health": "",
+      "relationships": "Led or influenced by the spouse (Brihat Jataka 17.4; Phaladeepika 9.4); Raman: influenced by women.",
+      "family": "Many friends and houses but few sons (Phaladeepika 9.4).",
+      "spirituality": "Grateful (Saravali 23.23); meditative (Raman)."
+    },
+    "strengtheners": [
+      "Bright (waxing, well-lit) Moon, which Braha (pp. 19-20) treats as benefic and stronger",
+      "Jupiter's aspect (Saravali 23.24-29: kingly qualities, happiness, a good spouse, modesty)",
+      "Mercury's aspect (Saravali 23.24-29: ministerial standing)",
+      "Kendra placement (Braha p. 50), especially the 4th, where the Moon has directional strength (Braha p. 60)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 23.24-29: poverty and deceit)",
+      "Mars's aspect (Saravali 23.24-29: some bodily impairment)",
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna). Braha ('Planets in the Houses', pp. 79 ff.) reads the own-sign Moon house by house: Cancer lagna (1st) attractive, respected, happy marriage; Aries lagna (4th) fine homes and contentment; Pisces lagna (5th) intelligence and faith; Capricorn lagna (7th) a blissful marriage; Scorpio lagna (9th) luck and a religious bent; Libra lagna (10th) public fame; Virgo lagna (11th) large gains.",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 17.4 (tr. M. D. Neely, 2007)",
+        "view": "Moon in own sign: quick, zigzag gait, raised hips, short, thick neck, influenced by women, loyal to friends, skilled in astrology, restless with loss of wealth in waxing-waning cycles, fond of water and gardens.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501796.html"
+      },
+      {
+        "source": "Saravali 23.23, Moon in Cancer (tr. R. Santhanam)",
+        "view": "Fortunate, brave, comfortable home, friends, travel, astrology, grateful, truthful adviser or minister, lives abroad, loves water and flowers, builds houses and wells.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.24-29, aspects on the Moon in Cancer (tr. R. Santhanam)",
+        "view": "Sun: royal service, not rich; Mars: valour, some bodily impairment, hard on the mother; Mercury: political wisdom, ministerial standing; Jupiter: kingly qualities, good spouse, modesty; Venus: wealth, gold, robes and jewels; Saturn: poverty and deceit.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.4, 9.13, 9.15 (tr. V. Subrahmanya Sastri)",
+        "view": "Cancer: led by spouse, thick neck, many friends and houses, wealthy, short, fast walk, intelligent, likes water, few sons; own-sign planet gives home, property and respect.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Wise, powerful, charming, wealthy, kind, sensitive, impetuous, unprofitable voyages, meditative, much immovable property, scientist, prudent, frugal.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Planets in the Houses' pp. 79 ff.",
+        "view": "House-by-house results for the Moon in Taurus or Cancer (exalted or own sign): uniformly favourable, reduced if the Moon is waning.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka stresses fluctuating wealth; Saravali and Phaladeepika stress wealth and property. Both can be true as cycles.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as nurturing, intuitive and home-centred, with natural emotional tides. Avoid saying the person is 'controlled' by a spouse."
+  },
+  {
+    "id": "planet_in_sign/moon/leo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Leo"
+    },
+    "summary": "The Moon in Leo is in the Sun's sign, a friend. It gives a proud, bold, generous and steady mind, devoted to the mother, fond of nature, but slow to forgive.",
+    "themes": [
+      "friendly sign",
+      "pride",
+      "courage",
+      "generosity",
+      "devotion to mother",
+      "lasting anger"
+    ],
+    "common_outcomes": [
+      "Bold, proud, determined and dignified",
+      "Generous and willing to give",
+      "Long-held anger when wronged",
+      "Love of forests, hills and the outdoors"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 17.5 and Saravali 23.30: few children",
+      "Brihat Jataka 17.5 and Saravali 23.30: tension or distance with women/partners",
+      "Phaladeepika 9.5: angers over small things; obedient to mother"
+    ],
+    "by_area": {
+      "personality": "Sharp, with long-lasting anger (Brihat Jataka 17.5); harsh yet charitable, dutiful and majestic (Saravali 23.30); bold, irritable, haughty, generous, aristocratic, of settled views (Raman HPA ch. XXII).",
+      "career": "",
+      "finance": "",
+      "health": "Texts link the placement to hunger, stomach and tooth complaints (Saravali 23.30) and colic (Raman); mention only as traditional associations.",
+      "relationships": "Averse to or disliked by women (Brihat Jataka 17.5; Saravali 23.30; Raman: repugnant to women); present gently and only if asked.",
+      "family": "Respectful toward the mother (Saravali 23.30; Phaladeepika 9.5); few children (Brihat Jataka 17.5; Saravali 23.30).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong sign lord (the Sun): Saravali 23.88 says the Moon-sign results come to pass fully only when the Moon, its sign and that sign's lord are strong",
+      "Sun's aspect/conjunction or Jupiter's aspect (Saravali 23.31-36: high status, renown)",
+      "Mars's aspect (Saravali 23.31-36: leadership/command)",
+      "Bright (waxing, well-lit) Moon, which Braha (pp. 19-20) treats as benefic and stronger"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 23.31-36: hard labour and poverty)",
+      "Venus's aspect (Saravali 23.31-36: dependence and sickliness)",
+      "Mercury's aspect (Saravali 23.31-36: subservience)",
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 17.5 (tr. M. D. Neely, 2007)",
+        "view": "Sharp manner, heavy jaw, broad face, yellowish eyes, few children, averse to women, fond of meat/forests/mountains, long-lasting anger, chronic complaints of hunger/stomach/teeth, generous, bold, steady, proud, close to mother.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501797.html"
+      },
+      {
+        "source": "Saravali 23.30, Moon in Leo (tr. R. Santhanam)",
+        "view": "Sturdy, broad face, small yellowish eyes, dislikes women, hunger/stomach/teeth troubles, charitable yet harsh, few sons, roams hills, respects mother, broad chest, brave, dutiful, majestic.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.31-36, aspects on the Moon in Leo (tr. R. Santhanam)",
+        "view": "Sun: high status; Mars: army command; Mercury: service to women; Jupiter: renown; Venus: sickliness and dependence; Saturn: farming work and poverty.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.5, 9.13 (tr. V. Subrahmanya Sastri)",
+        "view": "Leo: reddish eyes, broad face, proud, powerful, angers over small matters, fond of forests and hills, obedient to mother, firm.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table and his note on the Chaukhamba reading give the Moon's friends as Sun and Mercury, with Mars, Jupiter, Venus and Saturn neutral and no enemies.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "The Moon's friends are the Sun and Mercury; all the rest are neutral to it.",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Bold, irritable, broad face, repugnant to women, fond of forests and hills, colic, mental anxiety, generous, aristocratic, settled views, proud, ambitious.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "The three texts agree closely.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a dignified, generous, strong-willed mind; suggest letting go of grudges. Avoid health and childlessness predictions."
+  },
+  {
+    "id": "planet_in_sign/moon/virgo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Virgo"
+    },
+    "summary": "The Moon in Virgo is in Mercury's sign, a friend. It gives a gentle, modest, truthful and intelligent mind, skilled in arts and scholarship, with a soft way of speaking.",
+    "themes": [
+      "friendly sign",
+      "modesty",
+      "intelligence",
+      "arts and scholarship",
+      "gentle speech",
+      "foreign travel"
+    ],
+    "common_outcomes": [
+      "Shy, modest and soft-spoken",
+      "Truthful, upright and quick-witted",
+      "Skill in fine arts and understanding of texts",
+      "Contentment and mildness"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 17.6: settles in or travels to foreign lands",
+      "Brihat Jataka 17.6, Saravali 23.37, Phaladeepika 9.6: more daughters or few children",
+      "Saravali 23.37: religious teacher; meddlesome"
+    ],
+    "by_area": {
+      "personality": "Shy, content, mild and honest (Brihat Jataka 17.6); truthful, pure, kind and forgiving (Saravali 23.37); modest, intelligent and pensive, conceited in self-estimation (Raman HPA ch. XXII).",
+      "career": "Skilled in arts and treatises (Brihat Jataka 17.6); religious teacher and eloquent speaker (Saravali 23.37); Raman: astrologer or clairvoyant, skilled in music and dance.",
+      "finance": "Phaladeepika 9.6 mentions gain through others' homes or wealth; Raman: affluent and comfortable.",
+      "health": "",
+      "relationships": "Pleasant speech (Brihat Jataka 17.6), though Brihat Jataka warns of entanglement in others' relationships or property; Raman: fond of the opposite sex.",
+      "family": "Texts mention more daughters and few sons (Brihat Jataka 17.6; Saravali 23.37; Raman).",
+      "spirituality": "Knows scriptures (Phaladeepika 9.6); a religious preceptor (Saravali 23.37)."
+    },
+    "strengtheners": [
+      "Strong sign lord (Mercury): Saravali 23.88 says the Moon-sign results come to pass fully only when the Moon, its sign and that sign's lord are strong",
+      "Jupiter's aspect (Saravali 23.38-43: royal service and wealth)",
+      "Sun's aspect (Saravali 23.38-43: treasury duties)",
+      "Mercury's aspect (Saravali 23.38-43: astrology and debate)",
+      "Bright (waxing, well-lit) Moon, which Braha (pp. 19-20) treats as benefic and stronger"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 23.38-43: poverty, dependence)",
+      "Mars's aspect (Saravali 23.38-43: technical skill but harm to the mother's significations)",
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 17.6 (tr. M. D. Neely, 2007)",
+        "view": "Gentle wide gaze, shy, drooping shoulders, content, mild, honest, pleasant speech, skilled in arts and treatises, upright, quick-witted, drawn to others' partners/property, travels or settles abroad, more daughters.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501798.html"
+      },
+      {
+        "source": "Saravali 23.37, Moon in Virgo (tr. R. Santhanam)",
+        "view": "Attractive, learned, religious teacher, eloquent, truthful, pure, brave, kind, meddlesome, forgiving, fortunate, more daughters.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.6, 9.13 (tr. V. Subrahmanya Sastri)",
+        "view": "Virgo: drooping shoulders, gains through others' houses and wealth, truthful and kind in speech, modest, knows scriptures, few children.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 23.38-43, aspects on the Moon in Virgo (tr. R. Santhanam)",
+        "view": "Sun: in charge of royal wealth, famous, keeps his word; Mars: skill in mechanical and fine arts, but hard on the mother; Mercury: astrology and literature, wins disputes; Jupiter: foremost among relatives, royal duties, wealth; Venus: many spouses, pleasures and fortune; Saturn: weak memory, poverty, controlled by women.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table and his note on the Chaukhamba reading give the Moon's friends as Sun and Mercury, with Mars, Jupiter, Venus and Saturn neutral and no enemies.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "The Moon's friends are the Sun and Mercury; all the rest are neutral to it.",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Attractive, principled, affluent, sweet and truthful speech, modest, intelligent, acute insight, astrologer or clairvoyant, skilled in music and dance, many daughters, few sons.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources agree on modesty, learning and gentle speech.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a modest, intelligent, refined mind. Avoid moral claims about others' partners or property."
+  },
+  {
+    "id": "planet_in_sign/moon/libra",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Libra"
+    },
+    "summary": "The Moon in Libra is in Venus's sign (neutral). It gives a devout, fair-minded, trade-savvy and well-travelled person, helpful to relatives but somewhat unsteady and influenced by others.",
+    "themes": [
+      "neutral sign",
+      "devotion",
+      "fairness",
+      "trade",
+      "travel",
+      "dependence on partner"
+    ],
+    "common_outcomes": [
+      "Respectful of the divine, teachers and the wise",
+      "Skilled in business and trade",
+      "Frequent travel",
+      "Helpful to relatives; can be indecisive"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 17.7 and Phaladeepika 9.7: a name linked to a deity, or two names",
+      "Saravali 23.44: land, cattle and multiple marriages",
+      "Brihat Jataka 17.7: rejection by others despite helping kin"
+    ],
+    "by_area": {
+      "personality": "Wise and pure (Brihat Jataka 17.7); not firm in disposition, helpful to relatives (Saravali 23.44); principled, idealistic, just and far-seeing (Raman HPA ch. XXII).",
+      "career": "Skilled in trade (Brihat Jataka 17.7; Phaladeepika 9.7); Raman: businesslike, love of arts.",
+      "finance": "Saravali 23.44: land, cattle and various kinds of wealth; Raman: wealthy, with losses through women.",
+      "health": "Brihat Jataka 17.7 mentions proneness to illness and Raman a sickly constitution; treat as traditional only.",
+      "relationships": "Led by the partner (Brihat Jataka 17.7); many spouses and conquered by women (Saravali 23.44).",
+      "family": "Helpful to relatives (Saravali 23.44), yet Raman has rejection by kinsmen; Phaladeepika 9.7: few children.",
+      "spirituality": "Devoted to gods, brahmins and the holy (Brihat Jataka 17.7; Saravali 23.44; Raman)."
+    },
+    "strengtheners": [
+      "Strong sign lord (Venus): Saravali 23.88 says the Moon-sign results come to pass fully only when the Moon, its sign and that sign's lord are strong",
+      "Venus's aspect (Saravali 23.45-50: beauty and health)",
+      "Jupiter's aspect (Saravali 23.45-50: honour, gem trade)",
+      "Mercury's aspect (Saravali 23.45-50: riches and learning)",
+      "Saturn (exalted in Libra) aspect (Saravali 23.45-50: affluence)"
+    ],
+    "weakeners_or_cancellations": [
+      "Sun's aspect (Saravali 23.45-50: loss)",
+      "Mars's aspect (Saravali 23.45-50: theft, eye trouble)",
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 17.7 (tr. M. D. Neely, 2007)",
+        "view": "Devoted to gods, brahmins and holy people; wise, pure, led by partner; tall, prominent nose, thin body; travels; skilled in trade; deity-linked name; prone to illness; helps kin but is rejected by others.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501799.html"
+      },
+      {
+        "source": "Saravali 23.44, Moon in Libra (tr. R. Santhanam)",
+        "view": "High nose, broad eyes, thin body, many spouses, cattle and land, brave, skilled, honours gods and the wise, wealthy, influenced by women, charitable, unsteady, helps kin.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.45-50, aspects on the Moon in Libra (tr. R. Santhanam)",
+        "view": "Sun: loss; Mars: theft/eye trouble; Mercury: riches and learning; Jupiter: honour, gem trade; Venus: beauty and health; Saturn: affluence.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.7, 9.13 (tr. V. Subrahmanya Sastri)",
+        "view": "Libra: lean, few children, devoted, wanders, two names, tall, skilled trader, brave, impartial in argument.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table and his note on the Chaukhamba reading give the Moon's friends as Sun and Mercury, with Mars, Jupiter, Venus and Saturn neutral and no enemies.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "The Moon's friends are the Sun and Mercury; all the rest are neutral to it.",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Reverence for the learned, holy people and gods; tall; sickly constitution; rejected by kinsmen; principled, wealthy, businesslike, love of arts, idealistic, just; losses through women.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), '1st House' (pp. 79-90)",
+        "view": "Since the Moon is exalted in Taurus, it is well placed in Libra, the other sign ruled by Venus.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Agreement on devotion, trade and travel; Saravali alone gives notable wealth in land and cattle. Braha adds that Libra suits the Moon as the other sign of Venus, whose Taurus is the Moon's exaltation.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as fair, devoted and business-minded; encourage decisiveness. Avoid multiple-marriage predictions."
+  },
+  {
+    "id": "planet_in_sign/moon/scorpio",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Scorpio"
+    },
+    "summary": "The Moon is debilitated in Scorpio (deepest fall at 3°), the sign of Mars. It gives intense, private, guarded emotions and resilience under pressure; classical texts are harsh, while modern practitioners stress depth, investigative skill and transformation, and note that cancellation is common.",
+    "themes": [
+      "debilitation",
+      "emotional intensity",
+      "secrecy",
+      "resilience",
+      "transformation",
+      "early-life strain"
+    ],
+    "common_outcomes": [
+      "Intense, private emotions; slow to trust",
+      "Strong will and endurance under pressure",
+      "Industrious and skilled",
+      "Early-life challenges or separations"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 17.8 and Phaladeepika 9.8: separation from father or teacher in childhood",
+      "Brihat Jataka 17.8: from a respected family with authority; honoured by rulers (Phaladeepika 9.8)",
+      "Saravali 23.51: loss of wealth through the anger of authorities"
+    ],
+    "by_area": {
+      "personality": "Classical texts list harshness and concealed faults (Brihat Jataka 17.8; Saravali 23.51); Raman HPA ch. XXII: straightforward, frank and open-minded yet obstinate and impetuous. Frawley (p. 126): with the debility cancelled it can give a very deep understanding of the psyche. Read the harsh items as shadow tendencies, not verdicts.",
+      "career": "Industrious and skilful (Saravali 23.51); Frawley (p. 126) says a cancelled Moon in Scorpio is common among spiritual teachers, occultists and psychologists.",
+      "finance": "Saravali 23.51: losses through the wrath of authorities; Phaladeepika 9.8: honoured by rulers; Raman: wealthy.",
+      "health": "Texts mention illness in early life (Brihat Jataka 17.8; Saravali 23.51); present only as a traditional note, never as a prediction.",
+      "relationships": "Saravali 23.51 lists attraction to others' partners and Raman agitation and unhappiness; handle gently.",
+      "family": "Separation from father or teacher in youth (Brihat Jataka 17.8; Phaladeepika 9.8); Raman: isolation from parents or preceptors.",
+      "spirituality": "Frawley (p. 126): common in spiritual teachers and occultists when the debility is cancelled."
+    },
+    "strengtheners": [
+      "Neecha bhanga: Mars (sign lord) or Venus (lord of Taurus, the exaltation sign) in a kendra from lagna or Moon (Phaladeepika 7.26, 7.29)",
+      "Mars and Venus in mutual kendras (Phaladeepika 7.27)",
+      "Mars aspecting the Moon from a good house (Phaladeepika 7.28; Saravali 23.52-57: incomparable courage, king-like, unconquerable)",
+      "Mars exalted in Capricorn can cancel the debility, and Mars strong or in Aries reduces it (Frawley p. 126; Braha, 'Yogas' no. 13)",
+      "Placement in an angle from lagna or Moon, the 10th most of all; usually two cancelling factors are needed (Frawley p. 126)",
+      "An exalted planet joining the Moon (Braha, 'Yogas' no. 13)",
+      "Jupiter's aspect (Saravali 23.52-57: dutiful, wealthy, beautiful; modern practitioners treat it as a key support)",
+      "Bright (waxing, well-lit) Moon, which Braha (pp. 19-20) treats as benefic and stronger"
+    ],
+    "weakeners_or_cancellations": [
+      "Within a few degrees of 3 degrees Scorpio, the deepest fall (BPHS 3.49-50)",
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker",
+      "Saturn's aspect (Saravali 23.52-57: base sons, sickness, poverty)",
+      "Mercury's aspect (Saravali 23.52-57: trickery, harsh speech)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest",
+      "Vargottama does not help a fallen planet; Braha (pp. 13, 59) says it leaves it worse off"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna). Braha ('Planets in the Houses', pp. 79 ff.) reads the fallen Moon harshly house by house: Scorpio lagna (1st) unsteady mind and weak health; Leo lagna (4th) strain around home and mother; Cancer lagna (5th) feelings overrule reason; Taurus lagna (7th) a rough married life; Aquarius lagna (10th) frequent career changes. Frawley (p. 126) instead says debility is much reduced in an angle from the lagna or Moon, especially the 10th, which covers the Scorpio, Leo, Taurus and Aquarius lagna cases.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 3.49-50",
+        "view": "Moon exalted at Taurus 3°; debilitated at the same degree of the 7th sign, Scorpio 3°.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3"
+      },
+      {
+        "source": "Brihat Jataka 17.8 (tr. M. D. Neely, 2007)",
+        "view": "Broad eyes and chest, rounded limbs, yellowish skin, separated from father and guru in childhood, prone to illness, respected family with authority, harsh conduct, bodily marks, hidden wrongdoing.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501800.html"
+      },
+      {
+        "source": "Saravali 23.51, Moon in Scorpio (tr. R. Santhanam)",
+        "view": "Miserly, sickly in childhood, harsh, beautiful eyes, industrious and skilled, desires others' partners, lonely, passionate, brave, loses wealth through authorities.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.52-57, aspects on the Moon in Scorpio (tr. R. Santhanam)",
+        "view": "Sun: learning and wealth without happiness; Mars: courage and high standing; Mercury: trickery; Jupiter: wealth and beauty; Venus: intelligence; Saturn: poor offspring and sickness.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.8, 9.13, 9.18 and 7.26-30 (tr. V. Subrahmanya Sastri)",
+        "view": "Scorpio: broad eyes and chest, early illness, separated from parents/teachers, honoured by ruler; general debility brings fall in status; ch. 7 lists cancellation rules that can convert it into raja yoga.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "astromedha.in, Moon in Scorpio (practitioner)",
+        "view": "Modern reading: emotional depth, long memory, aptitude for investigation and healing when supported; possessiveness when not; Mars strength and Jupiter's aspect as relief.",
+        "url": "https://astromedha.in/insights/vedic/moon-in-scorpio"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Isolation from parents or preceptors, straightforward, frank, open-minded, yet obstinate, impetuous and unhappy; wealthy; also lists cruelty and malice.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. 'The Signs: How Planets Transmit Influences of the Stars', pp. 126-127",
+        "view": "Debility is cancelled by an angle from lagna or Moon, an exalted sign lord (Mars in Capricorn), or an exalted planet in a sign the fallen planet rules; a strong or own-sign Mars also reduces it. A cancelled Moon in Scorpio gives deep psychological insight and is common in spiritual teachers, occultists and psychologists.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Planetary Powers' p. 47, 'Planets in the Houses' pp. 79 ff. and 'Yogas' no. 13 (neechabhanga)",
+        "view": "The fallen Moon harms the overall tenor of the chart and is read harshly in every house; neechabhanga arises when an exalted planet joins it, its sign lord is exalted or in a kendra from lagna or Moon.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Classical verses are mostly unfavourable, yet Brihat Jataka and Phaladeepika also mention a respected family or royal honour. Modern practitioners give a more psychological, growth-oriented reading. Commentators differ on whether the 'exaltation lord' for cancellation is Venus (lord of Taurus) or the planet exalted in Scorpio (none in the standard scheme). Braha reads the fallen Moon harshly in every house, while Frawley says cancellation is possible and a cancelled Moon in Scorpio gives psychological depth; Frawley's angle rule and Braha's angle readings conflict directly for the 1st, 4th, 7th and 10th houses. BPHS treats all of Scorpio as debilitation, while Braha (p. 47) says that past 3 degrees the Moon is technically no longer fallen.",
+    "confidence": "high",
+    "phrasing_guidance": "Never call the person cruel or secretive. Say the emotional nature is deep and protective, and that supports in the chart (cancellation, Jupiter) matter a lot. No health or parental-loss predictions."
+  },
+  {
+    "id": "planet_in_sign/moon/sagittarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Sagittarius"
+    },
+    "summary": "The Moon in Sagittarius is in Jupiter's sign (neutral). It gives an articulate, principled, energetic and independent mind, inclined to poetry, arts and dharma, that responds to persuasion rather than force.",
+    "themes": [
+      "neutral sign",
+      "eloquence",
+      "dharma",
+      "independence",
+      "arts",
+      "inheritance"
+    ],
+    "common_outcomes": [
+      "Good speaker or writer; poetic gift",
+      "Energetic, confident, knows right conduct",
+      "Responds to conciliation, not pressure",
+      "Some friction with relatives"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 17.9: wealth from the father; inclination to renunciation",
+      "Saravali 23.58: lives near water; knows secrets",
+      "Phaladeepika 9.9: favoured by rulers; defeats enemies"
+    ],
+    "by_area": {
+      "personality": "Vigorous, self-confident, knows dharma (Brihat Jataka 17.9); courageous, grateful, attached to kin (Saravali 23.58); deep and inventive intellect, upright, yielding to praise but inflexible to threats (Raman HPA ch. XXII).",
+      "career": "Poet, speaker and artist (Brihat Jataka 17.9); knows arts and secret matters (Saravali 23.58); Raman: author, patron of arts and literature.",
+      "finance": "Wealth through the father (Brihat Jataka 17.9); Raman: good inheritance and unexpected gifts.",
+      "health": "",
+      "relationships": "Responds to kindness rather than force (Phaladeepika 9.9); Raman: help from the wife, happy marriage.",
+      "family": "Brihat Jataka 17.9: at odds with relatives; Saravali 23.58: attached to kin; Raman: many children.",
+      "spirituality": "Knows dharma and leans toward renunciation (Brihat Jataka 17.9); Raman: ceremonial-minded and reflective."
+    },
+    "strengtheners": [
+      "Strong sign lord (Jupiter): Saravali 23.88 says the Moon-sign results come to pass fully only when the Moon, its sign and that sign's lord are strong",
+      "Sun's or Mars's aspect (Saravali 23.59-64: high status, command and wealth)",
+      "Jupiter's aspect (Saravali 23.59-64: ministerial rank)",
+      "Saturn's aspect (Saravali 23.59-64: eloquence and royal favour)",
+      "Bright (waxing, well-lit) Moon, which Braha (pp. 19-20) treats as benefic and stronger"
+    ],
+    "weakeners_or_cancellations": [
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker",
+      "Weak sign lord (Jupiter); Saravali 23.88 makes full results depend on the lord's strength",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 17.9 (tr. M. D. Neely, 2007)",
+        "view": "Long face and neck, large features, strong arms, wealth from father, inclined to renunciation, poet and speaker, artistic, vigorous, self-confident, knows dharma, at odds with relatives, won by conciliation not force.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501801.html"
+      },
+      {
+        "source": "Saravali 23.58, Moon in Sagittarius (tr. R. Santhanam)",
+        "view": "Short, big-hearted, good speaker, lives near water, knows arts and secrets, brave, strong, attached to kin, grateful, distinguished.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.59-64, aspects on the Moon in Sagittarius (tr. R. Santhanam)",
+        "view": "Sun: high status; Mars: command and wealth; Mercury: astrology and dance; Jupiter: ministerial rank; Venus: happiness and offspring; Saturn: eloquence and royal favour.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.9, 9.13 (tr. V. Subrahmanya Sastri)",
+        "view": "Sagittarius: long face and neck, large ears and nose, business-minded, favoured by rulers, eloquent, generous, defeats enemies, responds to kindness, strong.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table and his note on the Chaukhamba reading give the Moon's friends as Sun and Mercury, with Mars, Jupiter, Venus and Saturn neutral and no enemies.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "The Moon's friends are the Sun and Mercury; all the rest are neutral to it.",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Skilled in fine arts, deep and inventive intellect, good speech, upright, help from wife, happy marriage, many children, good inheritance, patron of arts, author, inflexible to threats.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka says at odds with relatives while Saravali says attached to kin. Other features agree.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as an articulate, principled, freedom-loving mind. Avoid predicting family conflict."
+  },
+  {
+    "id": "planet_in_sign/moon/capricorn",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Capricorn"
+    },
+    "summary": "The Moon in Capricorn is in Saturn's sign (neutral). It gives a practical, enduring, hard-working and family-attached mind with good memory and fortune, but classical texts warn of outward piety masking self-interest and a lack of warmth.",
+    "themes": [
+      "neutral sign",
+      "practicality",
+      "endurance",
+      "family attachment",
+      "reserve",
+      "ambition"
+    ],
+    "common_outcomes": [
+      "Practical, duty-bound, persistent",
+      "Strongly attached to spouse and children",
+      "Good memory; fortunate in the long run",
+      "Reserved or cool emotional expression"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 17.10, Saravali 23.65 and Phaladeepika 9.10: improper attachments; shamelessness",
+      "Saravali 23.65: a singer or poet; dislikes cold",
+      "Phaladeepika 9.10: completes tasks; wind disorders"
+    ],
+    "by_area": {
+      "personality": "Lazy yet restless, outwardly pious (Brihat Jataka 17.10); truthful, charitable and mild-tempered but unkind and miserly (Saravali 23.65); quick in perception, clever, crafty and strategic (Raman HPA ch. XXII).",
+      "career": "Brihat Jataka 17.10: a notable fighter; Saravali 23.65: singer and poet; Phaladeepika 9.10: completes tasks.",
+      "finance": "Brihat Jataka 17.10: fortunate; Saravali 23.65 and Raman: miserly or niggardly.",
+      "health": "Sensitivity to cold (Brihat Jataka 17.10; Saravali 23.65) and wind complaints (Phaladeepika 9.10); mention only as tradition.",
+      "relationships": "Texts list improper attachments (Brihat Jataka 17.10; Saravali 23.65; Raman); present gently.",
+      "family": "Very attached to spouse and children (Brihat Jataka 17.10; Raman HPA ch. XXII).",
+      "spirituality": "Brihat Jataka 17.10 and Phaladeepika 9.10 warn of outward piety without substance."
+    },
+    "strengtheners": [
+      "Strong sign lord (Saturn): Saravali 23.88 says the Moon-sign results come to pass fully only when the Moon, its sign and that sign's lord are strong",
+      "Jupiter's aspect (Saravali 23.66-71: high status, many dependents)",
+      "Mars's aspect (Mars exalted in Capricorn; Saravali 23.66-71: riches and bravery)",
+      "Bright (waxing, well-lit) Moon, which Braha (pp. 19-20) treats as benefic and stronger"
+    ],
+    "weakeners_or_cancellations": [
+      "Sun's aspect (Saravali 23.66-71: poverty)",
+      "Mercury's aspect (Saravali 23.66-71: dullness, loss)",
+      "Saturn's aspect (Saravali 23.66-71: laziness)",
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 17.10 (tr. M. D. Neely, 2007)",
+        "view": "Over-indulgent to spouse and children, outwardly pious but false, slender lower body, good eyes, strong memory, fortunate, lazy, feels the cold, restless, fighter, produces wise works, greedy, shameless.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501802.html"
+      },
+      {
+        "source": "Saravali 23.65, Moon in Capricorn (tr. R. Santhanam)",
+        "view": "Singer, dislikes cold, sturdy, truthful, charitable, famous, mild-tempered, desire-driven, unkind, lovely eyes, poet, lukewarm zeal, miserly.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.66-71, aspects on the Moon in Capricorn (tr. R. Santhanam)",
+        "view": "Sun: poverty; Mars: riches and bravery; Mercury: dullness; Jupiter: high status; Venus: luxuries; Saturn: laziness.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.10, 9.13 (tr. V. Subrahmanya Sastri)",
+        "view": "Capricorn: weak lower limbs, courageous, completes tasks, lazy, religious hypocrisy, fortunate, active, wind complaints.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table and his note on the Chaukhamba reading give the Moon's friends as Sun and Mercury, with Mars, Jupiter, Venus and Saturn neutral and no enemies.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "The Moon's friends are the Sun and Mercury; all the rest are neutral to it.",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Attached to wife and children, quick perception, clever, crafty, strategic, liberal yet niggardly; also lists improper attachments.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. 'The Signs: How Planets Transmit Influences of the Stars', p. 127",
+        "view": "Vedic astrology has no 'detriment'; the Moon in Capricorn can be considered favourable because only from there does it aspect its own sign, Cancer.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali calls the native truthful and charitable while Brihat Jataka and Phaladeepika stress hypocrisy; all agree on endurance and fortune. Frawley (p. 127) treats the Moon in Capricorn as favourable because it aspects its own sign Cancer, a structural argument the classical sign verses do not make.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as practical, loyal and enduring. Do not repeat moral labels (hypocrite, shameless); frame as a reminder to keep values and actions aligned."
+  },
+  {
+    "id": "planet_in_sign/moon/aquarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Aquarius"
+    },
+    "summary": "The Moon in Aquarius is in Saturn's other sign (neutral). Texts describe a tireless traveller with fluctuating fortunes, fond of perfumes, flowers and friends, but warn of a restless, rule-bending streak.",
+    "themes": [
+      "neutral sign",
+      "fluctuating fortune",
+      "travel",
+      "friendships",
+      "unconventionality"
+    ],
+    "common_outcomes": [
+      "Rising and falling fortunes",
+      "Enjoys travel and is tireless on journeys",
+      "Fond of friends, perfumes and flowers",
+      "Unconventional or rule-bending tendencies"
+    ],
+    "rare_outcomes": [
+      "Saravali 23.72: artisan; diseased eyes; very poor",
+      "Brihat Jataka 17.11: signs of frailty in later years",
+      "Phaladeepika 9.11: skilled at harming rivals; greedy"
+    ],
+    "by_area": {
+      "personality": "Secretive wrongdoing (Phaladeepika 9.11) and aversion to the virtuous (Saravali 23.72) in the classical verses; Raman HPA ch. XXII gives beautiful-minded, artistic, inoffensive and grateful, with a tendency to hypocrisy.",
+      "career": "Artisan (Saravali 23.72); endures long journeys (Phaladeepika 9.11); Raman: artistic taste, esoteric interests.",
+      "finance": "Gains and losses alternate (Brihat Jataka 17.11; Phaladeepika 9.11); Saravali 23.72: very poor; Raman: sudden rises and falls.",
+      "health": "",
+      "relationships": "Brihat Jataka 17.11 cautions about involvement in others' partners or wealth; handle gently.",
+      "family": "",
+      "spirituality": "Saravali 23.72: averse to conventional virtue; Raman: esoteric and mystical."
+    },
+    "strengtheners": [
+      "Strong sign lord (Saturn): Saravali 23.88 says the Moon-sign results come to pass fully only when the Moon, its sign and that sign's lord are strong",
+      "Jupiter's aspect (Saravali 23.73-78: land and estates)",
+      "Saturn's aspect (Saravali 23.73-78: property and wealth)",
+      "Mercury's aspect (Saravali 23.73-78: musical skill)",
+      "Sun's aspect (Saravali 23.73-78: dignified bearing)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus's aspect (Saravali 23.73-78: baseness, childlessness)",
+      "Mars's aspect (Saravali 23.73-78: indolence)",
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 17.11 (tr. M. D. Neely, 2007)",
+        "view": "Long neck, coarse hair, tall, broad build, frailty later, drawn to others' partners and wealth, rising and falling prosperity, fond of flowers, perfumes and friends, tireless traveller.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501803.html"
+      },
+      {
+        "source": "Saravali 23.72, Moon in Aquarius (tr. R. Santhanam)",
+        "view": "High nose, rough body, fond of intoxicants, averse to virtue, large head, eye trouble, bright face, artisan, poor and unhappy.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.73-78, aspects on the Moon in Aquarius (tr. R. Santhanam)",
+        "view": "Sun: dignified bearing; Mars: indolence; Mercury: musical skill; Jupiter: land and estates; Venus: baseness; Saturn: property and wealth.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.11, 9.13 (tr. V. Subrahmanya Sastri)",
+        "view": "Aquarius: hidden wrongdoing, pot-like body, endures long journeys, limited means, greedy, gains and losses, loves perfume and flowers.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table and his note on the Chaukhamba reading give the Moon's friends as Sun and Mercury, with Mars, Jupiter, Venus and Saturn neutral and no enemies.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "The Moon's friends are the Sun and Mercury; all the rest are neutral to it.",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Sudden rises and falls, beautiful-minded, artistic, inoffensive, esoteric, mystical, grateful, liable to fraud and deception; also lists hypocrisy.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali is the harshest (poverty, vices); Brihat Jataka and Phaladeepika give fluctuating rather than ruined fortunes.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as an independent, sociable, travel-loving mind with variable fortune. Avoid moral or addiction claims; suggest steady routines."
+  },
+  {
+    "id": "planet_in_sign/moon/pisces",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Moon",
+      "sign": "Pisces"
+    },
+    "summary": "The Moon in Pisces is in Jupiter's sign (neutral). Texts agree on a learned, attractive, devout and fortunate person who gains through water-related things, wins over opponents and is devoted to the spouse.",
+    "themes": [
+      "neutral sign",
+      "learning",
+      "devotion",
+      "water-related wealth",
+      "artistic",
+      "devotion to spouse"
+    ],
+    "common_outcomes": [
+      "Learned and wise",
+      "Attractive, radiant appearance",
+      "Wealth through water, sea or overseas connections",
+      "Overcomes opponents; devoted to spouse"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 17.12: wealth drawn from a large treasury or others' resources",
+      "Saravali 23.79: fond of sailing; serves rulers; skilled in fine arts and music",
+      "Phaladeepika 9.12: earns from pearls and sea products; drinks much water"
+    ],
+    "by_area": {
+      "personality": "Polite, somewhat irascible and liberal (Saravali 23.79); grateful (Phaladeepika 9.12); steady, simple and learned (Raman HPA ch. XXII).",
+      "career": "Pearls and ocean products (Phaladeepika 9.12; Raman: dealer in pearls); serves the king, skilled in fine arts and music, fond of sailing (Saravali 23.79).",
+      "finance": "Wealth from water-related sources (Brihat Jataka 17.12; Phaladeepika 9.12); happiness and wealth (Saravali 23.79).",
+      "health": "",
+      "relationships": "Devoted to and influenced by the spouse (Brihat Jataka 17.12; Phaladeepika 9.12; Raman).",
+      "family": "Fond of wife and children, many children (Raman HPA ch. XXII).",
+      "spirituality": "Very religious (Saravali 23.79); Raman: spiritually inclined later in life."
+    },
+    "strengtheners": [
+      "Strong sign lord (Jupiter): Saravali 23.88 says the Moon-sign results come to pass fully only when the Moon, its sign and that sign's lord are strong",
+      "Jupiter's aspect (Saravali 23.80-85: regional leadership)",
+      "Mercury's aspect (Saravali 23.80-85: high status)",
+      "Venus's aspect (Saravali 23.80-85: skill in dance and music)",
+      "Bright (waxing, well-lit) Moon, which Braha (pp. 19-20) treats as benefic and stronger"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 23.80-85: distress)",
+      "Mars's aspect (Saravali 23.80-85: valour but insult)",
+      "Waning or dim Moon, which Braha (pp. 19-20) treats as malefic and weaker",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest"
+    ],
+    "lagna_or_context_notes": "Phaladeepika 9.13 and Brihat Jataka 18.20 say the results given for a rising sign also apply when the Moon occupies that sign, and Braha (p. 20) reads the whole chart from the Moon as a second ascendant (Chandra lagna).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 17.12 (tr. M. D. Neely, 2007)",
+        "view": "Riches connected with water, fond of spouse, radiant body, prominent nose, beautiful eyes, overcomes enemies, influenced by women, wealth from a great treasury, wise and learned.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501804.html"
+      },
+      {
+        "source": "Saravali 23.79, Moon in Pisces (tr. R. Santhanam)",
+        "view": "Skilled in fine arts, wins over hostile people, learned, handsome, musical, very religious, polite, serves rulers, somewhat irritable, happy, wealthy, fond of sailing, generous.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 23.80-85, aspects on the Moon in Pisces (tr. R. Santhanam)",
+        "view": "Sun: military command; Mars: valour and insult; Mercury: high status; Jupiter: regional leadership; Venus: dance and music; Saturn: distress.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.12, 9.13 (tr. V. Subrahmanya Sastri)",
+        "view": "Pisces: well-proportioned shining body, devoted to wife, earns from pearls and ocean goods, learned, grateful, defeats enemies, good eyes, fortunate.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Saravali 23.88, when the results mature (tr. R. Santhanam)",
+        "view": "The Moon-sign effects come to pass fully only when the Moon, the Moon's sign and that sign's lord are strong; they vary with the dignity of the dispositor and of aspecting planets.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table and his note on the Chaukhamba reading give the Moon's friends as Sun and Mercury, with Mars, Jupiter, Venus and Saturn neutral and no enemies.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "The Moon's friends are the Sun and Mercury; all the rest are neutral to it.",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Moon, pp. 205-209)",
+        "view": "Dealer in pearls, fond of wife and children, handsome, learned, steady, simple, good reputation, many children, spiritually inclined later in life.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The Moon' pp. 19-21, 'House Rulerships' pp. 50-52 and 'Shad Bala' pp. 59-61",
+        "view": "A waxing, bright Moon is benefic and stronger and a waning, dim one malefic; the chart is also read from the Moon (Chandra lagna); the Moon has directional strength in the 4th; planets in kendras are powerful and in dusthanas spoiled.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources agree closely.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a learned, devout, fortunate and compassionate mind. Avoid over-promising wealth."
+  }
+]

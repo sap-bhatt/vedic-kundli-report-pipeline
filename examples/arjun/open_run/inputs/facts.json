@@ -1,0 +1,462 @@
+{
+ "lagna": {
+  "lon": 10.8592,
+  "sign": "Aries",
+  "sign_num": 1,
+  "deg_in_sign": "10°51'33\"",
+  "nakshatra": "Ashwini",
+  "pada": 4,
+  "vargas": {
+   "D1": "Aries",
+   "D2": "Leo",
+   "D3": "Leo",
+   "D7": "Gemini",
+   "D9": "Cancer",
+   "D10": "Cancer",
+   "D12": "Leo"
+  }
+ },
+ "planets": {
+  "Sun": {
+   "planet": "Sun",
+   "house": 5,
+   "sign": "Leo",
+   "dignity": "moolatrikona",
+   "rules_houses": [
+    5
+   ],
+   "role": [
+    "trikona_lord"
+   ],
+   "with": [],
+   "aspected_by": [
+    "Moon",
+    "Ketu"
+   ],
+   "nakshatra_lord": "Venus",
+   "sign_lord": "Sun",
+   "house_from_moon": 7,
+   "vargottama": false,
+   "d9_dignity": "other",
+   "retro": false,
+   "combust": false,
+   "karaka": "Bhratrikaraka",
+   "natural": "malefic",
+   "in_yogas": [
+    "Raja (kendra-trikona lords)"
+   ]
+  },
+  "Moon": {
+   "planet": "Moon",
+   "house": 11,
+   "sign": "Aquarius",
+   "dignity": "neutral",
+   "rules_houses": [
+    4
+   ],
+   "role": [
+    "kendra_lord"
+   ],
+   "with": [],
+   "aspected_by": [
+    "Sun",
+    "Jupiter",
+    "Saturn",
+    "Rahu"
+   ],
+   "nakshatra_lord": "Jupiter",
+   "sign_lord": "Saturn",
+   "house_from_moon": 1,
+   "vargottama": false,
+   "d9_dignity": "exalted",
+   "retro": false,
+   "combust": false,
+   "karaka": "Atmakaraka",
+   "natural": "benefic",
+   "in_yogas": [
+    "Raja (kendra-trikona lords)"
+   ]
+  },
+  "Mars": {
+   "planet": "Mars",
+   "house": 9,
+   "sign": "Sagittarius",
+   "dignity": "friend",
+   "rules_houses": [
+    1,
+    8
+   ],
+   "role": [
+    "lagna_lord",
+    "dusthana_lord",
+    "eighth_lord"
+   ],
+   "with": [
+    "Ketu"
+   ],
+   "aspected_by": [
+    "Jupiter",
+    "Rahu"
+   ],
+   "nakshatra_lord": "Ketu",
+   "sign_lord": "Jupiter",
+   "house_from_moon": 11,
+   "vargottama": false,
+   "d9_dignity": "other",
+   "retro": false,
+   "combust": false,
+   "karaka": "Darakaraka",
+   "natural": "malefic",
+   "in_yogas": [
+    "Raja (kendra-trikona lords)",
+    "Dhana (1/2/5/9/11 lords)"
+   ]
+  },
+  "Mercury": {
+   "planet": "Mercury",
+   "house": 6,
+   "sign": "Virgo",
+   "dignity": "exalted",
+   "rules_houses": [
+    3,
+    6
+   ],
+   "role": [
+    "dusthana_lord",
+    "trishadaya_lord"
+   ],
+   "with": [],
+   "aspected_by": [],
+   "nakshatra_lord": "Sun",
+   "sign_lord": "Mercury",
+   "house_from_moon": 8,
+   "vargottama": false,
+   "d9_dignity": "debilitated",
+   "retro": false,
+   "combust": false,
+   "karaka": "Gnatikaraka",
+   "natural": "benefic",
+   "in_yogas": [
+    "Viparita Raja (Harsha)"
+   ]
+  },
+  "Jupiter": {
+   "planet": "Jupiter",
+   "house": 3,
+   "sign": "Gemini",
+   "dignity": "enemy",
+   "rules_houses": [
+    9,
+    12
+   ],
+   "role": [
+    "trikona_lord",
+    "dusthana_lord"
+   ],
+   "with": [
+    "Rahu"
+   ],
+   "aspected_by": [
+    "Mars",
+    "Ketu"
+   ],
+   "nakshatra_lord": "Rahu",
+   "sign_lord": "Mercury",
+   "house_from_moon": 5,
+   "vargottama": false,
+   "d9_dignity": "other",
+   "retro": false,
+   "combust": false,
+   "karaka": "Matrikaraka",
+   "natural": "benefic",
+   "in_yogas": [
+    "Raja (kendra-trikona lords)",
+    "Dhana (1/2/5/9/11 lords)"
+   ]
+  },
+  "Venus": {
+   "planet": "Venus",
+   "house": 4,
+   "sign": "Cancer",
+   "dignity": "enemy",
+   "rules_houses": [
+    2,
+    7
+   ],
+   "role": [
+    "kendra_lord",
+    "maraka"
+   ],
+   "with": [],
+   "aspected_by": [
+    "Mars",
+    "Saturn"
+   ],
+   "nakshatra_lord": "Saturn",
+   "sign_lord": "Moon",
+   "house_from_moon": 6,
+   "vargottama": false,
+   "d9_dignity": "other",
+   "retro": false,
+   "combust": false,
+   "karaka": "Putrakaraka",
+   "natural": "benefic",
+   "in_yogas": [
+    "Kemadruma"
+   ]
+  },
+  "Saturn": {
+   "planet": "Saturn",
+   "house": 2,
+   "sign": "Taurus",
+   "dignity": "friend",
+   "rules_houses": [
+    10,
+    11
+   ],
+   "role": [
+    "kendra_lord",
+    "trishadaya_lord"
+   ],
+   "with": [],
+   "aspected_by": [],
+   "nakshatra_lord": "Moon",
+   "sign_lord": "Venus",
+   "house_from_moon": 4,
+   "vargottama": false,
+   "d9_dignity": "other",
+   "retro": false,
+   "combust": false,
+   "karaka": "Amatyakaraka",
+   "natural": "malefic",
+   "in_yogas": [
+    "Kemadruma"
+   ]
+  },
+  "Rahu": {
+   "planet": "Rahu",
+   "house": 3,
+   "sign": "Gemini",
+   "dignity": "-",
+   "rules_houses": [],
+   "role": [],
+   "with": [
+    "Jupiter"
+   ],
+   "aspected_by": [
+    "Mars",
+    "Ketu"
+   ],
+   "nakshatra_lord": "Rahu",
+   "sign_lord": "Mercury",
+   "house_from_moon": 5,
+   "vargottama": false,
+   "d9_dignity": "other",
+   "retro": false,
+   "combust": false,
+   "karaka": null,
+   "natural": "malefic",
+   "in_yogas": []
+  },
+  "Ketu": {
+   "planet": "Ketu",
+   "house": 9,
+   "sign": "Sagittarius",
+   "dignity": "-",
+   "rules_houses": [],
+   "role": [],
+   "with": [
+    "Mars"
+   ],
+   "aspected_by": [
+    "Jupiter",
+    "Rahu"
+   ],
+   "nakshatra_lord": "Ketu",
+   "sign_lord": "Jupiter",
+   "house_from_moon": 11,
+   "vargottama": false,
+   "d9_dignity": "other",
+   "retro": false,
+   "combust": false,
+   "karaka": null,
+   "natural": "malefic",
+   "in_yogas": []
+  }
+ },
+ "houses": [
+  {
+   "house": 1,
+   "sign": "Aries",
+   "lord": "Mars",
+   "lord_in_house": 9,
+   "lord_in_sign": "Sagittarius",
+   "lord_dignity": "friend",
+   "occupants": [],
+   "aspected_by": [
+    "Ketu"
+   ]
+  },
+  {
+   "house": 2,
+   "sign": "Taurus",
+   "lord": "Venus",
+   "lord_in_house": 4,
+   "lord_in_sign": "Cancer",
+   "lord_dignity": "enemy",
+   "occupants": [
+    "Saturn"
+   ],
+   "aspected_by": []
+  },
+  {
+   "house": 3,
+   "sign": "Gemini",
+   "lord": "Mercury",
+   "lord_in_house": 6,
+   "lord_in_sign": "Virgo",
+   "lord_dignity": "exalted",
+   "occupants": [
+    "Jupiter",
+    "Rahu"
+   ],
+   "aspected_by": [
+    "Mars",
+    "Ketu"
+   ]
+  },
+  {
+   "house": 4,
+   "sign": "Cancer",
+   "lord": "Moon",
+   "lord_in_house": 11,
+   "lord_in_sign": "Aquarius",
+   "lord_dignity": "neutral",
+   "occupants": [
+    "Venus"
+   ],
+   "aspected_by": [
+    "Mars",
+    "Saturn"
+   ]
+  },
+  {
+   "house": 5,
+   "sign": "Leo",
+   "lord": "Sun",
+   "lord_in_house": 5,
+   "lord_in_sign": "Leo",
+   "lord_dignity": "moolatrikona",
+   "occupants": [
+    "Sun"
+   ],
+   "aspected_by": [
+    "Moon",
+    "Ketu"
+   ]
+  },
+  {
+   "house": 6,
+   "sign": "Virgo",
+   "lord": "Mercury",
+   "lord_in_house": 6,
+   "lord_in_sign": "Virgo",
+   "lord_dignity": "exalted",
+   "occupants": [
+    "Mercury"
+   ],
+   "aspected_by": []
+  },
+  {
+   "house": 7,
+   "sign": "Libra",
+   "lord": "Venus",
+   "lord_in_house": 4,
+   "lord_in_sign": "Cancer",
+   "lord_dignity": "enemy",
+   "occupants": [],
+   "aspected_by": [
+    "Jupiter",
+    "Rahu"
+   ]
+  },
+  {
+   "house": 8,
+   "sign": "Scorpio",
+   "lord": "Mars",
+   "lord_in_house": 9,
+   "lord_in_sign": "Sagittarius",
+   "lord_dignity": "friend",
+   "occupants": [],
+   "aspected_by": [
+    "Saturn"
+   ]
+  },
+  {
+   "house": 9,
+   "sign": "Sagittarius",
+   "lord": "Jupiter",
+   "lord_in_house": 3,
+   "lord_in_sign": "Gemini",
+   "lord_dignity": "enemy",
+   "occupants": [
+    "Mars",
+    "Ketu"
+   ],
+   "aspected_by": [
+    "Jupiter",
+    "Rahu"
+   ]
+  },
+  {
+   "house": 10,
+   "sign": "Capricorn",
+   "lord": "Saturn",
+   "lord_in_house": 2,
+   "lord_in_sign": "Taurus",
+   "lord_dignity": "friend",
+   "occupants": [],
+   "aspected_by": [
+    "Venus"
+   ]
+  },
+  {
+   "house": 11,
+   "sign": "Aquarius",
+   "lord": "Saturn",
+   "lord_in_house": 2,
+   "lord_in_sign": "Taurus",
+   "lord_dignity": "friend",
+   "occupants": [
+    "Moon"
+   ],
+   "aspected_by": [
+    "Sun",
+    "Jupiter",
+    "Saturn",
+    "Rahu"
+   ]
+  },
+  {
+   "house": 12,
+   "sign": "Pisces",
+   "lord": "Jupiter",
+   "lord_in_house": 3,
+   "lord_in_sign": "Gemini",
+   "lord_dignity": "enemy",
+   "occupants": [],
+   "aspected_by": [
+    "Mars",
+    "Mercury"
+   ]
+  }
+ ],
+ "yogas_present": [
+  "Raja (kendra-trikona lords)",
+  "Viparita Raja (Harsha)",
+  "Kemadruma",
+  "Dhana (1/2/5/9/11 lords)",
+  "Guru-Chandal"
+ ],
+ "running_dasha": "Saturn-Rahu"
+}

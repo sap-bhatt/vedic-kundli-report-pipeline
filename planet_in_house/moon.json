@@ -1,0 +1,578 @@
+[
+  {
+    "id": "planet_in_house/moon/1",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 1},
+    "summary": "The Moon in the lagna makes the mind and moods visible in the person. A strong (waxing or well-placed) Moon gives charm, health and wealth; a weak or waning one gives a fragile, dependent temperament. Phase and sign decide almost everything.",
+    "themes": ["temperament and mood", "appearance", "popularity", "restlessness", "Moon's phase"],
+    "common_outcomes": [
+      "Waxing Moon: strong body, long life, fearlessness, power and wealth (Phaladeepika 8.5); full Moon: long life and learning (Jataka Parijata 8.57)",
+      "Waning Moon: the reverse, a weak and dependent condition (Phaladeepika 8.5; Jataka Parijata 8.57)",
+      "Fanciful, romantic, restless yet easy-going, with changing fortunes (Raman)",
+      "Sociable, attractive, liked by the opposite sex (Raman HPA)",
+      "Much travel (Raman)"
+    ],
+    "rare_outcomes": [
+      "Outside Aries, Taurus or Cancer: dullness, mental weakness, defects of speech, sight or hearing, servility (Brihat Jataka 20.4)",
+      "Inclined to corpulence, a 'windy' constitution, ailments of the private parts or ears (Raman HPA)",
+      "Success in work that deals with the public (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Fanciful, romantic, idealistic, sociable, capricious and fickle-minded (Raman); health and mood show on the face (PanchangBodh).",
+      "career": "Success in professions that bring contact with the masses (Raman, How to Judge a Horoscope).",
+      "finance": "Wealth with a waxing, exalted or own-sign Moon (Phaladeepika 8.5, Jataka Parijata 8.57, Brihat Jataka 20.4).",
+      "health": "Health follows mood (PanchangBodh); Raman HPA lists a windy temperament and ear complaints.",
+      "relationships": "Loved by the opposite sex (Raman HPA).",
+      "family": "Aries lagna with the Moon there: many children (Brihat Jataka 20.4).",
+      "spirituality": "With Jupiter the mind is elevated (Raman, How to Judge a Horoscope)."
+    },
+    "strengtheners": [
+      "Waxing or full Moon (Phaladeepika 8.5, Jataka Parijata 8.57; PanchangBodh)",
+      "Moon in Aries, Taurus or Cancer in the lagna escapes the bad results (Brihat Jataka 20.4)",
+      "Exalted (Taurus) or own sign (Cancer) in the lagna: wealth, fame and beauty (Jataka Parijata 8.57)",
+      "Jupiter with the Moon: elevated mind (Raman, How to Judge a Horoscope)"
+    ],
+    "weakeners_or_cancellations": [
+      "Waning Moon reverses the good results (Phaladeepika 8.5); deafness, a defective limb, a servile mind (Jataka Parijata 8.57)",
+      "Waning Moon plus a malefic in the lagna: very low vitality (Jataka Parijata 8.57)",
+      "Saturn with the Moon: constant worry (Raman, How to Judge a Horoscope)",
+      "Rahu with the Moon: hysterical tendencies (Raman, How to Judge a Horoscope)",
+      "Mars with the Moon: menstrual disorders in women (Raman, How to Judge a Horoscope)"
+    ],
+    "lagna_or_context_notes": "Brihat Jataka 20.4: the bad results do not apply for Aries, Taurus or Cancer lagna; Cancer (own sign) makes the native rich, Aries gives many children, Taurus gives wealth. Jataka Parijata 8.57: exalted or own-sign Moon in the lagna gives wealth, fame and beauty. Raman notes the planet's dignity and aspects must modify the reading (How to Judge a Horoscope, intro to 'Planets in the First House').",
+    "source_views": [
+      {"source": "Phaladeepika 8.5 (English tr. on siva.sh)", "view": "Waxing Moon in the lagna: strong body, long life, fearless, powerful, wealthy; a waning Moon gives the reverse.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.4 (tr. V. Subrahmanya Sastri)", "view": "Mute, insane, dull, blind, mean, deaf or servile, except in Aries, Taurus or Cancer; own sign rich, Aries many children, Taurus wealthy. Sastri's note: the Moon is generally bad in the lagna except in these three signs.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.57 (tr. V. Subrahmanya Sastri)", "view": "Waning Moon: deaf, defective limb, servile; with a malefic, little vitality. Exalted or own sign: wealth, fame, beauty. Full Moon: long life and learning.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Fanciful, romantic, moderate eater, attractive, inclined to stoutness, much travel, capricious, sociable, educated, loved by the opposite sex, shy, proud, fickle and eccentric.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the First House'", "view": "Fanciful, romantic, restless but easy-going, changing fortune, idealist and traveller; Saturn: worry; Mars: menstrual disorders; Rahu: hysteria; Jupiter: elevated mind; success with the masses.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses (modern site)", "view": "Mood shows on the face; waxing gives an open, appealing presence, waning turns sensitivity inward; health follows mood.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed (Mona), Effects of Moon in 12 Houses (modern site)", "view": "Friendly and caring, varied experiences and travel; moody, sensitive, self-conscious.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "Brihat Jataka is the harshest (dull, impaired) unless the sign is Aries, Taurus or Cancer; Phaladeepika and Jataka Parijata make phase the deciding factor rather than sign; Raman reads it as a romantic, restless, sociable temperament without such extremes.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a responsive, expressive and people-oriented nature whose wellbeing tracks mood. Never use the old 'dull' or 'impaired' wording; suggest routines that steady emotions."
+  },
+  {
+    "id": "planet_in_house/moon/2",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 2},
+    "summary": "The Moon in the 2nd is good for wealth, family and pleasant, persuasive speech, though income may rise and fall.",
+    "themes": ["wealth", "family", "speech", "attractiveness"],
+    "common_outcomes": [
+      "Wealthy (Phaladeepika 8.5, Jataka Parijata 8.62, Raman)",
+      "Large or happy family (Brihat Jataka 20.4; Raman, How to Judge a Horoscope)",
+      "Sweet, persuasive or learned speech (Phaladeepika 8.5, Jataka Parijata 8.62, Raman HPA)",
+      "Handsome or attractive, much admired (Raman)"
+    ],
+    "rare_outcomes": [
+      "Defect in some limb (Phaladeepika 8.5)",
+      "Squint eyes; reserved and not very sociable (Dhundiraja, as quoted by Raman, How to Judge a Horoscope)",
+      "Shrewd at guessing others' hidden intentions; fond of study (Jataka Parijata 8.62)",
+      "Breaks in education (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Generous, intelligent, charming, poetic (Raman HPA); sensual (Phaladeepika 8.5).",
+      "career": "",
+      "finance": "Wealthy, but the position is somewhat variable; money through women (Raman, How to Judge a Horoscope); income comes in waves (PanchangBodh).",
+      "health": "",
+      "relationships": "Fond of women and well liked (Jataka Parijata 8.62).",
+      "family": "Large family and much happiness (Brihat Jataka 20.4; Raman); family women anchor security (PanchangBodh).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Taurus (exaltation) in the 2nd; Cancer guards savings (PanchangBodh)",
+      "Results improve with dignity of the sign held (Brihat Jataka 20.10)"
+    ],
+    "weakeners_or_cancellations": [
+      "A waning Moon in Scorpio here benefits from automatic savings (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "PanchangBodh: Cancer in the 2nd guards savings, Taurus is exaltation, a waning Moon in Scorpio needs disciplined saving.",
+    "source_views": [
+      {"source": "Phaladeepika 8.5", "view": "Wealthy, learned or eloquent, sensual, a defect in some limb.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.4 with notes", "view": "A man of large family. Note: interests become mixed up with others.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.62", "view": "Fond of women, beloved, pleasant speech, good at guessing others' purposes, studious, rich.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Wealthy, handsome, generous, intelligent, breaks in education, charming, poetic, respected, sweet persuasive speech, squint eyes, admired.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Second House'", "view": "Large family, much happiness, money through women, variable finances, fair complexion; quotes Dhundiraja: reserved, squint-eyed, much admired.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses", "view": "Income in waves, savings track mood; mother's line and household women anchor security; speech carries feeling; aspect to the 8th keeps inheritance emotional.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed, Effects of Moon in 12 Houses", "view": "Calm, polite, trustworthy, links money to emotional security; overspending and attachment to possessions.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "Raman HPA calls the native sociable and charming, while Dhundiraja (via Raman) calls him reserved. Phaladeepika alone adds a defective limb.",
+    "confidence": "high",
+    "phrasing_guidance": "Talk about warmth in speech, family support and good earning, with advice to smooth out ups and downs in money."
+  },
+  {
+    "id": "planet_in_house/moon/3",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 3},
+    "summary": "The Moon in the 3rd gives siblings, an active, travelling mind and changing work. Texts disagree on character: some give strength and virtue, others hardness and stinginess, especially with a waning Moon.",
+    "themes": ["siblings", "restless and active mind", "travel", "effort", "character"],
+    "common_outcomes": [
+      "Has brothers or many siblings (Phaladeepika 8.5, Raman HPA)",
+      "Active mind, fond of travel, changes of occupation (Raman)",
+      "Miserly or stingy (Phaladeepika 8.5, Raman HPA)",
+      "Hard or cruel streak (Brihat Jataka 20.4, Raman HPA)"
+    ],
+    "rare_outcomes": [
+      "Kind to relatives and virtuous but of modest wealth (Jataka Parijata 8.65)",
+      "Sickly, dyspeptic, later piles (Raman HPA)",
+      "Fair wife, subordinate to the wife, attached to children (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Lustful and strong (Phaladeepika 8.5); mild yet unscrupulous, purposeless and miserly in Raman HPA.",
+      "career": "Frequent changes in occupation (Raman, How to Judge a Horoscope); writing, teaching and media suit it (PanchangBodh).",
+      "finance": "Little wealth (Jataka Parijata 8.65).",
+      "health": "Raman HPA lists a sickly, dyspeptic, lean body.",
+      "relationships": "Subordinate to wife (Raman, How to Judge a Horoscope).",
+      "family": "Brothers and sisters (Phaladeepika 8.5, Raman HPA); kind to relatives (Jataka Parijata 8.65).",
+      "spirituality": "Rather indifferent to spiritual values (Raman, How to Judge a Horoscope); impious (Raman HPA)."
+    },
+    "strengtheners": [
+      "Upachaya house: improves with effort over time (PanchangBodh)",
+      "Cancer or Taurus here steadies effort (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Waning Moon: cruel, miserable, impious, unscrupulous (Raman, How to Judge a Horoscope)",
+      "Afflicted: unfavourable for peace of mind (Raman, How to Judge a Horoscope)",
+      "Sastri's note to Brihat Jataka: the Moon is bad in the 3rd"
+    ],
+    "lagna_or_context_notes": "PanchangBodh: Cancer or Taurus in the 3rd steadies effort; Scorpio asks for patience.",
+    "source_views": [
+      {"source": "Phaladeepika 8.5", "view": "Has brothers, lustful, strong but very stingy.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.4 with notes", "view": "Cruel. Note: the Moon is bad in the 3rd, 6th and 12th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.65", "view": "Small wealth, kind to relatives, virtuous.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Sickly, dyspeptic, mild, lean, disappointments, impious, many brothers and sisters, cruel, educated, famous, intelligent, unscrupulous, miserly, fond of travel, active-minded.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Third House'", "view": "Changes of occupation, travel, active mind, fair wife, knowledgeable, indifferent to spiritual values, subordinate to wife, attached to children; waning: cruel, impious, unscrupulous.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses", "view": "Upachaya; courage follows mood so routine helps; sisters central; writing, teaching and media; aspect to the 9th links effort to fortune.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed, Effects of Moon in 12 Houses", "view": "Creative, imaginative, intuitive, close to siblings, loves travel; emotions can overwhelm, trouble focusing.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "Jataka Parijata calls the native kind and virtuous, while Brihat Jataka and Raman HPA call him cruel; Raman makes the harsh side depend on a waning Moon. Phaladeepika gives strength, Raman HPA a sickly body.",
+    "confidence": "medium",
+    "phrasing_guidance": "Highlight curiosity, communication and sibling bonds, and suggest routines that keep a busy mind focused. Avoid labelling character as cruel or stingy."
+  },
+  {
+    "id": "planet_in_house/moon/4",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 4},
+    "summary": "The Moon in the 4th is one of its best placements: happiness, home, vehicles, friends and a strong bond with the mother. Its directional strength lies here.",
+    "themes": ["happiness", "home and mother", "vehicles and property", "comfort", "popularity"],
+    "common_outcomes": [
+      "Happy and contented (Phaladeepika 8.6, Brihat Jataka 20.4, Raman)",
+      "Vehicles, friends and renown (Phaladeepika 8.6)",
+      "Owns a house; happiness from relatives (Raman, How to Judge a Horoscope)",
+      "Fine tastes, polite manners, well educated (Raman HPA)"
+    ],
+    "rare_outcomes": [
+      "Desires other people's spouses (Jataka Parijata 8.68)",
+      "Becomes a leader; proud and somewhat quarrelsome (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Contented, generous, pleasure-loving (Phaladeepika 8.6); good nature and learning (Jataka Parijata 8.68).",
+      "career": "May become important as a leader (Raman, How to Judge a Horoscope).",
+      "finance": "Wealthy and successful (Raman HPA); prosperity (Jataka Parijata 8.68).",
+      "health": "",
+      "relationships": "Raman lists sensual pleasures unless Jupiter aspects.",
+      "family": "Home, mother, land and vehicles matter greatly (PanchangBodh); a good mother (Raman HPA).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Directional strength (digbala) in the 4th; a waxing Moon here is among the steadiest placements (PanchangBodh)",
+      "Jupiter's aspect restrains sensual excess (Raman, How to Judge a Horoscope)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Moon: early separation from the mother (Raman, How to Judge a Horoscope); with malefics, early loss of the mother (Raman HPA)",
+      "The 'karaka bhava nashaya' maxim (significator in its own house harms it) is later than Parashara and matters mainly for a waning or afflicted Moon (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.6 (English tr. on siva.sh)", "view": "Content, pleasure-seeking, generous, with friends, vehicles and renown.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.4 with notes", "view": "Happy; the Moon improves the 4th and 5th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.68", "view": "Learning, good nature and prosperity, but covets others' wives.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Comfortable, fine taste, polite, well educated, happy, licentious, helped by all, wealthy, good mother, popular; mother's early loss if with malefics.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Fourth House'", "view": "Owns a house, happy with relatives, cheerful, a leader, proud, somewhat quarrelsome; afflicted: early separation from mother; sensual unless Jupiter aspects.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses", "view": "Own ground with digbala; home, mother, land, vehicles; waxing Moon very steady; karako bhava nashaya is not Parashara's.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed, Effects of Moon in 12 Houses", "view": "Attached to family and mother, protective and caring; family focus may strain the marriage.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "Broad agreement on happiness and home. Jataka Parijata and Raman HPA add a sensual or roving streak not found in Phaladeepika or Brihat Jataka. PanchangBodh rejects a strong 'karaka in own house' penalty.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak warmly of home, comfort and family support. Do not mention a parent's early loss."
+  },
+  {
+    "id": "planet_in_house/moon/5",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 5},
+    "summary": "The Moon in the 5th gives children, a sharp and creative intellect and a chance at advisory or state roles.",
+    "themes": ["children", "intellect", "creativity", "counsel and office"],
+    "common_outcomes": [
+      "Good children (Phaladeepika 8.6, Brihat Jataka 20.4; Raman, How to Judge a Horoscope)",
+      "Sharp intellect and clarity of mind (Phaladeepika 8.6; Raman)",
+      "Ministerial office or service to the state (Phaladeepika 8.6; Raman)",
+      "High-minded, compassionate, acts after careful thought (Jataka Parijata 8.71)"
+    ],
+    "rare_outcomes": [
+      "Many daughters; gains through animals; interrupted education (Raman HPA)",
+      "Tendency to speculate; one child becomes famous (Raman, How to Judge a Horoscope)",
+      "Acquires lands, gems and precious stones (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Straightforward, truthful, learned and god-fearing (Raman, How to Judge a Horoscope); subtle and shrewd (Raman HPA).",
+      "career": "Minister or state office (Phaladeepika 8.6, Raman); teaching young people (PanchangBodh).",
+      "finance": "Rich (Jataka Parijata 8.71); speculation tendency (Raman, How to Judge a Horoscope).",
+      "health": "",
+      "relationships": "A handsome spouse (Raman HPA); romance is affectionate (PanchangBodh).",
+      "family": "Happiness from children (Raman, How to Judge a Horoscope).",
+      "spirituality": "Devotion and mantra come easily (PanchangBodh); god-fearing (Raman, How to Judge a Horoscope)."
+    },
+    "strengtheners": [
+      "Waxing Moon in this trikona is fortunate (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.6", "view": "Good sons, sharp intellect, graceful bearing, ministerial post.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.4", "view": "Will have children.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.71", "view": "High-minded, rich, compassionate, carries out what is decided after deep thought.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Subtle, handsome spouse, shrewd, showy, many daughters, intelligent, gains through animals, interrupted education, high political office.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Fifth House'", "view": "Clarity of mind, children, lands and gems, service to the state, truthful, learned, god-fearing, no enemies, speculation, a famous child.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses", "view": "Creative, affectionate mind; attachment to children and romance; devotion; analytical depth depends on Mercury.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed, Effects of Moon in 12 Houses", "view": "Romantic, good with children, creative talent; possessiveness and emotional imbalance.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "No major disagreement. Raman HPA mentions many daughters where Phaladeepika speaks of good sons.",
+    "confidence": "high",
+    "phrasing_guidance": "Emphasise creativity, good judgement and joy through children or students. Keep speculation advice cautious."
+  },
+  {
+    "id": "planet_in_house/moon/6",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 6},
+    "summary": "The Moon in the 6th is a weak placement for health, digestion and peace of mind and brings rivals, though it suits service and caring work. A full Moon fares much better than a waning one.",
+    "themes": ["health and digestion", "enemies", "service", "worry", "Moon's phase"],
+    "common_outcomes": [
+      "Stomach or digestive troubles (Phaladeepika 8.6, Brihat Jataka 20.4, Raman)",
+      "Many enemies or rivals (Brihat Jataka 20.4, Raman HPA)",
+      "Delicate constitution, weak sexual vigour, indolence (Brihat Jataka 20.4, Raman)",
+      "Success in subordinate or service roles (Raman, How to Judge a Horoscope; PanchangBodh)"
+    ],
+    "rare_outcomes": [
+      "Full Moon: very sensual and long-lived (Jataka Parijata 8.75)",
+      "Humiliation (Phaladeepika 8.6)",
+      "Success as a caterer (Raman, How to Judge a Horoscope)",
+      "Ill health in early childhood (balarishta) (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Harsh-tempered and lazy at work (Brihat Jataka 20.4); short-tempered, refined and tender (Raman HPA).",
+      "career": "Ability in subordinate posts; catering (Raman, How to Judge a Horoscope); nursing, healthcare and service (PanchangBodh).",
+      "finance": "Poor (Raman HPA).",
+      "health": "Stomach troubles (Phaladeepika 8.6, Raman); sleep, fluid balance and digestion (PanchangBodh); difficulties often ease by the forties (PanchangBodh).",
+      "relationships": "Submissive to the opposite sex (Raman).",
+      "family": "Worried by cousins (Raman HPA).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Full Moon (Jataka Parijata 8.75)",
+      "Fortified Moon: success in lunar fields of work (Raman, How to Judge a Horoscope)",
+      "Cancer or Taurus supports stamina; a waning Moon needs a benefic aspect (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Waning Moon: reduced vitality (Jataka Parijata 8.75)",
+      "Afflicted by Mars and Saturn: unusual, hard-to-treat illnesses and vengeful enemies (Raman, How to Judge a Horoscope)",
+      "Afflicted by Rahu: skin troubles; by Saturn: chronic complaints; by the Sun: poor digestion (Raman, How to Judge a Horoscope)"
+    ],
+    "lagna_or_context_notes": "Raman: in a fixed sign the 6th-house Moon points to bladder stones, and afflicted in a common sign to lung troubles (How to Judge a Horoscope). PanchangBodh: Cancer or Taurus supports stamina.",
+    "source_views": [
+      {"source": "Phaladeepika 8.6", "view": "Reduced longevity, dull mind, stomach complaints, humiliation.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.4", "view": "Many enemies, delicate body, weak digestion, weak sexual passion, harsh temper, lazy.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.75", "view": "Waning Moon: short-lived; full Moon: very sensual and long-lived.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Submissive to the opposite sex, indolent, short-tempered, intelligent, slender, weak sexual vigour, poor, refined, stomach troubles, many foes, worried by cousins.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Sixth House'", "view": "Childhood ill-health; Mars-Saturn affliction: curious diseases, vengeful enemies; success in subordinate posts; fixed sign: bladder stone; common sign: lung trouble; caterer; affliction notes by planet.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses", "view": "Worries about others' problems, debts, stomach, sleep and fluids; strength for nursing and service; often eases by the forties; waning Moon needs routine.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed, Effects of Moon in 12 Houses", "view": "Hardworking and organised; oversensitive, aches, weaker immunity, short temper.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "Jataka Parijata makes the result turn on phase (full Moon long-lived and sensual), while Phaladeepika and Brihat Jataka are negative regardless of phase. VedicFeed and PanchangBodh add a positive service and work-ethic side.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a caring, service-minded person who should protect sleep, diet and routine. Never mention lifespan or childhood danger; keep health advice general."
+  },
+  {
+    "id": "planet_in_house/moon/7",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 7},
+    "summary": "The Moon in the 7th gives an attractive spouse and a sociable, passionate nature, with jealousy and a roving eye as the cautions.",
+    "themes": ["marriage", "attraction", "passion and jealousy", "sociability"],
+    "common_outcomes": [
+      "Attractive spouse who loves the native; good looks (Phaladeepika 8.6; Raman)",
+      "Passionate and fond of the opposite sex (Brihat Jataka 20.5, Jataka Parijata 8.79, Raman)",
+      "Jealous or envious (Brihat Jataka 20.5, Raman)",
+      "Sociable, energetic and successful (Raman)"
+    ],
+    "rare_outcomes": [
+      "Compassionate and given to wandering (Jataka Parijata 8.79)",
+      "Pain in the loins or groin; stingy (Raman)"
+    ],
+    "by_area": {
+      "personality": "Narrow-minded but sociable (Raman); compassionate (Jataka Parijata 8.79).",
+      "career": "Popular in dealings (PanchangBodh).",
+      "finance": "",
+      "health": "Pain in the loins (Raman).",
+      "relationships": "Handsome spouse (Phaladeepika 8.6, Raman HPA); the native may seek other partners (Raman, How to Judge a Horoscope); spouse often nurturing and home-loving, with risk of depending on a partner's mood (PanchangBodh).",
+      "family": "Good family background if the Moon is waxing and strong (Raman, How to Judge a Horoscope).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Waxing and strong Moon: good family background (Raman, How to Judge a Horoscope)",
+      "Phase and aspect decide which side shows (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Waning Moon: constant quarrels with opponents (Raman, How to Judge a Horoscope)",
+      "Sastri's note to Brihat Jataka: the Moon is not very good in the 7th"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.6", "view": "Pleasant appearance, loved by an attractive spouse, very handsome.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.5 with notes", "view": "Envious and deeply in love; note: the Moon is not very good in the 7th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.79", "view": "Compassionate, wandering, yields to women, sensual.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Passionate, fond of women, handsome spouse, narrow-minded, good family, loin pains, social, successful, jealous, energetic.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the 7th House'", "view": "Passionate and jealous; good-looking spouse but native seeks others; sociable, energetic, successful; good family if waxing; groin pain; stingy; waning: quarrels with enemies.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses", "view": "Mind settles through partnership; nurturing spouse linked with water, food or care; popular dealings; risk of dependence; phase and aspect decide.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed, Effects of Moon in 12 Houses", "view": "Affectionate partner and strong bonds; relationship problems, in severe cases separation.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "Phaladeepika is wholly positive (a loving, attractive spouse); Brihat Jataka's note and Raman add jealousy and wandering affections.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of warmth, attraction and emotional need in partnership; frame jealousy and mood-dependence as things to talk through. Do not predict infidelity or separation."
+  },
+  {
+    "id": "planet_in_house/moon/8",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 8},
+    "summary": "The Moon in the 8th is classically weak for health and peace of mind, giving a fickle or anxious temperament, with gains through legacies as a recurring compensation.",
+    "themes": ["emotional unrest", "health", "inheritance", "depth and secrecy"],
+    "common_outcomes": [
+      "Prone to illness (Phaladeepika 8.7, Brihat Jataka 20.5, Raman)",
+      "Fickle or unsteady mind; anxiety (Brihat Jataka 20.5; Raman)",
+      "Gains through legacies or inheritance (Raman)",
+      "Slender build and weak eyesight (Raman)"
+    ],
+    "rare_outcomes": [
+      "Eager for a fight, liberal, fond of amusement and learning (Jataka Parijata 8.82; Raman, How to Judge a Horoscope)",
+      "Excessive perspiration; kidney trouble (Raman)",
+      "Few children (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Capricious, apprehensive, fond of amusement and large-hearted (Raman, How to Judge a Horoscope).",
+      "career": "Intuition, healing, research and occult study (PanchangBodh).",
+      "finance": "Easy acquisitions through legacy (Raman).",
+      "health": "Sickly (Phaladeepika 8.7, Brihat Jataka 20.5); weak eyes, bilious (Raman HPA).",
+      "relationships": "",
+      "family": "Raman lists early loss of the mother as a classical indication.",
+      "spirituality": "Suits intuition and occult study (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Waxing phase or benefic aspect softens the placement (PanchangBodh)",
+      "Bhattotpala reads benefics in the 8th as lengthening life (Brihat Jataka 20.10 notes)"
+    ],
+    "weakeners_or_cancellations": [
+      "With Mars and Saturn: eyesight afflicted (Raman, How to Judge a Horoscope)",
+      "A waning Moon without benefic support keeps old emotional material alive (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.7", "view": "Prone to illness and of reduced longevity.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.5 with notes", "view": "Fickle mind and diseases; note: the Moon in the 8th makes one sickly.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.82", "view": "Eager for war, liberal, fond of amusement and learning.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Unhealthy, legacy, capricious, mother short-lived, few children, bilious, slender, bad sight, kidney disease, unsteady, easy acquisitions.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Eighth House'", "view": "Mental aberration, apprehensive, complexes, capricious, unhealthy; may lose mother early; slender, weak eyes; legacies; fond of fighting and amusement, large-hearted; perspiration; Mars and Saturn affect eyesight.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses", "view": "Dusthana but also longevity and inheritance; intuition, healing, research, occult; feelings run underground; aspect to the 2nd; waxing phase or benefic aspect softens.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed, Effects of Moon in 12 Houses", "view": "Resilient and serious about goals, possibly long life, unexpected gains; moody, business losses, low energy.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "Jataka Parijata gives a lively, liberal, learned person with no illness note, unlike the other classics. VedicFeed even suggests long life, against Phaladeepika.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame this as emotional depth, intuition and resilience, with self-care for stress. Never mention lifespan, a parent's death or mental illness."
+  },
+  {
+    "id": "planet_in_house/moon/9",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 9},
+    "summary": "The Moon in the 9th is very fortunate: prosperity, children, friends, virtue and devotion, with success in what one begins.",
+    "themes": ["fortune", "dharma and devotion", "children and kin", "travel", "charity"],
+    "common_outcomes": [
+      "Prosperous and fortunate (Phaladeepika 8.7, Raman)",
+      "Sons, friends and relatives (Brihat Jataka 20.5; Raman, How to Judge a Horoscope)",
+      "Devoted to gods and ancestors, gives generously (Jataka Parijata 8.86; Raman HPA)",
+      "Virtuous and principled (Phaladeepika 8.7; Raman)"
+    ],
+    "rare_outcomes": [
+      "Successful from the start of undertakings, victorious (Phaladeepika 8.7)",
+      "Builds charitable institutions; acquires good property; visits foreign countries (Raman)",
+      "Lover of fiction; agricultural success (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Popular, educated, generous-minded (Raman).",
+      "career": "Fortune through elders or teachers (PanchangBodh).",
+      "finance": "Wealthy, with immovable property (Raman).",
+      "health": "",
+      "relationships": "",
+      "family": "Many sons, friends and kinsmen (Brihat Jataka 20.5, Raman); good children (Raman HPA).",
+      "spirituality": "Religious, devotional and mystical (Raman HPA); pilgrimage, teachers and philosophy settle the mind (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Aspects of Saturn, Mars and Mercury on the Moon: the native becomes a ruler (Raman, How to Judge a Horoscope)",
+      "Waxing Moon is fortunate; Jupiter's aspect helps a waning one (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars with the Moon: harm to the mother (Raman, How to Judge a Horoscope)",
+      "Venus with the Moon: an irregular moral life (Raman, How to Judge a Horoscope)",
+      "Saturn here causes much suffering (Raman, How to Judge a Horoscope)"
+    ],
+    "lagna_or_context_notes": "PanchangBodh: Scorpio in the 9th (the Moon's debilitation) suggests faith reached through questioning.",
+    "source_views": [
+      {"source": "Phaladeepika 8.7", "view": "Prosperous, virtuous, has children, victorious, successful from the start of undertakings.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.5 with notes", "view": "Sons, friends, relations and wealth; note: very good in the 9th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.86", "view": "Devoted to duties toward ancestors and gods; generous gifts.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Popular, educated, intelligent, charitable institutions, wealthy, travel, godly, good children, property, religious, mystical, righteous, good reputation.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Ninth House'", "view": "Fortunate and prosperous, many sons and friends, principled, generous; Saturn, Mars, Mercury aspects make a ruler; conjunction cautions for Mars, Venus, Saturn; charitable institutions, property, foreign travel.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses", "view": "Belief becomes emotional reality; pilgrimage and teachers; fortune through elders; waxing fortunate, waning works on merit with Jupiter's help.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed, Effects of Moon in 12 Houses", "view": "Travel, knowledge, relations with people from abroad; obsessive fixations and restlessness.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "Essentially none on the core; Raman's conjunction cautions are conditional.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of grace, faith, generosity and support from elders and teachers. Avoid repeating notes about harm to the mother."
+  },
+  {
+    "id": "planet_in_house/moon/10",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 10},
+    "summary": "The Moon in the 10th gives success in undertakings, virtue, wealth and a public, people-facing career, though standing may move with mood.",
+    "themes": ["career and reputation", "success", "virtue", "public life"],
+    "common_outcomes": [
+      "Completes undertakings successfully (Brihat Jataka 20.5; Raman, How to Judge a Horoscope)",
+      "Virtuous, does good deeds and helps good people (Phaladeepika 8.7, Brihat Jataka 20.5, Raman)",
+      "Wealth, ornaments, clothing and skill in the arts (Jataka Parijata 8.89; Raman, How to Judge a Horoscope)",
+      "Intelligent and bold (Brihat Jataka 20.5; Raman)"
+    ],
+    "rare_outcomes": [
+      "Trustee of religious institutions (Raman)",
+      "With Jupiter: learned in ancient subjects and astrology; with Saturn's aspect: a dispassionate thinker who earns through printing or books (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Persuasive, shrewd, tactful, ambitious (Raman HPA).",
+      "career": "Great position, easy success (Raman HPA); public, changeable career in care, food, hospitality, travel or water (PanchangBodh).",
+      "finance": "Wealthy and comfortable (Raman); obtains wealth and goods (Jataka Parijata 8.89).",
+      "health": "Comfortable, long life (Raman).",
+      "relationships": "Many friends (Raman).",
+      "family": "",
+      "spirituality": "Religious (Raman, How to Judge a Horoscope)."
+    },
+    "strengtheners": [
+      "Jupiter with the Moon: learning in ancient subjects and astrology (Raman, How to Judge a Horoscope)",
+      "A waxing Moon makes consistent standing easier (PanchangBodh)",
+      "Sastri's note to Brihat Jataka: the Moon is very good in the 10th"
+    ],
+    "weakeners_or_cancellations": [
+      "No directional strength in the 10th; reputation tracks mood as much as merit (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.7", "view": "Performs good deeds and supports the virtuous.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.5 with notes", "view": "Completes anything undertaken; virtue, wealth, intellect, valour; note: very good in the 10th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.89", "view": "Eagerly obtains wealth, grain, clothes, ornaments, romance and skill in the arts.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Persuasive, passionate, charitable, shrewd, bold, tactful, ambitious, great position, trustee of religious bodies, many friends, easy success, wealthy, long life.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Tenth House'", "view": "Religious, wealthy, intelligent, bold, succeeds; skilled in arts; helpful and virtuous; Jupiter and Saturn combinations; trustee of religious institutions; long comfortable life.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses", "view": "Public, changeable career; reputation tracks mood; no digbala so consistency builds standing.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed, Effects of Moon in 12 Houses", "view": "Clear goals, work ethic, attractive personality; may feel unfulfilled about status; emotional swings.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "The classics and Raman are positive; PanchangBodh tempers this by noting the Moon lacks directional strength in the 10th, making status less steady.",
+    "confidence": "high",
+    "phrasing_guidance": "Highlight a public-facing, helpful career and a good reputation built on consistency."
+  },
+  {
+    "id": "planet_in_house/moon/11",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 11},
+    "summary": "The Moon in the 11th gives gains, fame, a noble and generous nature, many friends and a long, prosperous life.",
+    "themes": ["gains", "networks", "fame", "generosity"],
+    "common_outcomes": [
+      "Wealthy (Phaladeepika 8.7, Brihat Jataka 20.5, Jataka Parijata 8.94, Raman)",
+      "Famous (Brihat Jataka 20.5; Raman)",
+      "Noble-minded and generous (Phaladeepika 8.7; Raman, How to Judge a Horoscope)",
+      "Children, servants or helpers, and many friends (Phaladeepika 8.7, Raman)"
+    ],
+    "rare_outcomes": [
+      "Pensive or introspective disposition (Jataka Parijata 8.94; Raman, How to Judge a Horoscope)",
+      "Helped by women; vast lands (Raman)"
+    ],
+    "by_area": {
+      "personality": "Noble, polite, cultured, quiet-going (Raman).",
+      "career": "Great position and business profits (Raman).",
+      "finance": "Wealth through people, clients and communities; income grows with the network (PanchangBodh).",
+      "health": "Long-lived (Phaladeepika 8.7).",
+      "relationships": "Many friends; helped by women (Raman).",
+      "family": "Wife and children (Raman, How to Judge a Horoscope); many children (Raman HPA).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Sastri's note to Brihat Jataka: the Moon is very good in the 11th",
+      "Cancer or Taurus adds loyalty; a waning Moon loses less here (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "PanchangBodh: Cancer or Taurus in the 11th adds loyalty to the gains.",
+    "source_views": [
+      {"source": "Phaladeepika 8.7", "view": "Noble-minded, long-lived, rich in wealth, children and servants.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.5 with notes", "view": "Famous, acquires wealth; very good in the 11th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.94", "view": "Pensive disposition and wealthy.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Many children, powerful, philanthropic, polite, artistic, helpful, influential, many friends, great position, easy success, helped by women, donor, principled.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Eleventh House'", "view": "Noble, generous, rich, wife and children; introspective, quiet; famous with business profits; vast lands; helped by women.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses", "view": "Gains through people; plural income; desires met but satisfaction brief; aspect to the 5th.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed, Effects of Moon in 12 Houses", "view": "Sociable, fulfilled through groups; inner unrest may disturb married life.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "No real disagreement; PanchangBodh and VedicFeed add that satisfaction from gains may be brief.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of supportive networks, generosity and growing gains; mention that contentment matters as much as acquisition."
+  },
+  {
+    "id": "planet_in_house/moon/12",
+    "layer": "planet_in_house",
+    "key": {"planet": "Moon", "house": 12},
+    "summary": "The Moon in the 12th is classically unhappy: isolation, low spirits, sloth and feeling slighted, with life abroad or in retreat as a theme.",
+    "themes": ["solitude", "low spirits", "expenditure", "foreign lands", "retreat"],
+    "common_outcomes": [
+      "Unhappy, miserable or obstructed (Phaladeepika 8.7, Raman)",
+      "Prefers an obscure or solitary life (Raman)",
+      "Defect or deformity in some limb (Brihat Jataka 20.5; Raman)",
+      "Lazy or lethargic (Phaladeepika 8.7; Raman with a waning Moon and Saturn)"
+    ],
+    "rare_outcomes": [
+      "Lives in a foreign country (Jataka Parijata 8.97)",
+      "Disliked by others and insulted (Phaladeepika 8.7)",
+      "Weak eyesight (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Narrow-minded, hard-hearted, mischievous (Raman, How to Judge a Horoscope); wickedly disposed (Brihat Jataka 20.5).",
+      "career": "",
+      "finance": "High spending on comfort, travel or others (PanchangBodh).",
+      "health": "Weak eyes (Raman, How to Judge a Horoscope); sleep and dreams are central themes (PanchangBodh).",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Linked to retreat, release and moksha; a waxing Moon makes a contemplative chart rather than a defeated one (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Waxing Moon (PanchangBodh)",
+      "Bhattotpala reads benefics in the 12th as reducing expenditure (Brihat Jataka 20.10 notes)"
+    ],
+    "weakeners_or_cancellations": [
+      "Waning Moon with Saturn: sloth and lethargy (Raman, How to Judge a Horoscope)",
+      "Sastri's note to Brihat Jataka: the Moon is bad in the 12th"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.7", "view": "Disliked, beset by misery and insult, very lazy.", "url": "https://www.siva.sh/phaladeepika/8/6-10"},
+      {"source": "Brihat Jataka 20.5 with notes", "view": "Wickedly disposed and defective in some limb; note: bad in the 12th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.97", "view": "Lives in a foreign country (rest of the verse partly illegible in the scan).", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Obstructed, deformed, narrow-minded, cruel, unhappy, obscure, powerless, deceived, solitary, miserable.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Twelfth House'", "view": "Some deformity, narrow-minded, hard-hearted, mischievous, prefers obscurity and solitude, weak eyes; waning Moon with Saturn: sloth.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Moon in the 12 houses", "view": "Withdrawal, retreat, sleep, dreams, privacy; high spending; release and moksha; waxing Moon makes it contemplative.", "url": "https://panchangbodh.com/moon-in-houses"},
+      {"source": "VedicFeed, Effects of Moon in 12 Houses", "view": "Hidden talents and a creative mind that can earn; secretive, mental tension.", "url": "https://vedicfeed.com/effects-of-moon-in-12-houses/"}
+    ],
+    "disagreements": "The classics and Raman are uniformly negative; Jataka Parijata (as legible) only mentions life abroad; the modern sites read it as an inward, creative or spiritual placement.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a private, inward and imaginative nature that needs rest and solitude to recharge, possibly drawn to life abroad or spiritual retreat. Avoid words like miserable, wicked or deformed, and do not imply depression."
+  }
+]

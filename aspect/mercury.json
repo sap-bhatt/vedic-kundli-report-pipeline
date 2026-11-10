@@ -1,0 +1,2094 @@
+[
+  {
+    "id": "aspect/mercury/1",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 1
+    },
+    "summary": "Mercury aspecting the lagna (Mercury in the 7th) gives intelligence, skill in arts and crafts that earns money, fame and honour; it strengthens the lagna.",
+    "themes": [
+      "intellect",
+      "skills",
+      "reputation"
+    ],
+    "common_outcomes": [
+      "rich knowledge of the arts and gains through them (Saravali 34.1-7)",
+      "intelligent, famous and honourable (Saravali 34.1-7)",
+      "the lagna is strong when aspected by Mercury, Jupiter or its own lord and free of other aspects (Phaladeepika 4.6)"
+    ],
+    "rare_outcomes": [
+      "Aspects on the natal Moon (the Moon as second lagna, BPHS ch. 12): Phaladeepika 18.6-11 gives Mercury's aspect on the Moon as learning in Aries and Cancer; thievishness in Taurus; kingly status in Gemini, Virgo, Libra, Capricorn and Aquarius; an astrologer in Leo; a father of twins in Scorpio; protector of kin in Sagittarius; wit in Pisces.",
+      "Raman's chart notes: Mercury, Venus and the Sun aspecting a Taurus lagna gave acting talent; Mercury aspecting a Scorpio lagna (with Jupiter) in an editor's chart (HJH vol. 2 ch. XIV)."
+    ],
+    "by_area": {
+      "personality": "Clever, articulate, versatile (Saravali 34.1-7).",
+      "career": "Earns through arts, writing, skills (Saravali 34.1-7).",
+      "finance": "Gains from skills (Saravali 34.1-7).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Phaladeepika 4.6: Mercury's aspect strengthens the lagna.",
+      "Saravali 34.8: Gemini or Virgo lagna aspected by its lord Mercury gives happiness, wealth and closeness to rulers.",
+      "Saravali 34.10-11: one benefic aspecting the lagna is auspicious."
+    ],
+    "weakeners_or_cancellations": [
+      "Frawley pp. 236-237: under malefic influence Mercury is not a benefic."
+    ],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 1 from the 7th house.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.1-7",
+        "view": "Mercury aspecting the ascendant: rich knowledge of arts and gains thereby, intelligent, famous and honourable.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.8, 34.10-11",
+        "view": "Own-sign aspect on the lagna gives happiness, wealth, royal favour; a benefic aspecting the lagna is auspicious.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.6",
+        "view": "Lagna is strong when occupied or aspected by its lord, Jupiter or Mercury, or associated with Venus, without other conjunction or aspect.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 18.6-11",
+        "view": "Moon in each sign aspected by Mercury (second in the list).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XIV (Tenth House), chart notes",
+        "view": "Mercury's aspect on the lagna in charts of an editor and an actor.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as intelligence, adaptability and skill. Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "1 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "happiness, wealth and closeness to people in power"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; Saravali 34.8"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 7,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 11,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 4,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 9,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 5,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 10,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 6,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mercury/2",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 2
+    },
+    "summary": "Mercury's aspect on the 2nd is double-edged in Saravali: on a lone Saturn there it brings great riches, but on Jupiter or a weak Moon there it drains wealth; Raman links it with self-earned money and mathematical skill.",
+    "themes": [
+      "wealth",
+      "speech",
+      "calculation"
+    ],
+    "common_outcomes": [
+      "Saturn alone in the 2nd aspected by Mercury: great wealth (Saravali 34.15-20)",
+      "Mars in the 2nd aspected by Mercury (or with the Moon): a good mathematician (Raman HJH vol. 1 ch. 5)",
+      "Moon in the 2nd aspected by Mercury: earning by self-effort (Raman HJH vol. 1 ch. 5)"
+    ],
+    "rare_outcomes": [
+      "Jupiter in the 2nd aspected by Mercury: the wealth earned is lost (Saravali 34.15-20).",
+      "Weak Moon in the 2nd aspected by Mercury: even ancestral property is lost and other income is hindered (Saravali 34.15-20)."
+    ],
+    "by_area": {
+      "personality": "Numeracy and quick speech (Raman HJH vol. 1 ch. 5).",
+      "career": "",
+      "finance": "Mixed: wealth through effort and commerce, but the texts warn of losses depending on which planet occupies the 2nd (Saravali 34.15-20; Raman HJH vol. 1 ch. 5).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Benefics in the 2nd bring money in many ways (Saravali 34.15-20)."
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 34.15-20: Mercury's aspect on Jupiter or a weak Moon in the 2nd."
+    ],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 2 from the 8th house.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.15-20",
+        "view": "Saturn alone in the 2nd aspected by Mercury: great riches; Jupiter in the 2nd aspected by Mercury, or Mercury in the 2nd aspected by the Moon: earned wealth lost; weak Moon in the 2nd aspected by Mercury: even ancestral property destroyed.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 5 (Second House)",
+        "view": "Moon in the 2nd aspected by Mercury favours earning by self-exertion; Mars in the 2nd with the Moon or aspected by Mercury makes a good mathematician.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Saravali gives a weak Moon in the 2nd aspected by Mercury as ruin of property; Raman gives the Moon in the 2nd aspected by Mercury as earning by effort (he does not qualify the Moon as weak). Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as money earned through skill and the need for careful money management. Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "2 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 8,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 12,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 5,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 10,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 6,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 11,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 7,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mercury/3",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 3
+    },
+    "summary": "Mercury with Jupiter aspecting a strong 3rd gives an exceptionally fine voice; as an aspect on the 3rd it also adds to the count of younger siblings.",
+    "themes": [
+      "voice",
+      "communication",
+      "siblings"
+    ],
+    "common_outcomes": [
+      "3rd strong and occupied or aspected by Mercury and Jupiter: an exceedingly fine voice (Jataka Parijata 12.46)",
+      "planets aspecting the 3rd increase the number of younger co-born (Saravali 34.21-24)",
+      "benefic aspect on the 3rd gives co-born and courage (BPHS 14.1)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "Fine voice, good communicator (Jataka Parijata 12.46).",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "More younger siblings (Saravali 34.21-24; BPHS 14.1).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter's aspect together with Mercury's (Jataka Parijata 12.46)."
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 3 from the 9th house.",
+    "source_views": [
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 12.46",
+        "view": "If the 3rd bhava is strong and occupied or aspected by Mercury and Jupiter, or they are in a kendra from it, the native has an exceedingly fine voice.",
+        "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.21-24",
+        "view": "Aspects on the 3rd increase the number of younger co-born.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 14.1",
+        "view": "The 3rd conjunct or aspected by a benefic: co-born and courage.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "3 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 9,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 1,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 6,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 11,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 7,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 12,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 8,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mercury/4",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 4
+    },
+    "summary": "As a benefic aspect, Mercury on the 4th supports home comforts and vehicles in the general rule; no source gives a Mercury-specific result.",
+    "themes": [
+      "home",
+      "vehicles",
+      "education"
+    ],
+    "common_outcomes": [
+      "a benefic related to the 4th gives conveyances and safety from accidents (BPHS 15.10-14)",
+      "4th occupied by its lord or the lagna lord and aspected by a benefic: full residential comfort (BPHS 15.2)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Vehicles and property safe (BPHS 15.10-14).",
+      "health": "",
+      "relationships": "",
+      "family": "Home comfort (BPHS 15.2).",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Frawley pp. 236-237: under malefic influence Mercury is not a benefic."
+    ],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 4 from the 10th house.",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 15.2, 15.10-14",
+        "view": "Residential comfort with a benefic aspect on the 4th holding its lord or the lagna lord; benefic relation to the 4th gives conveyances and safety.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "4 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 10,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 2,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 7,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 12,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 8,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 1,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 9,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mercury/5",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 5
+    },
+    "summary": "A strong Mercury aspecting the 5th (with Jupiter and Venus) gives many children; alone, in a Saturn-ruled 5th, Saravali gives unusual ways of obtaining children.",
+    "themes": [
+      "children",
+      "intelligence",
+      "creativity"
+    ],
+    "common_outcomes": [
+      "5th lord strong and the 5th aspected by strong Mercury, Jupiter and Venus: many children (BPHS 16.12)",
+      "benefic aspect on the 5th gives children and doubles their count (Saravali 34.25-27)"
+    ],
+    "rare_outcomes": [
+      "5th in Saturn's divisions with Mercury's aspect and no aspect of Jupiter, Mars or the Sun: a child raised through a kinsman by the old niyoga custom (Saravali 34.28; the scan reads '3rd' but the verse is about progeny).",
+      "Mercury in its own 5th aspected by the Moon: a child by adoption (Saravali 34.29 - this is the Moon's aspect, recorded here for completeness)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "Children, especially with Jupiter and Venus also aspecting (BPHS 16.12).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strength of Mercury and of the 5th lord (BPHS 16.12)."
+    ],
+    "weakeners_or_cancellations": [
+      "Mercury's aspect alone on a Saturn-ruled 5th (Saravali 34.28)."
+    ],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 5 from the 11th house.",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 16.12",
+        "view": "Many children if the 5th lord is strong and the 5th is aspected by strong Mercury, Jupiter and Venus.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.25-28",
+        "view": "Benefic aspect on the 5th gives and multiplies children; Mercury's lone aspect on a 5th in Saturn's divisions gives progeny through a kinsman.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of bright, communicative children and joy through them; never mention the niyoga or adoption rules. Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "5 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 11,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 3,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 8,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 1,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 9,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 2,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 10,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mercury/6",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 6
+    },
+    "summary": "As a benefic aspect Mercury on the 6th eases fear of enemies; BPHS's disease chapter uses Mercury's aspect on the lagna lord for facial ailments.",
+    "themes": [
+      "enemies",
+      "health",
+      "service"
+    ],
+    "common_outcomes": [
+      "benefic aspect on the 6th keeps one free from fear of enemies (Saravali 34.43-44)"
+    ],
+    "rare_outcomes": [
+      "Lagna lord in a sign of Mars or Mercury and aspected by Mercury: diseases of the face (BPHS 17.6; Santhanam notes the exceptions for Aries and Scorpio lagnas)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Overcoming rivals (Saravali 34.43-44).",
+      "finance": "",
+      "health": "Facial ailments when Mercury aspects the lagna lord in a Mars or Mercury sign (BPHS 17.6).",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Frawley pp. 236-237: under malefic influence Mercury is not a benefic."
+    ],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 6 from the 12th house.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.43-44",
+        "view": "Benefics occupying or aspecting the 6th remove fear of enemies.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 17.6",
+        "view": "Lagna lord in a sign of Mars or Mercury aspected by Mercury: facial diseases.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "6 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 12,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 4,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 9,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 2,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 10,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 3,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 11,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mercury/7",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 7
+    },
+    "summary": "Mercury aspecting the 7th gives a spouse with Mercury's qualities and adds to the marriage count; with Venus in the 7th and a benefic aspect, marriage comes late.",
+    "themes": [
+      "marriage",
+      "spouse",
+      "business partnership"
+    ],
+    "common_outcomes": [
+      "a spouse corresponding to Mercury and the sign (Saravali 34.45)",
+      "each planet aspecting the 7th adds to the count of marriages (Saravali 34.47)"
+    ],
+    "rare_outcomes": [
+      "Mercury and Venus in the 7th: neither spouse nor children, but with a benefic aspect a wife at an advanced age (Saravali 34.56)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "Youthful, witty, communicative partner (Saravali 34.45 gives the spouse after the aspecting planet).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Raman HJH vol. 2 ch. XI chart notes: Mercury as 3rd and 6th lord aspecting the 7th is counted as an affliction, not a benefic influence."
+    ],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 7 from the 1st house.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.45, 34.47, 34.56",
+        "view": "Mercury in or aspecting the 7th gives a wife after its nature; number of marriages follows planets aspecting the 7th; Mercury and Venus in the 7th with benefic aspect give a wife at an advanced age.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XI (Seventh House), chart notes",
+        "view": "Mercury aspecting the 7th from the Moon as 3rd and 6th lord listed among adverse factors.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "7 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 1,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 5,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 10,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 3,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 11,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 4,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 12,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mercury/8",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 8
+    },
+    "summary": "No source gives a result for Mercury's aspect on the 8th.",
+    "themes": [
+      "longevity",
+      "research"
+    ],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 8 from the 2nd house.",
+    "source_views": [
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "8 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 2,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 6,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 11,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 4,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 12,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 5,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 1,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mercury/9",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 9
+    },
+    "summary": "Mercury aspecting Jupiter in the 9th makes one affluent; when Mercury owns the 9th its aspect keeps fortune at home.",
+    "themes": [
+      "fortune",
+      "learning",
+      "dharma"
+    ],
+    "common_outcomes": [
+      "Jupiter in the 9th aspected by Mercury: affluent (Saravali 32.6-7)"
+    ],
+    "rare_outcomes": [
+      "Jupiter in the 9th aspected by Mercury together with: the Sun - grace, a fine spouse, poetry and arts; the Moon - fine houses and comforts; Mars - learning, virtue, keeps his word; Venus - an artisan, virtuous and fortunate; Saturn - fortunate, learned, eloquent and modest (Saravali 32.8-22).",
+      "Jupiter or Mercury aspecting the 9th lord in the 11th: gains through newspapers, books or educational institutions (Raman HJH vol. 2 ch. XIII)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Publishing, education when Mercury aspects the 9th lord in the 11th (Raman HJH vol. 2 ch. XIII).",
+      "finance": "Affluence (Saravali 32.6-7).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saravali 32.4: the 9th aspected by its lord (Mercury for Taurus or Aquarius lagna) gives fortune at home."
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 32.4: aspect by others moves fortune abroad; 32.23: listed results hold only without other aspects."
+    ],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 9 from the 3rd house.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 32.4, 32.6-23",
+        "view": "9th aspected by its own lord: fortune at home; Jupiter in the 9th aspected by Mercury: affluence; joint aspects listed.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XIII (Ninth House)",
+        "view": "Jupiter or Mercury aspecting the 9th lord in the 11th: gains through newspapers, books or educational institutions.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "fortune made in one's own country"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; Saravali 32.4"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "not (9 in md_rules)",
+        "polarity": "mixed",
+        "effects": [
+          "fortune tends to come away from home"
+        ],
+        "source": "Saravali 32.4"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 3,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 7,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 12,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 5,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 1,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 6,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 2,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mercury/10",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 10
+    },
+    "summary": "In Raman's career studies Mercury's aspect on the 10th points to intellectual, commercial, legal, accounting or writing work.",
+    "themes": [
+      "career",
+      "commerce",
+      "writing",
+      "law"
+    ],
+    "common_outcomes": [
+      "10th aspected by Mercury and Jupiter: journalism (Raman HJH vol. 2 ch. XIV, chart)",
+      "Mercury and the Sun with a strong 9th lord Jupiter aspecting the 10th: a top post in a commercial concern (Raman HJH vol. 2 ch. XIV, chart)",
+      "Mercury, Sun, Venus and Mars aspecting the 10th: law practice (Raman HJH vol. 2 ch. XIV, chart)",
+      "10th aspected by Mars and by Mercury as 6th lord: a barrister (Raman HJH vol. 2 ch. XIV, chart)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "Commerce, accounts, writing, journalism, law (Raman HJH vol. 2 ch. XIV).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman HJH vol. 2 ch. XIV: a planet in the 10th receiving a powerful benefic aspect gains the abilities of the aspecting planet."
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 10 from the 4th house.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XIV (Tenth House), general remarks and chart notes",
+        "view": "Mercury aspecting the 10th in charts of a journalist, a bank or commercial director and lawyers; a benefic aspect on a planet in the 10th gives that planet's abilities.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Raman's examples are single charts. Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "10 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 4,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 8,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 1,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 6,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 2,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 7,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 3,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mercury/11",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 11
+    },
+    "summary": "Mercury related to the 11th brings gains through writing, arts, literature and argument; benefic aspect increases 11th-house gains.",
+    "themes": [
+      "gains",
+      "writing",
+      "trade"
+    ],
+    "common_outcomes": [
+      "gains by writing, arts, literature and debate (Saravali 34.61)",
+      "benefic aspect on the 11th increases gains (Saravali 34.65)"
+    ],
+    "rare_outcomes": [
+      "In counting elder co-born, Raman weighs Mercury and Saturn ('eunuch' planets) aspecting the 11th against male and female planetary influences on the 11th from the Moon (HJH vol. 2, chart notes)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Income through communication, writing, trade and analysis (Saravali 34.61).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exalted: full; own or friendly sign: half (Saravali 34.67)."
+    ],
+    "weakeners_or_cancellations": [
+      "Combust or inimical: a quarter or less (Saravali 34.67)."
+    ],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 11 from the 5th house.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.61, 34.65-67",
+        "view": "Mercury or its divisions related to the 11th: gains by writing, arts, literature and arguments; benefic aspect increases gains; dignity scales them.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 chart notes (11th house)",
+        "view": "Mercury and Saturn, eunuch planets, aspecting the 11th from the lagna.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "11 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "md_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "gains in full"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_dignity in ['own', 'moolatrikona', 'friend']",
+        "polarity": "good",
+        "effects": [
+          "about half of the stated gains"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_combust or md_dignity == 'enemy'",
+        "polarity": "bad",
+        "effects": [
+          "only a quarter or less of the gains"
+        ],
+        "source": "Saravali 34.67"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 5,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 9,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 2,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 7,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 3,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 8,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 4,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/mercury/12",
+    "layer": "aspect",
+    "key": {
+      "planet": "Mercury",
+      "house": 12
+    },
+    "summary": "Mercury's aspect on Mars in the 12th brings losses in several ways; as a benefic aspect on the 12th and its lord it keeps one settled in one's own country.",
+    "themes": [
+      "expenses",
+      "losses",
+      "travel"
+    ],
+    "common_outcomes": [
+      "Mars in the 12th aspected by Mercury: losses in many ways (Saravali 34.69-70)",
+      "the 12th and its lord with and aspected by benefics: moving within one's own country (BPHS 23.12)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Losses when Mercury aspects Mars in the 12th (Saravali 34.69-70).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "BPHS 23.12: benefic aspect on the 12th and its lord."
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 34.69-70: Mercury aspecting Mars in the 12th."
+    ],
+    "lagna_or_context_notes": "Mercury casts only the 7th aspect in full, so it aspects house 12 from the 6th house.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.69-70",
+        "view": "Mars in the 12th aspected by Mercury causes losses in several ways.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 23.12",
+        "view": "12th and its lord with and aspected by benefics: moving within one's own country.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "Mercury counts as a natural benefic only when not under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe Mercury's aspect as intellect, communication, trade and skill touching that house; avoid absolute claims.",
+    "conditional_results": [
+      {
+        "when": "12 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "md_aspected_by_malefic or md_with_malefic",
+        "polarity": "mixed",
+        "effects": [
+          "Mercury under malefic influence acts less as a benefic, so its aspect helps less"
+        ],
+        "source": "Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Mercury as 3rd or 6th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and vol. 2 ch. XIV chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only an angle Mercury becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 6,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 10,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 3,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 8,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 4,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 9,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 5,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "id": "dasha_principle/houses_ruled_and_occupied",
+    "layer": "dasha_principle",
+    "key": {"rule": "houses_ruled_and_occupied"},
+    "summary": "A dasha lord brings up the affairs of the houses it rules, the house it sits in, the planets it joins and the planets that aspect it. Its own nature as a planet gives the general flavour of the period; its placement and links decide the specific events.",
+    "themes": ["house lordship", "placement", "association", "general vs specific results"],
+    "common_outcomes": [
+      "List the houses the mahadasha lord rules and occupies, plus the planets it is joined with or aspected by; the period mainly activates those houses.",
+      "Read the planet's natural significations (e.g. Sun: father, government; Venus: spouse, comforts) as the background colour of the whole period, then narrow them by its houses.",
+      "A well-placed lord improves the houses it rules, occupies or aspects during its period; a weak, badly placed lord harms the same houses.",
+      "A planet linked to a house lord carries that lord's matters too (e.g. the Sun with the 5th lord can bring a child in the Sun's period)."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika assigns to the dasha all results described elsewhere in the text for the planet's placement, aspects, conjunctions and lordships, so any natal combination involving the planet can surface in its period."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [
+      "Lord placed in a kendra, trikona or the 11th, in own, exalted or friendly sign, or joined with lords of good houses (BPHS 47.7-11; Phaladeepika 20.14)."
+    ],
+    "weakeners_or_cancellations": [
+      "Lord in the 6th, 8th or 12th, debilitated, in an enemy sign, combust, or joined with malefics or dusthana lords (BPHS 47.12-15; Phaladeepika 20.14-20)."
+    ],
+    "lagna_or_context_notes": "Raman warns the rules must not be applied word for word: results must fit the person's age, circumstances and what is physically possible.",
+    "source_views": [
+      {"source": "BPHS 47.2 (tr. R. Santhanam, vol. 2)", "view": "Dasha results are of two kinds: general results from the planet's natural character, and specific results from its placement and connections.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 47.7-11 (tr. R. Santhanam, vol. 2)", "view": "Example for the Sun: strong and well placed it gives wealth and honour; joined with the 5th lord it gives children, with the 2nd lord wealth, with the 4th lord vehicles.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 48.2-8 (tr. R. Santhanam, vol. 2)", "view": "Gives the typical results of the dasha of each house lord (lagna lord: well-being; 4th: house and land; 5th: education and children; 9th: fortune and religious leaning; 10th: honours; 6th: enemies and illness; 8th and 12th: loss and disease).", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Phaladeepika 20.1-21 (tr. V. Subrahmanya Sastri)", "view": "Lists the results of each bhava lord's dasha when the lord is strong (20.2-13) and when weak (20.15-20), and says every placement, aspect and lordship effect given in the earlier chapters should be assigned to the planet in its dasha (20.21).", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "Uttara Kalamrita 6.22-23 (tr. S.S. Sareen; printed as 22.5-23.5)", "view": "Results must be declared after examining the dasha lord and the house it occupies.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "Uttara Kalamrita 8.97 (tr. S.S. Sareen)", "view": "A planet's results come from its own nature, the planets associated with it and the position it holds; it gives the matters of its houses in its dasha and in the sub-periods under other planets.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV rules 5 and 10", "view": "In its dasha a planet gives what it signifies through ownership, association, location and aspect; well placed it benefits every house it is connected with, weak and ill placed it brings misery.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"}
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Name the life areas the period highlights (from the houses ruled and occupied) before saying whether it is easy or hard; avoid predicting a single fixed event.",
+    "conditional_results": [
+      {"when": "md_house in KENDRA or md_house in TRIKONA or md_house == 11", "polarity": "good", "effects": ["matters of the houses the planet rules prosper"], "source": "BPHS 47.7-11; Phaladeepika 20.14"},
+      {"when": "md_house in DUSTHANA", "polarity": "bad", "effects": ["matters of the houses the planet rules suffer"], "source": "BPHS 47.12-15; Phaladeepika 20.14"},
+      {"when": "md_house in DUSTHANA and (md_with_malefic or md_aspected_by_malefic)", "polarity": "bad", "effects": ["losses and distress in the period"], "source": "BPHS 47.12-15"},
+      {"when": "md_house in DUSTHANA and md_aspected_by_benefic", "polarity": "mixed", "effects": ["some good results at times despite a weak placement"], "source": "BPHS 47.12-15"},
+      {"when": "manual: the dasha lord is joined with the lord of another house", "polarity": "mixed", "effects": ["matters of that house also come up in the period"], "source": "BPHS 47.7-11"}
+    ],
+    "remedies": [],
+    "phases": ""
+  },
+  {
+    "id": "dasha_principle/functional_nature_by_lagna",
+    "layer": "dasha_principle",
+    "key": {"rule": "functional_nature_by_lagna"},
+    "summary": "Whether a dasha is good or bad depends first on which houses the planet rules for that lagna: lords of the trikonas (1, 5, 9) give good periods, lords of 3, 6 and 11 give troubled ones, kendra lords depend on whether the planet is a natural benefic or malefic, and a planet ruling both a kendra and a trikona is the best of all (yogakaraka).",
+    "themes": ["functional benefic", "functional malefic", "trikona lord", "trishadaya lord", "lagna"],
+    "common_outcomes": [
+      "Before reading any dasha, classify each planet for the lagna: trikona lord (good), 3/6/11 lord (bad), kendra lord (natural benefics lose goodness, natural malefics lose harm), 2nd/12th lord (neutral, act by association), 8th lord (bad unless it also rules the lagna).",
+      "Expect the dashas of trikona lords and of yogakarakas to be the productive periods of life, and the dashas of 3/6/11 and 8th lords to be the testing ones, other factors equal.",
+      "When a planet rules two houses, the one holding its moolatrikona sign weighs more; a good lordship can override a weaker bad one (e.g. 9th lordship over 8th)."
+    ],
+    "rare_outcomes": [
+      "Uttara Kalamrita calls the periods of 2nd, 3rd and 11th lords medium rather than bad."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [
+      "A trikona lord in a kendra or a kendra lord in a trikona makes its dasha very favourable (BPHS 48.13; Phaladeepika 20.42).",
+      "Exchange or conjunction of the 9th and lagna lords, or of the 10th and lagna lords, makes both dashas very good (BPHS 48.14-17)."
+    ],
+    "weakeners_or_cancellations": [
+      "A kendra or trikona lord that also rules a bad house does not produce raja yoga by mere connection (BPHS 34.15).",
+      "Lords of 6, 8 or 12 become favourable in dasha if associated with a trikona lord (BPHS 48.14)."
+    ],
+    "lagna_or_context_notes": "Raman lists the good and bad planets for each lagna (e.g. Saturn best for Taurus, Mars yogakaraka for Cancer and Leo, Venus for Capricorn and Aquarius); Verma gives a similar table under Laghu Parashari 37-38.",
+    "source_views": [
+      {"source": "BPHS 34.2-7, 34.13-15 (tr. R. Santhanam, vol. 1)", "view": "Benefics owning kendras do not give good results and malefics owning kendras lose their harm; trikona lords are auspicious, the lagna lord especially; lords of 3, 6 and 11 are evil; 12th and 2nd lords act by association; the 8th lord is not good, but the Sun and Moon are not spoiled by 8th lordship; a planet ruling both a kendra and a trikona is a yogakaraka.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Laghu Parashari 6-12 (with Jataka Chandrika, tr. O.P. Verma)", "view": "Trikona lords are auspicious and 3/6/11 lords inauspicious even if benefic (6); kendra lords' results depend on nature (7); 2nd and 12th lords follow association and their other house (8); the 8th lord is bad unless it is also the lagna lord (9); kendra rulership spoils Jupiter and Venus most, Mercury less, the Moon least (10); 8th lordship does not harm the Sun or Moon (11); Mars as mere 10th lord is neutral and must also rule a trikona to do good (12).", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "Phaladeepika 20.41-42, 20.50-51 (tr. V. Subrahmanya Sastri)", "view": "Restates Parashara: trikona lords give auspicious dashas, lords of 3, 6 and 11 only harm even if benefic, the lagna lord who also rules the 8th is good, and the Sun or Moon as 8th lord gives good results; Jupiter and Venus ruling kendras become harmful, Mercury less so, then the Moon, while malefic kendra lords grow more auspicious. (Part of 20.41 is garbled in the OCR.)", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "BPHS 48.9-20 (tr. R. Santhanam, vol. 2)", "view": "Dashas of kendra and trikona lords and planets related to them are favourable; dashas of 3/6/11 lords, planets in those houses and planets joining them are unfavourable, as are planets joined with maraka lords and planets in the 8th.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Uttara Kalamrita 6.22-23 (tr. S.S. Sareen)", "view": "Periods of kendra and kona lords are auspicious, those of 2nd, 3rd and 11th lords medium, those of 6th, 8th and 12th lords always adverse.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XVII and ch. XXIV rules 3 and 11", "view": "Gives the good and evil planets for each lagna; dashas of 6th and 8th lords harm unless they gain goodness otherwise; periods of 5th and 9th lords and of planets related to them are good.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "R. Santhanam, notes to BPHS 48 (vol. 2)", "view": "From experience, the 3rd, 6th and 11th lords do not give bad results if they sit in their own signs in those houses; a well-placed 2nd lord gives wealth and a well-placed 7th lord celebrations despite their maraka role.", "url": "https://archive.org/details/BPHSEnglish"}
+    ],
+    "disagreements": "Uttara Kalamrita rates 2nd, 3rd and 11th lords' periods as medium, while BPHS 34 and Laghu Parashari treat 3/11 lords as evil and the 2nd lord as neutral. Santhanam's notes soften the 3/6/11 rule when these lords occupy their own signs.",
+    "confidence": "high",
+    "phrasing_guidance": "Say 'this period tends to be supportive / demanding for this rising sign' rather than calling a planet good or evil in itself.",
+    "conditional_results": [
+      {"when": "'trikona_lord' in md_role or 'lagna_lord' in md_role", "polarity": "good", "effects": ["auspicious dasha"], "source": "BPHS 34.2-7; Laghu Parashari 6; Phaladeepika 20.41"},
+      {"when": "'yogakaraka' in md_role", "polarity": "good", "effects": ["one of the best periods of the chart"], "source": "BPHS 34.13; Laghu Parashari 12"},
+      {"when": "'trishadaya_lord' in md_role and not ('trikona_lord' in md_role or 'lagna_lord' in md_role)", "polarity": "bad", "effects": ["troubled period even if the planet is a natural benefic"], "source": "BPHS 34.2-7; Laghu Parashari 6; Phaladeepika 20.41"},
+      {"when": "'eighth_lord' in md_role and not ('lagna_lord' in md_role) and not (md in ['Sun', 'Moon'])", "polarity": "bad", "effects": ["unfavourable period"], "source": "Laghu Parashari 9, 11; BPHS 34.2-7"},
+      {"when": "md in ['Sun', 'Moon'] and 'eighth_lord' in md_role", "polarity": "neutral", "effects": ["8th lordship does not spoil the period"], "source": "Laghu Parashari 11; Phaladeepika 20.41"},
+      {"when": "md in ['Jupiter', 'Venus', 'Mercury', 'Moon'] and 'kendra_lord' in md_role and not ('trikona_lord' in md_role or 'lagna_lord' in md_role)", "polarity": "mixed", "effects": ["natural benefic loses its goodness through kendra rulership (most for Jupiter and Venus, less for Mercury, least for the Moon)"], "source": "Laghu Parashari 10; BPHS 34.8-10; Phaladeepika 20.50-51"},
+      {"when": "md in ['Jupiter', 'Venus'] and 'kendra_lord' in md_role and 'maraka' in md_role", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]"], "source": "Phaladeepika 20.50; Laghu Parashari 10"},
+      {"when": "md in ['Sun', 'Mars', 'Saturn'] and 'kendra_lord' in md_role and not ('trikona_lord' in md_role or 'lagna_lord' in md_role)", "polarity": "neutral", "effects": ["natural malefic as kendra lord is not harmful but not positively good either"], "source": "Laghu Parashari 12; BPHS 34.14"},
+      {"when": "('kendra_lord' in md_role and md_house in TRIKONA) or ('trikona_lord' in md_role and md_house in KENDRA)", "polarity": "good", "effects": ["very favourable dasha"], "source": "BPHS 48.13; Phaladeepika 20.42"},
+      {"when": "'trishadaya_lord' in md_role or md_house in [3, 6, 11]", "polarity": "bad", "effects": ["unfavourable dasha"], "source": "BPHS 48.18-20"},
+      {"when": "md_house == 8", "polarity": "bad", "effects": ["unfavourable dasha"], "source": "BPHS 48.18-20"},
+      {"when": "manual: a 6th, 8th or 12th lord associated with a trikona lord", "polarity": "good", "effects": ["its dasha turns favourable"], "source": "BPHS 48.14"},
+      {"when": "manual: a 2nd or 12th lord (not ruling another house)", "polarity": "neutral", "effects": ["gives results according to the planets it joins, the house it occupies and its other house"], "source": "Laghu Parashari 8; BPHS 34.2-7"}
+    ],
+    "remedies": [],
+    "phases": ""
+  },
+  {
+    "id": "dasha_principle/dignity_and_strength",
+    "layer": "dasha_principle",
+    "key": {"rule": "dignity_and_strength"},
+    "summary": "The same dasha gives more or less of its promise according to the lord's strength: exalted, moolatrikona, own or friendly sign raise the good results; debilitation, enemy sign or combustion reduce or spoil them. A planet moving toward its exaltation gives a better period than one moving toward its fall.",
+    "themes": ["dignity", "exaltation", "debilitation", "combustion", "shadbala"],
+    "common_outcomes": [
+      "Scale the good results of a dasha by the lord's dignity: full when exalted, about three-quarters in moolatrikona, half in own sign, a quarter in a friend's sign, little or none when debilitated (Phaladeepika's scale).",
+      "Treat a combust lord like a debilitated one.",
+      "A strong lord in a good house gives the full positive results of its houses; the same lord weak and in a dusthana gives their negative side.",
+      "Phaladeepika also classifies dashas as descending (falling from exaltation), middling (friend's or exalted sign), ascending (rising from debilitation) and worst (debilitated or enemy sign)."
+    ],
+    "rare_outcomes": [
+      "Uttara Kalamrita: a planet with more than 10 rupas of shadbala moving toward exaltation gives an exceedingly favourable dasha; under 5 rupas it brings misery.",
+      "Raman: planets on a bhava sandhi (house junction) cannot give their full results in their dashas."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["Retrograde planets are listed among those that give the good effects (Phaladeepika 20.14).", "Benefic aspect on a weak lord brings some relief (BPHS 47.12-15)."],
+    "weakeners_or_cancellations": ["Combustion or planetary war ('eclipsed') counts as weakness (Phaladeepika 20.14, 20.30).", "Malefic aspect keeps a weak lord's results adverse (BPHS 47.12-15)."],
+    "lagna_or_context_notes": "BPHS 48.1: a planet that is naturally inauspicious still gives good results when exalted and in a good house, while a benefic that is debilitated and in a bad house gives bad ones; dignity and house placement work together.",
+    "source_views": [
+      {"source": "BPHS 47.3, 47.7-33 (tr. R. Santhanam, vol. 2)", "view": "Dasha effects follow the planet's strength; for each planet the good results come when it is exalted, in own or moolatrikona sign, in a kendra or good house, and the bad ones when it is debilitated, weak or in 6, 8 or 12.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 48.1 (tr. R. Santhanam, vol. 2)", "view": "The 10th lord in exaltation in a good house gives a favourable dasha, debilitated in a bad house an adverse one; this shows a natural malefic exalted in a good house will not harm and a benefic debilitated in a bad house will.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Phaladeepika 20.14, 20.27, 20.30, 20.56-57 (tr. V. Subrahmanya Sastri)", "view": "Planets in own, exalted or friendly signs, retrograde, or outside 6/8/12 give the good results; enemy-sign, debilitated, combust or dusthana planets give the bad ones (20.14); benefics debilitated or in 6/12 give only bad results and malefics so placed cause severe suffering (20.27); good results are full, three-quarters, half, quarter or nil from exaltation, moolatrikona, own, friend and debilitation, the reverse for malefics, and a combust planet is like a debilitated one (20.30); dashas are graded descending, middling, ascending and worst (20.56); a debilitated or enemy-sign planet in an auspicious sign or amsa gives mixed results with the good in the latter half (20.57).", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "Uttara Kalamrita 2.21-22 (tr. S.S. Sareen)", "view": "A planet of full strength (over 10 rupas) moving toward exaltation gives an excellent dasha; medium strength moving toward exaltation still prospers; moving toward debilitation the dasha is unfavourable; under 5 rupas it brings misery.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV (intro and rule 4)", "view": "Results vary with the strength and weakness of the dasha lord and must not be applied word for word; the lord's quality is modified by house, sign, aspects and navamsa; planets in bhava sandhis cannot give full results.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"}
+    ],
+    "disagreements": "Phaladeepika 20.30 says the dignity scale is reversed for malefics (their harm, not their good, is fullest in debilitation), while BPHS 48.1 says an exalted natural malefic in a good house gives good results.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of 'how fully' a period delivers rather than whether it delivers at all; a weak lord means more effort for the same result.",
+    "conditional_results": [
+      {"when": "md_dignity == 'exalted'", "polarity": "good", "effects": ["full measure of the dasha's good results"], "source": "Phaladeepika 20.30"},
+      {"when": "md_dignity == 'moolatrikona'", "polarity": "good", "effects": ["about three-quarters of the good results"], "source": "Phaladeepika 20.30"},
+      {"when": "md_dignity == 'own'", "polarity": "good", "effects": ["about half of the good results"], "source": "Phaladeepika 20.30"},
+      {"when": "md_dignity == 'friend'", "polarity": "mixed", "effects": ["about a quarter of the good results"], "source": "Phaladeepika 20.30"},
+      {"when": "md_dignity == 'debilitated' or md_combust", "polarity": "bad", "effects": ["little or none of the good results"], "source": "Phaladeepika 20.30"},
+      {"when": "md_dignity in ['debilitated', 'enemy'] or md_combust or md_house in DUSTHANA", "polarity": "bad", "effects": ["the weak-lord results of the houses it rules"], "source": "Phaladeepika 20.14-20"},
+      {"when": "md in ['Jupiter', 'Venus', 'Mercury', 'Moon'] and (md_dignity in ['debilitated', 'enemy'] or md_house in [6, 12])", "polarity": "bad", "effects": ["only bad results"], "source": "Phaladeepika 20.27"},
+      {"when": "md in ['Sun', 'Mars', 'Saturn', 'Rahu', 'Ketu'] and (md_dignity in ['debilitated', 'enemy'] or md_house in [6, 12])", "polarity": "bad", "effects": ["severe suffering"], "source": "Phaladeepika 20.27"},
+      {"when": "md_retro", "polarity": "good", "effects": ["listed among conditions giving the good effects"], "source": "Phaladeepika 20.14"},
+      {"when": "manual: lord moving toward its exaltation point", "polarity": "good", "effects": ["prosperous period"], "source": "Uttara Kalamrita 2.21-22; Phaladeepika 20.56"},
+      {"when": "manual: lord moving toward its debilitation point", "polarity": "bad", "effects": ["unfavourable period"], "source": "Uttara Kalamrita 2.21-22; Phaladeepika 20.56"},
+      {"when": "manual: lord debilitated or in an enemy sign but in an auspicious sign or amsa", "polarity": "mixed", "effects": ["mixed period, better in the latter half"], "source": "Phaladeepika 20.57"},
+      {"when": "manual: dasha lord on a bhava sandhi", "polarity": "mixed", "effects": ["cannot give its full results"], "source": "Raman, HPA ch. XXIV rule 4"}
+    ],
+    "remedies": [],
+    "phases": "Phaladeepika 20.57: a weak planet in an auspicious sign or amsa gives its good effects in the latter half of its dasha."
+  },
+  {
+    "id": "dasha_principle/navamsa_strength",
+    "layer": "dasha_principle",
+    "key": {"rule": "navamsa_strength"},
+    "summary": "The dasha lord's condition in the navamsa (D9) modifies its period: vargottama or an own/exalted or benefic navamsa improves results, a bad navamsa limits them even when the D1 position looks strong.",
+    "themes": ["navamsa", "vargottama", "divisional strength"],
+    "common_outcomes": [
+      "After judging the D1 position, check the lord's navamsa: vargottama or own/exalted navamsa supports the good results.",
+      "Do not promise the full results of a strong D1 position if the navamsa position is weak or afflicted.",
+      "A weak D1 planet in a good navamsa still gives mixed results, improving in the second half."
+    ],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["Vargottama (Phaladeepika 20.22; Uttara Kalamrita 6.28).", "Own or exalted navamsa (BPHS 47.45-48).", "Benefic navamsa (BPHS 47.27-32)."],
+    "weakeners_or_cancellations": ["Unfavourable navamsa position (Raman, HPA ch. XXIV)."],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "BPHS 47.7-11, 47.27-32, 47.45-48 (tr. R. Santhanam, vol. 2)", "view": "Among the conditions for a good dasha: the Sun strong in its vargas; Mars in a benefic navamsa; Jupiter in its own or exalted navamsa.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Phaladeepika 20.22, 20.57 (tr. V. Subrahmanya Sastri)", "view": "A planet in vargottama gives a favourable dasha; a weak planet in an auspicious sign or amsa gives mixed results, good in the latter half.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV (intro)", "view": "Success in a dasha is at its maximum only if the lord is equally strong in the navamsa; the lord's favourable or unfavourable navamsa position modifies its results.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"}
+    ],
+    "disagreements": "Uttara Kalamrita 6.28 makes an exception: when Venus and Saturn are both very strong (exalted, own or vargottama), their mutual periods are bad (see dasha_principle/venus_saturn_mutual_periods).",
+    "confidence": "medium",
+    "phrasing_guidance": "Present D9 as a refinement ('the deeper strength of the planet'), not as overriding the main chart.",
+    "conditional_results": [
+      {"when": "md_vargottama", "polarity": "good", "effects": ["favourable dasha"], "source": "Phaladeepika 20.22"},
+      {"when": "md_d9_dignity in ['exalted', 'own']", "polarity": "good", "effects": ["strengthens the dasha's good results"], "source": "BPHS 47.45-48 (stated for Jupiter); Raman, HPA ch. XXIV"},
+      {"when": "md_d9_dignity == 'debilitated'", "polarity": "bad", "effects": ["full promise of a strong D1 position should not be predicted"], "source": "Raman, HPA ch. XXIV"},
+      {"when": "manual: lord in a benefic navamsa", "polarity": "good", "effects": ["supports good results (stated for Mars)"], "source": "BPHS 47.27-32"}
+    ],
+    "remedies": [],
+    "phases": "Phaladeepika 20.57: good results come in the latter half when a weak planet sits in an auspicious amsa."
+  },
+  {
+    "id": "dasha_principle/rahu_ketu_results",
+    "layer": "dasha_principle",
+    "key": {"rule": "rahu_ketu_results"},
+    "summary": "Rahu and Ketu own no houses of their own, so in their dashas they give the results of the house they occupy and of the planets they join (and, per some, the lord of their sign and planets aspecting them). In a kendra or trikona linked with a kendra or trikona lord they act as yogakarakas; in the 8th or 12th, with maraka lords or debilitated, they trouble.",
+    "themes": ["nodes", "dispositor", "association", "yogakaraka nodes"],
+    "common_outcomes": [
+      "Judge a node's dasha from: the house it occupies, the planets conjoined with it (taking on their lordships), the lord of its sign and its strength.",
+      "Rahu or Ketu in a kendra or trikona connected with a kendra or trikona lord gives a raja-yoga-like period.",
+      "A node in the 3rd, 6th or 11th generally gives good results (Santhanam's note); in the 8th or 12th, troubled periods.",
+      "A node joined with a maraka planet or sitting in a maraka relationship can act as maraka in its period."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika: a benefic joined with Rahu causes harm, especially at the end of the dasha.",
+      "Phaladeepika: Rahu in Virgo, Pisces or Scorpio gives honour and property in its dasha, which may be lost at the end.",
+      "Uttara Kalamrita: nodes in a trikona aspected by or with the 2nd or 7th lord can cause death; in the 2nd or 7th with the 5th or 9th lord they give wealth and long life."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["Exaltation (Taurus for Rahu per BPHS 47; Scorpio for Ketu in BPHS and Uttara Kalamrita).", "Association or aspect of benefics and placement in a benefic sign (BPHS 47.34-39; Phaladeepika 19.15).", "Link with a kendra or trikona lord (BPHS 34.17; Laghu Parashari 36; Phaladeepika 20.53)."],
+    "weakeners_or_cancellations": ["8th or 12th house, malefic or maraka association, debilitation (BPHS 47.40-43).", "Association with 6th, 8th or 12th lords (Uttara Kalamrita 6.15-17)."],
+    "lagna_or_context_notes": "Verma (on Laghu Parashari 36) adds that a node alone in the 8th or with the 8th lord acts like the 8th lord; with a benefic kendra lord it takes on kendradhipati dosha; with a benefic 7th lord it becomes maraka.",
+    "source_views": [
+      {"source": "BPHS 34.16-17 (tr. R. Santhanam, vol. 1)", "view": "Rahu and Ketu mainly give the results of the house lord they are conjoined with or of the house they occupy; a node in a kendra related to a trikona lord, or in a trikona related to a kendra lord, becomes a yogakaraka.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 47.34-43 (tr. R. Santhanam, vol. 2)", "view": "Rahu exalted, or with benefics in a benefic sign in houses 1, 3, 4, 7, 10 or 11, gives wealth, property and honour; in the 8th or 12th, with a malefic or maraka planet, or debilitated, it brings loss of position, home troubles and distress, with loss at the start, some relief in the middle and anxiety at the end.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Laghu Parashari 13, 36 (with Jataka Chandrika, tr. O.P. Verma)", "view": "The nodes strongly give the results of the houses they occupy and of the planets they are conjoined with (13); placed in a kendra or trikona they give good results in their own dasha and in yogakaraka sub-periods even without a link to other planets (36). Verma adds from practice that they also partly give the results of planets aspecting them.", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "Phaladeepika 19.15-16, 20.39, 20.53 (tr. V. Subrahmanya Sastri)", "view": "Rahu with a benefic and outside 6/8/12 gives a prosperous dasha (19.15); in Virgo, Pisces or Scorpio it gives honour that may be lost at the end (19.16); Rahu gives results according to the planet it associates with, and a benefic joined with Rahu harms, especially at the end of the dasha (20.39); nodes in a kendra or trikona linked to a kendra or trikona lord become yogakarakas, and in benefic-owned houses they give good sub-periods in the dasha of the planet they are linked to (20.53, numbering uncertain in OCR).", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "Uttara Kalamrita 6.14-21 and 8.82-88 (tr. S.S. Sareen)", "view": "Nodes in a trikona with or aspected by the 2nd or 7th lord can kill in their dasha; in dual signs with kendra or kona lords they give wealth and power; in the 6th, 8th or 12th with dusthana lords they harm; with strong yogakarakas in 1, 3, 4, 7 or 10 they give prosperity; when strong they take the strength of the lord of the house they occupy (6.20-21). In kendra or trikona, or with the lord of that house, they are auspicious (8.83) and give good bhuktis in benefics' dashas when conjoined with them (8.87).", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "BPHS 44.22-24 (tr. R. Santhanam, vol. 1)", "view": "A node in the lagna, 7th, 8th or 12th, or in the 7th from or with a maraka lord, gains power to kill in its periods; Rahu in 6, 8 or 12 gives difficulties unless aspected or joined by benefics.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "R. Santhanam, notes to BPHS 48.18-20 (vol. 2)", "view": "Rahu and Ketu give favourable results in the upachaya houses 3, 6 and 11.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV (Rahu's dasa)", "view": "Gives Rahu's dasha results sign by sign (e.g. troubled in Scorpio, its debilitation) and says they must be adjusted for the node's house, friendly or enemy sign and strength.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"}
+    ],
+    "disagreements": "Own and moolatrikona signs of the nodes differ: BPHS 47 gives Rahu moolatrikona Gemini and own sign Aquarius (others say Virgo); Uttara Kalamrita 6.19-20 gives moolatrikona Gemini and Virgo and own signs Aquarius and Scorpio. Laghu Parashari stresses the house and conjoined planet; Verma adds aspects from practice; Uttara Kalamrita stresses the lord of the occupied house. Santhanam calls 3/6/11 good for nodes, while BPHS 48.18-20 calls planets in 3/6/11 unfavourable. The nakshatra-lord view of node results was not found in the sources read.",
+    "confidence": "high",
+    "phrasing_guidance": "Explain that node periods 'borrow' their tone from the house and companions; avoid sensational language about Rahu.",
+    "conditional_results": [
+      {"when": "md in ['Rahu', 'Ketu'] and md_house in [1, 3, 4, 7, 10, 11] and md_in_benefic_sign and (md_with_benefic or md_aspected_by_benefic)", "polarity": "good", "effects": ["comforts, gains and recognition through authorities"], "source": "BPHS 47.34-39 (stated for Rahu)"},
+      {"when": "md == 'Rahu' and md_dignity == 'exalted'", "polarity": "good", "effects": ["wealth, property, new house, honour"], "source": "BPHS 47.34-39"},
+      {"when": "md in ['Rahu', 'Ketu'] and md_house in [8, 12]", "polarity": "bad", "effects": ["troubles and distress"], "source": "BPHS 47.40-43"},
+      {"when": "md == 'Rahu' and (md_with_malefic or md_dignity == 'debilitated')", "polarity": "bad", "effects": ["loss of position, trouble at home, worry for spouse and children"], "source": "BPHS 47.40-43"},
+      {"when": "md == 'Rahu' and md_with_benefic and not (md_house in DUSTHANA)", "polarity": "good", "effects": ["wealth and renown"], "source": "Phaladeepika 19.15"},
+      {"when": "md == 'Rahu' and md_sign in ['virgo', 'pisces', 'scorpio']", "polarity": "mixed", "effects": ["honour, land or vehicles that may be lost at the end of the period"], "source": "Phaladeepika 19.16"},
+      {"when": "md == 'Rahu' and md_with_benefic", "polarity": "bad", "effects": ["harm to the conjoined benefic's matters, especially at the end of the dasha"], "source": "Phaladeepika 20.39"},
+      {"when": "md in ['Rahu', 'Ketu'] and md_house in [1, 7, 8, 12]", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]"], "source": "BPHS 44.22-24"},
+      {"when": "manual: node in a kendra or trikona and connected with a kendra or trikona lord", "polarity": "good", "effects": ["acts as a yogakaraka in its dasha"], "source": "BPHS 34.17; Laghu Parashari 36; Phaladeepika 20.53; Uttara Kalamrita 8.83"},
+      {"when": "manual: node conjoined with a planet", "polarity": "mixed", "effects": ["gives the results of that planet's lordships"], "source": "Laghu Parashari 13; BPHS 34.16; Phaladeepika 20.39"},
+      {"when": "manual: node in a trikona (5th or 9th) with or aspected by the 2nd or 7th lord", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]"], "source": "Uttara Kalamrita 6.14-15"},
+      {"when": "manual: node in the 6th, 8th or 12th and joined or aspected by the lords of those houses", "polarity": "bad", "effects": ["harm during the dasha; with maraka or dusthana lords [maraka: text predicts danger to life / death]"], "source": "Uttara Kalamrita 6.17-18"}
+    ],
+    "remedies": [],
+    "phases": "BPHS 47.40-43 (afflicted Rahu): loss of wealth at the start, some relief in the middle, distress at the end. BPHS 47.3-4: node results come in reverse drekkana order because they are always retrograde. Phaladeepika 20.39: harm from a benefic joined with Rahu peaks at the end of the dasha."
+  },
+  {
+    "id": "dasha_principle/antardasha_position_from_mahadasha",
+    "layer": "dasha_principle",
+    "key": {"rule": "antardasha_position_from_mahadasha"},
+    "summary": "An antardasha is judged partly by where its lord sits counted from the mahadasha lord: in a kendra, trikona, 3rd or 11th from it the sub-period cooperates and is good; in the 6th, 8th or 12th from it the sub-period is hostile and troubled. The dasha lord's sign is treated like a temporary lagna.",
+    "themes": ["antardasha", "bhukti", "position from dasha lord", "shadashtaka"],
+    "common_outcomes": [
+      "Count from the mahadasha lord's sign to the antardasha lord's sign; 6, 8 or 12 marks a strained sub-period even if both planets are otherwise good.",
+      "Also check the antardasha lord's own house from the lagna and its dignity; BPHS judges both.",
+      "Treat the mahadasha lord's sign as a lagna and read the antardasha lord's placement from it."
+    ],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["Antardasha lord strong and in a kendra, trikona, 3rd or 11th from the dasha lord (BPHS 52-59 throughout)."],
+    "weakeners_or_cancellations": ["Antardasha lord weak, or in 6/8/12 from the dasha lord (BPHS 52.13-14, 52.19-20)."],
+    "lagna_or_context_notes": "Sanjay Rath describes the Satyacharya principle of treating the dasha planet like a lagna when judging sub-periods.",
+    "source_views": [
+      {"source": "BPHS 52.11-14, 52.19-20, 53.49, 55.15-17, 55.71-72, 57.19 (tr. R. Santhanam, vol. 2)", "view": "Throughout the antardasha chapters, a sub-lord in a kendra, trikona, 3rd, 11th (sometimes 2nd) from the dasha lord and strong gives gains; in the 6th, 8th or 12th from the dasha lord, or weak, it gives troubles.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Phaladeepika 20.29 (tr. V. Subrahmanya Sastri)", "view": "Results depend on the house from the dasha lord occupied by the bhukti lord: 6th, 8th or 12th unhappy, other houses good.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "Uttara Kalamrita 6.21-24 (tr. S.S. Sareen)", "view": "Treat the dasha lord's house as lagna and see where the bhukti lord falls; in the 12th, 6th or 8th from the dasha lord it is hostile; in the 11th, 2nd, 3rd, 4th, 5th, 9th or 10th it is very beneficial; the 7th and a planet conjoined with the dasha lord are also favourable. Mutual 6/8 placement gives evil according to strength.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV rules 12 and 14", "view": "The bhukti lord modifies the dasha and both must be compounded; sub-lord and major lord in 6/8 or 12/2 from each other give unfavourable results.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, sec. 8.6.2", "view": "Uses the Satyacharya principle of treating the dasha planet like the lagna, and requires the antardasha planet to relate to the matter's lord or sit in trines, 7th or 12th from it.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Uttara Kalamrita counts the 2nd from the dasha lord as very beneficial, while Raman counts a mutual 2/12 placement as unfavourable. Phaladeepika treats every position except 6/8/12 as good.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a 6/8/12 sub-period as a time of friction between the two planets' agendas, not as a disaster.",
+    "conditional_results": [
+      {"when": "ad_from_md in DUSTHANA", "polarity": "bad", "effects": ["unhappy sub-period; the sub-lord works against the dasha lord"], "source": "Phaladeepika 20.29; Uttara Kalamrita 6.23-24; BPHS 52.13-14"},
+      {"when": "ad_from_md in [1, 2, 3, 4, 5, 7, 9, 10, 11]", "polarity": "good", "effects": ["favourable sub-period"], "source": "Phaladeepika 20.29; Uttara Kalamrita 6.23-24"},
+      {"when": "ad_from_md in KENDRA or ad_from_md in TRIKONA or ad_from_md in [3, 11]", "polarity": "good", "effects": ["gains in the sub-period when the sub-lord is strong"], "source": "BPHS 53.49, 55.15-17, 57.19"},
+      {"when": "ad_from_md in [6, 8] or ad_from_md in [2, 12]", "polarity": "bad", "effects": ["unfavourable sub-period"], "source": "Raman, HPA ch. XXIV rule 14"},
+      {"when": "ad_house in DUSTHANA", "polarity": "bad", "effects": ["troubles in the sub-period"], "source": "BPHS 52.7-10"},
+      {"when": "ad_dignity in ['exalted', 'own'] or ad_house in KENDRA or ad_house in TRIKONA", "polarity": "good", "effects": ["gains in the sub-period"], "source": "BPHS 52.1-6, 52.15-18"}
+    ],
+    "remedies": [],
+    "phases": "BPHS 53.49: even a well-placed Ketu antardasha in the Moon's dasha may bring loss at its end."
+  },
+  {
+    "id": "dasha_principle/mahadasha_antardasha_relationship",
+    "layer": "dasha_principle",
+    "key": {"rule": "mahadasha_antardasha_relationship"},
+    "summary": "A mahadasha lord shows its results mainly in the sub-periods of planets that are related to it (by conjunction, aspect, exchange or mutual kendra/trikona) or that share its functional character; unrelated or opposite-natured sub-lords give reduced or mixed results, and enemies of the dasha lord bring opposition.",
+    "themes": ["sambandha", "sadharmi", "friendship", "bhukti"],
+    "common_outcomes": [
+      "Find which sub-lords are related to the dasha lord; those are the windows in which the dasha's main promise (good or bad) actually shows.",
+      "A sub-lord of the same functional type (e.g. both yogakarakas, or both marakas) intensifies the dasha's theme; an opposite type dilutes it.",
+      "A sub-lord who is a natural enemy of the dasha lord or of the lagna lord tends to bring rivals and loss of standing."
+    ],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Phaladeepika 15.30 (cross-referenced in 20.44) defines relationship; Verma quotes five kinds: exchange, same sign, mutual aspect, mutual kendra, mutual trikona.",
+    "source_views": [
+      {"source": "Laghu Parashari 30-31 (with Jataka Chandrika, tr. O.P. Verma)", "view": "Planets show their own results in the sub-periods of planets related to them or similar in character (30); in sub-periods of unrelated planets of contrary character, results must be worked out by their natures (31). Verma tabulates: related and same character gives the dasha lord's full results; related but contrary character gives very few; unrelated gives mixed.", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "Phaladeepika 20.28, 20.44 (tr. V. Subrahmanya Sastri)", "view": "The dasha's effects appear in bhuktis of planets related to the dasha lord (20.44); the bhukti of an enemy of the dasha lord, of a planet in the 6th, or of an enemy of the lagna lord brings danger from enemies, loss of position and hostility from friends (20.28).", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "Uttara Kalamrita 8.85-86 (tr. S.S. Sareen)", "view": "All planets show in their own bhuktis effects natural to them or to planets they associate with; bhuktis of planets inimical to the dasha lord follow the bhukti lord's own nature.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV rule 12", "view": "The dasha's general effects are modified by the bhukti lord; the influences of both planets and their mutual relation must be compounded.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame related sub-periods as 'when this period's main story plays out'.",
+    "conditional_results": [
+      {"when": "md in ad_with or ad in md_aspected_by or md in ad_aspected_by", "polarity": "mixed", "effects": ["related sub-lord: the dasha lord's main results (good or bad) show in this sub-period"], "source": "Laghu Parashari 30; Phaladeepika 20.44"},
+      {"when": "ad_from_md in KENDRA or ad_from_md in TRIKONA", "polarity": "mixed", "effects": ["counts as a relationship (mutual kendra/trikona) per Verma's reading of Phaladeepika"], "source": "Laghu Parashari 30 (Verma's notes)"},
+      {"when": "manual: sub-lord is a natural enemy of the dasha lord or of the lagna lord, or sits in the 6th", "polarity": "bad", "effects": ["danger from enemies, loss of position, friends turning hostile"], "source": "Phaladeepika 20.28"},
+      {"when": "manual: sub-lord unrelated to and of contrary functional nature to the dasha lord", "polarity": "mixed", "effects": ["reduced, mixed results judged by each planet's nature"], "source": "Laghu Parashari 31"}
+    ],
+    "remedies": [],
+    "phases": ""
+  },
+  {
+    "id": "dasha_principle/own_antardasha",
+    "layer": "dasha_principle",
+    "key": {"rule": "own_antardasha"},
+    "summary": "The first sub-period of every mahadasha is the lord's own; it does not deliver the full good or bad promise of the dasha, which comes later in related sub-periods. It is judged by the lord's dignity and house, and by maraka lordship.",
+    "themes": ["own bhukti", "first sub-period"],
+    "common_outcomes": [
+      "Do not predict the peak events of a mahadasha in its opening sub-period; expect a partial or preparatory taste.",
+      "Judge the own sub-period by the lord's natal dignity and house: exalted, own, kendra, trikona or 11th good; debilitated or in a bad house adverse; otherwise medium."
+    ],
+    "rare_outcomes": [
+      "Uttara Kalamrita 6.24-25: a dasha lord able to give both yoga and death gives the yoga first, in its own bhukti.",
+      "Uttara Kalamrita 8.89: in Saturn's dasha its own bhukti gives Mars-like results and Mars's bhukti gives Saturn's own, and the same applies in Mars's dasha."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Laghu Parashari 29 (with Jataka Chandrika, tr. O.P. Verma)", "view": "Planets do not give their full auspicious, inauspicious or maraka results in their own sub-period within their dasha, only an ordinary share of them.", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "Phaladeepika 20.43-44 (tr. V. Subrahmanya Sastri)", "view": "Restates that planets do not fully give the results of their houses in their own bhukti; the effects show in the bhuktis of related planets. (The printed wording of 20.43 is ambiguous.)", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "BPHS 52.1-3 (tr. R. Santhanam, vol. 2)", "view": "The Sun's own sub-period in its dasha is good when exalted, in own sign, 11th, kendra or trikona; adverse when debilitated or in a bad house; medium elsewhere; as 2nd or 7th lord it threatens life.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Uttara Kalamrita 6.24-25, 8.85, 8.89 (tr. S.S. Sareen)", "view": "A lord that can give both yoga and death gives the yoga first in its own bhukti; planets show their natural effects in their own bhuktis; Saturn and Mars swap results in their own and each other's bhuktis.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"}
+    ],
+    "disagreements": "Laghu Parashari and Phaladeepika say the own sub-period does not give the full results, while Uttara Kalamrita 6.24-25 places the yoga first in the lord's own bhukti.",
+    "confidence": "medium",
+    "phrasing_guidance": "Call it a 'settling-in' phase of the new period.",
+    "conditional_results": [
+      {"when": "ad == md", "polarity": "mixed", "effects": ["only part of the dasha's promise is felt"], "source": "Laghu Parashari 29; Phaladeepika 20.43"},
+      {"when": "ad == md and (ad_dignity in ['exalted', 'own'] or ad_house in KENDRA or ad_house in TRIKONA or ad_house == 11)", "polarity": "good", "effects": ["gains in wealth and property (stated for the Sun)"], "source": "BPHS 52.1-3"},
+      {"when": "ad == md and (ad_dignity == 'debilitated' or ad_house in DUSTHANA)", "polarity": "bad", "effects": ["adverse results (stated for the Sun)"], "source": "BPHS 52.1-3"},
+      {"when": "ad == md and 'maraka' in ad_role", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]"], "source": "BPHS 52.1-3"}
+    ],
+    "remedies": [{"remedy": "Mrityunjaya japa or worship of the Sun (for the Sun's own sub-period when it rules the 2nd or 7th)", "source": "BPHS 52.1-3"}],
+    "phases": ""
+  },
+  {
+    "id": "dasha_principle/yogakaraka_periods",
+    "layer": "dasha_principle",
+    "key": {"rule": "yogakaraka_periods"},
+    "summary": "Raja yoga results come in the dashas and sub-periods of the related kendra and trikona lords (yogakarakas). Within a yogakaraka's dasha, sub-periods of related planets deliver the most; related malefic or maraka sub-lords still deliver some yoga; unrelated benefic sub-lords between yoga sub-periods keep the good going.",
+    "themes": ["yogakaraka", "raja yoga", "related", "unrelated"],
+    "common_outcomes": [
+      "Identify the related kendra-trikona pairs; their mutual dasha/bhukti is the peak of the yoga.",
+      "In a yogakaraka's dasha, grade sub-periods: related yogakaraka best, related benefic next, related inauspicious planet less, related maraka least; unrelated benefic mildly good; unrelated malefic mixed.",
+      "A raja yoga that begins in a maraka sub-period brings recognition first; the material benefits come in a following related inauspicious sub-period."
+    ],
+    "rare_outcomes": [
+      "Uttara Kalamrita 8.82-83: the yoga is destroyed if the 9th lord also rules the 8th or 12th, or if the 9th and 10th lords join the 8th or 12th lords."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["Both lords unblemished (not also ruling bad houses) and free of combustion or debilitation (Verma on Laghu Parashari 32)."],
+    "weakeners_or_cancellations": ["Kendra or trikona lord also ruling a dusthana or 3/11 reduces the yoga (BPHS 34.15; Laghu Parashari 15, 32)."],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Laghu Parashari 18-19, 32-35 (with Jataka Chandrika, tr. O.P. Verma)", "view": "Yoga results come in the dasha and bhukti of the two related yogakarakas and also in sub-periods of unrelated benefics falling between them (18); inauspicious planets related to yogakarakas give good results by strength in their bhuktis within the yogakaraka's dasha (19); a kendra lord's dasha with a related trikona lord's bhukti is good and vice versa, weak if both are blemished, bad if blemished and unrelated (32); raja yoga starting in a maraka bhukti gives fame, its comforts coming in a related inauspicious bhukti, and related benefic bhuktis give large results while unrelated ones give ordinary results (33-34); in a benefic's dasha the bhukti of a related yogakaraka seldom gives full yoga (35).", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "Phaladeepika 20.42, 20.45-49, 20.54 (tr. V. Subrahmanya Sastri)", "view": "Kendra and trikona lords help each other in each other's bhuktis; related kendra and trikona lords become yogakarakas; planets related to a yogakaraka give good bhuktis even if malefic; unrelated planets do no harm; raja yoga begins in the bhuktis of karaka planets in the yogakaraka's dasha and grows in following malefic bhuktis.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "BPHS 34.11-13 (vol. 1) and 48.9-17 (vol. 2) (tr. R. Santhanam)", "view": "Exchange, conjunction, mutual aspect or kendra/trikona placement between a kendra and a trikona lord forms raja yoga; dashas of the 9th and 10th lords joined with the 5th lord, of 10th and 4th lords joined with the 9th lord, of planets aspected by kendra or trikona lords, and of lagna-9th or lagna-10th exchange lords are favourable.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Uttara Kalamrita 8.86-87 (tr. S.S. Sareen)", "view": "In a kona lord's dasha a kendra lord's bhukti is good only if that kendra lord is linked with benefics; malefic bhuktis turn good through relation with a yogakaraka; a yogakaraka does good in its dasha even in the bhukti of an unrelated planet.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV rules 11 and 15", "view": "Periods of 5th and 9th lords and of planets related to them are good; the 5th lord's sub-period in the 9th lord's dasha, or vice versa, is good.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"}
+    ],
+    "disagreements": "Uttara Kalamrita 8.87 says a yogakaraka does good even in an unrelated planet's bhukti, but 6.24-25 says an unrelated yogakaraka bhukti in an inauspicious dasha becomes distressing. Verma notes Susloka Sataka gives related maraka and related inauspicious bhuktis the same yoga strength, unlike Laghu Parashari.",
+    "confidence": "high",
+    "phrasing_guidance": "Present yoga periods as windows of opportunity that still need effort; avoid promising status or wealth outright.",
+    "conditional_results": [
+      {"when": "'yogakaraka' in md_role and 'yogakaraka' in ad_role", "polarity": "good", "effects": ["peak raja yoga results if the two are related"], "source": "Laghu Parashari 18, 33-34"},
+      {"when": "('trikona_lord' in md_role and 'kendra_lord' in ad_role) or ('kendra_lord' in md_role and 'trikona_lord' in ad_role)", "polarity": "good", "effects": ["good sub-period if the two lords are related; weak or bad if both are blemished and unrelated"], "source": "Laghu Parashari 32; Phaladeepika 20.42"},
+      {"when": "md in ad_with and (('kendra_lord' in md_role and 'trikona_lord' in ad_role) or ('trikona_lord' in md_role and 'kendra_lord' in ad_role))", "polarity": "good", "effects": ["conjoined kendra-trikona lords: strong yoga in their mutual periods"], "source": "BPHS 34.11-12; Laghu Parashari 32"},
+      {"when": "manual: yogakaraka dasha, sub-lord a related malefic (3/6/11 or 8th lord)", "polarity": "good", "effects": ["yoga results according to the sub-lord's strength"], "source": "Laghu Parashari 19; Phaladeepika 20.48"},
+      {"when": "manual: yogakaraka dasha, sub-lord a related maraka", "polarity": "mixed", "effects": ["recognition and authority begin, with few material gains"], "source": "Laghu Parashari 33-34"},
+      {"when": "manual: yogakaraka dasha, sub-lord an unrelated benefic", "polarity": "good", "effects": ["ordinary good results; does not block the yoga"], "source": "Laghu Parashari 18, 33-34"},
+      {"when": "manual: yogakaraka dasha, sub-lord an unrelated malefic", "polarity": "mixed", "effects": ["neither clearly good nor bad"], "source": "Verma on Laghu Parashari 33-34"}
+    ],
+    "remedies": [],
+    "phases": "Verma on Laghu Parashari 33-34: when a planet is both yogakaraka and maraka, yoga results come first in benefic sub-periods and maraka results later; within a maraka sub-period, the start is good and the later part brings the maraka results."
+  },
+  {
+    "id": "dasha_principle/inauspicious_dasha_subperiods",
+    "layer": "dasha_principle",
+    "key": {"rule": "inauspicious_dasha_subperiods"},
+    "summary": "In the dasha of a functionally inauspicious planet (8th lord, 3/6/11 lords), even good sub-lords struggle: an unrelated benefic or yogakaraka sub-period turns out badly, a related one gives mixed results, and another malefic sub-period is very hard.",
+    "themes": ["inauspicious dasha", "bhukti", "dasha lord as king"],
+    "common_outcomes": [
+      "Do not expect a benefic sub-period to rescue a malefic mahadasha unless the sub-lord is linked to the dasha lord.",
+      "Related good sub-lords soften the period into mixed results; unrelated ones are overridden.",
+      "Two malefic lords in 6/8/12 from each other make the worst sub-periods."
+    ],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Verma quotes the commentator Vinayaka Sastri: the dasha lord is like a king and the bhukti lord a courtier who must carry out the king's orders unless they are in contact.",
+    "source_views": [
+      {"source": "Laghu Parashari 37-38 (with Jataka Chandrika, tr. O.P. Verma)", "view": "In an inauspicious planet's dasha, the bhukti of an unrelated benefic is evil, of a related benefic mixed, of a related yogakaraka mixed, and of an unrelated yogakaraka extremely bad.", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "Uttara Kalamrita 6.24-25 (tr. S.S. Sareen)", "view": "When the dasha lord is inauspicious and the bhukti lord auspicious but not associated, the result is adverse; associated, mixed; an unassociated yogakaraka bhukti becomes even more distressing.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "Phaladeepika 20.22 (tr. V. Subrahmanya Sastri)", "view": "When dasha and sub-period lords both own or occupy the 6th, 8th or 12th, results are unfavourable.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe these as periods needing patience, where help comes mainly through connected people or planets.",
+    "conditional_results": [
+      {"when": "(md_house in DUSTHANA or 'dusthana_lord' in md_role) and (ad_house in DUSTHANA or 'dusthana_lord' in ad_role)", "polarity": "bad", "effects": ["unfavourable sub-period"], "source": "Phaladeepika 20.22"},
+      {"when": "manual: inauspicious dasha lord, unrelated benefic sub-lord", "polarity": "bad", "effects": ["evil results"], "source": "Laghu Parashari 37; Uttara Kalamrita 6.24-25"},
+      {"when": "manual: inauspicious dasha lord, related benefic or related yogakaraka sub-lord", "polarity": "mixed", "effects": ["mixed results"], "source": "Laghu Parashari 37-38; Uttara Kalamrita 6.24-25"},
+      {"when": "manual: inauspicious dasha lord, unrelated yogakaraka sub-lord", "polarity": "bad", "effects": ["very adverse results"], "source": "Laghu Parashari 38; Uttara Kalamrita 6.24-25"}
+    ],
+    "remedies": [],
+    "phases": ""
+  },
+  {
+    "id": "dasha_principle/maraka_periods",
+    "layer": "dasha_principle",
+    "key": {"rule": "maraka_periods"},
+    "summary": "The 2nd and 7th houses are the maraka (death-inflicting) houses. Their lords, malefics placed in them and malefics joined with their lords are marakas, and their periods are the classical windows for danger to life when the lifespan indicated by other methods is ending; otherwise they bring illness and hardship. Saturn linked to marakas becomes the chief maraka.",
+    "themes": ["maraka", "longevity", "2nd and 7th houses", "health caution"],
+    "common_outcomes": [
+      "Flag dashas and sub-periods of 2nd and 7th lords and of malefics in or with them as periods of health caution; texts tie actual danger to life to the longevity span worked out separately.",
+      "In a maraka dasha, a related benefic sub-lord does not bring the worst; an unrelated malefic sub-lord does.",
+      "Also note the 2nd lord's period can bring wealth and the 7th lord's marriage when well placed (Santhanam)."
+    ],
+    "rare_outcomes": [
+      "BPHS 44.15-21: lords of the 2nd and 12th from the Moon sign can act as marakas (if malefic; if benefic, only illness).",
+      "Laghu Parashari 24-25: if death does not come in the marakas' periods, it may come in the 12th lord's or other malefics' periods."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": ["A malefic dasha does not kill in a benefic's sub-period even if they are related (BPHS 44.8).", "Raman lists planets that do not kill for certain lagnas even with maraka powers (e.g. the Sun for Cancer, Saturn for Leo, Jupiter for Scorpio)."],
+    "lagna_or_context_notes": "Raman, HPA ch. XVII gives, per lagna, which planets kill and which do not despite maraka lordship.",
+    "source_views": [
+      {"source": "BPHS 44.2-9, 44.15-24 (tr. R. Santhanam, vol. 1)", "view": "The 2nd and 7th (12th from the 3rd and 8th) are maraka houses, the 2nd stronger; their lords, malefics in them and malefics with their lords are marakas whose major and sub-periods bring death according to short, medium or long life; a benefic related to the 12th lord, the 8th lord or a strong malefic may also kill; a malefic dasha does not kill in a benefic sub-period; an ill-disposed Saturn related to a maraka kills first; nodes in 1, 7, 8 or 12 or with marakas become marakas; when the indicated life span does not match, there are illnesses instead of death.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Laghu Parashari 23-28, 39 (with Jataka Chandrika, tr. O.P. Verma)", "view": "The 8th and 3rd are houses of life and the 12th from each (7th and 2nd) are maraka houses (23); death comes in their lords' dashas, in malefics conjoined with them, or else in the 12th lord's periods (24-27); Saturn related to marakas becomes the prime maraka (28); in a maraka dasha a related benefic sub-period does not kill while an unrelated inauspicious one does (39).", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "Phaladeepika 20.40, 20.50 (tr. V. Subrahmanya Sastri)", "view": "Strong lords or occupants of the 2nd and 7th cause death in their dashas; if the 8th or 12th lord is very weak, death may come in a maraka lord's bhukti; Jupiter and Venus ruling kendras and maraka houses can cause death.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "BPHS 48.2-8 and notes (tr. R. Santhanam, vol. 2)", "view": "The 2nd lord's dasha brings distress and possible death and the 7th lord's distress to the spouse and possible death; Santhanam notes the well-placed 2nd lord also gives wealth and the 7th lord marriage.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Uttara Kalamrita 8.84-85 (tr. S.S. Sareen)", "view": "The 2nd and 7th are maraka houses; Saturn alone can kill even in a benefic's bhukti when linked with the 8th or 12th lord or a maraka.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XVII", "view": "For each lagna names the planets that inflict death when they gain maraka powers and those that do not.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"}
+    ],
+    "disagreements": "Laghu Parashari's commentators differ on which maraka house is stronger: BPHS 44 and one reading make the 2nd stronger, Verma's preferred reading makes the 7th stronger (counted from the 8th).",
+    "confidence": "high",
+    "phrasing_guidance": "Never predict death. Rephrase maraka periods as times to look after health and avoid risks, and say lifespan cannot be judged from one factor.",
+    "conditional_results": [
+      {"when": "'maraka' in md_role", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]", "illness or hardship if the life span is not ending"], "source": "BPHS 44.3; Laghu Parashari 24; Phaladeepika 20.40"},
+      {"when": "md_house in MARAKA_HOUSES and md in ['Sun', 'Mars', 'Saturn', 'Rahu', 'Ketu']", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]"], "source": "BPHS 44.3; Phaladeepika 20.40"},
+      {"when": "'maraka' in ad_role", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]", "physical troubles in the sub-period"], "source": "BPHS 52.1-3, 52.13-14, 52.21-22"},
+      {"when": "md in ['Sun', 'Mars', 'Saturn', 'Rahu', 'Ketu'] and ad in ['Jupiter', 'Venus', 'Mercury', 'Moon']", "polarity": "mixed", "effects": ["a malefic dasha does not bring death in a benefic's sub-period"], "source": "BPHS 44.8"},
+      {"when": "manual: ill-disposed Saturn related to a maraka planet", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death] before other marakas"], "source": "BPHS 44.9; Laghu Parashari 28"},
+      {"when": "manual: Saturn associated with a maraka or with the lord of the 8th or 12th", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death] even in a benefic's bhukti"], "source": "Uttara Kalamrita 8.85; Laghu Parashari 28"},
+      {"when": "manual: maraka dasha with a related benefic sub-lord", "polarity": "mixed", "effects": ["does not inflict death"], "source": "Laghu Parashari 39"},
+      {"when": "manual: maraka dasha with an unrelated inauspicious sub-lord", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]"], "source": "Laghu Parashari 39"},
+      {"when": "manual: malefic lord of the 2nd or 12th from the Moon sign", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death]; if benefic, only illness"], "source": "BPHS 44.15-21"}
+    ],
+    "remedies": [
+      {"remedy": "Mrityunjaya japa or Shatarudriya recitation and gift of a cow or female buffalo (Venus as 2nd or 7th lord)", "source": "BPHS 47 (Venus dasha, tr. Santhanam, verses 88-89)"},
+      {"remedy": "Gift of a white cow and female buffalo (Moon as maraka in the Sun's dasha)", "source": "BPHS 52.13-14"}
+    ],
+    "phases": ""
+  },
+  {
+    "id": "dasha_principle/venus_saturn_mutual_periods",
+    "layer": "dasha_principle",
+    "key": {"rule": "venus_saturn_mutual_periods"},
+    "summary": "Venus and Saturn give each other's results in their mutual periods: in Venus dasha and Saturn sub-period Saturn's results come, and the reverse. If both are very strong, their mutual periods can bring a sharp fall; if one is strong and one weak, the strong one gives good results.",
+    "themes": ["Venus", "Saturn", "mutual periods", "exception rule"],
+    "common_outcomes": [
+      "In Venus-Saturn or Saturn-Venus periods, read the sub-lord's promise rather than the dasha lord's.",
+      "Be cautious when both Venus and Saturn are exalted, in own sign or vargottama: the classics predict reversal of fortune in their mutual periods.",
+      "If both are weak and in 6/8/12 from each other, the texts paradoxically predict good results."
+    ],
+    "rare_outcomes": ["Uttara Kalamrita gives similar pair rules for Jupiter-Venus, Saturn-Sun, Mars-Jupiter and Jupiter-Mercury mutual periods when strong and well placed."],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Verma notes Venus is yogakaraka for Saturn's lagnas (Capricorn, Aquarius) and Saturn for Venus's (Taurus, Libra).",
+    "source_views": [
+      {"source": "Laghu Parashari 40 (with Jataka Chandrika, tr. O.P. Verma)", "view": "Whatever results Venus and Saturn are to give, each gives them in the other's sub-period.", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "Uttara Kalamrita 6.26-32 (tr. S.S. Sareen)", "view": "Venus and Saturn both exalted, own or vargottama and equally strong make even a king a beggar in their mutual periods; one strong and one weak, the strong gives yoga; both weak and in 6/8/12 from each other they grant wealth. Also gives mutual-period rules for Jupiter-Venus, Saturn-Sun, Mars-Jupiter and Jupiter-Mercury when strong and well placed.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a special classical rule to watch, not a certainty of loss.",
+    "conditional_results": [
+      {"when": "(md == 'Venus' and ad == 'Saturn') or (md == 'Saturn' and ad == 'Venus')", "polarity": "mixed", "effects": ["the sub-lord's results are given rather than the dasha lord's"], "source": "Laghu Parashari 40"},
+      {"when": "((md == 'Venus' and ad == 'Saturn') or (md == 'Saturn' and ad == 'Venus')) and (md_dignity in ['exalted', 'own'] or md_vargottama) and (ad_dignity in ['exalted', 'own'] or ad_vargottama)", "polarity": "bad", "effects": ["sharp reversal of status and wealth"], "source": "Uttara Kalamrita 6.28"},
+      {"when": "manual: Venus-Saturn mutual periods when both are weak and one is in the 6th, 8th or 12th from the other (or rules such a house, or joins its lord)", "polarity": "good", "effects": ["wealth and happiness when both are weak"], "source": "Uttara Kalamrita 6.29"},
+      {"when": "manual: Venus and Saturn, one strong and the other weak", "polarity": "good", "effects": ["the stronger one gives yoga"], "source": "Uttara Kalamrita 6.28"},
+      {"when": "manual: Jupiter-Venus mutual periods when they are 6/8 or 2/12 from each other (or linked with those lords) and weak and afflicted by malefics", "polarity": "bad", "effects": ["separation from family, displeasure of superiors"], "source": "Uttara Kalamrita 6.27"}
+    ],
+    "remedies": [],
+    "phases": ""
+  },
+  {
+    "id": "dasha_principle/phases_within_dasha",
+    "layer": "dasha_principle",
+    "key": {"rule": "phases_within_dasha"},
+    "summary": "When a planet's results arrive inside its dasha depends on its decanate (drekkana): first decanate at the start, second in the middle, third at the end; a retrograde planet, and always Rahu and Ketu, give them in reverse order.",
+    "themes": ["timing within dasha", "drekkana", "retrograde"],
+    "common_outcomes": [
+      "Use the lord's drekkana (0-10, 10-20, 20-30 degrees of the sign) to place its main effects in the first, middle or last third of the period, reversed if retrograde or a node.",
+      "Weak planets in good signs or amsas improve in the second half (Phaladeepika).",
+      "Some planets' periods carry specific end-of-period warnings (Mars, afflicted Rahu, Rahu with a benefic)."
+    ],
+    "rare_outcomes": ["BPHS 47.27-32: even a strong Mars dasha may bring some unfavourable effects at the end."],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "BPHS 47.3-4 (tr. R. Santhanam, vol. 2)", "view": "A planet in the first drekkana gives its effects at the start of the dasha, the second in the middle, the third at the end; for a retrograde planet the order reverses, and Rahu and Ketu, always retrograde, always give results in reverse order.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 47.27-32, 47.40-43 (tr. R. Santhanam, vol. 2)", "view": "Mars's good dasha may turn somewhat unfavourable at its end; afflicted Rahu brings loss at the start, relief in the middle and distress at the end.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Phaladeepika 19.16, 20.39, 20.57 (tr. V. Subrahmanya Sastri)", "view": "Rahu's gains in Virgo, Pisces or Scorpio may be lost at the end; harm from a benefic joined with Rahu peaks at the end; a weak planet in an auspicious sign or amsa gives good effects in the latter half.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Give phases as tendencies ('more likely early in the period'), not dates.",
+    "conditional_results": [
+      {"when": "manual: dasha lord in the first drekkana (0-10 degrees) and not retrograde", "polarity": "neutral", "effects": ["main results at the start of the dasha"], "source": "BPHS 47.3-4"},
+      {"when": "manual: dasha lord in the second drekkana (10-20 degrees)", "polarity": "neutral", "effects": ["main results in the middle of the dasha"], "source": "BPHS 47.3-4"},
+      {"when": "manual: dasha lord in the third drekkana (20-30 degrees) and not retrograde", "polarity": "neutral", "effects": ["main results at the end of the dasha"], "source": "BPHS 47.3-4"},
+      {"when": "md_retro or md in ['Rahu', 'Ketu']", "polarity": "neutral", "effects": ["drekkana timing order reversed (third drekkana at the start, first at the end)"], "source": "BPHS 47.3-4"},
+      {"when": "md == 'Mars'", "polarity": "mixed", "effects": ["possible unfavourable effects at the end of even a good Mars dasha"], "source": "BPHS 47.27-32"}
+    ],
+    "remedies": [],
+    "phases": "Drekkana 1 = start, 2 = middle, 3 = end; reversed for retrograde planets and the nodes (BPHS 47.3-4). Weak planets in good amsas improve in the latter half (Phaladeepika 20.57)."
+  },
+  {
+    "id": "dasha_principle/transits_during_dasha",
+    "layer": "dasha_principle",
+    "key": {"rule": "transits_during_dasha"},
+    "summary": "Transits time and modify what the dasha promises. The dasha lord's position in the sky when the dasha begins, and its later transits through good or bad houses and signs, raise or lower the results; the Moon's transit relative to the dasha lord does the same day to day. Modern practice (K.N. Rao) times major events by the Jupiter-Saturn double transit within a supporting dasha.",
+    "themes": ["gochara", "transit", "dasha start chart", "double transit"],
+    "common_outcomes": [
+      "Check where the dasha lord is transiting when its dasha starts: in the lagna, its exaltation, own or friend's sign is good; in 6, 8 or 12, debilitation or enemy sign is bad. Combine this with the natal position.",
+      "Within a dasha, the lord's transit through its own, exalted or friendly sign boosts its houses; transit through debilitation or enemy sign hurts them.",
+      "Use transits to time events the dasha already indicates, not to create events the dasha does not support.",
+      "For major events, look for Jupiter and Saturn both influencing the relevant house by transit while a related dasha runs."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika: an auspicious bhukti gives results when the Sun transits the bhukti lord's exaltation sign; an inauspicious one when the Sun passes its debilitation or enemy sign."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["Dasha lord transiting the lagna or the 3rd, 6th, 10th or 11th from it (Phaladeepika 20.59)."],
+    "weakeners_or_cancellations": ["Natally weak dasha lord transiting anywhere spoils the bhava it signifies (Phaladeepika 20.35)."],
+    "lagna_or_context_notes": "Phaladeepika 20.60 judges the dasha lord's transit house counted from the Moon; it does not say natal or transit Moon explicitly.",
+    "source_views": [
+      {"source": "BPHS 47.5-6 and 48.8 (tr. R. Santhanam, vol. 2)", "view": "Results are favourable if at the start of the dasha the lord is in the lagna, exaltation, own or friend's sign, and unfavourable if then in 6, 8 or 12, debilitation or an enemy sign; a planet in a trikona at the dasha's start gives good results, in 6/8/12 bad, so both the birth position and the position at the start must be weighed.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Phaladeepika 20.34-38, 20.59-61 (tr. V. Subrahmanya Sastri)", "view": "A strong dasha lord transiting its own, exalted or friendly sign boosts its bhava; a natally weak one transiting anywhere harms it; the Moon transiting the dasha lord's exaltation or friend's sign, or the 3rd, 6th, 10th, 11th, trines or 7th from it, gives happy results; a bhukti lord transiting debilitation or enemy sign brings misery and own or exaltation sign good; the Sun's transit triggers bhukti results; a dasha lord transiting the lagna or the 3rd, 6th, 10th or 11th from it is auspicious; results also depend on the house from the Moon the dasha lord transits.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV rule 6", "view": "Dasha results are modified by transits (gochara).", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, p. 53 (dasha-start charts)", "view": "Standard texts prescribe casting a chart for the start of a dasha, though the exact start moment of a Vimshottari dasha is hard to fix.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "K.N. Rao, Ups and Downs in Career (via summary: publisher's description and preface excerpt)", "view": "Career timing uses operating yogas and dasha periods together with the double transit of Jupiter and Saturn, tested on many charts.", "url": "https://exoticindia.com/book/details/ups-and-downs-in-career-replicable-astrological-techniques-using-transits-of-saturn-and-jupiter-nae715"},
+      {"source": "Light on Vedic Astrology blog on K.N. Rao's double transit (via summary)", "view": "A house aspected or occupied by both transiting Jupiter and Saturn is activated; without support from yogas and dasha the results do not fully materialise.", "url": "https://www.lightonvedicastrology.com/blog/the-double-transit-effect-of-jupiter-and-saturn"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Present transits as timing triggers inside a period; avoid exact-date promises.",
+    "conditional_results": [
+      {"when": "manual: at the start of the dasha the lord transits the lagna or its exaltation, own or friend's sign", "polarity": "good", "effects": ["favourable dasha"], "source": "BPHS 47.5-6"},
+      {"when": "manual: at the start of the dasha the lord transits the 6th, 8th or 12th, or its debilitation or an enemy sign", "polarity": "bad", "effects": ["unfavourable dasha"], "source": "BPHS 47.5-6; BPHS 48.8"},
+      {"when": "manual: strong dasha lord transiting its own, exalted or friendly sign", "polarity": "good", "effects": ["its houses prosper"], "source": "Phaladeepika 20.34"},
+      {"when": "manual: natally weak dasha lord in transit", "polarity": "bad", "effects": ["the houses it signifies suffer"], "source": "Phaladeepika 20.35"},
+      {"when": "manual: dasha lord transiting the lagna or the 3rd, 6th, 10th or 11th from it", "polarity": "good", "effects": ["auspicious phase of the dasha"], "source": "Phaladeepika 20.59"},
+      {"when": "manual: transiting Moon in the dasha lord's exaltation or friend's sign, or in the 3rd, 6th, 7th, 10th, 11th or a trine from the dasha lord", "polarity": "good", "effects": ["happy days within the period"], "source": "Phaladeepika 20.36, 20.61"},
+      {"when": "manual: bhukti lord transiting its debilitation or enemy sign", "polarity": "bad", "effects": ["misery in the sub-period"], "source": "Phaladeepika 20.37"},
+      {"when": "manual: transiting Jupiter and Saturn both influence the house of the matter while a related dasha runs", "polarity": "good", "effects": ["event promised by the dasha likely to occur"], "source": "K.N. Rao (via summary)"}
+    ],
+    "remedies": [],
+    "phases": ""
+  },
+  {
+    "id": "dasha_principle/yogas_fructify_in_dashas",
+    "layer": "dasha_principle",
+    "key": {"rule": "yogas_fructify_in_dashas"},
+    "summary": "A yoga in the birth chart gives its results mainly in the dashas and sub-periods of the planets that form it; Nabhasa yogas are an exception, felt throughout life.",
+    "themes": ["yoga timing", "raja yoga", "nabhasa yoga"],
+    "common_outcomes": [
+      "For each major yoga, note the planets forming it and expect its results when their dashas or sub-periods run.",
+      "If none of a yoga's planets rules a dasha during the useful years of life, its results stay limited.",
+      "Treat Nabhasa (pattern) yogas as lifelong background rather than period-specific."
+    ],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": ["Uttara Kalamrita 8.98 notes yogas are also influenced by other forces."],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Uttara Kalamrita 8.98 (tr. S.S. Sareen)", "view": "Beings born under a yoga experience its effects during the dashas of the planets responsible for it, though other forces also shape it.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "BPHS 33.94-99, 35.50 (tr. R. Santhanam, vol. 1)", "view": "The effects of yogas come in the dashas of the signs or planets concerned (33.99, said of Kemadruma-type yogas); the results of Nabhasa yogas are felt throughout, in all dashas (35.50).", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Laghu Parashari 18 (with Jataka Chandrika, tr. O.P. Verma)", "view": "Raja yoga results come in the dasha and bhukti of the yoga-forming planets.", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "Phaladeepika 20.54 (tr. V. Subrahmanya Sastri)", "view": "Raja yoga begins in the bhuktis of karaka planets in the yogakaraka's dasha.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV (intro)", "view": "Dashas are the periods in which planets' indications are realised; to time an event, find when the planet that promises it takes control.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"}
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Link yoga promises to their periods so the reader sees when potential is most likely to show.",
+    "conditional_results": [
+      {"when": "manual: dasha or sub-period lord is one of the planets forming a yoga in the chart", "polarity": "mixed", "effects": ["that yoga's results come forward (good or bad according to the yoga)"], "source": "Uttara Kalamrita 8.98; BPHS 33.99; Laghu Parashari 18"}
+    ],
+    "remedies": [],
+    "phases": ""
+  },
+  {
+    "id": "dasha_principle/tara_subperiods",
+    "layer": "dasha_principle",
+    "key": {"rule": "tara_subperiods"},
+    "summary": "In the dasha of a malefic, sub-periods of the lords of the 3rd, 5th and 7th nakshatras from the birth star (Vipat, Pratyak, Vadha) bring trouble; the same stars' dashas are classical danger windows for short, medium and long life.",
+    "themes": ["nakshatra", "tara", "vipat", "pratyak", "vadha"],
+    "common_outcomes": [
+      "Count from the birth nakshatra: the lords of the 3rd, 5th and 7th stars are the trouble sub-lords inside a malefic's dasha.",
+      "Expect setbacks from rivals, theft or misfortune in those sub-periods."
+    ],
+    "rare_outcomes": ["Phaladeepika adds the bhukti of the Moon-sign lord or the 8th lord from it in a malefic dasha."],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 20.23 (tr. V. Subrahmanya Sastri)", "view": "In a malefic's dasha, the bhukti of the lord of the 3rd, 5th or 7th star from the birth star, or of the Moon-sign lord or the 8th lord from it, brings thieves, enemies and misery.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "BPHS 44.15-21 (tr. R. Santhanam, vol. 1)", "view": "Short-lived natives may die in the dasha of the Vipat (3rd) star, medium-lived in the Pratyak (5th), long-lived in the Vadha (7th) star from the birth star.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV rule 13", "view": "In a malefic's dasha, the sub-period of the planet ruling the 3rd, 5th or 7th star from the natal star is a time of trial.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe as periods for extra caution; never predict death.",
+    "conditional_results": [
+      {"when": "manual: malefic dasha and the sub-lord rules the 3rd, 5th or 7th nakshatra from the birth star", "polarity": "bad", "effects": ["trials, enemies, theft, misery"], "source": "Phaladeepika 20.23; Raman, HPA ch. XXIV rule 13"},
+      {"when": "manual: dasha of the lord of the 3rd, 5th or 7th star from the birth star", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death] for short, medium and long life respectively"], "source": "BPHS 44.15-21"}
+    ],
+    "remedies": [],
+    "phases": ""
+  },
+  {
+    "id": "dasha_principle/dasha_sequence_number",
+    "layer": "dasha_principle",
+    "key": {"rule": "dasha_sequence_number"},
+    "summary": "Certain dashas are flagged as difficult by their position in the native's sequence of dashas: Saturn as the 4th dasha, Jupiter as the 6th, and Mars or Rahu as the 5th. A planet at the very end of a sign also gives a dangerous dasha.",
+    "themes": ["dasha order", "sequence", "sign end"],
+    "common_outcomes": [
+      "Number the dashas from the one running at birth; if Saturn's is the 4th, Jupiter's the 6th, or Mars's or Rahu's the 5th, read that period cautiously."
+    ],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 20.24 (tr. V. Subrahmanya Sastri)", "view": "Saturn's dasha as the 4th, Jupiter's as the 6th and Mars's or Rahu's as the 5th are dangerous, as is the dasha of a planet at the end of a sign or of a dusthana lord. (Partly garbled in the OCR.)", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621592.html"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV rules 1-2", "view": "Saturn's dasha as the 4th and Jupiter's as the 6th are unfavourable.", "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Mention only as a supplementary caution, never as the main judgement of a period.",
+    "conditional_results": [
+      {"when": "manual: Saturn's dasha is the 4th in the native's sequence", "polarity": "bad", "effects": ["unfavourable period"], "source": "Phaladeepika 20.24; Raman, HPA ch. XXIV rule 1"},
+      {"when": "manual: Jupiter's dasha is the 6th in the native's sequence", "polarity": "bad", "effects": ["unfavourable period"], "source": "Phaladeepika 20.24; Raman, HPA ch. XXIV rule 2"},
+      {"when": "manual: Mars's or Rahu's dasha is the 5th in the native's sequence", "polarity": "bad", "effects": ["dangerous period"], "source": "Phaladeepika 20.24"},
+      {"when": "manual: dasha lord at the very end of a sign", "polarity": "bad", "effects": ["dangerous period"], "source": "Phaladeepika 20.24"}
+    ],
+    "remedies": [],
+    "phases": ""
+  }
+]

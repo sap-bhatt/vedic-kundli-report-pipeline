@@ -1,0 +1,1001 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "chart_data.json",
+  "description": "One birth chart as the report pipeline reads it (docs/CHART_DATA_FORMAT.md). Sidereal (Lahiri) longitudes, English sign names, whole-sign houses counted from the lagna, ISO dates. The schema checks shape and types; tools/validate_chart.py also checks that the facts agree with each other.",
+  "type": "object",
+  "required": [
+    "birth",
+    "settings",
+    "lagna",
+    "planets",
+    "houses",
+    "vimshottari"
+  ],
+  "properties": {
+    "birth": {
+      "type": "object",
+      "required": [
+        "date",
+        "time",
+        "place"
+      ],
+      "properties": {
+        "date": {
+          "$ref": "#/$defs/date",
+          "description": "Birth date, YYYY-MM-DD (local civil date)."
+        },
+        "time": {
+          "type": "string",
+          "description": "Display only, e.g. \"06:40 IST\" or \"10:00 (UTC+1)\"."
+        },
+        "place": {
+          "type": "string",
+          "description": "Display only, e.g. \"Jaipur, Rajasthan (26.91N, 75.79E)\"."
+        },
+        "sex": {
+          "type": "string",
+          "description": "OPTIONAL. 'female' or 'male' sets husband/wife wording; anything else gives 'partner'."
+        }
+      }
+    },
+    "settings": {
+      "type": "object",
+      "required": [
+        "ayanamsa_value"
+      ],
+      "properties": {
+        "ayanamsa_value": {
+          "type": "string",
+          "description": "Printed on the cover, e.g. \"23°41'31\\\"\"."
+        },
+        "ayanamsa": {
+          "type": "string",
+          "description": "OPTIONAL, informational; the pipeline assumes 'lahiri'."
+        },
+        "ayanamsa_deg": {
+          "type": "number"
+        },
+        "node": {
+          "type": "string",
+          "description": "OPTIONAL, informational: 'mean' or 'true'."
+        },
+        "dasha_year_days": {
+          "type": "number"
+        },
+        "houses": {
+          "type": "string",
+          "description": "OPTIONAL, informational; the pipeline always uses whole-sign houses."
+        },
+        "node_exalt": {
+          "type": "string",
+          "description": "OPTIONAL. Footnote of the D1 table, e.g. 'taurus_scorpio'."
+        }
+      }
+    },
+    "lagna": {
+      "type": "object",
+      "required": [
+        "lon",
+        "sign",
+        "sign_num",
+        "deg_in_sign",
+        "nakshatra",
+        "vargas"
+      ],
+      "properties": {
+        "lon": {
+          "$ref": "#/$defs/longitude"
+        },
+        "sign": {
+          "$ref": "#/$defs/sign"
+        },
+        "sign_num": {
+          "$ref": "#/$defs/num12"
+        },
+        "deg_in_sign": {
+          "type": "string",
+          "description": "Display form, e.g. \"21°58'42\\\"\"."
+        },
+        "nakshatra": {
+          "$ref": "#/$defs/nakshatra"
+        },
+        "pada": {
+          "$ref": "#/$defs/pada"
+        },
+        "nak_lord": {
+          "$ref": "#/$defs/graha"
+        },
+        "vargas": {
+          "$ref": "#/$defs/vargas"
+        }
+      }
+    },
+    "planets": {
+      "type": "array",
+      "minItems": 9,
+      "items": {
+        "type": "object",
+        "required": [
+          "name"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          }
+        },
+        "if": {
+          "properties": {
+            "name": {
+              "$ref": "#/$defs/graha"
+            }
+          }
+        },
+        "then": {
+          "required": [
+            "name",
+            "lon",
+            "sign",
+            "sign_num",
+            "deg_in_sign",
+            "nakshatra",
+            "nak_lord",
+            "dignity",
+            "vargas"
+          ],
+          "properties": {
+            "lon": {
+              "$ref": "#/$defs/longitude"
+            },
+            "sign": {
+              "$ref": "#/$defs/sign"
+            },
+            "sign_num": {
+              "$ref": "#/$defs/num12"
+            },
+            "deg_in_sign": {
+              "type": "string"
+            },
+            "nakshatra": {
+              "$ref": "#/$defs/nakshatra"
+            },
+            "pada": {
+              "$ref": "#/$defs/pada"
+            },
+            "nak_lord": {
+              "$ref": "#/$defs/graha"
+            },
+            "house": {
+              "$ref": "#/$defs/num12"
+            },
+            "vargas": {
+              "$ref": "#/$defs/vargas"
+            },
+            "retro": {
+              "type": "boolean"
+            },
+            "speed": {
+              "type": "number",
+              "description": "Degrees per day; negative = retrograde."
+            },
+            "dignity": {
+              "enum": [
+                "exalted",
+                "moolatrikona",
+                "own",
+                "friend",
+                "neutral",
+                "enemy",
+                "debilitated",
+                "-"
+              ]
+            },
+            "combust": {
+              "type": "boolean"
+            }
+          }
+        },
+        "else": {
+          "if": {
+            "properties": {
+              "name": {
+                "const": "Gulika"
+              }
+            }
+          },
+          "then": {
+            "required": [
+              "sign",
+              "vargas"
+            ],
+            "properties": {
+              "sign": {
+                "$ref": "#/$defs/sign"
+              },
+              "vargas": {
+                "type": "object"
+              }
+            }
+          }
+        }
+      },
+      "allOf": [
+        {
+          "contains": {
+            "properties": {
+              "name": {
+                "const": "Sun"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "minContains": 1,
+          "maxContains": 1
+        },
+        {
+          "contains": {
+            "properties": {
+              "name": {
+                "const": "Moon"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "minContains": 1,
+          "maxContains": 1
+        },
+        {
+          "contains": {
+            "properties": {
+              "name": {
+                "const": "Mars"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "minContains": 1,
+          "maxContains": 1
+        },
+        {
+          "contains": {
+            "properties": {
+              "name": {
+                "const": "Mercury"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "minContains": 1,
+          "maxContains": 1
+        },
+        {
+          "contains": {
+            "properties": {
+              "name": {
+                "const": "Jupiter"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "minContains": 1,
+          "maxContains": 1
+        },
+        {
+          "contains": {
+            "properties": {
+              "name": {
+                "const": "Venus"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "minContains": 1,
+          "maxContains": 1
+        },
+        {
+          "contains": {
+            "properties": {
+              "name": {
+                "const": "Saturn"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "minContains": 1,
+          "maxContains": 1
+        },
+        {
+          "contains": {
+            "properties": {
+              "name": {
+                "const": "Rahu"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "minContains": 1,
+          "maxContains": 1
+        },
+        {
+          "contains": {
+            "properties": {
+              "name": {
+                "const": "Ketu"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          },
+          "minContains": 1,
+          "maxContains": 1
+        }
+      ]
+    },
+    "houses": {
+      "type": "array",
+      "minItems": 12,
+      "maxItems": 12,
+      "items": {
+        "type": "object",
+        "required": [
+          "house",
+          "sign",
+          "lord",
+          "lord_in_house",
+          "lord_in_sign",
+          "lord_dignity",
+          "occupants",
+          "aspected_by"
+        ],
+        "properties": {
+          "house": {
+            "$ref": "#/$defs/num12"
+          },
+          "sign": {
+            "$ref": "#/$defs/sign"
+          },
+          "lord": {
+            "$ref": "#/$defs/graha"
+          },
+          "lord_in_house": {
+            "$ref": "#/$defs/num12"
+          },
+          "lord_in_sign": {
+            "$ref": "#/$defs/sign"
+          },
+          "lord_dignity": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "occupants": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "aspected_by": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "vimshottari": {
+      "type": "object",
+      "required": [
+        "balance_at_birth",
+        "mahadashas"
+      ],
+      "properties": {
+        "balance_at_birth": {
+          "type": "object",
+          "required": [
+            "lord",
+            "years"
+          ],
+          "properties": {
+            "lord": {
+              "$ref": "#/$defs/graha"
+            },
+            "years": {
+              "type": "number",
+              "minimum": 0
+            }
+          }
+        },
+        "mahadashas": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": [
+              "md",
+              "start",
+              "end"
+            ],
+            "properties": {
+              "md": {
+                "$ref": "#/$defs/graha"
+              },
+              "start": {
+                "$ref": "#/$defs/date"
+              },
+              "end": {
+                "$ref": "#/$defs/date"
+              }
+            }
+          }
+        },
+        "antardashas_by_md": {
+          "type": "object",
+          "description": "OPTIONAL but strongly recommended: every sub-period of every mahadasha.",
+          "propertyNames": {
+            "$ref": "#/$defs/graha"
+          },
+          "additionalProperties": {
+            "type": "array",
+            "minItems": 9,
+            "maxItems": 9,
+            "items": {
+              "$ref": "#/$defs/subperiod"
+            }
+          }
+        },
+        "current_md_antardashas": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/subperiod"
+          }
+        }
+      }
+    },
+    "panchang_at_birth": {
+      "type": "object",
+      "properties": {
+        "tithi": {
+          "type": "string"
+        },
+        "paksha": {
+          "enum": [
+            "Shukla",
+            "Krishna"
+          ]
+        },
+        "tithi_num": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 30
+        },
+        "nitya_yoga": {
+          "type": "string"
+        },
+        "karana": {
+          "type": "string"
+        },
+        "vara": {
+          "enum": [
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ]
+        },
+        "sunrise": {
+          "type": "string"
+        },
+        "sunset": {
+          "type": "string"
+        }
+      }
+    },
+    "avakhada": {
+      "type": "object",
+      "additionalProperties": {
+        "type": [
+          "string",
+          "integer",
+          "number",
+          "null"
+        ]
+      }
+    },
+    "graha_yuddha": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "planets"
+        ],
+        "properties": {
+          "planets": {
+            "type": "array",
+            "items": {
+              "$ref": "#/$defs/graha"
+            }
+          },
+          "sep_deg": {
+            "type": "number"
+          },
+          "winner_by_latitude": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "yogini_current_and_next": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "yogini",
+          "planet",
+          "start",
+          "end"
+        ],
+        "properties": {
+          "yogini": {
+            "enum": [
+              "Mangala",
+              "Pingala",
+              "Dhanya",
+              "Bhramari",
+              "Bhadrika",
+              "Ulka",
+              "Siddha",
+              "Sankata"
+            ]
+          },
+          "planet": {
+            "$ref": "#/$defs/graha"
+          },
+          "years": {
+            "type": "number"
+          },
+          "start": {
+            "$ref": "#/$defs/date"
+          },
+          "end": {
+            "$ref": "#/$defs/date"
+          },
+          "current": {
+            "type": "boolean"
+          }
+        }
+      }
+    },
+    "chara_current_and_next": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "sign",
+          "start",
+          "end"
+        ],
+        "properties": {
+          "sign": {
+            "type": "string"
+          },
+          "years": {
+            "type": "number"
+          },
+          "start": {
+            "$ref": "#/$defs/date"
+          },
+          "end": {
+            "$ref": "#/$defs/date"
+          }
+        }
+      }
+    },
+    "yogas_present": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "fired": {
+            "type": "boolean"
+          },
+          "variant": {
+            "type": "string"
+          },
+          "conditions": {
+            "type": "object"
+          }
+        }
+      }
+    },
+    "yogas_checked_absent": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "doshas": {
+      "type": "object",
+      "properties": {
+        "manglik": {
+          "oneOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "object",
+              "properties": {
+                "houses_used": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/$defs/num12"
+                  }
+                },
+                "mars_house": {
+                  "type": "object",
+                  "properties": {
+                    "lagna": {
+                      "$ref": "#/$defs/num12"
+                    },
+                    "moon": {
+                      "$ref": "#/$defs/num12"
+                    },
+                    "venus": {
+                      "$ref": "#/$defs/num12"
+                    }
+                  }
+                },
+                "hits": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "boolean"
+                  }
+                },
+                "is_manglik_any": {
+                  "type": "boolean"
+                },
+                "cancel_flags": {
+                  "type": "object",
+                  "additionalProperties": {
+                    "type": "boolean"
+                  }
+                },
+                "cancelled_any": {
+                  "type": "boolean"
+                }
+              }
+            }
+          ]
+        },
+        "kaal_sarp": {
+          "oneOf": [
+            {
+              "type": "boolean"
+            },
+            {
+              "type": "object",
+              "additionalProperties": {
+                "type": "object",
+                "properties": {
+                  "degree_full": {
+                    "type": "boolean"
+                  },
+                  "degree_partial_one_out": {
+                    "type": "boolean"
+                  },
+                  "sign_mode_full": {
+                    "type": "boolean"
+                  },
+                  "outside_planets": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  },
+                  "rahu_house": {
+                    "$ref": "#/$defs/num12"
+                  },
+                  "name": {
+                    "type": "string"
+                  },
+                  "direction": {
+                    "type": [
+                      "string",
+                      "null"
+                    ]
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "sade_sati": {
+          "type": "object",
+          "required": [
+            "intervals"
+          ],
+          "properties": {
+            "moon_sign": {
+              "$ref": "#/$defs/sign"
+            },
+            "saturn_now": {
+              "$ref": "#/$defs/sign"
+            },
+            "current": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "intervals": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": [
+                  "phase",
+                  "saturn_in",
+                  "start",
+                  "end"
+                ],
+                "properties": {
+                  "phase": {
+                    "type": "string"
+                  },
+                  "saturn_in": {
+                    "$ref": "#/$defs/sign"
+                  },
+                  "start": {
+                    "$ref": "#/$defs/date"
+                  },
+                  "end": {
+                    "$ref": "#/$defs/date"
+                  },
+                  "current": {
+                    "type": "boolean"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "additionalProperties": {
+        "type": [
+          "boolean",
+          "object",
+          "null"
+        ]
+      }
+    },
+    "jupiter_ingresses_next_6y": {
+      "$ref": "#/$defs/ingresses"
+    },
+    "saturn_ingresses_next_6y": {
+      "$ref": "#/$defs/ingresses"
+    }
+  },
+  "patternProperties": {
+    "^transits_[0-9]{4}_[0-9]{2}_[0-9]{2}$": {
+      "type": "object",
+      "required": [
+        "Jupiter",
+        "Saturn"
+      ],
+      "propertyNames": {
+        "$ref": "#/$defs/graha"
+      },
+      "additionalProperties": {
+        "type": "object",
+        "required": [
+          "sign",
+          "house_from_lagna",
+          "house_from_moon"
+        ],
+        "properties": {
+          "sign": {
+            "$ref": "#/$defs/sign"
+          },
+          "deg": {
+            "type": "number",
+            "minimum": 0,
+            "exclusiveMaximum": 30
+          },
+          "retro": {
+            "type": "boolean"
+          },
+          "house_from_lagna": {
+            "$ref": "#/$defs/num12"
+          },
+          "house_from_moon": {
+            "$ref": "#/$defs/num12"
+          }
+        }
+      }
+    }
+  },
+  "allOf": [
+    {
+      "description": "at least one transits_YYYY_MM_DD key (the first one is used)",
+      "not": {
+        "propertyNames": {
+          "not": {
+            "pattern": "^transits_[0-9]{4}_[0-9]{2}_[0-9]{2}$"
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "date": {
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    },
+    "longitude": {
+      "type": "number",
+      "minimum": 0,
+      "exclusiveMaximum": 360
+    },
+    "num12": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 12
+    },
+    "pada": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 4
+    },
+    "graha": {
+      "enum": [
+        "Sun",
+        "Moon",
+        "Mars",
+        "Mercury",
+        "Jupiter",
+        "Venus",
+        "Saturn",
+        "Rahu",
+        "Ketu"
+      ]
+    },
+    "sign": {
+      "enum": [
+        "Aries",
+        "Taurus",
+        "Gemini",
+        "Cancer",
+        "Leo",
+        "Virgo",
+        "Libra",
+        "Scorpio",
+        "Sagittarius",
+        "Capricorn",
+        "Aquarius",
+        "Pisces"
+      ]
+    },
+    "nakshatra": {
+      "enum": [
+        "Ashwini",
+        "Bharani",
+        "Krittika",
+        "Rohini",
+        "Mrigashira",
+        "Ardra",
+        "Punarvasu",
+        "Pushya",
+        "Ashlesha",
+        "Magha",
+        "Purva Phalguni",
+        "Uttara Phalguni",
+        "Hasta",
+        "Chitra",
+        "Swati",
+        "Vishakha",
+        "Anuradha",
+        "Jyeshtha",
+        "Mula",
+        "Purva Ashadha",
+        "Uttara Ashadha",
+        "Shravana",
+        "Dhanishta",
+        "Shatabhisha",
+        "Purva Bhadrapada",
+        "Uttara Bhadrapada",
+        "Revati"
+      ]
+    },
+    "vargas": {
+      "type": "object",
+      "required": [
+        "D9"
+      ],
+      "description": "Divisional-chart signs as English sign names. D9 required; D10 optional but then for the lagna and all nine grahas; others (D2, D3, D7, D12) are not read.",
+      "properties": {
+        "D1": {
+          "$ref": "#/$defs/sign"
+        },
+        "D9": {
+          "$ref": "#/$defs/sign"
+        },
+        "D10": {
+          "$ref": "#/$defs/sign"
+        }
+      },
+      "additionalProperties": {
+        "$ref": "#/$defs/sign"
+      }
+    },
+    "subperiod": {
+      "type": "object",
+      "required": [
+        "ad",
+        "start",
+        "end"
+      ],
+      "properties": {
+        "ad": {
+          "$ref": "#/$defs/graha"
+        },
+        "start": {
+          "$ref": "#/$defs/date"
+        },
+        "end": {
+          "$ref": "#/$defs/date"
+        },
+        "current": {
+          "type": "boolean"
+        }
+      }
+    },
+    "ingresses": {
+      "type": "array",
+      "description": "Sign changes in date order: [date, sign entered, house from the lagna].",
+      "items": {
+        "type": "array",
+        "prefixItems": [
+          {
+            "$ref": "#/$defs/date"
+          },
+          {
+            "$ref": "#/$defs/sign"
+          },
+          {
+            "$ref": "#/$defs/num12"
+          }
+        ],
+        "minItems": 3,
+        "maxItems": 3
+      }
+    }
+  }
+}

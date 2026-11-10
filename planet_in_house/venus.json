@@ -1,0 +1,1228 @@
+[
+  {
+    "id": "planet_in_house/venus/1",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 1
+    },
+    "summary": "Venus in the lagna is read as beauty, charm, happiness and long life, with attraction to and from the opposite sex and a love of art and comfort.",
+    "themes": [
+      "beauty",
+      "charm",
+      "pleasure",
+      "art",
+      "attraction"
+    ],
+    "common_outcomes": [
+      "Attractive body, beautiful eyes and face (Phaladeepika 8.17; Saravali 30.62; Jataka Parijata 8.58)",
+      "Happy (Phaladeepika 8.17; Saravali 30.62; Brihat Jataka 20.8)",
+      "Long-lived (Phaladeepika 8.17; Saravali 30.62; Bhrigu Sutras 1-13)",
+      "Attractive to the opposite sex; skilled in love (Saravali 30.62; Brihat Jataka 20.8; Raman)"
+    ],
+    "rare_outcomes": [
+      "Proficient in mathematics (Bhrigu Sutras 1-13)",
+      "Timid (Saravali 30.62)",
+      "Two marriages and fluctuating fortune if Venus is weak or rules the 12th (Bhrigu Sutras 11, as qualified by the commentator)",
+      "Early marriage (Raman)"
+    ],
+    "by_area": {
+      "personality": "Amiable, cheerful, emotionally responsive, craves pleasure (Raman); well-groomed, pleasant speech (PanchangBodh); fond of ornaments and good dress (Bhrigu Sutras 1-13).",
+      "career": "",
+      "finance": "Wealthy (Bhrigu Sutras 1-13); with a benefic in the 4th, high prosperity (Bhrigu Sutras 1-13).",
+      "health": "Healthy body (Phaladeepika 8.17); with malefics or debilitated, rheumatic and phlegmatic complaints (Bhrigu Sutras 1-13).",
+      "relationships": "Loved by the spouse (Bhrigu Sutras 1-13); fond of spouse, early marriage, discord if afflicted (Raman); 7th aspect keeps partnership in view (PanchangBodh).",
+      "family": "Blessed with wife and children (Jataka Parijata 8.58).",
+      "spirituality": "Performs pious deeds (Chamatkar Chintamani, via summary)."
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Own sign: 'Maharaja yoga' of name, fame and wealth (Bhrigu Sutras 10)",
+      "Benefic conjunction: lustrous body and many ornaments (Bhrigu Sutras 1-13)",
+      "A benefic in the 4th: high prosperity (Bhrigu Sutras 1-13)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "Afflicted: discord in married life (Raman)",
+      "As lord of the 12th, or weak: unsteady fortune and a hard heart (Bhrigu Sutras 11 and commentary)"
+    ],
+    "lagna_or_context_notes": "Raman: more fortunate when the lagna is Capricorn or Aquarius. Bhrigu Sutras commentary: Venus is a yogakaraka for Virgo (2nd and 9th lord), Capricorn (5th and 10th lord) and Aquarius (4th and 9th lord) lagnas, so Venus here is very beneficial for them.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.17 (Mantreswara; English rendering on siva.sh)",
+        "view": "Healthy, beautiful body, happy, long-lived.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.62 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Beautiful eyes, face and physique, happy, long-lived, timid, attractive to women.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Venus in the lagna makes the person skilled in amorous sport and happy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.58 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Libidinous, lovely in looks, blessed with wife and children, learned.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 1-13, with the English commentator's notes (commentator not named in file)",
+        "view": "Mathematical, long-lived, loved by spouse, fond of ornaments, wealthy, learned; malefic or debilitated brings dishonesty and phlegmatic ailments; own sign gives great fortune; commentator: all authorities agree it is good; Malavya Yoga.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Attractive, keeps noble company, pious, high comforts.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. IV 'Planets in the First House' p.29",
+        "view": "Fortunate, especially for Capricorn or Aquarius lagna; amiable, cheerful, artistic, pleasure-loving, musical; admired; fond of spouse; early marriage; afflicted discord.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Attractive presence, pleasant speech, taste for comfort; aspects the 7th; Malavya in kendra; risks vanity and ease.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Self-improvement, courtesy, happiness; downside conceit.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Agreement on beauty, happiness and long life. Saravali 30.62 alone adds 'timid'. Jataka Parijata 8.58 and Brihat Jataka 20.8 stress sensuality more than the others.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with charm, taste and warmth. Keep attraction and pleasure language light and non-judgemental; do not predict multiple marriages."
+  },
+  {
+    "id": "planet_in_house/venus/2",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 2
+    },
+    "summary": "Venus in the 2nd is unanimously good: wealth from many sources, fine food and drink, sweet speech and poetic or artistic gifts.",
+    "themes": [
+      "wealth",
+      "speech",
+      "food",
+      "poetry",
+      "family comfort"
+    ],
+    "common_outcomes": [
+      "Wealthy, often very wealthy (Phaladeepika 8.17; Saravali 30.63; Jataka Parijata 8.63; Bhrigu Sutras 14-19)",
+      "Good food and drink (Saravali 30.63; Bhrigu Sutras 14-19; Raman)",
+      "Sweet or good speech (Saravali 30.63; Brihat Jataka 20.8 read with 20.7)",
+      "Poet (Phaladeepika 8.17)"
+    ],
+    "rare_outcomes": [
+      "Beautiful spouse around the 32nd year (Bhrigu Sutras 14-19); text detail only",
+      "Money comes readily through the favour of others (Raman)",
+      "Eye trouble if the 2nd lord is weak or in a dusthana (Bhrigu Sutras 14-19)"
+    ],
+    "by_area": {
+      "personality": "Humble, kind, helpful (Bhrigu Sutras 14-19); skilful and pleasant (Raman); learning, gallantry, personal graces (Jataka Parijata 8.63).",
+      "career": "Earnings from art, beauty, luxury or food; singing (PanchangBodh).",
+      "finance": "Wealth from many sources (Phaladeepika 8.17); amasses great wealth (Saravali 30.63); overspending on pleasure is the cost (PanchangBodh).",
+      "health": "Eyes are the weak point if the 2nd lord is afflicted (Bhrigu Sutras 14-19); rich eating is a caution (PanchangBodh).",
+      "relationships": "Marries a good spouse (Raman; Bhrigu Sutras 14-19).",
+      "family": "Large family (Raman); family life valued for comfort (PanchangBodh).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Own sign or exaltation improves results further (Bhrigu Sutras commentary)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "Weak 2nd lord or 2nd lord in the 6th, 8th or 12th: eye trouble; with the Moon as well, wealth squandered (Bhrigu Sutras 16-19)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Dhana yogas for Aries lagna (Venus in Taurus as 2nd and 7th lord), Virgo lagna (Libra, 2nd and 9th lord) and Aquarius lagna (exalted in Pisces as 4th and 9th lord).",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.17 (Mantreswara; English rendering on siva.sh)",
+        "view": "A poet with many kinds of wealth.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.63 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Abundant food, drink and wealth, excellent pleasures, good speech, great wealth.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 read with 20.7 (Venus in houses not named in 20.8 gives Jupiter's results; tr. V. Subrahmanya Sastri)",
+        "view": "Venus in the 2nd, like Jupiter there, makes the person eloquent or sweet-tongued.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.63 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Learning, gallantry, personal graces and much wealth.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 14-19, with the English commentator's notes (commentator not named in file)",
+        "view": "Wealthy, family, good food, attractive eyes, humble and kind; weak 2nd lord gives eye trouble; commentator: consensus that it is very beneficial; Dhana-yoga lagnas listed.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Sweet-tongued, intelligent, good looks and dress, fond of beauty.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. V 'Planets in the Second House' p.55",
+        "view": "Large family, money through favours, good food, conveyances, handsome, skilful, good spouse, health and wealth.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Sweet speech and singing; income from art, beauty, luxury, food; aspects the 8th; overspending and rich food.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Comfort and wealth, artistic income; downside waste and over-expectation.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "No real disagreement; Bhrigu Sutras adds conditions (2nd lord's state) under which the eyes or savings suffer.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of a pleasant voice, taste and earning through beauty or art. Frame spending on pleasure as the thing to balance."
+  },
+  {
+    "id": "planet_in_house/venus/3",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 3
+    },
+    "summary": "Venus in the 3rd is widely read as a weak placement: stinginess, lack of luck or courage and domination by the spouse are common themes, though Saravali still calls the person happy and rich and modern writers stress charm and artistic expression.",
+    "themes": [
+      "siblings",
+      "thrift",
+      "expression",
+      "arts",
+      "low courage"
+    ],
+    "common_outcomes": [
+      "Stingy or miserly (Phaladeepika 8.17; Brihat Jataka 20.8 read with 20.7; Bhrigu Sutras 20-22)",
+      "Dominated by or 'conquered by' women or the spouse (Saravali 30.64; Jataka Parijata 8.66)",
+      "Unhappy, poor or unfortunate (Phaladeepika 8.17; Saravali 30.64)",
+      "Delight in music, singing, dance and fine arts (Raman)"
+    ],
+    "rare_outcomes": [
+      "Without a wife (Phaladeepika 8.17)",
+      "Happy and rich, though unlucky and unenthusiastic (Saravali 30.64)",
+      "Sorrow, disease and danger, unless Venus is an evening star ahead of the Sun (Jataka Parijata 8.67)",
+      "Success through determined effort; brothers decrease over time (Bhrigu Sutras 20-22)"
+    ],
+    "by_area": {
+      "personality": "Fretful in speech (Jataka Parijata 8.66); not courageous (Saravali 30.64; Chamatkar Chintamani, via summary); likeable negotiator (PanchangBodh).",
+      "career": "Writing, music, performance, media, photography, decoration (PanchangBodh).",
+      "finance": "Financially not very successful (Raman); poor (Phaladeepika 8.17); Saravali instead says rich.",
+      "health": "Health poor, lacking vitality, though the mind is good (Raman).",
+      "relationships": "Unpopular (Phaladeepika 8.17); spouse dominates (Saravali 30.64).",
+      "family": "Good brothers (Raman); affectionate siblings, especially sisters (PanchangBodh); strong 3rd lord increases brothers, afflicted 3rd lord loses them (Bhrigu Sutras 20-22); little happiness from children (Raman).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Venus as an evening star (ahead of the Sun) turns benefic here (Jataka Parijata 8.67)",
+      "Strong 3rd lord, in own or exaltation sign: more siblings (Bhrigu Sutras 21)",
+      "Upachaya house: results improve with age (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "Afflicted: miserly, mean, poor, highly sensual, drawn to scandal (Raman)",
+      "3rd lord in a dusthana or with malefics: loss of siblings (Bhrigu Sutras 22)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentator: for Virgo and Aquarius lagnas Venus rules the 9th and aspects it from here, making the native prosperous.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.17 (Mantreswara; English rendering on siva.sh)",
+        "view": "No wife, unhappy, poor, stingy, unpopular.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.64 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Happy, rich, conquered by women, vile, little enthusiasm, without luck or paraphernalia.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 read with 20.7 (Venus in houses not named in 20.8 gives Jupiter's results; tr. V. Subrahmanya Sastri)",
+        "view": "Venus in the 3rd, like Jupiter there, makes the person stingy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.66-67 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Fretful speech, vicious, controlled by his wife; 8.67 adds that Venus in the 3rd or 6th causes sorrow, disease and danger, but turns benefic as an evening star.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 20-22, with the English commentator's notes (commentator not named in file)",
+        "view": "Miserly, tolerant, many brothers, success by determined effort; strong 3rd lord adds siblings; commentator: all authorities differ, but none considers Venus good here.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Dislikes women, keeps siblings, has children but little joy from them, not courageous.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. VI 'Planets in the Third House' p.75",
+        "view": "Good mind but poor health and vitality; delight in music, dance and arts; not financially successful; afflicted miserly and sensual; good brothers.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Achieves by likeability and presentation; writing, music, media; affectionate siblings; upachaya improves; risk of leaving projects unfinished.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Articulate, tactful, persuasive; downside manipulation and flattery.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Saravali 30.64 calls the person happy and rich yet unlucky; Phaladeepika 8.17 says poor, unhappy and without a wife. Raman and PanchangBodh emphasise artistic expression. Jataka Parijata 8.67 alone gives the evening-star exception. The Bhrigu Sutras commentator concludes no classic treats it as good.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as artistic, diplomatic expression and warm sibling ties, with advice to build courage and follow-through. Avoid 'no spouse' or 'poor' predictions."
+  },
+  {
+    "id": "planet_in_house/venus/4",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 4
+    },
+    "summary": "Venus in the 4th is a strong placement with directional strength: a beautiful home, vehicles, ornaments, fragrance, friends and happiness; Jataka Parijata adds being overruled by the spouse.",
+    "themes": [
+      "home",
+      "vehicles",
+      "comfort",
+      "mother",
+      "friends"
+    ],
+    "common_outcomes": [
+      "Good vehicles and home (Phaladeepika 8.17; Saravali 30.65; Raman)",
+      "Ornaments, clothing and perfumes (Phaladeepika 8.17)",
+      "Relatives, friends and happiness (Saravali 30.65; Brihat Jataka 20.8 read with 20.7; Raman)",
+      "Handsome and fortunate (Saravali 30.65; Bhrigu Sutras 23-28)"
+    ],
+    "rare_outcomes": [
+      "Overruled by the spouse while boasting of comforts and learning (Jataka Parijata 8.69)",
+      "Receives many gifts from followers; looks after the mother from early life (Chamatkar Chintamani, via summary)",
+      "Horse-drawn conveyances around the 30th year (Bhrigu Sutras 23-28); text detail only"
+    ],
+    "by_area": {
+      "personality": "Intelligent, forgiving (Bhrigu Sutras 23-28); polished manners (Raman); comfort achieved rather than only wanted (PanchangBodh).",
+      "career": "Land, interiors, real estate, hospitality (PanchangBodh); a bright career as an artist when well fortified (Raman).",
+      "finance": "Rich (Saravali 30.65); gold and conveyances with a strong 4th lord (Bhrigu Sutras 23-28).",
+      "health": "",
+      "relationships": "Many friends (Raman); risk of extra-marital ties if the 4th lord is afflicted (Bhrigu Sutras 28).",
+      "family": "Deep attachment to the mother (Raman); warm mother bond (PanchangBodh); concord at home (Raman).",
+      "spirituality": "Religiously inclined (Raman)."
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Directional strength (digbala) in the 4th, its strongest house (PanchangBodh)",
+      "Strong 4th lord: horses, palanquins, gold (Bhrigu Sutras 27)",
+      "Well fortified: a great asset; artistic career (Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "4th lord with a malefic, in an enemy or debilitated sign, or weak: no land or vehicles, distress to mother (Bhrigu Sutras 28)",
+      "Afflicted: loose morals and misuse of artistic talent (Raman)",
+      "Staying in a comfortable arrangement after it stops growing (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Venus is a yogakaraka for Virgo (2nd and 9th lord), Capricorn (5th and 10th lord) and Aquarius (4th and 9th lord) lagnas; here Venus gives powerful Dhana yogas for them.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.17 (Mantreswara; English rendering on siva.sh)",
+        "view": "Good vehicles, good home, jewellery, clothing and fragrances.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.65 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Relatives, friends and happiness, splendour, conveyances, paraphernalia, beauty, wealth, fortune.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 read with 20.7 (Venus in houses not named in 20.8 gives Jupiter's results; tr. V. Subrahmanya Sastri)",
+        "view": "Venus in the 4th, like Jupiter there, makes the person happy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.69 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Overruled by his wife though boasting of comforts, fame, wealth, intelligence and learning.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 23-28, with the English commentator's notes (commentator not named in file)",
+        "view": "Handsome, intelligent, happy, forgiving, conveyances; strong 4th lord adds wealth, afflicted 4th lord removes property; commentator: all authorities give good effects; Malavya; Dhana-yoga lagnas.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Superior to others, receives gifts, looks after the mother.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. VII 'Planets in the Fourth House' p.91",
+        "view": "Music, polished manners, deep attachment to mother, many friends, vehicles and houses, religious, desires fulfilled; afflicted loose morals; fortified an artistic career.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Strongest house (digbala); attractive home, vehicles, warm mother bond; land, interiors, hospitality; aspects the 10th; complacency risk.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Warmth, generosity, lavish lifestyle; downside betrayal by people close to home.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Jataka Parijata 8.69 alone adds domination by the spouse. Bhrigu Sutras 28 links an afflicted 4th lord to distress for the mother, which its commentator questions for a benefic Venus.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a beautiful, comfortable home and close bond with the mother. Treat property and vehicles as traditional indications, not promises."
+  },
+  {
+    "id": "planet_in_house/venus/5",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 5
+    },
+    "summary": "Venus in the 5th is read as happiness, wealth, wisdom and children, often with a high or advisory position; only Chamatkar Chintamani doubts happiness from children.",
+    "themes": [
+      "happiness",
+      "children",
+      "romance",
+      "wisdom",
+      "creativity"
+    ],
+    "common_outcomes": [
+      "Happy (Brihat Jataka 20.8; Saravali 30.66)",
+      "Great wealth (Phaladeepika 8.18; Saravali 30.66; Jataka Parijata 8.73)",
+      "Children and friends (Phaladeepika 8.18; Saravali 30.66; Jataka Parijata 8.73; Raman)",
+      "Wise and discriminating (Phaladeepika 8.18; Raman)"
+    ],
+    "rare_outcomes": [
+      "Minister, justice or commander (Saravali 30.66; Jataka Parijata 8.73; Bhrigu Sutras 29-33)",
+      "Protects others (Phaladeepika 8.18)",
+      "More daughters (Raman; Bhrigu Sutras commentary)",
+      "Children but little happiness from them (Chamatkar Chintamani, via summary)"
+    ],
+    "by_area": {
+      "personality": "Poetic (Raman); fond of pleasure (Saravali 30.66); romance and artistic talent (PanchangBodh).",
+      "career": "Respected by the state (Raman; Bhrigu Sutras 29-33); clever minister (Bhrigu Sutras 29-33).",
+      "finance": "Very affluent (Saravali 30.66); success in speculation (Raman).",
+      "health": "Afflicted: health lost through over-indulgence (Raman).",
+      "relationships": "Love marriage is a common tendency (PanchangBodh); well fortified, gains through women and attachments outside marriage (Raman).",
+      "family": "Beautiful children, happiness through them (Raman); good sons (Jataka Parijata 8.73).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "With a benefic, or in own or exaltation sign: very wise, worldly, with children and conveyances (Bhrigu Sutras 33)",
+      "Yogakaraka for Virgo, Capricorn and Aquarius lagnas, making results stronger (Bhrigu Sutras commentary)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "With a malefic, in a malefic's sign or debilitated: dull and wanting children (Bhrigu Sutras 32)",
+      "Afflicted by Mars: indiscriminate affection toward children (Raman)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Venus is a yogakaraka for Virgo (2nd and 9th lord), Capricorn (5th and 10th lord) and Aquarius (4th and 9th lord) lagnas; the 5th is especially good for them.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.18 (Mantreswara; English rendering on siva.sh)",
+        "view": "Great wealth, protector of others, wise, with children.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.66 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Happiness, sons and friends, fond of sexual union, very affluent, full of everything, a minister or a justice.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Venus in the 5th makes the person happy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.73 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Good sons, friends, wealth, much beauty, commands an army and horses.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 29-33, with the English commentator's notes (commentator not named in file)",
+        "view": "Wise, minister or commander, young spouse and children, honoured by government; afflicted dull and childless; commentator: very beneficial, more daughters.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Has children but little joy from them, not courageous, succeeds by hard work, educated but not poetic.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. VIII 'Planets in the Fifth House' p.115",
+        "view": "Poetic, many friends, beautiful children, wise, wealthy, respected by the state, more daughters, success in speculation; afflicted over-indulgence.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Romance, artistic talent, enjoyment of learning; aspects the 11th; love marriage tendency.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Playfulness, romance, sensuality; downside instability from wanting many partners.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Chamatkar Chintamani (via summary) alone says children bring no happiness; the Bhrigu Sutras commentator says its logic is unclear. VedicFeed's relationship instability is unsourced.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of joy, creativity, romance and children as sources of happiness, without predicting numbers or gender of children."
+  },
+  {
+    "id": "planet_in_house/venus/6",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 6
+    },
+    "summary": "Venus in the 6th is mixed and contested: Brihat Jataka, Phaladeepika and Bhrigu Sutras say no enemies, but Saravali says many enemies; most texts add grief, little wealth or friction with the spouse.",
+    "themes": [
+      "enemies",
+      "service",
+      "health",
+      "grief",
+      "relationships at work"
+    ],
+    "common_outcomes": [
+      "No enemies, or enemies destroyed (Phaladeepika 8.18; Brihat Jataka 20.8 read with 20.7; Bhrigu Sutras 34-36; Raman)",
+      "Little wealth or poverty (Phaladeepika 8.18; Saravali 30.67)",
+      "Grief, sorrow or distress (Phaladeepika 8.18; Saravali 30.67; Jataka Parijata 8.77)",
+      "Involvement with young women (Phaladeepika 8.18; Raman)"
+    ],
+    "rare_outcomes": [
+      "Many enemies (Saravali 30.67; Chamatkar Chintamani, via summary)",
+      "Dislikes the spouse (Saravali 30.67)",
+      "Calumny (Jataka Parijata 8.77)",
+      "Gives the same wealth-yoga as in the 12th (Bhavartha Ratnakara, as quoted in the Bhrigu Sutras commentary; via summary)"
+    ],
+    "by_area": {
+      "personality": "Mean, startled (Saravali 30.67); deceitful, wasteful (Bhrigu Sutras 34-36); wins through charm and negotiation (PanchangBodh).",
+      "career": "Medicine, nursing, beauty, wellness, food, hospitality, tailoring, service (PanchangBodh); nursing, films or drama when well placed (Raman).",
+      "finance": "Little wealth (Phaladeepika 8.18); wasteful expenditure (Bhrigu Sutras 34-36); spending can become borrowing (PanchangBodh).",
+      "health": "Diseases (Bhrigu Sutras 34-36); afflicted, urinary and sexual troubles (Raman); reproductive system and kidneys deserve ordinary care (PanchangBodh).",
+      "relationships": "Bitterness toward the spouse (Saravali 30.67); favours from women (Raman); workplace relationships need discretion (PanchangBodh).",
+      "family": "Many relations, children and grandchildren (Bhrigu Sutras 34-36), which its commentator doubts.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Well placed: success in nursing, films or drama (Raman)",
+      "Venus as an evening star (ahead of the Sun) turns benefic in the 3rd or 6th (Jataka Parijata 8.67)",
+      "Weak 6th lord: enemies destroyed (Bhrigu Sutras 36 and commentary)",
+      "Upachaya house: strengthens over time (PanchangBodh)",
+      "Satyacharya, as read by Bhattotpala (Brihat Jataka 20.10 notes): a benefic in the 6th destroys enemies"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "Jataka Parijata 8.67: Venus in the 6th causes sorrow, disease and danger",
+      "Afflicted: health hurt by indulgence; licentiousness (Raman)",
+      "Strong 6th lord: more relations but also more enemies (Bhrigu Sutras 36)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.18 (Mantreswara; English rendering on siva.sh)",
+        "view": "No enemies but little wealth; drawn to young women; grief.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.67 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Greatly dislikes his wife, many foes, without wealth, very startled, mean.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 read with 20.7 (Venus in houses not named in 20.8 gives Jupiter's results; tr. V. Subrahmanya Sastri)",
+        "view": "Venus in the 6th, like Jupiter there, makes the person without enemies.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.77 with 8.67 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Sorrow and calumny; 8.67 adds sorrow, disease and danger in the 3rd or 6th, but benefic as an evening star.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 34-36, with the English commentator's notes (commentator not named in file)",
+        "view": "Relations, enemies destroyed, wasteful, deceitful, diseases; strong 6th lord raises enemies, weak 6th lord removes them; commentator: Brihat Jataka and Phaladeepika (no enemies) more authoritative than Saravali.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Dangerous enemies, heavy expenses, unsuccessful efforts, little happiness from father or teacher.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. IX 'Planets in the Sixth House' p.137",
+        "view": "No enemies, led astray by young women, favours from women; afflicted over-indulgence; well placed nursing, films, drama.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Tested placement; upachaya strengthens; wins by charm; medicine, beauty, hospitality, service; ordinary care for reproductive system and kidneys; aspects the 12th.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Affectionate, supportive behaviour; downside career self-doubt.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      },
+      {
+        "source": "Brihat Jataka 20.10 notes (Satyacharya, as interpreted by Bhattotpala)",
+        "view": "Benefics in the 6th destroy enemies; malefics increase them.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Enemies: Brihat Jataka, Phaladeepika 8.18, Bhrigu Sutras and Raman say none, against Saravali 30.67 and Chamatkar Chintamani (many, dangerous). The Bhrigu Sutras commentator prefers the Brihat Jataka/Phaladeepika view. Wealth: Phaladeepika and Saravali say little; Bhavartha Ratnakara (via summary) says Venus here gives a wealth yoga.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe a person who smooths conflict with charm and suits caring, beauty or hospitality work. Keep health remarks general and avoid predicting marital bitterness or affairs."
+  },
+  {
+    "id": "planet_in_house/venus/7",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 7
+    },
+    "summary": "Venus in the 7th, its own significator house, gives a good, attractive spouse and wealth in most texts, but Phaladeepika, Brihat Jataka and Bhrigu Sutras add strong passion, quarrels or straying, and Saravali alone is wholly harmonious.",
+    "themes": [
+      "marriage",
+      "passion",
+      "attraction",
+      "wealth",
+      "partnership"
+    ],
+    "common_outcomes": [
+      "Good or beautiful spouse and happy marriage (Phaladeepika 8.18; Saravali 30.68; Raman)",
+      "Wealthy (Phaladeepika 8.18; Saravali 30.68; Bhrigu Sutras 37-44)",
+      "Strong passions, fond of sexual union (Brihat Jataka 20.8; Bhrigu Sutras 37-44; Raman)",
+      "Charming, magnetic personality (Saravali 30.68; Raman)"
+    ],
+    "rare_outcomes": [
+      "Secret affairs and loss of the spouse (Phaladeepika 8.18)",
+      "Promotes quarrels (Brihat Jataka 20.8); fond of quarrelling (Raman)",
+      "Favourite with courtesans, lovely but lame (Jataka Parijata 8.80)",
+      "Wealth through in-laws when dignified (Bhrigu Sutras 43)"
+    ],
+    "by_area": {
+      "personality": "Very beautiful, free of quarrels, fortunate (Saravali 30.68); suave, winning manners, fond of pleasure (Raman).",
+      "career": "Success in partnership with the opposite sex (Raman); efficient in work (Bhrigu Sutras 37-44).",
+      "finance": "Great riches (Saravali 30.68); wealth through in-laws (Bhrigu Sutras 43).",
+      "health": "Risk of lost vigour from excess (Raman).",
+      "relationships": "Happy marriage and devoted spouse (Raman); good spouse but possible straying (Phaladeepika 8.18); malefic or debilitated Venus may bring loss of spouse and remarriage (Bhrigu Sutras 41-42).",
+      "family": "A fine son (Chamatkar Chintamani, via summary).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Benefic association, own sign or exaltation: wealth through in-laws and influence through the spouse (Bhrigu Sutras 43-44)",
+      "Jupiter's aspect or company: chaste and very happy marriage (Bhrigu Sutras commentary)",
+      "With Jupiter: good children and a healthy spouse; with Mars and Mercury: stable marriage (Raman)",
+      "Malavya Yoga supports marriage (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "With malefics, in a malefic's sign or debilitated: loss of spouse and remarriage (Bhrigu Sutras 41-42)",
+      "Afflicted by the Sun: lack of physical attraction (Raman)",
+      "'Karako bhava nashaya' is sometimes applied here; PanchangBodh calls it a rule of thumb absent from BPHS"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.18 (Mantreswara; English rendering on siva.sh)",
+        "view": "A good wife but secret affairs with unsuitable women; may lose the wife; still wealthy.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.68 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Very beautiful, happy with his wife, great riches, free of quarrels, fortunate.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Venus in the 7th makes the person promote quarrels and be fond of sexual union.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.80 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Favourite with courtesans, charmingly lovely but lame.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 37-44, with the English commentator's notes (commentator not named in file)",
+        "view": "Highly sexed, wealthy, interested in others, vehicles; afflicted brings loss of spouse; dignified gives wealth from in-laws; commentator thinks Jupiter's aspect makes the marriage chaste and happy.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Very attractive; spouse bears a fine son; enjoys life in every way.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the 7th House' p.173",
+        "view": "Quarrelsome, sensuous, passionate, but a happy marriage and devoted wife; charming; risk of lost virility; success in partnerships with the opposite sex.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Venus's own significator house and the one house where texts disagree: BPHS warns of excess (as reported by PanchangBodh), Phaladeepika mixed, Saravali favourable; Malavya supports marriage.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Happy affectionate marriage; downside ego in personal life, unstable work.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Main disagreement among Venus placements. Saravali 30.68 is wholly favourable (free of quarrels); Phaladeepika 8.18 gives a good wife but affairs and possible loss; Brihat Jataka 20.8 gives quarrels and passion; Jataka Parijata 8.80 is negative. PanchangBodh reports BPHS as cautionary (not verified in BPHS here). The Bhrigu Sutras commentator says Saravali alone omits extra-marital themes.",
+    "confidence": "medium",
+    "phrasing_guidance": "Lead with affection, charm and the value placed on partnership. Never predict infidelity or loss of a spouse; at most note that the texts link strong desire here with a need for loyalty and balance."
+  },
+  {
+    "id": "planet_in_house/venus/8",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 8
+    },
+    "summary": "Venus in the 8th is surprisingly well rated by Phaladeepika, Saravali and Jataka Parijata (long life, wealth, comforts, land), against Brihat Jataka ('base') and Bhrigu Sutras (sickly, shorter life).",
+    "themes": [
+      "longevity",
+      "wealth",
+      "comfort",
+      "inheritance",
+      "hidden matters"
+    ],
+    "common_outcomes": [
+      "Long-lived (Phaladeepika 8.18; Saravali 30.69; Jataka Parijata 8.84)",
+      "Rich, very rich (Phaladeepika 8.18; Saravali 30.69; Jataka Parijata 8.84; Raman)",
+      "All comforts (Jataka Parijata 8.84; Raman)",
+      "Rules over land; equal to a king (Phaladeepika 8.18; Saravali 30.69)"
+    ],
+    "rare_outcomes": [
+      "Base (Brihat Jataka 20.8 read with 20.7)",
+      "Below-medium lifespan and sickly unless Venus is with benefics (Bhrigu Sutras 45-48)",
+      "Emotional disappointment early, piety later (Raman)",
+      "Always in debt; harsh in speech (Chamatkar Chintamani, via summary)"
+    ],
+    "by_area": {
+      "personality": "Delighted moment after moment (Saravali 30.69); discontented (Bhrigu Sutras 45-48).",
+      "career": "Research, healing, psychology, tantra, hidden matters (PanchangBodh).",
+      "finance": "Much wealth (Raman); great wealth (Jataka Parijata 8.84); money via spouse's family, legacies or joint funds (PanchangBodh).",
+      "health": "Matchless strength (Jataka Parijata 8.84) versus sickly (Bhrigu Sutras 45-48).",
+      "relationships": "Devoted spouse (Bhrigu Sutras 45-48); intimacy felt deeply, secrecy needs watching (PanchangBodh).",
+      "family": "Danger to the mother is mentioned (Raman; Bhrigu Sutras 46).",
+      "spirituality": "Piety later in life after early disappointments (Raman)."
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "In a benefic's sign or with a benefic: full span of life (Bhrigu Sutras 47)",
+      "Exalted: much wealth (Raman)",
+      "Its aspect on the 2nd brings wealth (Bhrigu Sutras commentary)",
+      "Satyacharya, as read by Bhattotpala (Brihat Jataka 20.10 notes): a benefic in the 8th lengthens life"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "From a dusthana Venus harms the good houses it owns (Bhrigu Sutras commentary on house 8)",
+      "With or aspected by a malefic: shorter life (Bhrigu Sutras 48)",
+      "Debilitated, or in a Saturnine navamsa with Saturn's aspect: subordination and drudgery (Raman)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.18 (Mantreswara; English rendering on siva.sh)",
+        "view": "Long-lived, rich, rules over land.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.69 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Long-lived, incomparable happiness, very rich, equal to a king, constantly delighted.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 read with 20.7 (Venus in houses not named in 20.8 gives Jupiter's results; tr. V. Subrahmanya Sastri)",
+        "view": "Venus in the 8th, like Jupiter there, makes the person base.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.84 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Long life, every comfort, matchless strength, great wealth.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 45-48, with the English commentator's notes (commentator not named in file)",
+        "view": "Happy yet discontented, sickly, below-medium life unless benefic-linked; devoted spouse; commentator sides with Phaladeepika and Saravali on longevity and wealth.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Comforts of conveyances, long-lived, harsh speech, always in debt.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Eighth House' p.213",
+        "view": "Many blessings, much wealth, comforts; mother may face danger; early emotional disappointment then piety; exalted much wealth; debilitated drudgery.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Dusthana that asks for maturity; ease follows change; money through spouse's family and legacies; research and healing; aspects the 2nd.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Prosperity via partner, inheritance; downside inner negativity, occult interest affecting the mind.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Brihat Jataka (via 20.8 with 20.7: base) and Bhrigu Sutras 45-48 (sickly, shorter life) against Phaladeepika 8.18, Saravali 30.69, Jataka Parijata 8.84 and Raman (long life, wealth). The Bhrigu Sutras commentator explicitly sides with Phaladeepika and Saravali.",
+    "confidence": "medium",
+    "phrasing_guidance": "Never make longevity or health predictions. Present as resources through others, depth in intimacy and interest in hidden or healing knowledge, with a note on financial transparency."
+  },
+  {
+    "id": "planet_in_house/venus/9",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 9
+    },
+    "summary": "Venus in the 9th is unanimously auspicious: spouse, children and friends, royal or official favour, wealth, generosity and respect for gods, guests and teachers.",
+    "themes": [
+      "fortune",
+      "devotion",
+      "family happiness",
+      "favour",
+      "culture"
+    ],
+    "common_outcomes": [
+      "Happiness with spouse, children and friends (Phaladeepika 8.19; Saravali 30.70; Jataka Parijata 8.87)",
+      "Rise through royal or official favour (Phaladeepika 8.19)",
+      "Wealthy and charitable (Saravali 30.70; Jataka Parijata 8.87)",
+      "Devout and philosophical (Brihat Jataka 20.8 read with 20.7; Bhrigu Sutras 49-58)"
+    ],
+    "rare_outcomes": [
+      "Honours gods, guests and preceptors (Saravali 30.70)",
+      "Fame, learning and every kind of happiness (Raman)",
+      "A prosperous moneylender (Chamatkar Chintamani, via summary)",
+      "Auspicious marks on the feet (Bhrigu Sutras 49-58); text detail only"
+    ],
+    "by_area": {
+      "personality": "Spotless, broad physique (Saravali 30.70); balanced views when with Saturn (Raman); faith with an aesthetic form (PanchangBodh).",
+      "career": "Teaching, publishing, cultural work, tourism, exporting fine goods (PanchangBodh); with Saturn, diplomatic or government work (Raman).",
+      "finance": "Great wealth (Saravali 30.70, as rendered in the commentary); high prosperity when dignified or benefic-aspected (Bhrigu Sutras 49-58).",
+      "health": "With the Sun, physical complaints (Raman).",
+      "relationships": "Attraction across distance or culture (PanchangBodh); with Sun and Moon, quarrels with women (Raman).",
+      "family": "Father long-lived (Bhrigu Sutras 49-58); blessed with children (Bhrigu Sutras 49-58; Raman).",
+      "spirituality": "Meditation and religious rites (Bhrigu Sutras 49-58); devotional music or temple art (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Benefic aspect or own/exaltation sign: high prosperity (Bhrigu Sutras 49-58)",
+      "With the 4th or 7th lord: exceedingly fortunate (Bhrigu Sutras 49-58)",
+      "In own sign as 9th lord: a Raja Yoga (Bhrigu Sutras commentary)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "With a malefic, in a malefic's sign or debilitated: loss of wealth and improper conduct; with a malefic, early loss of father (Bhrigu Sutras 49-58)",
+      "With the Sun and Saturn: criminal tendencies (Raman)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Virgo lagna (Venus in Taurus, ruling the 2nd and 9th) and Aquarius lagna (Libra, ruling the 4th and 9th) give powerful Dhana yogas, and as 9th lord in the 9th a Raja Yoga.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.19 (Mantreswara; English rendering on siva.sh)",
+        "view": "Wife, friends and children; prospers through royal favour.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.70 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Spotless broad physique, wealth, charity, wife, pleasures, friendship; honours gods, guests and elders.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 read with 20.7 (Venus in houses not named in 20.8 gives Jupiter's results; tr. V. Subrahmanya Sastri)",
+        "view": "Venus in the 9th, like Jupiter there, makes the person devout and philosophical.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.87 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Conspicuous for learning, wealth and a family of wife and children.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 49-58, with the English commentator's notes (commentator not named in file)",
+        "view": "Religious, meditative, comforts, children, father long-lived; afflicted loses wealth; dignified great prosperity; commentator: all agree it is very auspicious.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Prosperous moneylender, religious, happiness from brothers, comfortable life.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Ninth House' p.269",
+        "view": "Born fortunate: fame, learning, children, spouse, every happiness; combinations with Sun, Moon, Saturn modify.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Luck through art and culture; foreign travel; aesthetic faith; teaching, publishing, tourism; aspects the 3rd.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Success, philosophy, charity; downside idealised long-distance relationships.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "No classical disagreement. VedicFeed's relationship caveat is unsourced.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of grace, culture and good fortune shared with family and teachers. Keep devotional framing optional."
+  },
+  {
+    "id": "planet_in_house/venus/10",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 10
+    },
+    "summary": "Venus in the 10th is read as renown, honour and wealth, often through women, land or the arts; all classical texts read are favourable.",
+    "themes": [
+      "career",
+      "renown",
+      "wealth",
+      "arts",
+      "influence"
+    ],
+    "common_outcomes": [
+      "Widely renowned (Phaladeepika 8.19; Saravali 30.71; Raman)",
+      "Wealthy (Brihat Jataka 20.8 read with 20.7; Saravali 30.71; Jataka Parijata 8.91)",
+      "Honour, happiness and wisdom (Saravali 30.71)",
+      "Many friends, social and influential (Phaladeepika 8.19; Raman)"
+    ],
+    "rare_outcomes": [
+      "Success in litigation (Saravali 30.71)",
+      "Wealth through a tenant of his land or through women (Jataka Parijata 8.91)",
+      "Earns through houses and buildings; many women work for him (Raman)",
+      "Healing powers; disrupted education (Raman)"
+    ],
+    "by_area": {
+      "personality": "Contented (Phaladeepika 8.19); powerful (Jataka Parijata 8.91); social and friendly (Raman).",
+      "career": "Decoration, fashion, entertainment, hospitality, luxury, diplomacy, counselling (PanchangBodh); property and buildings; with Saturn, cosmetics and women's goods (Raman).",
+      "finance": "Wealth and fame (Saravali 30.71); wealth through land or women (Jataka Parijata 8.91).",
+      "health": "",
+      "relationships": "Sexual happiness (Saravali 30.71); many friends (Phaladeepika 8.19).",
+      "family": "Work supports home comfort (PanchangBodh).",
+      "spirituality": "Respect for divine people (Raman); earns through religious work (Chamatkar Chintamani, via summary)."
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "With Mercury, Jupiter and the Moon: vehicles, religious ceremonies, wide fame, many Raja yogas (Bhrigu Sutras 61)",
+      "In own sign as 10th lord: a distinguished Raja Yoga (Bhrigu Sutras commentary)",
+      "As a benefic in the 10th: Amala Yoga (Bhrigu Sutras commentary)",
+      "Malavya Yoga lifts reputation even without digbala (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "With or aspected by a malefic: difficulties and obstacles in undertakings (Bhrigu Sutras 60)",
+      "No directional strength in the 10th (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Venus is a yogakaraka for Virgo (2nd and 9th lord), Capricorn (5th and 10th lord) and Aquarius (4th and 9th lord) lagnas; for Cancer lagna Venus rules the 4th and 11th. All give Dhana yogas here.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.19 (Mantreswara; English rendering on siva.sh)",
+        "view": "Widely renowned, with friends, a lord in a contented position.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.71 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Success in litigation, happiness, sexual pleasures, honour, wealth, fame and great wisdom.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 read with 20.7 (Venus in houses not named in 20.8 gives Jupiter's results; tr. V. Subrahmanya Sastri)",
+        "view": "Venus in the 10th, like Jupiter there, makes the person wealthy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.91 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Gets wealth through a tenant of his land or through women; powerful.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 59-61, with the English commentator's notes (commentator not named in file)",
+        "view": "Full of glory; malefic influence brings obstacles; with Mercury, Jupiter and Moon, wide fame and many Raja yogas; commentator: ideal placement; Malavya and Amala yogas.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Earns wealth through religious work.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Tenth House' p.300",
+        "view": "Earns through houses and buildings, influential, many women working for him, social, renowned; with Saturn cosmetics; healing powers; disrupted education.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Kendra without digbala but strong for arts, fashion, entertainment, hospitality, diplomacy; Malavya lifts reputation; aspects the 4th.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Professional rise, good image, networking; downside betrayal and possible financial loss.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Classics agree it is favourable. Chamatkar Chintamani's narrower reading (earning through religious work) is noted by the Bhrigu Sutras commentator as too narrow. VedicFeed's betrayal and loss notes are unsourced.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a career in beauty, arts, hospitality, property or diplomacy with good public standing. Avoid guaranteeing fame."
+  },
+  {
+    "id": "planet_in_house/venus/11",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 11
+    },
+    "summary": "Venus in the 11th is a strong placement for gains and comforts, with many friends; Phaladeepika, Jataka Parijata and Raman add a liking for the company of many women or partners.",
+    "themes": [
+      "gains",
+      "comfort",
+      "friends",
+      "pleasure",
+      "networks"
+    ],
+    "common_outcomes": [
+      "Rich, large gains (Phaladeepika 8.19; Saravali 30.72; Jataka Parijata 8.95; Bhrigu Sutras 62-64; Raman)",
+      "Prosperous (Brihat Jataka 20.8 read with 20.7)",
+      "Many comforts (Phaladeepika 8.19; Jataka Parijata 8.95; Raman)",
+      "Free of misery; obedient servants (Saravali 30.72)"
+    ],
+    "rare_outcomes": [
+      "Company of many women or longing for others than the spouse (Phaladeepika 8.19; Jataka Parijata 8.95; Raman)",
+      "Wandering disposition (Jataka Parijata 8.95; Raman)",
+      "King or like a king, lover of truth (Chamatkar Chintamani, via summary)"
+    ],
+    "by_area": {
+      "personality": "Kind-hearted, learned (Bhrigu Sutras 62-64); popular (Raman).",
+      "career": "Income from art, beauty, luxury, entertainment or social work (PanchangBodh).",
+      "finance": "Immense profits (Raman); gains accumulate over time (PanchangBodh); landowner (Bhrigu Sutras 62-64).",
+      "health": "",
+      "relationships": "Many, often influential friends; frequent female helpers (PanchangBodh); popular (Raman).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Benefic association: many conveyances and gains by rightful means (Bhrigu Sutras 63-64)",
+      "Exalted in Pisces as lagna lord for Taurus lagna: very gainful (Bhrigu Sutras commentary)",
+      "Upachaya house: gains build up (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "With a malefic: gains by questionable means (Bhrigu Sutras 63)",
+      "Debilitated, or with a malefic or the 6th, 8th or 12th lord: no gains (Bhrigu Sutras 64)",
+      "Mistaking pleasure-based friendships for trust (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Venus is a yogakaraka for Virgo (2nd and 9th lord), Capricorn (5th and 10th lord) and Aquarius (4th and 9th lord) lagnas; for Cancer lagna Venus rules the 4th and 11th. All give Dhana yogas here.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.19 (Mantreswara; English rendering on siva.sh)",
+        "view": "Rich, enjoys the company of many women, many comforts.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.72 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Obedient servants, free of all misery, abundant gains.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 read with 20.7 (Venus in houses not named in 20.8 gives Jupiter's results; tr. V. Subrahmanya Sastri)",
+        "view": "Venus in the 11th, like Jupiter there, makes the person prosperous.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.95 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Lives in comfort, longs for women other than his own, wandering, wealthy.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 62-64, with the English commentator's notes (commentator not named in file)",
+        "view": "Learned, very wealthy, landowner, kind; benefics give rightful gains, malefics questionable ones; commentator: all agree it makes the native wealthy and happy.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Handsome, well-behaved, truthful, fortunate, wealthy, kingly.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Eleventh House' p.365",
+        "view": "Wandering nature, immense profits, all comforts, weakness for women, popular with many friends.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Wide, influential circle; female helpers; income from art and luxury; upachaya; aspects the 5th; set limits on pleasure-based friendships.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Social and professional standing, money, networks; downside health issues and bad advice from friends.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Agreement on gains. Saravali 30.72 and Bhrigu Sutras omit the many-partners theme found in Phaladeepika 8.19, Jataka Parijata 8.95 and Raman.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of gains through networks, friendships and pleasant work. Treat the 'many women' theme as sociability and love of company, not a prediction about fidelity."
+  },
+  {
+    "id": "planet_in_house/venus/12",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Venus",
+      "house": 12
+    },
+    "summary": "Venus in the 12th divides the texts: Brihat Jataka, Phaladeepika and Chamatkar Chintamani say rich with bed pleasures, Saravali gives ease with moral laxity, while Jataka Parijata, Bhrigu Sutras and Raman see poverty unless Venus is dignified or benefic-linked.",
+    "themes": [
+      "bed comforts",
+      "expenditure",
+      "pleasure",
+      "foreign",
+      "release"
+    ],
+    "common_outcomes": [
+      "Pleasures of the bed and sensual comfort (Phaladeepika 8.19; Saravali 30.73; Bhrigu Sutras 65-68)",
+      "Rich (Brihat Jataka 20.8; Phaladeepika 8.19)",
+      "Indolent, corpulent, comfortable (Saravali 30.73)",
+      "Influenced or won over by women (Saravali 30.73; Raman)"
+    ],
+    "rare_outcomes": [
+      "Extreme poverty unless Venus is with a benefic (Bhrigu Sutras 65-67)",
+      "Loses relations, becomes a rake, penurious (Jataka Parijata 8.98); desertion by relatives and penury (Raman)",
+      "Eats pure food; skilful in arranging beds and attendants (Saravali 30.73)",
+      "Exalted Venus gives the opposite of the bad results (Raman)"
+    ],
+    "by_area": {
+      "personality": "Fallen in moral sense (Saravali 30.73); prone to lying (Raman); private pleasure and release (PanchangBodh).",
+      "career": "",
+      "finance": "Wealth and splendour (Phaladeepika 8.19) versus penury (Jataka Parijata 8.98; Raman); money tends to leave easily (PanchangBodh).",
+      "health": "Poor eyesight (Raman).",
+      "relationships": "Sexual enjoyment (Phaladeepika 8.19; Bhrigu Sutras 65-68); associations with low company (Raman).",
+      "family": "Loss of or desertion by relatives (Jataka Parijata 8.98; Raman).",
+      "spirituality": "Moksha and foreign residence are among the 12th's themes for Venus (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Exalted (Pisces) or own sign (Taurus, Libra): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly makes the best results depend on dignity or benefic company",
+      "In a kendra in Taurus, Libra or Pisces it forms Malavya Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "With a benefic: very wealthy with bed comforts (Bhrigu Sutras 66-67)",
+      "Exalted (Pisces): contrary, good results (Raman)",
+      "Bhavartha Ratnakara, as quoted in the Bhrigu Sutras commentary (via summary): Venus in the 12th gives a wealth yoga",
+      "Satyacharya, as read by Bhattotpala (Brihat Jataka 20.10 notes): a benefic in the 12th reduces expenditure"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Virgo or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 4, 32, 40)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 10 deg (8 deg retrograde)",
+      "With a malefic: sexual over-indulgence (Bhrigu Sutras 66)",
+      "Sign varies by lagna, so read dignity carefully (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.19 (Mantreswara; English rendering on siva.sh)",
+        "view": "Sexual pleasure, wealth and splendour.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.73 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Indolent, happy, corpulent, morally fallen, eats clean food, skilled with bed comforts and attendants, won over by women.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.8 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Venus in the 12th makes the person rich.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.98 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Loses relations, becomes a professed rake, grows penurious.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VII ('Effects of Venus in the Twelve Houses') sutras 65-68, with the English commentator's notes (commentator not named in file)",
+        "view": "Extreme poverty; with malefics indulgence; with benefics great wealth and bed comforts; commentator supports Brihat Jataka, Phaladeepika and Chamatkar Chintamani that Venus here gives wealth, citing Bhavartha Ratnakara.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Rich, but destroys own fame and is hostile to friends.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Twelfth House' p.395",
+        "view": "Desertion by relatives, unsuccessful hankering after comforts, penury, lying, low company, poor eyesight; exalted gives the opposite.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Venus in houses' (modern practitioner site)",
+        "view": "Classically one of Venus's better houses: bed comforts, private pleasure, foreign residence, moksha; dignity must be read; aspects the 6th; money leaves easily.",
+        "url": "https://panchangbodh.com/venus-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Venus in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Affection, generosity, balance; downside marital failure, secretiveness.",
+        "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+      },
+      {
+        "source": "Brihat Jataka 20.10 notes (Satyacharya, as interpreted by Bhattotpala)",
+        "view": "Good planets in the 12th destroy expenditure, i.e. promote thrift.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Wealth: Brihat Jataka 20.8, Phaladeepika 8.19, Chamatkar Chintamani and Bhavartha Ratnakara (via the Bhrigu Sutras commentary) say rich; Jataka Parijata 8.98, Raman and Bhrigu Sutras 65 say poor unless Venus is dignified or benefic-linked. Saravali 30.73 gives comfort with moral laxity. The Bhrigu Sutras commentator sides with the wealth view.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a love of rest, privacy, comfort and retreat, possibly links abroad, with a practical note on spending. Avoid moral judgements and keep intimacy language discreet."
+  }
+]

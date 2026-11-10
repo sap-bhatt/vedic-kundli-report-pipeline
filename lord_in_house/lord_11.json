@@ -1,0 +1,591 @@
+[
+  {
+    "id": "lord_in_house/11/1",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 1},
+    "summary": "The lord of gains on the lagna: income, ambitions and social networks attach to the person, who is classically wealthy, happy, even-minded and eloquent.",
+    "themes": ["gains", "ambition", "networks", "eloquence", "self-earned wealth"],
+    "common_outcomes": [
+      "wealthy, happy, even-minded, a poet and eloquent speaker (BPHS 24.121)",
+      "born into a rich family, very rich, fairly rich or well-to-do as the lord is strong, middling or weak (Raman HTJH); born wealthy (Braha)",
+      "gains through one's own effort (Rath Crux 14.8)",
+      "achieves desires; many opportunities and beneficial friends (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 22.8: 11th lord in the 1st with the lagna lord joined with the 11th indicates a notable gain around age 33 (traditional timing)",
+      "JP 11.62: the 11th lord in the 1st brings treasure or other valuable property",
+      "Raman gives early loss of an elder brother and Rath ill-health for the native (Crux 14.8) as traditional lines; never predict"
+    ],
+    "by_area": {
+      "personality": "Pure-natured, even-minded, articulate (BPHS 24.121).",
+      "career": "Gains come through one's own effort (Rath Crux 14.8).",
+      "finance": "Wealthy (BPHS 24.121); family wealth at birth scaled by the lord's strength (Raman HTJH); BPHS 22.2 counts the 11th lord in a kendra as giving much gain.",
+      "health": "",
+      "relationships": "Beneficial friends; happiness from the eldest sibling (Braha).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "a strong 11th lord: born into a very rich family (Raman HTJH); exaltation (BPHS 22.2)",
+      "lagna lord linked to the 11th (BPHS 22.8)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation or malefic affliction (BPHS 22.11 for afflicted 11th lords generally)",
+      "Frawley (p. 160) treats the 11th lord as generally malefic in health terms and inclined to make the character egoistic or impulsive, though good for gains; Rath also reads the 11th lord in or aspecting the lagna as unfavourable for the native's health (Crux 14.8)"
+    ],
+    "lagna_or_context_notes": "Dual lordship matters: Saturn (10th+11th) for Aries, Jupiter (8th+11th) for Taurus, Mars (6th+11th) for Gemini, Mercury (8th+11th) for Scorpio, Venus (6th+11th) for Sagittarius, Saturn (11th+12th) for Pisces. BPHS 24.146-147: both lordships give results.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.121", "view": "Pure-natured, wealthy, happy, even-minded, a poet and eloquent speaker.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.2, 22.8", "view": "11th lord in a kendra, trikona or the 11th, or exalted, gives much gain; in the 1st with the lagna lord joined, a notable gain around age 33.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "Born into a rich family, very rich, fairly rich or well-to-do as the lord is strong, middling or weak; earns much; loses an elder brother early (traditional).", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "Wealthy, many opportunities, achieves desires and ambitions, born into a wealthy family, beneficial friends, happiness from the eldest sibling.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 14.8 (placement of the eleventh lord)", "view": "In the 1st (or aspecting it) the gain is through one's own effort; the house occupied by the 11th lord shows ill-health for that relation, so here the native may suffer; the 11th lord in the 1st, 2nd or 8th is also said to curtail longevity (traditional).", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XI.62", "view": "If the lagna lord is in the 2nd and the 2nd lord in the 11th, or if the 11th lord is in the 1st, the person gets treasure or other valuable property.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', 'House Lords as Specific Significators', pp. 159-160", "view": "The 11th lord, though generally malefic for health and prone to make the character egoistic or impulsive, is still the lord of gains: good for acquisitions and work with groups. Mercury as 2nd and 11th lord for Leo is a double significator of wealth. Saturn as 11th and 12th lord for Pisces is very inauspicious, as the 11th is a difficult house.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS, Raman and Braha are favourable for wealth. Braha gives happiness from the eldest sibling while Raman gives early loss of an elder brother, and Rath and Frawley add health cautions; treat the sibling and health lines as unreliable.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe good earning ability and sociability. Give the age-33 note only as traditional timing for a specific combination."
+  },
+  {
+    "id": "lord_in_house/11/2",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 2},
+    "summary": "The lord of gains in the house of wealth: a classic dhana yoga, giving abundant wealth, accomplishment, generosity and happiness.",
+    "themes": ["dhana yoga", "savings", "family wealth", "generosity"],
+    "common_outcomes": [
+      "abundant wealth; accomplished, generous, righteous and happy (BPHS 24.122)",
+      "earns through commerce and banking (Raman HTJH); banking or money-lending (Braha)",
+      "lives with or is helped by elder siblings (Raman HTJH; Braha)",
+      "gains by using family wealth or other assets (Rath Crux 14.8)",
+      "profitable business with friends (Raman HTJH; Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 22.3: with the 2nd lord in a kendra and Jupiter linked, great gains",
+      "BPHS 22.9: exchange of 2nd and 11th lords gives great fortune after marriage",
+      "with the 2nd lord as well: large sums; with the 9th lord too, in exaltation or own vargas, a millionaire (Raman HTJH, combinations)",
+      "Frawley (Example Charts: Nelson Rockefeller, Virgo lagna): the Moon as 11th lord waxing in the 2nd house of income"
+    ],
+    "by_area": {
+      "personality": "Generous, accomplished, righteous (BPHS 24.122); intelligent and a good speaker (Braha).",
+      "career": "Commerce and banking (Raman HTJH; Braha).",
+      "finance": "Abundant wealth (BPHS 24.122); several sources of income (Braha); family assets put to use (Rath Crux 14.8).",
+      "health": "",
+      "relationships": "Exchange case links fortune to marriage (BPHS 22.9).",
+      "family": "Lives with elder brothers: benefics give harmony, malefics domestic bickering (Raman HTJH); domestic happiness (Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "2nd lord in a kendra and Jupiter associated (BPHS 22.3)",
+      "exchange with the 2nd lord (BPHS 22.9)",
+      "joined with the 2nd and 9th lords in exaltation or own vargas (Raman HTJH)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefics joining: heavy losses on account of friends (Raman HTJH)",
+      "the 11th lord in the 6th, 8th or 12th from the navamsa lagna gives only moderate results (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "For Aquarius lagna Jupiter owns the 2nd and 11th and sits in Pisces, own sign. For Leo lagna Mercury owns the 2nd and 11th and sits in Virgo, own sign and exalted; Frawley (p. 160) calls Mercury for Leo a double significator of wealth, though somewhat malefic for health.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.122", "view": "Abundant wealth, accomplished, generous, righteous, happy.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.3, 22.9", "view": "11th lord in the 2nd with the 2nd lord in a kendra and Jupiter linked: great gain; exchange of 2nd and 11th lords: great fortune after marriage.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "Lives with elder brothers, harmoniously with benefics; earns through commerce and banking; business with friends profitable, but heavy losses through friends if malefics join.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Important Combinations' (11th lord with the lord of the house it occupies)", "view": "11th lord with the 2nd lord in the 2nd: large sums of money; with the 9th and 2nd lords in exaltation or own vargas, a millionaire; in the 6th/8th/12th from the navamsa lagna, moderate results.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "Wealthy through several means, eldest sibling helps earn, domestic happiness, banking or money-lending, ventures with friends succeed, learned, good speaker.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 14.8 (placement of the eleventh lord)", "view": "In the 2nd, gains accrue by using family wealth or other assets.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Nelson Rockefeller", "view": "The Moon, lord of the 11th house of gain, is waxing in the 2nd house of income (Virgo lagna).", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', 'House Lords as Specific Significators', pp. 159-160", "view": "The 11th lord, though generally malefic for health and prone to make the character egoistic or impulsive, is still the lord of gains: good for acquisitions and work with groups. Mercury as 2nd and 11th lord for Leo is a double significator of wealth. Saturn as 11th and 12th lord for Pisces is very inauspicious, as the 11th is a difficult house.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "None on wealth. Raman adds that malefic company turns friends into a source of loss.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as strong potential for savings and family prosperity. No guaranteed amounts; treat the 'after marriage' line as traditional."
+  },
+  {
+    "id": "lord_in_house/11/3",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 3},
+    "summary": "Gains through effort, skills and siblings: the person is skilful and wealthy and enjoys siblings' support. Both houses are upachayas, so results grow with time.",
+    "themes": ["skill", "siblings", "initiative", "communication", "gains through effort"],
+    "common_outcomes": [
+      "skilful, wealthy, happiness from siblings (BPHS 24.123)",
+      "gains through brothers; many friends and helpful neighbours (Raman HTJH; Braha)",
+      "may earn as a singer or musician (Raman HTJH); gains from music, drama or literature (Braha)",
+      "desires and ambitions fulfilled: a kama lord in a kama house (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 22.4: with benefics, a large gain around age 36 (traditional timing)",
+      "BPHS 22.10: exchange of 3rd and 11th lords gives wealth through brothers and fine ornaments",
+      "with the 3rd lord: brothers as business partners and writing ability (Raman HTJH, combinations)",
+      "Frawley (Example Charts: Mick Jagger, Taurus lagna): Jupiter, exalted as 11th lord in the 3rd, gives good financial gains",
+      "BPHS 24.123 mentions occasional fear of colic; do not use as a health prediction"
+    ],
+    "by_area": {
+      "personality": "Skilful (BPHS 24.123); courageous (Braha).",
+      "career": "Music, singing, drama or literary work (Raman HTJH; Braha).",
+      "finance": "Wealthy (BPHS 24.123); good gains with a strong lord (Frawley, Jagger chart).",
+      "health": "",
+      "relationships": "Many friends and helpful neighbours (Raman HTJH); happy friendships (Braha).",
+      "family": "Gains through brothers (Raman HTJH; Braha); in the exchange case, wealth through brothers (BPHS 22.10).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic association (BPHS 22.4)",
+      "exchange with the 3rd lord (BPHS 22.10)",
+      "exaltation (Frawley, Jagger chart)"
+    ],
+    "weakeners_or_cancellations": [
+      "affliction gives contrary results (Raman HTJH); with malefics, the brother suffers losses and competitors obstruct (Raman HTJH, combinations)"
+    ],
+    "lagna_or_context_notes": "Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.123", "view": "Skilful, wealthy, happiness from siblings, occasional fear of colic.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.4, 22.10", "view": "With benefics: notable gain around age 36; exchange of 3rd and 11th lords: wealth through brothers.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "A concert-singer or musician who earns thereby; gains through brothers; many friends and helpful neighbours; affliction gives contrary results.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Important Combinations' (11th lord with the lord of the house it occupies)", "view": "With the 3rd lord: both elder and younger siblings, brothers as business partners, much wealth and writing ability; with malefics, a brother suffers losses and competitors obstruct.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "A kama lord in a kama house: desires fulfilled; money from music, dance, drama or literature; gains through siblings; courageous, happy friendships.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Mick Jagger", "view": "Jupiter, exalted as lord of the 11th house of income (in the 3rd for Taurus lagna), gives good financial gains.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "None.",
+    "confidence": "high",
+    "phrasing_guidance": "Emphasise gains through skill and effort. Skip the colic line or present it as a traditional phrase with no health implication."
+  },
+  {
+    "id": "lord_in_house/11/4",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 4},
+    "summary": "Gains through home, land, mother's family and comfort: BPHS adds pilgrimages and happiness from house and property.",
+    "themes": ["property gains", "mother's family", "comfort", "pilgrimage"],
+    "common_outcomes": [
+      "gains through the maternal family, pilgrimages, comfort in home and land (BPHS 24.124)",
+      "profits from land, rentals, farming and products of the earth (Raman HTJH; Braha)",
+      "a cultured, distinguished mother; wealth from maternal relations (Raman HTJH; Braha)",
+      "renowned for learning; a good education (Raman HTJH; Braha)",
+      "a devoted and charming wife; comfort and enjoyment (Raman HTJH)"
+    ],
+    "rare_outcomes": [
+      "BPHS 22.5: 11th lord in a kendra with benefics gives a notable gain around age 40 (traditional timing)",
+      "with the 4th lord: an excellent education, awards and earnings through lands, vehicles and houses (Raman HTJH, combinations)"
+    ],
+    "by_area": {
+      "personality": "Learned and scholarly (Raman HTJH).",
+      "career": "Real estate, rentals, farming (Raman HTJH; Braha).",
+      "finance": "Gains via property (Raman HTJH); BPHS 22.2 counts kendra placement as giving much gain.",
+      "health": "",
+      "relationships": "A devoted and charming wife (Raman HTJH).",
+      "family": "Gains through maternal relatives (BPHS 24.124; Braha); a cultured, distinguished mother (Raman HTJH).",
+      "spirituality": "Pilgrimage (BPHS 24.124; Braha)."
+    },
+    "strengtheners": [
+      "benefic association (BPHS 22.5)",
+      "joined with the 4th lord (Raman HTJH)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction or debilitation (BPHS 22.11)"
+    ],
+    "lagna_or_context_notes": "For Cancer lagna Venus owns 4th and 11th and is in Libra, own sign. For Capricorn Mars owns 4th and 11th and is in Aries, own sign.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.124", "view": "Gains through maternal family, pilgrimages, comfort in home and land.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.2, 22.5", "view": "11th lord in a kendra gives much gain; with benefics, a gain around age 40.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "Profits from landed estates, rentals and products of the earth; a cultured, distinguished mother; renowned for learning; comfort and a devoted, charming wife.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Important Combinations' (11th lord with the lord of the house it occupies)", "view": "With the 4th lord: fortunate in the mother, an excellent education, fame and awards, earnings through lands, vehicles and houses, domestic harmony.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "Gains from real estate or farming, wealth from mother or maternal relations, land and homes, pilgrimages, good education, comforts, good friends.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "None.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of comfort, property and family support. Age timing only as tradition."
+  },
+  {
+    "id": "lord_in_house/11/5",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 5},
+    "summary": "Gains through children, intellect and creativity: BPHS says children are happy and learned and the person is devoted to dharma.",
+    "themes": ["children", "intellect", "speculation", "creative income", "dharma"],
+    "common_outcomes": [
+      "children happy and learned; devoted to dharma (BPHS 24.125)",
+      "many children who do well (Raman HTJH); gains and happiness from children (Braha)",
+      "gains through speculation and investments (Raman HTJH; Braha)",
+      "intelligent and learned (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 22.5: 11th lord in a trikona with benefics gives a notable gain around age 40 (traditional timing)",
+      "well disposed: pious, keeping vows that enhance prosperity (Raman HTJH)",
+      "with the 5th lord: fast progress in spiritual practice and excellent children (Raman HTJH, combinations)"
+    ],
+    "by_area": {
+      "personality": "Intelligent and ethical (BPHS 24.125; Braha).",
+      "career": "Investment, art or sports (Braha).",
+      "finance": "Speculative gains (Raman HTJH; Braha); BPHS 22.2: trikona placement gives much gain.",
+      "health": "",
+      "relationships": "",
+      "family": "Children a source of happiness (BPHS 24.125; Raman HTJH; Braha).",
+      "spirituality": "Devoted to dharma (BPHS 24.125); vows and observances (Raman HTJH)."
+    },
+    "strengtheners": [
+      "benefic disposition (Raman HTJH); well fortified in the navamsa (Raman HTJH, combinations)",
+      "5th lord strong and joined (Raman HTJH, combinations)"
+    ],
+    "weakeners_or_cancellations": [
+      "affliction: gambling and foolish ventures (Raman HTJH)",
+      "malefics with the 5th lord: anxiety and loss over a child in the 11th lord's period (Raman HTJH, combinations; never predict)"
+    ],
+    "lagna_or_context_notes": "Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.125", "view": "Children happy and learned; the person devoted to dharma.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.2, 22.5", "view": "11th lord in a trikona gives much gain; with benefics, a gain around age 40.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "Many children who do well; gains from speculation; afflicted, a gambler in foolish ventures; well disposed, pious, keeping vows that enhance prosperity.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Important Combinations' (11th lord with the lord of the house it occupies)", "view": "With the 5th lord: fast spiritual progress, excellent children, earnings through investment; malefics there bring anxiety or loss over a child in the 11th lord's period, minimised if the lord is fortified in the navamsa.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "A very good position: wealth from investments, gains and happiness from prosperous children, intelligent, gains through art or sports, financial windfalls.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "None.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of joy through children, students and creative work. No fertility predictions; investment notes as general caution only."
+  },
+  {
+    "id": "lord_in_house/11/6",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 6},
+    "summary": "The gains lord in a dusthana: classically gains are blocked and the person faces opponents and restlessness, though Raman and Braha name specific gains through litigation, maternal relatives and health-related ventures.",
+    "themes": ["obstacles to gains", "competition", "service income", "debts", "restlessness"],
+    "common_outcomes": [
+      "prone to illness, harsh-minded, restless, troubled by enemies (BPHS 24.126; Braha)",
+      "gains through maternal relatives, litigation or running nursing homes (Raman HTJH); gains through an uncle or health-related ventures (Braha)",
+      "difficulty fulfilling desires; few windfalls (Braha)",
+      "problems with friends (Braha)"
+    ],
+    "rare_outcomes": [
+      "Phaladeepika's Daridra yoga (11th lord in 6/8/12): debts, poverty, harsh speech; traditional view",
+      "BPHS 24.126 mentions illness and a 'cruel intellect'; state carefully",
+      "with the 6th lord: success as a lawyer and through litigation, good earnings (Raman HTJH, combinations)",
+      "afflicted: involvement in other people's quarrels (Raman HTJH); traditional",
+      "Frawley (Example Charts: Franklin Roosevelt, Leo lagna): Venus, ruler of the 11th ('a malefic lord'), with the lagna lord Sun in the 6th is read as a health factor"
+    ],
+    "by_area": {
+      "personality": "Restless and harsh-minded (BPHS 24.126).",
+      "career": "Law and litigation, nursing homes or health-related ventures (Raman HTJH; Braha).",
+      "finance": "BPHS 22.11: in a trika house with malefics, gain does not come despite great effort; few windfalls (Braha).",
+      "health": "",
+      "relationships": "Problems with friends (Braha).",
+      "family": "Gains through maternal relatives (Raman HTJH) or an uncle (Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "strong lord (Phaladeepika 15.9)",
+      "benefic aspect (Phaladeepika 15.5)",
+      "own-sign case: for Gemini lagna Mars owns 6th and 11th and is in Scorpio here; for Sagittarius Venus owns 6th and 11th and is in Taurus here"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic association (BPHS 22.11)",
+      "afflicted: losses through the same sources (Raman HTJH)",
+      "debilitation (BPHS 22.11)"
+    ],
+    "lagna_or_context_notes": "For Gemini (Mars, 6th+11th) and Sagittarius (Venus, 6th+11th) lagnas the lord is in its own sign here. Frawley (p. 219) says the 11th lord functions like the 6th lord in disease, with less power. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.126", "view": "Prone to illness, harsh-minded, restless, troubled by enemies.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.11", "view": "11th lord debilitated, in the 7th, or in a trika house with malefics: no gain despite great effort.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "Phaladeepika 6.57, 6.68 (tr. V. Subrahmanya Sastri)", "view": "Daridra yoga for the 11th lord in a dusthana: debts, poverty, harsh speech, serving others.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "Phaladeepika 15.5, 15.9 (tr. V. Subrahmanya Sastri)", "view": "Benefic aspect protects; a strong lord in a dusthana does only slight harm.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621587.html"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "Gains through maternal relatives, litigation and running nursing homes; afflicted, thrives on setting people against each other, or loses through the same sources.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Important Combinations' (11th lord with the lord of the house it occupies)", "view": "With the 6th lord: success as a lawyer and through litigation, generally healthy, good earnings; afflicted, leg troubles, medical bills and lawsuits.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "Difficulty fulfilling desires, no windfalls, few opportunities, no happiness from the eldest sibling, enemies, problems with friends; gains through an uncle or health-related ventures.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Franklin Roosevelt; ch. 'Astrology and Ayurveda', p. 219", "view": "Roosevelt (Leo lagna): the Sun as lagna lord in the 6th conjunct Venus, ruler of the 11th ('a malefic lord'), is a health factor. Medical chapter: the 11th lord functions like the 6th lord in disease, with less power.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS, Phaladeepika and Braha are negative. Raman names specific gains (litigation, nursing homes, maternal relatives) alongside the cautions.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe gains that come through persistence and competitive or service work. Do not predict illness or label the person cruel; give Daridra yoga only as a traditional caution."
+  },
+  {
+    "id": "lord_in_house/11/7",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 7},
+    "summary": "Gains through spouse and partners: BPHS 24.127 gives gains from the spouse's family, generosity and virtue, with the spouse strongly influential.",
+    "themes": ["spouse's family", "partnership gains", "business", "influence of spouse"],
+    "common_outcomes": [
+      "gains through the spouse's family; generous, virtuous; influenced by the wife (BPHS 24.127)",
+      "a wealthy or influential spouse who helps gain wealth (Braha); fortified, a rich and influential wife (Raman HTJH)",
+      "prospers in foreign countries (Raman HTJH)",
+      "gains from business and in-laws (Rath Crux 14.8)",
+      "desires fulfilled: a kama lord in a kama house (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 22.11 lists the 11th lord in the 7th among conditions where gains are blocked (with malefics); contrasts with 24.127",
+      "Raman indicates more than one marriage, or one marriage to a rich spouse if the lord is fortified; afflicted, traditional lines on immoral liaisons; treat with great care",
+      "Rath: the 11th lord in the 7th is 9th from its own house, implying good fortune and a religious nature; he also reads the 7th placement as a health worry for the spouse (Crux 14.8); never predict",
+      "with the 7th lord: a rich wife, influential friends and successful partnerships; with a strong Sun, may go abroad as an ambassador (Raman HTJH, combinations)"
+    ],
+    "by_area": {
+      "personality": "Generous and virtuous (BPHS 24.127); fortunate and religious (Rath Crux 14.8).",
+      "career": "Business and partnerships (Rath Crux 14.8; Raman HTJH); prosperity abroad (Raman HTJH).",
+      "finance": "Gains via spouse and in-laws (BPHS 24.127; Rath Crux 14.8; Braha).",
+      "health": "",
+      "relationships": "A wealthy or influential spouse (Raman HTJH; Braha) who strongly influences decisions (BPHS 24.127).",
+      "family": "In-laws helpful (BPHS 24.127; Rath Crux 14.8).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "a fortified lord: one marriage, to a rich and influential spouse (Raman HTJH)",
+      "joined with the 7th lord (Raman HTJH, combinations)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic association (BPHS 22.11)",
+      "affliction of the 11th lord (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.127", "view": "Gains through the spouse's family, generous, virtuous, influenced by the wife.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.11", "view": "11th lord in the 7th (with malefics) is among conditions where gains fail despite effort.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "Marries more than once and prospers abroad; afflicted, traditional lines on immoral liaisons; fortified, one marriage to a rich and influential woman.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Important Combinations' (11th lord with the lord of the house it occupies)", "view": "With the 7th lord: a rich wife, possibly an ambassador abroad if the Sun is strong, influential friends and successful partnerships; with malefics, both spouses seek money by questionable means.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "A kama lord in a kama house: desires fulfilled, strong passions, a wealthy or influential spouse who helps gain wealth, happy marriage.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 14.8 (placement of the eleventh lord)", "view": "In the 7th the 11th lord is 9th from its own house, implying good fortune and a religious nature; gain from business and in-laws; the 7th placement also points to a sick spouse (traditional).", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "Within BPHS itself, 24.127 is favourable while 22.11 lists the 7th among unfavourable positions for gains; reconcile by strength and malefic association. Braha gives a happy marriage, while Raman indicates more than one marriage unless the lord is fortified.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of partnership and in-laws as sources of support. Do not suggest multiple marriages; avoid gendered assumptions about who influences whom."
+  },
+  {
+    "id": "lord_in_house/11/8",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 8},
+    "summary": "The gains lord in the house of obstacles: all sources see setbacks and losses, with Braha adding gains through a partner's money, insurance and legacies.",
+    "themes": ["setbacks", "irregular gains", "inheritance", "hidden income"],
+    "common_outcomes": [
+      "setbacks in undertakings (BPHS 24.128)",
+      "though rich at birth, many calamities and loss of money (Raman HTJH); many financial losses (Braha)",
+      "losses through thieves, cheats and swindlers (Raman HTJH)",
+      "gains from a partner's wealth, insurance or wills (Braha)",
+      "desires unfulfilled; few or bad friends (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.128 states long life and that the spouse may pass first; do not use either as a prediction",
+      "Phaladeepika's Daridra yoga as a traditional caution",
+      "the 11th lord in a malefic nakshatra: a traditional poverty line (Raman HTJH)",
+      "with the 8th lord in the 8th: debts and domestic disharmony, yet success in small manual ventures (Raman HTJH, combinations)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Small ventures with manual labour succeed (Raman HTJH, combinations).",
+      "finance": "Losses through calamities and fraud (Raman HTJH); gains from a partner's wealth, insurance or wills (Braha); BPHS 22.11: gain may not come despite effort when afflicted.",
+      "health": "",
+      "relationships": "Few or bad friends (Braha).",
+      "family": "Little happiness from the eldest sibling (Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "strong lord (Phaladeepika 15.9); benefic aspect (15.5)",
+      "own-sign case: for Taurus lagna Jupiter owns 8th and 11th and is in Sagittarius here; for Scorpio Mercury owns 8th and 11th and is in Gemini here"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic association (BPHS 22.11)",
+      "a malefic nakshatra (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "The Taurus and Scorpio own-sign cases are milder. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.128", "view": "Setbacks in undertakings; also states long life and that the wife may die first (traditional).", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.11", "view": "11th lord in a trika house with malefics: gain does not come despite effort.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "Phaladeepika 6.57, 6.68 (tr. V. Subrahmanya Sastri)", "view": "Daridra yoga for the 11th lord in a dusthana.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "Though rich at birth, suffers calamities and loses much money to thieves, cheats and swindlers; in a malefic nakshatra, traditional poverty.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Important Combinations' (11th lord with the lord of the house it occupies)", "view": "With the 8th lord in the 8th: pecuniary losses, debts, a business that does not thrive, domestic disharmony, but success in small ventures with manual labour.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "Many financial losses, few opportunities, desires unfulfilled, no happiness from the eldest sibling, few or bad friends; gains from a partner's wealth, insurance or wills.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS, Phaladeepika, Raman and Braha are all negative on gains; Braha adds gains through a partner's money, insurance and legacies.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say gains may be irregular or come through unexpected channels. Never mention the spouse's death or longevity; omit that classical line in readings."
+  },
+  {
+    "id": "lord_in_house/11/9",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 9},
+    "summary": "Gains through fortune, dharma and elders: the person is fortunate, clever, truthful, wealthy and honoured by authorities.",
+    "themes": ["fortune", "honour", "wealth", "ethics", "father"],
+    "common_outcomes": [
+      "fortunate, clever, truthful, honoured by rulers, wealthy (BPHS 24.129)",
+      "inherits a large paternal fortune; very lucky (Raman HTJH; Braha)",
+      "many houses, vehicles and luxuries (Raman HTJH)",
+      "religious and charitable; may set up charitable institutions (Raman HTJH)",
+      "gains through higher learning, travel, the father or temples (Rath Crux 14.8)"
+    ],
+    "rare_outcomes": [
+      "BPHS 22.5: 11th lord in a trikona with benefics, notable gain around age 40 (traditional timing)",
+      "Frawley (Example Charts: Lord Rama, Cancer lagna): Venus as 11th lord exalted in the 9th is part of a very strong wealth picture",
+      "with the 9th lord: an aristocratic background, extends the family business, foreign collaboration (Raman HTJH, combinations)"
+    ],
+    "by_area": {
+      "personality": "Clever and truthful (BPHS 24.129).",
+      "career": "Higher learning, travel, temples (Rath Crux 14.8); extends the family business (Raman HTJH, combinations).",
+      "finance": "A large paternal fortune (Raman HTJH; Braha); BPHS 22.2 counts a trikona as giving much gain.",
+      "health": "",
+      "relationships": "Spiritual friends (Braha).",
+      "family": "A wealthy, long-lived father; happiness from the eldest sibling (Braha).",
+      "spirituality": "Disseminates religious literature and sets up charities (Raman HTJH)."
+    },
+    "strengtheners": [
+      "benefic association (BPHS 22.5)",
+      "joined with the 9th lord (Raman HTJH, combinations)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction or debilitation (BPHS 22.11)"
+    ],
+    "lagna_or_context_notes": "Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.129", "view": "Fortunate, clever, truthful, honoured by rulers, wealthy.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.2, 22.5", "view": "11th lord in a trikona gives much gain; with benefics, gain around age 40.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "Inherits a large paternal fortune, very lucky, many houses, vehicles and luxuries; religious-minded, disseminates religious literature, sets up charitable institutions.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Important Combinations' (11th lord with the lord of the house it occupies)", "view": "With the 9th lord: an exalted, aristocratic father and background, extends the family business, moves with dignitaries, foreign collaboration brings money and distinction.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "Wealthy, lucky, desires fulfilled, paternal wealth, a wealthy and long-lived father, happiness from the eldest sibling, religious, spiritual friends.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 14.8 (placement of the eleventh lord)", "view": "In the 9th, gain comes from higher learning, travel, the father, temples and the like.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Lord Rama", "view": "The lord of the 11th house of gains (Venus) is exalted in the 9th, part of a very strong wealth combination.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "None.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as a fortunate placement for gains and respect. Avoid promising honours."
+  },
+  {
+    "id": "lord_in_house/11/10",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 10},
+    "summary": "Gains through career and status: the person is honoured by authorities, virtuous, dutiful, truthful and self-controlled.",
+    "themes": ["career gains", "honour", "duty", "self-control"],
+    "common_outcomes": [
+      "honoured by kings, virtuous, dutiful, truthful, self-controlled (BPHS 24.130)",
+      "prospers in business with good profits (Raman HTJH); a prosperous career with many opportunities (Braha)",
+      "an elder brother helps in business or career (Raman HTJH; Braha)",
+      "prizes or awards for original contributions in one's field (Raman HTJH)"
+    ],
+    "rare_outcomes": [
+      "BPHS 22.5: kendra placement with benefics gives a notable gain around age 40 (traditional timing)",
+      "JP 12.104: exchange of the 10th and 11th lords gives ornaments and vehicles",
+      "earns by fair or foul means according to the benefic or malefic nature of the planet (Raman HTJH)",
+      "with the 10th lord: more than one occupation and a distinguished career (Raman HTJH, combinations)"
+    ],
+    "by_area": {
+      "personality": "Disciplined and truthful (BPHS 24.130).",
+      "career": "Business prosperity and awards (Raman HTJH); many career opportunities (Braha).",
+      "finance": "Good profits (Raman HTJH); BPHS 22.2: kendra placement gives much gain.",
+      "health": "",
+      "relationships": "",
+      "family": "An elder brother assists (Raman HTJH; Braha).",
+      "spirituality": "Performs good deeds and goes on pilgrimages (Braha)."
+    },
+    "strengtheners": [
+      "benefic association (BPHS 22.5); a benefic 11th lord earns by fair means (Raman HTJH)",
+      "exchange with the 10th lord (JP 12.104)"
+    ],
+    "weakeners_or_cancellations": [
+      "a malefic 11th lord earns by foul means (Raman HTJH); malefics afflicting the 10th make one powerful but unscrupulous (Raman HTJH, combinations)"
+    ],
+    "lagna_or_context_notes": "For Aries lagna Saturn owns 10th and 11th and is in Capricorn, own sign, here.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.130", "view": "Honoured by kings, virtuous, dutiful, truthful, self-controlled.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.2, 22.5", "view": "11th lord in a kendra gives much gain; with benefics, gain around age 40.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "Prospers in business with good profits; an elder brother helps; prize money for original contributions; earns by fair or foul means per the planet's benefic or malefic nature.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Important Combinations' (11th lord with the lord of the house it occupies)", "view": "With the 10th lord: a highly successful, distinguished career and more than one occupation; malefics afflicting the 10th make one powerful but unscrupulous.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "Prosperous career, many career opportunities, good deeds, pilgrimages, wealthy, many comforts, the eldest brother may be involved in the career.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XII.104", "view": "When the 10th lord is in the 11th and the 11th lord in the 10th, the person has ornaments and vehicles.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "None.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe career that brings both recognition and income. No guaranteed titles."
+  },
+  {
+    "id": "lord_in_house/11/11",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 11},
+    "summary": "The gains lord in its own house: gains come in all endeavours, and wisdom and happiness grow over time.",
+    "themes": ["gains", "wish fulfilment", "networks", "elder siblings", "growth"],
+    "common_outcomes": [
+      "gains in all endeavours; wisdom and happiness grow daily (BPHS 24.131)",
+      "many friends and helpful elder siblings (Raman HTJH; Braha)",
+      "a happy life with spouse, home, children and comforts (Raman HTJH)",
+      "easy gains and many financial opportunities (Braha)"
+    ],
+    "rare_outcomes": [
+      "succeeds without much effort; the planet shows the trade: Jupiter books and religion, Saturn industry, Venus arts and hospitality, Mercury writing and teaching, Mars land and metals, the Sun hereditary work and banking, the Moon farming and dairy (Raman HTJH, combinations)"
+    ],
+    "by_area": {
+      "personality": "Fair in dealings (Raman HTJH, combinations).",
+      "career": "The planet's nature shows the field of earning (Raman HTJH, combinations).",
+      "finance": "Easy gains (Braha); BPHS 22.2 names the 11th lord in the 11th as giving much gain.",
+      "health": "",
+      "relationships": "Many friends (Raman HTJH; Braha).",
+      "family": "Powerful, prosperous elder siblings (Raman HTJH; Braha).",
+      "spirituality": "Money spent on legitimate and charitable purposes (Raman HTJH, combinations)."
+    },
+    "strengtheners": [
+      "the lord is in its own sign (BPHS 22.2: much gain); benefics in the 11th augment its significations (Raman HTJH)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefics in the 11th diminish its significations (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "Sign depends on lagna, e.g. Saturn in Aquarius for Aries, Sun in Leo for Libra, Moon in Cancer for Virgo.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.131", "view": "Gains in all endeavours; wisdom and happiness grow daily.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.2", "view": "11th lord in the 11th gives much gain.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "Many friends and elder brothers who help throughout life; a happy life with wife, home, children and comforts. General note: benefics in the 11th augment its significations, malefics diminish them.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Important Combinations' (11th lord with the lord of the house it occupies)", "view": "In its own house: succeeds without much effort, fair dealings, money spent on legitimate and charitable purposes, a famous elder brother; the planet shows the trade (Jupiter books and religion, Saturn industry, Venus arts and hospitality, and so on).", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "Own house: easy gains, desires fulfilled, many financial opportunities, gains from a powerful eldest sibling, many friends.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "None.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as strong potential for steady gains and fulfilment. Avoid promising wealth."
+  },
+  {
+    "id": "lord_in_house/11/12",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 11, "placed_in": 12},
+    "summary": "The gains lord in the house of expenditure: gains tend to flow out, often to good causes, and the person may have strong desires and dealings with foreigners or outsiders.",
+    "themes": ["spending of gains", "charity", "foreign dealings", "desire"],
+    "common_outcomes": [
+      "spends on good causes; strong desires; associates with outsiders (BPHS 24.132)",
+      "losses in business; frequent fines and penalties (Raman HTJH)",
+      "expenses on account of an elder sibling's troubles (Raman HTJH; Braha)",
+      "many financial losses and unfulfilled desires (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.132 says lustful with many wives; a traditional line, not to be used as character judgement",
+      "Phaladeepika's Daridra yoga as a traditional caution",
+      "with the 12th lord: losses through varied expenditure; in the 6th, 8th or 12th from the navamsa lagna, debts (Raman HTJH, combinations)",
+      "comfortable bed pleasures (Braha)"
+    ],
+    "by_area": {
+      "personality": "Strong desires (BPHS 24.132).",
+      "career": "Business losses (Raman HTJH).",
+      "finance": "Gains flow out; fines and penalties (Raman HTJH); BPHS 22.11: in a trika house with malefics, gains fail despite effort.",
+      "health": "",
+      "relationships": "Few or bad friends (Braha). Traditional texts link it with multiple relationships (BPHS 24.132); treat with great care.",
+      "family": "Burdened with domestic responsibilities; expenses for an elder sibling (Raman HTJH; Braha).",
+      "spirituality": "Spending on good causes (BPHS 24.132)."
+    },
+    "strengtheners": [
+      "strong lord (Phaladeepika 15.9); benefic aspect (15.5)",
+      "own-sign case: for Pisces lagna Saturn owns 11th and 12th and is in Aquarius here"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic association (BPHS 22.11)",
+      "malefics afflicting the 12th: wealth squandered (Raman HTJH, combinations)"
+    ],
+    "lagna_or_context_notes": "For Pisces lagna Saturn (11th+12th) is in its own sign Aquarius here; Frawley (p. 159) calls Saturn as 11th and 12th lord for Pisces very inauspicious, the 11th being itself a difficult house. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.132", "view": "Spends on good causes, strong desires, many wives, associates with outsiders.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 22.11", "view": "11th lord in a trika house with malefics: no gain despite effort.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-22"},
+      {"source": "Phaladeepika 6.57, 6.68 (tr. V. Subrahmanya Sastri)", "view": "Daridra yoga for the 11th lord in a dusthana.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Results of the Lord of the Eleventh House Occupying Different Houses'", "view": "Losses in business; an ailing elder brother and expenses on his illness; frequent fines and penalties; many domestic responsibilities.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XV 'Important Combinations' (11th lord with the lord of the house it occupies)", "view": "With the 12th lord: losses through varied expenditure; with an afflicted 12th, wealth squandered; in the 6th/8th/12th from the navamsa lagna, debts.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '11th House' chapter, 'The lord of the 11th placed in the' houses", "view": "Many financial losses, few opportunities, desires unfulfilled, losses and debts through the eldest sibling, few or bad friends, good bed pleasures.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', 'House Lords as Specific Significators', pp. 159-160", "view": "The 11th lord, though generally malefic for health and prone to make the character egoistic or impulsive, is still the lord of gains: good for acquisitions and work with groups. Mercury as 2nd and 11th lord for Leo is a double significator of wealth. Saturn as 11th and 12th lord for Pisces is very inauspicious, as the 11th is a difficult house.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.29", "view": "Note the bhava occupied by the 11th lord and the bhava owned by any planet joined with it: gain of things connected with those bhavas may be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS 24.132 includes spending on good causes alongside negative lines; Phaladeepika, Raman and Braha are wholly negative on gains. For Pisces lagna the own-sign placement does not rescue the result in Frawley's view.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say income may flow to travel, charity or distant ventures and that budgeting helps. Do not repeat the 'many wives' or 'lustful' line."
+  }
+]

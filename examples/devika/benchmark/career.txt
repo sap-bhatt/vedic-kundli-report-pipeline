@@ -1,0 +1,91 @@
+4Career and vocation
+
+The 10th house: Venus in its own sign, with Saturn
+
+The 10th house (career, reputation, action in the world) is Taurus, ruled by Venus, and it holds Venus itself at 27°39', in the nakshatra Mrigashira, together with Saturn at 22°48' in Rohini. The Moon aspects the house from the 4th, and Rahu aspects it from the 6th. This is the strongest house in the visible chart, and several classical statements point the same way:
+
+The 10th lord in the 10th. Parashara (BPHS ch. 24, v. 118) says the 10th lord in the 10th makes the native skilled in all undertakings, courageous, truthful, happy and devoted to the guru. A house lord in its own house is a stable, self-sustaining signature: career matters tend to run on their own momentum.
+
+Venus in the 10th. Phaladeepika (ch. 8, sl. 19) gives Venus in the 10th wide renown, many friends and a rise to a position of authority through employment.
+
+Malavya yoga. Venus in its own sign in a kendra forms Malavya, one of the five Pancha Mahapurusha ("great person") yogas. Phaladeepika (ch. 6, sl. 3) promises a steady, resolute character, wealth, spouse, children, comforts, fine vehicles, fame and learning; B.V. Raman's Three Hundred Important Combinations similarly gives strength of mind, wealth, happiness through spouse and children, renown and learning. Its full strength is somewhat qualified in this chart, because Venus is debilitated in the navamsa (with cancellation) and sits in the "infant" avastha, so the yoga delivers gradually rather than all at once.
+
+Saturn in the 10th. Phaladeepika (ch. 8, sl. 24) gives Saturn in the 10th a ruler's or minister's position, bravery, wealth and fame, and also mentions agriculture. Saturn is the 6th and 7th lord for Leo: BPHS gives the 6th lord in the 10th recognition within one's circle and happiness in a foreign land (v. 70), and the 7th lord in the 10th devotion to dharma, wealth and children, with a partner who has a mind of her or his own (v. 82).
+
+The typical life pattern of an own-sign 10th lord joined by Saturn is a career that is built carefully, holds its value, and becomes more substantial with time: recognition for reliability, taste and integrity rather than for flash. Saturn adds a heavy workload, responsibility for others (6th lord: service, staff, health and daily work), and sometimes a career that runs in parallel with a partner's or is shaped by partnership (7th lord). Venus and Saturn are natural friends, which makes the combination cooperative. Some authors hold that a malefic in the 10th spoils Amala yoga; Saturn's presence is better read as adding gravity to Venus than as cancelling it.
+
+The lagna lord and yogakaraka in the 12th
+
+The other half of the career picture is the 12th house, where the lagna lord Sun and the yogakaraka Mars sit together with Mercury (the 2nd and 11th lord). For many people with this pattern, work is connected with institutions that are "behind walls" or away from home: hospitals and care, research, charitable, religious or educational organisations, government departments, foreign companies or work abroad, or work done from home. jagannathhora's lagna-wise note on Mars in Cancer for Leo rising says that the yogakaraka's frustrated energy turns toward foreign, private or inner ends; that fits a career in which the visible role (10th) rests on substantial unseen effort (12th).
+
+Career significators: karakas
+
+Ranking the seven visible planets by degree within their signs (the Jaimini chara karaka method) gives: Mercury 28°32' as Atmakaraka (significator of the self), Venus 27°39' as Amatyakaraka (the "minister", significator of career and counsel), then Saturn, Mars, Moon, Jupiter and finally the Sun as Darakaraka (significator of the spouse). If Rahu is included in an eight-karaka scheme, it falls just after Venus and Venus remains the Amatyakaraka.
+
+The fact that the Amatyakaraka is also the 10th lord, in its own sign in the 10th, is a strong and coherent career signature. Venus's matters are design, beauty, arts and culture, finance and valuables, hospitality, diplomacy, relationships and the well-being of others. With Saturn, these become structured, administrative and long-term. The Atmakaraka Mercury in the 12th in Ashlesha points to a soul-level attraction to communication, teaching, healing and research done in quiet or institutional settings.
+
+The classical profession rule
+
+Phaladeepika (ch. 5, sl. 1) derives profession from the navamsa lord of the lord of the 10th, counted from the lagna, Moon or Sun, whichever is strongest, and also considers planets in the 10th. Here the lagna (aspected by its strong Jupiter) is clearly stronger than the debilitated Moon.
+
+Table 6. Profession indicators (Phaladeepika ch. 5)
+
+ | Reference | Planet considered | Its D9 sign | Navamsa lord | Classical field, in modern terms
+
+ | 10th from lagna (lord) | Venus | Virgo | Mercury | Writing, scholarship, accounts, teaching, astrology, mantra and priestly work (sl. 5): communication and knowledge work
+
+ | 10th from lagna (occupant) | Saturn | Cancer | Moon | Water products, agriculture, dairy, clothing, pilgrimage, service under a woman (sl. 3): care, food, textiles, public-facing service
+
+ | 10th from Moon (lord) | Sun (10th from Scorpio is Leo, empty) | Leo | Sun | Medicine, metals, mantra, service under a king (sl. 2): government, administration, health
+
+ | 10th from Sun (lord) | Mars (10th from Cancer is Aries, empty) | Capricorn | Saturn | Labour, staff, woodwork, durable goods (sl. 8): operations, organisation, institutions
+
+The reading that carries most weight, the 10th lord's navamsa lord, points to Mercury: work involving words, numbers, teaching, advising or counselling, made refined and client-facing by Venus. The supporting indicators (Moon, Sun, Saturn) add care, public service, health and institutional administration. Phaladeepika (ch. 5, sl. 9) adds that when the 10th sign is fixed and occupied by its own lord, earnings come in one's home country; Taurus is fixed and holds Venus. This sits interestingly against the 12th-house emphasis: a career rooted in a stable base, with foreign or distant links running through it.
+
+The D10 (dashamsa), with caution
+
+As noted in section 1, the D10 lagna is only about four minutes of birth time from changing sign, so this chart is offered as provisional.
+
+Table 7. Dashamsa (D10), Aquarius lagna as computed
+
+ | Planet | D10 sign | D10 house | Comment
+
+ | Sun | Aries | 3 | Exalted: initiative, authority, communication
+
+ | Moon | Sagittarius | 11 | Gains through institutions, teaching or networks
+
+ | Mars | Libra | 9 | With Venus; principles, mentors, higher learning
+
+ | Mercury | Sagittarius | 11 | With the Moon; earnings through knowledge and advice
+
+ | Jupiter | Aquarius | 1 | In the D10 lagna: ethical, advisory, respected
+
+ | Venus | Libra | 9 | Own sign: teaching, law, culture, publishing, guidance
+
+ | Saturn | Leo | 7 | D10 lagna lord in the 7th: clients, partners, public dealings
+
+ | Rahu | Virgo | 8 | Research, behind-the-scenes or crisis work
+
+ | Ketu | Pisces | 2 | Detachment about money from work
+
+If the computed D10 is right, it is a good one: Jupiter in the D10 lagna is widely read as one of the best indicators of an ethical and respected career; an exalted Sun gives authority and initiative; and Venus in its own sign in the D10 9th, with Mars, points to teaching, guidance, law, culture or work that carries principles. The D10 lagna lord Saturn in the 7th says career runs through clients, partners and dealings with the public.
+
+Suitable fields and working style
+
+Combining all of the above, the most consistent fields are: education, training and counselling; administration and management in institutions (hospitals, universities, NGOs, government, religious or cultural bodies); finance, accounts and the management of valuables; design, arts, fashion, hospitality and cultural work; health and caring professions, particularly in hospital or residential settings; writing, editing and communication; and, as a secondary interest, the traditional sciences and spiritual teaching (Mercury in Ashlesha in the 12th, Jupiter in the 5th).
+
+Working style: conscientious, dignified, reliable and quietly authoritative; good with people and with standards; takes on responsibility for others; prefers to work steadily inside a trusted structure, with real influence but without constant self-display. Her weakness is overwork and difficulty saying no.
+
+Career timing in brief
+
+Venus mahadasha, June 1995 – June 2015 (ages 22–42): the 10th lord's own period, with Malavya yoga. This is classically the period in which a career is established and recognition comes.
+
+Sun mahadasha, June 2015 – June 2021 (ages 42–48): the lagna lord in the 12th, overlapping her second Sade Sati. Often a phase of retreat, re-evaluation, relocation or a change of field, or of work that is demanding but less visible.
+
+Moon mahadasha from June 2021: the 12th lord in the 4th, aspecting the 10th. Work tied to home, care, the public and emotional labour; the Saturn sub-period (to April 2027) brings responsibility and duty at work.
+
+Moon–Venus sub-period, April 2029 – December 2030: the 10th lord's sub-period, with Saturn transiting the 10th house. The most promising career window of the coming decade for recognition and a senior or advisory role.
+
+Mars mahadasha from June 2031 (age 58): the yogakaraka's period. Associated with property, teaching and dharma (4th and 9th) and with foreign or institutional settings (12th); a period in which work may become more purpose-driven.
+
+Chara dasha of Taurus, July 2023 – July 2035: Jaimini's sign period of the 10th house itself, holding the Amatyakaraka. It agrees with Vimshottari that career and standing remain central through this decade (see section 11).

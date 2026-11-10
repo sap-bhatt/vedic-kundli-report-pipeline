@@ -1,0 +1,952 @@
+[
+  {
+    "id": "planet_in_sign/ketu/aries",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Aries"
+    },
+    "summary": "Ketu in Aries sits in Mars's sign, and Ketu is widely said to act like Mars (Frawley, Foss), so modern readers see a natural fit; BPHS names Aries among signs where Ketu brings wealth even in a weak avastha. Raman's dasa note, however, is harsh, warning of family friction, losses and travel.",
+    "themes": [
+      "Mars-like node in Mars sign",
+      "instinctive courage",
+      "independence",
+      "abandoned starts",
+      "detachment from ego"
+    ],
+    "common_outcomes": [
+      "Mars-like energy and courage (Frawley p.103; Foss, name 5)",
+      "Raman's dasa note: troubles from relatives, loss of property, constant travel, sudden quarrels (HPA ch.24)",
+      "Independence and ready competence in crises (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "BPHS 45.135: Ketu in shayana avastha in Aries, Taurus, Gemini or Virgo brings growth of wealth; in other signs it increases difficulties"
+    ],
+    "by_area": {
+      "personality": "Courageous and self-contained (astromedha.in, via summary).",
+      "career": "",
+      "finance": "Growth of wealth even in a weak state (BPHS 45.135); loss of property in Ketu's dasa per Raman (HPA ch.24).",
+      "health": "",
+      "relationships": "Sudden quarrels in Ketu's dasa (Raman HPA ch.24).",
+      "family": "Troubles from relatives (Raman HPA ch.24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Mars (dispositor; Frawley p.258)",
+      "Ketu joined to a planet in its own or exaltation sign gains power (Frawley pp.105-106)",
+      "Braha: the nodes do better in the 3rd, 6th, 10th and 11th; Frawley instead counts the 3rd, 6th and 8th difficult for Ketu and the 12th good"
+    ],
+    "weakeners_or_cancellations": [
+      "Weak or afflicted Mars (Frawley p.258)",
+      "Malefic aspects such as Saturn or Mars (Frawley p.258)"
+    ],
+    "lagna_or_context_notes": "Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "BPHS 45.135 (Sanskrit with gloss, enjoylearningsanskrit.com numbering)",
+        "view": "Ketu in shayana avastha in Aries, Taurus, Gemini or Virgo gives increase of wealth; elsewhere it brings more troubles.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-45/verse-135"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers pp.103, 105-106, 258-259",
+        "view": "Ketu acts like Mars; it boosts strong planets it joins, especially those in own or exaltation sign; a weak Ketu shows when its sign lord is weak, when it is in the 3rd, 6th or 8th, or under malefic aspect.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu (commentary on Ketu's 108 names, archive.org), name 5",
+        "view": "Ketu is said to be like Mars; joined with Mars it refines that power; on its own it can wield any kind of power.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Aries: disgrace, troubles from relatives, loss of property, constant travel, hardship, sudden quarrels, family illness.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.15 (pp.75-76)",
+        "view": "Rahu and Ketu give good results in the signs of benefic planets and evil results in evil signs.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Ketu in Aries (via summary)",
+        "view": "Stored competence, courage, independence, abandoned projects.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-aries"
+      }
+    ],
+    "disagreements": "The 'Ketu acts like Mars' maxim (Frawley, Foss) and BPHS 45.135 make Aries congenial; Raman's dasa note (Aries a malefic's sign, so 'evil' per his ch.15 rule) is harsh. Neutral in most dignity lists.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe instinctive courage and independence; mention unfinished starts as a pattern to notice. No accident or injury predictions."
+  },
+  {
+    "id": "planet_in_sign/ketu/taurus",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Taurus"
+    },
+    "summary": "Taurus is Ketu's debilitation in the Scorpio-exaltation school (Raman, Bhavartha Ratnakara). Ketu's detachment falls on possessions and comfort; Raman's dasa note mixes dangers and questionable gains with pilgrimage and success in religious study. BPHS's avastha verse, oddly, lists Taurus among Ketu's favourable signs.",
+    "themes": [
+      "debilitation (majority view)",
+      "detachment from possessions",
+      "financial unease",
+      "values questioned",
+      "simplicity"
+    ],
+    "common_outcomes": [
+      "Raman's dasa note: wealth by doubtful means, sorrows, pilgrimages and success in religious study (HPA ch.24)",
+      "Financial unease or gain-loss cycles (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "BPHS 45.135 lists Taurus among signs where Ketu in shayana avastha brings wealth",
+      "Under the Sagittarius-exaltation school, Taurus is simply neutral"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Fluctuations (astromedha.in, via summary); gains of doubtful origin in Ketu's dasa (Raman HPA ch.24).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Pilgrimage and religious study (Raman HPA ch.24)."
+    },
+    "strengtheners": [
+      "Strong Venus (dispositor; Frawley p.258); Taurus is a benefic's sign, favourable for the nodes per Raman (HPA ch.15)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Venus (Frawley p.258)",
+      "Debilitation under the Scorpio-exaltation school (Raman HPA ch.6; Bhavartha Ratnakara 15.9)"
+    ],
+    "lagna_or_context_notes": "Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.6 (p.19)",
+        "view": "Rahu is exalted at 20 degrees of Taurus and Ketu at 20 degrees of Scorpio.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.9 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Ketu, Pisces is own house, Libra friendly, Aquarius own house, Scorpio the place of exaltation, and Sagittarius and Capricorn the moolatrikona places.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Sarvartha Chintamani (via summary, astrojagriti.substack.com)",
+        "view": "Ketu exalted in Scorpio, implying debilitation in Taurus.",
+        "url": "https://astrojagriti.substack.com/p/rahu-ketu-debilitation"
+      },
+      {
+        "source": "Wikipedia, Ketu",
+        "view": "Says BPHS gives Ketu exalted in Scorpio and debilitated in Taurus, disputed by many astrologers.",
+        "url": "https://en.wikipedia.org/wiki/Ketu_(mythology)"
+      },
+      {
+        "source": "BPHS 45.135",
+        "view": "Taurus among signs favourable for Ketu in the shayana state.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-45/verse-135"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Taurus: dangers, wealth through doubtful means, sorrows, visits to shrines, success in religious study.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The only node placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes; no fall is given; as enemies of the Sun and Moon the nodes may do worse in their signs. Ketu is not in the friendship scheme, but Rahu's enemies are taken as Ketu's.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "astromedha.in, Ketu in Taurus (via summary)",
+        "view": "Debilitated; financial anxiety, gain-loss cycles, hollowness after success.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-taurus"
+      }
+    ],
+    "disagreements": "Debilitation (Scorpio school: Raman, Bhavartha Ratnakara, Sarvartha Chintamani) vs neutral (Sagittarius school). Braha says no fall is given for the nodes. BPHS 45.135 treats Taurus as favourable in a specific avastha; Raman's ch.15 rule favours nodes in benefics' signs.",
+    "confidence": "low",
+    "phrasing_guidance": "Present as learning contentment and inner security. Do not predict financial ruin or health problems."
+  },
+  {
+    "id": "planet_in_sign/ketu/gemini",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Gemini"
+    },
+    "summary": "Gemini's dignity for Ketu is directly disputed: debilitation in the Sagittarius-exaltation school, exaltation in Jatakalankaram (as reported), and one of the two agreed strong signs for both nodes in Braha and Frawley's second view. Raman's dasa note is favourable: happiness, high position and founding of sacred institutions.",
+    "themes": [
+      "disputed dignity",
+      "intuitive intellect",
+      "restless mind",
+      "communication gaps",
+      "siblings"
+    ],
+    "common_outcomes": [
+      "Raman's dasa note: good health, happiness, elevation to responsible positions, founding of sacred institutions, later some loss of reputation (HPA ch.24)",
+      "Braha: either node flourishes in Gemini",
+      "Mental restlessness; intuitive rather than step-by-step thinking (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Jatakalankaram (via summary): Ketu exalted in Gemini, debilitated in Sagittarius",
+      "BPHS 45.135: Gemini among favourable signs for Ketu in shayana avastha"
+    ],
+    "by_area": {
+      "personality": "Quick but scattered (astromedha.in, via summary).",
+      "career": "Elevation to responsible positions in Ketu's dasa (Raman HPA ch.24).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Founding of sacred institutions in Ketu's dasa (Raman HPA ch.24)."
+    },
+    "strengtheners": [
+      "Strong Mercury (dispositor; Frawley p.258)",
+      "Braha: the nodes do better in the 3rd, 6th, 10th and 11th; Frawley instead counts the 3rd, 6th and 8th difficult for Ketu and the 12th good"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted or combust Mercury (Frawley p.258)"
+    ],
+    "lagna_or_context_notes": "Braha: Ketu in Gemini or Virgo in the 1st house is treated as exalted. Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The only node placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes; no fall is given; as enemies of the Sun and Moon the nodes may do worse in their signs. Ketu is not in the friendship scheme, but Rahu's enemies are taken as Ketu's.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers p.125",
+        "view": "The nodes are sometimes given exaltation at 20 Taurus (Rahu) and 20 Scorpio (Ketu); other Vedic astrologers say both are exalted in Gemini and Virgo.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Jatakalankaram (via summary, astrojagriti.substack.com)",
+        "view": "Ketu exalted in Gemini, debilitated in Sagittarius.",
+        "url": "https://astrojagriti.substack.com/p/rahu-ketu-debilitation"
+      },
+      {
+        "source": "Wikipedia, Ketu",
+        "view": "Modern majority (as stated): Ketu exalted in Sagittarius, debilitated in Gemini.",
+        "url": "https://en.wikipedia.org/wiki/Ketu_(mythology)"
+      },
+      {
+        "source": "BPHS 45.135",
+        "view": "Gemini among favourable signs for Ketu in the shayana state.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-45/verse-135"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Gemini: good health, happiness, elevation to responsible positions, founding of sacred institutions; later some loss of reputation.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Ketu in Gemini (via summary)",
+        "view": "Mercury-dependent; mental fragmentation, restlessness, sibling tension.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-gemini"
+      }
+    ],
+    "disagreements": "Directly contradictory: debilitation (Sagittarius school, Wikipedia), exaltation (Jatakalankaram; Braha and Frawley's second view for both nodes), neutral (Scorpio school). Raman's dasa note sides with the favourable readings.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe an intuitive, non-linear mind; mention communication as a growth area. Say traditions disagree on strength."
+  },
+  {
+    "id": "planet_in_sign/ketu/cancer",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Cancer"
+    },
+    "summary": "Ketu in Cancer, the Moon's sign, detaches from home and emotional comfort. Braha expects the nodes to do worse in the luminaries' signs and Raman's dasa note speaks of displacement and family strain, yet both Raman and Foss see a turn toward philosophy and meditation; in one Jataka Bharanam view the Moon is Ketu's friend.",
+    "themes": [
+      "neutral/enemy sign",
+      "emotional detachment",
+      "intuition",
+      "home and mother",
+      "inner restlessness"
+    ],
+    "common_outcomes": [
+      "Raman's dasa note: displacement from one's place, family strain, quarrels with friends, and initiation into philosophical knowledge (HPA ch.24)",
+      "Foss: Ketu in the 4th or in Cancer with the Moon can open a meditative bliss, if one turns to it (name 61)",
+      "Heightened intuition; difficulty receiving comfort (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "Quarrels with friends in Ketu's dasa (Raman HPA ch.24).",
+      "family": "Displacement from home and family strain are themes, not certainties (Raman HPA ch.24).",
+      "spirituality": "Philosophical initiation (Raman HPA ch.24); meditation as the route to Ketu's bliss (Foss, name 61)."
+    },
+    "strengtheners": [
+      "Strong, well-aspected Moon (dispositor; Frawley p.258)",
+      "Meditation practice (Foss, name 61)"
+    ],
+    "weakeners_or_cancellations": [
+      "Weak Moon (Frawley p.258)",
+      "Braha: the nodes, as enemies of the luminaries, may give worse results in the Moon's sign",
+      "Frawley: the nodes in water signs tend to negate the water element (p.115)"
+    ],
+    "lagna_or_context_notes": "Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The only node placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes; no fall is given; as enemies of the Sun and Moon the nodes may do worse in their signs. Ketu is not in the friendship scheme, but Rahu's enemies are taken as Ketu's.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Ketu's home is the seventh from Rahu's Virgo (Pisces). 'Some': Ketu exalted in Scorpio. One teacher: Ketu's trine Leo, exaltation Sagittarius (peak 6 degrees), home Pisces; Venus and Saturn enemies, Sun, Mars and Moon friends, Jupiter and Mercury neutral.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu (commentary on Ketu's 108 names, archive.org), name 61",
+        "view": "In the 4th house Ketu brings happiness in the sense of pure being; this could also apply to Ketu in Cancer with the Moon; if unhappy, take up meditation.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Cancer: dangers, displacement and a period of exile, family illness, quarrels with friends, initiation into philosophical knowledge.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Ketu in Cancer (via summary)",
+        "view": "Emotional numbness, intuition, detachment from home, restless inner life.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-cancer"
+      }
+    ],
+    "disagreements": "Braha treats the luminaries' signs as hard for both nodes, but one teacher in Jataka Bharanam makes the Moon Ketu's friend. Raman and Foss both find a spiritual upside despite the domestic strain.",
+    "confidence": "low",
+    "phrasing_guidance": "Speak of inner self-reliance and intuition; never predict loss of mother or home."
+  },
+  {
+    "id": "planet_in_sign/ketu/leo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Leo"
+    },
+    "summary": "Ketu in Leo detaches from ego and applause. Foss reads Ketu's name 'lion-toothed' as exceptional strength in Leo and links Ketu to Magha's throne; one teacher in Jataka Bharanam gives Leo as Ketu's moolatrikona; Raman's dasa note is favourable. Braha, against this, expects worse results in the Sun's sign.",
+    "themes": [
+      "detachment from ego",
+      "quiet confidence",
+      "fearless of authority",
+      "mentoring",
+      "hollow praise"
+    ],
+    "common_outcomes": [
+      "Exceptional strength of Ketu in Leo (Foss, name 70)",
+      "Raman's dasa note: increase of lands, progress in education, debates with scholars, travel for a righteous cause, music (HPA ch.24)",
+      "Confidence without need for applause (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Jataka Bharanam: one teacher gives Leo as Ketu's moolatrikona",
+      "Foss: Ketu, lord of Magha (the throne nakshatra in Leo), is the key planet in the British monarchy's chart (name 27)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Increase of lands in Ketu's dasa (Raman HPA ch.24).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Philosophical and scientific debate with scholars (Raman HPA ch.24); ego-transcendence (astromedha.in, via summary)."
+    },
+    "strengtheners": [
+      "Strong Sun (dispositor) not conjunct Ketu (Frawley p.258)",
+      "Foss: Ketu has exceptional strength in Leo (name 70)"
+    ],
+    "weakeners_or_cancellations": [
+      "Braha: the nodes may give worse results in the luminaries' signs",
+      "Weak Sun (Frawley p.258)"
+    ],
+    "lagna_or_context_notes": "Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Ketu's home is the seventh from Rahu's Virgo (Pisces). 'Some': Ketu exalted in Scorpio. One teacher: Ketu's trine Leo, exaltation Sagittarius (peak 6 degrees), home Pisces; Venus and Saturn enemies, Sun, Mars and Moon friends, Jupiter and Mercury neutral.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu (commentary on Ketu's 108 names, archive.org), names 27 and 70",
+        "view": "'Lion-toothed' hints at Ketu's exceptional strength in Leo; Ketu rules Magha, the throne nakshatra in Leo.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Leo: increase of lands, progress in education, debates with scholars, travels for a righteous cause, music.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The only node placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes; no fall is given; as enemies of the Sun and Moon the nodes may do worse in their signs. Ketu is not in the friendship scheme, but Rahu's enemies are taken as Ketu's.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "astromedha.in, Ketu in Leo (via summary)",
+        "view": "Hollow-feeling confidence, creative abandonment, fearlessness toward authority, mentoring.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-leo"
+      }
+    ],
+    "disagreements": "Strong or moolatrikona (Foss; one teacher in Jataka Bharanam) vs worse in a luminary's sign (Braha). Raman's dasa note is favourable.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe humble confidence and generosity; avoid saying the person 'abandons' things; say interest may move on once a goal is reached."
+  },
+  {
+    "id": "planet_in_sign/ketu/virgo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Virgo"
+    },
+    "summary": "Ketu in Virgo has contested dignity: Braha and Frawley's second view make Mercury's signs the exaltation of both nodes, Wikipedia says Ketu co-rules Virgo, and BPHS lists Virgo among Ketu's favourable signs; in Jataka Bharanam's main view Virgo is Rahu's own sign instead. Raman's dasa note is one of his harshest.",
+    "themes": [
+      "disputed dignity",
+      "analytical detachment",
+      "perfectionism",
+      "service",
+      "routine restlessness"
+    ],
+    "common_outcomes": [
+      "Braha: either node flourishes in Virgo",
+      "Raman's dasa note: risks, losses and loss of self-respect (HPA ch.24)",
+      "Precise, detached analysis and perfectionism (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "BPHS 45.135: Virgo among signs where Ketu in shayana avastha brings wealth"
+    ],
+    "by_area": {
+      "personality": "Exacting and self-critical (astromedha.in, via summary).",
+      "career": "",
+      "finance": "Wealth even in a weak state (BPHS 45.135).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Mercury (dispositor; Frawley p.258)",
+      "Braha: the nodes do better in the 3rd, 6th, 10th and 11th; Frawley instead counts the 3rd, 6th and 8th difficult for Ketu and the 12th good"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Mercury (Frawley p.258)"
+    ],
+    "lagna_or_context_notes": "Braha: Ketu in Gemini or Virgo in the 1st house is treated as exalted. Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "BPHS 45.135",
+        "view": "Virgo among favourable signs for Ketu in the shayana state.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-45/verse-135"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The only node placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes; no fall is given; as enemies of the Sun and Moon the nodes may do worse in their signs. Ketu is not in the friendship scheme, but Rahu's enemies are taken as Ketu's.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers p.125",
+        "view": "The nodes are sometimes given exaltation at 20 Taurus (Rahu) and 20 Scorpio (Ketu); other Vedic astrologers say both are exalted in Gemini and Virgo.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Ketu's home is the seventh from Rahu's Virgo (Pisces). 'Some': Ketu exalted in Scorpio. One teacher: Ketu's trine Leo, exaltation Sagittarius (peak 6 degrees), home Pisces; Venus and Saturn enemies, Sun, Mars and Moon friends, Jupiter and Mercury neutral.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "Wikipedia, Ketu",
+        "view": "States Ketu rules Virgo together with Mercury (uncited).",
+        "url": "https://en.wikipedia.org/wiki/Ketu_(mythology)"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Virgo: fear from fire, weapons and poisonous gases, losses of property and self-respect, wrong acts.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Ketu in Virgo (via summary)",
+        "view": "Detached precision, restlessness with routine, perfectionism.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-virgo"
+      }
+    ],
+    "disagreements": "Exaltation for both nodes (Braha, Frawley's second view) or co-rulership (Wikipedia) vs Virgo as Rahu's own sign (Jataka Bharanam main view) vs neutral. Bhavartha Ratnakara 15.9 does not name Virgo for Ketu. Raman's dasa note is strongly negative.",
+    "confidence": "low",
+    "phrasing_guidance": "Highlight precise analysis and service; frame perfectionism as something to relax. No digestive or nervous-system claims."
+  },
+  {
+    "id": "planet_in_sign/ketu/libra",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Libra"
+    },
+    "summary": "Ketu in Libra, Venus's sign, detaches from partnership and social harmony. Bhavartha Ratnakara lists Libra as friendly to Ketu, while one Jataka Bharanam teacher makes Venus Ketu's enemy. Raman's dasa note is mixed: prosperity for spouse and children and gains from gold and gems, with friction among relatives.",
+    "themes": [
+      "neutral sign",
+      "detachment in partnership",
+      "fairness",
+      "aesthetics",
+      "indecision"
+    ],
+    "common_outcomes": [
+      "Raman's dasa note: happiness and prosperity for spouse and children, gains from gold and precious stones, enmity of relatives and discontent (HPA ch.24)",
+      "Emotional distance or indecision in partnership (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Bhavartha Ratnakara 15.9 calls Libra a friendly sign for Ketu"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Gains from gold and gems in Ketu's dasa (Raman HPA ch.24).",
+      "health": "",
+      "relationships": "Prosperity for the spouse (Raman HPA ch.24); indecision about commitment (astromedha.in, via summary).",
+      "family": "Enmity of relations (Raman HPA ch.24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Venus (dispositor; Frawley p.258); Libra is a benefic's sign, favourable for the nodes per Raman (HPA ch.15)",
+      "Ketu joined to a planet in its own or exaltation sign, e.g. Venus in Libra, gains power (Frawley pp.105-106)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Venus (Frawley p.258)",
+      "One teacher in Jataka Bharanam makes Venus Ketu's enemy"
+    ],
+    "lagna_or_context_notes": "Frawley's example: Venus in Libra in the 2nd joined by Ketu gives wealth (pp.105-106). Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.9 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Ketu, Pisces is own house, Libra friendly, Aquarius own house, Scorpio the place of exaltation, and Sagittarius and Capricorn the moolatrikona places.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Ketu's home is the seventh from Rahu's Virgo (Pisces). 'Some': Ketu exalted in Scorpio. One teacher: Ketu's trine Leo, exaltation Sagittarius (peak 6 degrees), home Pisces; Venus and Saturn enemies, Sun, Mars and Moon friends, Jupiter and Mercury neutral.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers pp.105-106",
+        "view": "Ketu boosts strong planets it joins; Venus in Libra in the 2nd with Ketu, for example, gives wealth.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Libra: happiness and prosperity for spouse and children, enmity of relatives, gains from gold and gems, some health complaints, discontent.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.15 (pp.75-76)",
+        "view": "Rahu and Ketu give good results in the signs of benefic planets and evil results in evil signs.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Ketu in Libra (via summary)",
+        "view": "Emotional distance, decision paralysis over partners, surface harmony, aesthetic insight.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-libra"
+      }
+    ],
+    "disagreements": "Friendly (Bhavartha Ratnakara) vs inimical (Venus as Ketu's enemy in one Jataka Bharanam view). Raman's dasa note is mixed.",
+    "confidence": "low",
+    "phrasing_guidance": "Speak of a refined sense of fairness and the value of honest engagement in relationships. Do not predict divorce or separation."
+  },
+  {
+    "id": "planet_in_sign/ketu/scorpio",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Scorpio"
+    },
+    "summary": "Scorpio is the most often cited exaltation of Ketu (Raman, Bhavartha Ratnakara, Sarvartha Chintamani as reported), and BPHS assigns the sign group from Scorpio to Ketu as its own; Frawley, Foss and Rath treat Ketu as co-ruler of Scorpio. In Mars's sign the Mars-like node is strong, though Raman's dasa note mixes wealth with dependence.",
+    "themes": [
+      "exaltation / own (majority view)",
+      "penetrating intuition",
+      "occult and research",
+      "crisis strength",
+      "isolation"
+    ],
+    "common_outcomes": [
+      "Strength of the Mars-like node in Mars's sign (Frawley p.103; Foss, name 5)",
+      "Raman's dasa note: much wealth and gains from lands, alongside dependence on relatives (HPA ch.24)",
+      "Penetrating intuition and research ability (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "BPHS 50.42: undertakings begun in Ketu's dasa while Ketu is in its own sign group (from Scorpio) are auspicious",
+      "Frawley: Mars in Scorpio in the 3rd joined by Ketu can give great military prowess (p.106)"
+    ],
+    "by_area": {
+      "personality": "Intense and perceptive (astromedha.in, via summary).",
+      "career": "",
+      "finance": "Much wealth and gains from lands in Ketu's dasa (Raman HPA ch.24).",
+      "health": "",
+      "relationships": "",
+      "family": "Dependence on relatives in Ketu's dasa (Raman HPA ch.24).",
+      "spirituality": "Occult and transformative interests (astromedha.in, via summary)."
+    },
+    "strengtheners": [
+      "Strong Mars (dispositor; Frawley p.258); Rath and Frawley also weigh Ketu as co-lord",
+      "Ketu joined with a strong Mars in Scorpio (Frawley p.106)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Mars (Frawley p.258)",
+      "Frawley: the nodes in water signs tend to negate the water element (p.115)"
+    ],
+    "lagna_or_context_notes": "Rath reads Scorpio dasas through Ketu as co-lord. Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.6 (p.19)",
+        "view": "Rahu is exalted at 20 degrees of Taurus and Ketu at 20 degrees of Scorpio.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.9 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Ketu, Pisces is own house, Libra friendly, Aquarius own house, Scorpio the place of exaltation, and Sagittarius and Capricorn the moolatrikona places.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "BPHS 50.42 (Sanskrit with gloss, enjoylearningsanskrit.com numbering)",
+        "view": "Sign group beginning with Scorpio is Ketu's own; new undertakings in its dasa there are auspicious.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-50/verse-42"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers pp.106, 109-110",
+        "view": "Ketu and Rahu are often considered co-rulers of Scorpio and Aquarius; Ketu with Mars in Scorpio can give great prowess.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998) (chart examples of Scorpio dasas)",
+        "view": "Treats Ketu as co-lord of Scorpio with Mars.",
+        "url": "https://archive.org/details/sanjayrathcruxofvedicastrologytimingofevents19982"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu, name 2 (archive.org)",
+        "view": "Scorpio and Aquarius are the signs owned by Ketu and Rahu.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sarvartha Chintamani (via summary)",
+        "view": "Ketu exalted in Scorpio.",
+        "url": "https://astrojagriti.substack.com/p/rahu-ketu-debilitation"
+      },
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Ketu's home is the seventh from Rahu's Virgo (Pisces). 'Some': Ketu exalted in Scorpio. One teacher: Ketu's trine Leo, exaltation Sagittarius (peak 6 degrees), home Pisces; Venus and Saturn enemies, Sun, Mars and Moon friends, Jupiter and Mercury neutral.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Scorpio: dependence on relations, flattery, much wealth, gains from lands, new friendships.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Ketu in Scorpio (via summary)",
+        "view": "Exalted; intuition, occult aptitude, crisis fearlessness, suspicion.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-scorpio"
+      }
+    ],
+    "disagreements": "Exaltation (Raman, Bhavartha Ratnakara, Sarvartha Chintamani) vs own or co-ruled sign (BPHS 50.42, Frawley, Foss, Rath) vs neutral under the Sagittarius-exaltation school. Both strong readings agree it is a good sign for Ketu.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe depth, perception and resilience; present dignity as 'widely considered strong'. Avoid sensational occult language."
+  },
+  {
+    "id": "planet_in_sign/ketu/sagittarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Sagittarius"
+    },
+    "summary": "Sagittarius is Ketu's exaltation in one teacher's view in Jataka Bharanam and, per Wikipedia, among most modern astrologers; Bhavartha Ratnakara calls it Ketu's moolatrikona, while Jatakalankaram (as reported) makes it the debilitation. Raman's dasa note is among his best for Ketu: harmony, education, religious discussion and moral elevation.",
+    "themes": [
+      "exaltation (one school)",
+      "philosophical clarity",
+      "teaching without ego",
+      "foreign cultures",
+      "perpetual seeking"
+    ],
+    "common_outcomes": [
+      "Raman's dasa note: domestic harmony, favour of the eminent, progress in education, religious discussion, moral elevation, tolerance (HPA ch.24)",
+      "Clear, intuitive grasp of philosophy; teaching without ego (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Jatakalankaram (via summary): debilitation in Sagittarius",
+      "Jataka Bharanam: one teacher puts Ketu's highest exaltation at 6 degrees of Sagittarius"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "Domestic harmony and happiness in Ketu's dasa (Raman HPA ch.24).",
+      "spirituality": "Religious discussion, moral elevation and tolerance (Raman HPA ch.24)."
+    },
+    "strengtheners": [
+      "Strong Jupiter (dispositor; Frawley p.258); Sagittarius is a benefic's sign, favourable for the nodes per Raman (HPA ch.15)",
+      "Frawley: Ketu in the 12th unafflicted is strong (p.259)"
+    ],
+    "weakeners_or_cancellations": [
+      "Weak or afflicted Jupiter (Frawley p.258)"
+    ],
+    "lagna_or_context_notes": "Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Ketu's home is the seventh from Rahu's Virgo (Pisces). 'Some': Ketu exalted in Scorpio. One teacher: Ketu's trine Leo, exaltation Sagittarius (peak 6 degrees), home Pisces; Venus and Saturn enemies, Sun, Mars and Moon friends, Jupiter and Mercury neutral.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.9 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Ketu, Pisces is own house, Libra friendly, Aquarius own house, Scorpio the place of exaltation, and Sagittarius and Capricorn the moolatrikona places.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Wikipedia, Ketu",
+        "view": "Most modern astrologers (as stated) put Ketu exalted in Sagittarius and debilitated in Gemini.",
+        "url": "https://en.wikipedia.org/wiki/Ketu_(mythology)"
+      },
+      {
+        "source": "Jatakalankaram (via summary)",
+        "view": "Ketu debilitated in Sagittarius.",
+        "url": "https://astrojagriti.substack.com/p/rahu-ketu-debilitation"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Sagittarius: domestic harmony, favour of aristocrats, education, religious discussions, moral elevation, tolerance.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.15 (pp.75-76)",
+        "view": "Rahu and Ketu give good results in the signs of benefic planets and evil results in evil signs.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Ketu in Sagittarius (via summary)",
+        "view": "Philosophical clarity, teaching without ego, chronic seekership.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-sagittarius"
+      }
+    ],
+    "disagreements": "Exaltation (one teacher in Jataka Bharanam, modern majority per Wikipedia) vs moolatrikona (Bhavartha Ratnakara) vs debilitation (Jatakalankaram) vs neutral (Scorpio school). Raman's dasa note is favourable.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe a natural seeker with clear insight; state that traditions differ on dignity. Do not discourage formal study."
+  },
+  {
+    "id": "planet_in_sign/ketu/capricorn",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Capricorn"
+    },
+    "summary": "Ketu in Capricorn detaches from ambition and status. Bhavartha Ratnakara gives Capricorn (with Sagittarius) as Ketu's moolatrikona and Foss says Ketu in Capricorn or the 10th can raise a career to great heights, but Raman's dasa note warns of financial impropriety, family illness and disgrace.",
+    "themes": [
+      "neutral sign",
+      "detachment from status",
+      "self-sabotaged ambition",
+      "cynicism about institutions",
+      "quiet competence"
+    ],
+    "common_outcomes": [
+      "Foss: Ketu in Capricorn or the 10th can raise the career to great heights, often through an unusual approach (name 78)",
+      "Raman's dasa note: risk of misusing funds, anxiety, misunderstandings with relatives and disappointment (HPA ch.24)",
+      "Scepticism toward institutions; success that can feel hollow (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Bhavartha Ratnakara 15.9: Capricorn is a moolatrikona of Ketu"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Unusual professional path that can rise high (Foss, name 78).",
+      "finance": "Raman's dasa note warns of mishandled funds (HPA ch.24).",
+      "health": "",
+      "relationships": "",
+      "family": "Misunderstandings with relations in Ketu's dasa (Raman HPA ch.24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Saturn (dispositor; Frawley p.258); Frawley's worked example calls Saturn Ketu's permanent friend (p.131)",
+      "Braha: the nodes do better in the 3rd, 6th, 10th and 11th; Frawley instead counts the 3rd, 6th and 8th difficult for Ketu and the 12th good"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Saturn (Frawley p.258)",
+      "One teacher in Jataka Bharanam makes Saturn Ketu's enemy"
+    ],
+    "lagna_or_context_notes": "Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.9 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Ketu, Pisces is own house, Libra friendly, Aquarius own house, Scorpio the place of exaltation, and Sagittarius and Capricorn the moolatrikona places.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Ketu (commentary on Ketu's 108 names, archive.org), name 78",
+        "view": "If Ketu falls in the 10th house or in Capricorn it can raise the career to great heights, often through an unusual approach.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers p.131",
+        "view": "Worked example: Ketu in Capricorn is in the sign of Saturn, its permanent friend.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Ketu's home is the seventh from Rahu's Virgo (Pisces). 'Some': Ketu exalted in Scorpio. One teacher: Ketu's trine Leo, exaltation Sagittarius (peak 6 degrees), home Pisces; Venus and Saturn enemies, Sun, Mars and Moon friends, Jupiter and Mercury neutral.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Capricorn: misappropriation of funds and prosecution, family illness, anxiety, misunderstandings with relations, disgrace.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Ketu in Capricorn (via summary)",
+        "view": "Self-sabotage of ambition, cynicism toward authority, guardedness, hollow success.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-capricorn"
+      }
+    ],
+    "disagreements": "Moolatrikona (Bhavartha Ratnakara) and Saturn as friend (Frawley) vs Saturn as enemy (one Jataka Bharanam teacher). Foss is favourable for career; Raman's dasa note is harsh.",
+    "confidence": "low",
+    "phrasing_guidance": "Speak of competence without attachment to status. Avoid physical health claims (joints, fatigue) found in some modern sites."
+  },
+  {
+    "id": "planet_in_sign/ketu/aquarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Aquarius"
+    },
+    "summary": "Ketu in Aquarius has unusual support: Bhavartha Ratnakara calls Aquarius one of Ketu's own houses, and one opinion in Jataka Bharanam even places Ketu's exaltation here, although most sources give Aquarius to Rahu. Raman's dasa note is harsh at first, with happiness for family at the end.",
+    "themes": [
+      "neutral sign (mostly)",
+      "detachment from groups",
+      "systems intuition",
+      "impersonal style",
+      "sudden withdrawal"
+    ],
+    "common_outcomes": [
+      "Raman's dasa note: displeasure of superiors, pessimism and dependency, ending in happiness and prosperity for spouse and children (HPA ch.24)",
+      "Intuitive grasp of groups and systems; sudden withdrawal from communities (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Jataka Bharanam p.414 (via summary): some authorities put Ketu's exaltation in Aquarius (with Rahu's in Scorpio)",
+      "Bhavartha Ratnakara 15.9: Aquarius is an own house of Ketu"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Friction with superiors in Ketu's dasa (Raman HPA ch.24).",
+      "finance": "",
+      "health": "",
+      "relationships": "Friendly yet detached (astromedha.in, via summary).",
+      "family": "Happiness for spouse and children late in Ketu's dasa (Raman HPA ch.24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Saturn (dispositor; Frawley p.258)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Saturn (Frawley p.258)",
+      "Aquarius is Rahu's own or co-ruled sign in most schemes (BPHS 50.42, Frawley, Foss, Rath)"
+    ],
+    "lagna_or_context_notes": "Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.9 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Ketu, Pisces is own house, Libra friendly, Aquarius own house, Scorpio the place of exaltation, and Sagittarius and Capricorn the moolatrikona places.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Jataka Bharanam, nodes page 414 (AI translation) (via summary)",
+        "view": "Some authorities place Rahu's exaltation in Scorpio and Ketu's in Aquarius.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/414"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers pp.109-110",
+        "view": "Rahu and Ketu are often considered co-rulers of Aquarius and Scorpio, respectively.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Aquarius: hatred and displeasure of superiors, pessimism, dependency; in the end happiness and prosperity for spouse and children.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Ketu in Aquarius (via summary)",
+        "view": "Familiarity with group causes, sudden withdrawal, systems intuition.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-aquarius"
+      }
+    ],
+    "disagreements": "Own house (Bhavartha Ratnakara) or exaltation (a minority in Jataka Bharanam) vs Rahu's own sign in most schemes. Raman's dasa note is mostly harsh.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe independent, system-minded insight; frame withdrawal as a need for space, not rejection."
+  },
+  {
+    "id": "planet_in_sign/ketu/pisces",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Ketu",
+      "sign": "Pisces"
+    },
+    "summary": "Pisces is Ketu's own sign in Jataka Bharanam's main view and in Bhavartha Ratnakara 15.9, and Frawley names Ketu the special significator of liberation (p.155). Raman's dasa note is among his most favourable for Ketu: learned discussions, success, helping the suffering and religious devotion.",
+    "themes": [
+      "own sign (one school)",
+      "moksha",
+      "spiritual fluency",
+      "compassion",
+      "boundaries"
+    ],
+    "common_outcomes": [
+      "Raman's dasa note: learned discussions, general success, helping the suffering, promotion, favour of superiors, religious devotion, clear understanding, travel over water (HPA ch.24)",
+      "Ease with meditation and esoteric subjects; unclear boundaries (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Raman's dasa note also mentions a spell of low mood within otherwise good results"
+    ],
+    "by_area": {
+      "personality": "Gentle and detached (astromedha.in, via summary).",
+      "career": "Promotion and favour of superiors (Raman HPA ch.24); counselling, care, music and spiritual institutions (astromedha.in, via summary).",
+      "finance": "Acquisition of fertile lands (Raman HPA ch.24).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Very strong: religious devotion (Raman HPA ch.24); Ketu as significator of liberation (Frawley p.155, judged from the 12th house)."
+    },
+    "strengtheners": [
+      "Strong, well-aspected Jupiter (dispositor; Frawley p.258); Pisces is a benefic's sign, favourable for the nodes per Raman (HPA ch.15)",
+      "Ketu in the 12th house unaspected by malefics is strong (Frawley p.259)"
+    ],
+    "weakeners_or_cancellations": [
+      "Weak or afflicted Jupiter (Frawley p.258)",
+      "Frawley: the nodes in water signs tend to negate the water element (p.115)"
+    ],
+    "lagna_or_context_notes": "Ketu gives results through its sign lord: a weak sign lord gives a weak Ketu (Frawley p.258); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Ketu's home is the seventh from Rahu's Virgo (Pisces). 'Some': Ketu exalted in Scorpio. One teacher: Ketu's trine Leo, exaltation Sagittarius (peak 6 degrees), home Pisces; Venus and Saturn enemies, Sun, Mars and Moon friends, Jupiter and Mercury neutral.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.9 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Ketu, Pisces is own house, Libra friendly, Aquarius own house, Scorpio the place of exaltation, and Sagittarius and Capricorn the moolatrikona places.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers pp.258-259",
+        "view": "Ketu is strong with a benefic in its own or exaltation sign or in the 12th house unafflicted, increasing knowledge, insight and concentration.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Ketu's dasa by sign (pp.164-166)",
+        "view": "Ketu in Pisces: learned discussions, general success, helping the suffering, some depression, promotion, fertile lands, favour of superiors, religious devotion, clear understanding, sea travel.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.15 (pp.75-76)",
+        "view": "Rahu and Ketu give good results in the signs of benefic planets and evil results in evil signs.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Ketu in Pisces (via summary)",
+        "view": "Neutral (no own sign for Ketu); spiritual fluency, avoidance, escapism; Jupiter strength key.",
+        "url": "https://astromedha.in/insights/vedic/ketu-in-pisces"
+      }
+    ],
+    "disagreements": "Own sign (Jataka Bharanam main view, Bhavartha Ratnakara) vs neutral with no ownership (astromedha and many modern writers) vs Scorpio as Ketu's own (BPHS 50.42, Frawley, Rath). Raman's dasa note supports a favourable reading.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe spiritual depth and compassion with practical grounding. No claims about mental health or substance use as predictions."
+  }
+]

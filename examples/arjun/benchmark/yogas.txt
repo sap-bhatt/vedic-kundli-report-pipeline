@@ -1,0 +1,57 @@
+10Yogas and doshas
+
+A yoga is a planetary combination with a named result; a dosha is a combination considered afflicting. Modern software detects dozens of them, often with loose definitions, so the useful question is not "is it present?" but "how strong is it, and does the rest of the chart support it?" The computation behind this report records which variant of each rule fired; that is reflected in the weights below.
+
+Table 11. Yogas present, with their weight in this chart
+
+ | | Yoga | How it forms here | Meaning and assessment | Weight
+
+ | Raja Yoga (Mars–Jupiter) | Lagna lord Mars (1st, a kendra and trikona) and 9th lord Jupiter in mutual aspect, 9th–3rd axis | Parashara's Raja Yoga chapter (BPHS ch. 39) repeatedly singles out the lagna lord and the 9th lord as the core of royal yogas. The lord of the self linked with the lord of fortune: effort rewarded, protection, principled success. Formed by aspect rather than conjunction, and Jupiter is in an enemy sign, but Mars is in Jupiter's own sign, which strengthens the bond. | Medium–High
+
+ | Raja Yoga (Moon–Sun) | 4th lord Moon and 5th lord Sun in mutual aspect across the 5th–11th axis | Kendra lord and trikona lord connected: status, comfort, recognition, success through intelligence and people. The Sun is in its own sign and the Moon is full, so both partners are strong; the yoga is formed from the 5th and 11th rather than from angles. | Medium
+
+ | Dhana Yoga (Mars–Jupiter) | Lords of the 1st and 9th (wealth-house lords) in mutual aspect | Wealth through his own initiative, learning and fortune; supports the Raja Yoga above. | Medium
+
+ | Harsha (Viparita) | 6th lord Mercury in the 6th, exalted in its own sign; the strict form fires | Phaladeepika (ch. 6, sl. 63): happiness, enjoyment, good fortune, strong constitution, wealth, friends, fame. Victory over rivals and success in competition. Mercury is debilitated in the navamsa, which tempers but does not cancel this. | Medium–High
+
+ | Lords of career and gains in the 2nd (Saturn) | 10th and 11th lord Saturn in the 2nd | Not a named yoga in the computation, but Parashara (BPHS ch. 24, vv. 110, 122) gives both placements wealth and accomplishment, and modern authors count the 11th lord in the 2nd as a Dhana combination. Slow-building wealth through work. | Medium
+
+ | Kemadruma (cancelled) | No planet in the 2nd or 12th from the Moon | Phaladeepika (ch. 6, sl. 5) defines the yoga and notes the view that there is no Kemadruma when a planet is in a kendra from the Moon. Here Saturn is in a kendra (4th) from the Moon, Venus is in a kendra from the lagna, and Jupiter aspects the Moon: cancelled several times over. At most, occasional feelings of isolation. | Low
+
+ | Guru-Chandal | Jupiter with Rahu in Gemini, 7°42' apart, both in Ardra (Rahu's nakshatra) | A modern name, not found in BPHS or Phaladeepika. Commonly read as unconventional beliefs, tension with teachers or tradition, and ethical tests; also wide learning and boldness. In the 3rd, an upachaya house, Rahu does well, and Jupiter keeps its aspects on the Moon, 7th and 9th. | Medium (as an affliction)
+
+Doshas
+
+Table 12. Dosha checks
+
+ | Dosha | Status | Comment
+
+ | Manglik (Kuja) | Absent | Mars is 9th from the lagna, 11th from the Moon and 6th from Venus: none of the Manglik houses. See section 7.
+
+ | Kaal Sarp | Absent | The Moon and Saturn lie outside the Rahu–Ketu axis (Vasuki pattern only partially formed). The concept does not appear in BPHS, Phaladeepika or Saravali and is widely regarded as a late addition.
+
+ | Pitra (ancestral) dosha flags | Two broad modern flags fire: Mars with Ketu; the 9th lord Jupiter with Rahu | A modern category, not a classical yoga. The narrower definitions, which require the Sun with a node or an afflicted Sun in the 9th, are not met: the Sun is strong in its own sign. Its useful content is the 9th-house/father theme already discussed. Traditional responses are gratitude and service to elders and ancestors (e.g. offerings during Pitru Paksha), not fear.
+
+ | Guru-Chandal | Present | See above.
+
+ | Shrapit, Angarak, Ghata, Gandamoola | Absent | None of these combinations occurs. Mars is with Ketu, not Rahu, so Angarak does not apply.
+
+ | Sade Sati / Dhaiya | Currently in Sade Sati, setting phase (Saturn 2nd from the Moon) | From 29 Mar 2025 to 3 Jun 2027, then 20 Oct 2027 to 23 Feb 2028, when the first Sade Sati ends. See section 11.
+
+Notable yogas that are absent
+
+Bhadra: Mercury is exalted in its own sign, but in the 6th house, not a kendra, so this great "Mercury" Mahapurusha yoga narrowly misses. The quality of Mercury remains; it works through service and competition rather than public prominence.
+
+Ruchaka: the lagna lord Mars is in a trine (9th), not in a kendra or in its own or exaltation sign.
+
+Gajakesari: Jupiter is 5th from the Moon, a trine rather than a kendra. Jupiter's aspect on the Moon still gives part of the same protection.
+
+Budhaditya: the Sun and Mercury are in different signs (Leo and Virgo).
+
+Dharma-Karmadhipati (9th and 10th lords connected): Jupiter and Saturn have no link here, and Parashara adds that for Aries their association alone does not create a yoga in any case. Lakshmi, Saraswati, Amala, Parivartana and Chandra-Mangala are also absent.
+
+Shakata (Moon 6th, 8th or 12th from Jupiter) is absent: the Moon is 9th from Jupiter, a favourable relationship.
+
+Synthesis
+
+The dominant positive structures are the lagna lord–9th lord Raja and Dhana yoga, the full Moon and own-sign Sun in mutual aspect, the Harsha yoga of exalted Mercury, and the lords of career and gains placed in the house of wealth. The afflicting factors are few and of modest weight: Guru-Chandal in the 3rd, a cancelled Kemadruma, and the broad Pitra flags attached to the 9th house. This is a chart without major doshas, whose fortune rests on his own initiative and skill, and whose main test is to keep principle and ambition (Jupiter and Rahu) working together.

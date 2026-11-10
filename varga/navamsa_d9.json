@@ -1,0 +1,564 @@
+[
+  {
+    "id": "varga/what_d9_shows",
+    "layer": "varga",
+    "key": {"topic": "what_d9_shows"},
+    "summary": "The navamsa (D9, each sign split into nine parts of 3 deg 20 min) is the chart Parashara assigns to the spouse; modern authors widen it to marriage, dharma (one's duty and values), the inner self and the real strength of the planets.",
+    "themes": ["spouse", "marriage", "dharma", "inner self", "planetary strength"],
+    "common_outcomes": [
+      "Use D9 first for questions about marriage and the spouse, after reading the D1 promise.",
+      "Use D9 dignity as a test of how well a planet can deliver what its D1 placement promises.",
+      "Read D9 for values, sense of duty, basic skills and how the person deals with others (PVR), not only for marriage."
+    ],
+    "rare_outcomes": [
+      "PVR notes that where marriage is not treated as a duty but only as living together, the D1 chart may describe the relationship better than D9.",
+      "Rath also reads love and affection from Venus and D9, and skill or intelligence (which shapes profession) from the 5th from the navamsa lagna or karakamsa."
+    ],
+    "by_area": {
+      "personality": "Inner nature, values and sense of duty (PVR 6.3; Rath ch. IV 4.1).",
+      "career": "Indirectly: classical texts read the profession from the navamsa sign of the 10th lord (see dashamsa file).",
+      "finance": "",
+      "health": "",
+      "relationships": "Spouse and married life: the main use of D9 (BPHS 7.1-8; PVR 6.3, 13.4.1; Raman HPA ch. X).",
+      "family": "Spouse's family can be read from D9 (PVR 13.4.2).",
+      "spirituality": "Dharma; the karakamsa and the 12th from it in D9 are read for liberation (PVR 7.3.6; BPHS ch. 33)."
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "PVR calls the navamsa the 'dharmamsa' because its seed house is the 9th (dharma): marrying and living with a spouse are treated as duties.",
+    "source_views": [
+      {"source": "BPHS 7.1-8 (tr. R. Santhanam, vol. 1)", "view": "Lists the use of each of the 16 divisions: the spouse is to be judged from the navamsa, power and position from the dasamsa.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 6.12 (tr. Santhanam)", "view": "Defines the navamsa: counted from the sign itself for a movable sign, from the 9th for a fixed sign and from the 5th for a dual sign.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, 6.3 Table 11 and 18.5", "view": "D9 covers marriage and everything about the spouse, dharma, interaction with others, basic skills and the inner self; it is also called dharmamsa because its seed is the 9th house.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. X (The Shadvargas)", "view": "Each of Parashara's divisions is used for one area, e.g. the navamsa for the wife; navamsa is the most important division and most astrologers judge from rasi and navamsa together.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. II sec. 7 and ch. VIII 8.1", "view": "D9 is the spouse chart in the physical-plane group (D1-D12) and holds first place among the divisions after the rasi chart; love and affection are also seen from Venus and the navamsa.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Parashara names only the spouse for D9; PVR and Rath extend it to dharma, inner self and skills. PVR adds that in cultures where marriage is not a duty the D1 may describe relationships better than D9.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe D9 as the chart of partnership and inner values; avoid saying it decides whether someone will or will not marry.",
+    "conditional_results": []
+  },
+  {
+    "id": "varga/d9_weight_vs_d1",
+    "layer": "varga",
+    "key": {"topic": "d9_weight_vs_d1"},
+    "summary": "D1 is the main chart and D9 the most important division after it; texts differ on how far D9 can override D1, from 'half the effect' (Phaladeepika) to 'the navamsa effects prevail when its lord is stronger' (Saravali).",
+    "themes": ["weighting", "rasi vs navamsa", "vimshopaka"],
+    "common_outcomes": [
+      "Read D1 for what is promised; use D9 to confirm, strengthen or weaken it.",
+      "When a planet's D1 and D9 positions disagree, weigh the dispositors: Saravali and Phaladeepika say that if the navamsa lord is stronger than the sign lord, the navamsa result takes over (stated for the Moon).",
+      "In the vimshopaka (20-point) scheme the navamsa carries the second-largest weight after the rasi in the six- and seven-division schemes."
+    ],
+    "rare_outcomes": [
+      "In the 16-division scheme the navamsa (3 points) is close to the rasi (3.5) and below the shashtiamsa (4)."
+    ],
+    "by_area": {"personality": "Rath: the nature of the person blends the rasi and navamsa lagna signs, with the navamsa lagna predominating.", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "BPHS vimshopaka weights for the navamsa: 5 of 20 in the six-division scheme, 4.5 in the seven-division scheme, 1.5 in the ten-division scheme, 3 in the sixteen-division scheme.",
+    "source_views": [
+      {"source": "Phaladeepika 3.2-3.3 (tr. V. Subrahmanya Sastri, 1950)", "view": "Effects are full in the rasi and half in the other divisions (one quarter in the shodasamsa, dasamsa and shashtyamsa); some authors hold that the navamsa gives effects equal to the rasi and bhava.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "BPHS 7.17-25 (tr. Santhanam)", "view": "Gives the 20-point vimshopaka weights: navamsa 5 in shadvarga (rasi 6), 4.5 in saptavarga (rasi 5), 1.5 in dasavarga (rasi 3, shashtiamsa 5), 3 in shodasavarga (rasi 3.5, shashtiamsa 4).", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Saravali 24.22-24 (Santhanam tr.)", "view": "If the navamsa lord is stronger than the sign lord, only the navamsa effects of the Moon come to pass, as against her sign position (attributed to the Vriddha Yavanas).", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Phaladeepika 18.17", "view": "If the lord of the Moon's navamsa is strong, the results given for the Moon's sign and aspects are nullified and the navamsa results take over.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. II sec. 7 and ch. IV (after 4.3.12)", "view": "After the rasi chart the navamsa holds first place; sign results are a blend of rasi and navamsa lagna with the navamsa in predominance.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "C.S. Patel, Navamsa in Astrology, ch. 1", "view": "Some astrologers give the navamsa more value than the rasi; calls the rasi the tree and the navamsa the fruit, and notes that the nakshatra quarter coincides exactly with a navamsa.", "url": "https://archive.org/details/c.-s.-patel-navamsa-in-astrology"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. X", "view": "Navamsa is the most important division; begin by judging from rasi and navamsa together.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"}
+    ],
+    "disagreements": "Phaladeepika 3.3 gives divisions half the force of the rasi but reports others who make the navamsa equal; Saravali/Phaladeepika (Moon) let a stronger navamsa lord override the rasi; Patel and Rath lean towards the navamsa predominating; PVR assigns each chart its own sphere instead of ranking them.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present D9 as a refinement of D1, not a replacement; when they conflict, say results are mixed rather than choosing one silently.",
+    "conditional_results": [
+      {"when": "manual: the lord of the Moon's navamsa is stronger than the lord of the Moon's sign", "polarity": "mixed", "effects": ["the Moon's navamsa results prevail over her sign results"], "source": "Saravali 24.22-24; Phaladeepika 18.17"}
+    ]
+  },
+  {
+    "id": "varga/vargottama",
+    "layer": "varga",
+    "key": {"topic": "vargottama"},
+    "summary": "A planet is vargottama when it occupies the same sign in D1 and D9 (the first navamsa of a movable sign, the middle of a fixed sign, the last of a dual sign); texts treat it as a source of strength and good results.",
+    "themes": ["vargottama", "strength", "consistency"],
+    "common_outcomes": [
+      "Treat a vargottama planet as stronger and more reliable in giving its D1 results.",
+      "Its dasha tends to be favourable (Phaladeepika 20.22).",
+      "Combine with sign dignity: vargottama in own or exaltation sign is doubly strong; vargottama in the debilitation sign doubles the debility (Patel)."
+    ],
+    "rare_outcomes": [
+      "Patel warns that several vargottama planets did not give good results in a chart where they had low sarvashtakavarga points; he reads a vargottama planet as amplifying the house it is in, good or bad by bindus.",
+      "Raman: a strong, well-aspected Jupiter in vargottama makes a great lecturer or orator."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["own sign or exaltation in D1 together with vargottama (Patel ch. 3)", "benefic aspect"],
+    "weakeners_or_cancellations": ["vargottama in the debilitation sign (Patel calls it neecha-vargottama)", "combustion or eclipse (Phaladeepika 20.22 says results are then mixed)", "low sarvashtakavarga bindus in that house (Patel ch. 3)"],
+    "lagna_or_context_notes": "Vargottama degree ranges: movable signs 0-3 deg 20 min, fixed signs 13 deg 20 min-16 deg 40 min, dual signs 26 deg 40 min-30 deg.",
+    "source_views": [
+      {"source": "Phaladeepika 3.1 (tr. Sastri)", "view": "Vargottama is the navamsa in a sign that bears the same name as the sign itself.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 1.34 (tr. V. Subrahmanya Sastri, vol. I)", "view": "The vargottama navamsa is the first in a movable sign, the middle one in a fixed sign and the last in a dual sign; Sastri's note adds that planets in vargottama are said to produce much good.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 20.22", "view": "The dasha of a planet in vargottama gives favourable results; mixed if that planet is eclipsed or debilitated.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Saravali 24.22-24", "view": "The Moon's good effects are full in a vargottama navamsa, medium in her own navamsa and minor in others' navamsas; for bad effects it is the reverse.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "C.S. Patel, Navamsa in Astrology, ch. 3", "view": "Distinguishes own-sign, exalted and debilitated vargottama; lists results of each vargottama planet; links strength to sarvashtakavarga bindus.", "url": "https://archive.org/details/c.-s.-patel-navamsa-in-astrology"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XX (education)", "view": "Jupiter powerful, well aspected and vargottama makes the person a great lecturer and orator.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 11.7.3 (More Raja Yogas, item 15 and footnote 40)", "view": "Defines vargottamamsa as the same sign in rasi and navamsa; uses a strong Moon in vargottama aspected by four or more planets as a raja yoga.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"}
+    ],
+    "disagreements": "Classical texts call vargottama simply auspicious; Patel qualifies it by sign dignity (debilitated vargottama is doubly weak) and by ashtakavarga bindus.",
+    "confidence": "high",
+    "phrasing_guidance": "Say the planet acts with extra consistency and steadiness; do not promise specific events from vargottama alone.",
+    "conditional_results": [
+      {"when": "md_vargottama == true", "polarity": "good", "effects": ["dasha gives favourable results"], "source": "Phaladeepika 20.22"},
+      {"when": "md_vargottama == true and (md_combust == true or md_dignity == 'debilitated')", "polarity": "mixed", "effects": ["results mixed rather than wholly good"], "source": "Phaladeepika 20.22"},
+      {"when": "md_vargottama == true and md_dignity in ['own', 'moolatrikona', 'exalted']", "polarity": "good", "effects": ["doubly strong; results multiplied"], "source": "C.S. Patel, Navamsa in Astrology ch. 3"},
+      {"when": "md_vargottama == true and md_dignity == 'debilitated'", "polarity": "bad", "effects": ["debility doubled (neecha-vargottama)"], "source": "C.S. Patel, Navamsa in Astrology ch. 3"}
+    ]
+  },
+  {
+    "id": "varga/vargottama_lagna_and_moon",
+    "layer": "varga",
+    "key": {"topic": "vargottama_lagna_and_moon"},
+    "summary": "A vargottama lagna or Moon is singled out: aspected by four or more planets it is a royal yoga, though Saravali also says a vargottama lagna with no aspect at all makes raja yogas fail.",
+    "themes": ["vargottama lagna", "vargottama Moon", "raja yoga"],
+    "common_outcomes": [
+      "A vargottama lagna or Moon strengthens the whole chart and the person's standing in their group (Brihat Jataka via Patel: head of their class).",
+      "Check how many planets aspect it: four or more (other than the Moon) is a classic raja yoga."
+    ],
+    "rare_outcomes": [
+      "Saravali 39.5: a vargottama lagna that receives no aspect from any planet makes raja yogas fail."
+    ],
+    "by_area": {"personality": "Leader within one's circle (Brihat Jataka 21.7 via Patel).", "career": "Rise above birth circumstances when the yoga is full (Phaladeepika 7.5; JP 7.5).", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["four or more planets aspecting (Phaladeepika 7.5; Jataka Parijata 7.5)"],
+    "weakeners_or_cancellations": ["vargottama lagna with no planetary aspect (Saravali 39.5)"],
+    "lagna_or_context_notes": "Jataka Parijata 7.5 restricts the aspecting planets to those in the 4th, 7th and 10th (Sastri's note), so that they fully aspect the lagna or Moon.",
+    "source_views": [
+      {"source": "Phaladeepika 7.5-7.6", "view": "A rising vargottama navamsa or a vargottama Moon, with the lagna aspected by four planets other than the Moon, makes even a person of low birth a king; lagna lord in a kendra or the 9th in vargottama with the 9th lord exalted or in own sign in a similar amsa gives royal status.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 7.5 (tr. Sastri)", "view": "Moon or lagna in vargottama aspected by planets in the 4th, 10th and 7th makes a leader of men; Sastri's note cites Saravali and Brihat Jataka for four or more aspecting planets.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Saravali 35.6 and 39.5", "view": "Lagna or Moon in vargottama aspected by 5 or 6 planets makes a king even from a mean family; but a vargottama lagna not aspected by any planet makes the raja yogas a failure.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Brihat Jataka 21.7 (via C.S. Patel, Navamsa in Astrology ch. 3)", "view": "When the rising navamsa is vargottama the person becomes head of the class described for that navamsa.", "url": "https://archive.org/details/c.-s.-patel-navamsa-in-astrology"},
+      {"source": "C.S. Patel, Navamsa in Astrology, ch. 3", "view": "A vargottama ascendant makes the chart inherently strong; lagna and Moon vargottama get the most importance.", "url": "https://archive.org/details/c.-s.-patel-navamsa-in-astrology"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. IV example (chart 16)", "view": "Uses a vargottama Taurus lagna to describe stature, complexion and intelligence.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Number of aspecting planets: four (Phaladeepika, JP) vs five or six (Saravali 35.6). Saravali 39.5 adds a negative rule (unaspected vargottama lagna spoils raja yogas) not found in the others.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of natural steadiness and leadership potential; 'king' yogas should be translated into ordinary standing and influence.",
+    "conditional_results": [
+      {"when": "manual: lagna or Moon is vargottama and aspected by four or more planets (other than the Moon)", "polarity": "good", "effects": ["rise to high status even from humble birth"], "source": "Phaladeepika 7.5; Jataka Parijata 7.5; Saravali 35.6"},
+      {"when": "manual: lagna is vargottama and aspected by no planet", "polarity": "bad", "effects": ["raja yogas in the chart fail to deliver"], "source": "Saravali 39.5"}
+    ]
+  },
+  {
+    "id": "varga/exalted_in_d9",
+    "layer": "varga",
+    "key": {"topic": "exalted_in_d9"},
+    "summary": "A planet in its exaltation sign in D9 gives its good effects in full (Saravali 45.22); it can lift a weak or debilitated D1 placement.",
+    "themes": ["exaltation", "uchchamsa", "inner strength"],
+    "common_outcomes": [
+      "Upgrade the planet's delivery: its D1 significations come through more fully.",
+      "Especially notable when the planet is debilitated in D1 (see d1_d9_dignity_reversal and neecha_bhanga_via_d9)."
+    ],
+    "rare_outcomes": [
+      "Rath: a debilitated planet in an exalted navamsa gives sudden elevation; if also retrograde the rise is short-lived."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["also vargottama or exalted in D1", "benefic association"],
+    "weakeners_or_cancellations": ["retrograde (Rath, for a D1-debilitated planet)"],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Saravali 45.22", "view": "In its exaltation navamsa a planet's good effects are full; in its own navamsa they equal those of its own sign; friendly navamsa gives moderate results; enemy or debilitation navamsa gives little good.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 18.144 (tr. Sastri, vol. II)", "view": "Mercury debilitated but in its exaltation navamsa brings prosperity at the end of its dasha though the start is barren.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. IX 9.2", "view": "A debilitated planet placed in an exalted navamsa gives neechabhanga raja yoga with sudden elevation; if retrograde the elevation is short.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "C.S. Patel, Navamsa in Astrology, ch. 1 and ch. 13 (Deva Keralam verse)", "view": "A planet debilitated in rasi but exalted in navamsa makes the person happy.", "url": "https://archive.org/details/c.-s.-patel-navamsa-in-astrology"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 6.6", "view": "A planet in moolatrikona, own or exaltation sign in a divisional chart is very strong in that chart; counting such charts gives its amsa strength.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"}
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Say the planet has strong inner backing that helps its promise come through; avoid guaranteeing outcomes.",
+    "conditional_results": [
+      {"when": "md_d9_dignity == 'exalted'", "polarity": "good", "effects": ["good effects of the planet come in full"], "source": "Saravali 45.22"},
+      {"when": "ad_d9_dignity == 'exalted'", "polarity": "good", "effects": ["good effects of the sub-period lord come in full"], "source": "Saravali 45.22"}
+    ]
+  },
+  {
+    "id": "varga/debilitated_in_d9",
+    "layer": "varga",
+    "key": {"topic": "debilitated_in_d9"},
+    "summary": "A planet in its debilitation (or an enemy's) sign in D9 gives little of its good effects and its dasha is described as untoward, even if D1 looks good.",
+    "themes": ["debilitation", "neechamsa", "weakness"],
+    "common_outcomes": [
+      "Discount the planet's D1 promise; expect results that start well but do not hold, or come with struggle.",
+      "For Venus specifically, Saravali says a debilitation navamsa can take away even a large kingdom (raja yogas spoiled)."
+    ],
+    "rare_outcomes": [
+      "Rath reads Jupiter debilitated in D9 as 'rajbhanga' (fall from fortune) and uses debilitated D9 planets as signs of marital trouble."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "Rath links debilitated D9 Jupiter (for a woman) or the D9 7th lord's weakness to marital difficulty.", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": ["also debilitated in D1 (Patel cites Deva Keralam: lagna lord debilitated in both, aspected by a malefic, gives an inwardly angry, somewhat miserly nature)"],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Saravali 45.22", "view": "In an enemy's or the debilitation navamsa the planet's good effects are quite little.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Saravali 39.22", "view": "Venus in its debilitation navamsa deprives the native even of a vast kingdom.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 18.170 (from Brihat Jataka, per Sastri's note)", "view": "The dasha of a planet in a debilitation or inimical navamsa is untoward.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 18.143", "view": "Mercury in its exaltation sign but debilitation navamsa makes the person unfit for work and poor during its dasha.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. X (charts 69-71)", "view": "Jupiter debilitated in the navamsa indicates rajbhanga (misfortune) and spoiled marriage despite good D1 promise.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV", "view": "Dasha results are modified by the favourable or unfavourable situation of the dasha lord in the navamsa; e.g. political success from the Sun in Aries in the 10th is full only if he is equally strong in the navamsa.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"}
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Say the planet's gifts need more effort to hold on to; never predict loss of marriage or fortune from this one factor.",
+    "conditional_results": [
+      {"when": "md_d9_dignity == 'debilitated'", "polarity": "bad", "effects": ["little of the planet's good effects", "dasha untoward"], "source": "Saravali 45.22; Jataka Parijata 18.170"},
+      {"when": "md == 'Venus' and md_d9_dignity == 'debilitated'", "polarity": "bad", "effects": ["raja yogas undermined; loss of position"], "source": "Saravali 39.22"},
+      {"when": "md == 'Mercury' and md_dignity == 'exalted' and md_d9_dignity == 'debilitated'", "polarity": "bad", "effects": ["incompetence for work and poverty during the dasha"], "source": "Jataka Parijata 18.143"}
+    ]
+  },
+  {
+    "id": "varga/own_sign_in_d9",
+    "layer": "varga",
+    "key": {"topic": "own_sign_in_d9"},
+    "summary": "A planet in its own sign in D9 gives results like a planet in its own sign in D1: steady and good; all planets in own navamsas is a royal combination in Yavana texts.",
+    "themes": ["own navamsa", "swamsa"],
+    "common_outcomes": ["Read the planet as dependable and self-supported in its significations."],
+    "rare_outcomes": ["Brihat Yavana Jataka (via Patel): all planets in their own navamsas makes a splendid ruler."],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["vargottama in own sign (Deva Keralam via Patel: pleasures and raja yoga)"],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "PVR's navamsa bala (Tajaka): own sign in D9 = 5 units, friend 2.5, enemy 1.25.",
+    "source_views": [
+      {"source": "Saravali 45.22", "view": "In its own navamsa a planet gives results applicable to its own-sign placement.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Saravali 24.22-24", "view": "The Moon in her own navamsa gives medium (between vargottama and others') good results.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "C.S. Patel, Navamsa in Astrology, ch. 13 (Deva Keralam 2 p.78 v.29; Brihat Yavana Jataka v.25)", "view": "A planet vargottama in its own sign gives pleasures and raja yoga; all planets in own navamsas make a powerful ruler.", "url": "https://archive.org/details/c.-s.-patel-navamsa-in-astrology"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 28.4.5", "view": "Navamsa bala: 5 units in own D9 sign, 2.5 in a friend's, 1.25 in an enemy's.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Say the planet acts from a secure base.",
+    "conditional_results": [
+      {"when": "md_d9_dignity == 'own'", "polarity": "good", "effects": ["results like the planet in its own sign"], "source": "Saravali 45.22"},
+      {"when": "md_vargottama == true and md_dignity in ['own', 'moolatrikona']", "polarity": "good", "effects": ["pleasures and raja-yoga results"], "source": "Deva Keralam via C.S. Patel ch. 13"}
+    ]
+  },
+  {
+    "id": "varga/d1_d9_dignity_reversal",
+    "layer": "varga",
+    "key": {"topic": "d1_d9_dignity_reversal"},
+    "summary": "When D1 and D9 dignity point opposite ways, the navamsa is often given the deciding vote: exalted in D1 but debilitated in D9 brings sorrow; debilitated in D1 but exalted in D9 brings happiness.",
+    "themes": ["exalted-debilitated reversal", "rasi vs navamsa"],
+    "common_outcomes": [
+      "Do not read an exalted D1 planet as wholly good if it is debilitated in D9; expect its promise to fall short.",
+      "Do not read a debilitated D1 planet as wholly bad if it is exalted in D9; expect late or eventual success."
+    ],
+    "rare_outcomes": [
+      "Jataka Parijata (Mercury) times it: the reversed planet's dasha is barren at first and prosperous at the end."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Deva Keralam 2 p.78 v.29 (via C.S. Patel, Navamsa in Astrology ch. 13)", "view": "Exalted in sign but in debilitation navamsa gives grief; debilitated in sign with exaltation navamsa gives happiness.", "url": "https://archive.org/details/c.-s.-patel-navamsa-in-astrology"},
+      {"source": "Jataka Parijata 18.143-144", "view": "Mercury exalted in sign but in debilitation navamsa makes one unfit for work and poor in its dasha; Mercury debilitated but in exaltation navamsa brings prosperity at the end of its dasha.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "Saravali 45.22", "view": "Good effects are full in the exaltation navamsa and little in the debilitation navamsa, independent of the rasi.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "C.S. Patel, Navamsa in Astrology, ch. 1", "view": "The Sun in Aries (exalted) in Libra navamsa is of no avail; the Sun in Libra in Aries navamsa gives very good results.", "url": "https://archive.org/details/c.-s.-patel-navamsa-in-astrology"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. IX 9.2", "view": "A debilitated planet in an exalted navamsa gives sudden elevation (neechabhanga raja yoga).", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Jataka Parijata states the rule for Mercury only; Patel (via Deva Keralam) and Rath state it generally.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as 'promise vs delivery': a strong-looking placement may need care, a weak-looking one may mature well.",
+    "conditional_results": [
+      {"when": "md_dignity == 'exalted' and md_d9_dignity == 'debilitated'", "polarity": "bad", "effects": ["promise of the exaltation not delivered; sorrow or setbacks in the period"], "source": "Deva Keralam via Patel ch. 13; Jataka Parijata 18.143"},
+      {"when": "md_dignity == 'debilitated' and md_d9_dignity == 'exalted'", "polarity": "good", "effects": ["happiness and rise; results improve towards the end of the dasha"], "source": "Deva Keralam via Patel ch. 13; Jataka Parijata 18.144; Rath ch. IX 9.2"},
+      {"when": "md_dignity == 'debilitated' and md_d9_dignity == 'exalted' and md_retro == true", "polarity": "mixed", "effects": ["elevation is short-lived"], "source": "Sanjay Rath, Crux of Vedic Astrology ch. IX 9.2"}
+    ]
+  },
+  {
+    "id": "varga/neecha_bhanga_via_d9",
+    "layer": "varga",
+    "key": {"topic": "neecha_bhanga_via_d9"},
+    "summary": "D9 can cancel a D1 debilitation: classically when the lord of the navamsa occupied by the debilitated planet is in a kendra or trikona (Jataka Parijata 7.14); modern authors add the debilitated planet itself being exalted in D9.",
+    "themes": ["neecha bhanga", "cancellation of debility", "navamsa dispositor"],
+    "common_outcomes": [
+      "For a debilitated D1 planet, find its D9 sign lord and check whether that lord sits in a kendra or trikona.",
+      "Also check whether the debilitated planet is exalted in D9 (Rath, Patel)."
+    ],
+    "rare_outcomes": [
+      "Jataka Parijata 7.14 adds an alternative: a movable lagna, or the lagna lord in a movable-sign navamsa."
+    ],
+    "by_area": {"personality": "", "career": "Rise to power or high position (JP 7.14; Rath).", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": ["retrograde debilitated planet in exalted navamsa: rise is brief (Rath)"],
+    "lagna_or_context_notes": "The calculator's own neecha_bhanga yoga uses D1 rules; this entry covers only the D9 routes. See yoga/neecha_bhanga for the D1 definitions.",
+    "source_views": [
+      {"source": "Jataka Parijata 7.14 (tr. Sastri, vol. I)", "view": "If the lord of the navamsa occupied by a debilitated planet is in a kendra or trikona, and the birth lagna is a movable sign or the lagna lord is in a movable-sign navamsa, the person becomes a king or very powerful.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 7.26-29", "view": "Gives the D1 routes to cancellation (lord of the debilitation sign or of the exaltation sign in a kendra from lagna or Moon, mutual kendras, aspect of the sign lord); no D9 route is legible in the OCR of this edition.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. IX 9.2", "view": "A debilitated planet in an exalted navamsa gives neechabhanga raja yoga with sudden promotion.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "C.S. Patel, Navamsa in Astrology, ch. 1", "view": "A planet debilitated in rasi but exalted in navamsa makes the person happy.", "url": "https://archive.org/details/c.-s.-patel-navamsa-in-astrology"}
+    ],
+    "disagreements": "JP 7.14 cancels through the navamsa dispositor; Rath and Patel cancel through the planet's own D9 exaltation. Phaladeepika's legible slokas use only D1 conditions.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as 'an early weakness that can turn into strength'; avoid promising fame or power.",
+    "conditional_results": [
+      {"when": "md_dignity == 'debilitated' and md_d9_dignity == 'exalted'", "polarity": "good", "effects": ["debility cancelled; sudden elevation in the period"], "source": "Sanjay Rath, Crux ch. IX 9.2; Patel ch. 1"},
+      {"when": "manual: the planet is debilitated in D1 and the lord of its D9 sign is in a kendra or trikona, with a movable lagna or the lagna lord in a movable-sign navamsa", "polarity": "good", "effects": ["great power or royal status"], "source": "Jataka Parijata 7.14"}
+    ]
+  },
+  {
+    "id": "varga/d9_lagna_and_lord",
+    "layer": "varga",
+    "key": {"topic": "d9_lagna_and_lord"},
+    "summary": "The navamsa lagna (the D9 sign of the ascendant degree) and its lord describe the inner person, appearance and disposition; texts weigh it alongside, or above, the D1 lagna.",
+    "themes": ["navamsa lagna", "rising navamsa", "appearance", "disposition"],
+    "common_outcomes": [
+      "Blend the D1 and D9 lagna signs when describing temperament, giving extra weight to the D9 lagna (Rath).",
+      "Judge physique and disposition from the navamsa lagna or the strongest planet; or from the lord of the Moon's navamsa (Saravali 9.45-46, 51.1).",
+      "Read the navamsa lagna as the self in marriage and dharma (PVR); its dasha can bring marriage."
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 21.7 (via Patel) assigns a social character to each non-vargottama rising navamsa (e.g. Leo navamsa a ruler, Gemini navamsa learned).",
+      "Saravali ch. 51 gives a description for each of the 108 rising navamsas."
+    ],
+    "by_area": {"personality": "Main use: temperament and appearance.", "career": "", "finance": "", "health": "", "relationships": "PVR: lagna in navamsa is the self as spouse and partner.", "family": "", "spirituality": ""},
+    "strengtheners": ["navamsa lagna lord well placed in D1, or benefics in the navamsa lagna (Patel ch. 3)", "vargottama lagna"],
+    "weakeners_or_cancellations": ["lords of the navamsa lagna, Moon sign and natal lagna all combust: Saravali lists this among short-life combinations [maraka: text predicts short life]"],
+    "lagna_or_context_notes": "The navamsa lagna moves through nine signs while the D1 lagna crosses one sign (about 2 hours), so it needs a reliable birth time; PVR advises fixing the D9 lagna first when rectifying (PVR 32.1-32.3).",
+    "source_views": [
+      {"source": "Saravali 9.45-46 and 51.1", "view": "Physical appearance follows the navamsa lagna or the strongest planet, or the lord of the Moon's navamsa; complexion and disposition are judged from the rising navamsa, using the stronger of the Moon's navamsa lord and the navamsa lagna lord.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Saravali 10.16-17 (evils at birth)", "view": "If the lords of the navamsa lagna, Moon sign and natal lagna are combust, life is short [maraka: text predicts short life].", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Brihat Jataka 21.7 (via C.S. Patel ch. 3)", "view": "Each rising navamsa gives a type of person; when vargottama the person heads that class.", "url": "https://archive.org/details/c.-s.-patel-navamsa-in-astrology"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. IV 4.1 and after 4.3.12", "view": "The ascendant represents the native in all divisions, especially the navamsa; sign results blend rasi and navamsa lagna with the navamsa predominating.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 18.5 (Example 72) and 32.3", "view": "Lagna in navamsa shows the self from the point of view of dharma and married life, so its dasha favours marriage; fix the D9 lagna first when rectifying birth time.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XVIII", "view": "Before predicting from the rising sign, consider the lagna and its lord in both rasi and navamsa.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"}
+    ],
+    "disagreements": "Saravali uses the stronger of navamsa-lagna lord and Moon's navamsa lord; Rath gives the navamsa lagna predominance outright; Raman simply asks that both charts be considered.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe inner temperament gently; do not make appearance claims from the navamsa lagna alone.",
+    "conditional_results": [
+      {"when": "manual: lords of the navamsa lagna, the Moon sign and the natal lagna are all combust", "polarity": "bad", "effects": ["[maraka: text predicts a short life]"], "source": "Saravali 10.16-17"}
+    ]
+  },
+  {
+    "id": "varga/d9_seventh_house_and_lord",
+    "layer": "varga",
+    "key": {"topic": "d9_seventh_house_and_lord"},
+    "summary": "For marriage, read the 7th house of D9, its lord and planets in it (and, classically, the navamsa falling on the 7th cusp); its sign lord's nature colours the spouse, and the D9 7th lord's period can bring marriage.",
+    "themes": ["7th house", "spouse", "marriage timing"],
+    "common_outcomes": [
+      "Benefic sign or benefic navamsa on the 7th: a well-favoured, fortunate spouse; Saturn's or Mars's: harder qualities (Saravali 46.20-24; Phaladeepika 11.3).",
+      "Describe the spouse from the ruler of the 7th sign or 7th navamsa: Jupiter virtuous and restrained, Venus handsome and fortunate, Mercury skilled, Saturn older (Saravali 46.21-24).",
+      "Time marriage by the period of the D9 7th lord or planets linked to the D9 lagna and 7th (PVR 16.5.1; Rath 10.5.2)."
+    ],
+    "rare_outcomes": [
+      "Saravali 34.47: number of spouses from the number of navamsas passed in the 7th or planets aspecting it; one spouse if Leo, Aries or Scorpio rises in navamsa.",
+      "Rath: the 8th house of D9 can show the spouse's death or affairs [maraka: text links D9 8th house to danger to the spouse]."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "Core use.", "family": "", "spirituality": ""},
+    "strengtheners": ["benefic sign or navamsa on the 7th", "D9 7th lord in a kendra or trikona, own or exalted"],
+    "weakeners_or_cancellations": ["7th sign or navamsa of Mars with Mars there: Phaladeepika 11.3 predicts widowhood for a woman [maraka: text predicts the husband's death]", "malefic, weak, combust planets in the 7th aspected by malefics (Saravali 46.15-17)"],
+    "lagna_or_context_notes": "Classical rules about the '7th navamsa' (the navamsa on the 7th cusp, 'setting navamsa') are not identical to the 7th house of the D9 chart; modern authors (PVR, Rath) use the D9 chart's 7th house and lord.",
+    "source_views": [
+      {"source": "Saravali 46.20-24 (female horoscopy)", "view": "The husband's nature follows the ruler of the 7th house or its navamsa (Saturn old and foolish, Mars irascible, Venus handsome and fortunate, Mercury skilled, Moon soft, Jupiter virtuous); the text says the same applies to males.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Phaladeepika 11.3-11.5", "view": "If the 7th house or setting navamsa belongs to a benefic, the husband is bright, learned and wealthy; otherwise deformed or wasteful; Mars's sign and amsa on the 7th with Mars there predicts widowhood [maraka: text predicts the husband's death].", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Saravali 34.47", "view": "Number of wives from planets aspecting the 7th or navamsas passed in it; a single wife if Leo, Aries or Scorpio rises in navamsa.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXX (Female horoscopy) rule 4", "view": "If the 7th bhava falls in a benefic navamsa she will love her husband; in Mars's navamsa aspected by Saturn it shows trouble.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 16.5.1", "view": "The period of the 7th lord in D9 can give marriage.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. X 10.5.2-10.5.3 and ch. XI", "view": "The dasha lord should associate with the navamsa lagna or its lord, the antardasha lord with the D9 7th lord, the pratyantar lord be in trines to the D9 7th; the 8th house of D9 can bring the spouse's death or affairs.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Classical texts work with the navamsa on the 7th cusp and often state rules for women's charts; modern authors use the D9 chart's 7th house for both sexes.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe partner qualities and relationship themes; never predict widowhood, death of a spouse or divorce; keep timing as windows, not dates.",
+    "conditional_results": [
+      {"when": "manual: the 7th house of D9 (or the navamsa on the 7th cusp) is a benefic's sign", "polarity": "good", "effects": ["fortunate, capable, well-regarded spouse"], "source": "Phaladeepika 11.3; Saravali 46.20"},
+      {"when": "manual: the 7th house or its navamsa belongs to Mars and Mars occupies the 7th", "polarity": "bad", "effects": ["[maraka: text predicts widowhood for a woman]"], "source": "Phaladeepika 11.3"},
+      {"when": "manual: the running period lord is the D9 7th lord or is linked to the D9 lagna/7th", "polarity": "good", "effects": ["marriage likely in the period"], "source": "PVR 16.5.1; Rath 10.5.2"}
+    ]
+  },
+  {
+    "id": "varga/d1_seventh_lord_in_d9",
+    "layer": "varga",
+    "key": {"topic": "d1_seventh_lord_in_d9"},
+    "summary": "The D1 7th lord's navamsa placement and dignity show how well the marriage promise is supported; the D9 sign it occupies is also used to time marriage by transit.",
+    "themes": ["7th lord", "marriage support", "transit timing"],
+    "common_outcomes": [
+      "D1 7th lord well placed in D9 (kendra/trikona, own or exalted): supportive marriage (PVR note to Chart 96; Rath chart 72).",
+      "Marriage may come when Jupiter, Venus or the 7th lord transits a sign trine to the D1 7th lord's rasi or navamsa (Phaladeepika 10.12, 10.14; Rath 10.5.3).",
+      "Lagna lord's navamsa in its own debilitation sign or an enemy's sign: Jataka Parijata warns of losing the spouse or no spouse."
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 10.11: the spouse's Moon sign may be trine to the sign or navamsa of the 1st or 7th lord."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "Core use.", "family": "", "spirituality": ""},
+    "strengtheners": ["7th lord in benefic navamsa (Jataka Parijata 14.22)"],
+    "weakeners_or_cancellations": ["7th lord in enemy or debilitation sign or eclipsed (Phaladeepika 10.15)"],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 10.11-10.15", "view": "Spouse's Moon sign trine to the rasi or navamsa of the 1st and 7th lords; marriage when Venus or the 7th lord transits a trine to the lagna lord's rasi or navamsa, or when Jupiter transits a trine to the 7th lord's rasi or navamsa in the period of the stronger of the 7th lord's rasi and navamsa lords.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 14.22 and 14.46 (tr. Sastri, vol. II)", "view": "7th lord in a kendra aspected by a benefic or in a benefic navamsa gives a devout wife; marriage comes when Jupiter transits a sign of the lord of the lagna lord's navamsa, but if that navamsa is the lagna lord's debilitation or enemy sign the person may lose the wife or have none.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, Part 6 (note to Chart 96) and 25.4", "view": "If the D1 7th lord is well placed in navamsa it is good; the 7th lord in rasi is the partner in physical life, navamsa the inner self; transits over the natal navamsa sign of the 7th lord or Venus can time marriage.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. X 10.5.3 and chart 72", "view": "Jupiter transiting the 7th lord's navamsa can give marriage; the 7th lord exalted in a kendra of D9 promises a long married life.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Use as supporting evidence and timing windows; avoid predicting 'no spouse'.",
+    "conditional_results": [
+      {"when": "manual: D1 7th lord is in a kendra or trikona of D9, or own/exalted in D9", "polarity": "good", "effects": ["marriage well supported; lasting partnership"], "source": "PVR Part 6 (Chart 96 note); Rath chart 72"},
+      {"when": "manual: lagna lord's navamsa sign is its debilitation or an enemy's sign", "polarity": "bad", "effects": ["difficulty in marriage; possible loss of spouse or no spouse"], "source": "Jataka Parijata 14.46"}
+    ]
+  },
+  {
+    "id": "varga/venus_jupiter_in_d9",
+    "layer": "varga",
+    "key": {"topic": "venus_jupiter_in_d9"},
+    "summary": "Venus (natural spouse significator, and for men the wife) and Jupiter (for women the husband, and dharma) are read in D9 by sign and dignity; Venus in Jupiter's or the 1st/9th lord's sign in rasi or navamsa gives a loving spouse, Mars/Saturn divisions colour sexuality.",
+    "themes": ["Venus", "Jupiter", "spouse significators"],
+    "common_outcomes": [
+      "Venus in a sign of Jupiter or of the 1st or 9th lord, in rasi or navamsa: chaste, loving, happy spouse (Raman).",
+      "Venus in a navamsa of Mars or Saturn adds strong or unusual sexual tastes (BPHS 18; Saravali 46).",
+      "Jupiter in a sign or navamsa of Saturn or Mars: risk of affairs (JP 14.17); Jupiter debilitated in D9 in a woman's chart: marital misfortune (Rath)."
+    ],
+    "rare_outcomes": [
+      "Raman: in a woman's chart the Moon in Jupiter's navamsa supports loyalty; in Saturn's or Mars's navamsa it does not."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "Core use.", "family": "", "spirituality": "Jupiter in D9 as dharma (Rath, PVR)."},
+    "strengtheners": ["Venus or Jupiter own or exalted in D9", "Venus aspected by Jupiter (Rath 10.4.7)"],
+    "weakeners_or_cancellations": ["Venus debilitated in D9 (Saravali 39.22)", "Jupiter debilitated in D9 (Rath)"],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "BPHS 18.10-13 (tr. Santhanam)", "view": "Venus in a sign or navamsa of Mars, or conjunct/aspected by Mars, gives unusual sexual habits; similarly related to Saturn, relations with the same sex.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Jataka Parijata 14.17", "view": "Jupiter in a rasi or navamsa owned by Saturn or Mars gives intrigues with other women.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "Saravali 46.18 and 39.22", "view": "Venus and Mars exchanging divisions makes a woman go after other men; Venus in its debilitation navamsa ruins status.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XVI", "view": "Venus in the house of Jupiter or of the 1st or 9th lord, in rasi or navamsa, gives a chaste, loving, happy wife; in a woman's chart the Moon should be in Jupiter's navamsa, not Saturn's or Mars's.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. X 10.4.7, 10.5.2 and charts 69-71", "view": "Venus governs sexual happiness; Jupiter in trines to the navamsa lagna promotes chastity; planets with Venus in rasi and navamsa give marriage; Jupiter debilitated in navamsa gives rajbhanga in marriage.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 25.4 (Example 105)", "view": "Uses Venus's natal navamsa position and the D9 9th lord (dharma) when timing a wedding.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Sexual and fidelity statements in these texts must not be repeated as predictions; translate into general warmth/compatibility themes.",
+    "conditional_results": [
+      {"when": "md == 'Venus' and md_d9_dignity == 'debilitated'", "polarity": "bad", "effects": ["status and comforts undermined"], "source": "Saravali 39.22"},
+      {"when": "manual: Venus in a sign of Jupiter or of the 1st or 9th lord in D1 or D9", "polarity": "good", "effects": ["loving, happy spouse"], "source": "Raman HPA ch. XVI"}
+    ]
+  },
+  {
+    "id": "varga/darakaraka_in_d9",
+    "layer": "varga",
+    "key": {"topic": "darakaraka_in_d9"},
+    "summary": "The darakaraka (planet with the lowest degree among the chara karakas) signifies the spouse; Jaimini-leaning authors read its navamsa sign and links to the D9 lagna and 7th, alongside the natural significator Venus.",
+    "themes": ["darakaraka", "chara karaka", "spouse"],
+    "common_outcomes": [
+      "Note which planet is darakaraka and its D9 dignity and house; use it with Venus, not instead of it.",
+      "If two planets tie for a karaka role, Venus stands in as darakaraka (BPHS 32)."
+    ],
+    "rare_outcomes": [
+      "Rath reads the chara darakaraka's position relative to the 7th to describe first vs later spouses."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "Core use.", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "The 7-karaka and 8-karaka schemes give different darakarakas (BPHS 32.1-2, 13-17); the calculator's scheme decides which applies. See karaka/darakaraka for significations.",
+    "source_views": [
+      {"source": "BPHS 32.13-17 (tr. Santhanam) with Santhanam's notes", "view": "Defines the chara karakas in descending order of degrees, ending with the stree/dara karaka; if two planets share a longitude, use the constant significator (Venus for the spouse).", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 33.47-48", "view": "Planets in the 7th from the karakamsa (the atmakaraka's navamsa sign) describe the wife: Moon and Jupiter a beautiful wife, Venus sensuous, Mercury skilled in arts, Saturn older or pious/sick, Rahu a widow.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 8.2 Table 13", "view": "Lists the darakaraka as the karaka for the spouse.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. III (chart 7) and ch. X (charts 41ff.)", "view": "Uses the chara darakaraka (e.g. its 12th-from-7th position) and the natural dara-karaka Venus together to judge spouses.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Seven vs eight chara karaka schemes give different darakarakas; Parashara records both.",
+    "confidence": "low",
+    "phrasing_guidance": "Treat darakaraka readings as supporting colour only.",
+    "conditional_results": [
+      {"when": "manual: darakaraka is own/exalted in D9 or in a kendra/trikona from the D9 lagna", "polarity": "good", "effects": ["supportive spouse indications"], "source": "Rath ch. X (applied examples); no single rule stated"}
+    ]
+  },
+  {
+    "id": "varga/pushkara_navamsa",
+    "layer": "varga",
+    "key": {"topic": "pushkara_navamsa"},
+    "summary": "Pushkara navamsas are two especially auspicious navamsas in each sign (24 in all, all owned by benefics); a planet in one is said to give higher status; the idea is rare in standard texts and comes mainly from Vidyamadhaviyam and Nadi works.",
+    "themes": ["pushkara navamsa", "auspicious degrees"],
+    "common_outcomes": [
+      "Treat a planet (especially Jupiter) or the rising navamsa in a pushkara navamsa as a mild plus for standing and comfort.",
+      "Distinguish pushkara navamsa (a 3 deg 20 min span) from pushkara bhaga/pushkaramsa (a single degree per sign used in muhurta)."
+    ],
+    "rare_outcomes": [
+      "Deva Keralam (via Patel): Jupiter in a kendra or trikona in pushkara navamsa makes one lucky, but if that navamsa sign is the 6th, 8th or 12th from the D1 lagna it adds weak health or grief over a child."
+    ],
+    "by_area": {"personality": "", "career": "Patel: people with the rising navamsa in vargottama or pushkara navamsa are outstanding in their careers.", "finance": "Deva Keralam (via Patel): all seven planets in pushkara navamsas gives wealth and comforts.", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["Jupiter in pushkara navamsa joined by Mars and the Moon (Jataka Parijata 7.25 via Patel)"],
+    "weakeners_or_cancellations": ["pushkara navamsa sign falling in the 6th, 8th or 12th from the D1 lagna (Deva Keralam via Patel)"],
+    "lagna_or_context_notes": "Pushkara navamsas per Vidyamadhaviyam (via Patel): Aries/Leo/Sagittarius the 7th (Libra) and 9th (Sagittarius); Taurus/Virgo/Capricorn the 3rd (Pisces) and 5th (Taurus); Gemini/Libra/Aquarius the 6th (Pisces) and 8th (Taurus); Cancer/Scorpio/Pisces the 1st (Cancer) and 3rd (Virgo).",
+    "source_views": [
+      {"source": "C.S. Patel, Navamsa in Astrology, ch. 4 (citing Vidyamadhaviyam pt. I pp.30-31)", "view": "Defines the 24 pushkara navamsas, separates them from the one-degree pushkaramsas of muhurta texts, says standard books rarely use them while Nadi texts use them freely, and gives Deva Keralam results.", "url": "https://archive.org/details/c.-s.-patel-navamsa-in-astrology"},
+      {"source": "Jataka Parijata 7.25 (via Patel ch. 4; the sloka is illegible in the archive.org OCR of Sastri's edition, whose index lists 'Pushkaramsa ... ushers a King, vii, 25')", "view": "Jupiter joined by Mars and the Moon in a vargottama or pushkara navamsa makes a king.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"}
+    ],
+    "disagreements": "Patel notes that no standard text defines pushkara navamsa; only Vidyamadhaviyam does. BPHS, Phaladeepika and Saravali (as read) do not mention it.",
+    "confidence": "low",
+    "phrasing_guidance": "Mention only as a small positive; do not build a reading on it.",
+    "conditional_results": [
+      {"when": "manual: Jupiter with Mars and the Moon in a vargottama or pushkara navamsa", "polarity": "good", "effects": ["high status"], "source": "Jataka Parijata 7.25 (via Patel)"},
+      {"when": "manual: all seven planets in pushkara navamsas", "polarity": "good", "effects": ["wealth, comforts, fame"], "source": "Deva Keralam via Patel ch. 4"}
+    ]
+  },
+  {
+    "id": "varga/varga_dignity_count",
+    "layer": "varga",
+    "key": {"topic": "varga_dignity_count"},
+    "summary": "A planet's overall varga strength is the count of divisions (D9 included) in which it is in exaltation, moolatrikona or own sign, and its 20-point vimshopaka score; low scores mean it cannot give good results.",
+    "themes": ["vimshopaka", "vaiseshikamsa", "amsa bala"],
+    "common_outcomes": [
+      "Vimshopaka below 5 of 20: the planet cannot give auspicious results; 5-10 some good; 10-15 medium; above 15 wholly favourable (BPHS 7.26-27).",
+      "Named counts of good vargas (e.g. Parijata = 2, Gopura = 4, Simhasana = 5 in the ten-division scheme) mark strong planets."
+    ],
+    "rare_outcomes": [
+      "PVR: the lagna lord in simhasanamsa (5 good charts in dasavarga) makes one very famous."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": ["divisions of a combust, defeated, weak planet or one in a bad avastha are not counted as good (BPHS 6.42-53)"],
+    "lagna_or_context_notes": "BPHS also counts as good the divisions owned by the lords of kendras from the Arudha lagna; Santhanam notes this makes too many signs qualify and prefers exaltation, moolatrikona and own sign.",
+    "source_views": [
+      {"source": "BPHS 6.42-53 (tr. Santhanam)", "view": "Names the grades by number of good vargas in the 6-, 7-, 10- and 16-division schemes; good vargas are exaltation, moolatrikona, own sign and signs of kendra lords from the Arudha lagna; ignore those of combust, defeated, weak or badly placed planets.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 7.26-32", "view": "Vimshopaka score thresholds (below 5 no good, 5-10 some, 10-15 medium, above 15 full) and grading dasha results by vimshopaka.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Phaladeepika 3.6-3.7", "view": "Vaiseshikamsas arise from trikona, moolatrikona, own sign, exaltation, kendra and vargottama across the vargas; names Parijata (2) through Airavata (9).", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 1.44", "view": "Vaiseshikamsas start with uttama, produced by moolatrikona, own sign, exaltation and vargottama across the ten vargas.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 6.6", "view": "Counts only moolatrikona, own and exaltation signs; the dasavarga grouping is the important one; a kendra lord with good amsa bala in dasavarga brings success.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"}
+    ],
+    "disagreements": "Which placements count as 'good': BPHS includes Arudha-kendra lords' signs; Phaladeepika includes kendra and vargottama; PVR and Santhanam restrict to exaltation, moolatrikona and own sign.",
+    "confidence": "medium",
+    "phrasing_guidance": "Use as background weighting, not as a stand-alone claim.",
+    "conditional_results": [
+      {"when": "manual: planet's vimshopaka score is below 5 of 20", "polarity": "bad", "effects": ["unable to give auspicious results"], "source": "BPHS 7.26-27"},
+      {"when": "manual: planet's vimshopaka score is above 15 of 20", "polarity": "good", "effects": ["wholly favourable results"], "source": "BPHS 7.26-27"}
+    ]
+  },
+  {
+    "id": "varga/d9_and_dasha",
+    "layer": "varga",
+    "key": {"topic": "d9_and_dasha"},
+    "summary": "A dasha lord's D9 condition modifies its period: vargottama or exalted in D9 helps, debilitated or inimical D9 spoils; and D9 houses tell what the period does for marriage and dharma.",
+    "themes": ["dasha", "navamsa", "timing"],
+    "common_outcomes": [
+      "Check the dasha and antardasha lords' D9 dignity before finalising a period's tone (Raman; Phaladeepika 20.22; JP 18.170).",
+      "Periods of the D9 7th lord or planets tied to the D9 lagna can bring marriage (PVR; Rath).",
+      "Period of an exalted planet in the 12th from the atmakaraka in D9 can turn the mind to liberation (PVR)."
+    ],
+    "rare_outcomes": [
+      "PVR runs Narayana dasa on D9 (starting from the D1 9th lord's D9 sign) to time marriage events."
+    ],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "Marriage timing.", "family": "", "spirituality": "12th from AK in D9."},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 20.22", "view": "The dasha of a vargottama planet is favourable; mixed if that planet is eclipsed or debilitated.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 18.170", "view": "The dasha of a planet in a debilitation or inimical navamsa is untoward.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV", "view": "The dasha lord's results are modified by its favourable or unfavourable navamsa position among other factors.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 16.5.1 and 18.5", "view": "A planet gives results promised by its positions in the divisional charts, e.g. the D9 7th lord's period can give marriage; Narayana dasa of D9 times marital events.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. X 10.5.2", "view": "Timing of marriage can be done accurately from the navamsa via the dasha lord's link to the navamsa lagna and the antardasha lord's link to the D9 7th lord.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Use D9 condition to soften or strengthen period descriptions, not to flip them completely.",
+    "conditional_results": [
+      {"when": "md_vargottama == true", "polarity": "good", "effects": ["favourable period"], "source": "Phaladeepika 20.22"},
+      {"when": "md_d9_dignity == 'debilitated'", "polarity": "bad", "effects": ["period untoward"], "source": "Jataka Parijata 18.170"},
+      {"when": "ad_d9_dignity == 'debilitated'", "polarity": "bad", "effects": ["sub-period untoward"], "source": "Jataka Parijata 18.170"},
+      {"when": "ad_vargottama == true", "polarity": "good", "effects": ["sub-period favourable"], "source": "Phaladeepika 20.22"}
+    ]
+  }
+]

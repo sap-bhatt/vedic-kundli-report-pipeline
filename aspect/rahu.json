@@ -1,0 +1,687 @@
+[
+  {
+    "id": "aspect/rahu/1",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 1
+    },
+    "summary": "Few sourced results: Raman uses Rahu's aspect on planets in the lagna (with the 6th lord or Gulika) as a source of trouble, and PVR reads Rahu's aspect on a mundane lagna as turbulence.",
+    "themes": [
+      "disturbance",
+      "health worries",
+      "relatives"
+    ],
+    "common_outcomes": [],
+    "rare_outcomes": [
+      "Raman (HJH vol. 1, pp. 249-250): Jupiter or Venus in the lagna with the 6th lord, aspected by Saturn, Rahu or Mars, brings trouble from relatives",
+      "Raman (HJH vol. 1, pp. 266-267): Gulika in the lagna aspected by Rahu points to poison in the body through swelling, or the evil eye",
+      "PVR Narasimha Rao (ch. on mundane charts, chart 81): Rahu's aspect on the lagna of a nation's new-year chart can disturb general well-being in Rahu dasha"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Raman links Rahu's aspect on Gulika in the lagna with toxins and swelling; report with care",
+      "relationships": "",
+      "family": "trouble from relatives when Rahu aspects benefics joined with the 6th lord in the lagna (Raman)",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 1 from houses 9, 7 and 5. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 5, 7, 9 - the same set - and also from house 12), three-quarter from houses 2 and 10, half from houses 3, 4, 6, 8; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [
+      {
+        "when": "manual: Gulika occupies the lagna",
+        "polarity": "bad",
+        "effects": [
+          "toxins in the body through swelling, or the evil eye"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Sixth House', pp. 266-267"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Sixth House', pp. 249-250 and 266-267",
+        "view": "Raman's rules speak of houses and planets 'aspected by Rahu or Ketu', so he treats the nodes as casting aspects, without listing which houses.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, chart 81 (India 1992-93 new-year chart)",
+        "view": "Rahu's aspect on the lagna can affect the general well-being of the nation and create turbulence in Rahu dasa.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "Mention only a tendency to restlessness or outside disturbance, and only if other factors agree; no health claims."
+  },
+  {
+    "id": "aspect/rahu/2",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 2
+    },
+    "summary": "",
+    "themes": [],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 2 from houses 10, 8 and 6. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 6, 8, 10 - the same set - and also from house 1), three-quarter from houses 3 and 11, half from houses 4, 5, 7, 9; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "No source read gives a result for this aspect; say nothing specific beyond the node's placement."
+  },
+  {
+    "id": "aspect/rahu/3",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 3
+    },
+    "summary": "BPHS lists the 3rd aspected or occupied by Saturn and Rahu together in its chapter on the manner of death; no other sourced result.",
+    "themes": [
+      "siblings",
+      "courage"
+    ],
+    "common_outcomes": [],
+    "rare_outcomes": [
+      "BPHS 44.25-31: the 3rd aspected or occupied by Saturn and Rahu shows death through poison, water, fire, a fall or confinement [maraka: text predicts the manner of death]"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 3 from houses 11, 9 and 7. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 7, 9, 11 - the same set - and also from house 2), three-quarter from houses 4 and 12, half from houses 5, 6, 8, 10; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "BPHS 44.25-31 (tr. Santhanam)",
+        "view": "If the 3rd is aspected or occupied by Saturn and Rahu, death through poison, water, fire, fall from height or confinement.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "Do not mention the death verse to users; say nothing specific."
+  },
+  {
+    "id": "aspect/rahu/4",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 4
+    },
+    "summary": "",
+    "themes": [],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 4 from houses 12, 10 and 8. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 8, 10, 12 - the same set - and also from house 3), three-quarter from houses 5 and 1, half from houses 6, 7, 9, 11; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "No source read gives a result for this aspect; say nothing specific beyond the node's placement."
+  },
+  {
+    "id": "aspect/rahu/5",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 5
+    },
+    "summary": "",
+    "themes": [],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 5 from houses 1, 11 and 9. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 9, 11, 1 - the same set - and also from house 4), three-quarter from houses 6 and 2, half from houses 7, 8, 10, 12; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "No source read gives a result for this aspect; say nothing specific beyond the node's placement."
+  },
+  {
+    "id": "aspect/rahu/6",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 6
+    },
+    "summary": "Raman uses Rahu's aspect on malefics in the 6th as worsening disease and loss: lingering illness, or loss of property by auction.",
+    "themes": [
+      "disease",
+      "debts",
+      "enemies"
+    ],
+    "common_outcomes": [],
+    "rare_outcomes": [
+      "Raman (HJH vol. 1, pp. 249-250): Saturn or Mars in the 6th aspected by Rahu (or the Sun), with a weak lagna lord, gives lingering disease",
+      "Raman (HJH vol. 1, pp. 249-250): the 6th lord in the 6th with Mars, aspected by Rahu or Ketu, brings loss of estates by auction"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "loss of property through debt or auction (Raman)",
+      "health": "chronic, slow-to-clear illness with a weak lagna lord (Raman)",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 6 from houses 2, 12 and 10. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 10, 12, 2 - the same set - and also from house 5), three-quarter from houses 7 and 3, half from houses 8, 9, 11, 1; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [
+      {
+        "when": "manual: Saturn or Mars occupies the 6th and the lagna lord is weak",
+        "polarity": "bad",
+        "effects": [
+          "lingering disease"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Sixth House', pp. 249-250"
+      },
+      {
+        "when": "manual: the 6th lord is in the 6th with Mars",
+        "polarity": "bad",
+        "effects": [
+          "loss of estates by auction"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Sixth House', pp. 249-250"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Sixth House', pp. 249-250 and 266-267",
+        "view": "Raman's rules speak of houses and planets 'aspected by Rahu or Ketu', so he treats the nodes as casting aspects, without listing which houses.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "If used at all, speak of attending to health and debts carefully; no disease predictions."
+  },
+  {
+    "id": "aspect/rahu/7",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 7
+    },
+    "summary": "",
+    "themes": [],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 7 from houses 3, 1 and 11. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 11, 1, 3 - the same set - and also from house 6), three-quarter from houses 8 and 4, half from houses 9, 10, 12, 2; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "No source read gives a result for this aspect; say nothing specific beyond the node's placement."
+  },
+  {
+    "id": "aspect/rahu/8",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 8
+    },
+    "summary": "Raman uses Rahu's aspect on Gulika in the 8th as a sign of toxins or swelling; no other sourced result.",
+    "themes": [
+      "chronic illness",
+      "hidden matters"
+    ],
+    "common_outcomes": [],
+    "rare_outcomes": [
+      "Raman (HJH vol. 1, pp. 266-267): Gulika in the 8th aspected by Rahu points to poison in the body through swelling, or the evil eye"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "toxins or swelling when Gulika is in the 8th (Raman); report with care",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 8 from houses 4, 2 and 12. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 12, 2, 4 - the same set - and also from house 7), three-quarter from houses 9 and 5, half from houses 10, 11, 1, 3; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [
+      {
+        "when": "manual: Gulika occupies the 8th",
+        "polarity": "bad",
+        "effects": [
+          "toxins in the body through swelling, or the evil eye"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Sixth House', pp. 266-267"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Sixth House', pp. 249-250 and 266-267",
+        "view": "Raman's rules speak of houses and planets 'aspected by Rahu or Ketu', so he treats the nodes as casting aspects, without listing which houses.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "Avoid health claims; say nothing specific unless other factors agree."
+  },
+  {
+    "id": "aspect/rahu/9",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 9
+    },
+    "summary": "",
+    "themes": [],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 9 from houses 5, 3 and 1. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 1, 3, 5 - the same set - and also from house 8), three-quarter from houses 10 and 6, half from houses 11, 12, 2, 4; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "No source read gives a result for this aspect; say nothing specific beyond the node's placement."
+  },
+  {
+    "id": "aspect/rahu/10",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 10
+    },
+    "summary": "",
+    "themes": [],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 10 from houses 6, 4 and 2. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 2, 4, 6 - the same set - and also from house 9), three-quarter from houses 11 and 7, half from houses 12, 1, 3, 5; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "No source read gives a result for this aspect; say nothing specific beyond the node's placement."
+  },
+  {
+    "id": "aspect/rahu/11",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 11
+    },
+    "summary": "",
+    "themes": [],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 11 from houses 7, 5 and 3. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 3, 5, 7 - the same set - and also from house 10), three-quarter from houses 12 and 8, half from houses 1, 2, 4, 6; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "No source read gives a result for this aspect; say nothing specific beyond the node's placement."
+  },
+  {
+    "id": "aspect/rahu/12",
+    "layer": "aspect",
+    "key": {
+      "planet": "Rahu",
+      "house": 12
+    },
+    "summary": "",
+    "themes": [],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Calculator convention: Rahu aspects the 5th, 7th and 9th from itself, so it aspects house 12 from houses 8, 6 and 4. Sources differ: Vijnananda's note to Brihat Jataka 2.13 gives full aspects on the 5th, 7th, 9th and 12th counted backward (so from houses 4, 6, 8 - the same set - and also from house 11), three-quarter from houses 1 and 9, half from houses 2, 3, 5, 7; BPHS 26 says only that all planets aspect the 7th; PVR (by omission) and Braha give Rahu no graha drishti. Raman notes Rahu generally behaves like Saturn (HJH vol. 1, p. 43). Calculator dignity default: exalted in Taurus, debilitated in Scorpio.",
+    "conditional_results": [],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam)",
+        "view": "All planets aspect the 7th fully; only Saturn, Jupiter and Mars are named for special aspects; the chapter does not mention Rahu or Ketu.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka 2.13, translator's note (Swami Vijnananda, 1912)",
+        "view": "Rahu aspects the 5th, 7th, 9th and 12th with full sight, the 2nd and 10th with three-quarters, the 3rd, 4th, 6th and 8th with half, and the 1st and 11th not at all; Rahu's aspects are counted in the reverse direction. Ketu has no aspect at all. (A note by the translator, not Varahamihira's verse.)",
+        "url": "https://archive.org/details/BrihatJatakaOfVarahamihiraBySwamiVijnananda"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 10.2-10.4 and answers to exercise 14",
+        "view": "Lists graha drishti only for the seven planets Sun to Saturn (7th for all, special aspects for Mars, Jupiter, Saturn); Rahu and Ketu appear only in the rasi drishti exercise, so the nodes are given no graha drishti by omission.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Rahu and Ketu' and 'Drishtis--Planetary Aspects'",
+        "view": "Rahu and Ketu do not cast aspects as other planets do; a few scriptures attribute aspecting power to them, but few astrologers accept it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Which aspects Rahu has is disputed. Calculator: 5th, 7th, 9th. Vijnananda (note to Brihat Jataka 2.13): full 5th, 7th, 9th, 12th counted in reverse, plus partial aspects on the 2nd, 10th, 3rd, 4th, 6th, 8th, none on the 1st and 11th; counted backward the 5th and 9th fall on the same houses as forward, but the reverse 12th lands on the house just ahead of Rahu. BPHS 26.2-5: only 'all planets aspect the 7th', nodes not named. PVR Narasimha Rao: no graha drishti for the nodes (only rasi drishti). Braha: the nodes cast no aspects; few astrologers accept the texts that give them. Raman uses nodal aspects in his rules without specifying houses. Sanjay Rath's position on nodal graha drishti could not be verified (the Crux text read applies Rahu's rasi drishti).",
+    "confidence": "low",
+    "phrasing_guidance": "No source read gives a result for this aspect; say nothing specific beyond the node's placement."
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "dosha/manglik",
+    "layer": "dosha",
+    "key": {"name": "manglik"},
+    "summary": "Kuja (Mangal) dosha: Mars in houses read as sensitive for marriage (1, 4, 7, 8, 12, and in southern versions also 2) is said to strain marriage or, in the classical wording, endanger the spouse. Classical texts give the rule and also cancel it when both partners have it; modern authorities from Raman onward say it is over-applied.",
+    "themes": ["marriage", "spouse", "conflict", "marriage matching", "Mars"],
+    "common_outcomes": [
+      "friction, dominance or quarrels in marriage (Frawley, Mars in the 7th)",
+      "pressure in marriage matching: families reject proposals because of the label (Raman, Muhurtha pp. 98-100)"
+    ],
+    "rare_outcomes": [
+      "[maraka: text predicts danger to life / death] of the spouse when Mars has no benefic conjunction or aspect (BPHS 80.47; Phaladeepika 11.3 for Mars in the 7th)",
+      "remarriage when the planets in the 7th are mixed (Phaladeepika 11.3; Jataka Parijata 16.10)"
+    ],
+    "by_area": {
+      "personality": "Mars in the 1st can make one aggressive or contentious; Mars in the 4th an aggressive emotional nature; Mars in the 12th hidden passion or wasted energy (Frawley, Astrology of the Seers p. 181).",
+      "career": "Frawley notes Mars in the 7th often gives success in the social world, and that a stronger Mars may suit a woman who works and wants an independent marriage.",
+      "finance": "",
+      "health": "Mars in the 8th may give a strong sexual drive; Mars in the 12th a draining of vital energy (Frawley p. 181).",
+      "relationships": "Core area. Classical texts read it as danger to the spouse's life (BPHS 80.47-48); modern authors read it as conflict, dominance or difficulty in the spouse's life, and judge it only alongside the 7th house, its lord and Venus (Frawley; Raman).",
+      "family": "Raman counts the 2nd house as family and the 4th as domestic happiness, which is why those houses enter the rule (Muhurtha p. 99).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "no benefic conjunction or aspect on Mars (BPHS 80.47)",
+      "counted from Venus it is strongest, from the Moon middling, from the lagna weakest (Raman, Muhurtha pp. 98-99)",
+      "reinforced by other affliction of the 7th house, its lord or the marriage significator (Frawley p. 181)"
+    ],
+    "weakeners_or_cancellations": [
+      "see `cancellations`; the two most widely shared are a matching dosha in the partner's chart (BPHS 80.49; Raman; Frawley) and benefic, especially Jupiter's, aspect or conjunction (BPHS 80.47 by implication; onlinejyotish survey)"
+    ],
+    "lagna_or_context_notes": "The houses, reference points and sign exceptions differ by source (see `definitions` and `cancellations`). Raman says it is mainly a South Indian, especially Tamil, preoccupation. Frawley adds that the classical reading reflects a more passive role for women and may matter less where a woman works and needs a stronger Mars.",
+    "provenance": "Classical. BPHS 80.47-49 (Stri Jataka chapter, Santhanam numbering) gives the rule (Mars in lagna, 12, 4, 7, 8 without benefic aspect or conjunction) and the matching cancellation. Phaladeepika 11.3 and Jataka Parijata 16.10/30/43 give the narrower or more general forms (Mars or malefics in the 7th or 8th of a woman's chart give widowhood). The 2nd-house variant appears in a verse Raman attributes to the 'Kerala sastra' (dhane vyaye ca patale jamitre cashtame kuje). The name 'Kuja dosha' / 'Manglik' and the long cancellation lists come from later marriage-matching practice; the verses in onlinejyotish's list (Muhurta Chintamani, Jataka Chandrika, Jataka Parijata, Garga) are attributed there but were not confirmed in those texts here. Modern critique: Raman calls it a 'bugbear' that has destroyed eligible marriages; Wikipedia's article describes it as a superstition and documents mock marriages (kumbh vivah) used to discharge it.",
+    "definitions": [
+      {"source": "BPHS 80.47 (Sanskrit as on enjoylearningsanskrit.com; tr. Santhanam vol. 2 p. 964)", "definition": "In a woman's chart, Mars in the lagna, 12th, 4th, 7th or 8th, with no benefic aspect or conjunction, 'kills the husband'. 80.48: the same yoga in a man's chart kills the wife. Houses counted from the lagna only. Santhanam's English drops the lagna and lists 12, 4, 7, 8, although the Sanskrit includes it (lagne)."},
+      {"source": "Phaladeepika 11.3 (tr. V. Subrahmanya Sastri, wisdomlib)", "definition": "In a woman's chart, if the 7th sign or its navamsa belongs to Mars, or Mars occupies the 7th, she becomes a widow; malefics in the 8th cause the husband's destruction. Mixed planets in the 7th give remarriage."},
+      {"source": "Phaladeepika 10.6-8 (tr. Sastri, wisdomlib)", "definition": "Not Mars-specific: malefics in the 7th count how many spouses may die early; malefics in their debilitation or enemy signs in the 2nd, 7th or 8th signal the death of a spouse. Malefics in the 12th, 4th and 8th from Venus indicate loss of wife (chapter introduction)."},
+      {"source": "Jataka Parijata 16.10, 16.30, 16.43 (tr. V. Subrahmanya Sastri, vol. II)", "definition": "Not Mars-specific: malefics in the 7th make a woman a widow (16.10, 16.30); a malefic in the 8th makes her a widow, with timing from the navamsa lord of the 8th lord (16.43). 16.6 records the view that widowhood is judged from the 8th house."},
+      {"source": "Verse quoted by B.V. Raman as from the 'Kerala sastra' (Muhurtha, p. 98)", "definition": "Mars in the 2nd, 12th, 4th, 7th or 8th in a woman's chart brings the husband's death, and the same in a man's chart the wife's death. Raman counts these houses from the lagna, the Moon and Venus."},
+      {"source": "Frawley, Astrology of the Seers p. 180-181", "definition": "Mars in the 1st, 4th, 7th, 8th or 12th (from the lagna; no other reference point given)."},
+      {"source": "Practitioner survey: onlinejyotish.com 'Kuja dosha nivarana'; dekhopanchang.com 'doshas detailed'", "definition": "Mars in 1, 2, 4, 7, 8 or 12 from the lagna, Moon or Venus; the 2nd house is added in many, especially South Indian, traditions. Dekhopanchang grades it as mildest from the lagna and most severe when present from all three references."}
+    ],
+    "cancellations": [
+      {"condition": "Both bride and groom have the yoga: it ceases to have effect", "source": "BPHS 80.49 (tr. Santhanam vol. 2 p. 964); Raman, Muhurtha p. 99; Frawley p. 181"},
+      {"condition": "Mars receives a benefic aspect or is conjoined with a benefic (the rule applies only when 'devoid of benefic aspect or conjunction')", "source": "BPHS 80.47"},
+      {"condition": "Sign exceptions: no dosha for Mars in the 2nd in Gemini or Virgo, the 12th in Taurus or Libra, the 4th in Aries or Scorpio, the 7th in Capricorn or Cancer, the 8th in Sagittarius or Pisces; none at all in Leo or Aquarius", "source": "Raman, Muhurtha pp. 99-100"},
+      {"condition": "Mars conjoined with Jupiter or with the Moon counteracts it", "source": "Raman, Muhurtha p. 100"},
+      {"condition": "Sign exceptions: 1st house in Aries, 4th in Scorpio, 7th in Capricorn or Pisces, 8th in Cancer, 12th in Sagittarius", "source": "Frawley, Astrology of the Seers p. 180-181"},
+      {"condition": "Mars in its own signs, exaltation (Capricorn) or debilitation (Cancer) in the 4th or 7th", "source": "Muhurta Chintamani verse 'catuh saptamako bhaumo...' as quoted and attributed by onlinejyotish.com (not confirmed in the text) (via summary)"},
+      {"condition": "Mars in a movable sign in the 2nd, 4th, 8th or 12th", "source": "Jataka Chandrika verse 'cara rasi gato bhaumah...' as attributed by onlinejyotish.com (not confirmed in the text) (via summary)"},
+      {"condition": "Mars conjoined with or aspected by Jupiter or Mercury", "source": "Jataka Parijata verse as attributed by onlinejyotish.com; not found in Sastri's Jataka Parijata ch. 16 here (via summary)"},
+      {"condition": "Lagna in Cancer or Leo (signs of the Moon and Sun); Mars in a friendly sign", "source": "unattributed verses quoted by onlinejyotish.com (via summary)"},
+      {"condition": "Mars debilitated or exalted has no dosha", "source": "verse attributed to Garga by onlinejyotish.com (via summary)"},
+      {"condition": "Venus in the 7th; Mars with Venus; Mars in Gemini or Virgo in the 2nd; age 28 or above (said by 'many astrologers' to largely neutralise it)", "source": "dekhopanchang.com practitioner survey (via summary)"}
+    ],
+    "rarity_and_weight": "Very common: with five or six houses from up to three reference points, a large share of charts qualify before cancellations; Frawley says 'many charts have them to at least some degree'. Raman says much less importance should be given to it than it gets, that it is only one of several marriage factors, and that no horoscope should be rejected on it alone (Muhurtha pp. 98-100, 187). An academic study of Manglik cases in Jammu (serialsjournals.com, via summary) reports that in most cases it stands cancelled.",
+    "timing": "No classical timing rule was found. Jataka Parijata 16.43 times widowhood from the navamsa lord of the 8th lord (general malefic-in-8th rule, not Mars-specific). Dekhopanchang (practitioner survey) says doshas act mainly in the dasha of the planet involved.",
+    "conditional_results": [
+      {"when": "manual: Mars in the lagna, 4th, 7th, 8th or 12th from the lagna with no benefic conjunction or aspect (woman's chart; 80.48 extends it to a man's chart)", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death] of the spouse"], "source": "BPHS 80.47-48 (tr. Santhanam)"},
+      {"when": "manual: both partners have the same yoga", "polarity": "good", "effects": ["the yoga ceases to have effect"], "source": "BPHS 80.49 (tr. Santhanam)"},
+      {"when": "manual: Mars occupies the 7th, or the 7th sign or its navamsa is Martian, in a woman's chart", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death] of the husband (widowhood)"], "source": "Phaladeepika 11.3"}
+    ],
+    "remedies": [
+      {"remedy": "marry a partner with the same yoga (the matching cancels it)", "source": "BPHS 80.49; Raman, Muhurtha p. 99"},
+      {"remedy": "ritual marriage to a pot (kumbh vivah), tree or object before the real marriage", "source": "Wikipedia 'Mangala Dosha' (folk practice; no classical source found); dekhopanchang.com (via summary)"},
+      {"remedy": "Hanuman worship, Tuesday fasting, Mangal shanti puja, charity of red lentils or copper on Tuesdays; red coral only if Mars is a functional benefic", "source": "dekhopanchang.com practitioner survey (via summary)"}
+    ],
+    "phases": "",
+    "source_views": [
+      {"source": "BPHS 80.46-49 (tr. R. Santhanam, vol. 2, Ranjan 1992, pp. 963-964)", "view": "Mars in lagna, 12, 4, 7 or 8 without benefic aspect or conjunction makes a woman a widow; the same makes a man a widower; when two such natives marry the yoga is cancelled. Santhanam's note says such natives are called Mangali or Mangalik.", "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"},
+      {"source": "BPHS 80.47-48 (Sanskrit with word-by-word translation)", "view": "The verse begins 'lagne vyaye sukhe vapi saptame castame kuje'; 80.48 extends it to men.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-80/verse-47"},
+      {"source": "Phaladeepika 11.3; 10.6-8 (tr. V. Subrahmanya Sastri, wisdomlib; OCR not proofread)", "view": "Mars in, or ruling, the 7th of a woman's chart gives widowhood; malefics in the 8th destroy the husband. Ch. 10 counts malefics in the 7th and afflicted 2nd/7th/8th for loss of spouse; malefics owning the house are an exception.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621583.html"},
+      {"source": "Jataka Parijata 16.6, 16.10, 16.24, 16.30, 16.43 (tr. V. Subrahmanya Sastri, vol. II)", "view": "General Stri Jataka rules: malefics in the 7th or 8th give widowhood; Saturn in a malefic 7th sign gives widowhood. No Mars-only 'Kuja dosha' verse was found in this chapter.", "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, Muhurtha or Electional Astrology, pp. 97-100, 187", "view": "Says it is a 'bugbear', made much of in South India and especially Tamil areas, that has destroyed many happy marriages. In his experience it is mentioned only in Kerala works; he counts houses 2, 12, 4, 7, 8 from the lagna (weakest), the Moon and Venus (strongest). Lists sign exceptions and conjunctions with Jupiter or the Moon that cancel it, and concludes it 'does not deserve' the attention it gets.", "url": "https://archive.org/details/in.ernet.dli.2015.128092"},
+      {"source": "David Frawley, Astrology of the Seers, pp. 180-181", "view": "Houses 1, 4, 7, 8, 12, with sign exceptions; the 7th is hardest, then the 1st and 8th. Gives a separate psychological meaning for each house. Warns against simplistic reading because many charts have it. Says it must be confirmed by other affliction to the 7th house, and that it reflects older gender roles.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "onlinejyotish.com, 'Kuja dosha nivarana' (practitioner survey)", "view": "Collects the Sanskrit cancellation verses with source attributions (Muhurta Chintamani, Jataka Chandrika, Jataka Parijata, Garga). The attributions are the site's own.", "url": "https://www.onlinejyotish.com/articles/marriage-matching/english/kuja-dosha-nivarana.php"},
+      {"source": "Wikipedia, 'Mangala Dosha'", "view": "Calls it a Hindu superstition: the belief that a Manglik spouse causes a non-Manglik partner's early death, and the mock-marriage remedy (kumbh vivah) (via summary).", "url": "https://en.wikipedia.org/wiki/Mangala_Dosha"}
+    ],
+    "disagreements": "Houses: BPHS and Frawley count 1, 4, 7, 8, 12; the Kerala verse Raman quotes counts 2, 4, 7, 8, 12 (no 1st); modern practice usually counts both lists (1, 2, 4, 7, 8, 12). References: BPHS counts from the lagna only; Raman and modern practice also count from the Moon and Venus, but Raman makes Venus strongest while dekhopanchang makes the lagna mildest and all three together most severe. Sign exceptions differ between Raman and Frawley (e.g., the 7th: Capricorn/Cancer vs Capricorn/Pisces; the 8th: Sagittarius/Pisces vs Cancer). Severity: the classical texts predict the spouse's death; Frawley reads it as conflict or an independent style of marriage; Raman says it is overrated.",
+    "confidence": "high",
+    "phrasing_guidance": "Say which rule the chart meets (houses and reference point) and list any cancellations before anything else. Never say the spouse will die or that the marriage will fail. Frame it as a Mars theme in partnership (energy, independence, friction to channel) and say it is common and is only one factor among many in marriage matching. Avoid fear-driven advice to reject a match or pay for costly rituals."
+  },
+  {
+    "id": "dosha/kaal_sarp",
+    "layer": "dosha",
+    "key": {"name": "kaal_sarp"},
+    "summary": "Kaal Sarp (Kala Sarpa): all seven planets fall on one side of the Rahu-Ketu axis. It is absent from the major classical texts and was popularised in the 20th century. Raman gave it little weight in individual charts, and K.N. Rao called its commercial use fraudulent.",
+    "themes": ["Rahu-Ketu axis", "struggle and sudden rise", "fear-based remedies"],
+    "common_outcomes": [
+      "industriousness and awareness of one's own ability, with mental restlessness (Raman, via summary)",
+      "betrayal by trusted friends or relatives (Raman, via summary)"
+    ],
+    "rare_outcomes": [
+      "rise to the top of one's field when Raja yogas are also present (Raman, via summary)"
+    ],
+    "by_area": {
+      "personality": "Raman: makes one industrious and self-aware; suffering can strengthen and mellow the mind (via summary).",
+      "career": "Raman: can raise natives to top positions if other Raja yogas are present; the Rahu-to-Ketu form favours worldly rise (via summary).",
+      "finance": "",
+      "health": "Raman rejects the view that it shortens life as 'not tenable' (via summary).",
+      "relationships": "Raman (Catechism, via barbarapijan) reads the result by the axis: e.g., nodes across 1/7 may strain marriage.",
+      "family": "",
+      "spirituality": "Raman: the Ketu-to-Rahu form (Kala Amrita) points to spiritual elevation (via summary)."
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": ["see `cancellations`"],
+    "lagna_or_context_notes": "Raman judged it more relevant to mundane (world-event) astrology than to individual charts (via summary). Satyori says twelve named varieties (Anant, Kulik, Vasuki, Shankhpal, Padma, Mahapadma, Takshak, Karkotak, Shankhachud, Ghatak, Vishdhar, Sheshnag) are distinguished by Rahu's house, and that the names vary between sources (practitioner survey).",
+    "provenance": "Not classical. It is not in BPHS, Brihat Jataka, Saravali, Phaladeepika or Jataka Parijata: Raman, Shyamasundara Dasa and Satyori all say so, and no such yoga appeared in the chapters read here. Raman wrote that 'strictly speaking' it does not find a place in classical literature (annexure to later editions of Three Hundred Important Combinations; that annexure is absent from the 1947 edition checked on archive.org, so it is a later addition) (via summary). Related classical ideas with a different meaning: the Nabhasa 'Sarpa yoga' (malefics in three kendras; P.V.R. Narasimha Rao's Integrated Approach, Raman's 300 Combinations no. 106) and BPHS 83.9-19 'sarpa shapa', a serpent's curse read from Rahu-5th-house combinations that denies a son, with naga puja as the remedy. Modern critique: K.N. Rao, 'KSY Again 2' (Journal of Astrology, 23 Nov 2006), calls KSY 'fraudulent' and a 'newly discovered source of income', used to frighten clients into costly shantis. Satyori reports that Sanjay Rath and K.N. Rao treat it as a late invention, and that Bepin Behari and temple astrologers treat it as classical.",
+    "definitions": [
+      {"source": "B.V. Raman, Three Hundred Important Combinations (later-edition annexure, p. 327) and A Catechism of Astrology (via summary: barbarapijan.com)", "definition": "All seven planets and the lagna lie within the arc from Rahu to Ketu; Raman requires Rahu in houses 1-6. The reverse form (planets from Ketu to Rahu) also applies, as a 'tempered' or spiritual form."},
+      {"source": "Shyamasundara Dasa, Q&A on Kala Sarpa yoga", "definition": "All planets lie between Rahu and Ketu, counted in the zodiacal order from Rahu; the reverse, from Ketu to Rahu, is 'Kala Amrita' yoga."},
+      {"source": "Satyori, 'Kala Sarpa Yoga' (practitioner survey)", "definition": "All seven classical planets lie on one side of the nodal axis. Strict practitioners reject the 'partial' form (six planets inside, one outside), which popular astrologers still use. There are twelve named varieties by Rahu's house."},
+      {"source": "K.N. Rao, 'KSY Again 2' (Journal of Astrology, 2006)", "definition": "No formation rule is given. He says practitioners frighten clients with 'KSY or even half KSY'."}
+    ],
+    "cancellations": [
+      {"condition": "Lagna outside the arc, or an exalted, strong Mercury (Catechism Q.51); Saturn outside the arc (Q.31)", "source": "B.V. Raman, A Catechism of Astrology (via summary: barbarapijan.com)"},
+      {"condition": "Any other planet in Rahu's house (some astrologers)", "source": "barbarapijan.com (via summary)"},
+      {"condition": "A planet outside the semicircle; a planet within 3 degrees of a node; strong Raja yogas; Rahu or Ketu in dignity; Jupiter aspecting the axis", "source": "Satyori practitioner survey (via summary)"}
+    ],
+    "rarity_and_weight": "Satyori estimates the strict full form at roughly 1 chart in 25-30; partial and 'half' forms, which are much more common, are what is often diagnosed (K.N. Rao). Weight: Raman says it is of little importance in individual charts, and that no single yoga, this one included, can make or mar a horoscope (via summary).",
+    "timing": "",
+    "conditional_results": [],
+    "remedies": [
+      {"remedy": "serpent (naga) worship, a gold Naga Raja image, and gifts of a cow, land, sesame and gold: given in BPHS for the serpent's curse (sarpa shapa) on progeny, not for Kaal Sarp", "source": "BPHS 83.17-19 (tr. Santhanam)"},
+      {"remedy": "Naga Panchami observance, milk abhisheka of Shiva (e.g., at Trimbakeshwar, Kalahasti), Rahu-Ketu mantra, gifts of sesame on Saturdays", "source": "Satyori practitioner survey (via summary)"},
+      {"remedy": "self-awareness, service and education instead of costly puja", "source": "barbarapijan.com (via summary)"}
+    ],
+    "phases": "",
+    "source_views": [
+      {"source": "K.N. Rao, 'KSY Again 2', Journal of Astrology (dated 23 Nov 2006), via the PDF linked from shyamasundaradasa.com", "view": "Calls KSY fraudulent. Astrologers frighten distressed clients with 'KSY or even half KSY' and sell yagnas costing thousands of rupees. Gives an example in which one astrologer diagnosed KSY that others said was absent. He calls such practitioners 'upayacharyas' rather than jyotishacharyas.", "url": "https://www.shyamasundaradasa.com/jyotish/resources/downloads/KSY_Journal_ofAstrology.zip"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations (annexure) / Catechism of Astrology (via summary)", "view": "Not in classical literature; more relevant to mundane astrology; has bright sides (industry, rise with Raja yogas); claims that it shortens life or blocks other yogas are 'not tenable'; no single yoga makes or mars a chart.", "url": "https://www.shyamasundaradasa.com/jyotish/resources/q&a/kala_sarpa_yoga.html"},
+      {"source": "Barbara Pijan Lama, 'Kala Sarpa Yoga' (practitioner survey; quotes Raman's 300 Combinations p. 327 and Catechism)", "view": "Not in BPHS; dire predictions are 'ridiculously over-simplified'; 'famous but over-estimated'. Records Raman's cancellations and his house-1-to-6 requirement for Rahu.", "url": "https://www.barbarapijan.com/bpa/Graha/Rahu/Kala_Sarpa_Yoga.htm"},
+      {"source": "Satyori, 'Kala Sarpa Yoga' (practitioner survey; no named author)", "view": "Not named in Brihat Jataka, Parashara, Saravali or Jataka Parijata; later medieval/modern. Takes a middle view: a real axis emphasis whose curse reputation overstates the evidence.", "url": "https://satyori.com/jyotish/articles/kala-sarpa-yoga/"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), p. 271", "view": "Notes the presence of KSY in a chart in passing, with no doctrine or weighting (read in full at that passage).", "url": "https://archive.org/details/sanjayrathcruxofvedicastrologytimingofevents19982"},
+      {"source": "BPHS 83.9-19 (tr. Santhanam vol. 2 pp. 987-988; Sanskrit at enjoylearningsanskrit.com)", "view": "The classical serpent-related affliction is the 'serpent's curse' (sarpa shapa) on progeny: Rahu in the 5th aspected by Mars, the 5th lord with Rahu, Jupiter with Rahu, etc.; the remedy is naga puja. This is not Kaal Sarp.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-83/verse-17"}
+    ],
+    "disagreements": "Whether it is classical: Raman, K.N. Rao and Shyamasundara Dasa say no; Satyori reports Bepin Behari and temple astrologers treat it as classical. Whether the reverse (Ketu-to-Rahu) form counts: Raman accepts it as a tempered or spiritual form; Shyamasundara Dasa names it Kala Amrita; barbarapijan says most astrologers reject it. Whether partial forms count: strict practitioners say no; popular practice says yes. Whether the lagna must be inside the arc: Raman says yes (lagna outside cancels).",
+    "confidence": "low",
+    "phrasing_guidance": "Say plainly that this is a modern idea not found in the classical texts and that leading astrologers (Raman, K.N. Rao) give it little or no weight in a personal chart. If mentioned at all, describe it as a strong Rahu-Ketu emphasis whose meaning depends on the houses involved, never as a curse. Never predict short life or blocked success, and never steer the user toward paid rituals."
+  },
+  {
+    "id": "dosha/pitra",
+    "layer": "dosha",
+    "key": {"name": "pitra"},
+    "summary": "Pitra (Pitru) dosha: an affliction attributed to ancestors. Classically, BPHS lists 'curse of the father' (pitru shapa) combinations, centred on the Sun, the 5th house and the 9th/10th lord, that deny a son, with ancestral rites as the remedy. The popular modern definition (Sun with Rahu or Saturn, an afflicted 9th house) is broader and not in that list.",
+    "themes": ["ancestors", "father", "progeny", "ritual duty"],
+    "common_outcomes": ["lack of a male heir attributed to a past-life curse of the father (BPHS 83.20-30)"],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "Core area: in BPHS, absence of male issue and a broken family line; Rath says these curses are read with the 5th house (Crux p. 172-173).",
+      "spirituality": "Remedies are ancestral rites (Gaya shraddha), feeding Brahmins, kanyadana and the gift of a cow (BPHS 83.31-33)."
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Santhanam's note to BPHS ch. 83 says 'childlessness' in the chapter means lack of a male issue, because the son performs the parents' last rites.",
+    "provenance": "Partly classical. BPHS ch. 83 ('Effects of curses in the previous birth', Santhanam numbering) gives yogas for the curse of the father (83.20-30) and its remedies (83.31-33), alongside curses of a serpent, mother, brother, maternal uncle, Brahmin, wife and departed soul. The classical concept is narrow (lack of a son) and the combinations are specific. The term 'Pitra dosha' and the common definition (Sun conjoined with Rahu, or with Saturn, or an afflicted 9th house/lord) are modern practitioner usage (dekhopanchang). A Sun-Rahu-in-the-9th 'BPHS sloka' quoted online was not found among the BPHS 83 father's-curse yogas read here. Practitioner surveys note the broadest definitions have minimal classical basis and are used commercially (search summary).",
+    "definitions": [
+      {"source": "BPHS 83.20 (Sanskrit, enjoylearningsanskrit.com; tr. Santhanam)", "definition": "The Sun debilitated in the 5th, in a navamsa of Saturn, hemmed in by malefics: loss of children by the father's curse."},
+      {"source": "BPHS 83.21", "definition": "The Sun as 5th lord in a trine, with malefics, hemmed in by malefics and aspected by malefics."},
+      {"source": "BPHS 83.27", "definition": "The Sun, Mars and Saturn in the lagna and 5th, with Rahu and Jupiter in the 8th and 12th (Santhanam: most logically, the Sun in the lagna, Mars and Saturn in the 5th, Rahu in the 8th, Jupiter in the 12th)."},
+      {"source": "BPHS 83.30", "definition": "The 6th lord in the 5th, the lord of the father's house in an inimical state, and the significator (karaka) with Rahu."},
+      {"source": "BPHS 83.22-29 (tr. Santhanam, summarised)", "definition": "Other father's-curse yogas include: an exchange between the 5th and 10th lords with malefics in the lagna and 5th; Mars as 10th lord with the 5th lord and malefics in the 1st, 5th and 10th; and the Sun in the 8th, Saturn in the 5th, the 5th lord with Rahu and a malefic in the lagna."},
+      {"source": "dekhopanchang.com 'doshas detailed' (practitioner survey)", "definition": "The Sun combined with Rahu or Saturn, with affliction of the 9th house."}
+    ],
+    "cancellations": [],
+    "rarity_and_weight": "",
+    "timing": "",
+    "conditional_results": [
+      {"when": "manual: one of the BPHS 83.20-30 father's-curse combinations is present", "polarity": "bad", "effects": ["no male issue, attributed to a curse of the father in a past life"], "source": "BPHS 83.20-30 (tr. Santhanam)"}
+    ],
+    "remedies": [
+      {"remedy": "perform shraddha at Gaya; feed 10,000, 1,000 or 100 Brahmins as one can afford; perform kanyadana; give a cow", "source": "BPHS 83.31-33 (tr. Santhanam; Sanskrit 83.31 on enjoylearningsanskrit.com)"}
+    ],
+    "phases": "",
+    "source_views": [
+      {"source": "BPHS ch. 83, 'Effects of curses in the previous birth' (tr. R. Santhanam vol. 2, pp. 985-990)", "view": "Maitreya asks why a man has no son; Parashara lists curse yogas by type (serpent, father, mother, brother, maternal uncle, Brahmin, wife, departed soul) with remedies for each.", "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"},
+      {"source": "BPHS 83.20, 83.21, 83.27, 83.30, 83.31 (Sanskrit with translation)", "view": "Each verse ends 'pitrishapat sutakshayah' (loss of children from the father's curse); 83.31 prescribes Gaya shraddha and feeding Brahmins.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-83/verse-21"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), pp. 172-173", "view": "Denial of children may come from past-life curses listed in BPHS (Brahma, pitru, matru, shatru shapa). Analyses the curse through the 5th house; one should be careful before pronouncing a curse.", "url": "https://archive.org/details/sanjayrathcruxofvedicastrologytimingofevents19982"},
+      {"source": "dekhopanchang.com, 'doshas detailed' (practitioner survey)", "view": "The modern one-line definition: the Sun combined with Rahu or Saturn plus an afflicted 9th house (via summary).", "url": "https://dekhopanchang.com/en/learn/doshas-detailed"}
+    ],
+    "disagreements": "The classical form (BPHS) is about the 5th house and the Sun as karaka and results in no son. The modern form centres on the Sun with Rahu or Saturn and the 9th house and is applied to general misfortune. Online sources disagree on whether BPHS defines 'Pitru dosha' as such.",
+    "confidence": "medium",
+    "phrasing_guidance": "Separate the classical idea (specific BPHS combinations about progeny) from the broad modern label. Do not tell anyone their ancestors cursed them or that misfortune is ancestral punishment. Ancestral rites can be mentioned as a traditional, voluntary practice of remembrance, not as a required fix. Avoid predictions about having or not having children."
+  },
+  {
+    "id": "dosha/guru_chandal",
+    "layer": "dosha",
+    "key": {"name": "guru_chandal"},
+    "summary": "Guru Chandala: Jupiter conjoined with Rahu (some include Ketu). It is said to corrupt Jupiter's wisdom and counsel: poor judgement, ignored advice, deception. The name is not found as a defined yoga in the classical texts read; a Jupiter-Rahu link appears classically only inside BPHS's curse-of-progeny yogas.",
+    "themes": ["judgement", "teachers and advice", "deception", "unorthodoxy"],
+    "common_outcomes": [
+      "advice of a guru or adviser not heeded (Rath, Crux p. 265)",
+      "being deceived or cheated in a matter the afflicted house rules (Rath, Crux p. 187)"
+    ],
+    "rare_outcomes": ["warped or fanatical thinking (Rath, on Hitler's chart, Crux p. 215)"],
+    "by_area": {
+      "personality": "Rath: may give 'warped thinking' when strong (Crux p. 215).",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "Rath: a Jupiter-Ketu Guru-Chandala on the 2nd from the upapada coincided with being deceived in marriage (Crux p. 187).",
+      "family": "Rath: Guru-Chandala of the 4th lord coincided with maternal relatives ejecting the father from the family business (Crux, chart 40, p. ~137).",
+      "spirituality": "P.S. Sastri: Jupiter with Ketu, by contrast, gives knowledge and liberation (jnana and moksha) if well placed (notes to Uttara Kalamrita)."
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Rath also applies it in mundane charts (Nehru: Mahapadma and Guru-Chandala yogas working together at Independence and Partition, Crux p. 65) and to dasha periods (Rahu pratyantar in Jupiter antardasha, Crux p. 265).",
+    "provenance": "Not found as a defined yoga in BPHS, Phaladeepika, Jataka Parijata or Saravali in the passages searched. The nearest classical material is BPHS 83.16 (Jupiter, the karaka, with Rahu gives the serpent's curse on progeny) and 83.30 (karaka with Rahu as one factor in the father's curse). The term appears in modern commentary: P.S. Sastri's notes to his Uttara Kalamrita translation ('Guru with Rahu causes a Chandala yoga'), and Sanjay Rath's Crux (1998), who also applies it to Jupiter with Ketu. Treat it as a later, practitioner-tradition term.",
+    "definitions": [
+      {"source": "P.S. Sastri, translator's notes to Uttara Kalamrita (Results of Major Periods chapter, p. 153)", "definition": "Jupiter with Rahu causes a Chandala yoga; Jupiter with Ketu gives jnana and moksha if well placed. This is the translator's note, not Kalidasa's verse."},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology (1998), pp. 187, 245, 265", "definition": "Jupiter associated with Rahu or with Ketu (p. 187 uses Jupiter-Ketu); also as a period combination (Rahu sub-period in Jupiter's) and in transit ('Jupiter suffering from Chandala dosha')."},
+      {"source": "dekhopanchang.com 'doshas detailed' (practitioner survey)", "definition": "Jupiter combined with Rahu (or Ketu)."}
+    ],
+    "cancellations": [],
+    "rarity_and_weight": "",
+    "timing": "Rath reads it in the dasha, antardasha or pratyantar of Rahu within Jupiter (Crux p. 265) and in transits of Jupiter with the nodes (p. 245).",
+    "conditional_results": [
+      {"when": "manual: Jupiter (putrakaraka) conjoined with Rahu, with the 5th lord weak and the lagna lord with Mars", "polarity": "bad", "effects": ["loss or denial of a son attributed to a serpent's curse"], "source": "BPHS 83.16 (Sanskrit, enjoylearningsanskrit.com; tr. Santhanam item 3)"}
+    ],
+    "remedies": [],
+    "phases": "",
+    "source_views": [
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), pp. 65, 187, 215-216, 245, 265", "view": "Uses Guru-Chandala for Jupiter with Rahu or Ketu in natal, dasha, transit and mundane charts; results include cheating, warped thinking and advice not heeded.", "url": "https://archive.org/details/sanjayrathcruxofvedicastrologytimingofevents19982"},
+      {"source": "Uttara Kalamrita, tr. P.S. Sastri, translator's notes (p. 153)", "view": "Guru with Rahu causes Chandala yoga; Guru with Ketu can give jnana and moksha.", "url": "https://archive.org/details/kupdf.net_uttkalamrita-kalidas-ps-sastri"},
+      {"source": "BPHS 83.16, 83.30 (Sanskrit with translation)", "view": "Jupiter (karaka) with Rahu appears in curse-of-progeny yogas (serpent's curse; father's curse), not as a stand-alone dosha.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-83/verse-16"}
+    ],
+    "disagreements": "Whether Ketu counts: Rath applies it to Jupiter-Ketu; P.S. Sastri says Jupiter-Ketu instead gives spiritual knowledge.",
+    "confidence": "low",
+    "phrasing_guidance": "Avoid the word 'Chandala' with users: it is a caste slur. Describe it as Jupiter's judgement or guidance being mixed with Rahu's unconventional or confusing influence: a reason to check advice and avoid blind trust, not a sign of bad character or misfortune."
+  },
+  {
+    "id": "dosha/shrapit",
+    "layer": "dosha",
+    "key": {"name": "shrapit"},
+    "summary": "Shrapit ('cursed') dosha: Saturn conjoined with Rahu. It is a recent, popular term with no defining verse found in the classical texts. Its 'curse' framing echoes BPHS's past-life curse (shapa) yogas, which include Saturn and Rahu in the 5th-house combinations.",
+    "themes": ["delay", "karmic burden", "curse framing"],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "provenance": "Recent term. No classical source defines a Saturn-Rahu 'Shrapit' dosha in the texts read (BPHS, Phaladeepika, Jataka Parijata). Practitioner pages say the term itself is post-classical (search summary of astromedha.in). Classical antecedent: BPHS ch. 83 uses 'shapa' (curse) for progeny-denial yogas, some involving Saturn and Rahu together with the 5th house (e.g., 83.10: the 5th lord with Rahu and Saturn in the 5th with the Moon gives the serpent's curse; 83.28 Saturn in the 5th with the 5th lord joined to Rahu). Those are specific, progeny-only yogas and not a general Saturn-Rahu conjunction.",
+    "definitions": [
+      {"source": "Practitioner surveys (astromedha.in, dekhopanchang.com, ganeshaspeaks.com) (via summary)", "definition": "Saturn and Rahu in the same sign or house. Some add mutual aspect; some extend it to Saturn with Ketu."},
+      {"source": "BPHS 83.10 (classical antecedent, not this dosha)", "definition": "The 5th lord with Rahu, Saturn in the 5th, with the Moon joining or aspecting: loss of children by a serpent's curse."}
+    ],
+    "cancellations": [],
+    "rarity_and_weight": "",
+    "timing": "",
+    "conditional_results": [],
+    "remedies": [],
+    "phases": "",
+    "source_views": [
+      {"source": "BPHS 83.10, 83.28 (tr. Santhanam; Sanskrit on enjoylearningsanskrit.com)", "view": "Saturn and Rahu appear together only within specific 5th-house curse-of-progeny yogas.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-83/verse-28"},
+      {"source": "astromedha.in, 'What is Shrapit Dosha' (practitioner survey)", "view": "Says the term 'Shrapit Dosha' is post-classical, while claiming classical roots for the Saturn-Rahu combination (via summary).", "url": "https://astromedha.in/insights/concepts/what-is-shrapit-dosha"}
+    ],
+    "disagreements": "Definitions differ: same sign vs same house; whether mutual aspect counts; whether Saturn-Ketu counts (practitioner surveys, via summary).",
+    "confidence": "low",
+    "phrasing_guidance": "Do not call anyone 'cursed'. Say the label is modern and not in the classical texts; describe Saturn-Rahu as a combination that asks for patience and discipline in the houses involved, read with the rest of the chart. Do not sell or urge remedies."
+  },
+  {
+    "id": "dosha/angarak",
+    "layer": "dosha",
+    "key": {"name": "angarak"},
+    "summary": "Angarak ('burning coal', from Angaraka, a name of Mars) dosha or yoga: Mars conjoined with Rahu, popularly read as anger, impulsiveness and accidents. No classical defining verse was found; it is a modern practitioner term.",
+    "themes": ["anger", "impulsiveness", "volatility"],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Popular media apply it to transits as well as natal charts (e.g., Free Press Journal on a Mars-Rahu transit in Aquarius, Feb-Apr 2026, via summary).",
+    "provenance": "Modern term. Practitioner pages that cite BPHS or Phaladeepika for it quote no verse (search summary), and none was found in the chapters read here. The nearest classical Mars-Rahu link is BPHS 83.9 (Rahu in the 5th aspected by Mars, or in a sign of Mars: loss of children by a serpent's curse), a specific progeny yoga.",
+    "definitions": [
+      {"source": "Practitioner surveys (dekhopanchang.com, vedicbirth.com, jagannathhora.com) (via summary)", "definition": "Mars and Rahu in the same sign, regardless of degree. Some extend it to Mars's special aspects on Rahu, and some to Mars with Ketu."},
+      {"source": "BPHS 83.9 (classical antecedent, not this dosha)", "definition": "Rahu in the 5th aspected by Mars, or Rahu in a sign of Mars: loss of children by a serpent's curse."}
+    ],
+    "cancellations": [],
+    "rarity_and_weight": "",
+    "timing": "",
+    "conditional_results": [],
+    "remedies": [],
+    "phases": "",
+    "source_views": [
+      {"source": "BPHS 83.9 (Sanskrit with translation)", "view": "Mars's aspect on Rahu in the 5th is one serpent's-curse yoga for progeny.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-83/verse-9"},
+      {"source": "astrojagriti substack, 'Angarak Dosha: Yoga or Myth?' and practitioner surveys", "view": "Disagree on whether it is classical and whether it is purely negative; the classical attributions they give are unverified (via summary).", "url": "https://astrojagriti.substack.com/p/angarak-dosha-yoga"}
+    ],
+    "disagreements": "Whether Mars-Ketu and Mars's aspect count; whether the combination is purely negative or also gives drive and courage (practitioner surveys, via summary).",
+    "confidence": "low",
+    "phrasing_guidance": "Present it as a modern label for a Mars-Rahu emphasis: high energy that benefits from channelling (sport, technical work, decisive action), with a caution about haste. Do not predict accidents, violence or injury."
+  },
+  {
+    "id": "dosha/ghata",
+    "layer": "dosha",
+    "key": {"name": "ghata"},
+    "summary": "'Ghata' or 'Ghatak' has two unrelated uses. The modern 'Ghat dosha' is Mars conjoined with Saturn, read as forceful malefic friction. The older 'ghataka' (destroyer) scheme is a muhurta/transit table of unfavourable sign, tithi, weekday, nakshatra and lagna counted from the natal Moon sign. Neither has a classical natal-dosha verse among the texts read.",
+    "themes": ["friction", "obstacles", "unfavourable times"],
+    "common_outcomes": [],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Which meaning the calculator uses must be matched to one of the `definitions` below. The Ghatak chakra is a timing tool (transits and muhurta), not a natal yoga.",
+    "provenance": "Recent term as a natal dosha. The Mars-Saturn 'Ghat dosha' appears in commercial remedy sites (astroved.com) with no classical citation (via summary). The 'ghataka' table belongs to muhurta and transit practice: Sanjay Rath uses it in Crux (1998, p. 245: for an Aquarius Moon sign the ghatak rasi is Sagittarius). No primary classical verse for the table was confirmed here. Separately, 'Ghatak' is also the name of one of the twelve modern Kaal Sarp varieties (Rahu in the 10th; Satyori), which adds to the confusion.",
+    "definitions": [
+      {"source": "astroved.com, 'What is Ghat Dosha?' (practitioner survey) (via summary)", "definition": "Saturn and Mars in the same sign."},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology (1998), p. 245; Ghataka chakra as described in a Scribd Jyotish document (via summary)", "definition": "Ghataka chakra: for each natal Moon sign, one sign, tithi, weekday, nakshatra and lagna are 'ghataka' (destructive); a transit of the Moon through the ghatak rasi or a muhurta on a ghataka element is unfavourable. Rath: for an Aquarius Moon sign the ghatak gochara rasi is Sagittarius."}
+    ],
+    "cancellations": [],
+    "rarity_and_weight": "",
+    "timing": "For the ghataka meaning: it operates when the transiting Moon, or the chosen muhurta, falls on the native's ghataka sign or element (Rath, Crux p. 245).",
+    "conditional_results": [],
+    "remedies": [],
+    "phases": "",
+    "source_views": [
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), p. 245", "view": "In an event chart, the Moon transiting the native's ghatak rasi (Sagittarius for an Aquarius Moon sign) is listed among adverse transit factors.", "url": "https://archive.org/details/sanjayrathcruxofvedicastrologytimingofevents19982"},
+      {"source": "astroved.com, 'What is Ghat Dosha?'", "view": "Defines Ghat dosha as Saturn-Mars conjunction with forceful malefic effects; commercial remedy page (via summary).", "url": "https://www.astroved.com/dosha-pariharam/ghat-dosha-remedies/"}
+    ],
+    "disagreements": "The two meanings are unrelated: one is a natal conjunction (Mars-Saturn), the other a Moon-sign-based table of unfavourable times. Practitioner pages also differ on whether Mars-Saturn is merely hard or also productive (perseverance; ganeshaspeaks, via summary).",
+    "confidence": "low",
+    "phrasing_guidance": "Do not present this as a classical dosha. For Mars-Saturn, describe tension between drive and restraint that can turn into perseverance. For the ghataka table, mention it only as traditional advice on timing, never as a danger to the person."
+  },
+  {
+    "id": "dosha/ganda_moola",
+    "layer": "dosha",
+    "key": {"name": "ganda_moola"},
+    "summary": "Ganda moola (gandanta) birth: the Moon at a water-fire junction (Revati-Ashwini, Ashlesha-Magha, Jyeshtha-Moola). Classically it is a narrow window of a few ghatikas, said to threaten the child or a parent, and BPHS gives purification rites. Popular practice extends it to the whole of the six nakshatras.",
+    "themes": ["birth timing", "junction points", "risk to parents", "purification rites"],
+    "common_outcomes": [
+      "classically: risk to the father (day birth), the mother (night birth) or the child (twilight birth) (Jataka Parijata 9.58)"
+    ],
+    "rare_outcomes": [
+      "[maraka: text predicts danger to life / death] of the father at birth for Abhukta Moola (Jataka Parijata 9.64-67)",
+      "if a child born in Abhukta Moola lives, it raises the family, prospers and may command an army (Jataka Parijata 9.64-67)",
+      "Abhukta Moola birth ruins the family that owns the child (Jataka Parijata 9.45)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Jataka Parijata 9.64-67: an Abhukta Moola native who survives may rise to high status or command an army.",
+      "finance": "",
+      "health": "BPHS 92.1: birth, travel or marriage during gandanta endangers the person concerned [maraka: text predicts danger to life / death].",
+      "relationships": "BPHS 94.10-13: girls and boys born in certain quarters of Jyeshtha, Vishakha, Ashlesha or Moola are said to bring risk to their in-laws; a cow should be given at marriage.",
+      "family": "Core area: classical texts read risk to the father, mother, maternal uncle or siblings by the portion of the nakshatra (Jataka Parijata 9.46-55, 9.58, 9.68-69); Drik Panchang assigns the affected relative by nakshatra (Ashwini, Magha: father; Ashlesha, Revati: mother; Jyeshtha: younger siblings; Moola: father or grandfather).",
+      "spirituality": "Remedies are shanti rites: worship of the nakshatra deity, homa, abhisheka of the child with the parents, and charity (BPHS 92-94)."
+    },
+    "strengtheners": [
+      "Abhukta Moola (end of Jyeshtha / start of Moola) is the most severe, because the deities Indra and Rakshasa are opposed (BPHS 93.1-2)"
+    ],
+    "weakeners_or_cancellations": ["see `cancellations`"],
+    "lagna_or_context_notes": "There are three kinds of gandanta (BPHS 92.1-4): tithi (last 2 ghatikas of the 5th, 10th and 15th tithis, first 2 of the 1st, 6th and 11th), nakshatra (last 2 ghatikas of Revati, Ashlesha and Jyeshtha, first 2 of Ashwini, Magha and Moola) and lagna (last half-ghatika of Pisces, Cancer and Scorpio, first half of Aries, Leo and Sagittarius). The key `ganda_moola` usually means the nakshatra kind.",
+    "provenance": "Classical. BPHS chs. 92-94 (Santhanam numbering; remedies for gandanta, Abhukta Moola and Jyeshtha gandanta births) and Jataka Parijata ch. 9, slokas 45-82 (Sastri), which define the junctions, the Abhukta Moola window, the risk periods and the relatives affected. Popular usage (e.g., Drik Panchang's Gandamool dates) treats birth anywhere in the six nakshatras as Ganda Moola, which is much broader than the classical junction windows of a few ghatikas.",
+    "definitions": [
+      {"source": "BPHS 92.3 (tr. Santhanam vol. 2 p. 1026; starlore.info translation)", "definition": "Nakshatra gandanta: the last 2 ghatikas of Revati, Ashlesha and Jyeshtha and the first 2 ghatikas of Ashwini, Magha and Moola (4 ghatikas at each junction)."},
+      {"source": "BPHS 92.5", "definition": "Abhukta Moola: the last 6 ghatikas of Jyeshtha and the first 8 ghatikas of Moola."},
+      {"source": "Jataka Parijata 9.45 (tr. V. Subrahmanya Sastri, vol. I)", "definition": "Gandanta: a period at the junction of each pair Jyeshtha-Moola, Ashlesha-Magha and Revati-Ashwini (OCR garbles the number of ghatis); the ghatika at the Jyeshtha-Moola junction is 'Abhukta', and any girl, boy, beast or slave born in it ruins the owning family."},
+      {"source": "Jataka Parijata 9.59", "definition": "Ganda falls at the end of Revati, Ashlesha or Jyeshtha at night, at the start of Ashwini, Magha or Moola by day, and at the junction of a pair at twilight."},
+      {"source": "Drik Panchang, Gandamool dates page (popular usage)", "definition": "Birth with the Moon in any of six whole nakshatras (Ashwini, Ashlesha, Magha, Jyeshtha, Moola, Revati), with the three junctions as the most acute; pada and degree to be considered."}
+    ],
+    "cancellations": [
+      {"condition": "Ganda in the months of Vaishakha, Shravana, Phalguna (sky) and Ashvina, Kartika, Chaitra, Bhadrapada (nether world) does not affect this world; only Ganda in Ashadha, Pushya, Margashirsha and Jyeshtha affects men (Magha month: risk of death)", "source": "Jataka Parijata 9.81-82 (tr. Sastri)"},
+      {"condition": "The ritual remedies are said to remove the evil effects and secure the child's long life, health and prosperity", "source": "BPHS 92.9-11, 93.10-20"},
+      {"condition": "Effects are not deterministic; they vary with pada, aspects and the whole chart", "source": "Drik Panchang (popular survey)"}
+    ],
+    "rarity_and_weight": "Classically rare: the windows are only a few ghatikas (2+2 per junction; Abhukta Moola 6+8). BPHS 93.1-2 ranks Jyeshtha-Moola (Abhukta Moola) as the most evil. Under the popular whole-nakshatra definition it is common, because six of the 27 nakshatras qualify.",
+    "timing": "Risk periods after birth by nakshatra: 16 years for the 1st quarter of Ashwini, 8 for Magha, 1 for Jyeshtha, 4 for Chitra and Moola, 2 for Ashlesha, 1 for Revati; Abhukta Moola at the moment of birth (Jataka Parijata 9.64-67). Rites are done after the 12th day, on the next birth-star day or on an auspicious day (BPHS 93.3-4); popular practice uses the 27th day (Drik Panchang).",
+    "conditional_results": [
+      {"when": "manual: birth in the nakshatra-gandanta portion during the day", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death] of the father"], "source": "Jataka Parijata 9.58"},
+      {"when": "manual: birth in the nakshatra-gandanta portion at night", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death] of the mother"], "source": "Jataka Parijata 9.58"},
+      {"when": "manual: birth in the nakshatra-gandanta portion at twilight", "polarity": "bad", "effects": ["[maraka: text predicts danger to life / death] of the native"], "source": "Jataka Parijata 9.58"},
+      {"when": "manual: birth in Abhukta Moola (last 6 ghatikas of Jyeshtha, first 8 of Moola)", "polarity": "bad", "effects": ["most severe gandanta; the text advises the father not to see the child's face for 8 years unless the shanti is done"], "source": "BPHS 93.1-2"}
+    ],
+    "remedies": [
+      {"remedy": "the father sees the child only after the remedies; give a bullock (tithi gandanta), a cow with calf (nakshatra gandanta) or gold (lagna gandanta); abhisheka of the child with the father (first part) or the mother (second part)", "source": "BPHS 92.6-8"},
+      {"remedy": "worship a gold image of the tithi, nakshatra or lagna deity on a kalasha, then havan, abhisheka and feeding Brahmins", "source": "BPHS 92.9-11"},
+      {"remedy": "Abhukta Moola shanti: gold image of Rakshasa (Moola's deity) with Indra and Jala, kalasha with panchagavya, 1008 or 108 oblations, Mrityunjaya mantra, bathing the parents and child, gift of a cow with calf, looking at one's reflection in ghee", "source": "BPHS 93.3-20"},
+      {"remedy": "Jyeshtha gandanta: worship of Indra with Indra-sukta and Mrityunjaya japa; if unaffordable, give a cow (three cows for Jyeshtha-Moola and Ashlesha-Magha, two for Revati-Ashwini)", "source": "BPHS 94.1-9 (starlore.info translation)"},
+      {"remedy": "Ganda Moola shanti puja on the 27th day or when the birth nakshatra recurs; nakshatra homa; mantras of the presiding deity; charity", "source": "Drik Panchang (popular practice)"}
+    ],
+    "phases": "",
+    "source_views": [
+      {"source": "BPHS chs. 92-94 (tr. R. Santhanam vol. 2, pp. 1026 ff.; ch. 94 begins p. 1033)", "view": "Defines tithi, nakshatra and lagna gandanta and Abhukta Moola, warns of danger to the person, and prescribes graded rites and charity. Santhanam adds that the rites should be done under a learned priest.", "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"},
+      {"source": "BPHS chs. 92-94 (starlore.info English translation)", "view": "Same content; ch. 94 adds the Jyeshtha gandanta rites, the number of cows by junction, and marriage-related risk to in-laws.", "url": "https://starlore.info/research/viewtopic.php?p=1722"},
+      {"source": "Jataka Parijata 9.45-82 (tr. V. Subrahmanya Sastri, vol. I)", "view": "Gives the junctions, the day/night/twilight rule for which parent is at risk, the risk periods by nakshatra, the divisions of Jyeshtha and Moola and their effects on relatives, and the months in which Ganda is said not to operate. A surviving Abhukta Moola child may raise the family.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Drik Panchang, 'Gandamool dates and timings'", "view": "Popular whole-nakshatra definition; relative affected by nakshatra; 27th-day shanti; says effects are not deterministic.", "url": "https://www.drikpanchang.com/panchang/gandamool-dates-timings.html"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology (1998), p. 241 (chart 66)", "view": "Counts the Moon anywhere in the last quarter (pada) of Jyeshtha as Jyeshtha gandanta, signifying danger in childhood; the native was premature and in danger up to age one. This is a wider window than BPHS's ghatikas.", "url": "https://archive.org/details/sanjayrathcruxofvedicastrologytimingofevents19982"}
+    ],
+    "disagreements": "Width: 2+2 ghatikas per junction (BPHS 92.3) vs the last pada of the nakshatra (Rath, Crux p. 241) vs whole nakshatras (popular). Abhukta Moola: 6+8 ghatikas (BPHS 92.5) vs a single ghatika at the junction (Jataka Parijata 9.45); secondary sources also cite 5+8 and versions attributed to Narada (2+2) and Brihaspati (1) (search summary). Which relative is affected: by day/night/twilight (Jataka Parijata 9.58) vs by nakshatra (Drik Panchang).",
+    "confidence": "high",
+    "phrasing_guidance": "Say it is a traditional birth-timing consideration and check whether the birth falls in the narrow classical window or only in the broad popular one. Never tell parents a child endangers them or the family. Shanti rites can be mentioned as an optional family tradition; stress that the classical texts themselves say the rites remove the effects."
+  }
+]

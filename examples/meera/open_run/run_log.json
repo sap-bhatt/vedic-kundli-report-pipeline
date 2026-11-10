@@ -1,0 +1,435 @@
+{
+ "model": "claude-haiku-5-5",
+ "provider": "file",
+ "base_url": null,
+ "dry_run": false,
+ "settings": {
+  "temperature": null,
+  "max_tokens": {
+   "section": 16000,
+   "timeline": 32000,
+   "editor": 16000,
+   "guidance": 16000
+  },
+  "extra": {
+   "cache_control": {
+    "type": "ephemeral"
+   }
+  },
+  "timeout": 900
+ },
+ "started": "2026-11-11T01:54:13",
+ "wall_seconds": 4.5,
+ "total_input_tokens": 254881,
+ "total_output_tokens": 32663,
+ "calls": [
+  {
+   "step": "glance",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 10084,
+   "output_tokens": 1366,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 848,
+   "target": [
+    600,
+    900
+   ]
+  },
+  {
+   "step": "personality",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 10960,
+   "output_tokens": 2034,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 1279,
+   "target": [
+    1000,
+    1400
+   ]
+  },
+  {
+   "step": "mind",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 8229,
+   "output_tokens": 1287,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.1,
+   "findings": [],
+   "words": 771,
+   "target": [
+    600,
+    900
+   ]
+  },
+  {
+   "step": "health",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 8972,
+   "output_tokens": 1070,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [
+    "Guardrail lint, line 19 [health_list]: \"sharp tools\" in: ...estless nights. Mars and Saturn together are read with caution around sharp tools and with what one takes in. Jupiter, the lord of the 12th, sits in th..."
+   ],
+   "words": 555,
+   "target": [
+    400,
+    600
+   ]
+  },
+  {
+   "step": "career",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 11111,
+   "output_tokens": 2094,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [
+    "Guardrail lint, line 15 [copied_instruction]: \"do not promise\" in: ...ts count against it. Speak of advisory, managerial or official roles; do not promise office....",
+    "Guardrail lint, line 15 [imperative_to_writer]: \". Speak of\" in: ...s and Venus's shared house with Rahu, which the texts count against it. Speak of advisory, managerial or official roles; do not promise office...."
+   ],
+   "words": 1199,
+   "target": [
+    1100,
+    1500
+   ]
+  },
+  {
+   "step": "finance",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 8658,
+   "output_tokens": 1871,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 1017,
+   "target": [
+    600,
+    900
+   ]
+  },
+  {
+   "step": "yogas",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 11056,
+   "output_tokens": 1806,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 1168,
+   "target": [
+    800,
+    1100
+   ]
+  },
+  {
+   "step": "relationships",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 10829,
+   "output_tokens": 1308,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 817,
+   "target": [
+    800,
+    1100
+   ]
+  },
+  {
+   "step": "family",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 13021,
+   "output_tokens": 1801,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 1059,
+   "target": [
+    650,
+    900
+   ]
+  },
+  {
+   "step": "spirituality",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 11795,
+   "output_tokens": 1705,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 1031,
+   "target": [
+    600,
+    900
+   ]
+  },
+  {
+   "step": "timeline",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 32000,
+   "input_tokens": 43756,
+   "output_tokens": 5825,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [
+    "Guardrail lint, line 23 [health_list]: \"illness\" in: ...land and fighting, alongside quarrels with siblings and heat-related illness. The mixed reading fits this chart best: property and effort on one s...",
+    "Guardrail lint, line 29 [health_list]: \"illness\" in: ...r sources describe this Rahu stretch through its troubled side alone: illness, misunderstandings, legal and official pressure, and losses. BPHS all...",
+    "Guardrail lint, line 37 [health_list]: \"around fire\" in: ...d, but the caution about sudden change still applies, along with care around fire and sharp tools....",
+    "Guardrail lint, line 37 [health_list]: \"sharp tools\" in: ...on about sudden change still applies, along with care around fire and sharp tools....",
+    "Guardrail lint, line 43 [health_list]: \"fever\" in: ...itiative, but with tact toward elders and superiors, and attention to fever or heat-related complaints....",
+    "Guardrail lint, line 61 [health_list]: \"illness\" in: ...Moon, is one of Saturn's good transits, with relief from enemies and illness. It holds from Aug to Oct 2029 and again from Apr 2030 to May 2032, w...",
+    "Guardrail lint, line 65 [health_list]: \"illness\" in: ...unt it among Saturn's harder transits: loss of money and possessions, illness, separation from children and friends, and a fall in standing. Saturn...",
+    "Guardrail lint, line 73 [health_list]: \"illness\" in: ...2032 to Jul 2040, and the texts call it a crisis period of setbacks, illness and weakness, separations, and legal or official trouble. Rahu shares...",
+    "rows:summary_10y row \"mars-ketu\" trips the guardrail lint [health_list]: \"with fire\" (that cell would print as \"-\").",
+    "rows:summary_10y row \"mars-ketu\" trips the guardrail lint [health_list]: \"sharp tools\" (that cell would print as \"-\")."
+   ],
+   "words": 3208,
+   "target": [
+    2000,
+    2800
+   ]
+  },
+  {
+   "step": "career",
+   "attempt": 1,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 13351,
+   "output_tokens": 2101,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 1202,
+   "target": [
+    1100,
+    1500
+   ]
+  },
+  {
+   "step": "health",
+   "attempt": 1,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 10146,
+   "output_tokens": 1039,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.1,
+   "findings": [],
+   "words": 537,
+   "target": [
+    400,
+    600
+   ]
+  },
+  {
+   "step": "timeline",
+   "attempt": 1,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 32000,
+   "input_tokens": 50068,
+   "output_tokens": 5852,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 3222,
+   "target": [
+    2000,
+    2800
+   ]
+  },
+  {
+   "step": "guidance",
+   "attempt": 0,
+   "model": "claude-haiku-5-5",
+   "max_tokens": 16000,
+   "input_tokens": 32845,
+   "output_tokens": 1504,
+   "estimated": true,
+   "stop": null,
+   "attempts": 1,
+   "seconds": 0.0,
+   "findings": [],
+   "words": 695,
+   "target": [
+    700,
+    1000
+   ]
+  }
+ ],
+ "events": [
+  {
+   "step": "inputs",
+   "reused": "examples/meera/open_run/inputs"
+  },
+  {
+   "step": "writers",
+   "results": [
+    {
+     "section": "glance",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "personality",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "mind",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "career",
+     "kept_attempt": 1,
+     "attempts": 2,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "finance",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "health",
+     "kept_attempt": 1,
+     "attempts": 2,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "relationships",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "family",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "spirituality",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "yogas",
+     "kept_attempt": 0,
+     "attempts": 1,
+     "findings_left": 0,
+     "blocked": false
+    },
+    {
+     "section": "timeline",
+     "kept_attempt": 1,
+     "attempts": 2,
+     "findings_left": 0,
+     "blocked": false
+    }
+   ]
+  },
+  {
+   "step": "guidance",
+   "result": {
+    "section": "guidance",
+    "kept_attempt": 0,
+    "attempts": 1,
+    "findings_left": 0,
+    "blocked": false
+   }
+  },
+  {
+   "step": "final_lint",
+   "findings": {
+    "career": 0,
+    "family": 0,
+    "finance": 0,
+    "glance": 0,
+    "guidance": 0,
+    "health": 0,
+    "mind": 0,
+    "personality": 0,
+    "relationships": 0,
+    "spirituality": 0,
+    "timeline": 0,
+    "yogas": 0
+   }
+  },
+  {
+   "step": "assemble",
+   "cmd": "tools\\assemble_report.py --chart examples\\meera\\chart_data.json --sections examples\\meera\\open_run\\sections --name Meera --out examples\\meera\\open_run\\report.html --pdf examples\\meera\\open_run\\report.pdf",
+   "returncode": 0,
+   "stdout": "tables: 20 placed: d1_positions, houses, d9_positions, functional_roles, panchang_avakhada, baladi_avasthas, profession_indicators, d10_positions, wealth_houses, body_correspondences, manglik_check, yogas_present, dosha_checks, mahadashas, antardashas, current_transits, slow_ingresses, summary_10y, chara_periods, remedies\nwrote examples\\meera\\open_run\\report.html: ~17570 words, 78 sources; missing sections: none\npdf written with playwright:msedge 157 examples\\meera\\open_run\\report.pdf\n",
+   "stderr": ""
+  }
+ ]
+}

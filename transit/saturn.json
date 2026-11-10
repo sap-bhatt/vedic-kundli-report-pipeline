@@ -1,0 +1,2968 @@
+[
+  {
+    "id": "transit/saturn/1",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 1
+    },
+    "summary": "Saturn over the natal Moon's own sign (janma Shani) is one of its hardest transits in the classical texts: illness, losses, separation from family, humiliation and tiring travel. It is the middle, peak phase of Sade Sati.",
+    "themes": [
+      "janma Shani",
+      "mental and physical strain",
+      "separation",
+      "loss",
+      "Sade Sati peak"
+    ],
+    "common_outcomes": [
+      "illness or low vitality",
+      "loss of money and of comforts",
+      "separation from relatives or living away from home",
+      "loss of standing or humiliation",
+      "tiring, unwanted journeys"
+    ],
+    "rare_outcomes": [
+      "a death in the family for which the native performs the last rites [maraka: text predicts death of a relative]",
+      "danger from poison or fire, confinement or harassment (Brihat Samhita)",
+      "[maraka: text predicts danger to life] when Saturn is in the 1st from the Moon (Phaladeepika 26.33)"
+    ],
+    "by_area": {
+      "personality": "Mind under pressure; humiliation and loss of confidence (Brihat Samhita 104.39). Popular modern accounts call this the most intense part of Sade Sati.",
+      "career": "Loss of position is listed among the dangers of Saturn in the 1st from the Moon (Phaladeepika 26.33).",
+      "finance": "Loss of wealth (Brihat Samhita 104.39; Phaladeepika 26.33).",
+      "health": "Disease (Phaladeepika 26.22); fatigue from journeys on foot (Brihat Samhita 104.39).",
+      "relationships": "Separation from kinsmen; living among friends in a foreign place (Brihat Samhita 104.39).",
+      "family": "Loss of sons and a bereavement requiring the native to perform funeral rites (Phaladeepika 26.22; Brihat Samhita 104.39).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "(softening) Saturn exalted or in its own sign while transiting: does no harm (Phaladeepika 26.31)",
+      "(softening) aspect of a benefic on transiting Saturn (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) Saturn yogakaraka, lagna lord, Moon-sign lord, exalted or in a trine natally (Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) a Saturn or other malefic dasa running (Kurczak; Nirikhi Krishna Bhagavan)",
+      "(intensifying) no or few bindus in Saturn's ashtakavarga for the sign (Raman)"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman). This is the peak (janma) phase of Sade Sati; see sade_sati/peak.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.22",
+        "view": "Saturn in the janma rasi brings disease, and the native may have to perform funeral rites.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.33",
+        "view": "Saturn (like the Sun, Mars and Jupiter) in the 12th, 8th or 1st from the Moon threatens life and causes loss of position and wealth. [maraka: text predicts danger to life]",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.34",
+        "view": "Saturn in the 1st from the Moon is one of eight placements (with the Moon 8th, Mars 7th, Rahu 9th, Venus 6th, Jupiter 3rd, Sun 5th, Mercury 4th) that together bring loss of honour and wealth and danger to life when all occur. [maraka: text predicts danger to life]",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 39",
+        "view": "Saturn in the Moon's sign: poison, fire, separation from kin, imprisonment and torture, living with friends in foreign lands, loss of wealth and sons, fatigue of travel on foot, humiliation.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', p. 263",
+        "view": "Repeats the Brihat Samhita list for Saturn passing the natal Moon's sign.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), pp. 9-10",
+        "view": "Saturn gives very bad results while transiting the janma rasi.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "Both classical texts call this house bad. Phaladeepika stresses illness and a bereavement; Brihat Samhita gives a longer list (poison, fire, confinement, exile, loss of children). Modern authors such as Kurczak read it as the most intense but growth-oriented part of Sade Sati rather than as a period of certain disaster.",
+    "confidence": "high",
+    "phrasing_guidance": "Present this as a demanding, heavy period that asks for patience, rest and steady effort, not as a forecast of illness, death or disaster. Mention that the rest of the chart and the running dasha decide how strongly it is felt.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign, Saturn does no harm in this unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated in an unfavourable house, the bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective when aspected by a benefic"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "manual: transiting Saturn is combust (lost in the Sun's rays)",
+        "polarity": "good",
+        "effects": [
+          "does not cause suffering to the righteous"
+        ],
+        "source": "Brihat Samhita 104.55"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is a yogakaraka (Taurus and Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is the lagna lord (Capricorn and Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as lord of the 4th and 5th (Libra lagna) acts more gracefully"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as lord of the 7th and 8th (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "Saturn's difficult tendencies are mitigated; ruling difficult houses emphasises them"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the transit is felt more strongly when a Saturn period is running; without such activation it may pass almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: at the same time the Moon is 8th, Mars 7th, Rahu 9th, Venus 6th, Jupiter 3rd, Sun 5th and Mercury 4th from the natal Moon (all together)",
+        "polarity": "bad",
+        "effects": [
+          "loss of honour and wealth",
+          "[maraka: text predicts danger to life]"
+        ],
+        "source": "Phaladeepika 26.34"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "When a planet is badly placed in transit, propitiate it with prayers and mantras, shanti rites, vows, gifts and worship, and lead a harmless, self-controlled life",
+        "source": "Phaladeepika 26.49-50 (tr. Sastri)"
+      },
+      {
+        "remedy": "Propitiate Saturn with gifts of black substances; worship Brahmins and deities, perform expiation, recite mantras, practise austerity and self-control, keep the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (tr. Iyer)"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana) during Sade Sati, ashtama and ardhashtama Shani",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma, pp. 17-18"
+      },
+      {
+        "remedy": "Service to the less fortunate (volunteering), regular fasting and Saturn mantras; take responsibility for the strained area of life",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      }
+    ],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  },
+  {
+    "id": "transit/saturn/2",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 2
+    },
+    "summary": "Saturn in the 2nd from the Moon is unfavourable in the classical texts: strain on money and family, loss of comfort and looks, and income that does not stay. It is the closing (setting) phase of Sade Sati.",
+    "themes": [
+      "finances",
+      "family",
+      "speech and face",
+      "Sade Sati setting"
+    ],
+    "common_outcomes": [
+      "money worries; earnings that do not last",
+      "trouble concerning children or family",
+      "loss of comfort",
+      "lowered vitality"
+    ],
+    "rare_outcomes": [
+      "wealth received from other people but not kept for long (Brihat Samhita)"
+    ],
+    "by_area": {
+      "personality": "Loss of beauty or brightness of appearance (Brihat Samhita 104.40).",
+      "career": "",
+      "finance": "Trouble to wealth (Phaladeepika 26.22); money comes from others but does not last (Brihat Samhita 104.40).",
+      "health": "Physical weakness (Brihat Samhita 104.40).",
+      "relationships": "",
+      "family": "Trouble concerning children (Phaladeepika 26.22).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "(softening) Saturn exalted or in its own sign while transiting: does no harm (Phaladeepika 26.31)",
+      "(softening) aspect of a benefic on transiting Saturn (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) Saturn yogakaraka, lagna lord, Moon-sign lord, exalted or in a trine natally (Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) a Saturn or other malefic dasa running (Kurczak; Nirikhi Krishna Bhagavan)",
+      "(intensifying) no or few bindus in Saturn's ashtakavarga for the sign (Raman)"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman). This is the setting phase of Sade Sati; see sade_sati/setting.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.22",
+        "view": "Saturn in the 2nd from the Moon troubles wealth and children.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 40",
+        "view": "Loss of beauty and comfort, weakness; wealth obtained from others is not enjoyed for long.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', p. 263",
+        "view": "Repeats the Brihat Samhita results for the 2nd.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "The two classical texts agree the house is unfavourable; they stress different areas (children vs looks and lasting income).",
+    "confidence": "high",
+    "phrasing_guidance": "Frame it as a time to budget carefully, protect savings and look after family ties; avoid predicting financial ruin.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign, Saturn does no harm in this unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated in an unfavourable house, the bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective when aspected by a benefic"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "manual: transiting Saturn is combust (lost in the Sun's rays)",
+        "polarity": "good",
+        "effects": [
+          "does not cause suffering to the righteous"
+        ],
+        "source": "Brihat Samhita 104.55"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is a yogakaraka (Taurus and Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is the lagna lord (Capricorn and Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as lord of the 4th and 5th (Libra lagna) acts more gracefully"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as lord of the 7th and 8th (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "Saturn's difficult tendencies are mitigated; ruling difficult houses emphasises them"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the transit is felt more strongly when a Saturn period is running; without such activation it may pass almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "When a planet is badly placed in transit, propitiate it with prayers and mantras, shanti rites, vows, gifts and worship, and lead a harmless, self-controlled life",
+        "source": "Phaladeepika 26.49-50 (tr. Sastri)"
+      },
+      {
+        "remedy": "Propitiate Saturn with gifts of black substances; worship Brahmins and deities, perform expiation, recite mantras, practise austerity and self-control, keep the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (tr. Iyer)"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana) during Sade Sati, ashtama and ardhashtama Shani",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma, pp. 17-18"
+      },
+      {
+        "remedy": "Service to the less fortunate (volunteering), regular fasting and Saturn mantras; take responsibility for the strained area of life",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      }
+    ],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  },
+  {
+    "id": "transit/saturn/3",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 3
+    },
+    "summary": "Saturn in the 3rd from the Moon is one of its three good transits: gains in position, income, helpers and courage, and victory over rivals.",
+    "themes": [
+      "gain",
+      "effort rewarded",
+      "courage",
+      "helpers and staff",
+      "victory over rivals"
+    ],
+    "common_outcomes": [
+      "new position or employment",
+      "money and possessions",
+      "servants, staff or helpers",
+      "good health",
+      "success against opponents"
+    ],
+    "rare_outcomes": [
+      "gains of livestock, vehicles and houses (Brihat Samhita)"
+    ],
+    "by_area": {
+      "personality": "Influential, confident and powerful (Brihat Samhita 104.41).",
+      "career": "Gain of position or employment and of servants (Phaladeepika 26.22).",
+      "finance": "Gain of money (Phaladeepika 26.22); wealth, comforts, livestock and houses (Brihat Samhita 104.41).",
+      "health": "Free from disease (Brihat Samhita 104.41).",
+      "relationships": "Defeats enemies (Brihat Samhita 104.41).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn exalted (Libra) or in its own sign (Capricorn, Aquarius) while transiting this house (Phaladeepika 26.31)",
+      "no planet other than the Sun in the 12th from the Moon (no vedha) (Phaladeepika 26.5)",
+      "many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41; Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "vedha: another planet (not the Sun) in the 12th from the Moon (Phaladeepika 26.5)",
+      "Saturn debilitated (Aries) or in an enemy's sign, or aspected by an enemy (Phaladeepika 26.32; Brihat Samhita 104.53)",
+      "few bindus in Saturn's ashtakavarga for the sign"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman).",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.2 and 26.5",
+        "view": "Saturn is good in the 3rd from the Moon (26.2); like Mars, its good result in the 3rd holds only if no planet transits the 12th (vedha), the Sun excepted (26.5).",
+        "url": "https://www.siva.sh/phaladeepika/26/1-5"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.22",
+        "view": "Saturn in the 3rd brings position or employment, servants and money.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, vv. 4 and 41",
+        "view": "The 3rd is a benefic place for Saturn (v. 4): wealth, servants, comforts, animals and houses; influence, health, victory over enemies (v. 41).",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', pp. 257-258, 263-264",
+        "view": "Saturn's good places are 3, 11, 6 with vedha points 12, 5, 9; no vedha occurs between the Sun and Saturn. Results as in Brihat Samhita.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), pp. 10-14",
+        "view": "Saturn in the 3rd gives good results, but a planet moving through the 12th at the same time obstructs them (vedha), except the Sun.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "A supportive period for steady effort, initiative and building resources; say results come through work rather than luck.",
+    "conditional_results": [
+      {
+        "when": "12 in tr_vedha_houses",
+        "polarity": "bad",
+        "effects": [
+          "vedha: a planet transiting the 12th from the Moon obstructs Saturn's good results in the 3rd; no vedha if that planet is the Sun (see next rule)"
+        ],
+        "source": "Phaladeepika 26.5 (tr. Sastri); Raman, HPA ch. 34 pp. 257-258; Nirikhi Krishna Bhagavan, Planetary Transits p. 14"
+      },
+      {
+        "when": "manual: the only planet transiting the 12th from the Moon is the Sun",
+        "polarity": "good",
+        "effects": [
+          "no vedha between the Sun and Saturn (father and son), so Saturn's good results stand"
+        ],
+        "source": "Phaladeepika 26.5 with note to 26.3; Raman, HPA ch. 34 p. 257; Nirikhi Krishna Bhagavan, Planetary Transits p. 11"
+      },
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign in a favourable house, Saturn gives the full good results of this house"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated, Saturn's good results here fail"
+        ],
+        "source": "Phaladeepika 26.32; Brihat Samhita 104.53; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "good results fail or become ordinary"
+        ],
+        "source": "Phaladeepika 26.32; Brihat Samhita 104.53; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by an enemy planet (Brihat Samhita) or by a malefic (Phaladeepika)",
+        "polarity": "bad",
+        "effects": [
+          "good results become ineffective"
+        ],
+        "source": "Brihat Samhita 104.53; Phaladeepika 26.30"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "good",
+        "effects": [
+          "the transit is felt more clearly when a Saturn period is running"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135 (transits matter most when the dasha activates the planet)"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  },
+  {
+    "id": "transit/saturn/4",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 4
+    },
+    "summary": "Saturn in the 4th from the Moon (ardhashtama or kantaka Shani, the 'small Dhaiya') is unfavourable: loss of domestic happiness, separation from spouse, friends or relatives, and money worries.",
+    "themes": [
+      "home and inner peace",
+      "separation",
+      "suspicion",
+      "Dhaiya"
+    ],
+    "common_outcomes": [
+      "unhappiness at home",
+      "separation from spouse, friends or relatives",
+      "loss of wealth",
+      "constant worry or suspicion"
+    ],
+    "rare_outcomes": [
+      "loss of wife [maraka: Phaladeepika's 'loss of wife' may be read as death of the spouse]"
+    ],
+    "by_area": {
+      "personality": "Ever suspicious, never at ease (Brihat Samhita 104.42).",
+      "career": "",
+      "finance": "Loss of wealth (Phaladeepika 26.22; Brihat Samhita 104.42).",
+      "health": "",
+      "relationships": "Loss of or separation from wife and friends (Phaladeepika 26.22; Brihat Samhita 104.42).",
+      "family": "Loss of relatives (Phaladeepika 26.22).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "(softening) Saturn exalted or in its own sign while transiting: does no harm (Phaladeepika 26.31)",
+      "(softening) aspect of a benefic on transiting Saturn (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) Saturn yogakaraka, lagna lord, Moon-sign lord, exalted or in a trine natally (Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) a Saturn or other malefic dasa running (Kurczak; Nirikhi Krishna Bhagavan)",
+      "(intensifying) no or few bindus in Saturn's ashtakavarga for the sign (Raman)"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman). Modern name: ardhashtama / kantaka Shani, the 4th-house Dhaiya; see sade_sati/kantaka_dhaiya.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.22",
+        "view": "Saturn in the 4th from the Moon brings loss of wife, relatives and wealth.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 42",
+        "view": "Separation from friends, wealth and wife; constant suspicion of evil and no lasting happiness.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', p. 264",
+        "view": "Repeats the Brihat Samhita results for the 4th.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), 'Exceptions', pp. 13-15",
+        "view": "Saturn in the 4th from the Moon is called ardhashtama Shani; transits of the 4th, 7th and 10th are called kantaka ('thorn') Shani.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "The classical texts agree the transit is bad. The names differ in modern use: ardhashtama, kantaka Shani or 'small panoti/Dhaiya' (see sade_sati/kantaka_dhaiya).",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of a period that can unsettle home life and peace of mind, and suggest patience and care in close relationships; never predict a spouse's death.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign, Saturn does no harm in this unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated in an unfavourable house, the bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective when aspected by a benefic"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "manual: transiting Saturn is combust (lost in the Sun's rays)",
+        "polarity": "good",
+        "effects": [
+          "does not cause suffering to the righteous"
+        ],
+        "source": "Brihat Samhita 104.55"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is a yogakaraka (Taurus and Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is the lagna lord (Capricorn and Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as lord of the 4th and 5th (Libra lagna) acts more gracefully"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as lord of the 7th and 8th (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "Saturn's difficult tendencies are mitigated; ruling difficult houses emphasises them"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the transit is felt more strongly when a Saturn period is running; without such activation it may pass almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "When a planet is badly placed in transit, propitiate it with prayers and mantras, shanti rites, vows, gifts and worship, and lead a harmless, self-controlled life",
+        "source": "Phaladeepika 26.49-50 (tr. Sastri)"
+      },
+      {
+        "remedy": "Propitiate Saturn with gifts of black substances; worship Brahmins and deities, perform expiation, recite mantras, practise austerity and self-control, keep the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (tr. Iyer)"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana) during Sade Sati, ashtama and ardhashtama Shani",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma, pp. 17-18"
+      },
+      {
+        "remedy": "Service to the less fortunate (volunteering), regular fasting and Saturn mantras; take responsibility for the strained area of life",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      }
+    ],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  },
+  {
+    "id": "transit/saturn/5",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 5
+    },
+    "summary": "Saturn in the 5th from the Moon is unfavourable: worry over children, decline of money, a confused mind and quarrels.",
+    "themes": [
+      "children",
+      "mind and judgement",
+      "quarrels",
+      "speculation and wealth"
+    ],
+    "common_outcomes": [
+      "concern for or separation from children",
+      "decline of wealth",
+      "confused thinking",
+      "quarrels"
+    ],
+    "rare_outcomes": [
+      "loss of children (Phaladeepika) [maraka: may be read as death of a child]"
+    ],
+    "by_area": {
+      "personality": "Confused mind (Phaladeepika 26.22).",
+      "career": "",
+      "finance": "Decline of wealth (Phaladeepika 26.22; Brihat Samhita 104.43).",
+      "health": "",
+      "relationships": "Quarrels (Brihat Samhita 104.43).",
+      "family": "Loss of or separation from sons (Phaladeepika 26.22; Brihat Samhita 104.43).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "(softening) Saturn exalted or in its own sign while transiting: does no harm (Phaladeepika 26.31)",
+      "(softening) aspect of a benefic on transiting Saturn (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) Saturn yogakaraka, lagna lord, Moon-sign lord, exalted or in a trine natally (Nirikhi Krishna Bhagavan)",
+      "(softening) a planet other than the Sun in the 11th from the Moon (vipareeta vedha, Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) a Saturn or other malefic dasa running (Kurczak; Nirikhi Krishna Bhagavan)",
+      "(intensifying) no or few bindus in Saturn's ashtakavarga for the sign (Raman)"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman).",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.22",
+        "view": "Saturn in the 5th: decline of wealth, loss of children and a confused mind.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 43",
+        "view": "Separation from sons and wealth, and quarrels.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', p. 264",
+        "view": "Repeats the Brihat Samhita results for the 5th.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.5",
+        "view": "The 5th is the vedha point that obstructs Saturn's good results in the 11th.",
+        "url": "https://www.siva.sh/phaladeepika/26/1-5"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Suggest care with decisions, investments and children's needs; do not predict harm to children.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign, Saturn does no harm in this unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated in an unfavourable house, the bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective when aspected by a benefic"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "manual: transiting Saturn is combust (lost in the Sun's rays)",
+        "polarity": "good",
+        "effects": [
+          "does not cause suffering to the righteous"
+        ],
+        "source": "Brihat Samhita 104.55"
+      },
+      {
+        "when": "11 in tr_vedha_houses",
+        "polarity": "good",
+        "effects": [
+          "vipareeta vedha: a planet transiting the 11th from the Moon reduces or cancels Saturn's adverse results in the 5th; the Sun does not count"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits pp. 10-11, 14 (general 'converse' vipareeta vedha rule applied to its Saturn pair 3/12, 6/9, 11/5)"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is a yogakaraka (Taurus and Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is the lagna lord (Capricorn and Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as lord of the 4th and 5th (Libra lagna) acts more gracefully"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as lord of the 7th and 8th (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "Saturn's difficult tendencies are mitigated; ruling difficult houses emphasises them"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the transit is felt more strongly when a Saturn period is running; without such activation it may pass almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "When a planet is badly placed in transit, propitiate it with prayers and mantras, shanti rites, vows, gifts and worship, and lead a harmless, self-controlled life",
+        "source": "Phaladeepika 26.49-50 (tr. Sastri)"
+      },
+      {
+        "remedy": "Propitiate Saturn with gifts of black substances; worship Brahmins and deities, perform expiation, recite mantras, practise austerity and self-control, keep the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (tr. Iyer)"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana) during Sade Sati, ashtama and ardhashtama Shani",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma, pp. 17-18"
+      },
+      {
+        "remedy": "Service to the less fortunate (volunteering), regular fasting and Saturn mantras; take responsibility for the strained area of life",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      }
+    ],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  },
+  {
+    "id": "transit/saturn/6",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 6
+    },
+    "summary": "Saturn in the 6th from the Moon is one of its three good transits: relief from enemies and illness and general happiness.",
+    "themes": [
+      "victory over enemies",
+      "recovery",
+      "work and service",
+      "happiness"
+    ],
+    "common_outcomes": [
+      "general happiness",
+      "enemies and rivals subdued",
+      "relief from illness"
+    ],
+    "rare_outcomes": [
+      "enjoyment of romantic pleasures (Brihat Samhita: 'company of women')"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Freedom from disease (Brihat Samhita 104.43).",
+      "relationships": "Freedom from enemies; enjoyment of women's company (Brihat Samhita 104.43).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn exalted (Libra) or in its own sign (Capricorn, Aquarius) while transiting this house (Phaladeepika 26.31)",
+      "no planet other than the Sun in the 9th from the Moon (no vedha) (Phaladeepika 26.5)",
+      "many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41; Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "vedha: another planet (not the Sun) in the 9th from the Moon (Phaladeepika 26.5)",
+      "Saturn debilitated (Aries) or in an enemy's sign, or aspected by an enemy (Phaladeepika 26.32; Brihat Samhita 104.53)",
+      "few bindus in Saturn's ashtakavarga for the sign"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman).",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.2, 26.5 and 26.22",
+        "view": "Saturn is good in the 6th from the Moon (26.2) and brings general happiness (26.22); a planet in the 9th obstructs this (vedha), the Sun excepted (26.5).",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, vv. 4 and 43",
+        "view": "The 6th is a benefic place for Saturn; freedom from enemies and disease and enjoyment of women's company.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', pp. 257-258, 264",
+        "view": "6th is good for Saturn with vedha point 9; results as in Brihat Samhita.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 14",
+        "view": "Auspicious houses for Saturn 3, 6, 11 with vedha houses 12, 9, 5 (except the Sun).",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a good time to overcome obstacles, competition and health problems through steady discipline.",
+    "conditional_results": [
+      {
+        "when": "9 in tr_vedha_houses",
+        "polarity": "bad",
+        "effects": [
+          "vedha: a planet transiting the 9th from the Moon obstructs Saturn's good results in the 6th; no vedha if that planet is the Sun (see next rule)"
+        ],
+        "source": "Phaladeepika 26.5 (tr. Sastri); Raman, HPA ch. 34 pp. 257-258; Nirikhi Krishna Bhagavan, Planetary Transits p. 14"
+      },
+      {
+        "when": "manual: the only planet transiting the 9th from the Moon is the Sun",
+        "polarity": "good",
+        "effects": [
+          "no vedha between the Sun and Saturn (father and son), so Saturn's good results stand"
+        ],
+        "source": "Phaladeepika 26.5 with note to 26.3; Raman, HPA ch. 34 p. 257; Nirikhi Krishna Bhagavan, Planetary Transits p. 11"
+      },
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign in a favourable house, Saturn gives the full good results of this house"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated, Saturn's good results here fail"
+        ],
+        "source": "Phaladeepika 26.32; Brihat Samhita 104.53; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "good results fail or become ordinary"
+        ],
+        "source": "Phaladeepika 26.32; Brihat Samhita 104.53; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by an enemy planet (Brihat Samhita) or by a malefic (Phaladeepika)",
+        "polarity": "bad",
+        "effects": [
+          "good results become ineffective"
+        ],
+        "source": "Brihat Samhita 104.53; Phaladeepika 26.30"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "good",
+        "effects": [
+          "the transit is felt more clearly when a Saturn period is running"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135 (transits matter most when the dasha activates the planet)"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  },
+  {
+    "id": "transit/saturn/7",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 7
+    },
+    "summary": "Saturn in the 7th from the Moon is unfavourable: strain or separation in marriage, wearisome travel and anxiety. Some modern authors count it as a kantaka (thorn) transit.",
+    "themes": [
+      "marriage and partnership",
+      "travel",
+      "fear and anxiety",
+      "kantaka Shani"
+    ],
+    "common_outcomes": [
+      "spouse's difficulties or distance in marriage",
+      "tiring travel",
+      "worry and fear"
+    ],
+    "rare_outcomes": [
+      "separation from spouse and children (Brihat Samhita)"
+    ],
+    "by_area": {
+      "personality": "Troubled by fear (Phaladeepika 26.22).",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "The wife suffers (Phaladeepika 26.22); separation from wife (Brihat Samhita 104.44).",
+      "family": "Separation from sons (Brihat Samhita 104.44).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "(softening) Saturn exalted or in its own sign while transiting: does no harm (Phaladeepika 26.31)",
+      "(softening) aspect of a benefic on transiting Saturn (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) Saturn yogakaraka, lagna lord, Moon-sign lord, exalted or in a trine natally (Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) a Saturn or other malefic dasa running (Kurczak; Nirikhi Krishna Bhagavan)",
+      "(intensifying) no or few bindus in Saturn's ashtakavarga for the sign (Raman)"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman).",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.22",
+        "view": "Saturn in the 7th: the wife suffers, the native travels and is troubled by fear.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 44",
+        "view": "Saturn in the 7th or 8th: separation from wife and sons and wretched travel on foot.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', p. 264",
+        "view": "Repeats the Brihat Samhita results for the 7th and 8th.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), 'Exceptions', p. 14",
+        "view": "Transit of Saturn in the 4th, 7th and 10th from the Moon is called kantaka Shani.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "Which houses count as 'kantaka Shani' varies: Nirikhi Krishna Bhagavan names the 4th, 7th and 10th; popular usage often reserves the term for the 4th (see sade_sati/kantaka_dhaiya).",
+    "confidence": "high",
+    "phrasing_guidance": "Suggest extra patience and communication in partnerships and avoiding unnecessary travel; do not predict divorce or harm to a spouse.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign, Saturn does no harm in this unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated in an unfavourable house, the bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective when aspected by a benefic"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "manual: transiting Saturn is combust (lost in the Sun's rays)",
+        "polarity": "good",
+        "effects": [
+          "does not cause suffering to the righteous"
+        ],
+        "source": "Brihat Samhita 104.55"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is a yogakaraka (Taurus and Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is the lagna lord (Capricorn and Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as lord of the 4th and 5th (Libra lagna) acts more gracefully"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as lord of the 7th and 8th (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "Saturn's difficult tendencies are mitigated; ruling difficult houses emphasises them"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the transit is felt more strongly when a Saturn period is running; without such activation it may pass almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "When a planet is badly placed in transit, propitiate it with prayers and mantras, shanti rites, vows, gifts and worship, and lead a harmless, self-controlled life",
+        "source": "Phaladeepika 26.49-50 (tr. Sastri)"
+      },
+      {
+        "remedy": "Propitiate Saturn with gifts of black substances; worship Brahmins and deities, perform expiation, recite mantras, practise austerity and self-control, keep the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (tr. Iyer)"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana) during Sade Sati, ashtama and ardhashtama Shani",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma, pp. 17-18"
+      },
+      {
+        "remedy": "Service to the less fortunate (volunteering), regular fasting and Saturn mantras; take responsibility for the strained area of life",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      }
+    ],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  },
+  {
+    "id": "transit/saturn/8",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 8
+    },
+    "summary": "Saturn in the 8th from the Moon (ashtama Shani, the 'big Dhaiya') is one of its worst transits in the classical texts: losses, illness, separation from family and friends, and hardship.",
+    "themes": [
+      "ashtama Shani",
+      "loss",
+      "illness",
+      "separation",
+      "Dhaiya"
+    ],
+    "common_outcomes": [
+      "losses of money and possessions",
+      "illness",
+      "separation from or trouble to children and friends",
+      "hardship and tiring travel"
+    ],
+    "rare_outcomes": [
+      "[maraka: text predicts danger to life] (Phaladeepika 26.33)",
+      "loss of children (Phaladeepika) [maraka: may be read as death of a child]"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Loss of position is among the dangers of Saturn in the 8th from the Moon (Phaladeepika 26.33).",
+      "finance": "Loss of wealth and of cattle (property) (Phaladeepika 26.22, 26.33).",
+      "health": "Disease (Phaladeepika 26.22).",
+      "relationships": "Loss of friends (Phaladeepika 26.22); separation from wife (Brihat Samhita 104.44).",
+      "family": "Loss of or separation from children (Phaladeepika 26.22; Brihat Samhita 104.44).",
+      "spirituality": "Modern: may coincide with drastic life changes, even renunciation, when a malefic dasa runs (Nirikhi Krishna Bhagavan)."
+    },
+    "strengtheners": [
+      "(softening) Saturn exalted or in its own sign while transiting: does no harm (Phaladeepika 26.31)",
+      "(softening) aspect of a benefic on transiting Saturn (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) Saturn yogakaraka, lagna lord, Moon-sign lord, exalted or in a trine natally (Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) a Saturn or other malefic dasa running (Kurczak; Nirikhi Krishna Bhagavan)",
+      "(intensifying) no or few bindus in Saturn's ashtakavarga for the sign (Raman)"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman). Modern name: ashtama Shani, the 8th-house Dhaiya; see sade_sati/ashtama_dhaiya.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.22",
+        "view": "Saturn in the 8th: loss of children, cattle, friends and wealth, and disease.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.33",
+        "view": "Saturn in the 12th, 8th or 1st from the Moon threatens life and causes loss of position and wealth. [maraka: text predicts danger to life]",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 44",
+        "view": "Saturn in the 7th or 8th: separation from wife and sons and wretched travel on foot.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', p. 264",
+        "view": "Repeats the Brihat Samhita results.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 10",
+        "view": "Malefics do maximum evil in the 8th or 12th; Rahu dasa running with Saturn in the 8th is a period of trials.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), 'Exceptions', pp. 13-16",
+        "view": "Ashtama Shani: loss or separation from spouse, money, position, job, reputation; debts, humiliation, fear; drastic changes or renunciation if a malefic dasa-bhukti coincides.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a testing period for health, finances and close ties that calls for caution, rest and avoiding risk; never predict death or serious illness.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign, Saturn does no harm in this unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated in an unfavourable house, the bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective when aspected by a benefic"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "manual: transiting Saturn is combust (lost in the Sun's rays)",
+        "polarity": "good",
+        "effects": [
+          "does not cause suffering to the righteous"
+        ],
+        "source": "Brihat Samhita 104.55"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is a yogakaraka (Taurus and Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is the lagna lord (Capricorn and Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as lord of the 4th and 5th (Libra lagna) acts more gracefully"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as lord of the 7th and 8th (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "Saturn's difficult tendencies are mitigated; ruling difficult houses emphasises them"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the transit is felt more strongly when a Saturn period is running; without such activation it may pass almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "md == 'Rahu'",
+        "polarity": "bad",
+        "effects": [
+          "Rahu dasa running with Saturn in the 8th from the Moon is a period of trials and tribulations"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits p. 10"
+      },
+      {
+        "when": "manual: a malefic dasa-bhukti coincides with ashtama Shani",
+        "polarity": "bad",
+        "effects": [
+          "drastic changes in life, possibly renunciation"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "When a planet is badly placed in transit, propitiate it with prayers and mantras, shanti rites, vows, gifts and worship, and lead a harmless, self-controlled life",
+        "source": "Phaladeepika 26.49-50 (tr. Sastri)"
+      },
+      {
+        "remedy": "Propitiate Saturn with gifts of black substances; worship Brahmins and deities, perform expiation, recite mantras, practise austerity and self-control, keep the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (tr. Iyer)"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana) during Sade Sati, ashtama and ardhashtama Shani",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma, pp. 17-18"
+      },
+      {
+        "remedy": "Service to the less fortunate (volunteering), regular fasting and Saturn mantras; take responsibility for the strained area of life",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      }
+    ],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  },
+  {
+    "id": "transit/saturn/9",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 9
+    },
+    "summary": "Saturn in the 9th from the Moon is unfavourable: financial loss, obstacles to religious or good deeds, grief over an elder, and enmity.",
+    "themes": [
+      "fortune",
+      "father and elders",
+      "dharma and good deeds",
+      "grief"
+    ],
+    "common_outcomes": [
+      "financial loss",
+      "obstacles to religious or charitable acts",
+      "lasting sorrow",
+      "enmity"
+    ],
+    "rare_outcomes": [
+      "death of a relative equal to the father [maraka: text predicts death of a father-figure]",
+      "chest pain, imprisonment, neglect of daily duties (Brihat Samhita)"
+    ],
+    "by_area": {
+      "personality": "Lasting sorrow (Phaladeepika 26.23).",
+      "career": "",
+      "finance": "Loss of wealth (Phaladeepika 26.23).",
+      "health": "Chest pain (Brihat Samhita 104.44).",
+      "relationships": "Hatred or enmity; separation from wife and sons as for the 8th (Brihat Samhita 104.44).",
+      "family": "Death of a relative equal to the father (Phaladeepika 26.23).",
+      "spirituality": "Obstacles to good deeds (Phaladeepika 26.23); neglect of daily religious duties (Brihat Samhita 104.44)."
+    },
+    "strengtheners": [
+      "(softening) Saturn exalted or in its own sign while transiting: does no harm (Phaladeepika 26.31)",
+      "(softening) aspect of a benefic on transiting Saturn (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) Saturn yogakaraka, lagna lord, Moon-sign lord, exalted or in a trine natally (Nirikhi Krishna Bhagavan)",
+      "(softening) a planet other than the Sun in the 6th from the Moon (vipareeta vedha, Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) a Saturn or other malefic dasa running (Kurczak; Nirikhi Krishna Bhagavan)",
+      "(intensifying) no or few bindus in Saturn's ashtakavarga for the sign (Raman)"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman).",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.23",
+        "view": "Saturn in the 9th: loss of wealth, obstacles to good deeds, the death of a relative equal to the father, lasting sorrow.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 44",
+        "view": "Saturn in the 9th: as for the 8th, plus hatred, chest pain, imprisonment and failure to observe daily duties.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', p. 264",
+        "view": "Repeats the Brihat Samhita results.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.5",
+        "view": "The 9th is the vedha point that obstructs Saturn's good results in the 6th.",
+        "url": "https://www.siva.sh/phaladeepika/26/1-5"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of a slower period for luck, long journeys and spiritual practice, and of care for elders; do not predict a parent's death.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign, Saturn does no harm in this unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated in an unfavourable house, the bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective when aspected by a benefic"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "manual: transiting Saturn is combust (lost in the Sun's rays)",
+        "polarity": "good",
+        "effects": [
+          "does not cause suffering to the righteous"
+        ],
+        "source": "Brihat Samhita 104.55"
+      },
+      {
+        "when": "6 in tr_vedha_houses",
+        "polarity": "good",
+        "effects": [
+          "vipareeta vedha: a planet transiting the 6th from the Moon reduces or cancels Saturn's adverse results in the 9th; the Sun does not count"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits pp. 10-11, 14 (general 'converse' vipareeta vedha rule applied to its Saturn pair 3/12, 6/9, 11/5)"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is a yogakaraka (Taurus and Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is the lagna lord (Capricorn and Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as lord of the 4th and 5th (Libra lagna) acts more gracefully"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as lord of the 7th and 8th (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "Saturn's difficult tendencies are mitigated; ruling difficult houses emphasises them"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the transit is felt more strongly when a Saturn period is running; without such activation it may pass almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "When a planet is badly placed in transit, propitiate it with prayers and mantras, shanti rites, vows, gifts and worship, and lead a harmless, self-controlled life",
+        "source": "Phaladeepika 26.49-50 (tr. Sastri)"
+      },
+      {
+        "remedy": "Propitiate Saturn with gifts of black substances; worship Brahmins and deities, perform expiation, recite mantras, practise austerity and self-control, keep the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (tr. Iyer)"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana) during Sade Sati, ashtama and ardhashtama Shani",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma, pp. 17-18"
+      },
+      {
+        "remedy": "Service to the less fortunate (volunteering), regular fasting and Saturn mantras; take responsibility for the strained area of life",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      }
+    ],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  },
+  {
+    "id": "transit/saturn/10",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 10
+    },
+    "summary": "Saturn in the 10th from the Moon is unfavourable for reputation: Phaladeepika warns of wrongful acts, loss of honour and illness; Brihat Samhita says work is found but wealth, learning and fame suffer. Some modern authors count it as kantaka Shani.",
+    "themes": [
+      "career and reputation",
+      "conduct",
+      "kantaka Shani"
+    ],
+    "common_outcomes": [
+      "pressure on reputation and status",
+      "heavy or thankless work",
+      "risk of a wrong step at work",
+      "illness"
+    ],
+    "rare_outcomes": [
+      "obtaining work while losing wealth and learning (Brihat Samhita)"
+    ],
+    "by_area": {
+      "personality": "Risk of doing a sinful or wrong act (Phaladeepika 26.23).",
+      "career": "Loss of honour (Phaladeepika 26.23); work obtained but fame lost (Brihat Samhita 104.45).",
+      "finance": "Loss of wealth (Brihat Samhita 104.45).",
+      "health": "Illness (Phaladeepika 26.23).",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Loss of learning (Brihat Samhita 104.45)."
+    },
+    "strengtheners": [
+      "(softening) Saturn exalted or in its own sign while transiting: does no harm (Phaladeepika 26.31)",
+      "(softening) aspect of a benefic on transiting Saturn (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) Saturn yogakaraka, lagna lord, Moon-sign lord, exalted or in a trine natally (Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) a Saturn or other malefic dasa running (Kurczak; Nirikhi Krishna Bhagavan)",
+      "(intensifying) no or few bindus in Saturn's ashtakavarga for the sign (Raman)"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman).",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.23",
+        "view": "Saturn in the 10th: the native may commit a sinful act, lose honour, or fall ill.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 45",
+        "view": "Saturn in the 10th: the person gets work but loses wealth, learning and fame.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', p. 264",
+        "view": "Repeats the Brihat Samhita results.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), 'Exceptions', p. 14",
+        "view": "Transits of the 4th, 7th and 10th from the Moon are called kantaka Shani.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "Phaladeepika is plainly negative; Brihat Samhita (followed by Raman) is mixed: employment comes, but wealth, learning and fame decline.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a period of heavy responsibility at work where integrity and patience protect reputation; avoid predicting disgrace.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign, Saturn does no harm in this unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated in an unfavourable house, the bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective when aspected by a benefic"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "manual: transiting Saturn is combust (lost in the Sun's rays)",
+        "polarity": "good",
+        "effects": [
+          "does not cause suffering to the righteous"
+        ],
+        "source": "Brihat Samhita 104.55"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is a yogakaraka (Taurus and Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is the lagna lord (Capricorn and Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as lord of the 4th and 5th (Libra lagna) acts more gracefully"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as lord of the 7th and 8th (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "Saturn's difficult tendencies are mitigated; ruling difficult houses emphasises them"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the transit is felt more strongly when a Saturn period is running; without such activation it may pass almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "When a planet is badly placed in transit, propitiate it with prayers and mantras, shanti rites, vows, gifts and worship, and lead a harmless, self-controlled life",
+        "source": "Phaladeepika 26.49-50 (tr. Sastri)"
+      },
+      {
+        "remedy": "Propitiate Saturn with gifts of black substances; worship Brahmins and deities, perform expiation, recite mantras, practise austerity and self-control, keep the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (tr. Iyer)"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana) during Sade Sati, ashtama and ardhashtama Shani",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma, pp. 17-18"
+      },
+      {
+        "remedy": "Service to the less fortunate (volunteering), regular fasting and Saturn mantras; take responsibility for the strained area of life",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      }
+    ],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  },
+  {
+    "id": "transit/saturn/11",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 11
+    },
+    "summary": "Saturn in the 11th from the Moon is good: gains, wealth, varied happiness and unusual honour. Every planet is held to do well in the 11th from the Moon.",
+    "themes": [
+      "gains",
+      "income",
+      "honour",
+      "fulfilment of desires"
+    ],
+    "common_outcomes": [
+      "increase of income and wealth",
+      "varied happiness",
+      "honour or recognition"
+    ],
+    "rare_outcomes": [
+      "the native becomes harsh or hard while gaining (Brihat Samhita)"
+    ],
+    "by_area": {
+      "personality": "May become harsh or cruel (Brihat Samhita 104.45).",
+      "career": "Unusual or distinctive honour (Phaladeepika 26.23).",
+      "finance": "Wealth (Phaladeepika 26.23; Brihat Samhita 104.45).",
+      "health": "",
+      "relationships": "Gains through women (Brihat Samhita 104.45).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn exalted (Libra) or in its own sign (Capricorn, Aquarius) while transiting this house (Phaladeepika 26.31)",
+      "no planet other than the Sun in the 5th from the Moon (no vedha) (Phaladeepika 26.5)",
+      "many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41; Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "vedha: another planet (not the Sun) in the 5th from the Moon (Phaladeepika 26.5)",
+      "Saturn debilitated (Aries) or in an enemy's sign, or aspected by an enemy (Phaladeepika 26.32; Brihat Samhita 104.53)",
+      "few bindus in Saturn's ashtakavarga for the sign"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman).",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.2 and 26.5",
+        "view": "All planets are good in the 11th from the Moon (26.2); for Saturn the 5th is the vedha point, the Sun excepted (26.5).",
+        "url": "https://www.siva.sh/phaladeepika/26/1-5"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.23",
+        "view": "Saturn in the 11th: varied happiness, wealth and unique honour.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, vv. 4 and 45",
+        "view": "All planets are benefic in the 11th from the Moon (v. 4); Saturn there makes the person cruel but brings women and wealth (v. 45).",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', pp. 257-258, 264",
+        "view": "11th good for Saturn with vedha point 5; results as in Brihat Samhita.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 10",
+        "view": "Both benefics and malefics always give favourable results in the 11th.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135 (transcript)",
+        "view": "Describes Saturn in the 11th from the Moon as a supportive phase, giving his own book and class growth as an example.",
+        "url": "https://theastrologypodcast.com/transcripts/ep-135-transcript-sade-sati-saturn-transiting-the-natal-moon/"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "Phaladeepika is wholly positive; Brihat Samhita adds that the person becomes harsh while gaining.",
+    "confidence": "high",
+    "phrasing_guidance": "A rewarding period for income, networks and recognition earned through long effort.",
+    "conditional_results": [
+      {
+        "when": "5 in tr_vedha_houses",
+        "polarity": "bad",
+        "effects": [
+          "vedha: a planet transiting the 5th from the Moon obstructs Saturn's good results in the 11th; no vedha if that planet is the Sun (see next rule)"
+        ],
+        "source": "Phaladeepika 26.5 (tr. Sastri); Raman, HPA ch. 34 pp. 257-258; Nirikhi Krishna Bhagavan, Planetary Transits p. 14"
+      },
+      {
+        "when": "manual: the only planet transiting the 5th from the Moon is the Sun",
+        "polarity": "good",
+        "effects": [
+          "no vedha between the Sun and Saturn (father and son), so Saturn's good results stand"
+        ],
+        "source": "Phaladeepika 26.5 with note to 26.3; Raman, HPA ch. 34 p. 257; Nirikhi Krishna Bhagavan, Planetary Transits p. 11"
+      },
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign in a favourable house, Saturn gives the full good results of this house"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated, Saturn's good results here fail"
+        ],
+        "source": "Phaladeepika 26.32; Brihat Samhita 104.53; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "good results fail or become ordinary"
+        ],
+        "source": "Phaladeepika 26.32; Brihat Samhita 104.53; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by an enemy planet (Brihat Samhita) or by a malefic (Phaladeepika)",
+        "polarity": "bad",
+        "effects": [
+          "good results become ineffective"
+        ],
+        "source": "Brihat Samhita 104.53; Phaladeepika 26.30"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "good",
+        "effects": [
+          "the transit is felt more clearly when a Saturn period is running"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135 (transits matter most when the dasha activates the planet)"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  },
+  {
+    "id": "transit/saturn/12",
+    "layer": "transit",
+    "key": {
+      "planet": "Saturn",
+      "house_from_moon": 12
+    },
+    "summary": "Saturn in the 12th from the Moon is unfavourable: tiring, unproductive effort, losses through enemies or theft, sickness in the family and grief. It is the opening (rising) phase of Sade Sati.",
+    "themes": [
+      "expenses and loss",
+      "fruitless effort",
+      "grief",
+      "Sade Sati rising"
+    ],
+    "common_outcomes": [
+      "wearisome, unrewarding work",
+      "losses, theft or expenses",
+      "illness of spouse or children",
+      "grief and worry"
+    ],
+    "rare_outcomes": [
+      "[maraka: text predicts danger to life] (Phaladeepika 26.33)"
+    ],
+    "by_area": {
+      "personality": "Great grief (Brihat Samhita 104.45).",
+      "career": "Worn out by worthless, unproductive occupation (Phaladeepika 26.23); loss of position (Phaladeepika 26.33).",
+      "finance": "Money taken by enemies or thieves (Phaladeepika 26.23); loss of wealth (Phaladeepika 26.33).",
+      "health": "",
+      "relationships": "Trouble from enemies (Phaladeepika 26.23).",
+      "family": "Wife and sons fall sick (Phaladeepika 26.23).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "(softening) Saturn exalted or in its own sign while transiting: does no harm (Phaladeepika 26.31)",
+      "(softening) aspect of a benefic on transiting Saturn (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) Saturn yogakaraka, lagna lord, Moon-sign lord, exalted or in a trine natally (Nirikhi Krishna Bhagavan)",
+      "(softening) a planet other than the Sun in the 3rd from the Moon (vipareeta vedha, Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) a Saturn or other malefic dasa running (Kurczak; Nirikhi Krishna Bhagavan)",
+      "(intensifying) no or few bindus in Saturn's ashtakavarga for the sign (Raman)"
+    ],
+    "lagna_or_context_notes": "Classical gochara is counted from the natal Moon's sign; Phaladeepika 26.1 says only the Moon's lagna counts for transits. P.S. Sastri's note to Uttara Kalamrita ch. 6 (verse on annual results) records other views: count from the lagna up to age 33, from the Moon for the next 33 years and from the Sun after that, or from the stronger of lagna and Moon. Modern authors treat transits as secondary to the natal chart and dasha: Frawley gives them about one-third weight in judging a period; Raman (HPA ch. 34) says the birth chart, dasha, ashtakavarga and vedha must be blended; Brihat Samhita 104.46 says benefic results scale with the running dasha and the person's station. Saturn's transit gives the 2.5-year (triennial) results (Raman). This is the rising phase of Sade Sati; see sade_sati/rising.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.23",
+        "view": "Saturn in the 12th: fruitless, wearisome occupation, money stolen by enemies, sickness of wife and sons.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.33",
+        "view": "Saturn in the 12th, 8th or 1st from the Moon threatens life and causes loss of position and wealth. [maraka: text predicts danger to life]",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 45",
+        "view": "Saturn in the 12th: great grief.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 'Gocharaphala or Results of Transits', pp. 258-259, 264",
+        "view": "Results as in Brihat Samhita. In a worked example Saturn in the 12th with 3 bindus is 'exceedingly bad', partly mitigated by Mercury in the 11th; with Mars in the 8th the native died. [maraka: example chart where death occurred]",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), pp. 10-11",
+        "view": "Malefics do most harm in the 8th or 12th. If another planet transits the 3rd while Saturn is in the 12th, the adverse results are cancelled (vipareeta vedha), except the Sun.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Planetary Periods: Background Transits' (p. 201)",
+        "view": "Transits are read against the running dasha and carry about one-third of the weight in judging a period; transits of the period lords and of the strongest planet matter most.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 13",
+        "view": "Transit results are secondary to the natal chart and dasha but can modify them; results judged without vedha and vipareeta vedha may prove wrong.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transits through signs with more ashtakavarga bindus give good results; in exaltation, own or friendly signs good results predominate, in debilitated or enemy signs bad results increase; Saturn acts at the end of a sign.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a period to control spending, rest and avoid draining commitments; present it as the start of a slow, learnable cycle, not as a threat.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "exalted or in its own sign, Saturn does no harm in this unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "debilitated in an unfavourable house, the bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results are intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective when aspected by a benefic"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "manual: transiting Saturn is combust (lost in the Sun's rays)",
+        "polarity": "good",
+        "effects": [
+          "does not cause suffering to the righteous"
+        ],
+        "source": "Brihat Samhita 104.55"
+      },
+      {
+        "when": "3 in tr_vedha_houses",
+        "polarity": "good",
+        "effects": [
+          "vipareeta vedha: a planet transiting the 3rd from the Moon reduces or cancels Saturn's adverse results in the 12th; the Sun does not count"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits pp. 10-11 (explicit example: Saturn 12th, planet in 3rd)"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is a yogakaraka (Taurus and Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when Saturn is the lagna lord (Capricorn and Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "the evil results are modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as lord of the 4th and 5th (Libra lagna) acts more gracefully"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as lord of the 7th and 8th (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "Saturn's difficult tendencies are mitigated; ruling difficult houses emphasises them"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the transit is felt more strongly when a Saturn period is running; without such activation it may pass almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the transited sign has many bindus (more than 4) in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in the 12th, 6th or 8th; fewer bindus weaken good results"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Planetary Transits p. 11 (more than 4 own bindus and more than 30 in the sarvashtakavarga)"
+      },
+      {
+        "when": "manual: the transited sign has no bindus in Saturn's own ashtakavarga",
+        "polarity": "bad",
+        "effects": [
+          "losses [maraka: text predicts death or losses]"
+        ],
+        "source": "Raman, HPA ch. 26 (Ashtakavarga), Saturn rule 37"
+      },
+      {
+        "when": "tr_house_from_lagna == tr_natal_house",
+        "polarity": "bad",
+        "effects": [
+          "Saturn transiting over its own natal position is generally said to be bad"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a silver (rajata) or copper (tamra) murti",
+        "polarity": "good",
+        "effects": [
+          "favourable results or reduced negative results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: Saturn enters this sign in a gold (swarna) or iron (loha) murti",
+        "polarity": "bad",
+        "effects": [
+          "adverse results"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "When a planet is badly placed in transit, propitiate it with prayers and mantras, shanti rites, vows, gifts and worship, and lead a harmless, self-controlled life",
+        "source": "Phaladeepika 26.49-50 (tr. Sastri)"
+      },
+      {
+        "remedy": "Propitiate Saturn with gifts of black substances; worship Brahmins and deities, perform expiation, recite mantras, practise austerity and self-control, keep the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (tr. Iyer)"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana) during Sade Sati, ashtama and ardhashtama Shani",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma, pp. 17-18"
+      },
+      {
+        "remedy": "Service to the less fortunate (volunteering), regular fasting and Saturn mantras; take responsibility for the strained area of life",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      }
+    ],
+    "phases": "Saturn gives its transit results mainly in the last part of the sign: the last decanate (last 10 degrees) per Phaladeepika 26.25 and Saravali 53.10, the second half of the sign per Brihat Samhita 104 (verse on half-signs, numbered 48/49)."
+  }
+]

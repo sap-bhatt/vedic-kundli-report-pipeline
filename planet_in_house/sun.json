@@ -1,0 +1,566 @@
+[
+  {
+    "id": "planet_in_house/sun/1",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 1},
+    "summary": "The Sun in the lagna gives courage, pride and a will to command. The classical texts add a lean, heat-prone body, weak eyes and a harsh temper; Raman stresses ambition, moral strength and dignity.",
+    "themes": ["courage", "pride and self-will", "authority", "eyesight", "heat of temper"],
+    "common_outcomes": [
+      "Brave and self-willed (Phaladeepika 8.1, Brihat Jataka 20.1)",
+      "Quick-tempered, proud, unforgiving or harsh (Phaladeepika 8.1)",
+      "Some weakness of the eyes (Phaladeepika 8.1, Brihat Jataka 20.1, Jataka Parijata 8.56, Raman HPA)",
+      "Ambition, love of power and a dignified, respected bearing (Raman, How to Judge a Horoscope)",
+      "Bilious or hot constitution (Raman HPA)"
+    ],
+    "rare_outcomes": [
+      "Sparse hair, tall and lean frame (Phaladeepika 8.1)",
+      "Few sons, eats sparingly, boastful in a fight, well-bred, drawn to the dramatic arts (Jataka Parijata 8.56)",
+      "Slowness or laziness in work despite boldness (Phaladeepika 8.1 'inactivity'; Raman HPA 'lazy in work')"
+    ],
+    "by_area": {
+      "personality": "Brave, proud and quick to anger in the old texts (Phaladeepika 8.1); Raman adds a strong moral nature, optimism and lofty motives.",
+      "career": "Raman lists political success and a stately public presence (HPA).",
+      "finance": "With Aries rising the native earns by his own effort (Brihat Jataka 20.1); with Libra rising the texts predict poverty (Phaladeepika 8.1, Brihat Jataka 20.1).",
+      "health": "Eye weakness, heat and bile are the recurring notes; with Saturn or Mars, Raman adds scars, fevers, inflammations and skin itching (How to Judge a Horoscope).",
+      "relationships": "",
+      "family": "Few sons (Jataka Parijata 8.56); loss of children when the lagna is Libra (Phaladeepika 8.1).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Sun exalted in the lagna (Aries): love of learning and virtue, good eyesight, fame and independence (Jataka Parijata 8.56)",
+      "Aries lagna: the native earns by his own effort (Brihat Jataka 20.1)",
+      "Own sign Leo or exaltation Aries in the lagna (PanchangBodh)",
+      "Results scale with dignity: exaltation, own or friendly sign improve the house result (Brihat Jataka 20.10)"
+    ],
+    "weakeners_or_cancellations": [
+      "Libra lagna (debilitation): poverty and loss of children (Phaladeepika 8.1); blind and poor (Brihat Jataka 20.1)",
+      "Conjunction with Saturn or Mars: scars, a hot constitution, skin troubles, fevers and eye affections (Raman, How to Judge a Horoscope)",
+      "Cancer lagna: cataract (Phaladeepika 8.1) or inflamed eyes (Brihat Jataka 20.1)",
+      "Leo lagna: night-blindness (Phaladeepika 8.1, Brihat Jataka 20.1, Jataka Parijata 8.56)"
+    ],
+    "lagna_or_context_notes": "The texts name lagna-specific results: Aries, an eye complaint but self-earned wealth (Brihat Jataka 20.1, Phaladeepika 8.1), and with exaltation learning, fame and good sight (Jataka Parijata 8.56); Leo, night-blindness (all three texts); Cancer, cataract or inflamed eyes; Libra, poverty and loss of children or blindness (Phaladeepika 8.1, Brihat Jataka 20.1); Pisces, served and waited on by women (Jataka Parijata 8.56). Raman says a planet in the lagna must be read with its dignity, aspects and the nature of the rising sign (How to Judge a Horoscope, intro to 'Planets in the First House').",
+    "source_views": [
+      {"source": "Phaladeepika 8.1 (Mantreswara; English tr. on siva.sh)", "view": "Sparse hair, inactivity, quick temper, pride, tall, weak eyes, lean body, brave but unforgiving and harsh. Cancer lagna cataract, Aries eye disease, Leo night-blindness, Libra poverty and loss of children.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.1 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)", "view": "Valiant, obstinate, defective eyes, cruel-hearted. Aries lagna: earns himself but has eye disease; Leo: night-blind; Libra: blind and poor; Cancer: inflamed eyes.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.56 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)", "view": "Few sons, life of ease, cruel, eats sparingly, weak sight, boastful in battle, well-bred, knows the dramatic arts. Exalted: learning, virtue, good vision, fame, independence. In Pisces: served by women. In Leo: night-blind (rest of line illegible in the scan).", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Righteous, healthy, bilious, eye disease, intelligent, political success, stately, humanitarian, lazy in work yet fond of daring deeds, hot constitution, strong will, generous.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the First House'", "view": "Strong moral nature, ambition and love of power, good vitality, optimism and popularity; with Saturn or Mars, scars, hot constitution, impure blood, fevers and eye affections.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses (modern site)", "view": "Confidence, vitality and a need for respect, with ego and heat as the shadow; aspects the 7th; own sign for Leo lagna, exalted for Aries, debilitated for Libra.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed (Mona), Effects of the Sun in 12 Houses (modern site)", "view": "Leadership, commanding presence and respect; the risk is arrogance and self-interest.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "The classical texts lean harsh (cruel, unforgiving, weak-eyed), while Raman and the modern sites read it as mostly positive (moral strength, leadership). On pace, Phaladeepika gives 'inactivity' and Raman HPA has both 'lazy in work' and 'fond of daring deeds'. For Libra lagna, Phaladeepika gives poverty and loss of children, Brihat Jataka gives blindness and poverty.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with confidence, self-respect and a natural pull toward leadership; frame temper and ego as the growth edge. Mention eye care or managing heat only lightly, as a classical note rather than a diagnosis."
+  },
+  {
+    "id": "planet_in_house/sun/2",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 2},
+    "summary": "The Sun in the 2nd ties money and speech to authority. The classics are split: some give wealth that the state can take away, others lack of learning and money; most note trouble in the face, eyes or speech.",
+    "themes": ["wealth and its loss", "speech", "face and teeth", "dealings with authority"],
+    "common_outcomes": [
+      "Ailments or defects of the face, mouth or teeth (Brihat Jataka 20.1; Raman HPA and How to Judge a Horoscope)",
+      "Losses through authorities or litigation (Brihat Jataka 20.1; Raman, How to Judge a Horoscope)",
+      "Stubborn or peevish temper (Raman)",
+      "Stammering or faltering speech (Phaladeepika 8.2; Raman HPA)"
+    ],
+    "rare_outcomes": [
+      "Wealth from minerals or metals, liberal giving, kindness even to ill-wishers (Jataka Parijata 8.62)",
+      "Danger in the 25th year (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Stubborn and peevish (Raman); in Jataka Parijata liberal and eloquent.",
+      "career": "",
+      "finance": "Brihat Jataka gives great wealth that a ruler takes away; Phaladeepika gives lack of wealth; Raman says money comes by hard effort and its nature follows the sign, with a tendency to waste.",
+      "health": "Face, mouth or teeth complaints (Brihat Jataka 20.1, Raman).",
+      "relationships": "",
+      "family": "PanchangBodh notes the Sun's heat can weigh on family life.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Good aspects: Sastri's note to Brihat Jataka 20.1 says the placement is bad for litigation except when the Sun is well aspected",
+      "With Mercury, Budhaditya yoga sharpens speech (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Unaspected or afflicted, bad for lawsuits and for the face and teeth (Sastri's note to Brihat Jataka 20.1)"
+    ],
+    "lagna_or_context_notes": "Raman says the kind of income depends on the sign the Sun occupies in the 2nd (How to Judge a Horoscope, 'Planets in the Second House').",
+    "source_views": [
+      {"source": "Phaladeepika 8.2 (English tr. on siva.sh)", "view": "Lacks learning, modesty and wealth; stammers.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.1 with Sastri's notes", "view": "Immensely rich but deprived of wealth by a king; diseases of the face. Notes: defect in face or teeth; bad for litigation unless well aspected.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.62", "view": "Liberal, owns property in minerals, cherishes even ill-wishers, eloquent.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Diseased face, losses from prosecutions, good earnings but inclined to waste, bright speech, well educated, stubborn and peevish, danger in the 25th year, may stammer.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Second House'", "view": "Not quite favourable: losses by offending authorities, diseased face, money through industrious effort, nature of income by sign, stubborn and peevish.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses", "view": "Clear, commanding voice; money tied to standing such as office or government; heat can drain savings on display and weigh on family; eyes, teeth and food are traditional notes.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed, Effects of the Sun in 12 Houses", "view": "Moral strength and persuasive speech on intellectual subjects; overspending and stubbornness.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "On wealth: Phaladeepika says poor and unlearned; Brihat Jataka says very rich but robbed by the ruler; Jataka Parijata says liberal and propertied; Raman says good earnings with waste. On speech: Phaladeepika and Raman HPA give stammering, Jataka Parijata and Raman HPA also give eloquent or bright speech.",
+    "confidence": "medium",
+    "phrasing_guidance": "Talk about earnings linked to status and a forthright way of speaking; advise care with official or legal disputes and with spending for show. Present face or teeth notes as traditional, not as a health forecast."
+  },
+  {
+    "id": "planet_in_house/sun/3",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 3},
+    "summary": "One of the Sun's best houses: courage, strength, initiative and success through effort. The shadow is friction with siblings or relatives.",
+    "themes": ["courage", "initiative", "strength", "siblings", "generosity"],
+    "common_outcomes": [
+      "Brave, strong and successful (Phaladeepika 8.2, Brihat Jataka 20.2, Jataka Parijata 8.65, Raman)",
+      "Wealthy and generous (Phaladeepika 8.2, Jataka Parijata 8.65, Raman HPA)",
+      "Good intellect (Brihat Jataka 20.2; Raman HPA 'intelligent')",
+      "Resourceful but restless mind (Raman)"
+    ],
+    "rare_outcomes": [
+      "Served by bad men (Jataka Parijata 8.65)",
+      "Discredit through letters or writing (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Courageous, adventurous, liberal and restless (Raman HPA).",
+      "career": "Writing, teaching and media suit the drive here (PanchangBodh).",
+      "finance": "Wealthy (Phaladeepika 8.2, Jataka Parijata 8.65, Raman HPA).",
+      "health": "",
+      "relationships": "",
+      "family": "Hostile to relatives (Phaladeepika 8.2); bad for brothers if afflicted (Raman); relations with younger siblings can become domineering (PanchangBodh).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman calls the Sun in the 3rd one of the strong points of a horoscope (How to Judge a Horoscope)",
+      "The 3rd is an upachaya, a house where the Sun's drive can be used (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Affliction harms brothers (Raman, How to Judge a Horoscope)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.2", "view": "Strong, brave, wealthy and generous, but hostile to relatives.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.2 with Sastri's notes", "view": "Good intellect and great strength; the note says the Sun is good in the 3rd.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.65", "view": "Brave, served by bad men, very wealthy and liberal.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Courageous, liberal, adventurous, famous, intelligent, wealthy, successful and restless.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Third House'", "view": "Courageous, resourceful and restive mind, successful; bad for brothers if afflicted; discredit through letters; one of the strong points of a horoscope.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses", "view": "Upachaya where drive is usable: initiative, stamina, writing, teaching or media; younger siblings may find the native commanding; aspect to the 9th makes effort the trigger of fortune.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed, Effects of the Sun in 12 Houses", "view": "Travel, talkativeness and helpfulness; pride and always-right attitude can cause misunderstandings with close ones.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "Broad agreement on courage and success. Phaladeepika and Raman say it strains sibling or relative ties; Brihat Jataka does not mention siblings.",
+    "confidence": "high",
+    "phrasing_guidance": "Emphasise initiative, self-made success and the reward of effort. Mention sibling friction as something to handle with tact."
+  },
+  {
+    "id": "planet_in_house/sun/4",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 4},
+    "summary": "The Sun in the 4th is usually read as hard on inner peace and home life: worry, restlessness, thin domestic comfort and wasted inheritance, sometimes with success through service or abroad.",
+    "themes": ["mental unrest", "home and property", "inheritance", "relatives"],
+    "common_outcomes": [
+      "Little happiness or a troubled mind (Phaladeepika 8.2, Brihat Jataka 20.2, Raman)",
+      "Lack of home, land, friends or relatives (Phaladeepika 8.2; Raman HPA 'hatred of relations')",
+      "Squanders paternal property (Phaladeepika 8.2, Raman HPA)",
+      "Interest in philosophy, occult study or introspection (Raman)"
+    ],
+    "rare_outcomes": [
+      "Heart trouble, shortage of money and grain, hard-heartedness (Jataka Parijata 8.68)",
+      "Success abroad or after middle age (Raman HPA)",
+      "Learned in the arts but serves others for small reward (Saravali page on sourcelibrary.org, an unreviewed AI translation; not relied on)"
+    ],
+    "by_area": {
+      "personality": "Sensitive, keen-minded, introspective and given to quarrels without cause (Raman HPA).",
+      "career": "Serves the state (Phaladeepika 8.2); Raman says political success is hard; PanchangBodh says restlessness at home can feed career drive through the 10th-house aspect.",
+      "finance": "Wastes inherited property (Phaladeepika 8.2); some inheritance is promised (Raman, How to Judge a Horoscope).",
+      "health": "Weak constitution (Raman HPA); heart disease (Jataka Parijata 8.68).",
+      "relationships": "",
+      "family": "Few close relatives or friends and little domestic comfort (Phaladeepika 8.2); the mother may be strong-willed (PanchangBodh).",
+      "spirituality": "Meditative and philosophical (Raman HPA); interest in occult and philosophical study (Raman, How to Judge a Horoscope)."
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Aspect of Saturn or Mars brings obstacles in life (Raman, How to Judge a Horoscope)",
+      "The Sun has no directional strength (digbala) in the 4th (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.2", "view": "Little happiness; no relatives, land, friends or home; serves the state; squanders inherited property.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.2 with notes", "view": "No happiness and a troubled mind; the note calls the Sun bad in the 4th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.68", "view": "Heart disease, lack of money, grain and common sense, hard-hearted.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Mental worry, meditative, success abroad, hatred of relations, sensitive, success after middle age, weak constitution, philosophical, squanders paternal property.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Fourth House'", "view": "Generally unhappy and worried, roaming about; some inheritance; interest in occult and philosophy; political success difficult; Saturn or Mars aspect brings obstacles.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses", "view": "Hardest seat, no digbala; unsettled home, strong-willed mother; property through position; aspect to 10th turns restlessness into career drive.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed, Effects of the Sun in 12 Houses", "view": "Attached to family and home; feels disturbed, can be used by family, parental influence may strain marriage.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "Raman's two books disagree a little: HPA gives success abroad and after middle age and a squandered patrimony, while How to Judge a Horoscope promises some inheritance and says political success is hard. VedicFeed reads it as strong family attachment, against the classical lack of relatives.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame this as a search for inner peace and a home that feels settled, with energy that often goes outward into work. Avoid saying there will be no home or family, and do not mention heart disease."
+  },
+  {
+    "id": "planet_in_house/sun/5",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 5},
+    "summary": "The Sun in the 5th gives a sharp mind, but the classics read it as poor for children, wealth and happiness. Modern writers soften this to delay and a need for discipline.",
+    "themes": ["intelligence", "children", "happiness", "wandering"],
+    "common_outcomes": [
+      "Intelligent (Phaladeepika 8.3, Raman HPA)",
+      "Few or no children, or difficulty with children (Phaladeepika 8.3, Brihat Jataka 20.2, Raman)",
+      "Little wealth or happiness (Phaladeepika 8.3, Brihat Jataka 20.2, Raman)"
+    ],
+    "rare_outcomes": [
+      "Fond of roaming in forests or mountains (Phaladeepika 8.3; Raman, How to Judge a Horoscope)",
+      "Courtier with an unsteady mind who stays abroad (Jataka Parijata 8.71; printed '6th' in the scan, but it sits in the 5th-house sequence)",
+      "Danger to the father early; lover of fine arts; tactful decisions (Raman HPA)",
+      "Difficult childbirth (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Intelligent but disturbed in mind; tactful in decisions (Raman HPA).",
+      "career": "Courtier or attendant on a ruler (Jataka Parijata 8.71); teaching authority (PanchangBodh).",
+      "finance": "Poor or without wealth (Phaladeepika 8.3, Brihat Jataka 20.2, Raman HPA).",
+      "health": "Raman (How to Judge a Horoscope) lists heart disease.",
+      "relationships": "",
+      "family": "Few children (Raman HPA), childless (Brihat Jataka 20.2); an afflicted Sun shows delay rather than a fixed outcome (PanchangBodh).",
+      "spirituality": "Mantra practice suits this placement (PanchangBodh)."
+    },
+    "strengtheners": [
+      "The 5th is a trikona, giving a dignified mind and disciplined parenting (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Affliction brings delay with children (PanchangBodh); VedicFeed links afflicted Sun here to childbirth difficulty"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.3", "view": "Bereft of happiness, wealth and sons; reduced longevity; intelligent; wanders in forests.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.2 with notes", "view": "Childless and without wealth; the note calls the Sun bad in the 5th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.71", "view": "A courtier of unsteady mind who sojourns abroad (scan prints '6th', but the verse continues with the Moon in the 5th and the Sun in the 6th has its own verse, 8.75).", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Intelligent, poor, few children, early danger to father, unhappy, disturbed mind, lover of fine arts, tactful.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Fifth House'", "view": "Deprives of children, riches and happiness; heart disease; roams forests, a mountaineer; difficult childbirth.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses", "view": "Trikona: dignified mind, teaching authority, disciplined parenting; affliction suggests delay not a fixed outcome; mantra practice; links intellect to income via the 11th aspect.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed, Effects of the Sun in 12 Houses", "view": "Popularity, sport and the performing arts; afflicted, childbirth difficulties.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "The classics and Raman are negative on children and wealth; PanchangBodh treats this as delay, not denial, and VedicFeed is mostly positive (creativity, popularity). Jataka Parijata alone gives court service and life abroad.",
+    "confidence": "medium",
+    "phrasing_guidance": "Lead with intelligence and creative or teaching ability. If children come up, speak of patience and timing, never of childlessness, and do not repeat longevity or heart notes."
+  },
+  {
+    "id": "planet_in_house/sun/6",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 6},
+    "summary": "The Sun in the 6th is strong against rivals: fame, administrative ability, success and wealth. Health and digestion are the cautions.",
+    "themes": ["victory over rivals", "administration", "fame", "service", "health"],
+    "common_outcomes": [
+      "Victorious and famous, rises to authority (Phaladeepika 8.3, Jataka Parijata 8.75)",
+      "Wealthy (Phaladeepika 8.3, Jataka Parijata 8.75, Raman)",
+      "Good administrative or executive ability, few enemies (Raman)",
+      "Brave and self-respecting, honoured by rulers (Jataka Parijata 8.75)"
+    ],
+    "rare_outcomes": [
+      "Defies custom and caste; gains from enemies; colic (Raman HPA)",
+      "Lustful (Jataka Parijata 8.75; Raman HPA 'licentious')"
+    ],
+    "by_area": {
+      "personality": "Bold, warlike, clever at planning, self-respecting (Raman HPA, Jataka Parijata 8.75).",
+      "career": "Good politician, administrator or executive (Raman); service, medicine, law or administration (PanchangBodh).",
+      "finance": "Wealthy (Phaladeepika 8.3, Raman).",
+      "health": "Not very good for health (Raman); afflicted Sun gives long illness; in a fixed sign heart or breathing trouble, in a movable sign weak chest and digestion (Raman, How to Judge a Horoscope); digestion, acidity and eye strain (PanchangBodh).",
+      "relationships": "",
+      "family": "Few cousins (Raman HPA).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter's aspect can cancel the bad results and brings success and promotion in the Sun's sub-period (Raman, How to Judge a Horoscope)",
+      "A fortified Sun: administrative ability, few enemies, wealth and general success (Raman, How to Judge a Horoscope)",
+      "Malefics in the 6th give good results (Satyacharya, quoted in Brihat Jataka 20.10 notes)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted: long, troublesome illness (Raman, How to Judge a Horoscope)",
+      "Saturn's affliction points to heart trouble or chest pain unless Jupiter aspects (Raman, How to Judge a Horoscope)",
+      "A debilitated Sun here favours quiet competence over winning (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "Raman: an afflicted Sun in a fixed sign in the 6th points to heart trouble or asthma, in a movable sign to a weak chest and poor digestion (How to Judge a Horoscope).",
+    "source_views": [
+      {"source": "Phaladeepika 8.3", "view": "Becomes a ruler, famous, virtuous, wealthy and victorious.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.2 with notes", "view": "Powerful but overcome by enemies. Sastri notes an alternative reading, 'conqueror of enemies', supported by Satyacharya; the reading in the text is backed by Yavaneswara and Sphujidhwaja. The note still calls the Sun good in the 6th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.75", "view": "Lustful, brave, honoured by kings, full of self-esteem, renowned and opulent.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Defies customs, good administrator, few cousins and enemies, bold, warlike, wealthy, gains from enemies, terror to enemies, colic.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. I, 'Planets in the Sixth House'", "view": "Good politician, famous and successful, not very good for health; afflicted: long illness; fortified: administrative ability and wealth; Saturn affliction: heart or chest trouble unless Jupiter aspects; sign-type health notes.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses", "view": "Rivals and lawsuits manageable; service, medicine, law, administration; digestion, acidity and eye strain; routine helps.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed, Effects of the Sun in 12 Houses", "view": "Health-conscious and dedicated at work; can be bossy with subordinates.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "Brihat Jataka's main reading has the native overcome by enemies, while Phaladeepika, Jataka Parijata, Raman and the alternative Brihat Jataka reading have him conquer them. Raman gives success but weaker health; the old texts do not stress health.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a capable competitor and administrator who does well in service or demanding roles. Suggest steady routines for digestion and stress; avoid naming specific diseases."
+  },
+  {
+    "id": "planet_in_house/sun/7",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 7},
+    "summary": "The Sun in the 7th is classically difficult for marriage and partnership: delay, friction, loss of standing through relationships, and trouble with authority.",
+    "themes": ["marriage", "partnership", "pride in relationships", "authority", "travel"],
+    "common_outcomes": [
+      "Humiliation or trouble through women or partners (Phaladeepika 8.3, Brihat Jataka 20.3, Raman)",
+      "Late or troubled marriage (Raman)",
+      "Displeasure of rulers or government (Phaladeepika 8.3; Raman, How to Judge a Horoscope)",
+      "Fond of travel or wandering (Phaladeepika 8.3, Raman)"
+    ],
+    "rare_outcomes": [
+      "Bodily deformity (Phaladeepika 8.3; Raman, How to Judge a Horoscope)",
+      "Hates women, wrathful (Jataka Parijata 8.79)",
+      "Wealth through a woman; submissive to the wife; fond of foreign things (Raman HPA)",
+      "Fair complexion and thin hair (Raman, How to Judge a Horoscope)"
+    ],
+    "by_area": {
+      "personality": "Discontented and wrathful (Raman HPA, Jataka Parijata 8.79); few friends, finds it hard to get along with people (Raman, How to Judge a Horoscope).",
+      "career": "Clash with rulers (Phaladeepika 8.3).",
+      "finance": "Wealth through a woman (Raman HPA).",
+      "health": "",
+      "relationships": "Marriage delayed and troubled; risk of loss or disgrace through relationships (Raman); no wife in Phaladeepika's verse; the theme is sharing authority and self-respect (PanchangBodh).",
+      "family": "",
+      "spirituality": "Raman HPA lists irreligious leanings."
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "For Aries lagna the Sun in the 7th is in Libra, its debilitation, so the placement reads differently from chart to chart (PanchangBodh).",
+    "source_views": [
+      {"source": "Phaladeepika 8.3", "view": "Displeasure of the ruler, deformity, wandering, no wife, humiliation.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.3", "view": "Humiliation at the hands of women.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.79", "view": "Hates womankind, very wrathful and wicked.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Late, troubled marriage; loose morals; disliked by women; fond of travel; submissive to wife; wealth through women; foreign things; discontented; risk of disgrace through women.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the 7th House'", "view": "Fair, thin hair, few friends, hard to get along with; delayed troubled marriage; travel; foreign things; risk of loss through women; government displeasure and humiliation; deformity.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses", "view": "Self-respect and sharing authority; aspects the lagna; Libra falls here for Aries lagna.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed, Effects of the Sun in 12 Houses", "view": "Popular, loving, wants close bonds; oversensitive, avoids conflict, judgmental.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "The classics and Raman are firmly negative on marriage; VedicFeed is mostly positive. Raman HPA says both 'disliked by women' and 'submissive to wife' and 'wealth through women'.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of strong personalities meeting in partnership, with ego and control as the work to do. Never predict divorce, no marriage or a spouse's character; suggest patience over timing."
+  },
+  {
+    "id": "planet_in_house/sun/8",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 8},
+    "summary": "The Sun in the 8th is mostly read as hard: weak eyesight, fewer children, loss of wealth or friends and an obscure life. An exalted Sun here reverses much of this.",
+    "themes": ["longevity", "eyesight", "hidden matters", "sudden gains and losses"],
+    "common_outcomes": [
+      "Weak eyesight (Phaladeepika 8.3, Brihat Jataka 20.3, Raman)",
+      "Few children (Brihat Jataka 20.3; Raman, How to Judge a Horoscope)",
+      "Loss of wealth or friends, or poverty (Phaladeepika 8.3, Raman)",
+      "Sores in the face or head (Raman)"
+    ],
+    "rare_outcomes": [
+      "Winning manner, skilled in debate, but discontented (Jataka Parijata 8.82)",
+      "Sudden gains, e.g. through speculation when linked to the 8th or 11th lord (Raman)",
+      "Research, inheritance and late but lasting recognition (PanchangBodh)"
+    ],
+    "by_area": {
+      "personality": "Discontented and argumentative (Jataka Parijata 8.82); uncharitable (Raman HPA).",
+      "career": "Research and hidden subjects (PanchangBodh).",
+      "finance": "Loss of wealth (Phaladeepika 8.3); poverty when afflicted, sudden gains with an 8th or 11th lord link (Raman).",
+      "health": "Eye complaints and sores on head or face (Raman); sickly constitution (Raman HPA).",
+      "relationships": "",
+      "family": "Few children, mostly sons (Raman, How to Judge a Horoscope).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exalted in the 8th: long life, charm and eloquence (Raman, How to Judge a Horoscope)",
+      "Linked with the 8th or 11th lord: sudden gain through speculation (Raman, How to Judge a Horoscope)",
+      "Malefics in the 8th are held favourable by Satyacharya; Bhattotpala reads benefics there as lengthening life (Brihat Jataka 20.10 notes)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted: sores in face and head, weak eyes, poverty (Raman, How to Judge a Horoscope)",
+      "Sun in 8th, Moon or Rahu in 12th and Saturn in a trine: dental trouble (Raman, How to Judge a Horoscope)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.3", "view": "Loses wealth and friends, reduced longevity, weak or lost eyesight.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.3", "view": "Few children and defective eyesight.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.82", "view": "Heart-winning, skilled in disputes and discontented.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Long life, uncharitable, sickly, sudden gains, eye complaints, sores in the head, poor and uneventful, obscure.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Eighth House'", "view": "Exalted: long life, charming, eloquent; afflicted: sores, weak eyes, penury, uneventful life; with 8th or 11th lord sudden speculative gains; few, mostly male, children.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses", "view": "Depth, research, inheritance, in-laws; recognition late but lasting; written clarity on shared property; aspect on 2nd puts family wealth under scrutiny.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed, Effects of the Sun in 12 Houses", "view": "Perfectionist, handles crises, firm; difficult marriage, emotionally reserved, takes offence.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "On longevity Phaladeepika reads it as reduced, while Raman HPA lists long life; Raman's How to Judge a Horoscope reconciles this by giving long life when the Sun is exalted. Jataka Parijata is milder (charming, argumentative) than the other classics.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame this as a research-minded, private placement where recognition comes slowly. Never speak of lifespan or death; keep eye or health notes general and suggest ordinary check-ups at most."
+  },
+  {
+    "id": "planet_in_house/sun/9",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 9},
+    "summary": "The Sun in the 9th brings devotion, fortune and children in some texts, but strain or loss around the father and elders in others. It is the most disputed of the Sun's house placements.",
+    "themes": ["father", "dharma and belief", "fortune", "teachers"],
+    "common_outcomes": [
+      "Devoted to gods and the learned; godly and charitable (Phaladeepika 8.4, Raman HPA)",
+      "Children, wealth and happiness (Brihat Jataka 20.3); children and relatives (Phaladeepika 8.4)",
+      "Strained relations with the father or elders (Phaladeepika 8.4, Jataka Parijata 8.86, Raman, How to Judge a Horoscope)",
+      "Little patrimony, self-made property (Raman)"
+    ],
+    "rare_outcomes": [
+      "Turns to a faith different from the parents' (Jataka Parijata 8.86; Raman, How to Judge a Horoscope when afflicted)",
+      "Learned in esoteric or occult subjects; successful farmer; glandular disease (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Ambitious and enterprising, a man of action and thought (Raman).",
+      "career": "",
+      "finance": "Self-acquired property and lands, little patrimony (Raman HPA).",
+      "health": "Ordinary health (Raman).",
+      "relationships": "",
+      "family": "Loss of or distance from the father (Phaladeepika 8.4); antipathy to parents and teachers (Jataka Parijata 8.86); dutiful sons (Raman HPA); the father is strongly felt (PanchangBodh).",
+      "spirituality": "Devotion to gods and the learned (Phaladeepika 8.4); godly, philosophical (Raman HPA); may change faith if the Sun is afflicted (Raman, How to Judge a Horoscope)."
+    },
+    "strengtheners": [
+      "Unafflicted Sun: a dutiful son with regard for spiritual pursuits (Raman, How to Judge a Horoscope)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Sun: change of faith and hostility to the father and teachers (Raman, How to Judge a Horoscope)",
+      "Moon with the Sun here: eye trouble; Venus with the Sun: sickness (Raman, How to Judge a Horoscope)",
+      "Raman calls the presence of the father-significator Sun in the 9th 'not at all desirable' in a father-related case study (How to Judge a Horoscope, Ninth House)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.4", "view": "Loses the father; has children and relatives; reveres gods and Brahmins.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.3 with notes", "view": "Children, wealth and happiness. Note: some astrologers hold the Sun bad in the 9th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.86 and notes", "view": "Antipathy to parents and spiritual teachers; takes up a religion different from theirs. The translator's note says Varahamihira, unlike some astrologers, gives good results here.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Well read, charitable, godly, lucky and successful, ordinary health, little patrimony, dutiful sons, self-acquired property, philosophical, occult learning, ambitious.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Ninth House'", "view": "If afflicted, may change faith and be hostile to father and teachers; if not, a dutiful son with spiritual regard; Moon or Venus with the Sun bring eye trouble or sickness; little patrimony; ambitious.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses", "view": "Principled outlook and a strongly felt father; calls the 'karako bhava nashaya' maxim debated.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed, Effects of the Sun in 12 Houses", "view": "Spiritual, generous, charitable; can be self-righteous about moral views.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "Brihat Jataka and Raman HPA read it as fortunate; Phaladeepika gives loss of the father with otherwise good results; Jataka Parijata gives antipathy to parents and a change of religion. Both Sastri's Brihat Jataka note and Jataka Parijata's note record that 'some astrologers' hold the Sun bad here. Raman makes the outcome depend on affliction.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of strong personal convictions and a meaningful, sometimes complex, bond with the father or mentors. Never predict a parent's death or a religious break."
+  },
+  {
+    "id": "planet_in_house/sun/10",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 10},
+    "summary": "The Sun is strongest in the 10th: power, fame, high position, often in government, with wealth and children. All sources agree it is one of its best placements.",
+    "themes": ["career and status", "authority", "fame", "government"],
+    "common_outcomes": [
+      "Power, fame and high or royal standing (Phaladeepika 8.4, Brihat Jataka 20.3, Jataka Parijata 8.89, Raman)",
+      "Sons, vehicles, intelligence and wealth (Phaladeepika 8.4; Raman, How to Judge a Horoscope)",
+      "Success in what he undertakes (Raman)",
+      "Hereditary or ancestral wealth (Jataka Parijata 8.89; Raman, How to Judge a Horoscope)"
+    ],
+    "rare_outcomes": [
+      "Founder of institutions; successful military or political career (Raman HPA)",
+      "Fond of music; personal magnetism (Raman)"
+    ],
+    "by_area": {
+      "personality": "Bold, quick to decide, strong personal influence (Raman HPA).",
+      "career": "Government service, high position, military or political success (Raman); office, government and public work (PanchangBodh).",
+      "finance": "Wealth and ancestral property (Phaladeepika 8.4, Jataka Parijata 8.89); Sastri's note to Brihat Jataka says the 10th-house Sun gives much labour and less income.",
+      "health": "Healthy (Raman HPA).",
+      "relationships": "",
+      "family": "Sons (Phaladeepika 8.4); dutiful sons (Raman HPA).",
+      "spirituality": "Virtue (Jataka Parijata 8.89)."
+    },
+    "strengtheners": [
+      "Directional strength (digbala) in the 10th (PanchangBodh)",
+      "Mercury with the Sun: deep scientific knowledge (Raman, How to Judge a Horoscope)",
+      "Venus with the Sun: a wealthy spouse (Raman, How to Judge a Horoscope)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars with the Sun: tendency to vices such as drinking (Raman, How to Judge a Horoscope)",
+      "Saturn with the Sun: sorrow and dejection (Raman, How to Judge a Horoscope)",
+      "Rahu with the Sun in the 10th, aspected by Saturn, is tied to a chequered, embattled political career in one of Raman's case studies (How to Judge a Horoscope, Tenth House, Chart 197)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.4", "view": "Sons, vehicles, praise, intelligence, wealth, strength, fame; becomes a king.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.3 with notes", "view": "Happy and powerful. Note: much labour and little income, because the Sun is square the lagna, which is why 'wealth' is not named here.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.89", "view": "Hereditary wealth, virtue, learning, fame and strength; a king's equal.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Bold, famous, clever at acquiring wealth, healthy, learned, quick decisions, fond of music, founder of institutions, high position, dutiful sons, military or political success.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Tenth House'", "view": "Success in all undertakings, sons, vehicles, fame, money, power; government service; ancestral wealth; conjunction notes for Mars, Mercury, Venus, Saturn.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses", "view": "Strongest house with digbala; office, government, public work; aspects the 4th. Notes Parashara gives the 10th house to Mercury as karaka, so the Sun's claim is later tradition.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed, Effects of the Sun in 12 Houses", "view": "Executive success and fast rise; ego and anxiety about image.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "Agreement on status and power. On money, Phaladeepika, Jataka Parijata and Raman give wealth, while Sastri's note to Brihat Jataka argues the placement gives more labour than income.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak confidently about leadership, visibility and success in public or official work, with ego and work-life balance as the caution."
+  },
+  {
+    "id": "planet_in_house/sun/11",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 11},
+    "summary": "The Sun in the 11th is a strong gain placement: wealth, long life, influence and success with little strain, with favour from authorities.",
+    "themes": ["gains", "wealth", "influence", "networks"],
+    "common_outcomes": [
+      "Wealthy (Phaladeepika 8.4, Brihat Jataka 20.3, Jataka Parijata 8.94, Raman)",
+      "Long life and freedom from sorrow (Phaladeepika 8.4; Raman, How to Judge a Horoscope)",
+      "Success without much effort; royal or government favour (Raman)",
+      "Wife, children and servants (Jataka Parijata 8.94; Raman, How to Judge a Horoscope)"
+    ],
+    "rare_outcomes": [
+      "Many enemies, including political enemies (Raman HPA)",
+      "Becomes a king or ruler (Phaladeepika 8.4)"
+    ],
+    "by_area": {
+      "personality": "Learned, persevering, principled and sagacious (Raman).",
+      "career": "Government favour and great position (Raman).",
+      "finance": "Wealth through fair means (Raman HPA); income through position and recognition (PanchangBodh).",
+      "health": "",
+      "relationships": "Capacity to make friends (Raman HPA).",
+      "family": "Wife, children and servants (Jataka Parijata 8.94); elder siblings or mentors matter (PanchangBodh).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Sastri's note: the Sun is good in the 11th because it is in sextile to the lagna (Brihat Jataka 20.3 notes)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted: expectations can outrun income (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.4", "view": "Very wealthy, long-lived, becomes a king, free of sorrow.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.3 with notes", "view": "Wealthy; good because sextile to the lagna.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.94", "view": "Extensive wealth, wife, children and servants; happy.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Learned, wealthy, stately, success without effort, famous, many enemies, fair means, good reputation, insight, principled, great position.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Eleventh House'", "view": "Long life and wealth, wife, children and servants, royal and government favour, effortless success, sagacious and principled.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses", "view": "Upachaya; income through position and recognition; elder siblings and mentors; lesson is less need for centrality.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed, Effects of the Sun in 12 Houses", "view": "Kind, humanitarian, wide circle, organised; group conflicts possible.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "Little disagreement; Raman HPA alone adds many (political) enemies.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of steady gains, useful connections and recognition. Present any 'ruler' language as influence within one's field."
+  },
+  {
+    "id": "planet_in_house/sun/12",
+    "layer": "planet_in_house",
+    "key": {"planet": "Sun", "house": 12},
+    "summary": "The Sun in the 12th is classically weak: loss of standing, strained ties with the father, weak eyes and little wealth. Some texts still give energy and sons, and modern writers stress retreat, foreign work and spiritual life.",
+    "themes": ["loss of status", "expenditure", "father", "foreign lands", "withdrawal"],
+    "common_outcomes": [
+      "Fall in standing or feeling neglected (Brihat Jataka 20.3; Raman)",
+      "Weak eyesight (Phaladeepika 8.4; Raman, How to Judge a Horoscope)",
+      "Little wealth or lack of success (Phaladeepika 8.4, Raman)",
+      "Energetic and has sons (Jataka Parijata 8.97; Raman, How to Judge a Horoscope)"
+    ],
+    "rare_outcomes": [
+      "Hostility toward the father (Phaladeepika 8.4)",
+      "Becomes an apostate and a wanderer (Jataka Parijata 8.97)",
+      "Loss of a limb, or a 'maimed' body (Jataka Parijata 8.97; Raman, How to Judge a Horoscope)",
+      "Love of esoteric and occult knowledge, ritual-minded (Raman HPA)"
+    ],
+    "by_area": {
+      "personality": "Energetic (Jataka Parijata 8.97); Raman HPA lists sinful or adulterous tendencies.",
+      "career": "Works out of the spotlight: research, hospitals, ashrams, foreign postings (PanchangBodh).",
+      "finance": "Poor (Phaladeepika 8.4, Raman HPA).",
+      "health": "Weak eyes (Phaladeepika 8.4, Raman).",
+      "relationships": "",
+      "family": "Hostile to father (Phaladeepika 8.4); has sons (Jataka Parijata 8.97) though Phaladeepika gives no sons and Raman HPA no happiness from children.",
+      "spirituality": "Esoteric and occult interest (Raman HPA); read as release, retreat and moksha (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Satyacharya: malefics in the 12th favour fortune; Bhattotpala: benefics there reduce expenditure (Brihat Jataka 20.10 notes)",
+      "A strong Jupiter aspect on the Sun in the 12th made the native spiritual in one of Raman's case studies (How to Judge a Horoscope, Twelfth House, Chart 247)"
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 8.4", "view": "Hostile to father, poor eyesight, without wealth and children.", "url": "https://www.siva.sh/phaladeepika/8/1-5"},
+      {"source": "Brihat Jataka 20.3 with notes", "view": "Degradation or fall in status; the note calls the Sun bad in the 12th.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 8.97", "view": "Has sons, is maimed, very energetic, an apostate and a vagrant.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI", "view": "Sinful, poor, fallen, unsuccessful, neglected, long limbs, ritual-minded, lover of occult knowledge, no happiness from children.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, 'Planets in the Twelfth House'", "view": "May take to an immoral life or low work, not very successful, feels neglected, loss of a limb, weak eyes; energetic and has sons.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "PanchangBodh, Sun in the 12 houses", "view": "Works out of the spotlight: research, hospitals, ashrams, foreign postings, long apprenticeships; read as release rather than mere loss.", "url": "https://panchangbodh.com/sun-in-houses"},
+      {"source": "VedicFeed, Effects of the Sun in 12 Houses", "view": "Positive: career and financial growth; malefic: losses, strained relations with authority, restless sleep.", "url": "https://vedicfeed.com/effect-of-sun-in-12-houses/"}
+    ],
+    "disagreements": "On children Phaladeepika says none, Jataka Parijata and Raman's How to Judge a Horoscope say sons. Classical texts are negative about status and wealth; PanchangBodh and VedicFeed read it as a placement of quiet, foreign or spiritual work and even growth.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a person who may shine behind the scenes, abroad or in service and spiritual settings. Avoid moral judgements, and do not predict loss of limbs, poverty or a broken bond with the father."
+  }
+]

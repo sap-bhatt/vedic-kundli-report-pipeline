@@ -1,0 +1,1567 @@
+[
+  {
+    "id": "sade_sati/rising",
+    "layer": "sade_sati",
+    "key": {
+      "phase": "rising"
+    },
+    "summary": "The rising (first) phase of Sade Sati: Saturn in the 12th sign from the natal Moon (vyaya Shani), about 2.5 years. The classical texts treat this house as bad (fruitless effort, losses, family illness, grief); modern authors describe the start of Saturn's pressure, awareness of losses and of where more responsibility is needed. Sade Sati as a named 7.5-year period is a later popular tradition, not in the classical texts read.",
+    "themes": [
+      "Sade Sati",
+      "vyaya Shani",
+      "expenses and loss",
+      "fruitless effort",
+      "awareness",
+      "start of a cycle"
+    ],
+    "common_outcomes": [
+      "rising expenses and losses",
+      "tiring work with little reward",
+      "worry and grief",
+      "health concerns for spouse or children",
+      "awareness of where life needs more responsibility"
+    ],
+    "rare_outcomes": [
+      "theft or loss through enemies (Phaladeepika)",
+      "[maraka: text predicts danger to life] for Saturn in the 12th from the Moon (Phaladeepika 26.33)"
+    ],
+    "by_area": {
+      "personality": "Grief and worry (Brihat Samhita 104.45); modern: awareness begins, doubts surface (Kurczak).",
+      "career": "Wearisome, unproductive work (Phaladeepika 26.23); loss of position among the dangers of the 12th (Phaladeepika 26.33).",
+      "finance": "Money lost to enemies or thieves (Phaladeepika 26.23); unnecessary expenditure (Nirikhi Krishna Bhagavan, general Sade Sati list).",
+      "health": "",
+      "relationships": "Trouble from enemies (Phaladeepika 26.23).",
+      "family": "Illness of wife and sons (Phaladeepika 26.23).",
+      "spirituality": "Modern: a time of reflection on losses and responsibilities (Kurczak)."
+    },
+    "strengtheners": [
+      "(softening) Saturn yogakaraka (Taurus, Libra lagnas) or lagna lord (Capricorn, Aquarius) or lord of the Moon sign (Nirikhi Krishna Bhagavan)",
+      "(softening) natal Saturn exalted or in a trine (Nirikhi Krishna Bhagavan); Saturn well placed natally (Kurczak)",
+      "(softening) transiting Saturn exalted or in own sign (Phaladeepika 26.31); aspect of a benefic (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) second Sade Sati of life (Raman; Nirikhi Krishna Bhagavan)",
+      "(softening) dual Sade Sati sign: Gemini, Virgo, Sagittarius, Pisces (Nirikhi Krishna Bhagavan)",
+      "(softening) a planet other than the Sun transiting the 3rd from the Moon (vipareeta vedha, Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) transiting Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) Saturn dasha or sub-period running (Kurczak); malefic dasa-bhukti (Nirikhi Krishna Bhagavan)",
+      "(intensifying) Saturn as 7th and 8th lord, Cancer lagna (Kurczak)",
+      "(intensifying) first or third Sade Sati of life (Nirikhi Krishna Bhagavan)",
+      "(intensifying) Sade Sati in Cancer, Aries, Leo or Scorpio (Nirikhi Krishna Bhagavan)"
+    ],
+    "lagna_or_context_notes": "Classical status: none of the classical texts read for this entry (Phaladeepika ch. 26, Brihat Samhita ch. 104, Saravali ch. 53, Uttara Kalamrita ch. 6) names Sade Sati or Dhaiya; they judge each house from the Moon separately, and Phaladeepika 26.33 singles out Saturn in the 12th, 8th or 1st from the Moon as dangerous. Svoboda states that sade sati (Gujarati panoti) does not appear as such in the standard classical texts and that its origins are unclear; it is a later, popular tradition, very widely followed. Phase key: Saturn in the 12th sign from the natal Moon (whole signs; see transit/saturn/12 for the house-level classical results). Reckoning is from the Moon sign; Wikipedia reports a variant using 45 degrees either side of the natal Moon.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.23",
+        "view": "Saturn in the 12th from the Moon: fruitless, wearisome occupation, money taken by enemies, sickness of wife and sons. (House result; Sade Sati not named.)",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.33",
+        "view": "Saturn in the 12th, 8th or 1st from the Moon threatens life and causes loss of position and wealth. [maraka: text predicts danger to life]",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 45",
+        "view": "Saturn in the 12th: great grief. (Sade Sati not named.)",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "Robert E. Svoboda, The Greatness of Saturn (1997), commentary 'The Seven-and-a-Half' pp. 168-171",
+        "view": "Sade sati is not in the standard classical texts but influences millions; it begins as soon as Saturn enters the sign before the Moon and 'cramps' life, drying up the Moon's nectar and often separating one from loved ones.",
+        "url": "https://archive.org/details/dbkp-the-greatness-of-saturn-robert-e.-svoboda"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), pp. 12-15",
+        "view": "Sade Sati starts when Saturn enters the 12th from the Moon (vyaya Shani) and runs through the 12th, 1st and 2nd; from the 12th Saturn aspects the 2nd, 6th and 9th from the Moon.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), pp. 10-11",
+        "view": "If another planet transits the 3rd from the Moon while Saturn is in the 12th, the adverse results are cancelled (vipareeta vedha), the Sun excepted.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Ryan Kurczak with Chris Brennan, The Astrology Podcast ep. 135 'Sade Sati' (transcript)",
+        "view": "The sign before the Moon starts awareness: possible losses and areas needing more responsibility or where one is deficient. Calls the fear-based framing folklore.",
+        "url": "https://theastrologypodcast.com/transcripts/ep-135-transcript-sade-sati-saturn-transiting-the-natal-moon/"
+      },
+      {
+        "source": "Robert E. Svoboda, The Greatness of Saturn, Appendix (Tables Two and Three)",
+        "view": "One school holds that each Sade Sati's worst troubles fall in a particular sign by Moon sign; for the rising phase that is Aries for a Taurus Moon, Cancer for Leo, Leo for Virgo, Sagittarius for Capricorn (or the peak), Capricorn for Aquarius.",
+        "url": "https://archive.org/details/dbkp-the-greatness-of-saturn-robert-e.-svoboda"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transit results improve in signs with more ashtakavarga bindus and in exaltation, own or friendly signs, and worsen in debilitated or enemy signs; Saturn acts at the end of a sign. (Sade Sati not named.)",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 33 'Annual Horoscopes' (worked example)",
+        "view": "A native undergoing '7 1/2 years' Saturn' for the second time has only moderate evil effects; combined with a good dasha the result was still favourable.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), pp. 13-14",
+        "view": "Most people have Sade Sati two or three times (rarely four); the rounds are called Mangu, Pongu and Marana Shani: first and third adverse, second soft or favourable.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "Robert E. Svoboda, The Greatness of Saturn (1997), commentary 'The Seven-and-a-Half' pp. 168-171",
+        "view": "Folk belief: grandparents are lost in the first Sade Sati, parents in the second, and the person may be 'strangled' by Saturn in the third. [maraka: folk tradition predicts deaths in the family / danger to life]",
+        "url": "https://archive.org/details/dbkp-the-greatness-of-saturn-robert-e.-svoboda"
+      },
+      {
+        "source": "K.N. Rao (ed.), Saadhe Saati: A Balanced View, Vani Publications (via summary: publisher's blurb only)",
+        "view": "A group-research volume meant to help astrologers form a balanced view of Sade Sati and draw their own conclusions; contents not read.",
+        "url": "https://www.exoticindia.com/book/details/saadhe-saati-balanced-view-nae472/"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), p. 16",
+        "view": "Besides the hardships, good things also happen in Sade Sati: marriage, birth of a child, promotion, power and property; generally a period of trials and challenges.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      }
+    ],
+    "disagreements": "Kurczak regards the 12th-sign phase as a lead-in and weighs mainly the Moon-sign phase; Svoboda and Nirikhi Krishna Bhagavan count the full 7.5 years from entry into the 12th. Modern authors differ on severity. Svoboda says the sade sati 'creates trouble for most everyone' and is gloomier than the Saturn return. Kurczak calls the fear-based framing 'folklore and myth' and now weighs mainly the 2.5 years over the Moon's own sign. Nirikhi Krishna Bhagavan lists severe effects but also good events (marriage, a child, promotion, property) and many exceptions. Raman treats a second Sade Sati as only moderately evil. K.N. Rao edited a group-research book titled 'Saadhe Saati: A Balanced View' (via summary: publisher's blurb only). Wikipedia (tertiary) reports a school holding it is less damaging than folk belief, and a variant reckoning of 45 degrees either side of the natal Moon instead of whole signs.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe the start of a long, slow cycle that rewards simplifying, saving and rest; avoid the word 'curse', do not predict losses as certain, and mention that most people go through two or three Sade Satis. Say plainly that Sade Sati and Dhaiya are popular traditions built on older house-by-house transit rules, and that modern authors disagree about how severe they are.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "Saturn exalted (Libra) or in its own sign (Capricorn, Aquarius) does no harm in an unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10 (general transit rule)"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "Saturn debilitated (Aries) in an unfavourable house gives intensified bad results"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10 (general transit rule)"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when Saturn is yogakaraka (Taurus, Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when Saturn is lagna lord (Capricorn, Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "evil results modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: Saturn is well placed and strong in the natal chart",
+        "polarity": "good",
+        "effects": [
+          "the better Saturn is situated natally, the better the person works with the period"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as 4th and 5th lord (Libra lagna) is more graceful"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as 7th and 8th lord (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "a mitigating factor when discussing Sade Sati; ruling difficult houses emphasises Saturn's hard side"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the period is felt strongly when a Saturn dasha or sub-period activates it; otherwise it may go almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the running dasa-bhukti and Saturn's relation to the lagna and Moon sign",
+        "polarity": "good",
+        "effects": [
+          "results are modified by Saturn's natal strength and position, the running dasa-bhukti and its relation to lagna and Moon sign; general lists should not be applied as they stand"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: natal Moon strong or influenced by Jupiter or Venus",
+        "polarity": "good",
+        "effects": [
+          "benefic influence on the Moon gives grace and poise under pressure; a malefic-afflicted Moon needs toughness (said of the Moon generally, not of Sade Sati specifically)"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135; cf. Svoboda p. 168 (Saturn dries the Moon's 'nectar'; a strong Moon floods life with it)"
+      },
+      {
+        "when": "manual: many bindus (more than 4) for the transited sign in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in an unfavourable house"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Understanding Saturn p. 16 (bindus as an 'other factor')"
+      },
+      {
+        "when": "manual: this is the person's second Sade Sati",
+        "polarity": "good",
+        "effects": [
+          "evil effects only moderate (Raman); the second round (Pongu Shani) is said to be soft or favourable (Nirikhi Krishna Bhagavan)"
+        ],
+        "source": "Raman, HPA ch. 33 'Annual Horoscopes' pp. 249-250 (worked example); Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: this is the person's first (Mangu) or third (Marana) Sade Sati",
+        "polarity": "bad",
+        "effects": [
+          "first and third rounds said to give adverse results",
+          "folk belief: grandparents are lost in the first, parents in the second, and the person's own life is at risk in the third [maraka: folk tradition predicts deaths in the family / danger to life]"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14; Svoboda p. 168; Kurczak (as folklore)"
+      },
+      {
+        "when": "3 in tr_vedha_houses",
+        "polarity": "good",
+        "effects": [
+          "vipareeta vedha: a planet (not the Sun) transiting the 3rd from the Moon cancels the adverse results of Saturn in the 12th"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits pp. 10-11"
+      },
+      {
+        "when": "tr_sign in ['aries', 'cancer', 'leo', 'sagittarius', 'capricorn']",
+        "polarity": "bad",
+        "effects": [
+          "by one school, the worst troubles of this Sade Sati fall in the rising phase (Moon in Taurus, Leo, Virgo, Capricorn or Aquarius respectively; for Leo and Capricorn Moons the peak is the alternative)"
+        ],
+        "source": "Svoboda, The Greatness of Saturn, Appendix Table Three"
+      },
+      {
+        "when": "manual: the Sade Sati sign is dual (Gemini, Virgo, Sagittarius, Pisces); the source does not say whether this means the Moon's sign or the sign Saturn transits",
+        "polarity": "good",
+        "effects": [
+          "Sade Sati effect said to be mediocre (milder)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: the Sade Sati sign is Cancer, Aries, Leo or Scorpio (Moon's sign or transited sign; the source is unclear)",
+        "polarity": "bad",
+        "effects": [
+          "Sade Sati said to be more dreadful (Cancer, Aries) or adverse (Leo, Scorpio)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "Propitiate a badly placed transiting planet with prayers and mantras, shanti rites, vows, gifts and worship; live harmlessly and with self-control",
+        "source": "Phaladeepika 26.49-50 (general transit remedy, not Sade Sati by name)"
+      },
+      {
+        "remedy": "Gifts of black substances to propitiate Saturn; worship, expiation, mantra, austerity and the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (general transit remedy, not Sade Sati by name)"
+      },
+      {
+        "remedy": "Hear, read or recite the story 'The Greatness of Saturn' (Shani Mahatmya, King Vikramaditya's Sade Sati) as an upaya; described as a specific remedy for the Seven-and-a-Half",
+        "source": "Svoboda, The Greatness of Saturn pp. 170-171"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana); cultivate discipline, patience, honesty, charity and service",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn pp. 17-18"
+      },
+      {
+        "remedy": "Recite Saturn's ten names / the Dasaratha Shani Stotra; give sesame, black gram, iron or blue cloth and chant on Saturday",
+        "source": "Shani Dasaratha Stotram in the devotional pamphlet 'Sade Sati Saturnine Worship' (archive.org; traditional, unattributed)"
+      },
+      {
+        "remedy": "Service to the less fortunate, regular fasting and Saturn mantras; be wary of costly gemstone or bead prescriptions",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "remedy": "Hanuman Chalisa, Mahamrityunjaya japa, sesame-oil lamps, Saturday fasts, gifts of sesame oil and urad, help to disabled and marginalised people",
+        "source": "Wikipedia 'Sade Sati' (via summary; tertiary, popular practice)"
+      }
+    ],
+    "phases": "Each sign takes about 2.5 years; the three Sade Sati signs together about 7.5 years. Svoboda: the period starts 'as if a switch' when Saturn enters the sign before the Moon; a brief entry followed by retrogression gives 'advance notice' of effects that begin fully on the final entry. Classical rule: Saturn gives transit results mainly in the last part of a sign (Phaladeepika 26.25; Saravali 53.10)."
+  },
+  {
+    "id": "sade_sati/peak",
+    "layer": "sade_sati",
+    "key": {
+      "phase": "peak"
+    },
+    "summary": "The peak (second) phase of Sade Sati: Saturn over the natal Moon's own sign (janma Shani), about 2.5 years, usually called the most intense. The classical texts treat Saturn here as very bad (illness, losses, separation, humiliation, a bereavement); modern authors describe it as the phase where pressure and grief are processed and character is tested.",
+    "themes": [
+      "Sade Sati",
+      "janma Shani",
+      "emotional pressure",
+      "separation",
+      "loss",
+      "endurance"
+    ],
+    "common_outcomes": [
+      "mental and emotional strain",
+      "illness or low vitality",
+      "losses of money or position",
+      "separation from family or living away from home",
+      "humiliation or loss of recognition"
+    ],
+    "rare_outcomes": [
+      "danger from poison or fire, confinement (Brihat Samhita)",
+      "a bereavement requiring the native to perform funeral rites [maraka: text predicts death of a relative] (Phaladeepika 26.22)",
+      "[maraka: text predicts danger to life] (Phaladeepika 26.33)"
+    ],
+    "by_area": {
+      "personality": "Mind under eclipse: lack of peace, anxiety, low self-esteem (Nirikhi Krishna Bhagavan); 'everything hits' (Kurczak); humiliation (Brihat Samhita 104.39).",
+      "career": "Loss of position (Phaladeepika 26.33); stunted progress, wrath of superiors (Nirikhi Krishna Bhagavan).",
+      "finance": "Loss of wealth (Brihat Samhita 104.39; Phaladeepika 26.33).",
+      "health": "Disease (Phaladeepika 26.22); fatigue from travel (Brihat Samhita 104.39).",
+      "relationships": "Separation from kin; living among friends abroad (Brihat Samhita 104.39); friends and relatives may withdraw (Nirikhi Krishna Bhagavan).",
+      "family": "Loss of sons and a bereavement (Phaladeepika 26.22; Brihat Samhita 104.39).",
+      "spirituality": "Modern: grief processed into maturity and humility (Kurczak; Svoboda)."
+    },
+    "strengtheners": [
+      "(softening) Saturn yogakaraka (Taurus, Libra lagnas) or lagna lord (Capricorn, Aquarius) or lord of the Moon sign (Nirikhi Krishna Bhagavan)",
+      "(softening) natal Saturn exalted or in a trine (Nirikhi Krishna Bhagavan); Saturn well placed natally (Kurczak)",
+      "(softening) transiting Saturn exalted or in own sign (Phaladeepika 26.31); aspect of a benefic (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) second Sade Sati of life (Raman; Nirikhi Krishna Bhagavan)",
+      "(softening) dual Sade Sati sign: Gemini, Virgo, Sagittarius, Pisces (Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) transiting Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) Saturn dasha or sub-period running (Kurczak); malefic dasa-bhukti (Nirikhi Krishna Bhagavan)",
+      "(intensifying) Saturn as 7th and 8th lord, Cancer lagna (Kurczak)",
+      "(intensifying) first or third Sade Sati of life (Nirikhi Krishna Bhagavan)",
+      "(intensifying) Sade Sati in Cancer, Aries, Leo or Scorpio (Nirikhi Krishna Bhagavan)"
+    ],
+    "lagna_or_context_notes": "Classical status: none of the classical texts read for this entry (Phaladeepika ch. 26, Brihat Samhita ch. 104, Saravali ch. 53, Uttara Kalamrita ch. 6) names Sade Sati or Dhaiya; they judge each house from the Moon separately, and Phaladeepika 26.33 singles out Saturn in the 12th, 8th or 1st from the Moon as dangerous. Svoboda states that sade sati (Gujarati panoti) does not appear as such in the standard classical texts and that its origins are unclear; it is a later, popular tradition, very widely followed. Phase key: Saturn in the 1st sign from the natal Moon (whole signs; see transit/saturn/1 for the house-level classical results). Reckoning is from the Moon sign; Wikipedia reports a variant using 45 degrees either side of the natal Moon.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.22",
+        "view": "Saturn in the janma rasi: disease, and the native may have to perform funeral rites. (Sade Sati not named.)",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.33",
+        "view": "Saturn in the 12th, 8th or 1st from the Moon threatens life and causes loss of position and wealth. [maraka: text predicts danger to life]",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 39",
+        "view": "Saturn in the Moon's sign: poison, fire, separation from kin, imprisonment, torture, life in foreign lands, loss of wealth and sons, fatigue of travel, humiliation.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 34 p. 263",
+        "view": "Repeats the Brihat Samhita list for Saturn over the natal Moon's sign.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), pp. 14-15",
+        "view": "Of the three legs, Saturn in the Moon sign is the most malefic; the natal Moon is 'under an eclipse' from Saturn. General Sade Sati effects listed include setbacks, anxiety, fear of death, desertion by friends, cheating, losses, aimless travel, joint, nerve and digestive ailments, illness of spouse, accidents, litigation, insults, and death or calamity in the family. [maraka: text predicts death in the family]",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "Ryan Kurczak with Chris Brennan, The Astrology Podcast ep. 135 'Sade Sati' (transcript)",
+        "view": "The Moon-sign phase is the most intense: losses and emotional grief are processed. Kurczak now focuses mainly on these 2.5 years and calls the fear-based 7.5-year framing folklore.",
+        "url": "https://theastrologypodcast.com/transcripts/ep-135-transcript-sade-sati-saturn-transiting-the-natal-moon/"
+      },
+      {
+        "source": "Robert E. Svoboda, The Greatness of Saturn (1997), commentary 'The Seven-and-a-Half' pp. 168-171",
+        "view": "Sade sati 'creates trouble for most everyone' and is usually gloomier than the Saturn return; it teaches endurance and humility.",
+        "url": "https://archive.org/details/dbkp-the-greatness-of-saturn-robert-e.-svoboda"
+      },
+      {
+        "source": "Robert E. Svoboda, The Greatness of Saturn, Appendix (Tables Two and Three)",
+        "view": "One school places the worst troubles in the Moon's own sign for Aries, Cancer (or Leo), Leo (or Cancer), Scorpio (or Sagittarius) and Capricorn (or Sagittarius) Moons; for Sagittarius 'all goes well or poorly'.",
+        "url": "https://archive.org/details/dbkp-the-greatness-of-saturn-robert-e.-svoboda"
+      },
+      {
+        "source": "Wikipedia 'Sade Sati' (via summary; tertiary)",
+        "view": "Reports claims that Aquarius Moons are unaffected and Leo Moons hit hardest; notes leaders who held office during Sade Sati as counter-examples.",
+        "url": "https://en.wikipedia.org/wiki/Sade_Sati"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transit results improve in signs with more ashtakavarga bindus and in exaltation, own or friendly signs, and worsen in debilitated or enemy signs; Saturn acts at the end of a sign. (Sade Sati not named.)",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 33 'Annual Horoscopes' (worked example)",
+        "view": "A native undergoing '7 1/2 years' Saturn' for the second time has only moderate evil effects; combined with a good dasha the result was still favourable.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), pp. 13-14",
+        "view": "Most people have Sade Sati two or three times (rarely four); the rounds are called Mangu, Pongu and Marana Shani: first and third adverse, second soft or favourable.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "Robert E. Svoboda, The Greatness of Saturn (1997), commentary 'The Seven-and-a-Half' pp. 168-171",
+        "view": "Folk belief: grandparents are lost in the first Sade Sati, parents in the second, and the person may be 'strangled' by Saturn in the third. [maraka: folk tradition predicts deaths in the family / danger to life]",
+        "url": "https://archive.org/details/dbkp-the-greatness-of-saturn-robert-e.-svoboda"
+      },
+      {
+        "source": "K.N. Rao (ed.), Saadhe Saati: A Balanced View, Vani Publications (via summary: publisher's blurb only)",
+        "view": "A group-research volume meant to help astrologers form a balanced view of Sade Sati and draw their own conclusions; contents not read.",
+        "url": "https://www.exoticindia.com/book/details/saadhe-saati-balanced-view-nae472/"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), p. 16",
+        "view": "Besides the hardships, good things also happen in Sade Sati: marriage, birth of a child, promotion, power and property; generally a period of trials and challenges.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      }
+    ],
+    "disagreements": "Svoboda and Nirikhi Krishna Bhagavan treat the whole 7.5 years as difficult; Kurczak weighs mainly this 2.5-year phase and calls the fear framing folklore. Svoboda's 'one school' table puts the worst phase in different signs for different Moon signs, so the peak is not always the worst. Wikipedia reports an unsourced claim that Aquarius Moons are unaffected. Modern authors differ on severity. Svoboda says the sade sati 'creates trouble for most everyone' and is gloomier than the Saturn return. Kurczak calls the fear-based framing 'folklore and myth' and now weighs mainly the 2.5 years over the Moon's own sign. Nirikhi Krishna Bhagavan lists severe effects but also good events (marriage, a child, promotion, property) and many exceptions. Raman treats a second Sade Sati as only moderately evil. K.N. Rao edited a group-research book titled 'Saadhe Saati: A Balanced View' (via summary: publisher's blurb only). Wikipedia (tertiary) reports a school holding it is less damaging than folk belief, and a variant reckoning of 45 degrees either side of the natal Moon instead of whole signs.",
+    "confidence": "medium",
+    "phrasing_guidance": "Call it the most demanding stretch, a time to slow down, protect health and keep commitments realistic; stress that outcomes depend on the whole chart and dasha and that many people achieve a great deal in it. Never predict death, illness or ruin. Say plainly that Sade Sati and Dhaiya are popular traditions built on older house-by-house transit rules, and that modern authors disagree about how severe they are.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "Saturn exalted (Libra) or in its own sign (Capricorn, Aquarius) does no harm in an unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10 (general transit rule)"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "Saturn debilitated (Aries) in an unfavourable house gives intensified bad results"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10 (general transit rule)"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when Saturn is yogakaraka (Taurus, Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when Saturn is lagna lord (Capricorn, Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "evil results modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: Saturn is well placed and strong in the natal chart",
+        "polarity": "good",
+        "effects": [
+          "the better Saturn is situated natally, the better the person works with the period"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as 4th and 5th lord (Libra lagna) is more graceful"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as 7th and 8th lord (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "a mitigating factor when discussing Sade Sati; ruling difficult houses emphasises Saturn's hard side"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the period is felt strongly when a Saturn dasha or sub-period activates it; otherwise it may go almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the running dasa-bhukti and Saturn's relation to the lagna and Moon sign",
+        "polarity": "good",
+        "effects": [
+          "results are modified by Saturn's natal strength and position, the running dasa-bhukti and its relation to lagna and Moon sign; general lists should not be applied as they stand"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: natal Moon strong or influenced by Jupiter or Venus",
+        "polarity": "good",
+        "effects": [
+          "benefic influence on the Moon gives grace and poise under pressure; a malefic-afflicted Moon needs toughness (said of the Moon generally, not of Sade Sati specifically)"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135; cf. Svoboda p. 168 (Saturn dries the Moon's 'nectar'; a strong Moon floods life with it)"
+      },
+      {
+        "when": "manual: many bindus (more than 4) for the transited sign in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in an unfavourable house"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Understanding Saturn p. 16 (bindus as an 'other factor')"
+      },
+      {
+        "when": "manual: this is the person's second Sade Sati",
+        "polarity": "good",
+        "effects": [
+          "evil effects only moderate (Raman); the second round (Pongu Shani) is said to be soft or favourable (Nirikhi Krishna Bhagavan)"
+        ],
+        "source": "Raman, HPA ch. 33 'Annual Horoscopes' pp. 249-250 (worked example); Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: this is the person's first (Mangu) or third (Marana) Sade Sati",
+        "polarity": "bad",
+        "effects": [
+          "first and third rounds said to give adverse results",
+          "folk belief: grandparents are lost in the first, parents in the second, and the person's own life is at risk in the third [maraka: folk tradition predicts deaths in the family / danger to life]"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14; Svoboda p. 168; Kurczak (as folklore)"
+      },
+      {
+        "when": "tr_sign in ['aries', 'cancer', 'leo', 'scorpio', 'capricorn']",
+        "polarity": "bad",
+        "effects": [
+          "by one school, the worst troubles of this Sade Sati fall in the peak phase (Moon in that sign; for Cancer, Leo, Scorpio and Capricorn Moons the adjacent phase is the alternative)"
+        ],
+        "source": "Svoboda, The Greatness of Saturn, Appendix Table Three"
+      },
+      {
+        "when": "tr_sign in ['gemini', 'virgo', 'sagittarius', 'pisces']",
+        "polarity": "good",
+        "effects": [
+          "for dual signs the Sade Sati effect is said to be mediocre (milder)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "tr_sign in ['cancer', 'aries', 'leo', 'scorpio']",
+        "polarity": "bad",
+        "effects": [
+          "Sade Sati said to be more dreadful for Cancer and Aries (Saturn's debilitation) and adverse for Leo (enemy) and Scorpio"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "tr_sign == 'sagittarius'",
+        "polarity": "good",
+        "effects": [
+          "for a Sagittarius Moon one school says 'all goes well or poorly' (no fixed worst phase)"
+        ],
+        "source": "Svoboda, The Greatness of Saturn, Appendix Table Three"
+      },
+      {
+        "when": "manual: at the same time the Moon is 8th, Mars 7th, Rahu 9th, Venus 6th, Jupiter 3rd, Sun 5th and Mercury 4th from the natal Moon (all together)",
+        "polarity": "bad",
+        "effects": [
+          "loss of honour and wealth",
+          "[maraka: text predicts danger to life]"
+        ],
+        "source": "Phaladeepika 26.34"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "Propitiate a badly placed transiting planet with prayers and mantras, shanti rites, vows, gifts and worship; live harmlessly and with self-control",
+        "source": "Phaladeepika 26.49-50 (general transit remedy, not Sade Sati by name)"
+      },
+      {
+        "remedy": "Gifts of black substances to propitiate Saturn; worship, expiation, mantra, austerity and the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (general transit remedy, not Sade Sati by name)"
+      },
+      {
+        "remedy": "Hear, read or recite the story 'The Greatness of Saturn' (Shani Mahatmya, King Vikramaditya's Sade Sati) as an upaya; described as a specific remedy for the Seven-and-a-Half",
+        "source": "Svoboda, The Greatness of Saturn pp. 170-171"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana); cultivate discipline, patience, honesty, charity and service",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn pp. 17-18"
+      },
+      {
+        "remedy": "Recite Saturn's ten names / the Dasaratha Shani Stotra; give sesame, black gram, iron or blue cloth and chant on Saturday",
+        "source": "Shani Dasaratha Stotram in the devotional pamphlet 'Sade Sati Saturnine Worship' (archive.org; traditional, unattributed)"
+      },
+      {
+        "remedy": "Service to the less fortunate, regular fasting and Saturn mantras; be wary of costly gemstone or bead prescriptions",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "remedy": "Hanuman Chalisa, Mahamrityunjaya japa, sesame-oil lamps, Saturday fasts, gifts of sesame oil and urad, help to disabled and marginalised people",
+        "source": "Wikipedia 'Sade Sati' (via summary; tertiary, popular practice)"
+      }
+    ],
+    "phases": "Each sign takes about 2.5 years; the three Sade Sati signs together about 7.5 years. Svoboda: the period starts 'as if a switch' when Saturn enters the sign before the Moon; a brief entry followed by retrogression gives 'advance notice' of effects that begin fully on the final entry. Classical rule: Saturn gives transit results mainly in the last part of a sign (Phaladeepika 26.25; Saravali 53.10)."
+  },
+  {
+    "id": "sade_sati/setting",
+    "layer": "sade_sati",
+    "key": {
+      "phase": "setting"
+    },
+    "summary": "The setting (third) phase of Sade Sati: Saturn in the 2nd sign from the natal Moon, about 2.5 years. The classical texts treat this house as unfavourable for money, family and comfort; modern authors see it as the phase of rebuilding and applying the lessons of the peak.",
+    "themes": [
+      "Sade Sati",
+      "finances",
+      "family",
+      "speech",
+      "rebuilding"
+    ],
+    "common_outcomes": [
+      "money worries; income that does not stay",
+      "family concerns, especially about children",
+      "loss of comfort or looks, weakness",
+      "gradual rebuilding"
+    ],
+    "rare_outcomes": [
+      "wealth received from others but not kept (Brihat Samhita)"
+    ],
+    "by_area": {
+      "personality": "Loss of brightness of appearance (Brihat Samhita 104.40).",
+      "career": "",
+      "finance": "Trouble to wealth (Phaladeepika 26.22); wealth from others does not last (Brihat Samhita 104.40).",
+      "health": "Physical weakness (Brihat Samhita 104.40).",
+      "relationships": "",
+      "family": "Trouble concerning children (Phaladeepika 26.22).",
+      "spirituality": "Modern: lessons are applied so the next cycle is easier (Kurczak)."
+    },
+    "strengtheners": [
+      "(softening) Saturn yogakaraka (Taurus, Libra lagnas) or lagna lord (Capricorn, Aquarius) or lord of the Moon sign (Nirikhi Krishna Bhagavan)",
+      "(softening) natal Saturn exalted or in a trine (Nirikhi Krishna Bhagavan); Saturn well placed natally (Kurczak)",
+      "(softening) transiting Saturn exalted or in own sign (Phaladeepika 26.31); aspect of a benefic (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)",
+      "(softening) second Sade Sati of life (Raman; Nirikhi Krishna Bhagavan)",
+      "(softening) dual Sade Sati sign: Gemini, Virgo, Sagittarius, Pisces (Nirikhi Krishna Bhagavan)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) transiting Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) Saturn dasha or sub-period running (Kurczak); malefic dasa-bhukti (Nirikhi Krishna Bhagavan)",
+      "(intensifying) Saturn as 7th and 8th lord, Cancer lagna (Kurczak)",
+      "(intensifying) first or third Sade Sati of life (Nirikhi Krishna Bhagavan)",
+      "(intensifying) Sade Sati in Cancer, Aries, Leo or Scorpio (Nirikhi Krishna Bhagavan)"
+    ],
+    "lagna_or_context_notes": "Classical status: none of the classical texts read for this entry (Phaladeepika ch. 26, Brihat Samhita ch. 104, Saravali ch. 53, Uttara Kalamrita ch. 6) names Sade Sati or Dhaiya; they judge each house from the Moon separately, and Phaladeepika 26.33 singles out Saturn in the 12th, 8th or 1st from the Moon as dangerous. Svoboda states that sade sati (Gujarati panoti) does not appear as such in the standard classical texts and that its origins are unclear; it is a later, popular tradition, very widely followed. Phase key: Saturn in the 2nd sign from the natal Moon (whole signs; see transit/saturn/2 for the house-level classical results). Reckoning is from the Moon sign; Wikipedia reports a variant using 45 degrees either side of the natal Moon.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.22",
+        "view": "Saturn in the 2nd from the Moon troubles wealth and children. (Sade Sati not named.)",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 40",
+        "view": "Loss of beauty and comfort, weakness; wealth from others not enjoyed for long.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), pp. 12-13",
+        "view": "Sade Sati ends when Saturn enters the 3rd from the Moon; in the 2nd Saturn aspects the 4th, 8th and 11th from the Moon.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "Ryan Kurczak with Chris Brennan, The Astrology Podcast ep. 135 'Sade Sati' (transcript)",
+        "view": "The sign after the Moon is for rebuilding and applying the lessons so the next cycle is 'not so rough'.",
+        "url": "https://theastrologypodcast.com/transcripts/ep-135-transcript-sade-sati-saturn-transiting-the-natal-moon/"
+      },
+      {
+        "source": "Robert E. Svoboda, The Greatness of Saturn, Appendix (Tables Two and Three)",
+        "view": "One school places the worst troubles in the 2nd-sign phase for Gemini (Cancer), Cancer (Leo, or the peak), Libra (Scorpio) and Scorpio (Sagittarius, or the peak) Moons.",
+        "url": "https://archive.org/details/dbkp-the-greatness-of-saturn-robert-e.-svoboda"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transit results improve in signs with more ashtakavarga bindus and in exaltation, own or friendly signs, and worsen in debilitated or enemy signs; Saturn acts at the end of a sign. (Sade Sati not named.)",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. 33 'Annual Horoscopes' (worked example)",
+        "view": "A native undergoing '7 1/2 years' Saturn' for the second time has only moderate evil effects; combined with a good dasha the result was still favourable.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), pp. 13-14",
+        "view": "Most people have Sade Sati two or three times (rarely four); the rounds are called Mangu, Pongu and Marana Shani: first and third adverse, second soft or favourable.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "Robert E. Svoboda, The Greatness of Saturn (1997), commentary 'The Seven-and-a-Half' pp. 168-171",
+        "view": "Folk belief: grandparents are lost in the first Sade Sati, parents in the second, and the person may be 'strangled' by Saturn in the third. [maraka: folk tradition predicts deaths in the family / danger to life]",
+        "url": "https://archive.org/details/dbkp-the-greatness-of-saturn-robert-e.-svoboda"
+      },
+      {
+        "source": "K.N. Rao (ed.), Saadhe Saati: A Balanced View, Vani Publications (via summary: publisher's blurb only)",
+        "view": "A group-research volume meant to help astrologers form a balanced view of Sade Sati and draw their own conclusions; contents not read.",
+        "url": "https://www.exoticindia.com/book/details/saadhe-saati-balanced-view-nae472/"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), p. 16",
+        "view": "Besides the hardships, good things also happen in Sade Sati: marriage, birth of a child, promotion, power and property; generally a period of trials and challenges.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      }
+    ],
+    "disagreements": "Some popular accounts describe the closing phase as financially hard; Kurczak frames it mainly as recovery and rebuilding. Modern authors differ on severity. Svoboda says the sade sati 'creates trouble for most everyone' and is gloomier than the Saturn return. Kurczak calls the fear-based framing 'folklore and myth' and now weighs mainly the 2.5 years over the Moon's own sign. Nirikhi Krishna Bhagavan lists severe effects but also good events (marriage, a child, promotion, property) and many exceptions. Raman treats a second Sade Sati as only moderately evil. K.N. Rao edited a group-research book titled 'Saadhe Saati: A Balanced View' (via summary: publisher's blurb only). Wikipedia (tertiary) reports a school holding it is less damaging than folk belief, and a variant reckoning of 45 degrees either side of the natal Moon instead of whole signs.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present it as the closing stretch: consolidate finances, mend family ties and build on what was learned; avoid predicting losses. Say plainly that Sade Sati and Dhaiya are popular traditions built on older house-by-house transit rules, and that modern authors disagree about how severe they are.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "Saturn exalted (Libra) or in its own sign (Capricorn, Aquarius) does no harm in an unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10 (general transit rule)"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "Saturn debilitated (Aries) in an unfavourable house gives intensified bad results"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10 (general transit rule)"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when Saturn is yogakaraka (Taurus, Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when Saturn is lagna lord (Capricorn, Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "evil results modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: Saturn is well placed and strong in the natal chart",
+        "polarity": "good",
+        "effects": [
+          "the better Saturn is situated natally, the better the person works with the period"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as 4th and 5th lord (Libra lagna) is more graceful"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as 7th and 8th lord (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "a mitigating factor when discussing Sade Sati; ruling difficult houses emphasises Saturn's hard side"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the period is felt strongly when a Saturn dasha or sub-period activates it; otherwise it may go almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the running dasa-bhukti and Saturn's relation to the lagna and Moon sign",
+        "polarity": "good",
+        "effects": [
+          "results are modified by Saturn's natal strength and position, the running dasa-bhukti and its relation to lagna and Moon sign; general lists should not be applied as they stand"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: natal Moon strong or influenced by Jupiter or Venus",
+        "polarity": "good",
+        "effects": [
+          "benefic influence on the Moon gives grace and poise under pressure; a malefic-afflicted Moon needs toughness (said of the Moon generally, not of Sade Sati specifically)"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135; cf. Svoboda p. 168 (Saturn dries the Moon's 'nectar'; a strong Moon floods life with it)"
+      },
+      {
+        "when": "manual: many bindus (more than 4) for the transited sign in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in an unfavourable house"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Understanding Saturn p. 16 (bindus as an 'other factor')"
+      },
+      {
+        "when": "manual: this is the person's second Sade Sati",
+        "polarity": "good",
+        "effects": [
+          "evil effects only moderate (Raman); the second round (Pongu Shani) is said to be soft or favourable (Nirikhi Krishna Bhagavan)"
+        ],
+        "source": "Raman, HPA ch. 33 'Annual Horoscopes' pp. 249-250 (worked example); Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: this is the person's first (Mangu) or third (Marana) Sade Sati",
+        "polarity": "bad",
+        "effects": [
+          "first and third rounds said to give adverse results",
+          "folk belief: grandparents are lost in the first, parents in the second, and the person's own life is at risk in the third [maraka: folk tradition predicts deaths in the family / danger to life]"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14; Svoboda p. 168; Kurczak (as folklore)"
+      },
+      {
+        "when": "tr_sign in ['cancer', 'leo', 'scorpio', 'sagittarius']",
+        "polarity": "bad",
+        "effects": [
+          "by one school, the worst troubles of this Sade Sati fall in the setting phase (Moon in Gemini, Cancer, Libra or Scorpio respectively; for Cancer and Scorpio Moons the peak is the alternative)"
+        ],
+        "source": "Svoboda, The Greatness of Saturn, Appendix Table Three"
+      },
+      {
+        "when": "manual: the Sade Sati sign is dual (Gemini, Virgo, Sagittarius, Pisces); Moon's sign or transited sign, the source is unclear",
+        "polarity": "good",
+        "effects": [
+          "Sade Sati effect said to be mediocre (milder)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      },
+      {
+        "when": "manual: the Sade Sati sign is Cancer, Aries, Leo or Scorpio (Moon's sign or transited sign; the source is unclear)",
+        "polarity": "bad",
+        "effects": [
+          "Sade Sati said to be more dreadful or adverse"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 14"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "Propitiate a badly placed transiting planet with prayers and mantras, shanti rites, vows, gifts and worship; live harmlessly and with self-control",
+        "source": "Phaladeepika 26.49-50 (general transit remedy, not Sade Sati by name)"
+      },
+      {
+        "remedy": "Gifts of black substances to propitiate Saturn; worship, expiation, mantra, austerity and the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (general transit remedy, not Sade Sati by name)"
+      },
+      {
+        "remedy": "Hear, read or recite the story 'The Greatness of Saturn' (Shani Mahatmya, King Vikramaditya's Sade Sati) as an upaya; described as a specific remedy for the Seven-and-a-Half",
+        "source": "Svoboda, The Greatness of Saturn pp. 170-171"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana); cultivate discipline, patience, honesty, charity and service",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn pp. 17-18"
+      },
+      {
+        "remedy": "Recite Saturn's ten names / the Dasaratha Shani Stotra; give sesame, black gram, iron or blue cloth and chant on Saturday",
+        "source": "Shani Dasaratha Stotram in the devotional pamphlet 'Sade Sati Saturnine Worship' (archive.org; traditional, unattributed)"
+      },
+      {
+        "remedy": "Service to the less fortunate, regular fasting and Saturn mantras; be wary of costly gemstone or bead prescriptions",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "remedy": "Hanuman Chalisa, Mahamrityunjaya japa, sesame-oil lamps, Saturday fasts, gifts of sesame oil and urad, help to disabled and marginalised people",
+        "source": "Wikipedia 'Sade Sati' (via summary; tertiary, popular practice)"
+      }
+    ],
+    "phases": "Each sign takes about 2.5 years; the three Sade Sati signs together about 7.5 years. Svoboda: the period starts 'as if a switch' when Saturn enters the sign before the Moon; a brief entry followed by retrogression gives 'advance notice' of effects that begin fully on the final entry. Classical rule: Saturn gives transit results mainly in the last part of a sign (Phaladeepika 26.25; Saravali 53.10)."
+  },
+  {
+    "id": "sade_sati/kantaka_dhaiya",
+    "layer": "sade_sati",
+    "key": {
+      "phase": "kantaka_dhaiya"
+    },
+    "summary": "Kantaka (or ardhashtama) Dhaiya: Saturn in the 4th sign from the natal Moon, about 2.5 years, the 'small panoti'. The classical texts treat the 4th as bad (loss of domestic happiness, separation from spouse, friends or relatives, loss of wealth); the 'Dhaiya' label is a modern or popular grouping, and authors disagree on which houses count as 'kantaka'.",
+    "themes": [
+      "Dhaiya",
+      "ardhashtama Shani",
+      "kantaka Shani",
+      "home and peace of mind",
+      "separation"
+    ],
+    "common_outcomes": [
+      "unhappiness or upheaval at home",
+      "separation from spouse, friends or relatives",
+      "money problems",
+      "constant worry or suspicion",
+      "change of residence"
+    ],
+    "rare_outcomes": [
+      "loss of wife (Phaladeepika) [maraka: may be read as death of the spouse]",
+      "having to leave one's homeland (Nirikhi Krishna Bhagavan)"
+    ],
+    "by_area": {
+      "personality": "Ever suspicious, no lasting happiness (Brihat Samhita 104.42); fear, humiliation (Nirikhi Krishna Bhagavan).",
+      "career": "Loss of employment or position (Nirikhi Krishna Bhagavan).",
+      "finance": "Loss of wealth (Phaladeepika 26.22; Brihat Samhita 104.42); debts (Nirikhi Krishna Bhagavan).",
+      "health": "",
+      "relationships": "Loss of or separation from wife and friends (Phaladeepika 26.22; Brihat Samhita 104.42); neglect by spouse (Nirikhi Krishna Bhagavan).",
+      "family": "Loss of relatives (Phaladeepika 26.22); obstacles on the domestic front (Nirikhi Krishna Bhagavan).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "(softening) Saturn yogakaraka (Taurus, Libra lagnas) or lagna lord (Capricorn, Aquarius) or lord of the Moon sign (Nirikhi Krishna Bhagavan)",
+      "(softening) natal Saturn exalted or in a trine (Nirikhi Krishna Bhagavan); Saturn well placed natally (Kurczak)",
+      "(softening) transiting Saturn exalted or in own sign (Phaladeepika 26.31); aspect of a benefic (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) transiting Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) Saturn dasha or sub-period running (Kurczak); malefic dasa-bhukti (Nirikhi Krishna Bhagavan)",
+      "(intensifying) Saturn as 7th and 8th lord, Cancer lagna (Kurczak)"
+    ],
+    "lagna_or_context_notes": "Classical status: none of the classical texts read for this entry (Phaladeepika ch. 26, Brihat Samhita ch. 104, Saravali ch. 53, Uttara Kalamrita ch. 6) names Sade Sati or Dhaiya; they judge each house from the Moon separately, and Phaladeepika 26.33 singles out Saturn in the 12th, 8th or 1st from the Moon as dangerous. Svoboda states that sade sati (Gujarati panoti) does not appear as such in the standard classical texts and that its origins are unclear; it is a later, popular tradition, very widely followed. Phase key: Saturn in the 4th sign from the natal Moon (whole signs; see transit/saturn/4 for the house-level classical results). Reckoning is from the Moon sign; Wikipedia reports a variant using 45 degrees either side of the natal Moon.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.22",
+        "view": "Saturn in the 4th from the Moon: loss of wife, relatives and wealth. (Dhaiya not named.)",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 42",
+        "view": "Separation from friends, wealth and wife; constant suspicion; no lasting happiness.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), pp. 13-15",
+        "view": "Saturn in the 4th from the Moon is ardhashtama Shani (the 4th being the house of happiness); kantaka ('thorn') Shani is Saturn in the 4th, 7th or 10th. Effects of ashtama and ardhashtama: separation from spouse, loss of money, position, job and reputation, debts, cheating, humiliation, fear of death, death or calamity in the family, leaving the homeland. [maraka: text predicts death in the family]",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "Wikipedia 'Sade Sati' (via summary; tertiary)",
+        "view": "Dhaiya or small panoti lasts about 2.5 years when Saturn is in the 4th (kantaka) or 8th (ashtama) from the Moon; considered less intense than Sade Sati; the article also labels the 7th 'kantaka', inconsistently.",
+        "url": "https://en.wikipedia.org/wiki/Sade_Sati"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transit results improve in signs with more ashtakavarga bindus and in exaltation, own or friendly signs, and worsen in debilitated or enemy signs; Saturn acts at the end of a sign. (Sade Sati not named.)",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "K.N. Rao (ed.), Saadhe Saati: A Balanced View, Vani Publications (via summary: publisher's blurb only)",
+        "view": "A group-research volume meant to help astrologers form a balanced view of Sade Sati and draw their own conclusions; contents not read.",
+        "url": "https://www.exoticindia.com/book/details/saadhe-saati-balanced-view-nae472/"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), p. 16",
+        "view": "Besides the hardships, good things also happen in Sade Sati: marriage, birth of a child, promotion, power and property; generally a period of trials and challenges.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      }
+    ],
+    "disagreements": "Naming is inconsistent: Nirikhi Krishna Bhagavan calls the 4th 'ardhashtama' and uses 'kantaka' for the 4th, 7th and 10th; popular usage (Wikipedia) calls the 4th 'kantaka' and lists the 7th as well. The classical texts give only the plain 4th-house result. Modern authors differ on severity. Svoboda says the sade sati 'creates trouble for most everyone' and is gloomier than the Saturn return. Kurczak calls the fear-based framing 'folklore and myth' and now weighs mainly the 2.5 years over the Moon's own sign. Nirikhi Krishna Bhagavan lists severe effects but also good events (marriage, a child, promotion, property) and many exceptions. Raman treats a second Sade Sati as only moderately evil. K.N. Rao edited a group-research book titled 'Saadhe Saati: A Balanced View' (via summary: publisher's blurb only). Wikipedia (tertiary) reports a school holding it is less damaging than folk belief, and a variant reckoning of 45 degrees either side of the natal Moon instead of whole signs.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of a period that can unsettle home, property and peace of mind and that rewards patience in close relationships; never predict a spouse's death or forced exile. Say plainly that Sade Sati and Dhaiya are popular traditions built on older house-by-house transit rules, and that modern authors disagree about how severe they are.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "Saturn exalted (Libra) or in its own sign (Capricorn, Aquarius) does no harm in an unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10 (general transit rule)"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "Saturn debilitated (Aries) in an unfavourable house gives intensified bad results"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10 (general transit rule)"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when Saturn is yogakaraka (Taurus, Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when Saturn is lagna lord (Capricorn, Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "evil results modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: Saturn is well placed and strong in the natal chart",
+        "polarity": "good",
+        "effects": [
+          "the better Saturn is situated natally, the better the person works with the period"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as 4th and 5th lord (Libra lagna) is more graceful"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as 7th and 8th lord (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "a mitigating factor when discussing Sade Sati; ruling difficult houses emphasises Saturn's hard side"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the period is felt strongly when a Saturn dasha or sub-period activates it; otherwise it may go almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the running dasa-bhukti and Saturn's relation to the lagna and Moon sign",
+        "polarity": "good",
+        "effects": [
+          "results are modified by Saturn's natal strength and position, the running dasa-bhukti and its relation to lagna and Moon sign; general lists should not be applied as they stand"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: natal Moon strong or influenced by Jupiter or Venus",
+        "polarity": "good",
+        "effects": [
+          "benefic influence on the Moon gives grace and poise under pressure; a malefic-afflicted Moon needs toughness (said of the Moon generally, not of Sade Sati specifically)"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135; cf. Svoboda p. 168 (Saturn dries the Moon's 'nectar'; a strong Moon floods life with it)"
+      },
+      {
+        "when": "manual: many bindus (more than 4) for the transited sign in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in an unfavourable house"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Understanding Saturn p. 16 (bindus as an 'other factor')"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "Propitiate a badly placed transiting planet with prayers and mantras, shanti rites, vows, gifts and worship; live harmlessly and with self-control",
+        "source": "Phaladeepika 26.49-50 (general transit remedy, not Sade Sati by name)"
+      },
+      {
+        "remedy": "Gifts of black substances to propitiate Saturn; worship, expiation, mantra, austerity and the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (general transit remedy, not Sade Sati by name)"
+      },
+      {
+        "remedy": "Hear, read or recite the story 'The Greatness of Saturn' (Shani Mahatmya, King Vikramaditya's Sade Sati) as an upaya; described as a specific remedy for the Seven-and-a-Half",
+        "source": "Svoboda, The Greatness of Saturn pp. 170-171"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana); cultivate discipline, patience, honesty, charity and service",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn pp. 17-18"
+      },
+      {
+        "remedy": "Recite Saturn's ten names / the Dasaratha Shani Stotra; give sesame, black gram, iron or blue cloth and chant on Saturday",
+        "source": "Shani Dasaratha Stotram in the devotional pamphlet 'Sade Sati Saturnine Worship' (archive.org; traditional, unattributed)"
+      },
+      {
+        "remedy": "Service to the less fortunate, regular fasting and Saturn mantras; be wary of costly gemstone or bead prescriptions",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "remedy": "Hanuman Chalisa, Mahamrityunjaya japa, sesame-oil lamps, Saturday fasts, gifts of sesame oil and urad, help to disabled and marginalised people",
+        "source": "Wikipedia 'Sade Sati' (via summary; tertiary, popular practice)"
+      }
+    ],
+    "phases": "Each sign takes about 2.5 years; the three Sade Sati signs together about 7.5 years. Svoboda: the period starts 'as if a switch' when Saturn enters the sign before the Moon; a brief entry followed by retrogression gives 'advance notice' of effects that begin fully on the final entry. Classical rule: Saturn gives transit results mainly in the last part of a sign (Phaladeepika 26.25; Saravali 53.10)."
+  },
+  {
+    "id": "sade_sati/ashtama_dhaiya",
+    "layer": "sade_sati",
+    "key": {
+      "phase": "ashtama_dhaiya"
+    },
+    "summary": "Ashtama Dhaiya (ashtama Shani): Saturn in the 8th sign from the natal Moon, about 2.5 years, the 'big Dhaiya'. The classical texts count this among Saturn's worst transits (losses, illness, separation from children and friends, danger); the 'Dhaiya' grouping is a modern or popular label.",
+    "themes": [
+      "Dhaiya",
+      "ashtama Shani",
+      "loss",
+      "illness",
+      "hardship",
+      "transformation"
+    ],
+    "common_outcomes": [
+      "losses of money and possessions",
+      "illness",
+      "separation from or worry over children and friends",
+      "loss of job, position or reputation",
+      "debts and humiliation"
+    ],
+    "rare_outcomes": [
+      "[maraka: text predicts danger to life] (Phaladeepika 26.33)",
+      "drastic life change or renunciation when a malefic dasa coincides (Nirikhi Krishna Bhagavan)"
+    ],
+    "by_area": {
+      "personality": "Fear, humiliation (Nirikhi Krishna Bhagavan).",
+      "career": "Loss of position (Phaladeepika 26.33); loss of employment, menial work (Nirikhi Krishna Bhagavan).",
+      "finance": "Loss of wealth and cattle (property) (Phaladeepika 26.22); debts (Nirikhi Krishna Bhagavan).",
+      "health": "Disease (Phaladeepika 26.22).",
+      "relationships": "Loss of friends (Phaladeepika 26.22); separation from wife (Brihat Samhita 104.44; Nirikhi Krishna Bhagavan).",
+      "family": "Loss of or separation from children (Phaladeepika 26.22; Brihat Samhita 104.44).",
+      "spirituality": "Possible turn to renunciation under a malefic dasa (Nirikhi Krishna Bhagavan)."
+    },
+    "strengtheners": [
+      "(softening) Saturn yogakaraka (Taurus, Libra lagnas) or lagna lord (Capricorn, Aquarius) or lord of the Moon sign (Nirikhi Krishna Bhagavan)",
+      "(softening) natal Saturn exalted or in a trine (Nirikhi Krishna Bhagavan); Saturn well placed natally (Kurczak)",
+      "(softening) transiting Saturn exalted or in own sign (Phaladeepika 26.31); aspect of a benefic (Phaladeepika 26.30)",
+      "(softening) many bindus in Saturn's ashtakavarga for the sign (Phaladeepika 26.41)"
+    ],
+    "weakeners_or_cancellations": [
+      "(intensifying) transiting Saturn debilitated (Aries) or in an enemy's sign (Phaladeepika 26.32)",
+      "(intensifying) Saturn dasha or sub-period running (Kurczak); malefic dasa-bhukti (Nirikhi Krishna Bhagavan)",
+      "(intensifying) Saturn as 7th and 8th lord, Cancer lagna (Kurczak)",
+      "(intensifying) Rahu mahadasha running (Nirikhi Krishna Bhagavan)"
+    ],
+    "lagna_or_context_notes": "Classical status: none of the classical texts read for this entry (Phaladeepika ch. 26, Brihat Samhita ch. 104, Saravali ch. 53, Uttara Kalamrita ch. 6) names Sade Sati or Dhaiya; they judge each house from the Moon separately, and Phaladeepika 26.33 singles out Saturn in the 12th, 8th or 1st from the Moon as dangerous. Svoboda states that sade sati (Gujarati panoti) does not appear as such in the standard classical texts and that its origins are unclear; it is a later, popular tradition, very widely followed. Phase key: Saturn in the 8th sign from the natal Moon (whole signs; see transit/saturn/8 for the house-level classical results). Reckoning is from the Moon sign; Wikipedia reports a variant using 45 degrees either side of the natal Moon.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.22",
+        "view": "Saturn in the 8th from the Moon: loss of children, cattle, friends and wealth, and disease. (Dhaiya not named.)",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara), tr. V. Subrahmanya Sastri, 26.33",
+        "view": "Saturn in the 12th, 8th or 1st from the Moon threatens life and causes loss of position and wealth. [maraka: text predicts danger to life]",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621598.html"
+      },
+      {
+        "source": "Brihat Samhita (Varahamihira) 104, tr. N. Chidambaram Iyer, v. 44",
+        "view": "Saturn in the 7th or 8th: separation from wife and sons and wretched travel on foot.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-samhita/d/doc229368.html"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), pp. 13-16",
+        "view": "Ashtama Shani puts Saturn and the Moon in a 6/8 relation; effects as for ardhashtama (losses, separation, humiliation, fear of death, death or calamity in the family) and, with a malefic dasa-bhukti, drastic changes or renunciation. [maraka: text predicts death in the family]",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits & Predictive Techniques (e-book), p. 10",
+        "view": "Malefics do most harm in the 8th or 12th; Rahu dasa running with Saturn in the 8th is a time of trials.",
+        "url": "https://archive.org/details/planetary-transits-predictive-techniques"
+      },
+      {
+        "source": "Wikipedia 'Sade Sati' (via summary; tertiary)",
+        "view": "Ashtama Shani is one of the two Dhaiyas, less intense than Sade Sati but still hazardous.",
+        "url": "https://en.wikipedia.org/wiki/Sade_Sati"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 53.9-10, English tr. on archive.org",
+        "view": "Transit results improve in signs with more ashtakavarga bindus and in exaltation, own or friendly signs, and worsen in debilitated or enemy signs; Saturn acts at the end of a sign. (Sade Sati not named.)",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "K.N. Rao (ed.), Saadhe Saati: A Balanced View, Vani Publications (via summary: publisher's blurb only)",
+        "view": "A group-research volume meant to help astrologers form a balanced view of Sade Sati and draw their own conclusions; contents not read.",
+        "url": "https://www.exoticindia.com/book/details/saadhe-saati-balanced-view-nae472/"
+      },
+      {
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn - the Shani Mahatma (e-book), p. 16",
+        "view": "Besides the hardships, good things also happen in Sade Sati: marriage, birth of a child, promotion, power and property; generally a period of trials and challenges.",
+        "url": "https://archive.org/details/understanding-saturn-shani-mahatma"
+      }
+    ],
+    "disagreements": "Popular accounts call the Dhaiyas less intense than Sade Sati, while Phaladeepika 26.33 groups the 8th with the 12th and 1st as the most dangerous places for Saturn. Modern authors differ on severity. Svoboda says the sade sati 'creates trouble for most everyone' and is gloomier than the Saturn return. Kurczak calls the fear-based framing 'folklore and myth' and now weighs mainly the 2.5 years over the Moon's own sign. Nirikhi Krishna Bhagavan lists severe effects but also good events (marriage, a child, promotion, property) and many exceptions. Raman treats a second Sade Sati as only moderately evil. K.N. Rao edited a group-research book titled 'Saadhe Saati: A Balanced View' (via summary: publisher's blurb only). Wikipedia (tertiary) reports a school holding it is less damaging than folk belief, and a variant reckoning of 45 degrees either side of the natal Moon instead of whole signs.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a testing period for health, money and close ties that calls for caution, rest, avoiding risk and debt; never predict death or serious illness. Say plainly that Sade Sati and Dhaiya are popular traditions built on older house-by-house transit rules, and that modern authors disagree about how severe they are.",
+    "conditional_results": [
+      {
+        "when": "tr_dignity in ['exalted', 'own', 'moolatrikona']",
+        "polarity": "good",
+        "effects": [
+          "Saturn exalted (Libra) or in its own sign (Capricorn, Aquarius) does no harm in an unfavourable house; malefic results become ordinary"
+        ],
+        "source": "Phaladeepika 26.31; Saravali 53.9-10 (general transit rule)"
+      },
+      {
+        "when": "tr_dignity == 'debilitated'",
+        "polarity": "bad",
+        "effects": [
+          "Saturn debilitated (Aries) in an unfavourable house gives intensified bad results"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10 (general transit rule)"
+      },
+      {
+        "when": "manual: transiting Saturn is in an enemy's sign",
+        "polarity": "bad",
+        "effects": [
+          "bad results intensified"
+        ],
+        "source": "Phaladeepika 26.32; Saravali 53.9-10"
+      },
+      {
+        "when": "manual: transiting Saturn is aspected by a benefic",
+        "polarity": "good",
+        "effects": [
+          "a planet giving bad results becomes ineffective"
+        ],
+        "source": "Phaladeepika 26.30"
+      },
+      {
+        "when": "'yogakaraka' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when Saturn is yogakaraka (Taurus, Libra lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn, 'Exceptions' p. 16"
+      },
+      {
+        "when": "'lagna_lord' in tr_role",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when Saturn is lagna lord (Capricorn, Aquarius lagnas)"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: Saturn rules the natal Moon's sign (Moon in Capricorn or Aquarius)",
+        "polarity": "good",
+        "effects": [
+          "evil results modified"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "tr_natal_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when natal Saturn is exalted"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "tr_natal_house in [1, 5, 9]",
+        "polarity": "good",
+        "effects": [
+          "evil results modified when natal Saturn is in a trine"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: Saturn is well placed and strong in the natal chart",
+        "polarity": "good",
+        "effects": [
+          "the better Saturn is situated natally, the better the person works with the period"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "4 in tr_rules and 5 in tr_rules",
+        "polarity": "good",
+        "effects": [
+          "Saturn as 4th and 5th lord (Libra lagna) is more graceful"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "7 in tr_rules and 8 in tr_rules",
+        "polarity": "bad",
+        "effects": [
+          "Saturn as 7th and 8th lord (Cancer lagna) is harder"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: Saturn rules good houses in the natal chart (functional benefic)",
+        "polarity": "good",
+        "effects": [
+          "a mitigating factor when discussing Sade Sati; ruling difficult houses emphasises Saturn's hard side"
+        ],
+        "source": "Ryan Kurczak and Chris Brennan, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "md == 'Saturn' or ad == 'Saturn'",
+        "polarity": "bad",
+        "effects": [
+          "the period is felt strongly when a Saturn dasha or sub-period activates it; otherwise it may go almost unnoticed"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "when": "manual: the running dasa-bhukti and Saturn's relation to the lagna and Moon sign",
+        "polarity": "good",
+        "effects": [
+          "results are modified by Saturn's natal strength and position, the running dasa-bhukti and its relation to lagna and Moon sign; general lists should not be applied as they stand"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      },
+      {
+        "when": "manual: natal Moon strong or influenced by Jupiter or Venus",
+        "polarity": "good",
+        "effects": [
+          "benefic influence on the Moon gives grace and poise under pressure; a malefic-afflicted Moon needs toughness (said of the Moon generally, not of Sade Sati specifically)"
+        ],
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135; cf. Svoboda p. 168 (Saturn dries the Moon's 'nectar'; a strong Moon floods life with it)"
+      },
+      {
+        "when": "manual: many bindus (more than 4) for the transited sign in Saturn's own ashtakavarga",
+        "polarity": "good",
+        "effects": [
+          "good results even in an unfavourable house"
+        ],
+        "source": "Phaladeepika 26.41; Raman, HPA ch. 34 p. 256; Nirikhi Krishna Bhagavan, Understanding Saturn p. 16 (bindus as an 'other factor')"
+      },
+      {
+        "when": "md == 'Rahu'",
+        "polarity": "bad",
+        "effects": [
+          "Rahu dasa with Saturn in the 8th from the Moon: a period of trials and tribulations"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Planetary Transits p. 10"
+      },
+      {
+        "when": "manual: a malefic dasa-bhukti coincides",
+        "polarity": "bad",
+        "effects": [
+          "drastic changes, possibly renunciation"
+        ],
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn p. 16"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "Propitiate a badly placed transiting planet with prayers and mantras, shanti rites, vows, gifts and worship; live harmlessly and with self-control",
+        "source": "Phaladeepika 26.49-50 (general transit remedy, not Sade Sati by name)"
+      },
+      {
+        "remedy": "Gifts of black substances to propitiate Saturn; worship, expiation, mantra, austerity and the company of the wise",
+        "source": "Brihat Samhita 104.47-48 (general transit remedy, not Sade Sati by name)"
+      },
+      {
+        "remedy": "Hear, read or recite the story 'The Greatness of Saturn' (Shani Mahatmya, King Vikramaditya's Sade Sati) as an upaya; described as a specific remedy for the Seven-and-a-Half",
+        "source": "Svoboda, The Greatness of Saturn pp. 170-171"
+      },
+      {
+        "remedy": "Worship Hanuman; recite the Sanaischara-krita Narasimha Stuti (attributed to the Bhavishyottara Purana); cultivate discipline, patience, honesty, charity and service",
+        "source": "Nirikhi Krishna Bhagavan, Understanding Saturn pp. 17-18"
+      },
+      {
+        "remedy": "Recite Saturn's ten names / the Dasaratha Shani Stotra; give sesame, black gram, iron or blue cloth and chant on Saturday",
+        "source": "Shani Dasaratha Stotram in the devotional pamphlet 'Sade Sati Saturnine Worship' (archive.org; traditional, unattributed)"
+      },
+      {
+        "remedy": "Service to the less fortunate, regular fasting and Saturn mantras; be wary of costly gemstone or bead prescriptions",
+        "source": "Ryan Kurczak, The Astrology Podcast ep. 135"
+      },
+      {
+        "remedy": "Hanuman Chalisa, Mahamrityunjaya japa, sesame-oil lamps, Saturday fasts, gifts of sesame oil and urad, help to disabled and marginalised people",
+        "source": "Wikipedia 'Sade Sati' (via summary; tertiary, popular practice)"
+      }
+    ],
+    "phases": "Each sign takes about 2.5 years; the three Sade Sati signs together about 7.5 years. Svoboda: the period starts 'as if a switch' when Saturn enters the sign before the Moon; a brief entry followed by retrogression gives 'advance notice' of effects that begin fully on the final entry. Classical rule: Saturn gives transit results mainly in the last part of a sign (Phaladeepika 26.25; Saravali 53.10)."
+  }
+]

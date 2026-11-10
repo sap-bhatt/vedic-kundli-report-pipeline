@@ -1,0 +1,530 @@
+[
+  {
+    "id": "yoga/ruchaka",
+    "layer": "yoga",
+    "key": {"name": "Ruchaka"},
+    "summary": "One of the five Mahapurusha (great-person) yogas: Mars in its own sign (Aries, Scorpio) or exaltation (Capricorn) in a kendra (1, 4, 7, 10). It marks a forceful, martial, leadership-driven person, but only when Mars is genuinely strong.",
+    "themes": ["courage", "leadership", "command", "competition", "physical strength", "martial nature"],
+    "common_outcomes": ["bold, enterprising and energetic temperament", "success through daring effort and over rivals", "leadership or command roles (army, police, management, sport)", "strong physique and drive"],
+    "rare_outcomes": ["ruler-like authority or high command when Mars is very strong and well supported", "aggressive or domineering use of power when Mars is heavily afflicted (Raman's example of a destructive ruler)", "knowledge of mantras and occult arts (BPHS, Saravali)"],
+    "by_area": {
+      "personality": "Enthusiastic, brave, decisive and combative; can be harsh or arrogant (BPHS 75.3-7; Phaladeepika 6.2; Saravali 37.5-7).",
+      "career": "Leadership, army or command posts, work that rewards daring; Raman: a great commander or leader of men (Three Hundred Important Combinations no. 22).",
+      "finance": "Wealth gained through daring deeds (Phaladeepika 6.2); wealthy (Raman no. 22; Jataka Parijata 7.60).",
+      "health": "Strong body and vitality (Raman no. 22; Jataka Parijata 7.60).",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Devoted to Brahmins and gods, versed in mantras and occult lore (BPHS 75.3-7; Saravali 37.5-7; Jataka Parijata 7.60)."
+    },
+    "strengtheners": ["Mars exalted rather than merely in own sign (Raman, by analogy with Hamsa)", "placement in the 10th, the strongest kendra (Raman no. 19 remarks; Frawley)", "yoga present from both the lagna and the Moon (Frawley; Phaladeepika 6.4 counts it from the Moon too)", "Mars with friendly planets such as the Sun (Frawley)", "Mars strong in shadbala and free of malefic aspect (Raman no. 22)", "strong Sun and Moon (Saravali 38.22)"],
+    "weakeners_or_cancellations": ["Mars weak by debilitation in navamsa, association or aspect: the yoga then exists only in name (Raman no. 22)", "weak Sun and Moon deny kingship; only children and wealth in the Mars period (Saravali 38.22)", "heavy malefic influence on a strong Mars gives a destructive edge (Raman no. 22 example)"],
+    "lagna_or_context_notes": "Possible only for movable and fixed lagnas: Mars must be in Aries, Scorpio or Capricorn in a kendra, so Aries, Cancer, Libra, Capricorn (Aries/Capricorn in kendras) and Taurus, Leo, Scorpio, Aquarius (Scorpio in kendras) lagnas qualify (follows from the definition in BPHS 75.1-2). Results take on the house occupied; Raman stresses the 10th. Mars's lordship from the lagna (yogakaraka for Cancer and Leo, 8th lord for Aries, etc.) colours the results (Raman's lordship-unit method, Three Hundred Important Combinations, introduction).",
+    "source_views": [
+      {"source": "BPHS 75.1-7 (tr. R. Santhanam, vol. 2)", "view": "Mars strong in own or exaltation sign in a kendra from the lagna forms Ruchaka. The native has a long face, great enthusiasm and strength, loves battle, defeats enemies, is skilled in mantras, cruel-tempered, a leader of thieves, and rules a region. [maraka: text predicts death after age 70 by fire or weapons]", "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"},
+      {"source": "Phaladeepika 6.1-2, 6.4 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)", "view": "Mars in a kendra in own or exaltation sign. Long face, wealth through daring deeds, brave, overcomes enemies, powerful, arrogant, army leader, victorious. The five yogas can also be counted from the Moon; one, two, three, four or five of them make one fortunate, king's equal, king, emperor or greater still.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Saravali 37.2, 37.5-7, 38.22 (Eng. tr., archive.org)", "view": "Same formation. Long face, great strength and valour, fond of war, mantra knowledge, conqueror of enemies, cruel; rules Vindhya and Sahya. [maraka: text predicts death at about 70 through weapons or fire] Even with Mars strong, weak luminaries deny kingship.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 7.59-60 (tr. V. Subrahmanya Sastri)", "view": "Mars with the greatest strength in a kendra in moolatrikona, own or exaltation sign. Physical strength, fortune, fame, learning in sciences and mantras, a king or king's equal, liberal, victorious, wealthy, lives 70 years in comfort commanding an army.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations, no. 22", "view": "Mars exalted or in own sign in a kendra. Strong, famous, versed in lore, king or equal, charitable, wealthy, long-lived, army leader. The Mahapurusha yogas exist in a real sense only when the planet is strong; a really powerful one is rare. A planet weakened by debilitation, association or aspect gives the yoga only de jure. Makes one martial, a commander, an aggressive but patriotic ruler.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, 11.4.1", "view": "Mars in Aries, Scorpio or Capricorn in the 1st, 4th, 7th or 10th from the lagna; not applied from the Moon, mainly in the rasi chart. A great man of fiery nature: enthusiastic, a natural leader, victorious, versed in occult sciences, always successful.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "David Frawley, The Astrology of the Seers, pp. 179-180", "view": "The 'radiant combination': courage, daring, will, independence, leadership; common in military leaders, politicians, lawyers, scientists, executives. Tamasic Mars traits (domination, violence) may surface; strong malefic Mahapurusha yogas can create tyrants.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Reference point: BPHS 75.1-2 and Saravali 37.2 count the kendra from the lagna; Phaladeepika 6.4 and Frawley also allow it from the Moon; P.V.R. Narasimha Rao says it does not apply from the Moon. Dignity: BPHS, Phaladeepika, Saravali and Raman accept own or exaltation sign; Jataka Parijata 7.59 adds moolatrikona and requires the greatest strength. Tone: classical results mix kingship with cruelty; Raman and Frawley warn the martial nature can turn destructive under affliction.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a sign of drive, courage and leadership potential whose scale depends on Mars's actual strength. Avoid promises of rulership, never repeat the classical death-age or manner-of-death statements, and frame the 'aggressive' side as a tendency to channel well.",
+    "definitions": [
+      {"source": "BPHS 75.1-2", "definition": "Mars, strong, in its own sign or exaltation sign and in a kendra (1, 4, 7, 10) from the lagna."},
+      {"source": "Phaladeepika 6.1, 6.4", "definition": "Mars in a kendra that is its own sign or exaltation sign; the yoga is also recognised when the kendra is counted from the Moon."},
+      {"source": "Saravali 37.2", "definition": "Mars in own house or exaltation sign identical with a kendra."},
+      {"source": "Jataka Parijata 7.59", "definition": "Mars possessing the greatest strength, in a kendra, in its moolatrikona, own or exaltation sign."},
+      {"source": "Raman, Three Hundred Important Combinations no. 22", "definition": "Mars exalted in a kendra or in a kendra that is its own sign; to count in practice Mars must be strong."},
+      {"source": "P.V.R. Narasimha Rao 11.4.1", "definition": "Mars in Aries, Scorpio or Capricorn in the 1st, 4th, 7th or 10th from the lagna; not from the Moon; mainly in the rasi chart."}
+    ],
+    "cancellations": [
+      {"condition": "Mars weak by debilitation (e.g. in navamsa), malefic association or aspect: the yoga exists only nominally (de jure) and does not operate in its real sense.", "source": "Raman, Three Hundred Important Combinations no. 22"},
+      {"condition": "Sun and Moon weak: no kingship, though the Mars period still gives children and wealth.", "source": "Saravali 38.22"}
+    ],
+    "rarity_and_weight": "Raman: an unblemished Mahapurusha yoga occurs only exceptionally; in most charts these yogas have little practical (political) value and a really powerful one is rare (nos. 20, 22). Frawley: Mahapurusha yogas are not uncommon and many charts have at least one, but they must be well placed to work. Classical texts rank it among the great-person (raja-type) yogas (BPHS 75; Phaladeepika 6.4).",
+    "timing": "Mainly in the dasa of Mars (Saravali 38.22 speaks of the period of the concerned planet). Raman's general rule: the stronger yoga-forming planet fulfils the larger part of the yoga in its dasa, and sub-periods of that planet in other dasas give a share (Three Hundred Important Combinations, introduction). Jataka Parijata 7.66 (with notes): the powerful planet causing a yoga gives its results in its own dasa.",
+    "remedies": [],
+    "conditional_results": [
+      {"when": "manual: Mars strong, unafflicted, ideally in the 10th", "polarity": "good", "effects": ["leadership, command and fame", "success through bold enterprise"], "source": "Raman no. 22; Frawley pp. 179-180"},
+      {"when": "manual: Mars heavily joined or aspected by malefics while strong", "polarity": "mixed", "effects": ["power used aggressively or destructively"], "source": "Raman no. 22 example; Frawley p. 180"}
+    ]
+  },
+  {
+    "id": "yoga/bhadra",
+    "layer": "yoga",
+    "key": {"name": "Bhadra"},
+    "summary": "Mahapurusha yoga of Mercury: Mercury in its own or exaltation sign (Gemini, Virgo) in a kendra. It marks intellect, eloquence, learning and commercial or communicative skill, provided Mercury is strong.",
+    "themes": ["intellect", "speech", "learning", "commerce", "skill", "independence"],
+    "common_outcomes": ["sharp intellect and good speech", "learning in many subjects and scriptures", "success in writing, teaching, business or advisory work", "supportive of relatives and friends"],
+    "rare_outcomes": ["rulership or high rank (classical statements)", "long life of 80-100 years (classical statements)"],
+    "by_area": {
+      "personality": "Intelligent, articulate, independent in all undertakings, sattvic, systematic (BPHS 75.8-12; Phaladeepika 6.2; P.V.R. Narasimha Rao 11.4.2).",
+      "career": "Clever speaker in assemblies, leader of men; intellectuals, teachers, writers and businessmen (Phaladeepika 6.2; Frawley p. 179).",
+      "finance": "Very rich (Phaladeepika 6.2); friends share in his wealth (BPHS 75.11; Saravali 37.16-18).",
+      "health": "Strong, well-built body with a lion-like or tiger-like face and broad chest (BPHS 75.8; Saravali 37.14-15; Raman no. 23).",
+      "relationships": "Lives happily with wife and children (BPHS 75.12).",
+      "family": "Protector of his family, helps relatives (BPHS 75.11; Raman no. 23; Jataka Parijata 7.62).",
+      "spirituality": "Versed in yoga and the shastras (BPHS 75.9-10; Saravali 37.14-18)."
+    },
+    "strengtheners": ["Mercury free from malefic influence (Raman no. 23 example)", "Mercury very powerful; otherwise the yoga is only de jure (Raman no. 23)", "10th-house placement (Raman, Frawley)", "present from both lagna and Moon (Frawley)", "strong Sun and Moon (Saravali 38.22)"],
+    "weakeners_or_cancellations": ["Mercury weak: yoga only nominal (Raman no. 23)", "weak luminaries deny kingship (Saravali 38.22)", "poor aspects can spoil the planet's qualities (Frawley p. 180)"],
+    "lagna_or_context_notes": "Mercury must be in Gemini or Virgo in a kendra, so only dual-sign lagnas (Gemini, Virgo, Sagittarius, Pisces) can have it (follows from BPHS 75.1-2). Mercury in Virgo is both exalted and own sign. Mercury's own kendra lordship for these lagnas is a kendradhipatya concern that Raman, for Hamsa, says loses significance when a Mahapurusha yoga forms.",
+    "source_views": [
+      {"source": "BPHS 75.1-2, 75.8-12 (tr. R. Santhanam, vol. 2)", "view": "Mercury strong in own or exaltation sign in a kendra. Lion-like splendour, broad chest, elephant's gait, long arms, learned in all respects, versed in yoga, sattvic, fond of comforts, independent, protects his family, friends enjoy his wealth, happy with wife and children; rules the middle country and lives a hundred years.", "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"},
+      {"source": "Phaladeepika 6.1-2 (tr. V. Subrahmanya Sastri)", "view": "Long life, keen intellect, cleanliness, praised by the learned, a leader, very rich, clever in addressing an assembly.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Saravali 37.14-18", "view": "Tiger-like face, elephant's gait, broad chest, learned, conversant with yoga, knows the shastras, righteous, independent, lets friends enjoy his wealth, rules the middle country, always happy; [maraka: text predicts death at 80].", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 7.59, 7.62", "view": "Mercury of greatest strength in a kendra in moolatrikona, own or exaltation sign. Tiger's face, elephant's gait, broad chest, a king devoted to befriending kinsmen, commanding genius, vast fame and wealth, reaches age 80.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Raman, Three Hundred Important Combinations no. 23", "view": "Strong, lion-like face, well-proportioned, taciturn, helps relatives, lives to old age. Manifests per Mercury's intellectual nature; Mercury must be very powerful or the yoga is de jure. Example: Mercury unafflicted in own sign in the 10th showed intellect, learning, wealth and generosity.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "P.V.R. Narasimha Rao 11.4.2", "view": "Mercury in Gemini or Virgo in a kendra from the lagna, not from the Moon. Great man of earthy nature, learned, deep voice, sattvic, knows yoga, surrounded by family and friends, clean, systematic, independent, religious.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Frawley, The Astrology of the Seers, p. 179", "view": "The 'auspicious combination': speech, communication, commerce, intellect, wit, balanced psychology; common in intellectuals, teachers, writers and businessmen; can heighten Mercury's restless, acquisitive side.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Same reference-point and dignity splits as the other Mahapurusha yogas (lagna only in BPHS/Saravali/P.V.R. Narasimha Rao; Moon also in Phaladeepika/Frawley; moolatrikona added by Jataka Parijata). Raman calls the Bhadra native taciturn, whereas Phaladeepika stresses eloquence in assemblies.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe as a gift for thinking, speaking and practical skill whose scale depends on Mercury's strength; avoid rulership or lifespan promises.",
+    "definitions": [
+      {"source": "BPHS 75.1-2", "definition": "Mercury, strong, in own sign or exaltation sign in a kendra from the lagna."},
+      {"source": "Phaladeepika 6.1, 6.4", "definition": "Mercury in a kendra identical with its own or exaltation sign; also counted from the Moon."},
+      {"source": "Saravali 37.2", "definition": "Mercury in own house or exaltation sign identical with a kendra."},
+      {"source": "Jataka Parijata 7.59", "definition": "Mercury of greatest strength in a kendra in its moolatrikona, own or exaltation sign."},
+      {"source": "Raman no. 23", "definition": "Mercury in a kendra identical with its own or exaltation sign, and very powerful."},
+      {"source": "P.V.R. Narasimha Rao 11.4.2", "definition": "Mercury in Gemini or Virgo in the 1st, 4th, 7th or 10th from the lagna; not from the Moon."}
+    ],
+    "cancellations": [
+      {"condition": "Mercury not very powerful: the combination is present only de jure.", "source": "Raman no. 23"},
+      {"condition": "Weak Sun and Moon: no kingship, only children and wealth in Mercury's period.", "source": "Saravali 38.22"}
+    ],
+    "rarity_and_weight": "Restricted to dual-sign lagnas by definition. Raman: unblemished Mahapurusha yogas are exceptional and usually of limited practical value (no. 20 remarks). Frawley: Mahapurusha yogas are not uncommon, but must be well placed to work.",
+    "timing": "Mercury's dasa and bhuktis (Saravali 38.22; Raman's introduction on yoga timing; Jataka Parijata 7.66).",
+    "remedies": [],
+    "conditional_results": [
+      {"when": "manual: Mercury strong and free from malefic influence", "polarity": "good", "effects": ["intellectual eminence, learning, wealth and generosity"], "source": "Raman no. 23 example"}
+    ]
+  },
+  {
+    "id": "yoga/hamsa",
+    "layer": "yoga",
+    "key": {"name": "Hamsa"},
+    "summary": "Mahapurusha yoga of Jupiter: Jupiter in its own sign (Sagittarius, Pisces) or exaltation (Cancer) in a kendra. It marks a righteous, respected, wise and comfortable person; Raman treats it as the most idealistic of the five.",
+    "themes": ["righteousness", "wisdom", "respect", "prosperity", "spirituality", "good character"],
+    "common_outcomes": ["good character and moral standing", "respect from others and from people in authority", "comforts and good food", "interest in learning, scripture or teaching"],
+    "rare_outcomes": ["kingship or very high rank when Jupiter is exceptionally strong", "a person of 'sterling character and immense moral fibre' (Raman)"],
+    "by_area": {
+      "personality": "Righteous, pure-minded, liked by others, optimistic, ethical (Raman no. 19; Phaladeepika 6.3; Frawley p. 179). Classical texts also call him very passionate (BPHS 75.13-16).",
+      "career": "Extolled by the good, a king or respected leader (Phaladeepika 6.3); religious people, teachers, liberal social and business leaders (Frawley p. 179).",
+      "finance": "Eats sumptuous food, enjoys comforts (Phaladeepika 6.3; P.V.R. Narasimha Rao 11.4.5); prosperity and affluence (Frawley).",
+      "health": "Handsome body (Phaladeepika 6.3; Raman no. 19); health (Frawley).",
+      "relationships": "Blessed with a beautiful wife (Jataka Parijata 7.63).",
+      "family": "",
+      "spirituality": "Spiritual strength and purity (P.V.R. Narasimha Rao 11.4.5); devoted to virtue and scripture (Jataka Parijata 7.63); Raman: Hamsa makes one idealistic, spiritual and selfless compared with Malavya."
+    },
+    "strengtheners": ["Jupiter exalted (Cancer) rather than in own sign: removes even the trace of kendradhipatya fault (Raman no. 19)", "placement in the 10th, the most powerful kendra (Raman no. 19)", "Jupiter conjoined with lords of the lagna, 5th and 9th (Raman no. 19 example)", "strong lagna and Jupiter (Raman no. 19)", "present from both lagna and Moon (Frawley)", "strong Sun and Moon (Saravali 38.22)"],
+    "weakeners_or_cancellations": ["Jupiter powerfully aspected by malefics such as Saturn and Mars restricts the yoga (Raman no. 19 example)", "the Moon forming Papadhi yoga (malefics 6/7/8 from it) dragged down a Hamsa chart (Raman no. 19 example)", "weak luminaries deny kingship (Saravali 38.22)"],
+    "lagna_or_context_notes": "Raman: possible for all dual lagnas and for Aries, Libra and Capricorn among movable lagnas (Jupiter in Cancer as a kendra); fixed lagnas cannot have Hamsa. Jupiter owning a kendra is normally a blemish for a benefic, but Raman says that principle loses significance when Hamsa is present.",
+    "source_views": [
+      {"source": "BPHS 75.1-2, 75.13-16 (tr. R. Santhanam, vol. 2)", "view": "Jupiter strong in own or exaltation sign in a kendra. Swan-like voice, handsome, prominent nose, a king, phlegmatic, sharp intelligence, marks of fish, goad, bow, conch and lotus on hands and feet, very passionate, fond of water sports, enjoys life fully; rules the land between the Ganga and Yamuna; [maraka: text predicts death after age 100].", "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"},
+      {"source": "Phaladeepika 6.3 (tr. V. Subrahmanya Sastri)", "view": "A king praised by the good, marks of conch, lotus, fish and goad on hands and legs, beautiful body, sumptuous food, righteous disposition.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Saravali 37.11-13", "view": "Reddish face, high nose, great virility, fair complexion, swan-like voice, phlegmatic, fond of water sports and of women, rules Surasena, Gandharva and the land between Ganga and Yamuna, lives a hundred years.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 7.59, 7.63", "view": "Red mouth, prominent nose, swan's voice, fair limbs, beautiful wife, handsome, every comfort, studies scripture, acute, meritorious, beneficent, devoted to virtue, life of 82 years.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Raman, Three Hundred Important Combinations no. 19", "view": "Jupiter in a kendra that is its own or exaltation sign. Handsome body, liked by others, righteous, pure in mind. Strength depends on the lagna, Jupiter and which kendra (10th strongest). Exaltation preferred over own sign. Should be interpreted carefully as it is meant to produce a person of sterling character. Examples show malefic aspects and a Papadhi Moon restricting it.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "Raman, How to Judge a Horoscope vol. 1 (chart illustrations)", "view": "Exalted Jupiter in the lagna conferring Hamsa is used in example charts to explain personal example, devotion to duty and high office, judged with the house it relates to.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao 11.4.5", "view": "Jupiter in Sagittarius, Pisces or Cancer in a kendra from the lagna, not the Moon. Great man of ethereal nature: spiritual strength and purity, respected by all, passionate, a king, all comforts, a good conversationalist.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Frawley, The Astrology of the Seers, p. 179", "view": "The 'swan combination': ethical, philosophical or religious nature, optimism, creativity, health, faith and affluence; common among religious people, teachers and liberal leaders; can give spirituality or merely self-promotion.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (chart illustrations)", "view": "Calls Jupiter (with Venus) exalted in a Cancer lagna the most beneficial Hamsa Mahapurusha yoga, and reads such yogas inside the whole chart (arudha lagna, dasa sign) rather than in isolation.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Reference point: lagna only (BPHS, Saravali, P.V.R. Narasimha Rao) versus lagna or Moon (Phaladeepika 6.4, Frawley). Jataka Parijata adds moolatrikona. Classical texts call the Hamsa native very passionate or fond of women (BPHS, Saravali), while Raman and P.V.R. Narasimha Rao stress purity and spirituality. Raman prefers exaltation over own sign.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as an indicator of integrity, wisdom and goodwill from others, scaled by Jupiter's strength. Do not promise kingship or quote lifespans.",
+    "definitions": [
+      {"source": "BPHS 75.1-2", "definition": "Jupiter, strong, in own sign or exaltation sign in a kendra from the lagna."},
+      {"source": "Phaladeepika 6.1, 6.4", "definition": "Jupiter in a kendra identical with its own or exaltation sign; also counted from the Moon."},
+      {"source": "Saravali 37.2", "definition": "Jupiter in own house or exaltation sign identical with a kendra."},
+      {"source": "Jataka Parijata 7.59", "definition": "Jupiter of greatest strength in a kendra in moolatrikona, own or exaltation sign."},
+      {"source": "Raman no. 19", "definition": "Jupiter in a kendra that is his own sign or exaltation sign (lagna counted as a kendra)."},
+      {"source": "P.V.R. Narasimha Rao 11.4.5", "definition": "Jupiter in Sagittarius, Pisces or Cancer in the 1st, 4th, 7th or 10th from the lagna; not from the Moon."}
+    ],
+    "cancellations": [
+      {"condition": "Jupiter subject to strong malefic aspects or associations restricts the yoga's effects.", "source": "Raman no. 19 (example chart 19)"},
+      {"condition": "Planet weak by debilitation, association or aspect: the Mahapurusha yoga is only nominal.", "source": "Raman no. 22 remarks (applies to all five)"},
+      {"condition": "Weak Sun and Moon: no kingship, only children and wealth in Jupiter's period.", "source": "Saravali 38.22"}
+    ],
+    "rarity_and_weight": "Not possible for fixed lagnas (Raman no. 19). Raman: of his example Mahapurusha charts only two had real strength; the rest were nominal (no. 22 remarks). Frawley: Mahapurusha yogas are not uncommon. Raman ranks Hamsa and Malavya as raja yogas.",
+    "timing": "Jupiter's dasa (Raman no. 19 example: Jupiter still gives Hamsa results to a good extent in his dasa; Saravali 38.22; Jataka Parijata 7.66).",
+    "remedies": [],
+    "conditional_results": [
+      {"when": "manual: Jupiter exalted in the 10th and unafflicted", "polarity": "good", "effects": ["yoga in full swing: high status, reputation, ethical leadership"], "source": "Raman no. 19 (example chart 21)"},
+      {"when": "manual: Jupiter aspected by malefics, or the Moon forming Papadhi yoga", "polarity": "mixed", "effects": ["good personality and goodwill but no great elevation"], "source": "Raman no. 19 (example chart 19)"}
+    ]
+  },
+  {
+    "id": "yoga/malavya",
+    "layer": "yoga",
+    "key": {"name": "Malavya"},
+    "summary": "Mahapurusha yoga of Venus: Venus in its own sign (Taurus, Libra) or exaltation (Pisces) in a kendra. It marks comfort, wealth, vehicles, beauty, artistic taste and a happy married and family life.",
+    "themes": ["comfort", "luxury", "vehicles", "beauty", "arts", "marriage", "wealth"],
+    "common_outcomes": ["material comforts, vehicles and good food", "attractive appearance and refined tastes", "happiness from spouse and children", "talent in arts, music or design"],
+    "rare_outcomes": ["great riches and renown (Raman)", "rulership of a region (classical statements)"],
+    "by_area": {
+      "personality": "Resolute, strong-minded, refined, pleasure-loving; Raman: materialistic outlook in proportion to comforts (no. 20; Phaladeepika 6.3).",
+      "career": "Artists, people of wealth or social influence, sometimes politicians (Frawley p. 179); famous and learned (Phaladeepika 6.3).",
+      "finance": "Wealthy, prosperous, commands good vehicles (Phaladeepika 6.3; Raman no. 20).",
+      "health": "Well-developed physique, clean or unperturbed senses (Phaladeepika 6.3; Raman no. 20); excellent health (P.V.R. Narasimha Rao 11.4.4).",
+      "relationships": "Happiness from wife and children (Phaladeepika 6.3; Raman no. 20).",
+      "family": "Endowed with wife, children and good fortune (Phaladeepika 6.3).",
+      "spirituality": "Raman: spiritual advancement tends to run inversely to the material comforts it gives; Frawley: on a higher level Venus gives devotion."
+    },
+    "strengtheners": ["Venus exalted in the 10th (Raman no. 20 example)", "present from both lagna and Moon (Frawley)", "Venus strong and well aspected (Raman no. 22 remarks; Frawley)", "strong Sun and Moon (Saravali 38.22)"],
+    "weakeners_or_cancellations": ["Venus weak by debilitation in navamsa, association or aspect: yoga only nominal (Raman no. 22 remarks)", "poor aspects can ruin the planet's significations (Frawley p. 180)", "weak luminaries deny kingship (Saravali 38.22)"],
+    "lagna_or_context_notes": "Raman gives the house in which Malavya can form by lagna: 1st for Taurus, Libra, Pisces; 7th for Aries, Scorpio, Virgo; 10th for Gemini, Leo, Capricorn; 4th for Sagittarius, Aquarius, Cancer. Results colour the matters of that house.",
+    "source_views": [
+      {"source": "BPHS 75.1-2, 75.17-19 (tr. R. Santhanam, vol. 2)", "view": "Venus strong in own or exaltation sign in a kendra. Beautiful lips, slender waist, moon-like lustre, fragrant body, medium stature, clean teeth, elephant-like voice, long arms; lives happily for seventy years as ruler of Sindhu and Malwa.", "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"},
+      {"source": "Phaladeepika 6.3 (tr. V. Subrahmanya Sastri)", "view": "Strong limbs, resolute, wealthy, with wife, children and good fortune, prosperous, good meals, pleasures, good vehicles, famous and learned, unperturbed senses.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Saravali 37.2-4", "view": "Thin lips, even physique, moon-like splendour, majestic voice, pleasant body odour, piercing sight, arms to the knees, lives seventy years, rules Lata, Malwa and Sindhu.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 7.59, 7.64", "view": "Graceful build, handsome, powerful, blessed with children, wife, vehicles and wealth, knows scripture, learned, clever in the three regal powers, liberal, fond of other women, lives to 77.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Raman, Three Hundred Important Combinations no. 20", "view": "Venus exalted or own sign in a kendra. Well-developed physique, strong-minded, wealthy, happy with wife and children, vehicles, clean senses, renowned and learned. Inclines one to Venusian pleasures; both Hamsa and Malavya are raja yogas, but Malavya is more materialistic and pleasure-loving. Unblemished Mahapurusha yogas are exceptional.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "P.V.R. Narasimha Rao 11.4.4", "view": "Venus in Taurus, Libra or Pisces in a kendra from the lagna, not the Moon. Great man of watery nature: moon-like lustre, tasty food, luxuries, excellent health, well versed in arts.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Frawley, The Astrology of the Seers, pp. 179-180", "view": "Comfort and prosperity, vehicles and resources, beauty, charm, artistic talent; common in artists and the wealthy; lower or higher Venus effects by placement, devotion at the higher level.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology (chart illustrations)", "view": "Uses Venus as 4th lord in the 4th (Malavya) and a Libra dasa sign housing Malavya to time a rajayoga period.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Same reference-point split (lagna only vs lagna or Moon) and moolatrikona addition (Jataka Parijata) as the other Mahapurusha yogas. Classical texts describe it mainly through looks and rulership; Raman reads it as materialistic comfort as against Hamsa's idealism; Frawley allows devotional expression.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as comfort, taste, charm and a good domestic life, scaled by Venus's strength; do not imply indulgence or infidelity as fixed traits; omit lifespans.",
+    "definitions": [
+      {"source": "BPHS 75.1-2", "definition": "Venus, strong, in own sign or exaltation sign in a kendra from the lagna."},
+      {"source": "Phaladeepika 6.1, 6.4", "definition": "Venus in a kendra identical with its own or exaltation sign; also counted from the Moon."},
+      {"source": "Saravali 37.2", "definition": "Venus in own house or exaltation sign identical with a kendra."},
+      {"source": "Jataka Parijata 7.59", "definition": "Venus of greatest strength in a kendra in moolatrikona, own or exaltation sign."},
+      {"source": "Raman no. 20", "definition": "Venus in a kendra which is his own or exaltation sign."},
+      {"source": "P.V.R. Narasimha Rao 11.4.4", "definition": "Venus in Taurus, Libra or Pisces in the 1st, 4th, 7th or 10th from the lagna; not from the Moon."}
+    ],
+    "cancellations": [
+      {"condition": "Planet weak by debilitation, association or aspect: yoga exists only nominally.", "source": "Raman no. 22 remarks"},
+      {"condition": "Weak Sun and Moon: no kingship, only children and wealth in Venus's period.", "source": "Saravali 38.22"}
+    ],
+    "rarity_and_weight": "Possible for every lagna in some kendra (Raman's table). Raman: unblemished cases exceptional; in most charts of limited political value. Frawley: these yogas are not uncommon.",
+    "timing": "Venus's dasa and bhuktis (Saravali 38.22; Raman introduction; Jataka Parijata 7.66). Rath times it through the dasa of the sign containing the yoga (Narayana/sign dasa usage).",
+    "remedies": [],
+    "conditional_results": []
+  },
+  {
+    "id": "yoga/sasa",
+    "layer": "yoga",
+    "key": {"name": "Sasa"},
+    "summary": "Mahapurusha yoga of Saturn: Saturn in its own sign (Capricorn, Aquarius) or exaltation (Libra) in a kendra. It gives authority over people and resources and capacity for sustained work, with classical warnings about ruthlessness that a strong Moon or Jupiter softens.",
+    "themes": ["authority", "organisation", "command of people", "endurance", "material power", "discipline"],
+    "common_outcomes": ["positions of authority or management", "many servants or staff under one's command", "capacity for hard, sustained work", "control of land, property or industry"],
+    "rare_outcomes": ["head of a town or kingdom (classical)", "great industrial wealth (Raman example with Saturn exalted in the 4th)"],
+    "by_area": {
+      "personality": "Valorous, shrewd, knows enemies' weak points, restless; classical texts add wickedness and coveting others' wealth (BPHS 75.20-22; Phaladeepika 6.4). Raman: these evils play only a restricted role if the Moon is unafflicted.",
+      "career": "Head of a village, town or king; army chief; political and business leaders (Phaladeepika 6.4; Saravali 37.8-10; Frawley p. 180).",
+      "finance": "Usurps or covets others' wealth (BPHS 75.21; Phaladeepika 6.4); Raman's example: earnings in lakhs as an industrialist.",
+      "health": "Body not small, slender waist (BPHS 75.20).",
+      "relationships": "Classical texts: fond of women and intrigues with others' wives (BPHS 75.21; Phaladeepika 6.4; Jataka Parijata 7.65).",
+      "family": "Devoted to his mother (Saravali 37.8-10; Jataka Parijata 7.65).",
+      "spirituality": "Benefically placed, gives detachment, spiritual insight and capacity for silence (Frawley p. 180)."
+    },
+    "strengtheners": ["Moon free from affliction: removes the coveting and unscrupulous side (Raman no. 21)", "Jupiter exalted improving the Moon (Raman no. 21 example)", "Moon or Jupiter strong (Frawley p. 180)", "placement in the 4th (lands, houses) or 10th (Raman no. 21 example)", "strong Sun and Moon (Saravali 38.22)"],
+    "weakeners_or_cancellations": ["afflicted Moon brings out the unscrupulous, coveting tendencies (Raman no. 21)", "weak Saturn: yoga only nominal (Raman no. 22 remarks)", "Rath's example: a Sasa yoga became defunct in a chart dominated by the Kala Sarpa axis"],
+    "lagna_or_context_notes": "Raman: possible for movable and fixed lagnas; dual-sign lagnas cannot have Sasa. Saturn is yogakaraka for Taurus and Libra lagnas, which helps.",
+    "source_views": [
+      {"source": "BPHS 75.1-2, 75.20-22 (tr. R. Santhanam, vol. 2)", "view": "Saturn strong in own or exaltation sign in a kendra. Small teeth and face, valorous, slender waist, wise, wanders in forests and mountains, knows enemies' weaknesses, lively, virile, fond of women, usurps others' wealth, rules several regions; [maraka: text predicts death at 70].", "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"},
+      {"source": "Phaladeepika 6.4 (tr. V. Subrahmanya Sastri)", "view": "Extolled by all, good servants, strong, headman of a village or king, wicked disposition, intrigues with others' wives, usurps others' wealth, happy.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Saravali 37.8-10", "view": "Small teeth and face, fast pace, crafty, very valorous, fond of forests, hills and forts, famous, army chief, skilful, a metallurgist, fickle, interested in women, enjoys others' wealth, devoted to his mother, intelligent; ruler of some place; [maraka: text predicts death at 70].", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Jataka Parijata 7.59, 7.65", "view": "A king, minister or general haunting woods and mountains, cruel-hearted, deceptive in pursuit of metallurgy, bountiful, wrathful eyes, brave, devoted to his mother, dark form, voluptuary, lives 70 years.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Raman, Three Hundred Important Combinations no. 21", "view": "Saturn exalted or own sign in a kendra. Good servants, questionable character, head of a village, town or kingdom, covets others' riches. Results reflect Saturn's nature, but the Moon's state is decisive: an unafflicted Moon restricts the evil results. Example: Saturn exalted in the 4th with a good Moon made a great industrialist.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "P.V.R. Narasimha Rao 11.4.3", "view": "Saturn in Capricorn, Aquarius or Libra in a kendra from the lagna, not the Moon. Great man of airy nature: hare-like, wise, enjoys wandering, valorous, slender, knows others' weaknesses, lively but vacillating, charitable.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Frawley, The Astrology of the Seers, p. 180", "view": "Power over people, authority, control of material resources, strong work capacity; common in political and business leaders. Unless the Moon or Jupiter is strong, may be selfish or ruthless; well placed, it gives detachment.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology (chart illustrations)", "view": "Reads exalted Saturn in the 4th (Sasa) as steel/industry significations, and shows a Sasa yoga rendered ineffective by an overriding Kala Sarpa configuration.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Same reference-point and moolatrikona splits as the other Mahapurusha yogas. Character: classical texts (BPHS, Phaladeepika, Jataka Parijata) describe moral flaws; P.V.R. Narasimha Rao gives a mostly neutral picture and calls the native charitable; Raman and Frawley make the flaws conditional on an afflicted Moon or weak Jupiter.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe as organising power, endurance and authority. Do not state classical moral accusations (coveting wealth, adultery) as facts about the person; at most mention that the texts advise checking the Moon for how ethically this power is used.",
+    "definitions": [
+      {"source": "BPHS 75.1-2", "definition": "Saturn, strong, in own sign or exaltation sign in a kendra from the lagna."},
+      {"source": "Phaladeepika 6.1, 6.4", "definition": "Saturn in a kendra identical with its own or exaltation sign; also counted from the Moon."},
+      {"source": "Saravali 37.2", "definition": "Saturn in own house or exaltation sign identical with a kendra."},
+      {"source": "Jataka Parijata 7.59", "definition": "Saturn of greatest strength in a kendra in moolatrikona, own or exaltation sign."},
+      {"source": "Raman no. 21", "definition": "Saturn in a kendra which is his own or exaltation sign."},
+      {"source": "P.V.R. Narasimha Rao 11.4.3", "definition": "Saturn in Capricorn, Aquarius or Libra in the 1st, 4th, 7th or 10th from the lagna; not from the Moon."}
+    ],
+    "cancellations": [
+      {"condition": "The Moon free from affliction: the evil results of Sasa (coveting, unscrupulousness) have only a restricted play.", "source": "Raman no. 21"},
+      {"condition": "Planet weak by debilitation, association or aspect: yoga only nominal.", "source": "Raman no. 22 remarks"},
+      {"condition": "Weak Sun and Moon: no kingship, only children and wealth in Saturn's period.", "source": "Saravali 38.22"}
+    ],
+    "rarity_and_weight": "Not possible for dual-sign lagnas (Raman no. 21). Raman: really powerful Mahapurusha yogas are rare. Frawley: Mahapurusha yogas are not uncommon; Saturn in an angle is usually viewed with some suspicion.",
+    "timing": "Saturn's dasa and bhuktis (Saravali 38.22; Raman introduction; Jataka Parijata 7.66).",
+    "remedies": [],
+    "conditional_results": [
+      {"when": "manual: the Moon unafflicted (or improved by a strong Jupiter)", "polarity": "good", "effects": ["power and wealth without unscrupulous means", "industrial or property success"], "source": "Raman no. 21"},
+      {"when": "manual: the Moon afflicted", "polarity": "mixed", "effects": ["authority used selfishly; questionable means of gain"], "source": "Raman no. 21; Frawley p. 180"}
+    ]
+  },
+  {
+    "id": "yoga/gajakesari",
+    "layer": "yoga",
+    "key": {"name": "Gajakesari"},
+    "summary": "Jupiter in a kendra (1, 4, 7, 10) from the Moon, in its commonest form; BPHS instead asks for Jupiter in a kendra from the lagna or the Moon, joined or aspected by a benefic, and not debilitated, combust or in an enemy sign. It promises reputation, intelligence, wealth and goodwill, but writers warn the bare form is common and weak.",
+    "themes": ["reputation", "intelligence", "wealth", "virtue", "lasting fame", "overcoming enemies"],
+    "common_outcomes": ["good name and respect", "intelligence and good qualities", "help from relatives and people in authority", "moderate to good prosperity, depending on strength"],
+    "rare_outcomes": ["lasting fame even after death", "public office or civic leadership (Raman: municipal member, mayor if powerful)"],
+    "by_area": {
+      "personality": "Splendorous, intelligent, virtuous (BPHS 36.3-4); polite and generous (Raman no. 1); energetic and meritorious (Jataka Parijata 7.117); lofty speaker, valorous (Phaladeepika 6.16).",
+      "career": "Pleases or serves the ruler (BPHS 36.4; Jataka Parijata 7.117); builder of towns or magistrate, read in modern terms as civic or administrative posts (Raman no. 1); municipal commissioner or manager of a big corporation (Raman, Hindu Predictive Astrology ch. XX).",
+      "finance": "Wealthy (BPHS 36.4); much money and grain (Jataka Parijata 7.117). Raman (How to Judge a Horoscope): if Jupiter is linked to the 2nd house it makes one earn well, but the yoga may raise status without money or money without status.",
+      "health": "Long-lived (Phaladeepika 6.16).",
+      "relationships": "",
+      "family": "Many relations (Raman no. 1); respected by relations and friends (Raman, Hindu Predictive Astrology ch. XX).",
+      "spirituality": "Virtuous; P.V.R. Narasimha Rao calls it a key yoga for virtue and lasting fame."
+    },
+    "strengtheners": ["Jupiter conjoined or aspected by a benefic (BPHS 36.3-4)", "Jupiter and Moon in exaltation or good dignity (Raman, How to Judge a Horoscope ch. V)", "the Moon waxing (Kumaraswamiyam version cited by Santhanam)", "the forming planets being benefic lords for the lagna (Raman no. 1 unit method)", "Jupiter connected to the 2nd house for wealth (Raman, How to Judge a Horoscope ch. V)", "the yoga persisting in divisional charts such as D-4 (Rath example)"],
+    "weakeners_or_cancellations": ["Jupiter debilitated, combust or in an enemy sign (BPHS 36.3-4)", "yoga falling in the 6th, 8th or 12th from the lagna cannot advance the chart (Raman, How to Judge a Horoscope ch. V)", "Moon and Jupiter as lords of evil houses (e.g. 6th and 11th) reduce it (Raman no. 1)", "malefic aspects/association and enemy signs give negative strength units; equal plus and minus units practically neutralise it (Raman no. 1, chart 3)", "C.G. Rajan's Tamil BPHS: Mercury in the 5th from or aspecting the Moon annuls it (cited, and disputed, by Santhanam)"],
+    "lagna_or_context_notes": "Raman: results relate to the houses the Moon and Jupiter occupy and rule; e.g. Moon in the 4th and Jupiter in the 10th split the results between those houses. The yoga can show as reputation, career or wealth separately. K.N. Rao reads a retrograde Jupiter as also acting from the previous sign, so the yoga may be counted from there.",
+    "source_views": [
+      {"source": "BPHS 36.3-4 (tr. R. Santhanam, vol. 1)", "view": "Jupiter in a kendra from the lagna or the Moon, joined or aspected by a benefic, and free of debilitation, combustion and enemy sign. The native is splendorous, wealthy, intelligent, virtuous and pleases the king.", "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"},
+      {"source": "R. Santhanam, notes to BPHS 36.3-4", "view": "Bare Moon-Jupiter mutual angularity is merely Kesari and cannot yield supreme effects. Lists variants: Jataka Parijata's two kinds; Kumaraswamiyam (waxing Moon with Jupiter in the 4th or 10th from it, possible in only four placements); C.G. Rajan (Mercury not in the 5th from or aspecting the Moon, Moon not combust or debilitated); Bombay edition (Mercury aspecting/joining an undebilitated, uncombust Moon). Ranks Kumaraswamiyam's version strongest. Any version gives wealth and fame in the dasas of Jupiter, the Moon and related planets; one school says Kesari gives riches in Venus dasa.", "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"},
+      {"source": "Phaladeepika 6.14, 6.16 (tr. V. Subrahmanya Sastri)", "view": "Calls it Kesari: the Moon in a kendra from Jupiter. Destroys enemies like a lion, speaks nobly in assemblies, passionate, long-lived, famous, very intelligent, conquers by his own valour.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 7.116-117 (tr. V. Subrahmanya Sastri)", "view": "Two forms: Jupiter in a kendra from the Moon; or the Moon aspected by Venus, Jupiter and Mercury that are not debilitated or combust. The native is energetic, rich in money and grain, intelligent, meritorious and pleases the king.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Raman, Three Hundred Important Combinations no. 1 and introduction", "view": "Jupiter in a kendra from the Moon. Many relations, polite, generous, a builder or magistrate of towns, lasting reputation after death. Results must be adapted to modern life and vary hugely with the strength of the planets, houses and nakshatras; illustrates a plus/minus unit method by lordship, association, aspect and dignity, and shows one chart where the yoga is practically neutralised.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "Raman, How to Judge a Horoscope vol. 1, ch. V (Second House)", "view": "Moon and Jupiter in mutual kendras; strength depends on their dignity. In the 6th, 8th or 12th from the lagna it cannot advance the chart. It may raise reputation, career or wealth independently; with Jupiter linked to the 2nd, earnings are assured.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Raman, Hindu Predictive Astrology ch. XX, no. 7", "view": "Kesari: Moon and Jupiter in mutual kendras; respected by relations and friends, municipal commissioner or manager of a big corporation, name goes to posterity, worldly enjoyments.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "P.V.R. Narasimha Rao 11.6 (Other Popular Yogas)", "view": "Follows BPHS: Jupiter in a kendra from the Moon, with benefic conjunction/aspect, not debilitated, combust or in an enemy sign. Famous, wealthy, intelligent, of great character, liked by kings; key yoga for virtue and lasting fame. Some count it from the lagna too, and a strong Jupiter may form it without benefic aspect.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology (chart illustrations)", "view": "Weighs Gajakesari through its relation to the arudha lagna: joined with the AL lord it gave undying fame, and aspecting the 2nd from AL brought riches, timed by sign dasas. Also notes Moon and Jupiter as 1st and 9th lords forming it on the 4/10 axis.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "K.N. Rao, Advanced Techniques of Astrological Prediction (education illustration)", "view": "A retrograde Jupiter is read as also acting from the previous sign, producing Gajakesari from that sign.", "url": "https://archive.org/details/advance-techniques-of-astrology-prediction-k.-n.-rao"}
+    ],
+    "disagreements": "Reference point: Moon only (Phaladeepika, Jataka Parijata first form, Raman, P.V.R. Narasimha Rao) versus lagna or Moon (BPHS 36.3). Conditions: BPHS adds benefic aspect/conjunction and freedom from debility, combustion and enemy sign; Raman and Phaladeepika do not. Jataka Parijata adds a second, aspect-based form. Name: Phaladeepika and Raman's Hindu Predictive Astrology call the bare form Kesari; Santhanam reserves 'Gajakesari' for the qualified forms. Kumaraswamiyam restricts it to a waxing Moon with Jupiter in the 4th/10th. Santhanam rejects C.G. Rajan's Mercury-in-5th cancellation as baseless. Results: BPHS stresses wealth; Raman says it may give status without money.",
+    "confidence": "high",
+    "phrasing_guidance": "Treat as a helpful sign for reputation, judgement and goodwill whose size depends on the Moon's and Jupiter's condition. Do not present the common bare form as a guarantee of wealth or fame; mention when the stricter BPHS conditions are not met.",
+    "definitions": [
+      {"source": "BPHS 36.3-4", "definition": "Jupiter in a kendra from the lagna or from the Moon, conjoined with or aspected by a benefic, and not debilitated, combust or in an enemy's sign."},
+      {"source": "Phaladeepika 6.14 (as Kesari)", "definition": "The Moon in a kendra from Jupiter (equivalently Jupiter in a kendra from the Moon)."},
+      {"source": "Jataka Parijata 7.116", "definition": "(1) Jupiter in a kendra from the Moon; or (2) the Moon aspected by Venus, Jupiter and Mercury that are neither debilitated nor combust."},
+      {"source": "Kumaraswamiyam (via Santhanam's notes to BPHS 36.3-4)", "definition": "Waxing Moon with Jupiter in the 4th or 10th from it, which only happens with Moon/Jupiter in Taurus/Aquarius or Sagittarius/Pisces."},
+      {"source": "C.G. Rajan, Tamil BPHS (via Santhanam's notes)", "definition": "Moon and Jupiter in mutual kendras, Mercury not in the 5th from or aspecting the Moon, the Moon not combust or debilitated."},
+      {"source": "Raman, Three Hundred Important Combinations no. 1", "definition": "Jupiter in a kendra from the Moon."},
+      {"source": "P.V.R. Narasimha Rao 11.6", "definition": "Jupiter in a kendra from the Moon, conjoined or aspected by a benefic, not debilitated, combust or in an enemy sign; some also allow a kendra from the lagna."}
+    ],
+    "cancellations": [
+      {"condition": "Jupiter debilitated, combust or in an enemy's sign (the yoga does not form as BPHS defines it).", "source": "BPHS 36.3-4"},
+      {"condition": "Yoga occurring in the 6th, 8th or 12th from the lagna cannot advance the chart.", "source": "Raman, How to Judge a Horoscope ch. V"},
+      {"condition": "Moon and Jupiter as malefic lords, malefically aspected or in enemy signs: strength units cancel and the yoga is practically neutralised.", "source": "Raman, Three Hundred Important Combinations no. 1 (charts 1, 3)"},
+      {"condition": "Mercury in the 5th from or aspecting the Moon annuls it (C.G. Rajan's version; Santhanam disputes this).", "source": "Santhanam's notes to BPHS 36.3-4"}
+    ],
+    "rarity_and_weight": "Santhanam: the bare Moon-Jupiter angularity deserves little importance and cannot give supreme effects; stricter versions rank higher. Raman: results vary greatly with strength and must be scaled down to modern life; it can be practically neutralised. P.V.R. Narasimha Rao calls it a key yoga for virtue and fame. Sources do not give a frequency figure.",
+    "timing": "Dasas of Jupiter, the Moon and planets related to them; one school adds Venus dasa (Santhanam, notes to BPHS 36.3-4). Raman: the stronger of the Moon and Jupiter fulfils the larger part in its dasa; bhuktis of either in other dasas give a share (Three Hundred Important Combinations, introduction, chart 1). Rath times it through sign dasas aspecting or containing the yoga.",
+    "remedies": [],
+    "conditional_results": [
+      {"when": "manual: Jupiter conjoined or aspected by a benefic and not debilitated, combust or in an enemy sign", "polarity": "good", "effects": ["wealth, intelligence, virtue, favour of authorities"], "source": "BPHS 36.3-4"},
+      {"when": "manual: the yoga falls in the 6th, 8th or 12th from the lagna", "polarity": "bad", "effects": ["yoga cannot advance the chart's indications"], "source": "Raman, How to Judge a Horoscope ch. V"},
+      {"when": "manual: Jupiter connected with the 2nd house", "polarity": "good", "effects": ["good earnings"], "source": "Raman, How to Judge a Horoscope ch. V"}
+    ]
+  },
+  {
+    "id": "yoga/budhaditya",
+    "layer": "yoga",
+    "key": {"name": "Budhaditya"},
+    "summary": "Mercury conjoined with the Sun (Budha-Aditya, also called Nipuna yoga): intelligence, skill in work, reputation and comfort. Because Mercury is never far from the Sun it is very common, and modern writers require Mercury not to be combust for it to count.",
+    "themes": ["intelligence", "skill", "reputation", "learning", "service to authority"],
+    "common_outcomes": ["clever, capable and intelligent", "good reputation and respect", "work in service of government or authority (Saravali)"],
+    "rare_outcomes": ["Kubera-like wealth and kingly status when in the 4th (Saravali 31.11)", "danger, imprisonment and miserliness when in the 7th (Saravali 31.12)"],
+    "by_area": {
+      "personality": "Clever, intelligent, famous and happy (Brihat Jataka 14.1; Phaladeepika 18.1); highly intelligent and skilful (Raman no. 24).",
+      "career": "In service, dear to the king and good people (Saravali 15.4); skilful in all work (Raman no. 24; P.V.R. Narasimha Rao 11.2.4); strongest in the D-10 for career (P.V.R. Narasimha Rao).",
+      "finance": "Unsteady wealth (Saravali 15.4); Sastri's note on Brihat Jataka 14.1: proficient and famous but not good for finance.",
+      "health": "",
+      "relationships": "In the 7th: bereft of marital pleasures (Saravali 31.12).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": ["Mercury not combust, i.e. more than about 10 degrees from the Sun (Raman no. 24; P.V.R. Narasimha Rao)", "the yoga repeated in divisional charts such as D-10 or D-9 (P.V.R. Narasimha Rao)", "placement in the 4th or lagna (Saravali 31.10-11)", "Mercury vargottama or with good lordship (Raman, How to Judge a Horoscope chart illustrations)"],
+    "weakeners_or_cancellations": ["Mercury combust (within about 10 degrees of the Sun) loses power to do good (Raman no. 24; P.V.R. Narasimha Rao)", "conjunction in the 7th gives adverse results (Saravali 31.12)"],
+    "lagna_or_context_notes": "Raman's chart illustrations read Budha-Aditya through the houses Mercury rules (e.g. as 5th/8th lord, or the lagna lord Mercury with the Sun in the 7th). Saravali ch. 31 gives different results by kendra.",
+    "source_views": [
+      {"source": "Brihat Jataka 14.1 (tr. V. Subrahmanya Sastri)", "view": "Sun with Mercury: clever, intelligent, famous and happy. Translator's note: proficient and famous but not good for finance; Varahamihira holds conjunctions generally poor for finance.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.1 (tr. V. Subrahmanya Sastri)", "view": "Repeats Brihat Jataka: Sun with Mercury makes one clever, intelligent, famous and happy.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Saravali 15.4; 31.10-13", "view": "Sun and Mercury in one house: in service, unsteady wealth, sweet speech, fame and money, noble, dear to king and good people, strength, beauty and learning. In the lagna: learned, talkative, adventurous, wise, long-lived; in the 4th: king's equal, famous, truthful, very rich; in the 7th: [maraka: text predicts death by murder or imprisonment], untruthful, miserly.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Raman, Three Hundred Important Combinations no. 24", "view": "Mercury combining with the Sun. Highly intelligent, skilful, good reputation, respect, comforts. Planets with the Sun usually become combust; Mercury may be an exception, but the yoga should not be assumed regardless of distance: Mercury should not be within 10 degrees of the Sun. Not rare.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "Raman, How to Judge a Horoscope vol. 1 (glossary and chart illustrations)", "view": "Glossary: a combination for intelligence and learning. Chart readings tie it to integrity, learning and intellectual life, especially when Mercury is vargottama.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao 11.2, 11.2.4", "view": "Sun and Mercury in one sign (Nipuna yoga): intelligent, skilful, well-known, respected, happy. Solar yogas are very common in the rasi chart because Mercury and Venus stay near the Sun; less common in divisional charts, so apply them in D-9 and D-10. Combust Mercury loses some power; in the rasi it gives results if Mercury is not combust. Periods of the Sun, Mercury and the sign holding them give the results.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"}
+    ],
+    "disagreements": "The classical texts read here (Brihat Jataka, Phaladeepika, Saravali) give Sun-Mercury conjunction results but do not use the name Budhaditya or a combustion rule; Raman and P.V.R. Narasimha Rao add the non-combustion requirement (Raman: more than 10 degrees apart). Finance: Saravali says unsteady wealth and Sastri says poor for finance, while Saravali 31.11 gives great wealth in the 4th. Raman suggests Mercury may be an exception to the combustion rule yet still requires the 10-degree separation.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present lightly, as a sign of intelligence and practical skill; note it is common. Give it extra weight only when Mercury is clear of combustion or the yoga repeats in D-9/D-10. Do not repeat the 7th-house danger statements.",
+    "definitions": [
+      {"source": "Brihat Jataka 14.1 / Phaladeepika 18.1 / Saravali 15.4", "definition": "Sun and Mercury in the same sign (two-planet conjunction; not named Budhaditya)."},
+      {"source": "Raman, Three Hundred Important Combinations no. 24", "definition": "Mercury combined with the Sun, with Mercury not within 10 degrees of the Sun."},
+      {"source": "P.V.R. Narasimha Rao 11.2.4", "definition": "Sun and Mercury together in one sign (Nipuna yoga); gives results in the rasi if Mercury is not combust; most powerful in divisional charts like D-10."}
+    ],
+    "cancellations": [
+      {"condition": "Mercury within about 10 degrees of the Sun (combust): the yoga should not be taken as present.", "source": "Raman no. 24"},
+      {"condition": "Mercury combust: the yoga loses some power to do good.", "source": "P.V.R. Narasimha Rao 11.2.4"}
+    ],
+    "rarity_and_weight": "Very common in the rasi chart because Mercury never strays far from the Sun (P.V.R. Narasimha Rao 11.2); 'not, of course, rare' (Raman no. 24). Raman treats the solar yogas as indicating ego development, not comparable in eminence to raja yogas (no. 18 remarks on the solar yogas).",
+    "timing": "Periods of the Sun, Mercury and the sign holding the conjunction; results also felt throughout life (P.V.R. Narasimha Rao 11.2.4).",
+    "remedies": [],
+    "conditional_results": [
+      {"when": "manual: Sun and Mercury together with Mercury not combust", "polarity": "good", "effects": ["intelligence, skill and reputation come forward in Mercury's period"], "source": "P.V.R. Narasimha Rao 11.2.4; Raman no. 24"},
+      {"when": "manual: Sun and Mercury together in the 4th", "polarity": "good", "effects": ["fame, truthfulness, great wealth"], "source": "Saravali 31.11"},
+      {"when": "manual: Sun and Mercury together in the 7th", "polarity": "bad", "effects": ["untruthful, miserly, lacking marital pleasure", "[maraka: text predicts death by murder or imprisonment]"], "source": "Saravali 31.12"}
+    ]
+  },
+  {
+    "id": "yoga/chandra_mangala",
+    "layer": "yoga",
+    "key": {"name": "Chandra-Mangala"},
+    "summary": "The Moon conjoined with Mars (Raman also accepts mutual aspect). Varahamihira gives harsh results (rough trades, disobedience to the mother), but Raman finds it a strong wealth yoga, especially with dignified Moon and Mars or in the 2nd, 9th, 10th or 11th.",
+    "themes": ["earning power", "drive", "worldly shrewdness", "mother", "valour"],
+    "common_outcomes": ["financial drive and earning capacity", "worldly, enterprising and brave", "tension with the mother or women (classical)"],
+    "rare_outcomes": ["earnings by questionable means when the planets are badly placed", "blood disorders (Saravali 15.8)", "military wealth and bravery when in the 10th (Saravali 31.29)"],
+    "by_area": {
+      "personality": "Valorous, brave in war (Saravali 15.8); worldly wise and materially successful (P.V.R. Narasimha Rao 11.3.5).",
+      "career": "Dealer in hammers, ploughs, rough tools, drinks and earthen jars (Brihat Jataka 14.2; Phaladeepika 18.2); artisan, metallurgist, worker in mud and skin (Saravali 15.8); Raman: trades catering to baser needs unless the planets are well placed.",
+      "finance": "Raman: a powerful factor in stabilising one's finances; bright financial results except when both are debilitated without cancellation (Three Hundred Important Combinations no. 6; How to Judge a Horoscope ch. V). Classical: earnings by unscrupulous means (Raman's summary of the ancients).",
+      "health": "Blood disorders or bloody diseases (Saravali 15.8); in the lagna, defects of blood, digestion and bile (Saravali 31.26).",
+      "relationships": "In the 7th: base, after others' money, untruthful, jealous (Saravali 31.28). Classical: trades in women (Brihat Jataka 14.2).",
+      "family": "Disobedient to or harsh with the mother and relatives (Brihat Jataka 14.2; Raman no. 6). In the 4th: grief, loss of relatives (Saravali 31.27).",
+      "spirituality": ""
+    },
+    "strengtheners": ["Moon exalted in Taurus with Mars in own Scorpio, or Moon in own Cancer with Mars exalted in Capricorn (Raman no. 6; How to Judge a Horoscope ch. V)", "occurring in the 2nd, 9th, 10th or 11th house (Raman)", "waxing Moon and Mars in own sign (Raman, chart 10 / How to Judge a Horoscope chart 47)", "Mars as yogakaraka for the lagna (Raman, How to Judge a Horoscope chart 46)", "in the 10th: wealth and bravery (Saravali 31.29)"],
+    "weakeners_or_cancellations": ["both planets debilitated without neecha-bhanga (Raman, How to Judge a Horoscope ch. V)", "falling in unfavourable houses spoils character and gives money by unholy means (Raman no. 6)", "in the 4th or 7th: adverse results (Saravali 31.27-28)"],
+    "lagna_or_context_notes": "Raman: results follow the houses the Moon and Mars rule; for Libra lagna in Cancer it gives 2nd/11th-house results; for Cancer and Leo lagnas it is highly beneficial in Scorpio or Taurus. Mars is yogakaraka for Cancer and Leo lagnas.",
+    "source_views": [
+      {"source": "Brihat Jataka 14.2 (tr. V. Subrahmanya Sastri)", "view": "Moon with Mars: a dealer in hammers, ploughs and rough tools, women, drinks and earthen jars; disobedient to his mother. Translator's note: here Varahamihira differs from Parasara, who is said to hold Sasimangala yoga good (Parasara's verse not located in this research).", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 18.2 (tr. V. Subrahmanya Sastri)", "view": "Repeats Brihat Jataka 14.2.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Saravali 15.8; 31.26-29", "view": "Moon and Mars together: valorous, brave in war, a boxer, blood disorders, maker of articles of mud, skin and minerals, artisan, metallurgist. In the lagna: blood/bile defects, wealthy, harsh; 4th: grief, no wealth or happiness, defective limb; 7th: base, covets money, untruthful, jealous; 10th: wealth of an army, brave.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Raman, Three Hundred Important Combinations no. 6", "view": "Mars conjoining the Moon. Ancient results are harsh (unscrupulous earnings, harshness to mother), but in Raman's view it powerfully stabilises finances; earnings come through baser trades unless the planets are well disposed. Also formed by mutual aspect (Taurus-Scorpio, Cancer-Capricorn are excellent). Good in the 2nd, 9th, 10th or 11th; in unfavourable houses it spoils character.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "Raman, How to Judge a Horoscope vol. 1, ch. V (Second House)", "view": "Has a great bearing on financial status. Dignified Moon and Mars give earnings through above-board means, provided it occurs in the 2nd, 9th, 10th or 11th. Needs conjunction or mutual aspect; mutual kendra gives something like it. Except when both are debilitated without cancellation, it generally gives bright financial results; nature follows the houses ruled. Glossary calls it the angular disposition of the Moon and Mars.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao 11.3.5", "view": "Moon and Mars in one sign: worldly wise, materially successful, may earn by unscrupulous means, may treat mother or other women badly.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"}
+    ],
+    "disagreements": "Formation: conjunction only (Brihat Jataka, Saravali, P.V.R. Narasimha Rao) versus conjunction or mutual aspect (Raman), with mutual kendra as a lesser form (Raman, How to Judge a Horoscope). Raman's own glossary calls it an 'angular disposition'. Results: Varahamihira and Phaladeepika give mostly negative results; Raman calls it a strong wealth yoga; Sastri reports that Parasara regards it as good, which was not confirmed in the BPHS text read.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as drive and earning ability, with emotional intensity that needs balance. Avoid the classical trade lists and statements about mistreating the mother or women; check dignity and house before calling it favourable.",
+    "definitions": [
+      {"source": "Brihat Jataka 14.2 / Phaladeepika 18.2 / Saravali 15.8", "definition": "The Moon in the same sign as Mars (two-planet conjunction)."},
+      {"source": "Raman, Three Hundred Important Combinations no. 6", "definition": "Mars conjoining the Moon; Raman also accepts mutual aspect (7th from each other)."},
+      {"source": "Raman, How to Judge a Horoscope ch. V", "definition": "Moon and Mars in conjunction or mutual aspect; mutual kendra gives something like the yoga."},
+      {"source": "P.V.R. Narasimha Rao 11.3.5", "definition": "Moon and Mars together in one sign."}
+    ],
+    "cancellations": [
+      {"condition": "Moon and Mars debilitated without neecha-bhanga: the bright financial results do not come.", "source": "Raman, How to Judge a Horoscope ch. V"},
+      {"condition": "Occurring in unfavourable houses: character suffers and money comes by unholy means.", "source": "Raman no. 6"}
+    ],
+    "rarity_and_weight": "Raman gives it significant weight for wealth (How to Judge a Horoscope ch. V); Varahamihira gives it little and mostly adverse significance (per Raman). No frequency figure in the sources.",
+    "timing": "Raman's chart 47 / no. 6 example: the dasa of the better-placed planet (Mars there) was much better than the Moon's; general Raman rule that the stronger yoga planet gives most results in its dasa.",
+    "remedies": [],
+    "conditional_results": [
+      {"when": "manual: Moon and Mars dignified (Taurus/Scorpio or Cancer/Capricorn) and the yoga in the 2nd, 9th, 10th or 11th", "polarity": "good", "effects": ["earnings through fair means, financial stability"], "source": "Raman, How to Judge a Horoscope ch. V; Raman no. 6"},
+      {"when": "manual: both Moon and Mars debilitated without neecha-bhanga, or yoga in unfavourable houses", "polarity": "bad", "effects": ["questionable means of earning", "weak financial results"], "source": "Raman no. 6; How to Judge a Horoscope ch. V"}
+    ]
+  },
+  {
+    "id": "yoga/adhi",
+    "layer": "yoga",
+    "key": {"name": "Adhi"},
+    "summary": "Natural benefics (Mercury, Jupiter, Venus) in the 6th, 7th and 8th from the Moon (Chandradhi; some texts also count from the lagna). It promises leadership, wealth, health, long life and victory over enemies, scaled by how many benefics and how strong they are: army chief, minister or ruler.",
+    "themes": ["leadership", "rank", "prosperity", "health", "victory over enemies", "trustworthiness"],
+    "common_outcomes": ["leadership or high office", "prosperity and comfort", "health and long life", "overcoming opponents"],
+    "rare_outcomes": ["rule or ministerial rank when all three benefics are strong", "scholarly or saintly eminence (Uttara Kalamrita examples)"],
+    "by_area": {
+      "personality": "Polite, trustworthy (Raman no. 7); high-souled, famous (Phaladeepika 6.42).",
+      "career": "Commander, minister or ruler by the strength of the benefics (BPHS 37.5; Brihat Jataka 13.2; Phaladeepika 6.42); Raman: one strong benefic makes a leader, two a minister, three a more eminent position; almost a raja yoga.",
+      "finance": "Wealthy throughout life, feeds many relatives (Phaladeepika 6.43); luxuries and affluence (Raman no. 7).",
+      "health": "Exempt from diseases and dangers, long-lived (Brihat Jataka 13.2; Saravali 35.20-21; Raman no. 7).",
+      "relationships": "Wife, children and friends (Uttara Kalamrita).",
+      "family": "Feeds many relations (Phaladeepika 6.43).",
+      "spirituality": "Learned (Uttara Kalamrita; Santhanam's notes)."
+    },
+    "strengtheners": ["benefics free of combustion and debilitation (Santhanam's notes to BPHS 36.37)", "no malefic in or aspecting those houses (Saravali 35.20; Uttara Kalamrita)", "the Sun not in those houses (Saravali 35.20)", "the 4th from the reference point vacant (Santhanam's notes, citing several BPHS editions)", "best arrangement: Mercury 6th, Jupiter 7th, Venus 8th (Santhanam's notes)", "Jupiter in the 7th rather than the 6th or 8th from the Moon (Uttara Kalamrita notes)", "number and strength of benefics (Raman no. 7; BPHS 37.5)"],
+    "weakeners_or_cancellations": ["benefics devoid of strength: yoga present but feeble (Raman no. 7)", "the Sun opposite the Moon lowers it a little (Sastri's notes to Brihat Jataka 13.2)", "malefics in the 6/7/8 from the Moon form Papadhi, a negative version (Raman no. 7, citing Bhattotpala; Raman no. 19 example)", "Jupiter in the 6th or 8th from the Moon creates Shakata-type trouble (Uttara Kalamrita notes; Phaladeepika 6.14 defines Shakata)"],
+    "lagna_or_context_notes": "Lagnadhi is the lagna-based variant: BPHS 36.37 uses only the 7th and 8th from the lagna (some editions add that the 4th be vacant); Saravali 34.13 and Jataka Parijata 7.114 use the 6th, 7th and 8th from the lagna without malefic contact. Phaladeepika 6.42 counts from the Moon or the lagna.",
+    "source_views": [
+      {"source": "BPHS 37.5 (tr. R. Santhanam, vol. 1)", "view": "Benefics in the 6th, 7th and 8th from the Moon form Adhi yoga; by their strength the native becomes a king, a minister or an army chief.", "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"},
+      {"source": "BPHS 36.37 with Santhanam's notes", "view": "Lagnadhi: benefics in the 7th and 8th from the lagna, free of malefic conjunction/aspect, make one great, learned and happy. Santhanam's synthesis: benefics in any of the 6th/7th/8th, no malefics there or aspecting, the 4th vacant, benefics not combust or debilitated; best with Mercury 6th, Jupiter 7th, Venus 8th.", "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"},
+      {"source": "Brihat Jataka 13.2 (tr. V. Subrahmanya Sastri) with notes", "view": "Benefics in the 6th, 7th and 8th from the Moon: commander, minister or ruler; prosperity, victory over foes, long life free of disease and danger. Notes: lowered a little if the Sun opposes the Moon; two benefics give the middle results, one the lesser; Bhattotpala, citing Srutakirti, recognises seven sorts (benefics in one, two or all three houses); Badarayana and Parasara grade it by benefic strength; Kalyanavarma calls it a raja yoga when the benefics are not eclipsed or malefic-aspected.", "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 6.42-43 (tr. V. Subrahmanya Sastri)", "view": "Benefics in the 7th, 6th and 8th from the Moon or the lagna: a commander, minister or ruler; famous, prosperous, wealthy, long-lived, high-souled; lord of men, lifelong wealth, feeds relatives, overthrows enemies.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 7.113-115 (tr. V. Subrahmanya Sastri)", "view": "7.113 repeats Brihat Jataka 13.2 for the Moon (with the same notes). 7.114-115 Lagnadhi: benefics in the 6th, 7th and 8th from the lagna, unaspected and unjoined by malefics (other than in the 4th); scholar, army chief, generous, famous.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Saravali 35.20-21; 34.13; 13.33", "view": "Chandradhi: all benefics in the 6th, 7th and 8th from the Moon, excluding the Sun and without malefic aspect; a king with vast realm, free of old age and disease, fearless, fortunate. Lagnadhi (34.13): exclusively benefics in the 6th-8th from the lagna give ministership, army leadership, kingship, long life. 13.33 classes Adhi among raja yogas.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Uttara Kalamrita, Kanda IV, Adhi Yoga verse (tr. P.S. Sastri), with notes", "view": "Benefics in the 6th, 7th and 8th from the Moon with no malefics there: king or equal, great happiness, long life, victory, fame, learning, family and conveyances. Notes: one, two or three strong benefics give leader, minister, eminent position; Jupiter in the 6th or 8th from the Moon is undesirable, so Jupiter should be in the 7th. (Verse number not legible in the scan.)", "url": "https://archive.org/details/kupdf.net_uttkalamrita-kalidas-ps-sastri"},
+      {"source": "Raman, Three Hundred Important Combinations no. 7", "view": "Benefics in the 6th, 7th and 8th from the Moon: polite, trustworthy, happy, luxurious, defeats enemies, healthy, long-lived. Varahamihira specifies only benefics; Bhattotpala suggests a Papadhi (malefic) version. Benefics may be spread over one, two or three of these houses; one strong one makes a leader, two a minister, three more eminent; weak benefics make it feeble. Almost equivalent to a raja yoga.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "Raman, Hindu Predictive Astrology ch. XX, no. 8", "view": "Benefics in the 6th, 7th and 8th from the Moon: commander, minister or king, foeless, long-lived, free from disease.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "P.V.R. Narasimha Rao 11.3.6", "view": "Natural benefics in the 6th, 7th and 8th from the Moon: king, minister or army chief by the strength of the planets involved.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "K.N. Rao, Advanced Techniques of Astrological Prediction (education illustration)", "view": "Reads a retrograde Jupiter as also acting from the previous sign, giving Adhi yoga from there.", "url": "https://archive.org/details/advance-techniques-of-astrology-prediction-k.-n.-rao"}
+    ],
+    "disagreements": "Reference point: Moon (BPHS 37.5, Brihat Jataka, Saravali 35, Raman, P.V.R. Narasimha Rao) versus Moon or lagna (Phaladeepika 6.42); separate Lagnadhi rules differ (BPHS: 7th and 8th only; Saravali and Jataka Parijata: 6th-8th). Occupancy: some require all three houses filled, but Bhattotpala/Srutakirti and Raman accept benefics in any one or more. Extra conditions vary: Sun excluded (Saravali), 4th vacant (some BPHS editions), no malefic aspect (Saravali, Uttara Kalamrita). Raman reports Varahamihira allows only benefics, while Bhattotpala admits a Papadhi version. Uttara Kalamrita's notes and Santhanam both place Jupiter best in the 7th from the Moon.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as support for standing, comfort and resilience, scaled by how many benefics are involved and how strong they are. Avoid promising ministerial or royal rank; give health and longevity statements only as general well-being.",
+    "definitions": [
+      {"source": "BPHS 37.5", "definition": "Benefics occupying the 6th, 7th and 8th counted from the Moon."},
+      {"source": "BPHS 36.37 (Lagnadhi)", "definition": "Benefics in the 7th and 8th from the lagna without malefic conjunction or aspect."},
+      {"source": "Brihat Jataka 13.2 / Jataka Parijata 7.113", "definition": "Benefics (Mercury, Jupiter, Venus) in the 6th, 7th and 8th from the Moon; per Bhattotpala they may occupy one, two or all three of these houses."},
+      {"source": "Phaladeepika 6.42", "definition": "Benefics in the 7th, 6th and 8th from the Moon or from the lagna."},
+      {"source": "Saravali 35.20", "definition": "All benefics in the 6th, 7th and 8th from the Moon, those houses excluding the Sun and not aspected by malefics."},
+      {"source": "Uttara Kalamrita, Kanda IV", "definition": "Benefics in the 6th, 7th and 8th from the Moon with no malefics in those houses."},
+      {"source": "Raman no. 7", "definition": "Benefics in the 6th, 7th and 8th from the Moon, in one, two or all three of those houses."}
+    ],
+    "cancellations": [
+      {"condition": "Benefics devoid of strength: yoga present but feeble.", "source": "Raman no. 7"},
+      {"condition": "Sun in opposition to the Moon: effect lowered a little.", "source": "Sastri's notes to Brihat Jataka 13.2"},
+      {"condition": "Malefic in or aspecting the 6th/7th/8th, or the Sun there: yoga not formed in Saravali's version.", "source": "Saravali 35.20"},
+      {"condition": "Benefics combust or debilitated, or the 4th occupied: Santhanam's stricter synthesis is not met.", "source": "Santhanam's notes to BPHS 36.37"}
+    ],
+    "rarity_and_weight": "Raman: one of the most important combinations, almost a raja yoga (no. 7); Saravali 13.33 and Kalyanavarma (per Sastri) class it as a raja yoga. The partial form with one benefic is far more common than the full form, and the texts grade results by count (Brihat Jataka notes; Raman).",
+    "timing": "Jataka Parijata 7.66: in yogas like Adhi, the powerful yoga planet aspected by weaker ones gives the results in its dasa. Raman's examples: the dasa of the strongest participating benefic (Jupiter's or Venus's) was the peak period.",
+    "remedies": [],
+    "conditional_results": [
+      {"when": "manual: all three benefics strong in the 6th/7th/8th from the Moon, free from malefic contact", "polarity": "good", "effects": ["ruler-like or very eminent position, wealth, health, long life"], "source": "BPHS 37.5; Raman no. 7"},
+      {"when": "manual: only one or two benefics, or benefics weak", "polarity": "good", "effects": ["leadership or ministerial-level standing at a smaller scale; feeble if weak"], "source": "Raman no. 7; Brihat Jataka 13.2 notes"},
+      {"when": "manual: malefics occupy the 6th/7th/8th from the Moon (Papadhi)", "polarity": "bad", "effects": ["reverses or restricts the benefit"], "source": "Raman no. 7 (Bhattotpala), no. 19 example"}
+    ]
+  },
+  {
+    "id": "yoga/amala",
+    "layer": "yoga",
+    "key": {"name": "Amala"},
+    "summary": "A natural benefic in the 10th house from the lagna or from the Moon (BPHS and Santhanam: only benefics, no malefic there). 'Amala' means spotless: it gives lasting fame, clean character and honour, with wealth according to Phaladeepika.",
+    "themes": ["fame", "clean reputation", "honour", "virtue", "career through fair means"],
+    "common_outcomes": ["good, lasting reputation", "honoured by employers or authorities", "charitable and helpful to others", "prosperity gained by fair means"],
+    "rare_outcomes": ["fame lasting 'as long as the Moon and stars endure' (BPHS, Jataka Parijata)", "ruling over the earth (Phaladeepika 6.20)"],
+    "by_area": {
+      "personality": "Virtuous, pious, kind, gentle, affable in speech (Phaladeepika 6.12); spotless character (Raman no. 13).",
+      "career": "Honoured by the king or authorities (BPHS 36.5-6; Jataka Parijata 7.120); P.V.R. Narasimha Rao: benefics in the 10th make one's conduct in society very pure.",
+      "finance": "Wealthy (Phaladeepika 6.12, 6.20); prosperity unfailing to life's end (Jataka Parijata 7.118). Santhanam: the sage (BPHS) does not promise wealth.",
+      "health": "",
+      "relationships": "",
+      "family": "Fond of relatives (BPHS 36.5-6); kind to relatives (Jataka Parijata 7.120); has sons (Phaladeepika 6.20).",
+      "spirituality": "Pious, virtuous, charitable (BPHS 36.5-6; Phaladeepika 6.12)."
+    },
+    "strengtheners": ["the benefic unaccompanied and unaspected by malefics (Santhanam's notes and example)", "strength of the occupying benefic and its aspects and associations (Raman no. 13)", "the yoga present from both lagna and Moon (Raman's example chart 17)"],
+    "weakeners_or_cancellations": ["a malefic also in the 10th voids the yoga's efficacy (Santhanam's notes to BPHS 36.5-6)", "no benefic in the 10th: no Amala (Raman no. 13)"],
+    "lagna_or_context_notes": "Santhanam: house positions for this yoga should be reckoned by the bhava chart, while the dignity of the planet depends on its sign. Raman: a malefic in the 10th also gives wealth in its dasa, but not fame or character, and the means may be questionable.",
+    "source_views": [
+      {"source": "BPHS 36.5-6 (tr. R. Santhanam, vol. 1) with notes", "view": "Exclusively a benefic in the 10th from the lagna or the Moon: fame lasting as long as the Moon and stars, honoured by the king, abundant pleasures, charitable, fond of relatives, helpful, pious and virtuous. Notes: a malefic joining the 10th makes the yoga void; the sage does not promise wealth; reckon by bhava chart.", "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"},
+      {"source": "Phaladeepika 6.12, 6.19-20 (tr. V. Subrahmanya Sastri)", "view": "Benefics in the 10th from the lagna or the Moon. Virtuous, pious, kind, fortunate, amiable, revered by the ruler, gentle, wealthy; rules the earth, has sons, famous, prosperous and prudent.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 7.118-120 (tr. V. Subrahmanya Sastri)", "view": "A benefic in the 10th from the Moon or lagna: fame unclouded and lasting as long as Moon and stars, unfailing prosperity till the end of life, revered by the sovereign, great enjoyments, liberal, kind to relatives, benevolent.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Raman, Three Hundred Important Combinations no. 13", "view": "A benefic in the 10th from the Moon or lagna: lasting fame, spotless character, prosperity. Strength of the benefic and its aspects/associations matter. A malefic in the 10th still gives wealth in its dasa but not fame or character, and the means may be questionable; Amala makes one scrupulous about means.", "url": "https://archive.org/details/ThreeHundredImportantCombinationsInVedicAstrology"},
+      {"source": "P.V.R. Narasimha Rao 11.6 (Other Popular Yogas)", "view": "Only natural benefics in the 10th from the lagna or the Moon: everlasting fame, respected by kings, luxuries, virtuous, helps others; pure conduct in society.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"}
+    ],
+    "disagreements": "Exclusivity: BPHS (as read by Santhanam) and P.V.R. Narasimha Rao require only benefics in the 10th, so a malefic there voids it; Phaladeepika, Jataka Parijata and Raman just require a benefic present. Wealth: Phaladeepika and Jataka Parijata promise it; Santhanam stresses that BPHS does not. Bhava chart versus sign-based houses: Santhanam prefers the bhava chart.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a sign of good reputation and ethical conduct in public life. Do not promise permanent fame; mention that a malefic sharing the 10th weakens it.",
+    "definitions": [
+      {"source": "BPHS 36.5", "definition": "Exclusively a benefic in the 10th from the lagna or the Moon (no malefic sharing the house, per Santhanam's notes)."},
+      {"source": "Phaladeepika 6.19", "definition": "Benefics occupying the 10th house from the lagna or the Moon."},
+      {"source": "Jataka Parijata 7.119", "definition": "The 10th bhava from the rising sign or the Moon occupied by a benefic."},
+      {"source": "Raman no. 13", "definition": "The 10th from the Moon or lagna occupied by a benefic planet."},
+      {"source": "P.V.R. Narasimha Rao 11.6", "definition": "Only natural benefics in the 10th from the lagna or the Moon."}
+    ],
+    "cancellations": [
+      {"condition": "A malefic joining the benefic in the 10th: the yoga's efficacy is void.", "source": "Santhanam's notes to BPHS 36.5-6"},
+      {"condition": "No benefic in the 10th: Amala is not caused (a malefic there gives wealth without fame or clean means).", "source": "Raman no. 13"}
+    ],
+    "rarity_and_weight": "Two reference points make the basic form fairly easy to meet; sources give no frequency figure. Santhanam: a pure Amala yoga gives name and fame for decades. Raman weighs it by the strength of the benefic.",
+    "timing": "Santhanam's example: results (a business start) came in the sub-period of the benefic forming it (Mercury in Venus dasa). Raman: any planet in the 10th from lagna or Moon gives wealth in its dasa.",
+    "remedies": [],
+    "conditional_results": [
+      {"when": "manual: the 10th from the lagna or Moon holds only benefics, unaspected by malefics", "polarity": "good", "effects": ["lasting good name, honour, prosperity through fair means"], "source": "BPHS 36.5-6 with Santhanam's notes; Raman no. 13"},
+      {"when": "manual: a malefic also in the 10th", "polarity": "mixed", "effects": ["yoga void; wealth possible without fame or by questionable means"], "source": "Santhanam's notes; Raman no. 13"}
+    ]
+  }
+]

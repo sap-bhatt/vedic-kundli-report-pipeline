@@ -1,0 +1,598 @@
+[
+  {
+    "id": "lord_in_house/12/1",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 1},
+    "summary": "The lord of expenditure on the lagna: classical and modern sources see high spending and a thin constitution or resources, while Braha, Raman and Frawley also see an ascetic, spiritual or travelling disposition.",
+    "themes": ["spending", "introspection", "foreign links", "low vitality (traditional)", "spirituality"],
+    "common_outcomes": [
+      "extravagant; lacks wealth and learning (BPHS 24.133)",
+      "a weak constitution, yet handsome and sweet-tongued (Raman HTJH)",
+      "constant travelling if the lagna is a common sign (Raman HTJH)",
+      "an ascetic or spiritual nature; travel for spiritual purposes (Braha)",
+      "Rath: loss of health is shown (Crux 15.10); a traditional line, never a medical claim"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.133 speaks of physical weakness and phlegm-related trouble; do not use as a health prediction",
+      "BPHS 23.14: with the lagna lord in the 12th and the 12th lord in the lagna joined with Venus, expenditure on dharmic matters",
+      "exchange of the lagna and 12th lords: miserly and disliked (Raman HTJH); contrast BPHS 23.14",
+      "the placement can also indicate living abroad or confinement (Raman HTJH); traditional",
+      "Frawley (Example Charts: Paramahansa Yogananda, Gemini lagna): the Moon as 12th lord in the 1st shows a capacity for noble self-negation"
+    ],
+    "by_area": {
+      "personality": "Feeble-minded yet handsome and sweet-tongued (Raman HTJH); ascetic or spiritual (Braha); noble self-negation (Frawley, Yogananda chart).",
+      "career": "",
+      "finance": "Extravagant and lacking wealth (BPHS 24.133); in the 12th lord's period with the lagna lord, wealth lost through short-sighted schemes (Raman HTJH, periods).",
+      "health": "Physical weakness is a traditional line (BPHS 24.133; Raman HTJH; Braha; Rath Crux 15.10); never use as a medical prediction.",
+      "relationships": "Bad for married life, as the 12th lord aspects the 7th (Braha).",
+      "family": "",
+      "spirituality": "Ascetic or spiritual nature; travel for spiritual purposes (Braha)."
+    },
+    "strengtheners": [
+      "12th lord with benefics, in own sign or exalted (BPHS 23.1 lists these as the good condition of the 12th lord)",
+      "a benefic 12th lord reduces the evil (Raman HTJH, periods)",
+      "exchange with the lagna lord plus Venus turns spending towards dharma (BPHS 23.14)"
+    ],
+    "weakeners_or_cancellations": [
+      "exchange with the lagna lord without Venus: miserliness (Raman HTJH)",
+      "malefic, debilitated or combust company of the 12th lord: questionable spending (Raman HTJH, general combinations)"
+    ],
+    "lagna_or_context_notes": "For Aquarius lagna Saturn owns both the 1st and 12th and is in its own sign here; Frawley (pp. 159-160) says the lagna lord is always generally auspicious and a 12th lordship mainly gives the other house's results, so the lagna role dominates.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.133", "view": "Extravagant, physically weak, phlegm-related trouble, lacks wealth and learning.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 23.1, 23.14", "view": "12th lord with benefics, own sign or exaltation is favourable; lagna lord in the 12th and 12th lord in the lagna with Venus: spending on dharma.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-23"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "Weak constitution and feeble-minded, yet handsome and sweet-tongued; travels if in a common sign; with the 6th lord, long life unless the 8th is afflicted; can show confinement and living abroad; a lagna-12th exchange makes one miserly and disliked.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "12th lord in the lagna with the lagna lord: in its period, loss of affection, dull intellect, miserliness and loss of wealth through short-sighted schemes; a benefic 12th lord reduces the evil.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "Poor health and appearance, little confidence, an unhappy start; an ascetic or spiritual nature, travel for spiritual purposes; bad for married life as the 12th lord aspects the 7th.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Paramahansa Yogananda", "view": "The Moon in the 1st as lord of the 12th house of loss and negation shows a capacity for noble self-negation.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 15.10 (the twelfth lord)", "view": "The 12th lord causes losses and grief to the house it occupies (in the 1st, loss of health; in the 2nd, loss of wealth). In a dusthana, especially with a dusthana lord or natural malefic, it causes Vipareeta Raja yoga; joined with a natural benefic or yogakaraka it gives Raja yoga in its period if linked to the 10th in the dasamsa.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', 'Dual House Rulership', pp. 159-160", "view": "The 12th lordship mainly gives the effect of the other house the planet rules (Venus as 5th+12th lord for Gemini is very auspicious); its negative effect shows most when the other house is also malefic (Saturn as 11th+12th lord for Pisces is very inauspicious). The lagna lord is always generally auspicious despite a second malefic lordship.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS, Raman, Braha and Rath are negative on body and resources; Braha, Raman and Frawley's Yogananda example add a spiritual or ascetic side. Raman reads a lagna-12th exchange as miserly, while BPHS 23.14 with Venus turns it to dharmic spending.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a reflective, generous nature and a need to manage spending. Never mention bodily weakness or illness as a prediction."
+  },
+  {
+    "id": "lord_in_house/12/2",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 2},
+    "summary": "The lord of expenditure in the house of wealth and speech: BPHS says spending goes to auspicious acts and the person is sweet-spoken and virtuous, while Raman, Braha and Rath predict financial losses unless the 12th lord is a dignified benefic.",
+    "themes": ["spending on good causes", "pleasant speech", "family expenses", "wealth outflow"],
+    "common_outcomes": [
+      "spends on auspicious acts; righteous, pleasant speech, good qualities (BPHS 24.134)",
+      "financial losses and possible debts (Raman HTJH; Braha; Rath Crux 15.10)",
+      "irregular meals and weak eyesight (Raman HTJH; Braha); traditional lines",
+      "family life lacking harmony (Raman HTJH; Braha)"
+    ],
+    "rare_outcomes": [
+      "a benefic 12th lord in dignity greatly reduces the evil and gives financial stability and tactful speech (Raman HTJH)",
+      "the 2nd lord in the 12th with the 12th lord in the 2nd (exchange) is a yoga for poverty (Frawley p. 179)",
+      "with the 2nd lord here: family bickering in the 12th lord's period, much reduced if the lord is favourably disposed (Raman HTJH, periods)"
+    ],
+    "by_area": {
+      "personality": "Gentle-spoken and good-natured (BPHS 24.134); tactful if the lord is a dignified benefic, given to gossip if ill-disposed (Raman HTJH).",
+      "career": "",
+      "finance": "BPHS gives spending on auspicious acts; Raman, Braha and Rath give losses and debts.",
+      "health": "",
+      "relationships": "",
+      "family": "Lack of family harmony (Raman HTJH; Braha).",
+      "spirituality": "Religious giving (BPHS 24.134)."
+    },
+    "strengtheners": [
+      "a benefic 12th lord in dignity (Raman HTJH); benefic association, own sign or exaltation (BPHS 23.1)",
+      "12th lord in benefic vargas: spending on approved objects (JP 15.75)"
+    ],
+    "weakeners_or_cancellations": [
+      "exchange with the 2nd lord: a poverty yoga (Frawley p. 179)",
+      "an ill-disposed 12th lord: gossip and quarrelling (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "For Gemini lagna Venus (5th+12th) is here in Cancer; Frawley (p. 159) calls Venus for Gemini very auspicious, giving mainly 5th-house results. For Cancer lagna Mercury (3rd+12th) is here in Leo. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.134", "view": "Spends on auspicious acts, righteous, pleasant speech, good qualities.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "Financial losses, debts, irregular meals, poor eyesight, family discord; a benefic 12th lord in dignity greatly reduces this and gives financial stability and tactful speech; ill-disposed, gossip and quarrels.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "With the 2nd lord: domestic bickering, poor food, ill temper in the 12th lord's period; much reduced if the 12th lord is favourably disposed.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "Poor, financial losses, unhappy family life, foul language, poor right-eye vision, bad food, a poor speaker.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'Planetary Aspects and Combinations', p. 179", "view": "If the 2nd lord is in the 12th and the 12th lord in the 2nd, this is a yoga for poverty.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 15.10 (the twelfth lord)", "view": "The 12th lord causes losses and grief to the house it occupies (in the 1st, loss of health; in the 2nd, loss of wealth). In a dusthana, especially with a dusthana lord or natural malefic, it causes Vipareeta Raja yoga; joined with a natural benefic or yogakaraka it gives Raja yoga in its period if linked to the 10th in the dasamsa.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XV.75", "view": "If the 12th lord occupies benefic vargas, all outlay is on approved, legitimate objects; with or aspected by a weak planet, the outlay is questionable.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', 'Dual House Rulership', pp. 159-160", "view": "The 12th lordship mainly gives the effect of the other house the planet rules (Venus as 5th+12th lord for Gemini is very auspicious); its negative effect shows most when the other house is also malefic (Saturn as 11th+12th lord for Pisces is very inauspicious). The lagna lord is always generally auspicious despite a second malefic lordship.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "Sharp: BPHS 24.134 is favourable in character and channels spending to good acts, while Raman, Braha and Rath predict financial losses. Raman partly reconciles them: a dignified benefic 12th lord gives financial stability.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of kindness in speech and generous giving; suggest mindful saving."
+  },
+  {
+    "id": "lord_in_house/12/3",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 3},
+    "summary": "The lord of loss in the house of siblings and effort: BPHS says sibling happiness is limited and the person may be at odds with others and focused on self-care.",
+    "themes": ["sibling distance", "self-focus", "timidity", "intuition"],
+    "common_outcomes": [
+      "lacks sibling happiness, hostile to others, attentive to own body (BPHS 24.135)",
+      "timid and quiet; spends on younger siblings (Raman HTJH)",
+      "little success as a writer; a commonplace job (Raman HTJH); no literary ability (Braha)",
+      "strong intuition (Braha)"
+    ],
+    "rare_outcomes": [
+      "with the 2nd lord here and Jupiter or the 9th lord aspecting: more than one marriage (Raman HTJH)",
+      "with the 3rd lord: mounting expenditure and many journeys in the period; joined instead with the 6th and 8th lords, good food, riches and luxuries (Raman HTJH, periods)",
+      "malefic affliction: ear trouble (Raman HTJH; Braha); a traditional line only"
+    ],
+    "by_area": {
+      "personality": "Timid and quiet (Raman HTJH); hostile to others (BPHS 24.135); intuitive (Braha).",
+      "career": "Commonplace work; unsuccessful as a writer (Raman HTJH).",
+      "finance": "Spending on younger siblings (Raman HTJH).",
+      "health": "",
+      "relationships": "",
+      "family": "Lacks sibling happiness (BPHS 24.135; Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic association, own sign or exaltation (BPHS 23.1)",
+      "the 12th lord in the 6th, 8th or 12th from the navamsa lagna, or aspected by benefics, reverses the bad results (Raman HTJH, periods)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "For Capricorn lagna Jupiter owns the 3rd and 12th and is in Pisces, own sign, here.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.135", "view": "Lacks sibling happiness, hostile to others, attentive to own body.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "Timid and quiet, loss of a brother, shabbily dressed, ear trouble if afflicted, spends on younger brothers, an unsuccessful writer in a commonplace job; with the 2nd lord here and Jupiter or the 9th lord aspecting, more than one wife.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "With the 3rd lord: brothers face hardship and expenses mount; contrary results if in the 6th/8th/12th navamsa or aspected by benefics; many journeys; combined with the 6th and 8th lords, riches and luxuries.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "No happiness from siblings, unfulfilled desires, no literary or artistic talent, fearful, unsuccessful efforts; yet strong intuition. Rule list: the 12th lord in the 3rd gives enormous intuition.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS, Raman and Braha agree on little sibling happiness and weak efforts; Braha alone adds strong intuition.",
+    "confidence": "medium",
+    "phrasing_guidance": "Mention possible distance from siblings without implying conflict is fated. Encourage communication."
+  },
+  {
+    "id": "lord_in_house/12/4",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 4},
+    "summary": "The lord of loss in the house of home and mother: BPHS, Raman and Braha see little happiness from the mother and losses around land, vehicles and houses; Raman adds living abroad and Braha a strong spiritual pull.",
+    "themes": ["home expenses", "mother", "property loss", "settling abroad", "inner peace"],
+    "common_outcomes": [
+      "little happiness from the mother; daily losses concerning land, vehicles and houses (BPHS 24.136)",
+      "mental restlessness, enmity of relatives and living abroad (Raman HTJH)",
+      "an ordinary residence and trouble from landlords (Raman HTJH); few fixed assets, car problems (Braha)",
+      "a strong spiritual nature: a moksha lord in a moksha house (Braha)"
+    ],
+    "rare_outcomes": [
+      "a well-placed 12th lord mitigates much of this (Raman HTJH)",
+      "rents out part of the home or buys houses to rent (Braha)",
+      "many career changes, as the 12th lord aspects the 10th (Braha)",
+      "with the 4th lord and benefics: substantial property and growing interest in spiritual literature (Raman HTJH, periods)"
+    ],
+    "by_area": {
+      "personality": "Mentally restless and worried (Raman HTJH).",
+      "career": "Many career changes (Braha).",
+      "finance": "Losses on land, vehicles and houses (BPHS 24.136; Braha).",
+      "health": "",
+      "relationships": "",
+      "family": "Little happiness from the mother (BPHS 24.136; Braha); enmity of relatives (Raman HTJH).",
+      "spirituality": "Desire for liberation (Braha)."
+    },
+    "strengtheners": [
+      "benefic association, own sign or exaltation (BPHS 23.1); a well-placed 12th lord (Raman HTJH)",
+      "a strong Venus: own conveyance, though it gives trouble (Raman HTJH)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction of the 12th lord: trouble over property (Raman HTJH, periods)"
+    ],
+    "lagna_or_context_notes": "Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.136", "view": "Little happiness from the mother; daily losses concerning land, vehicles and houses.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "Early loss of the mother (traditional), mental restlessness, enmity of relatives, living abroad, an ordinary house and trouble with landlords; well placed, these are largely mitigated; a strong Venus gives an often troublesome conveyance.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "With the 4th lord: benefics give substantial property and interest in spiritual literature; malefics bring trouble over property and a crisis for the mother.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "A moksha lord in a moksha house: strong spiritual nature; little happiness from the mother, few comforts and assets, car problems, rents out houses; career changes as the 12th lord aspects the 10th.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS, Raman and Braha agree on losses and distance from the mother; Raman adds living abroad and Braha a spiritual pull.",
+    "confidence": "medium",
+    "phrasing_guidance": "Suggest home life may involve moves or distance from the birthplace and that property needs careful handling. No claims about the mother's health."
+  },
+  {
+    "id": "lord_in_house/12/5",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 5},
+    "summary": "The lord of expenditure in the house of children and learning: BPHS speaks of setbacks in education and children-related matters, spending on children and a pull towards pilgrimage.",
+    "themes": ["spending on children", "education interruptions", "pilgrimage", "mental unrest"],
+    "common_outcomes": [
+      "losses regarding children and education; expenses for children; pilgrimage (BPHS 24.137)",
+      "difficulty having children or unhappiness from them (Raman HTJH; Braha); traditional, never predict",
+      "religious-minded; undertakes pilgrimages (Raman HTJH)",
+      "mental unrest, losses from investments, trouble with exams (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.137 includes loss of children; never use as a prediction",
+      "BPHS 23.2: the Moon as 12th lord in the 5th, 9th or 11th is singled out (result implied; Leo lagna case)",
+      "crops fail if one takes up agriculture (Raman HTJH)",
+      "an ascetic or spiritual child (Braha)"
+    ],
+    "by_area": {
+      "personality": "Religious-minded (Raman HTJH).",
+      "career": "",
+      "finance": "Losses from investments (Braha).",
+      "health": "",
+      "relationships": "Unhappy love affairs (Braha).",
+      "family": "Spending on children (BPHS 24.137).",
+      "spirituality": "Pilgrimage (BPHS 24.137; Raman HTJH)."
+    },
+    "strengtheners": [
+      "benefic association, own sign or exaltation (BPHS 23.1)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefics afflicting the 12th lord: trouble on account of children (Raman HTJH, periods)"
+    ],
+    "lagna_or_context_notes": "For Gemini lagna Venus (5th+12th) and Sagittarius lagna Mars (5th+12th) are in their own signs here. Frawley (p. 159) calls Venus for Gemini very auspicious, giving mainly 5th-house results, and his mulatrikona rule points the same way for Mars (Aries, the 5th) for Sagittarius.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.137", "view": "Loss regarding children and education, expenses for the son, inclination to pilgrimage.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 23.2", "view": "Moon as 12th lord in the 9th, 11th or 5th is singled out for a result.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-23"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "Difficulty begetting children or unhappiness from them; religious-minded, undertakes pilgrimages; weak-minded at times; crops fail in agriculture.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "With the 5th lord: progeny in the period but mental strain and loss of friends; malefics bring trouble on account of children.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "Few children or little happiness from them, an ascetic or spiritual child, no peace of mind, losses from investments, trouble with exams, unhappy love affairs.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', 'Dual House Rulership', pp. 159-160", "view": "The 12th lordship mainly gives the effect of the other house the planet rules (Venus as 5th+12th lord for Gemini is very auspicious); its negative effect shows most when the other house is also malefic (Saturn as 11th+12th lord for Pisces is very inauspicious). The lagna lord is always generally auspicious despite a second malefic lordship.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "None on the core; BPHS, Raman and Braha are negative on children and peace of mind, with pilgrimage as the shared positive.",
+    "confidence": "medium",
+    "phrasing_guidance": "Talk about investment in children and education and a spiritual bent. Never predict loss of children or fertility problems."
+  },
+  {
+    "id": "lord_in_house/12/6",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 6},
+    "summary": "A dusthana lord in another dusthana: Vimala yoga in Phaladeepika and a Viparita Raja yoga in Uttara Kalamrita and Rath, with Raman giving happiness and victory over enemies, while BPHS 24.138 gives harsh character lines and Braha is mixed.",
+    "themes": ["Vimala yoga", "viparita raja yoga", "victory over enemies", "frugality", "service"],
+    "common_outcomes": [
+      "Vimala yoga: spends little, saves much, kind, happy, independent, respectable (Phaladeepika 6.69)",
+      "happy, prosperous, healthy; vanquishes enemies (Raman HTJH); defeats enemies and competitors, debts and expenses decrease (Braha)",
+      "litigation that ends in one's favour (Raman HTJH)",
+      "good for moksha, as the 12th lord aspects its own house (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.138: conflict with kin, anger, unhappiness and attraction to others' spouses; traditional view, conflicts with Phaladeepika",
+      "Phaladeepika 6.32-33: an exchange of the 6th and 12th lords forms a Dainya yoga, which is unfavourable; differs from simple placement",
+      "Uttara Kalamrita 4.22: with the 6th and 8th lords also in dusthanas and connected only among themselves, a renowned and wealthy person of great power",
+      "with the 6th lord: a joyous period, fortune, wealth and a noble spouse (Raman HTJH, periods)",
+      "malefics afflicting the 12th lord: unscrupulous and ill-tempered (Raman HTJH); traditional"
+    ],
+    "by_area": {
+      "personality": "Independent, frugal, kind (Phaladeepika 6.69).",
+      "career": "Respectable occupation (Phaladeepika 6.69); Braha instead gives bad jobs and problems with subordinates.",
+      "finance": "Spends little, saves much (Phaladeepika 6.69); prosperous (Raman HTJH); debts and expenses decrease (Braha).",
+      "health": "",
+      "relationships": "BPHS warns of friction with relatives.",
+      "family": "",
+      "spirituality": "Good for moksha (Braha)."
+    },
+    "strengtheners": [
+      "the 6th and 8th lords also in dusthanas and connected (Uttara Kalamrita 4.22); with a dusthana lord or natural malefic, Vipareeta Raja yoga (Rath Crux 15.10)",
+      "joined with the 6th lord (Raman HTJH, periods); related to a well-placed 6th lord: fortunate (Raman HTJH, general combinations)",
+      "aaps.space (via summary) ties Vimala to the 12th lord in the 6th or 8th with malefic association"
+    ],
+    "weakeners_or_cancellations": [
+      "exchange with the 6th lord (Dainya yoga, Phaladeepika 6.32-33)",
+      "malefics afflicting the 12th lord (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "For Aries (Jupiter, 9th+12th) the lord goes to Virgo; for Libra (Mercury, 9th+12th) to Pisces, its debilitation sign; for Aquarius Saturn (1st+12th) to Cancer. Frawley (pp. 159-160) says a 12th lordship mainly gives the other house's results, so for these lagnas the 9th or 1st lordship carries the weight. The pure 12th lords are the Moon for Leo and the Sun for Virgo.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.138", "view": "Hostility with kin, anger, unhappiness, sinful tendencies, attraction to others' spouses.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Phaladeepika 6.57, 6.69 (tr. V. Subrahmanya Sastri)", "view": "12th lord in the 6th, 8th or 12th: Vimala yoga; spends little, saves much, kind, happy, independent, respectable occupation, known for good qualities.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "Phaladeepika 6.32-33 (tr. V. Subrahmanya Sastri)", "view": "Exchanges of the 12th lord with the 6th or 8th lords form Dainya yogas with unfavourable results.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "aaps.space, Vimala Yog (via summary of Phaladeepika)", "view": "Vimala forms when the 12th lord is in the 6th or 8th with malefic association; frugal, happy, independent, respectable profession.", "url": "https://aaps.space/docs/raja-yogas/vimala-yog/"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "Happy and prosperous, long-lived, comfortable, healthy and handsome, vanquishes enemies; litigation ends in his favour; afflicted by malefics, unscrupulous and ill-tempered.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "With the 6th lord: the 12th lord's period is full of festivities, fortune, wealth, a noble wife; combined with the 8th lord, political power and fame.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "Unhealthy, bad jobs, problems with subordinates; defeats enemies and competitors; good for moksha as the 12th lord aspects its own house; decreases debts and expenses.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Uttara Kalamrita (Kalidasa; tr. S.S. Sareen) Kanda IV, sloka 22", "view": "If the 8th lord is in the 12th or 6th, the 6th lord in the 8th or 12th, and the 12th lord in the 8th or 6th, and these lords are connected among themselves and free of links with other planets, the native will be a great king, renowned and wealthy.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 15.10 (the twelfth lord)", "view": "The 12th lord causes losses and grief to the house it occupies (in the 1st, loss of health; in the 2nd, loss of wealth). In a dusthana, especially with a dusthana lord or natural malefic, it causes Vipareeta Raja yoga; joined with a natural benefic or yogakaraka it gives Raja yoga in its period if linked to the 10th in the dasamsa.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'General Combinations'", "view": "12th lord in benefic vargas: wealth spent in honourable, approved ways; with a malefic, debilitated or combust planet: spending in questionable ways. Exalted or in a friendly sign: generous; related to a well-placed 6th lord: fortunate.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "Sharp: BPHS 24.138 is harsh, while Phaladeepika's Vimala, Uttara Kalamrita 4.22, Raman and Rath are favourable; Braha is mixed (enemies defeated and debts reduced, but poor health and jobs). Sources also disagree on Vimala's houses (6th/8th only, or 6th/8th/12th).",
+    "confidence": "medium",
+    "phrasing_guidance": "Lead with the Vimala reading (discipline with money, independence, good name). Present BPHS's character lines only as a minority traditional view; never call the person sinful or unfaithful."
+  },
+  {
+    "id": "lord_in_house/12/7",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 7},
+    "summary": "The lord of expenditure in the house of marriage: BPHS, Raman and Braha see constant spouse-related expenses and limited marital happiness, with Raman adding separation, later asceticism, or a spouse living abroad.",
+    "themes": ["spouse expenses", "marital distance", "partnership difficulties", "later asceticism"],
+    "common_outcomes": [
+      "constant expenses through the spouse; little marital happiness (BPHS 24.139; Braha)",
+      "a spouse from a modest family; possible separation (Raman HTJH)",
+      "a turn to asceticism later in life (Raman HTJH); possible ascetic nature (Braha)",
+      "problematic or unsuccessful partnerships (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.139 also mentions lack of strength and learning (traditional)",
+      "with the 7th lord: the wife may live abroad; benefic aspects bring money and a crisis survived (Raman HTJH, periods)",
+      "Rath gives the converse case, the 7th lord in the 12th, as a spouse from a poor family (Crux 15.10)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Problematic partnerships (Braha).",
+      "finance": "Debts and expenses on account of the spouse (BPHS 24.139; Braha).",
+      "health": "",
+      "relationships": "Marriage needs care; separation or a spouse living abroad are traditional themes (Raman HTJH).",
+      "family": "",
+      "spirituality": "Takes to asceticism later (Raman HTJH)."
+    },
+    "strengtheners": [
+      "benefic association, own sign or exaltation (BPHS 23.1)",
+      "benefics aspecting the 12th lord (Raman HTJH, periods)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefics afflicting the 7th and the 12th lord (Raman HTJH, periods)"
+    ],
+    "lagna_or_context_notes": "For Taurus lagna Mars (7th+12th) and Scorpio lagna Venus (7th+12th) sit in their own signs here.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.139", "view": "Constant expenses through the spouse, little marital happiness, lacks strength and learning.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "A wife from a poor family, unhappy marriage possibly ending in separation, later asceticism; weak health; without learning or property.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "With the 7th lord: some danger to the wife, who may live abroad; benefic aspects bring money and the wife surviving a crisis; malefics bring wandering and sorrow.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "Unhappy married life, debts and expenses on account of the spouse, problematic partnerships; the 12th lord aspects the lagna, giving poor health, little fame and possibly an ascetic nature.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 15.10 (the twelfth lord)", "view": "Planets placed in the 12th show losses to the houses they own: e.g. the 7th lord in the 12th gives a spouse from a poor family (the converse of this placement).", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS, Raman and Braha are negative on marriage. Raman alone mentions the spouse living abroad, in the 12th lord's period with the 7th lord.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say partnership needs conscious care and may involve periods of distance. No predictions of divorce, and no statements about the spouse's health."
+  },
+  {
+    "id": "lord_in_house/12/8",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 8},
+    "summary": "A dusthana lord in another dusthana: Vimala yoga in Phaladeepika, a Viparita Raja yoga in Uttara Kalamrita, and unusually favourable in BPHS and Raman too (steady gains, wealth, legacies, pleasant speech); Braha is mixed.",
+    "themes": ["Vimala yoga", "viparita raja yoga", "gains", "research", "transformation"],
+    "common_outcomes": [
+      "steady gains, pleasant speech and good qualities (BPHS 24.140)",
+      "rich and celebrated, a luxurious life; gains through legacies (Raman HTJH)",
+      "interest in the occult; righteous, famous, a gentle speaker (Raman HTJH)",
+      "frugality and independence (Phaladeepika 6.69); a strong spiritual nature (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.140 mentions a medium lifespan; do not use as a longevity claim",
+      "Phaladeepika 6.32-33: exchange of 8th and 12th lords forms a Dainya yoga, unfavourable",
+      "Uttara Kalamrita 4.79: if the 8th and 12th lords are associated or exchanged, the 8th lord gives good results and the 12th lord fortune",
+      "with the 8th lord: luck with some trouble, slow but successful ventures, money and authority in the period (Raman HTJH, periods)",
+      "no benefits from a partner's wealth or insurance (Braha)"
+    ],
+    "by_area": {
+      "personality": "Pleasant-spoken and virtuous (BPHS 24.140; Raman HTJH); independent (Phaladeepika 6.69).",
+      "career": "",
+      "finance": "Steady gains (BPHS 24.140); rich, with legacies (Raman HTJH); no benefit from a partner's wealth or insurance (Braha).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Occult interests and devotion to Vishnu (Raman HTJH); desire for final liberation (Braha)."
+    },
+    "strengtheners": [
+      "the 6th and 8th lords also in dusthanas and connected (Uttara Kalamrita 4.22); with a dusthana lord or natural malefic, Vipareeta Raja yoga (Rath Crux 15.10)",
+      "Vimala condition per aaps.space summary (12th lord in 6th or 8th, malefic association)"
+    ],
+    "weakeners_or_cancellations": [
+      "exchange with the 8th lord (Dainya, Phaladeepika 6.32-33), though Uttara Kalamrita 4.79 reads it favourably",
+      "malefic affliction of the 12th lord (Raman HTJH, general combinations)"
+    ],
+    "lagna_or_context_notes": "For Aquarius lagna Saturn (1st+12th) goes to Virgo; for Capricorn Jupiter (3rd+12th) goes to Leo. Frawley (pp. 159-160): the lagna lordship is always generally auspicious and a 12th lordship mainly gives the other house's results. The pure 12th lords are the Moon for Leo and the Sun for Virgo.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.140", "view": "Steady gains, pleasant speech, medium lifespan, good qualities.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Phaladeepika 6.57, 6.69 (tr. V. Subrahmanya Sastri)", "view": "Vimala yoga: frugal, kind, happy, independent, respectable occupation.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "aaps.space, Vimala Yog (via summary of Phaladeepika)", "view": "12th lord in the 6th or 8th with malefic association forms Vimala.", "url": "https://aaps.space/docs/raja-yogas/vimala-yog/"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "Rich and celebrated, a luxurious life with servants, gains through legacies; interested in the occult, devoted to Vishnu, righteous, famous, gentle-spoken.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "With the 8th lord: luck with some troubles; in the period, happiness and success though slow, celebrations, money and authority.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "A moksha lord in a moksha house: strong spiritual nature, occult interests, desire for liberation; no benefit from a partner's wealth or insurance; said to decrease longevity (traditional).", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Uttara Kalamrita (Kalidasa; tr. S.S. Sareen) Kanda IV, sloka 79", "view": "If the lords of the 8th and 12th are associated or occupy each other's houses, the 8th lord gives good results and the 12th lord augurs fortune.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "Uttara Kalamrita (Kalidasa; tr. S.S. Sareen) Kanda IV, sloka 22", "view": "If the 8th lord is in the 12th or 6th, the 6th lord in the 8th or 12th, and the 12th lord in the 8th or 6th, and these lords are connected among themselves and free of links with other planets, the native will be a great king, renowned and wealthy.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 15.10 (the twelfth lord)", "view": "The 12th lord causes losses and grief to the house it occupies (in the 1st, loss of health; in the 2nd, loss of wealth). In a dusthana, especially with a dusthana lord or natural malefic, it causes Vipareeta Raja yoga; joined with a natural benefic or yogakaraka it gives Raja yoga in its period if linked to the 10th in the dasamsa.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS, Phaladeepika, Uttara Kalamrita and Raman agree it is favourable; Braha is mixed. On an 8th-12th exchange, Phaladeepika 6.32-33 (Dainya, unfavourable) and Uttara Kalamrita 4.79 (favourable) disagree. Vimala's exact formation rule also differs between sources.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a quietly fortunate placement for savings, depth and spiritual growth. Do not mention lifespan."
+  },
+  {
+    "id": "lord_in_house/12/9",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 9},
+    "summary": "The lord of loss in the house of dharma and teachers: BPHS and Braha warn of little faith, friction with teachers and a spoiled house of fortune, while Raman gives residence and prosperity abroad.",
+    "themes": ["foreign residence", "tension with teachers", "faith questioned", "self-interest (traditional)", "father"],
+    "common_outcomes": [
+      "disrespect towards teachers; enmity even with friends; self-interested (BPHS 24.141)",
+      "residence abroad and prosperity; property in foreign lands (Raman HTJH)",
+      "honest, generous and large-hearted (Raman HTJH)",
+      "little happiness from the father; little faith or gain from gurus (Braha)",
+      "comfortable beds and a peaceful afterlife (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 23.2: the Moon as 12th lord (Leo lagna) in the 9th is singled out for a result",
+      "BPHS 20.19: exchange of 9th and 12th lords is among harsh father-related combinations; traditional only",
+      "with the 9th lord: a steady career; benefics aspecting the 9th give piety but modest material prosperity (Raman HTJH, periods)"
+    ],
+    "by_area": {
+      "personality": "Generous and large-hearted (Raman HTJH); disrespect for teachers (BPHS 24.141).",
+      "career": "Prosperity abroad (Raman HTJH).",
+      "finance": "Property in foreign lands (Raman HTJH); debts and expenses on account of the father (Braha).",
+      "health": "",
+      "relationships": "Friction even with friends (BPHS 24.141); Raman adds dislike of spouse, friends and preceptor.",
+      "family": "Little happiness from the father (Raman HTJH; Braha).",
+      "spirituality": "May lack spiritual leanings (Raman HTJH); little faith (Braha)."
+    },
+    "strengtheners": [
+      "benefic association, own sign or exaltation (BPHS 23.1)",
+      "benefics aspecting the 9th: piety and virtue (Raman HTJH, periods)"
+    ],
+    "weakeners_or_cancellations": [
+      "exchange with the 9th lord (BPHS 20.19)",
+      "an afflicted 9th lord: loss of job and luck (Raman HTJH, periods)"
+    ],
+    "lagna_or_context_notes": "For Aries (Jupiter, 9th+12th) and Libra (Mercury, 9th+12th) the lord sits in its own sign here; Frawley (pp. 159-160) says a 12th lordship mainly gives the other house's results, here the 9th.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.141", "view": "Disrespect towards teachers, enmity even with friends, focused on own interests.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 23.2, 20.19", "view": "Moon as 12th lord in the 9th singled out; exchange of 9th and 12th lords among harsh father-related combinations.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-23"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "Residence abroad and prosperity, property in foreign lands; honest, generous and large-hearted but perhaps without spiritual leanings; dislikes spouse, friends and preceptor; a traditional caution for the father.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "With the 9th lord: a steady career; an afflicted 9th lord brings loss of job and luck; benefics aspecting the 9th give piety and virtue with modest prosperity.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "No happiness from the father, debts on his account, no luck or faith, no gains from gurus; fine beds and a peaceful afterlife; a particularly bad position since the house of fortune is spoiled.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', 'Dual House Rulership', pp. 159-160", "view": "The 12th lordship mainly gives the effect of the other house the planet rules (Venus as 5th+12th lord for Gemini is very auspicious); its negative effect shows most when the other house is also malefic (Saturn as 11th+12th lord for Pisces is very inauspicious). The lagna lord is always generally auspicious despite a second malefic lordship.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS, Raman and Braha are negative on teachers, the father and faith (Braha: 'a particularly bad position' since the house of fortune is spoiled); Raman alone gives prosperity and property abroad.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a seeker who may find meaning far from home and think independently. Do not label the person disrespectful; no statements about the father's health or death."
+  },
+  {
+    "id": "lord_in_house/12/10",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 10},
+    "summary": "The lord of expenditure in the career house: BPHS gives expenses through authorities and less happiness from the father; Raman and Braha add hard, institutional or unsettled careers.",
+    "themes": ["demanding work", "institutional work", "career changes", "work-related expenses", "father"],
+    "common_outcomes": [
+      "expenses from government or authorities; little happiness from the father (BPHS 24.142)",
+      "hard work and tedious journeys for the occupation (Raman HTJH)",
+      "work as a jailor, doctor or in cemeteries and similar places (Raman HTJH)",
+      "career problems, merit unnoticed, many career changes (Braha)"
+    ],
+    "rare_outcomes": [
+      "spends on agriculture and profits from it (Raman HTJH)",
+      "little happiness from sons (Raman HTJH)",
+      "with the 10th lord: spending on charity; paternal property may slip away; benefic aspects bring detachment (Raman HTJH, periods)",
+      "the 12th lord aspects the 4th from here: difficulty with degrees and friction with the mother (Braha)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Prisons, hospitals and similar institutions; tedious journeys (Raman HTJH); many career changes (Braha).",
+      "finance": "Expenses through authorities (BPHS 24.142); profits from agriculture (Raman HTJH).",
+      "health": "",
+      "relationships": "",
+      "family": "Father distant (BPHS 24.142); friction with the mother (Braha).",
+      "spirituality": "Benefic aspect gives detachment and spirituality (Raman HTJH, periods)."
+    },
+    "strengtheners": [
+      "benefic association, own sign or exaltation (BPHS 23.1)",
+      "benefics aspecting the 12th lord (Raman HTJH, periods)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction of the 12th lord (Raman HTJH, periods)"
+    ],
+    "lagna_or_context_notes": "Results scale with strength (BPHS 24.145-148). For Pisces lagna Saturn (11th+12th) goes to Sagittarius here; for Aquarius Saturn (1st+12th) goes to Scorpio.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.142", "view": "Expenses arising from government or authorities; little happiness from the father.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "Hard-working, tedious journeys for work; a jailor, doctor or worker in cemeteries and such places; profits from agriculture; little comfort from sons.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "With the 10th lord: spending on charity; paternal property may slip away; benefics bring detachment and spirituality; malefics, propitiation of lower deities (traditional).", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "Career problems, merit unnoticed, many changes, frustration finding one's dharma; the 12th lord aspects the 4th, so degrees are hard and there is friction with the mother.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS, Raman and Braha are all negative on career ease; Raman specifies institutional work such as prisons, hospitals and cemeteries.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe demanding or institutional work, possible career changes and the need to manage work-related costs. No claims about the father's health."
+  },
+  {
+    "id": "lord_in_house/12/11",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 11},
+    "summary": "The lord of loss in the house of gains: BPHS, Raman and Braha see gains offset by losses, few profits and troublesome friends or siblings, with occasional windfalls; Frawley's Rama example reads it as charity.",
+    "themes": ["gains with losses", "money through others", "friends and siblings", "charity"],
+    "common_outcomes": [
+      "losses in gains, though wealth held by others may occasionally come (BPHS 24.143)",
+      "engages in business but makes little profit (Raman HTJH); financial losses, few gains (Braha)",
+      "few friends and many enemies (Raman HTJH); bad friends, expenses on friends (Braha)",
+      "troubled by extravagant brothers (Raman HTJH); difficulties with the eldest sibling (Braha)",
+      "may earn well trading in pearls and precious stones (Raman HTJH)"
+    ],
+    "rare_outcomes": [
+      "Frawley (Example Charts: Lord Rama, Cancer lagna): Mercury as 12th lord in the 11th shows a charitable nature",
+      "with the 11th lord: financial setbacks; benefics make one spend on religion and charity (Raman HTJH, periods)",
+      "the 12th lord aspects the 5th from here: problems with children and investments (Braha)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Business with little profit; trade in gems (Raman HTJH).",
+      "finance": "Mixed: losses with occasional windfalls (BPHS 24.143); few profits (Raman HTJH; Braha).",
+      "health": "",
+      "relationships": "Few or bad friends (Raman HTJH; Braha).",
+      "family": "Extravagant or ailing brothers (Raman HTJH).",
+      "spirituality": "Charitable nature (Frawley, Rama chart); spending on religion with benefic aspect (Raman HTJH, periods)."
+    },
+    "strengtheners": [
+      "benefic association, own sign or exaltation (BPHS 23.1)",
+      "benefics aspecting the 12th lord (Raman HTJH, periods)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction: losses through theft, fire or accident (Raman HTJH, periods)",
+      "Jupiter or the 5th lord afflicting it: wealth dissipated by a child (Raman HTJH, periods)"
+    ],
+    "lagna_or_context_notes": "For Pisces lagna Saturn owns the 11th and 12th and is in Capricorn here; Frawley (p. 159) calls this double lordship very inauspicious for Pisces.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.143", "view": "Losses in gains, though wealth protected by others may occasionally be received.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "In business but little profit, few friends and many enemies, extravagant or invalid brothers drain funds; earns well trading pearls, rubies and other gems.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "With the 11th lord: financial setbacks and trade losses; benefics make one spend on religion and charity; malefics, loss by theft, fire or accident; with Jupiter or the 5th lord afflicting, wealth dissipated by a child.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "Poor relations with the eldest sibling, bad or ascetic friends, expenses on friends, few opportunities, financial losses; the 12th lord aspects the 5th, harming children and investments.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Lord Rama", "view": "Mercury, as lord of the 12th house of loss, located in the 11th house of income, shows a charitable nature.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', 'Dual House Rulership', pp. 159-160", "view": "The 12th lordship mainly gives the effect of the other house the planet rules (Venus as 5th+12th lord for Gemini is very auspicious); its negative effect shows most when the other house is also malefic (Saturn as 11th+12th lord for Pisces is very inauspicious). The lagna lord is always generally auspicious despite a second malefic lordship.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS, Raman and Braha are negative on gains; Frawley's Rama example reads the same placement as charity.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say income may come and go, that spending on friends or siblings needs limits, and that charity is a natural outlet; encourage planning."
+  },
+  {
+    "id": "lord_in_house/12/12",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 12, "placed_in": 12},
+    "summary": "The 12th lord in its own house: BPHS gives heavy spending and an irritable temper, while Raman, Braha and Phaladeepika's general Vimala rule are favourable: spending on religion, few wasteful expenses, comfort and a moksha orientation.",
+    "themes": ["Vimala yoga (disputed)", "expenditure", "moksha", "foreign settlement", "solitude"],
+    "common_outcomes": [
+      "excessive expenditure, poor physical comfort, angry disposition (BPHS 24.144)",
+      "spends on religious and righteous purposes (Raman HTJH)",
+      "good eyesight and bed pleasures (Raman HTJH; Braha)",
+      "dedicated to moksha; few expenses, saves easily; success in foreign lands (Braha)",
+      "Vimala yoga by the general rule (Phaladeepika 6.57, 6.69)"
+    ],
+    "rare_outcomes": [
+      "BPHS 23.10: 12th lord exalted with benefics and Mercury in the 12th points to liberation (moksha)",
+      "BPHS 23.11-12: an afflicted 12th lord gives wandering between countries; a well-placed one with benefics gives travel abroad",
+      "a movable sign holding the Moon or Mercury, with benefic aspects: much travel and residence abroad (Raman HTJH)",
+      "its period brings much wealth and no untoward expenditure; with the lagna well placed, income exceeds expenditure (Raman HTJH, periods)"
+    ],
+    "by_area": {
+      "personality": "Dedicated to moksha (Braha); BPHS mentions an angry temper; restless and roaming if malefics afflict (Raman HTJH).",
+      "career": "Success in foreign lands (Braha).",
+      "finance": "BPHS: heavy expenditure; Braha: few expenses, saves easily; Raman: spending on religious causes and, in its period, wealth without untoward expense.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Moksha orientation (BPHS 23.10; Braha); seeks the company of holy people (Raman HTJH, periods)."
+    },
+    "strengtheners": [
+      "own sign is automatic; exaltation-like strength, benefic association and Mercury in the 12th (BPHS 23.10)",
+      "benefics aspecting the 12th (BPHS 23.12); a benefic 12th lord here gives generally favourable results (Raman HTJH)",
+      "12th lord in benefic vargas: spending on approved objects (JP 15.75)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic conjunction and an afflicted 12th house (BPHS 23.11); malefics afflicting: restless roaming (Raman HTJH)",
+      "papakartari or malefic aspect: may leave the country under pressure (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "For Aquarius lagna Saturn (1st+12th) is in Capricorn; for Pisces Saturn (11th+12th) is in Aquarius; for Aries Jupiter (9th+12th) is in Pisces. Dual lordship shapes the result (BPHS 24.146-147).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.144", "view": "Excessive expenditure, poor physical comfort, angry and hostile disposition.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 23.10-12", "view": "Exalted 12th lord with benefics and Mercury in the 12th: moksha; afflicted lord: wandering country to country; well placed with benefics: travel abroad.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-23"},
+      {"source": "Phaladeepika 6.57, 6.69 (tr. V. Subrahmanya Sastri)", "view": "Vimala yoga when the 12th lord is in the 6th, 8th or 12th (the 12th is included by the general rule in 6.57).", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "aaps.space, Vimala Yog (via summary of Phaladeepika)", "view": "Gives Vimala only for the 6th or 8th, not the 12th.", "url": "https://aaps.space/docs/raja-yogas/vimala-yog/"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Results of the Lord of the Twelfth House being Posited in Different Houses'", "view": "Spends on religious and righteous purposes, good eyesight, pleasures of the couch; afflicted, restless roaming. A benefic 12th lord here gives generally favourable results; a movable sign with the Moon or Mercury and benefic aspects gives travel and residence abroad.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'Time of Fructification' (12th-lord periods with the lord of the house occupied)", "view": "The 12th lord's period brings much wealth and no untoward expenditure; with a well-placed lagna, income exceeds expenditure; religious, feeds holy men.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '12th House' chapter, 'The ruler of the 12th house placed in the' houses", "view": "Own house: an excellent position for the spiritual seeker, dedicated to moksha; few expenses, saves easily; good bed pleasures; success in foreign lands.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XIV.53", "view": "If the 12th lord is in its own sign and strong, the person lives long in comfort.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XVI 'General Combinations'", "view": "12th lord in benefic vargas: wealth spent in honourable, approved ways; with a malefic, debilitated or combust planet: spending in questionable ways. Exalted or in a friendly sign: generous; related to a well-placed 6th lord: fortunate.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XV.75", "view": "If the 12th lord occupies benefic vargas, all outlay is on approved, legitimate objects; with or aspected by a weak planet, the outlay is questionable.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 15.10 (the twelfth lord)", "view": "The 12th lord causes losses and grief to the house it occupies (in the 1st, loss of health; in the 2nd, loss of wealth). In a dusthana, especially with a dusthana lord or natural malefic, it causes Vipareeta Raja yoga; joined with a natural benefic or yogakaraka it gives Raja yoga in its period if linked to the 10th in the dasamsa.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.30", "view": "Note the bhava occupied by the 12th lord and the bhava owned by any planet in the 12th: loss of things connected with those bhavas should be predicted.", "url": "https://www.siva.sh/phaladeepika/16/26-30"}
+    ],
+    "disagreements": "BPHS 24.144 is negative, while Raman, Braha and Vimala readings are positive. Sources disagree whether Vimala includes the 12th: Phaladeepika's general rule (6.57) covers 6/8/12, but the aaps.space summary and Uttara Kalamrita 4.22 name only the 6th and 8th.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a placement of inner life, foreign connections and spending on meaningful things. Mention both traditional views. Avoid describing the person as hostile; no health claims."
+  }
+]

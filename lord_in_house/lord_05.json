@@ -1,0 +1,1219 @@
+[
+  {
+    "id": "lord_in_house/5/1",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 1
+    },
+    "summary": "The lord of intelligence, children and past merit joins the self, so learning and children become part of the person's identity. Modern authors read it as one of the better placements; BPHS adds a self-interested, calculating streak, and Raman splits the result sharply by the lord's condition.",
+    "themes": [
+      "intelligence",
+      "children",
+      "self-expression",
+      "past merit (purva punya)",
+      "self-interest"
+    ],
+    "common_outcomes": [
+      "Intelligent, learned and kind-hearted (BPHS 24.49; Rath; Braha)",
+      "Happiness through children (BPHS 24.49; Braha), though Raman says few children even when well placed",
+      "Respect and authority: Raman names judge, magistrate or minister when the lord is well associated"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.49 (both translations read) adds miserliness, a crooked mind and taking others' wealth (traditional view)",
+      "Raman: when afflicted, no issue, an evil-minded or deceitful streak and invoking lower spirits; when moderately placed, mixed results",
+      "Raman's 5th-house combinations: if the 5th lord occupies or aspects the lagna and the lagna lord is similarly linked to the 5th, an obedient child; the 5th lord in the 1st, 2nd or 3rd is listed for a male first child",
+      "Rath: knowledge of politics. Braha: learned in scriptures and mantras; destined to continue the path of a past life"
+    ],
+    "by_area": {
+      "personality": "Intelligent, kind-hearted and knowledgeable (Rath; Braha). BPHS 24.49 also warns of a miserly, calculating side.",
+      "career": "Raman: may become a judge, magistrate or minister and command servants when well placed. Rath: good knowledge of politics.",
+      "finance": "Braha: wealthy. BPHS 24.49's line about taking others' wealth is a traditional caution.",
+      "health": "",
+      "relationships": "Braha: pleasurable love affairs; happy childhood.",
+      "family": "Happiness from children (BPHS 24.49; Braha); Raman: few children, more so if afflicted.",
+      "spirituality": "Raman: earns the grace of God. Braha: learned in scriptures, mantras and spiritual techniques; charitable."
+    },
+    "strengtheners": [
+      "Raman: the lord 'favourably combined and associated' gives the authority and grace results",
+      "The lagna lord also occupying or aspecting the 5th (Raman's combination for an obedient child)",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)",
+      "Jupiter, the 5th lord and the lagna lord all in kendras or trikonas (Bhavartha Ratnakara 4.20: happiness from children)",
+      "The 5th lord a benefic and aspected by a benefic or placed in a benefic sign (Raman, 300 Combinations no. 231 Buddhimaturya: intelligence and good character)"
+    ],
+    "weakeners_or_cancellations": [
+      "Affliction: Raman lists childlessness and deceitful or harmful conduct for an afflicted 5th lord here",
+      "The 5th lord debilitated, in an enemy sign, combust, or joined by the 6th, 8th or 12th lords (Phaladeepika 12.9: loss or grief concerning children)",
+      "Raman stresses that each placement's good results reverse when the 5th lord is afflicted and that the list must be modified by associations and aspects (How to Judge a Horoscope p. 114)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman. The lagna is both a kendra and a trikona (BPHS 34.2-7), so a trikona lord here is a classic auspicious link.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.49",
+        "view": "Fifth lord in the lagna: the native is learned and has happiness from children, but may be miserly, crooked-minded and inclined to take others' wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-49"
+      },
+      {
+        "source": "Phaladeepika 6.28 (tr. V. Subrahmanya Sastri)",
+        "view": "Virinchi yoga needs Jupiter, the 5th lord and Saturn together in kendras or trikonas in exaltation, own or friendly signs (learning, spiritual eminence); the 5th lord in the lagna fulfils its own part of the condition only.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.49 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Scholarly, happy through children, but a miser, crooked, and one who takes others' wealth (same sense as the other translation).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Well associated: commands servants, becomes a judge, magistrate or minister, earns divine grace, few children, has foes, gives happiness to others. Afflicted: no issue, evil-minded, deceitful company, a stinging tale-bearer. Moderate: mixed.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Important Combinations' (p. 114)",
+        "view": "If the 5th lord occupies or aspects the lagna and the lagna lord is similarly linked to the 5th, the child is obedient; the 5th lord in the 1st, 2nd or 3rd gives a male first child.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "A dharma lord in a dharma house gives a powerful destiny: respected, intelligent, wealthy, kind, happiness from children, religious, good education, learned in scriptures and mantras, happy childhood.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. VIII 8.3 (p. 98) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "Fifth lord in the ascendant: very intelligent, kind-hearted and knowledgeable, with knowledge of politics; effects of the 5th lord in any house depend on its natural nature, the houses it aspects and its argala.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "BPHS 24.49 mixes praise with moral criticism (miser, crooked, takes others' wealth). Braha and Rath give only positive traits. Raman resolves it by condition: the authority and grace results when well associated, the deceitful results when afflicted. Raman also says 'few children' where BPHS and Braha give happiness from children.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with intelligence, kindness and closeness to children. Present the 'miserly or calculating' line only as a traditional caution about self-interest, never as a character verdict."
+  },
+  {
+    "id": "lord_in_house/5/2",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 2
+    },
+    "summary": "The lord of intelligence and children in the house of wealth, speech and family links learning to earning. BPHS, Raman and Braha agree on wealth, learning and family support; Raman adds that a weak, afflicted lord reverses this.",
+    "themes": [
+      "wealth through intelligence",
+      "family",
+      "speech",
+      "children",
+      "reputation"
+    ],
+    "common_outcomes": [
+      "Wealth and supporting the family (BPHS 24.50; Braha)",
+      "Learned, a good speaker; Raman and Braha both name astrology, and Braha mathematics and teaching",
+      "Children who add to family standing (BPHS 24.50; Raman: well-behaved children)"
+    ],
+    "rare_outcomes": [
+      "Raman: gains from government; a beautiful spouse",
+      "Braha: income through temples or teaching religious techniques; enjoys good food",
+      "Rath: love of money and a good voice, possibly a singer; if the 5th lord is a natural malefic it can be adverse for wealth",
+      "Raman, when weak and afflicted: poverty, loss through government displeasure, family misunderstandings, becoming a temple priest"
+    ],
+    "by_area": {
+      "personality": "Learned and articulate (BPHS 24.50; Braha: great intelligence, good imagination).",
+      "career": "Braha: education, astrology or mathematics; Raman: learned, a good astrologer, gains from government.",
+      "finance": "Wealth (BPHS 24.50; Braha; Rath: good finances). Raman: poverty and loss through government displeasure if weak and afflicted.",
+      "health": "",
+      "relationships": "BPHS 24.50: attached to the spouse (Sharma) or fond of women (other translation); Raman: a beautiful spouse.",
+      "family": "Supports and heads the family, honoured (BPHS 24.50); happy, large or prosperous family (Braha).",
+      "spirituality": "Braha: may earn through temples or by teaching religious techniques."
+    },
+    "strengtheners": [
+      "Raman: the lord 'favourably disposed' gives spouse, children, government gains and learning",
+      "A strong 2nd lord joining the 5th lord or Jupiter, with the lagna lord in vaiseshikamsa (Raman, 300 Combinations no. 139 Putramooladdhana: wealth through children)",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)",
+      "The 5th lord a benefic and aspected by a benefic or placed in a benefic sign (Raman, 300 Combinations no. 231 Buddhimaturya: intelligence and good character)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: weak and afflicted gives poverty, government displeasure and family troubles",
+      "Rath: a natural malefic as 5th lord can be adverse for wealth, and its argala on the 4th can bring sorrow",
+      "The 5th lord debilitated, in an enemy sign, combust, or joined by the 6th, 8th or 12th lords (Phaladeepika 12.9: loss or grief concerning children)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman. Mercury (2+5) for Taurus and Jupiter (2+5) for Scorpio are in their own other sign here; Raman's Putramooladdhana yoga (2nd and 5th lords joined) is then automatically linked.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.50",
+        "view": "Fifth lord in the 2nd: many children and wealth, supports the family, honoured, fond of women and well known.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-50"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.50 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Many sons and wealth, a pater familias, honourable, attached to the spouse and famous (this translation reads 'attached to spouse' where the other reads 'fond of women').",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Favourable: a beautiful wife, well-behaved children, gains from the ruler, learned, a good astrologer. Weak and afflicted: poverty, loss through government displeasure, unable to maintain the family, family troubles, becomes a temple priest.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Great intelligence, learned, career in education, good speaker, may be an astrologer or mathematician, happy and prosperous family, wealthy, enjoys good food, may earn through temples or teaching religious techniques.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. VIII 8.3 (p. 98) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "Fifth lord in the 2nd: love for money, good finances, a good voice, possibly a singer; a natural-malefic 5th lord can be adverse for wealth, and its papargala on the 4th can bring sorrow.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 139 Putramooladdhana Yoga (p. 149) (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "A strong 2nd lord joined with the 5th lord or Jupiter, with the lagna lord in vaiseshikamsa: wealth through sons; Raman notes it can also mean the father prospers after a son's birth.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Important Combinations' (p. 114)",
+        "view": "The 5th lord in the 1st, 2nd or 3rd is listed for a male first child.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Translations of BPHS 24.50 differ: 'attached to his spouse' (Sharma) versus 'fond of women' (other translation). Rath warns that a natural-malefic 5th lord can be adverse for wealth here, while BPHS and Braha are unconditionally positive.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as knowledge turning into earnings and family support. Avoid promising a number or sex of children."
+  },
+  {
+    "id": "lord_in_house/5/3",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 3
+    },
+    "summary": "The lord of intelligence and children in the house of siblings and effort. BPHS and Raman read affection for siblings with a stingy, self-interested or tale-bearing streak; Braha reads courage and artistic or literary talent.",
+    "themes": [
+      "siblings",
+      "communication",
+      "effort",
+      "self-interest",
+      "creative skills"
+    ],
+    "common_outcomes": [
+      "Attached to siblings (BPHS 24.51); happiness from siblings (Braha); Raman: good brothers when favourable",
+      "Absorbed in one's own work (BPHS 24.51)",
+      "Talent in music, dance, drama or writing (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.51 and Raman both say stingy and a tale-bearer (traditional view; Raman ties it to an unfavourable lord)",
+      "Raman, unfavourable: concerns for children, misunderstandings with brothers and continuing occupational troubles",
+      "Phaladeepika 12.7 lists the 5th lord in the 3rd, together with a malefic in the lagna, the lagna lord in the 5th and the Moon in an odd sign in the 5th aspected by the Sun, as a combination for difficulty with children"
+    ],
+    "by_area": {
+      "personality": "BPHS 24.51: intent on one's own work, but miserly and a tale-bearer. Braha: brave and adventurous.",
+      "career": "Braha: talent in music, dance, drama and literature. Raman: continuing occupational troubles if unfavourable.",
+      "finance": "",
+      "health": "",
+      "relationships": "Attached to siblings (BPHS 24.51; Braha); misunderstandings with brothers if the lord is unfavourable (Raman).",
+      "family": "Raman: many good children and brothers when favourable; concerns for children when unfavourable.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman: the lord favourably disposed gives many good children and brothers",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)",
+      "The 5th lord a benefic and aspected by a benefic or placed in a benefic sign (Raman, 300 Combinations no. 231 Buddhimaturya: intelligence and good character)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: unfavourable disposition brings the stingy, tale-bearing traits and trouble with brothers and work",
+      "Raman's 5th-house combinations: the 5th lord in the 3rd, 6th or 12th with no benefic aspect is listed among combinations for early loss concerning children (How to Judge a Horoscope p. 114)",
+      "The 5th lord debilitated, in an enemy sign, combust, or joined by the 6th, 8th or 12th lords (Phaladeepika 12.9: loss or grief concerning children)",
+      "Phaladeepika 12.7 combination (5th lord in 3rd plus malefic in lagna, lagna lord in 5th, Moon in odd sign in 5th aspected by the Sun)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.51",
+        "view": "Fifth lord in the 3rd: fond of brothers, but malicious (or a tale-bearer), miserly and always intent on one's own work.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-51"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.51 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Attached to co-born, a tale-bearer and a miser, always interested in his own work.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Favourable: many good children and brothers. Unfavourable: loss of children, misunderstandings with brothers, continuous occupational troubles; stingy and a tale-bearer.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Important Combinations' (p. 114)",
+        "view": "Children are at risk when the 5th lord occupies the 3rd, 6th or 12th with no benefic aspect; the 5th lord in the 1st, 2nd or 3rd gives a male first child.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Happiness from siblings, desires fulfilled, exciting adventures, brave, talented in music, dance or drama, literary ability.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 12.7 (tr. V. Subrahmanya Sastri)",
+        "view": "Two combinations for affliction through children; one is a malefic in the lagna, the lagna lord in the 5th, the 5th lord in the 3rd and the Moon in an odd sign or amsa in the 5th aspected by the Sun.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621584.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "BPHS 24.51 and Raman describe stinginess and tale-bearing (Raman only for an unfavourable lord); Braha is wholly positive (courage, arts, sibling happiness). Raman also gives the children outcome both ways depending on the lord's condition.",
+    "confidence": "medium",
+    "phrasing_guidance": "Emphasise sibling bonds, effort and creative or communicative talent. Present the 'miserly or tale-bearer' line as a traditional caution, not a description."
+  },
+  {
+    "id": "lord_in_house/5/4",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 4
+    },
+    "summary": "A trikona lord in a kendra: intelligence joins home, mother and inner happiness. BPHS, Raman and Braha agree on happiness from the mother, comfort and an advisory role; Raman adds sharp cautions for children if the lord is afflicted.",
+    "themes": [
+      "mother",
+      "home",
+      "education",
+      "advisory role",
+      "kendra-trikona link"
+    ],
+    "common_outcomes": [
+      "Happiness from the mother, who is long-lived (BPHS 24.52; Raman; Braha)",
+      "Adviser, minister or preceptor to those in power (BPHS 24.52; Raman)",
+      "Comforts, land, homes or vehicles and a good degree (Braha)"
+    ],
+    "rare_outcomes": [
+      "Raman: a few sons, one living by agriculture; moderately strong lord gives daughters rather than sons; an afflicted lord is listed for loss concerning children (traditional view)",
+      "Exchange of the 4th and 5th lords forms a Bhagyavahana yoga, giving fortune and vehicles (Bhavartha Ratnakara 4.12)",
+      "Braha: pleasant endings and a peaceful close of life"
+    ],
+    "by_area": {
+      "personality": "Happy and intelligent (BPHS 24.52).",
+      "career": "Minister, adviser or preceptor to a ruler (BPHS 24.52; Raman).",
+      "finance": "Wealth (BPHS 24.52); land, homes and conveyances (Braha).",
+      "health": "",
+      "relationships": "",
+      "family": "Mother long-lived and a source of happiness (BPHS 24.52; Raman; Braha). Raman: a few sons; daughters if the lord is only moderately strong.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "A trikona lord in a kendra is one of Parashara's yoga-forming links (BPHS 34.11-12)",
+      "Exchange with the 4th lord (Bhavartha Ratnakara 4.12, Bhagyavahana yoga)",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)",
+      "Jupiter, the 5th lord and the lagna lord all in kendras or trikonas (Bhavartha Ratnakara 4.20: happiness from children)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: an afflicted 5th lord here is listed for loss concerning children; a moderately strong one for daughters only",
+      "The 5th lord debilitated, in an enemy sign, combust, or joined by the 6th, 8th or 12th lords (Phaladeepika 12.9: loss or grief concerning children)",
+      "Raman stresses that each placement's good results reverse when the 5th lord is afflicted and that the list must be modified by associations and aspects (How to Judge a Horoscope p. 114)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman. For Libra lagna Saturn rules both the 4th and 5th, so here it is in its own sign (a yogakaraka in a kendra; Raman HTJH p. 15 says the yoga's extent depends on strength, association and aspect).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.52",
+        "view": "Fifth lord in the 4th: happy, endowed with the mother's happiness, prosperous and intelligent; becomes a minister or preceptor to a king.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-52"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.52 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Happy, endowed with maternal happiness, wealth and intelligence; a king, minister or preceptor.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Favourable: a few sons, one living by agriculture; long-lived mother; adviser or preceptor to a ruler. Afflicted: death of children. Moderately strong: daughters and no sons.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Happiness from mother, long-lived mother, owns land, homes or conveyances, many comforts, great happiness, peaceful close of life, intelligent, fine degree.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. IV st. 12",
+        "view": "If the 4th and 5th lords exchange houses, Bhagyavahana yoga arises: general fortune and conveyances.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.11-13 (tr. G.C. Sharma)",
+        "view": "A kendra lord and a trikona lord linked by exchange, conjunction, mutual aspect, or a trikona lord placed in a kendra, form a yoga giving rank and fame.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Raman's 'few sons' and 'daughters only' lines (by strength) have no counterpart in BPHS 24.52 or Braha, which are simply favourable.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with a happy home, a supportive mother and an advisory gift. Do not predict the number or sex of children."
+  },
+  {
+    "id": "lord_in_house/5/5",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 5
+    },
+    "summary": "The 5th lord in its own house strengthens intelligence, merit and the house of children. BPHS and Phaladeepika make the children result depend on benefic influence; Raman and Braha add mantra, mathematics and leadership of religious bodies.",
+    "themes": [
+      "children",
+      "intelligence",
+      "creativity",
+      "virtue",
+      "own-house strength"
+    ],
+    "common_outcomes": [
+      "Highly intelligent, virtuous and dear to friends (BPHS 24.53; Braha)",
+      "Children when benefics influence the lord (BPHS 24.53; Phaladeepika 12.9); Raman: a number of sons when favourable",
+      "Great in one's own field; expertise in mantra, mathematics or scripture (Raman; Braha)"
+    ],
+    "rare_outcomes": [
+      "Raman and Braha: may head a religious or spiritual institution",
+      "Braha: interest in politics or rulership; successful investments and speculation",
+      "Bhavartha Ratnakara 4.16 and 9.19: the 5th lord in the 5th together with the 4th lord in the 4th gives fortune and vehicles, and with the 10th lord in the 10th gives power and fame",
+      "Bhavartha Ratnakara (ch. XI st. 5): 5th, 7th and 9th lords in their own houses give holy dips during their periods",
+      "Raman, afflicted: concerns for children, not keeping one's word, wavering mind, cruelty (traditional view)"
+    ],
+    "by_area": {
+      "personality": "Virtuous and dear to friends (BPHS 24.53); integrity and merit (Braha). Raman: wavering and unreliable if afflicted.",
+      "career": "Raman: becomes great in his own line; expert in mantra shastra or mathematics; befriends the powerful. Braha: may be a ruler or politician.",
+      "finance": "Braha: successful investments and a liking for speculation.",
+      "health": "",
+      "relationships": "Braha: happy love affairs.",
+      "family": "Children if benefics are involved, none or grief if malefics (BPHS 24.53; Phaladeepika 12.9); Raman: a number of sons when favourable.",
+      "spirituality": "Knowledge of mantras or scriptures, religious-minded, strong past merit (Braha); expert in mantra shastra, may head a religious institution (Raman)."
+    },
+    "strengtheners": [
+      "Benefic aspect or conjunction on the lord (BPHS 24.53; Phaladeepika 12.9)",
+      "The 4th lord in the 4th or the 10th lord in the 10th at the same time (Bhavartha Ratnakara 4.16, 9.19)",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)",
+      "The 5th lord a benefic and aspected by a benefic or placed in a benefic sign (Raman, 300 Combinations no. 231 Buddhimaturya: intelligence and good character)",
+      "The 5th lord well placed and in a vaiseshikamsa (Phaladeepika 16.15: intelligent and open-hearted)"
+    ],
+    "weakeners_or_cancellations": [
+      "Malefic aspect or conjunction with no benefic aspect (BPHS 24.53; Phaladeepika 12.9: loss of children)",
+      "Raman: an afflicted lord gives contrary results",
+      "When Jupiter, the natural significator of children, is itself the 5th lord in the 5th, the 'karaka in its own bhava harms it' dictum is sometimes applied; see disagreements"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman. Jupiter is the 5th lord in the 5th for Leo (Sagittarius) and Scorpio (Pisces); see the karaka debate under disagreements.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.53",
+        "view": "Fifth lord in the 5th: there will be children if a benefic aspects or joins it; with malefic influence, childlessness. The native is virtuous and dear to friends.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-53"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.53 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Progeny if a benefic is related to the lord; no issue if a malefic is related; the native is virtuous and dear to friends.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Favourable: a number of sons, great in his own line; otherwise an expert in mantra shastra who befriends the powerful, possibly an expert in mathematics or head of a religious institution. Afflicted: contrary results, children at risk, not keeping his word, wavering and cruel.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Own sign: happiness from and prosperity of children, highly intelligent, religious, good deeds, successful investments, happy love affairs, knowledge of mantras or scriptures, strong integrity, may head a religious organisation, very strong past merit, interest in politics.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 12.9 (tr. V. Subrahmanya Sastri)",
+        "view": "Loss of children is predicted when the 5th lord is debilitated, in an enemy sign, combust or with the 12th, 6th or 8th lords; likewise when the 5th lord is in the 5th without benefic aspect.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621584.html"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. IV st. 16; ch. IX st. 19",
+        "view": "4th and 5th lords in their own houses give Bhagyavahana yoga (fortune and vehicles); 10th and 5th lords in the 10th and 5th give power and fame.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. VII st. 10 with Raman's notes",
+        "view": "The text repeats the dictum that a karaka in its own bhava destroys it (Jupiter in the 5th harms sons); Raman writes that his own long experience contradicts this: Jupiter in the 5th gives a long-lived first son, and only affliction by Mars, Saturn or Rahu spoils it.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Karaka debate: Bhavartha Ratnakara repeats the dictum that Jupiter in the 5th harms children (relevant when Jupiter is the 5th lord for Leo or Scorpio), but its translator Raman disagrees from experience and limits the harm to affliction by Mars, Saturn or Rahu. On the core placement, BPHS, Phaladeepika, Raman and Braha agree that benefic or malefic influence decides the children result.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with intelligence, integrity and creative or spiritual gifts. Say children prospects depend on other factors in the chart; never predict childlessness."
+  },
+  {
+    "id": "lord_in_house/5/6",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 6
+    },
+    "summary": "The lord of children and intelligence in the house of conflict, debt and illness. BPHS, Phaladeepika, Raman and Braha all read difficulty around children and mental ease, with some gain through maternal relatives, service and competition.",
+    "themes": [
+      "children concerns",
+      "competition",
+      "service",
+      "adoption",
+      "analytical mind"
+    ],
+    "common_outcomes": [
+      "Strain, delay or friction connected with children (BPHS 24.54; Phaladeepika 6.62; Raman; Braha)",
+      "A disturbed mind or difficulty with exams (Braha)",
+      "Benefits through the maternal uncle (Raman; Braha); good jobs and health (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.54 (both translations read): a son who becomes hostile, losing children, or an adopted child (traditional view)",
+      "Raman: enmity with one's own son; if afflicted, adoption from the maternal uncle's line",
+      "Phaladeepika 6.62 Pamara yoga (5th lord in 6, 8 or 12): a harsh classical description including loss or lack of children",
+      "Braha: knowledge of medicine or healing carried over from a past life"
+    ],
+    "by_area": {
+      "personality": "Braha: disturbed mind, dull intellect, difficulty passing exams. Phaladeepika 6.62 (Pamara) gives harsher traits as a classical view.",
+      "career": "Braha: gets good jobs; knowledge of medicine or healing arts.",
+      "finance": "",
+      "health": "Braha: good health.",
+      "relationships": "Braha: hardships in love affairs.",
+      "family": "Children are the main concern (BPHS 24.54; Raman; Braha). Raman: the maternal uncle may be famous.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman: a favourably disposed lord gives a famous maternal uncle rather than the harsher results",
+      "Benefic aspect on the 5th house (Phaladeepika 15.5)",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)",
+      "Jupiter, the 5th lord and the lagna lord all in kendras or trikonas (Bhavartha Ratnakara 4.20: happiness from children)"
+    ],
+    "weakeners_or_cancellations": [
+      "The 5th lord debilitated, in an enemy sign, combust, or joined by the 6th, 8th or 12th lords (Phaladeepika 12.9: loss or grief concerning children)",
+      "Raman's 5th-house combinations: the 5th lord in the 3rd, 6th or 12th with no benefic aspect is listed among combinations for early loss concerning children (How to Judge a Horoscope p. 114)",
+      "Phaladeepika 15.5: a house whose lord sits in the 6th, 8th or 12th 'suffers', unless the house is aspected by a benefic, in which case it flourishes",
+      "Raman, 300 Combinations no. 224 Aputra yoga (5th lord in a dusthana: no issue), which Raman calls very general and not to be applied literally (pp. 213-214)",
+      "Raman: an afflicted lord here is read for difficulty in having children"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman. For Virgo lagna Saturn owns both the 5th and the 6th, so here it is in its own sign Aquarius, its mulatrikona; Frawley says that mulatrikona makes Saturn's 6th-house role predominate for Virgo.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.54",
+        "view": "Fifth lord in the 6th: a son may become an enemy; losses connected with children, or an adopted or 'purchased' son.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-54"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.62 (tr. V. Subrahmanya Sastri)",
+        "view": "When the lord of a house is in 6, 8 or 12 it forms one of twelve yogas; for the 5th lord this is Pamara yoga, where the native may lose children or have none.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.54 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Obtains sons who become like enemies, or loses them, or acquires an adopted or 'purchased' son.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Favourable: the maternal uncle becomes famous; enmity with his own son. Afflicted: issues not born; may adopt from the maternal uncle's line.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Important Combinations' (p. 114)",
+        "view": "The 5th lord in the 3rd, 6th or 12th with no benefic aspect is listed among combinations for early loss concerning children.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Troubles with children, dull intellect, disturbed mind, difficulty passing exams, hardships in love, benefits from maternal uncle, good jobs, good health, healing knowledge from a past life.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 15.5 (tr. V. Subrahmanya Sastri)",
+        "view": "A house whose lord occupies the 6th, 8th or 12th suffers; if that house is aspected by a benefic it flourishes.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621587.html"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 224 Aputra Yoga (pp. 213-214) (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "The 5th lord in a dusthana: no issue. Raman calls it very general and says it must not be applied literally without examining the 5th house's strength.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "All sources agree on difficulty for children; they differ on severity. Phaladeepika (Pamara) and Raman's Aputra yoga state it absolutely, while Raman himself warns Aputra must not be applied literally, and Braha adds compensations (good health, good jobs).",
+    "confidence": "high",
+    "phrasing_guidance": "Say children and peace of mind are areas that need care, and that the rest of the chart decides. Never predict childlessness or loss."
+  },
+  {
+    "id": "lord_in_house/5/7",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 7
+    },
+    "summary": "A trikona lord in a kendra, linking intelligence and children with marriage and partnership. BPHS, Raman and Braha read honour, learning and happiness through children and spouse, but Phaladeepika and Raman's marriage combinations give a sharply opposite traditional rule.",
+    "themes": [
+      "partnership",
+      "love marriage",
+      "respectability",
+      "helping others",
+      "kendra-trikona link"
+    ],
+    "common_outcomes": [
+      "Respected, righteous and helpful (BPHS 24.55); renowned, learned and prosperous (Raman)",
+      "Happiness from children; a child may live abroad and do well (BPHS 24.55; Raman; Braha)",
+      "A beautiful, intelligent or devoted spouse and a happy marriage (Braha)"
+    ],
+    "rare_outcomes": [
+      "Raman: greatly devoted to one's master or employer; charming personality",
+      "Braha: good for health, name and fame, because the 5th lord in the 7th aspects the lagna",
+      "Phaladeepika 10.2 (traditional): the 5th lord in the 7th is listed for loss of the wife; Raman's 7th-house combinations say the 7th lord in the 5th or 5th lord in the 7th may deny marriage or children",
+      "Exchange with the 7th lord forms a Maha (parivartana) yoga (Phaladeepika 6.32)"
+    ],
+    "by_area": {
+      "personality": "Honourable and helpful to others (BPHS 24.55); renowned, learned and charming (Raman).",
+      "career": "Raman: devoted to his master; prosperous.",
+      "finance": "Raman: prosperous; a son abroad attains wealth and fame.",
+      "health": "Braha: fortunate for health and fame (the lord aspects the lagna).",
+      "relationships": "Braha: happy marriage with a beautiful, intelligent or devoted spouse; strong passions. Phaladeepika 10.2 gives an opposite traditional rule (see disagreements).",
+      "family": "Happiness from children (BPHS 24.55; Braha); a child may live abroad (Raman; Braha).",
+      "spirituality": "Devoted to dharma (BPHS 24.55)."
+    },
+    "strengtheners": [
+      "Raman: favourably disposed, a son lives abroad with distinction, or many issues",
+      "Exchange with the 7th lord (Phaladeepika 6.32)",
+      "Trikona lord in a kendra (BPHS 34.11-12)",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: afflicted, loss concerning children, one dying abroad after attaining fame (traditional view)",
+      "The 5th lord debilitated, in an enemy sign, combust, or joined by the 6th, 8th or 12th lords (Phaladeepika 12.9: loss or grief concerning children)",
+      "Phaladeepika 10.2 and Raman's combination on the 5th-7th link (see disagreements)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman. For Cancer lagna Mars (5+10, yogakaraka) here is in Capricorn, its exaltation sign.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.55",
+        "view": "Fifth lord in the 7th: respected, devoted to dharma, endowed with children and happiness, and helpful to others.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-55"
+      },
+      {
+        "source": "Phaladeepika 6.32 (tr. V. Subrahmanya Sastri)",
+        "view": "Exchanges of sign between lords not involving 3, 6, 8 or 12 are Maha yogas; the 5th lord exchanging with the 7th lord is one such case.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.55 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Honourable, very religious, endowed with progenic happiness and helpful to others.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Favourable: the son lives abroad and attains distinction, wealth and fame, or many issues; renowned, learned, prosperous, devoted to his master, charming. Afflicted: loss of children, one dying abroad after fame.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Important Combinations' (pp. 171-174)",
+        "view": "If the 7th lord is in the 5th or the 5th lord is in the 7th, the native may not marry, or if married, may be childless.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Happy marriage, beautiful, intelligent or devoted spouse, good mind, prosperous children, child may live abroad, strong passions; fortunate for health and fame as the 5th lord aspects the lagna.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 10.2 (tr. V. Subrahmanya Sastri)",
+        "view": "The 7th lord in the 5th: loss of wife or sonlessness; loss of the wife is certain if the 5th or 8th lord is in the 7th (traditional rule).",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621582.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Direct conflict: BPHS 24.55, Raman's lord-placement list and Braha are favourable for marriage and children, while Phaladeepika 10.2 and the combination Raman quotes in his 7th-house chapter make the 5th-7th link a rule for loss of spouse or no marriage or children. Raman presents both without reconciling them.",
+    "confidence": "medium",
+    "phrasing_guidance": "Warm about honour, learning and partnership. Never mention loss of a spouse or childlessness; say marriage and children are judged from several factors together."
+  },
+  {
+    "id": "lord_in_house/5/8",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 8
+    },
+    "summary": "The lord of intelligence and children in the house of hidden matters and sudden change. BPHS, Phaladeepika, Raman and Braha agree on limited happiness from children and an irritable or troubled mind; BPHS and Raman both mention chest or lung complaints.",
+    "themes": [
+      "children concerns",
+      "hidden knowledge",
+      "research",
+      "temperament",
+      "transformation"
+    ],
+    "common_outcomes": [
+      "Little happiness from children, or strain with a child (BPHS 24.56; Braha; Phaladeepika 6.62)",
+      "Irritable, peevish or unhappy temperament (BPHS 24.56; Raman)",
+      "Losses through investments and speculation (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.56 (cough, lung disorders) and Raman (lung troubles) agree on a chest-related traditional note",
+      "Raman: paternal property lost through debts; 'extinction of the family' (traditional view); unhappy but not poor",
+      "Braha: no past-life credit coming forward; difficulty in exams and love matters",
+      "Raman, 300 Combinations no. 217: 8th lord in the 5th and 5th lord in the 8th, with the Moon and 4th lord in the 6th, is a classical combination for loss of children"
+    ],
+    "by_area": {
+      "personality": "Given to anger and lacking happiness (BPHS 24.56); peevish and unhappy (Raman); Braha adds dull or unrighteous traits (traditional view).",
+      "career": "",
+      "finance": "Raman: paternal property lost through debts, yet not poor. Braha: losses from investments.",
+      "health": "BPHS 24.56 and Raman both list cough or lung complaints (traditional note only).",
+      "relationships": "Braha: difficulties in love matters.",
+      "family": "Little happiness from children (BPHS 24.56; Braha); Raman: decline of the family line (traditional).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Benefic aspect on the 5th house (Phaladeepika 15.5)",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)",
+      "Jupiter, the 5th lord and the lagna lord all in kendras or trikonas (Bhavartha Ratnakara 4.20: happiness from children)"
+    ],
+    "weakeners_or_cancellations": [
+      "The 5th lord debilitated, in an enemy sign, combust, or joined by the 6th, 8th or 12th lords (Phaladeepika 12.9: loss or grief concerning children)",
+      "Phaladeepika 15.5: a house whose lord sits in the 6th, 8th or 12th 'suffers', unless the house is aspected by a benefic, in which case it flourishes",
+      "Raman, 300 Combinations no. 224 Aputra yoga (5th lord in a dusthana: no issue), which Raman calls very general and not to be applied literally (pp. 213-214)",
+      "Exchange with the 8th lord plus the Moon and 4th lord in the 6th (Raman, 300 Combinations no. 217)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman. For Leo (Jupiter 5+8) and Aquarius (Mercury 5+8) the lord is in its own other sign here; BPHS 34.7 says an 8th lord that also owns a trikona gives auspicious effects, so these lagnas differ from the general reading.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.56",
+        "view": "Fifth lord in the 8th: little happiness from children; may suffer from cough or breathing trouble; short-tempered and lacking happiness.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-56"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.62 (tr. V. Subrahmanya Sastri)",
+        "view": "Pamara yoga: the 5th lord in 6, 8 or 12; may lose children or have no issue.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.56 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Not much progenic happiness, troubled by cough and pulmonary disorders, given to anger and devoid of happiness.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Paternal property lost through debts, extinction of the family, lung troubles; peevish and unhappy but not poor.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "No happiness from children, possible loss of a child, adverse relations with a child, few children, losses from investments, difficulties in love, hard exams, unrighteous, no past-life credit forthcoming.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 15.5 (tr. V. Subrahmanya Sastri)",
+        "view": "A house whose lord occupies the 6th, 8th or 12th suffers; a benefic aspect on it makes it flourish.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621587.html"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 224 Aputra Yoga (pp. 213-214) (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "The 5th lord in a dusthana: no issue; Raman says it is very general and must not be applied literally.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Sources agree on direction (children and temperament suffer) but not on wealth: Raman says 'not poor' and BPHS is silent, while Braha lists investment losses. Raman's Aputra remark warns against literal application.",
+    "confidence": "high",
+    "phrasing_guidance": "Say children and peace of mind need care and patience, and that investments call for caution. Never predict loss of a child or illness."
+  },
+  {
+    "id": "lord_in_house/5/9",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 9
+    },
+    "summary": "Two trikona houses linked: the lord of past merit sits in the house of fortune and dharma. BPHS, Raman, Braha and Bhavartha Ratnakara all rank it among the finest placements: a distinguished child, authorship, teaching and divine grace.",
+    "themes": [
+      "fortune",
+      "dharma",
+      "authorship",
+      "distinguished children",
+      "trikona-trikona link"
+    ],
+    "common_outcomes": [
+      "Teacher, preceptor or author (BPHS 24.57; Raman); a son distinguished as orator or author (Raman)",
+      "Good fortune, divine grace and fame (Braha); shines in one's family (BPHS 24.57)",
+      "Spiritual and philosophical, knowing scriptures and mantras; gains from father and guru (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.57: a son who becomes a king or equal to one",
+      "Raman: renovates ancient temples, wells, rest-houses and gardens",
+      "Braha: common in the charts of saints, gurus and spiritual leaders; may head a religious organisation",
+      "Exchange of the 5th and 9th lords, or the 5th lord in the 9th with the 9th lord in the 10th, gives Bhagyavahana yoga (Bhavartha Ratnakara 4.14, 4.18); exchange is also a Maha yoga (Phaladeepika 6.32)"
+    ],
+    "by_area": {
+      "personality": "Philosophical, religious and fortunate (Braha).",
+      "career": "Teacher, preceptor or author (BPHS 24.57; Raman); spiritual teacher (Braha).",
+      "finance": "Wealthy and lucky (Braha).",
+      "health": "",
+      "relationships": "Braha: happy love affairs.",
+      "family": "A distinguished son (BPHS 24.57; Raman); father wealthy, famous or long-lived (Braha).",
+      "spirituality": "Divine grace, scriptures and mantras, the finest guru (Braha); temple renovation (Raman). Raman: an afflicted lord earns divine displeasure and loss of fortune."
+    },
+    "strengtheners": [
+      "Exchange with the 9th lord (Phaladeepika 6.32; Bhavartha Ratnakara 4.14)",
+      "The 9th lord in the 10th at the same time (Bhavartha Ratnakara 4.18)",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)",
+      "The 5th lord a benefic and aspected by a benefic or placed in a benefic sign (Raman, 300 Combinations no. 231 Buddhimaturya: intelligence and good character)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: an afflicted lord here brings divine displeasure and destruction of fortune",
+      "The 5th lord debilitated, in an enemy sign, combust, or joined by the 6th, 8th or 12th lords (Phaladeepika 12.9: loss or grief concerning children)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.57",
+        "view": "Fifth lord in the 9th: a son becomes a king or equal to one; the native is an author and illuminates his family.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-57"
+      },
+      {
+        "source": "Phaladeepika 6.32 (tr. V. Subrahmanya Sastri)",
+        "view": "Exchange of the 5th lord with the 9th lord is among the auspicious Maha yogas.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.57 (tr. G.C. Sharma; cross-check translation)",
+        "view": "A prince or equal to one; authors treatises; famous; shines in his race.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Becomes a teacher or preceptor; renovates temples, wells, choultries and gardens; a son becomes an orator or author. Afflicted: divine wrath and destruction of fortune.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "A trikona lord in a trikona is one of the finest placements: lucky, wealthy, divine grace, famous, spiritual and prosperous children, scriptures and mantras, gains from father and guru, may be a spiritual teacher; common in the charts of saints.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. IV st. 14, 18",
+        "view": "Bhagyavahana yoga (fortune and conveyances) when the 5th and 9th lords exchange, or when the 5th lord is in the 9th and the 9th lord in the 10th.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Positive: fortune, learning, and children who do well. Avoid literal 'royal' promises; say 'achievement and recognition'."
+  },
+  {
+    "id": "lord_in_house/5/10",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 10
+    },
+    "summary": "A trikona lord in the strongest kendra: intelligence and merit express through career and public standing. BPHS and Raman both call it a Raja yoga; Braha adds politics, fame and gains from government.",
+    "themes": [
+      "raja yoga",
+      "career",
+      "fame",
+      "authority",
+      "kendra-trikona link"
+    ],
+    "common_outcomes": [
+      "Raja yoga: many comforts and wide fame (BPHS 24.58; Raman)",
+      "Goodwill of rulers or government; career in politics (Raman; Braha)",
+      "Children who are powerful or a 'gem of the family' (Raman; Braha)"
+    ],
+    "rare_outcomes": [
+      "Raman: acquires landed property, builds temples and performs religious rites",
+      "Raman: aspected by the Sun, may join an intelligence department",
+      "Braha: career may involve speculation or sports; visits holy sites",
+      "Exchange with the 10th lord is a Maha yoga (Phaladeepika 6.32)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Raja yoga and fame (BPHS 24.58); goodwill of rulers (Raman); prominent career, politics, gains from government (Braha).",
+      "finance": "Raman: acquires landed property.",
+      "health": "",
+      "relationships": "",
+      "family": "One son becomes the gem of the family (Raman); powerful children (Braha).",
+      "spirituality": "Builds temples, performs religious rites (Raman); good deeds and holy sites (Braha)."
+    },
+    "strengtheners": [
+      "Raman: the Raja yoga needs the lord 'beneficially disposed'",
+      "Trikona lord in a kendra or linked with the 10th lord (BPHS 34.11-12)",
+      "Exchange with the 10th lord (Phaladeepika 6.32)",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: an afflicted lord brings the wrath of rulers and contrary results",
+      "The 5th lord debilitated, in an enemy sign, combust, or joined by the 6th, 8th or 12th lords (Phaladeepika 12.9: loss or grief concerning children)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman. For Cancer (Mars) and Capricorn (Venus) the 5th lord also owns the 10th and is in its own sign here.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.58",
+        "view": "Fifth lord in the 10th: a Raja yoga; enjoys many pleasures and is widely famous.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-58"
+      },
+      {
+        "source": "Phaladeepika 6.32 (tr. V. Subrahmanya Sastri)",
+        "view": "Exchange of the 5th and 10th lords is a Maha yoga.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.58 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Enjoys a Raj yoga and various pleasures and is very famous.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Beneficially disposed: a Raja yoga; landed property; goodwill of rulers; builds temples and performs sacrifices; a son becomes a gem of the family; with the Sun's aspect, an intelligence department. Afflicted: wrath of rulers.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Prominent career, fame, career may involve speculation or sports, powerful children, good deeds, visits holy sites, gains from eminent or government people, career in politics.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.11-12 (tr. G.C. Sharma)",
+        "view": "A trikona lord in a kendra, or linked with a kendra lord, forms a yoga that makes the native a king and famous.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Positive and concrete: career recognition through one's intelligence. Treat 'Raja yoga' as potential that depends on the rest of the chart, not a guarantee."
+  },
+  {
+    "id": "lord_in_house/5/11",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 11
+    },
+    "summary": "The lord of intelligence in the house of gains: learning and creativity bring income, friends and success. BPHS, Raman and Braha agree closely: learned, an author, many children and wealth.",
+    "themes": [
+      "gains",
+      "popularity",
+      "authorship",
+      "children",
+      "networks"
+    ],
+    "common_outcomes": [
+      "Wealth and success in undertakings (BPHS 24.59; Raman; Braha)",
+      "Learned and an author (BPHS 24.59; Raman)",
+      "Benefits through children (Raman; Braha) and many friends (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.59 and Raman: many sons",
+      "Braha: excellent intelligence because the 5th lord in the 11th aspects the 5th; benefits from the eldest sibling",
+      "Exchange with the 11th lord gives Bhagyavahana yoga (Bhavartha Ratnakara 4.15) and a Maha yoga (Phaladeepika 6.32)"
+    ],
+    "by_area": {
+      "personality": "Learned, skilful and dear to people (BPHS 24.59); helps others (Raman).",
+      "career": "Author (BPHS 24.59; Raman); success in all undertakings (Raman; Braha).",
+      "finance": "Wealth (BPHS 24.59); rich (Raman); great wealth and plentiful opportunities (Braha).",
+      "health": "",
+      "relationships": "Many and powerful friends (Braha).",
+      "family": "Many sons and benefits through them (BPHS 24.59; Raman; Braha); gains from the eldest sibling (Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exchange with the 11th lord (Bhavartha Ratnakara 4.15; Phaladeepika 6.32)",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)",
+      "The 5th lord a benefic and aspected by a benefic or placed in a benefic sign (Raman, 300 Combinations no. 231 Buddhimaturya: intelligence and good character)"
+    ],
+    "weakeners_or_cancellations": [
+      "The 5th lord debilitated, in an enemy sign, combust, or joined by the 6th, 8th or 12th lords (Phaladeepika 12.9: loss or grief concerning children)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.59",
+        "view": "Fifth lord in the 11th: learned, dear to people, an author, skilful, with many sons and wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-59"
+      },
+      {
+        "source": "Phaladeepika 6.32 (tr. V. Subrahmanya Sastri)",
+        "view": "Exchange of the 5th and 11th lords is a Maha yoga.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.59 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Learned, dear to people, an author of treatises, very skilful, with many sons and wealth.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Benefits through sons, success in all undertakings, rich and learned, helps others, many sons, becomes an author.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Profits from children, many and powerful friends, great wealth, plentiful opportunities, success, fulfilled desires, excellent intelligence (aspects the 5th), benefits from eldest sibling.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. IV st. 15",
+        "view": "If the 5th lord is in the 11th and the 11th lord in the 5th, Bhagyavahana yoga (fortune and conveyances) arises.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Positive: intelligence brings gains and friends. Avoid promising a number of children."
+  },
+  {
+    "id": "lord_in_house/5/12",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 5,
+      "placed_in": 12
+    },
+    "summary": "The lord of children and intelligence in the house of loss and liberation. BPHS and Braha read less happiness from children; Raman reads the placement almost wholly as a spiritual one, ending in non-attachment and liberation.",
+    "themes": [
+      "children concerns",
+      "adoption",
+      "spiritual inclination",
+      "foreign connection",
+      "expenditure"
+    ],
+    "common_outcomes": [
+      "Less happiness from children, or a child who lives apart (BPHS 24.60; Braha; Phaladeepika 6.62)",
+      "A pronounced quest for the ultimate reality; non-attachment and spiritual life (Raman; Braha)",
+      "Moving from place to place (Raman)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.60 (both translations): an adopted or 'purchased' son",
+      "Braha: a child may become an ascetic; losses through speculation; disturbed mind; enjoys bed pleasures",
+      "Raman: ultimately attains moksha (liberation)"
+    ],
+    "by_area": {
+      "personality": "Braha: disturbed mind (traditional); detached from worldly affairs.",
+      "career": "",
+      "finance": "Braha: losses through speculation.",
+      "health": "",
+      "relationships": "Braha: unhappy love affairs, but a good private life (bed pleasures).",
+      "family": "Bereft of happiness from sons; possibly an adopted son (BPHS 24.60); few children or a child who turns ascetic (Braha).",
+      "spirituality": "Raman: quest for the ultimate reality, non-attachment, spiritual life and final liberation. Braha: meditation and moksha; peaceful after-life."
+    },
+    "strengtheners": [
+      "Benefic aspect on the 5th house (Phaladeepika 15.5)",
+      "Jupiter joining or aspecting the 5th lord (Bhavartha Ratnakara 4.19: birth of children is indicated)",
+      "Jupiter, the 5th lord and the lagna lord all in kendras or trikonas (Bhavartha Ratnakara 4.20: happiness from children)"
+    ],
+    "weakeners_or_cancellations": [
+      "The 5th lord debilitated, in an enemy sign, combust, or joined by the 6th, 8th or 12th lords (Phaladeepika 12.9: loss or grief concerning children)",
+      "Raman's 5th-house combinations: the 5th lord in the 3rd, 6th or 12th with no benefic aspect is listed among combinations for early loss concerning children (How to Judge a Horoscope p. 114)",
+      "Phaladeepika 15.5: a house whose lord sits in the 6th, 8th or 12th 'suffers', unless the house is aspected by a benefic, in which case it flourishes",
+      "Raman, 300 Combinations no. 224 Aputra yoga (5th lord in a dusthana: no issue), which Raman calls very general and not to be applied literally (pp. 213-214)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15): the 5th lord is a trikona lord and auspicious, and BPHS names the 5th a house 'specially for wealth'. It is a yogakaraka for Cancer (Mars 5+10), Libra (Saturn 4+5) and Capricorn (Venus 5+10). Where it co-owns a difficult house the sources differ: Venus (5+12) is the only benefic for Gemini (BPHS 34.25, Raman) and gives mainly 5th-house results (Frawley); Mars (5+12) for Sagittarius is auspicious (BPHS 34.37, Raman); Jupiter (5+8) for Leo is auspicious in BPHS 34.29 but neutral in Raman; Mercury (5+8) for Aquarius gives mixed effects (BPHS 34.41) and is neutral in Raman; Saturn (5+6) for Virgo is neutral in Raman and less auspicious in Frawley because its mulatrikona sign rules the 6th; Mercury (2+5) for Taurus is 'somewhat inauspicious' in BPHS 34.23 but a benefic in Raman. For Gemini (Venus) and Sagittarius (Mars) the 5th lord also owns the 12th and is in its own sign here.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.60",
+        "view": "Fifth lord in the 12th: deprived of happiness from sons; may have an adopted or purchased son.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-60"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.62 (tr. V. Subrahmanya Sastri)",
+        "view": "Pamara yoga: the 5th lord in 6, 8 or 12; may lose children or have no issue.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.60 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Bereft of happiness from his own sons; will have an adopted or purchased son.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Results of the Lord of the Fifth House being placed in Different Houses' (pp. 113-114)",
+        "view": "Quest for knowing the ultimate reality is pronounced; a life of non-attachment; spiritual; moves from place to place; ultimately attains moksha.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VIII 'Important Combinations' (p. 114)",
+        "view": "The 5th lord in the 3rd, 6th or 12th with no benefic aspect is listed among combinations for early loss concerning children.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 5th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "No happiness from children, few children, a child may become an ascetic, unhappy love affairs, speculative losses, disturbed mind; peaceful after-life, detachment, meditation and moksha; enjoys bed pleasures.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 15.5 (tr. V. Subrahmanya Sastri)",
+        "view": "A house whose lord occupies the 6th, 8th or 12th suffers; a benefic aspect on it makes it flourish.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621587.html"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 224 Aputra Yoga (pp. 213-214) (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "The 5th lord in a dusthana: no issue; Raman says not to apply it literally.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "Lords of trikonas give auspicious results; the 5th and 9th are 'specially for wealth'; lagna-by-lagna lists of auspicious and inauspicious planets (e.g. Mars a full yogakaraka for Cancer, Venus the only auspicious planet for Gemini, Mercury mixed for Aquarius).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "Lists benefic, malefic and neutral planets for each lagna; trikona lords are benefic, the 9th more so than the 5th; Mars, Saturn and Venus become yogakarakas when one planet owns a kendra and a trikona (Cancer, Leo, Libra, Taurus, Capricorn, Aquarius).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of trines (1, 5, 9) are always auspicious; a planet ruling a good and a bad house gives mixed results, the house of its mulatrikona sign predominating; Venus (5+12) for Gemini is very auspicious and gives mainly 5th-house results; Saturn (5+6) for Virgo is less auspicious because its mulatrikona rules the 6th.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "BPHS speaks only about children (negative), while Raman's lord-placement list speaks only about spiritual life (positive) and does not mention children; Braha gives both. Raman's own Aputra remark cautions against literal use of the children rule.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with the spiritual and contemplative orientation. Say children matters are judged from several factors; never predict childlessness."
+  }
+]

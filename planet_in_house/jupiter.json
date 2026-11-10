@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "planet_in_house/jupiter/1",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 1
+    },
+    "summary": "Jupiter in the lagna is classically one of the best placements: a dignified, learned, long-lived and fortunate person, with directional strength and protective power over the whole chart.",
+    "themes": [
+      "wisdom",
+      "dignity",
+      "optimism",
+      "protection",
+      "learning"
+    ],
+    "common_outcomes": [
+      "Handsome or dignified appearance (Phaladeepika 8.14; Saravali 30.50; Jataka Parijata 8.58)",
+      "Long-lived (Phaladeepika 8.14; Saravali 30.50; Jataka Parijata 8.58)",
+      "Learned (Brihat Jataka 20.7; Saravali 30.50; Bhrigu Sutras 1-6)",
+      "Optimistic, jovial, magnetic personality (Raman); wise and ethical (PanchangBodh)"
+    ],
+    "rare_outcomes": [
+      "Fearless, blessed with children (Phaladeepika 8.14)",
+      "Acts only after weighing consequences (Saravali 30.50)",
+      "Spends on pilgrimages (Chamatkar Chintamani, via summary)",
+      "A 'Maharaja yoga' effect around the 16th year when exalted (Bhrigu Sutras 1-6); text detail only"
+    ],
+    "by_area": {
+      "personality": "Magnetic, optimistic, jovial, pleasant manners (Raman); energetic, courageous and great (Saravali 30.50); wisdom and ethics (PanchangBodh).",
+      "career": "Lawyers, professors, writers, theologians; an influential leader (Raman).",
+      "finance": "Wealth (Jataka Parijata 8.58); fortunate (Phaladeepika 8.14).",
+      "health": "Gluttony and corpulence can affect health (Raman); weight gain (PanchangBodh).",
+      "relationships": "Its 7th aspect supports marriage (Bhrigu Sutras commentary).",
+      "family": "Happiness from children (Phaladeepika 8.14); more sons if the 5th is unafflicted (Raman).",
+      "spirituality": "Learned in shastras and Vedas (Bhrigu Sutras 1-6); 'blessed with the grace of God' (Bhrigu Sutras commentary)."
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Directional strength in the 1st (PanchangBodh; Bhrigu Sutras commentary)",
+      "A strong Jupiter in a kendra wards off arishtas affecting the child (Jataka Parijata and Jataka Desamarga, as quoted in the Bhrigu Sutras commentary; via summary)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "With Rahu, sins committed (Raman)",
+      "Debilitated or in an enemy or malefic sign: unstable mind, vanity, ingratitude, fewer children (Bhrigu Sutras 5-6)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: very good for Sagittarius lagna (lagna and 4th lord), Pisces lagna (lagna and 10th lord) and Cancer lagna (exalted 9th lord). PanchangBodh: for Gemini and Virgo lagnas it carries kendradhipati dosha.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.14 (Mantreswara; English rendering on siva.sh)",
+        "view": "Handsome, fortunate, long-lived, fearless, blessed with children.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.50 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Attractive, energetic, long-lived, acts after assessing consequences, learned, courageous, great.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 1st makes the person learned.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.58 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Long-lived, with untainted knowledge, wealth and beauty.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 1-6, with the English commentator's notes (commentator not named in file)",
+        "view": "In own sign a good speaker, versed in shastras, with children, long life; exalted, all fully realised; debilitated or afflicted, unstable, vain, ungrateful; commentator: ideal position with digbala and aspects on 5, 7, 9; Hamsa Yoga.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Respected for good qualities; spends money on pilgrimages.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. IV 'Planets in the First House' p.29",
+        "view": "Magnetic, optimistic, jovial; more sons if 5th unaffected; gluttony and corpulence; with Rahu sins; lawyers, professors, writers, theologians; influential leader.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Wisdom, optimism, ethics; strongest placement with digbala; protects the chart (cites Jataka Parijata and Phaladeepika); Hamsa; shadows weight gain and overconfidence.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Growth and resilience after setbacks; downside may hurt others unknowingly.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Broad agreement on a benefic result. Bhrigu Sutras makes the good results conditional on dignity (full only in own or exaltation sign) and gives a harsh list when debilitated or afflicted; other classics give unconditional praise.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with wisdom, optimism and a protective, ethical presence. Mention weight or indulgence lightly as a lifestyle point, not a health prediction; treat long life as traditional praise."
+  },
+  {
+    "id": "planet_in_house/jupiter/2",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 2
+    },
+    "summary": "Jupiter in the 2nd is read as eloquence, good food and wealth by most texts; Chamatkar Chintamani is the main dissenter, saying wealth is hard to accumulate.",
+    "themes": [
+      "speech",
+      "wealth",
+      "family",
+      "food",
+      "learning"
+    ],
+    "common_outcomes": [
+      "Eloquent or sweet-tongued (Phaladeepika 8.14; Saravali 30.51; Brihat Jataka 20.7; Jataka Parijata 8.63)",
+      "Wealthy (Phaladeepika 8.14; Saravali 30.51; Jataka Parijata 8.63; Bhrigu Sutras 7-12)",
+      "Good food and comfortable meals (Phaladeepika 8.14; Saravali 30.51; Jataka Parijata 8.63)",
+      "Good-looking face and body (Phaladeepika 8.14; Saravali 30.51)"
+    ],
+    "rare_outcomes": [
+      "What he foretells comes true (Bhrigu Sutras 7-12)",
+      "Poet, writer, astrologer or scientist (Raman)",
+      "Earns with difficulty and cannot accumulate (Chamatkar Chintamani, via summary)"
+    ],
+    "by_area": {
+      "personality": "Charitable (Saravali 30.51); liberal in gifts (Jataka Parijata 8.63); measured, truthful speech (PanchangBodh); does not quarrel (Raman).",
+      "career": "Teaching, advising, finance, law, religious or ceremonial work (PanchangBodh); writer, poet, astrologer, scientist (Raman).",
+      "finance": "Vast wealth (Jataka Parijata 8.63); steady accumulation rather than sudden gains; generosity can outrun income (PanchangBodh).",
+      "health": "Overeating rich food is a caution (PanchangBodh).",
+      "relationships": "Good wife (Raman).",
+      "family": "Good family surroundings (Raman); family traditions respected (PanchangBodh).",
+      "spirituality": "Learned (Phaladeepika 8.14); ceremonial or religious work (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Own sign or exaltation: very prosperous (Bhrigu Sutras 7-12)",
+      "Exalted in Cancer: a voice of natural authority (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "With a malefic: obstacles in education and dishonest or coarse speech (Bhrigu Sutras 10-11)",
+      "Debilitated and with a malefic: dissipation and harm to family (Bhrigu Sutras 12); family wealth takes more effort (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: powerful Dhana yogas for Scorpio lagna (2nd and 5th lord in own sign), Aquarius lagna (2nd and 11th lord) and Gemini lagna (exalted 7th and 10th lord); also good for Virgo lagna.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.14 (Mantreswara; English rendering on siva.sh)",
+        "view": "Eloquent, discerning about food, good-looking, wealthy, learned.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.51 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Rich, good food, eloquent, fortunate, charitable, beautiful body and face.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 2nd makes the person eloquent or sweet-tongued.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.63 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Eloquent, comfortable meals, vast wealth, liberal gifts.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 7-12, with the English commentator's notes (commentator not named in file)",
+        "view": "Rich, intelligent, predictions come true; own/exalted very wealthy; with malefics obstacles to education and bad speech; commentator: agrees with Phaladeepika and Saravali and confirms it in practice.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Fond of poetry, versed in administration, talkative, earns with difficulty and cannot accumulate.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. V 'Planets in the Second House' p.55",
+        "view": "Poet, great writer, astrologer or scientist; accumulates fortune; good wife and family; non-quarrelsome.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Measured truthful speech; teaching, advising, finance, law; steady savings; overeating and over-generosity cautions; aspects 6, 8, 10.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Hardworking and lucky with money; downside comfort-seeking and stomach trouble.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Chamatkar Chintamani (via summary) says the person can never accumulate wealth; the Bhrigu Sutras commentator suspects the 'karako bhava nashaya' idea behind this and sides with Phaladeepika, Saravali and Bhrigu Sutras. Brihat Jataka mentions only eloquence, not wealth.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of wise, trustworthy speech and steady, values-led finances. Don't promise riches; mention generosity and rich food as things to balance."
+  },
+  {
+    "id": "planet_in_house/jupiter/3",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 3
+    },
+    "summary": "Jupiter in the 3rd is one of its weaker classical placements: stinginess is the common thread, with humiliation or sinfulness in Phaladeepika and Saravali; Raman and PanchangBodh are milder, reading a thoughtful counsellor who is less suited to bold action.",
+    "themes": [
+      "siblings",
+      "effort",
+      "thrift",
+      "communication",
+      "hesitation"
+    ],
+    "common_outcomes": [
+      "Stingy or miserly (Phaladeepika 8.14; Brihat Jataka 20.7; Bhrigu Sutras 13-18; Raman)",
+      "Many or notable siblings (Phaladeepika 8.14; Bhrigu Sutras 13-18; Raman)",
+      "Humiliated or disrespected (Phaladeepika 8.14; Saravali 30.52)",
+      "Optimistic, philosophical mind (Raman)"
+    ],
+    "rare_outcomes": [
+      "Dominated by the wife (Saravali 30.52; Jataka Parijata 8.66)",
+      "Ever successful despite the faults (Saravali 30.52)",
+      "Travel around the 38th year (Bhrigu Sutras 13-18); text detail only",
+      "Fortunate yet unable to earn as much as he hopes (Chamatkar Chintamani, via summary)"
+    ],
+    "by_area": {
+      "personality": "Malicious, sinful (Phaladeepika 8.14); clever and determined (Bhrigu Sutras 13-18); optimistic but conventional, misses opportunities (Raman); a counsellor more than a fighter, may hesitate (PanchangBodh).",
+      "career": "Writers, editors, teachers, publishers (PanchangBodh).",
+      "finance": "Indigent (Jataka Parijata 8.66); poor if the 3rd lord is afflicted (Bhrigu Sutras 13-18).",
+      "health": "Digestive weakness (Saravali 30.52); body heated, ill health (Raman).",
+      "relationships": "Few friends (Raman); friend to nobody (Chamatkar Chintamani, via summary).",
+      "family": "A brother of high standing (Phaladeepika 8.14); strong 3rd lord gives long-lived brothers (Bhrigu Sutras 13-18); sibling relations ethical but sometimes distant (PanchangBodh).",
+      "spirituality": "Faith grows through personal experience (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Strong 3rd lord: long-lived brothers (Bhrigu Sutras 13-18)",
+      "Upachaya house: improves with effort and age (PanchangBodh)",
+      "Its aspects on the 7th, 9th and 11th support marriage, fortune and gains (Bhrigu Sutras commentary; PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "3rd lord with a malefic: loss of brothers, impatience, poverty (Bhrigu Sutras 13-18)",
+      "Afflicted: ingratitude (Raman)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.14 (Mantreswara; English rendering on siva.sh)",
+        "view": "Disrespected, stingy, well-known brother, sinful, malicious.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.52 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Greatly humiliated, vile, ever successful, digestive deficiency, defeated by women, sinful.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 3rd makes the person stingy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.66 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Indigent, henpecked and addicted to evil.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 13-18, with the English commentator's notes (commentator not named in file)",
+        "view": "Miserly, many brothers, clever, determined, forsakes relations; strong 3rd lord helps brothers; commentator: all agree on miserliness but other evils apply only to an afflicted Jupiter.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Happiness from brothers but ungrateful and friendless; fortunate yet earns less than he wants.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. VI 'Planets in the Third House' p.75",
+        "view": "A good position: optimistic, philosophical, many good brothers, but miserly, not affectionate at home, few friends, misses opportunities.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Counsellor rather than fighter; less comfortable; writing, teaching, publishing; siblings ethical but distant; upachaya improves; aspects 7, 9, 11.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Planner, sociable, quick learner; downside stress from trying to do everything.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Phaladeepika 8.14, Saravali 30.52 and Jataka Parijata 8.66 are negative (sinful, humiliated, henpecked); Brihat Jataka says only stingy; Raman calls it 'also a good position' while listing faults; PanchangBodh and the Bhrigu Sutras commentator treat the negatives as applying only under affliction. Saravali alone adds 'ever successful'.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a reflective, principled person who may be cautious with money and slow to push. Avoid moral labels like 'sinful' or 'vile'."
+  },
+  {
+    "id": "planet_in_house/jupiter/4",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 4
+    },
+    "summary": "Jupiter in the 4th is consistently read as happiness at home: family, mother, friends, property, conveyances and contentment, often with learning and religious leaning.",
+    "themes": [
+      "home",
+      "mother",
+      "happiness",
+      "property",
+      "inner peace"
+    ],
+    "common_outcomes": [
+      "Happy (Brihat Jataka 20.7; Phaladeepika 8.14; Bhrigu Sutras 19-23; Raman)",
+      "Happiness with mother, friends, spouse, children, attendants (Phaladeepika 8.14)",
+      "Relatives, conveyances, wealth, comforts (Saravali 30.53; Jataka Parijata 8.69)",
+      "Land and property (Bhrigu Sutras 19-23; PanchangBodh)"
+    ],
+    "rare_outcomes": [
+      "Crafty disposition (Jataka Parijata 8.69)",
+      "Enemies act like servants, yet not contented (Chamatkar Chintamani, via summary)",
+      "Gajakesari Yoga if joined by the Moon (Bhrigu Sutras commentary)"
+    ],
+    "by_area": {
+      "personality": "Wise, of good conduct, highly intelligent (Bhrigu Sutras 19-23); philosophically inclined, learned (Raman); eloquent (Jataka Parijata 8.69); comfort can breed complacency (PanchangBodh).",
+      "career": "Favour of the ruling class (Raman); gains in property and vehicles (PanchangBodh).",
+      "finance": "Wealth, grain, conveyances (Phaladeepika 8.14; Saravali 30.53); landlord (Bhrigu Sutras 19-23).",
+      "health": "",
+      "relationships": "A source of misery to enemies (Saravali 30.53); terror to enemies (Raman).",
+      "family": "Happiness with mother and family (Phaladeepika 8.14); respected mother (PanchangBodh); peaceful domestic life (Raman).",
+      "spirituality": "Religious inclination and great spiritual advancement (Raman); home as a place of learning or worship (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Strong 4th lord, or Venus or Moon association, or benefic vargas: many lands and a spacious house (Bhrigu Sutras 20)",
+      "With the Moon: Gajakesari Yoga (Bhrigu Sutras commentary)",
+      "Well fortified: prosperity in all 4th-house matters and a peaceful home (Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "Aspected or joined by a malefic: no land or conveyance, living in others' houses, bitterness with relatives (Bhrigu Sutras 21-23)",
+      "Afflicted: hardships and obstacles (Raman)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Virgo lagna (4th and 7th lord in own sign), Sagittarius lagna (lagna and 4th lord) and Aries lagna (exalted 9th lord) give better results.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.14 (Mantreswara; English rendering on siva.sh)",
+        "view": "Lives happily with mother, friends, attendants, children, spouse and grain.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.53 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Relatives, paraphernalia, conveyance, happiness, intelligence, pleasures, wealth; great; a misery to enemies.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 4th makes the person happy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.69 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Eloquent, wealthy, with comfort, fame, strength and beauty, but crafty.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 19-23, with the English commentator's notes (commentator not named in file)",
+        "view": "Happy, wise, good conduct, intelligent, landlord; strong 4th lord gives lands and a large house; malefic influence removes property; commentator commends this reading; Gajakesari and Hamsa noted.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Owns horses, takes part in religious ceremonies, enemies act like servants, yet not contented.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. VII 'Planets in the Fourth House' p.91",
+        "view": "Philosophical, learned, happy, royal favour, terror to enemies, religious, respected, peaceful home, spiritual advancement; afflicted hardships.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Contentment, respected mother, home of learning or worship, property and vehicles; Hamsa; complacency; aspects 8, 10, 12.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Business gains, generosity, luck; downside strain with spouse and mother.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Little classical disagreement. Jataka Parijata 8.69 adds 'crafty' and Chamatkar Chintamani 'not contented'; VedicFeed alone suggests strain with the mother.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of a peaceful, values-centred home and inner contentment. Property and vehicles can be mentioned as traditional indications, not promises."
+  },
+  {
+    "id": "planet_in_house/jupiter/5",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 5
+    },
+    "summary": "Jupiter in the 5th gives intelligence and good counsel in every text; on children the texts split sharply, Phaladeepika and Jataka Parijata seeing few or distress, Saravali and Bhrigu Sutras many.",
+    "themes": [
+      "intelligence",
+      "counsel",
+      "children",
+      "mantra",
+      "merit"
+    ],
+    "common_outcomes": [
+      "Intelligent (Brihat Jataka 20.7; Phaladeepika 8.15; Bhrigu Sutras 24-31; Raman)",
+      "Adviser or minister to rulers (Phaladeepika 8.15; Raman)",
+      "Clever in counsel, virtuous (Jataka Parijata 8.73)",
+      "Learned, happy, wealthy (Saravali 30.54)"
+    ],
+    "rare_outcomes": [
+      "Distress through children (Phaladeepika 8.15); few sons (Jataka Parijata 8.73)",
+      "Many sons and friends (Saravali 30.54); many prosperous children (Bhrigu Sutras 24-31)",
+      "A responsible post early in life, around the 18th year (Bhrigu Sutras 24, as read by its commentator)",
+      "Wealth through children (Chamatkar Chintamani, via summary)"
+    ],
+    "by_area": {
+      "personality": "Courageous and always happy (Saravali 30.54); good conversationalist, feeds others (Bhrigu Sutras 24-31); discriminating, decorous manners (Raman).",
+      "career": "Adviser to rulers (Phaladeepika 8.15); logic, law, preceptor (Raman); orator and imaginative writer (Chamatkar Chintamani, via summary).",
+      "finance": "Choice riches (Jataka Parijata 8.73); weak 5th lord can bring fines or losses through government (Bhrigu Sutras 26-29 as interpreted by the commentator).",
+      "health": "",
+      "relationships": "Many friends (Saravali 30.54); good friends and vehicles (Raman).",
+      "family": "Children: few or a source of distress (Phaladeepika, Jataka Parijata) versus many and prosperous (Saravali, Bhrigu Sutras, Raman); PanchangBodh says never judge timing or number of children from this alone.",
+      "spirituality": "Mantra, past merit, god-fearing (Raman; PanchangBodh)."
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Benefic aspect on Jupiter protects children even with Rahu/Ketu (Bhrigu Sutras 31)",
+      "Strengthened Jupiter: a smooth life (Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "Weak 5th lord (malefic, enemy or debilitated sign): loss of children or only one (Bhrigu Sutras 26-29 as interpreted)",
+      "With Rahu or Ketu: harm to children unless a benefic aspects (Bhrigu Sutras 30-31)",
+      "'Karako bhava nashaya' (significator in its own house harms it) is invoked here by some; PanchangBodh calls it debated"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Leo lagna (5th lord in own sign), Scorpio lagna (2nd and 5th lord) and Pisces lagna (exalted lagna and 10th lord) are very beneficial.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.15 (Mantreswara; English rendering on siva.sh)",
+        "view": "Distress through children, but intelligent and an adviser to rulers.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.54 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Abundant happiness, many sons and friends, learned, courageous, wealthy, always happy.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 5th makes the person intelligent.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.73 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Clever in counsel, virtuous, choice riches, but few sons.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 24-31, with the English commentator's notes (commentator not named in file)",
+        "view": "Highly intelligent, conversationalist, many prosperous children; weak 5th lord or Rahu/Ketu harm children; commentator says Phaladeepika follows 'karako bhava nashaya' and recommends Bhrigu Sutras and Saravali.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Fond of luxuries, orator, imaginative writer, sometimes gains through children.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. VIII 'Planets in the Fifth House' p.115",
+        "view": "Logic, law, mantrasastra, preceptor or adviser to a king, discrimination, good friends, several children, god-fearing.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Intellect, mantra and merit; cites Phaladeepika's praise of counsel; 'karako bhava nashaya' debated; do not judge children from this alone; aspects 9, 11, 1.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Generous, playful, creative; downside ego and weaker memory.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Children: Phaladeepika 8.15 (distress) and Jataka Parijata 8.73 (few sons) versus Saravali 30.54, Bhrigu Sutras 24-31 and Raman (many). The Bhrigu Sutras commentator attributes Phaladeepika's view to the 'karako bhava nashaya' maxim; PanchangBodh calls that maxim debated.",
+    "confidence": "medium",
+    "phrasing_guidance": "Lead with intelligence, judgement and teaching ability. Never predict difficulty with children from this placement; say the texts differ and the full 5th house decides."
+  },
+  {
+    "id": "planet_in_house/jupiter/6",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 6
+    },
+    "summary": "Jupiter in the 6th overcomes enemies in every text, but most classics add laziness, humiliation and some weakness of health or digestion; modern writers read service, healing and reconciliation.",
+    "themes": [
+      "enemies overcome",
+      "service",
+      "health",
+      "humiliation",
+      "mantra"
+    ],
+    "common_outcomes": [
+      "Defeats or has no enemies (Phaladeepika 8.15; Saravali 30.55; Brihat Jataka 20.7; Jataka Parijata 8.77; Bhrigu Sutras 32-34)",
+      "Inactive or indolent (Phaladeepika 8.15; Saravali 30.55; Raman)",
+      "Faces disrespect or humiliation (Phaladeepika 8.15; Saravali 30.55; Raman)",
+      "Weak or low digestive fire (Saravali 30.55; Jataka Parijata 8.77; Raman)"
+    ],
+    "rare_outcomes": [
+      "Skilled in mantras and counter-sorcery (Phaladeepika 8.15; Raman)",
+      "Famous on account of women (Saravali 30.55)",
+      "Growth of the family and grandchildren; scars on the body (Bhrigu Sutras 32-34)"
+    ],
+    "by_area": {
+      "personality": "Lustful but victorious (Jataka Parijata 8.77); goodwill toward opponents, accommodating (PanchangBodh).",
+      "career": "Doctors, lawyers, social workers, teachers of the underprivileged, service roles (PanchangBodh).",
+      "finance": "Spending turns to charity; caution with loans on trust (PanchangBodh); 'unlucky' (Raman).",
+      "health": "Dyspepsia but health generally good (Raman); free from disease with a benefic, cold or rheumatic troubles with a malefic (Bhrigu Sutras 32-34); liver and weight from rich diet (PanchangBodh).",
+      "relationships": "Enemies reconciled rather than crushed (PanchangBodh); happiness from the wife (Chamatkar Chintamani, via summary).",
+      "family": "Growth of family members (Bhrigu Sutras 32-34).",
+      "spirituality": "Interest in mantra (Phaladeepika 8.15)."
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Benefic conjunction: freedom from disease (Bhrigu Sutras 33)",
+      "In Cancer the challenges soften considerably (PanchangBodh)",
+      "Satyacharya, as read by Bhattotpala (Brihat Jataka 20.10 notes): a benefic in the 6th destroys enemies"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "Placed in a dusthana as lord of an auspicious house, Jupiter harms that house's matters (Bhrigu Sutras commentary on houses 6 and 8)",
+      "With a malefic or in a malefic's sign: rheumatic or cold-related ailments; in Capricorn or Aquarius with Rahu/Ketu, serious illness (Bhrigu Sutras 33-34)",
+      "Afflicted: hardships, intemperance in food, health hurt by overindulgence (Raman)",
+      "In Capricorn the challenges sharpen (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.15 (Mantreswara; English rendering on siva.sh)",
+        "view": "Inactive, faces disrespect, defeats enemies, skilled in mantras and counter-sorcery.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.55 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Lacks digestive fire and virility, humiliated, weak, indolent, famous through women, destroys enemies, widely famous.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 6th makes the person without enemies.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.77 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Lustful, victorious over foes, but weak.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 32-34, with the English commentator's notes (commentator not named in file)",
+        "view": "Destroys enemies, family grows; benefic company keeps him healthy, malefic company brings ailments; commentator: the house harms what Jupiter rules.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Destroys enemies; happiness from wife; often sickly.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. IX 'Planets in the Sixth House' p.137",
+        "view": "Inactive, disrespected, black magic, feared by enemies, unlucky, dyspeptic, health generally good; afflicted overindulgence.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Service and goodwill to opponents; testing placement; healing and legal careers; liver and weight; charity; Capricorn harder, Cancer easier.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Strong work ethic and reputation; downside tension and sensitivity to criticism.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      },
+      {
+        "source": "Brihat Jataka 20.10 notes (Satyacharya, as interpreted by Bhattotpala)",
+        "view": "Benefics in the 6th destroy enemies; malefics increase them.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "All agree enemies are overcome. Health: Saravali 30.55 and Jataka Parijata 8.77 stress weakness, Raman says health is generally good apart from digestion, Bhrigu Sutras makes it depend on associations. The Bhrigu Sutras commentator notes the classics give both good and bad results without reference to associations.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as someone who wins by fairness and service, suited to healing, legal or helping work. Mention digestion or diet only as a general wellbeing tip."
+  },
+  {
+    "id": "planet_in_house/jupiter/7",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 7
+    },
+    "summary": "Jupiter in the 7th is read very favourably: a good, attractive spouse, a person who surpasses the father in qualities, eloquence and learning; only Jataka Parijata adds friction with parents and teachers.",
+    "themes": [
+      "marriage",
+      "spouse",
+      "partnership",
+      "learning",
+      "surpassing the father"
+    ],
+    "common_outcomes": [
+      "Good or beautiful spouse (Phaladeepika 8.15; Saravali 30.56; Jataka Parijata 8.80; Raman)",
+      "Surpasses the father in qualities or generosity (Phaladeepika 8.15; Saravali 30.56; Brihat Jataka 20.7; Raman)",
+      "Eloquent, a poet, learned and famous (Saravali 30.56)",
+      "Gains through marriage (Raman; Bhrigu Sutras 35-37)"
+    ],
+    "rare_outcomes": [
+      "Antipathy toward parents and preceptors (Jataka Parijata 8.80)",
+      "Respect and happiness around the 34th year (Bhrigu Sutras 37); text detail only",
+      "Head of a village (Saravali 30.56, as rendered in the Bhrigu Sutras commentary)",
+      "Undertakes distant pilgrimages; good agriculturist (Raman)"
+    ],
+    "by_area": {
+      "personality": "Very pleasant (Phaladeepika 8.15); charming (Saravali 30.56); diplomatic, kind, sensitive to others (Raman); resolute (Jataka Parijata 8.80).",
+      "career": "Business built on trust (PanchangBodh); speculative mind (Raman).",
+      "finance": "Wealth through the spouse (Bhrigu Sutras 37; Raman).",
+      "health": "",
+      "relationships": "Virtuous, good-looking, chaste spouse (Raman); wise, ethical or educated spouse (PanchangBodh); with benefics or dignity, one devoted marriage (Bhrigu Sutras 37); significator of the husband in a woman's chart (PanchangBodh).",
+      "family": "Good children (Phaladeepika 8.15; Raman); exceeds the father (Brihat Jataka 20.7).",
+      "spirituality": "Pilgrimages to distant places (Raman)."
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Benefic association, own sign or exaltation: one spouse and wealth through marriage (Bhrigu Sutras 37)",
+      "Hamsa Yoga in Sagittarius, Pisces or Cancer (PanchangBodh; Bhrigu Sutras commentary)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "No directional strength in the 7th (PanchangBodh)",
+      "Weak 7th lord, or Rahu, Ketu, Saturn or Mars with or aspecting it: extra-marital tendencies (Bhrigu Sutras 36)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Gemini lagna (7th and 10th lord) and Virgo lagna (4th and 7th lord) give Dhana yogas; for Capricorn lagna Jupiter (3rd and 12th lord) is exalted here, and the commentator cites Uttara Kalamrita IV.9 (via summary) that Jupiter owning the 3rd and 12th still does good.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.15 (Mantreswara; English rendering on siva.sh)",
+        "view": "Good spouse and children, very pleasant, more generous than the father.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.56 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Charming, beautiful wife, greater than his father, eloquent, a poet, superior, learned, famous.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 7th makes the person excel his father.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.80 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Resolute, lovely wife, but antipathy toward parents and preceptors.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 35-37, with the English commentator's notes (commentator not named in file)",
+        "view": "Educated and chaste; affliction to the 7th lord brings infidelity; dignity or benefics give one marriage and wealth through the spouse; commentator: all authorities agree it is very good.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Highly intelligent, not drawn to other women, powerful, handsome.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the 7th House' p.173",
+        "view": "Diplomatic, kind; virtuous, chaste, good-looking wife; gains through marriage; sensitive; pilgrimages; superior to father; good sons.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Wise, ethical spouse; trust-based business; no digbala but supportive; husband karaka in women's charts; Hamsa; aspects 11, 1, 3.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Wealth, luck and spiritual growth; downside risk of affairs and separation.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Jataka Parijata 8.80 alone says the person dislikes parents and teachers, against the others' 'excels the father'. VedicFeed's risk of affairs has no classical basis except Bhrigu Sutras' condition of an afflicted 7th lord.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of a partnership built on respect, values and shared growth. Avoid predicting infidelity; if relevant, tie it only to the specific afflictions the texts name."
+  },
+  {
+    "id": "planet_in_house/jupiter/8",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 8
+    },
+    "summary": "Jupiter in the 8th is one of its poorer classical placements: long life is promised by most texts, but with service, low status or ignoble deeds; only own or exaltation sign is good in Bhrigu Sutras, while modern writers read protection through crises and research.",
+    "themes": [
+      "longevity",
+      "dependence",
+      "hidden knowledge",
+      "crisis protection",
+      "inheritance"
+    ],
+    "common_outcomes": [
+      "Long-lived (Phaladeepika 8.15; Saravali 30.57; Jataka Parijata 8.84; Raman)",
+      "Poverty, service or subordination (Phaladeepika 8.15; Saravali 30.57)",
+      "Ignoble or base deeds (Brihat Jataka 20.7; Jataka Parijata 8.84; Raman)",
+      "Sagacious or generous-hearted (Jataka Parijata 8.84; Raman)"
+    ],
+    "rare_outcomes": [
+      "Short life (Bhrigu Sutras 38), against the other texts",
+      "In own or exaltation sign: long-lived, healthy, saintly, learned in Vedas (Bhrigu Sutras 43)",
+      "Will not live long in the paternal home (Chamatkar Chintamani, via summary)",
+      "Difficulty in speech (Raman)"
+    ],
+    "by_area": {
+      "personality": "Unhappy but generous (Raman); may do ignoble deeds while appearing noble (Raman; Jataka Parijata 8.84).",
+      "career": "Astrology, philosophy, medicine, insurance, taxation, investigation, esoteric research (PanchangBodh); servant or dependent (Phaladeepika 8.15; Saravali 30.57).",
+      "finance": "Poor (Phaladeepika 8.15); inheritance, spouse's family or joint funds (PanchangBodh); wealth if the 2nd falls in Sagittarius or Pisces, by Jupiter's aspect (Bhrigu Sutras commentary).",
+      "health": "Not in good health (Chamatkar Chintamani, via summary); bowel complaints (Raman); comes through crises and surgeries with timely help (PanchangBodh).",
+      "relationships": "Liaisons with women of low status (Saravali 30.57; Raman).",
+      "family": "Serves his own people (Saravali 30.57).",
+      "spirituality": "Hidden knowledge and esoteric study (PanchangBodh); saintly when dignified (Bhrigu Sutras 43)."
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Own sign or exaltation: long life, health, learning (Bhrigu Sutras 43)",
+      "8th lord strong and with benefics: long life (Bhrigu Sutras 40)",
+      "Uttara Kalamrita IV.9, as cited in the Bhrigu Sutras commentary (via summary): Jupiter occupying the 8th, or owning it, does good",
+      "Satyacharya, as read by Bhattotpala (Brihat Jataka 20.10 notes): a benefic in the 8th lengthens life",
+      "Protection is marked in Cancer (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "Placed in a dusthana as lord of an auspicious house, Jupiter harms that house's matters (Bhrigu Sutras commentary on houses 6 and 8)",
+      "With a malefic: sinful conduct; 8th lord with a malefic, improper liaisons (Bhrigu Sutras 39, 42)",
+      "Debilitated with the Moon in the 4th: a menial position (Raman)",
+      "In Capricorn it needs support from the rest of the chart (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.15 (Mantreswara; English rendering on siva.sh)",
+        "view": "Poor, works as a servant, prone to sin, but long-lived.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.57 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Insulted, long-lived, a servant serving his own people, pitiable, union with low women.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 8th makes the person base.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.84 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Long-lived and sagacious but of ignoble deeds.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 38-43, with the English commentator's notes (commentator not named in file)",
+        "view": "Short-lived and given to improper activities unless Jupiter is in own or exaltation sign or the 8th lord is strong; commentator notes Phaladeepika and Saravali say long life and thinks an unafflicted Jupiter should help longevity.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Will not live long in the paternal house; poor health.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Eighth House' p.213",
+        "view": "Unhappy but generous, long-lived, speech difficulty, ignoble deeds behind a noble face, bowel trouble, a peaceful end; debilitated with Moon in 4th, menial.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Tests Jupiter; protector through crises; astrology, medicine, insurance, research; inheritance; Cancer protects, Capricorn needs support; aspects 12, 2, 4.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Knowledge, research, intuition; downside strained relationships and being misunderstood.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Longevity: Phaladeepika 8.15, Saravali 30.57, Jataka Parijata 8.84 and Raman say long-lived; Bhrigu Sutras 38 says short-lived unless dignified. The Bhrigu Sutras commentator flags this and sides with longevity for an unafflicted Jupiter. Tone: classics are negative on status and conduct; PanchangBodh reframes the placement as protective.",
+    "confidence": "medium",
+    "phrasing_guidance": "Never make longevity or death statements. Present as depth, endurance and interest in hidden or healing knowledge, with possible dependence on others' resources; avoid moral labels."
+  },
+  {
+    "id": "planet_in_house/jupiter/9",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 9
+    },
+    "summary": "Jupiter in the 9th is unanimously one of its finest placements: devotion, wisdom, prosperity, children and high counsel, with a respected father or teacher.",
+    "themes": [
+      "dharma",
+      "fortune",
+      "wisdom",
+      "teachers",
+      "high counsel"
+    ],
+    "common_outcomes": [
+      "Devout and philosophical (Brihat Jataka 20.7); devoted to duty (Jataka Parijata 8.87; Saravali 30.58)",
+      "Minister or chief adviser (Phaladeepika 8.16; Saravali 30.58; Jataka Parijata 8.87)",
+      "Prosperous, with children (Phaladeepika 8.16)",
+      "Pious, charitable, wealthy (Bhrigu Sutras 44-45)"
+    ],
+    "rare_outcomes": [
+      "Commander of an army or recognised leader (Saravali 30.58)",
+      "A palatial home and royal favour (Chamatkar Chintamani, via summary)",
+      "Austerity and striving for divine communion when Saturn aspects well (Raman)",
+      "Characterless if joined by the Sun and Venus (Raman)"
+    ],
+    "by_area": {
+      "personality": "Righteous, protects many (Bhrigu Sutras 44-45); conservative and principled (Raman); shadow is rigid belief (PanchangBodh).",
+      "career": "Exponent of law and philosophy; lecturer or preacher abroad (Raman); minister (Phaladeepika 8.16).",
+      "finance": "Wealthy (Bhrigu Sutras 44-45); immovable property with benefic aspects (Raman).",
+      "health": "",
+      "relationships": "Loved by near relations (Chamatkar Chintamani, via summary); fond of brothers (Raman).",
+      "family": "Father long-lived (Bhrigu Sutras 44-45); respected father or guru (PanchangBodh); attached to paternal duties (Saravali 30.58).",
+      "spirituality": "Meditation and religious rites (Bhrigu Sutras 44-45); sincere faith, higher learning, pilgrimage (PanchangBodh); attached to divine duties (Saravali 30.58)."
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "In own sign as 9th lord: a powerful Raja Yoga (Bhrigu Sutras commentary)",
+      "Benefic aspects: much immovable property (Raman)",
+      "Moon and Mars influence: military leadership (Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "Sun and Venus joining Jupiter here spoil character (Raman)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: for Scorpio lagna an exalted Jupiter here rules the 2nd and 5th, a very powerful yoga for prosperity and fame; in own sign it is 9th lord in the 9th (Sagittarius for Leo lagna, Pisces for Cancer lagna).",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.16 (Mantreswara; English rendering on siva.sh)",
+        "view": "A well-known minister, prosperous, with children, keen on virtuous acts.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.58 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Attached to divine and paternal duties, learned, fortunate, a king's minister, leader or chief.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 9th makes the person devout and philosophical.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.87 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Wise, devoted to duties, serves as a king's minister.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 44-45, with the English commentator's notes (commentator not named in file)",
+        "view": "Religious, charitable, meditative, pious, wealthy, father long-lived, honoured, protects many; commentator: all authorities agree it is very favourable.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Palatial mansion, favourite of the king, loved by relations.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Ninth House' p.269",
+        "view": "Exponent of law and philosophy; property with benefic aspects; lecturer abroad; conservative, principled; with Saturn's good aspect, austerity and devotion.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Sincere faith, higher learning, pilgrimages; co-significator of the 9th with the Sun; respected father or guru; one of the finest placements; shadow rigid belief.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Learning and teaching, travel, publishing; downside friends over family.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "No classical disagreement. Only VedicFeed adds a family downside.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of wisdom, faith in meaning, good teachers and the role of guide. Keep religious framing optional and avoid implying superiority."
+  },
+  {
+    "id": "planet_in_house/jupiter/10",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 10
+    },
+    "summary": "Jupiter in the 10th is read as virtuous success and renown: wealth, royal or official favour and a reputation for integrity; only Chamatkar Chintamani adds unhappiness about children.",
+    "themes": [
+      "career",
+      "reputation",
+      "virtue",
+      "authority",
+      "wealth"
+    ],
+    "common_outcomes": [
+      "Wealthy (Brihat Jataka 20.7; Phaladeepika 8.16; Jataka Parijata 8.91; Raman)",
+      "Proper, virtuous conduct and renown (Phaladeepika 8.16; Jataka Parijata 8.91; Bhrigu Sutras 46-49)",
+      "Success in undertakings (Saravali 30.59; Jataka Parijata 8.91)",
+      "Favour of rulers or government; high official (Phaladeepika 8.16; Raman)"
+    ],
+    "rare_outcomes": [
+      "Excels forefathers; signs of headship (Chamatkar Chintamani, via summary)",
+      "Unhappy about children (Chamatkar Chintamani, via summary)",
+      "Heads research or educational institutions if Mars aspects (Raman)"
+    ],
+    "by_area": {
+      "personality": "Steadfast in own faith, wise, principled (Jataka Parijata 8.91; Raman); honourable and effortful (Saravali 30.59).",
+      "career": "High government official (Raman); teaching, law, advising, administration, finance with reputation resting on ethics (PanchangBodh).",
+      "finance": "Very rich (Phaladeepika 8.16); abundant welfare, wealth and conveyances (Saravali 30.59).",
+      "health": "",
+      "relationships": "Respected by the public (Bhrigu Sutras 46-49; Saravali 30.59 as rendered in the commentary).",
+      "family": "Relatives and happiness (Saravali 30.59).",
+      "spirituality": "Religious-minded, studies the Gita (Bhrigu Sutras 46-49); steadfast in spiritual life (Raman)."
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Strong 10th lord: high religious works (Bhrigu Sutras 47)",
+      "Own sign Sagittarius or Pisces: a powerful Raja Yoga (Bhrigu Sutras commentary)",
+      "As a natural benefic in the 10th, Amala Yoga (Bhrigu Sutras commentary)",
+      "With Venus: esteem from government (Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "10th lord with a malefic or in a malefic's sign: career obstacles and financial strain (Bhrigu Sutras 48-49)",
+      "With Rahu: a troublemaker (Raman)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Pisces lagna (lagna and 10th lord), Gemini lagna (7th and 10th lord), Virgo lagna (4th and 7th lord) and Sagittarius lagna (lagna and 4th lord) give Dhana yogas; for Libra lagna, an exalted Jupiter here (3rd and 6th lord) still gives yoga results, citing Bhavartha Ratnakara (via summary).",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.16 (Mantreswara; English rendering on siva.sh)",
+        "view": "Proper conduct, renowned for virtue, very rich, a favourite of the king.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.59 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Successful beginnings, honourable, effortful, abundant welfare, happiness, wealth, relatives, conveyances and fame.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 10th makes the person wealthy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.91 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Succeeds in undertakings, virtuous, steadfast in his own religion, wise and wealthy.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 46-49, with the English commentator's notes (commentator not named in file)",
+        "view": "Religious, righteous, very able, widely reputed, respected by the masses; afflicted 10th lord brings career obstacles; commentator lists Dhana, Raja, Hamsa and Amala yogas.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Signs of headship, a decorated home, excels forefathers, but unhappy about children.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Tenth House' p.300",
+        "view": "High government official, rich, virtuous, steadfast, wise, principled; with Venus esteem; with Rahu mischief; Mars aspect heads institutions.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Authority through knowledge and integrity; teaching, law, advising, administration, finance; Hamsa; aspects 2, 4, 6.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Career success, fame, respected standing; downside ego problems, fewer friends.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Agreement on success. Only Chamatkar Chintamani (via summary) adds unhappiness about children, which the Bhrigu Sutras commentator treats as the sole exception.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a career of trust and integrity: teaching, advising, administration. Avoid guaranteeing status; speak of reputation built on ethics."
+  },
+  {
+    "id": "planet_in_house/jupiter/11",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 11
+    },
+    "summary": "Jupiter in the 11th is a strong placement for gains: wealth, conveyances, servants and fame; Phaladeepika and Saravali add few children, and Saravali limited education.",
+    "themes": [
+      "gains",
+      "wealth",
+      "fulfilled wishes",
+      "networks",
+      "intellect"
+    ],
+    "common_outcomes": [
+      "Wealthy, many gains (Phaladeepika 8.16; Saravali 30.60; Jataka Parijata 8.95; Bhrigu Sutras 50-53; Raman)",
+      "Prosperous (Brihat Jataka 20.7)",
+      "Conveyances and servants (Phaladeepika 8.16; Saravali 30.60)",
+      "Strong or piercing intellect, renowned (Jataka Parijata 8.95; Raman)"
+    ],
+    "rare_outcomes": [
+      "Few children (Phaladeepika 8.16; Saravali 30.60; Raman)",
+      "Limited education (Saravali 30.60)",
+      "Five children; spends for others' good; maintains his father (Chamatkar Chintamani, via summary)",
+      "Effortless gains if joined by the Moon (Bhrigu Sutras 53)"
+    ],
+    "by_area": {
+      "personality": "Fearless (Phaladeepika 8.16); bold (Raman); virtuous (Saravali 30.60).",
+      "career": "Gains through education, consulting, finance, publishing or institutions (PanchangBodh).",
+      "finance": "Many gains, conveyances and servants (Saravali 30.60); income rises steadily, wishes often fulfilled later in life (PanchangBodh).",
+      "health": "Long-lived (Phaladeepika 8.16; Raman).",
+      "relationships": "Many friends (Raman); influential friends and mentors; supportive elder siblings (PanchangBodh).",
+      "family": "Children: few (Phaladeepika, Saravali, Raman) versus several (Chamatkar Chintamani; Bhrigu Sutras commentary).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "With other benefics (even with malefics present): pronounced good luck (Bhrigu Sutras 52 and commentary)",
+      "With the Moon: effortless gains (Bhrigu Sutras 53)",
+      "Upachaya house where even malefics do well (Bhrigu Sutras commentary)",
+      "In Cancer income flows more easily (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "In Capricorn income comes with more struggle (PanchangBodh)",
+      "Many opportunities can scatter attention (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Aquarius lagna (2nd and 11th lord in own sign) and Virgo lagna (exalted 4th and 7th lord) give very powerful Dhana yogas.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.16 (Mantreswara; English rendering on siva.sh)",
+        "view": "Wealthy, fearless, few children, long-lived, travels by vehicle.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.60 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Many gains, conveyances and servants, virtuous, but limited education and few sons.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 11th makes the person prosperous.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.95 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Strong intellect, celebrated name, wealthy.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 50-53, with the English commentator's notes (commentator not named in file)",
+        "view": "Learned, wealthy, many gains, conveyances and fame; benefic company adds luck, the Moon effortless gains; commentator disputes 'few children' because Jupiter aspects the 5th from here.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Gold and silver, intelligent, maintains father, five children, spends for others.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Eleventh House' p.365",
+        "view": "Long-lived, limited issue, bold, wealthy, piercing intellect, renowned, musical, many friends.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Wishes fulfilled, often later; steady income; gains via education and institutions; influential friends; scattering risk; aspects 3, 5, 7.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Highly beneficial for health, wealth and relations; mild difficulty balancing friends and family.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      }
+    ],
+    "disagreements": "Children: Phaladeepika 8.16, Saravali 30.60 and Raman say few; the Bhrigu Sutras commentator rejects this because Jupiter aspects the 5th from the 11th, and Chamatkar Chintamani says five. Saravali alone limits education.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of growing gains, good mentors and wishes fulfilled with time. Do not predict number of children."
+  },
+  {
+    "id": "planet_in_house/jupiter/12",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Jupiter",
+      "house": 12
+    },
+    "summary": "Jupiter in the 12th is read negatively by every classic (disliked, idle, poor speech, servitude, scepticism), while modern writers reframe it as generosity, spiritual retreat and moksha.",
+    "themes": [
+      "expenditure",
+      "loss",
+      "retreat",
+      "charity",
+      "moksha"
+    ],
+    "common_outcomes": [
+      "Disliked or odious (Phaladeepika 8.16; Saravali 30.61)",
+      "Idle or indolent (Phaladeepika 8.16; Saravali 30.61)",
+      "Poor or harsh speech (Phaladeepika 8.16; Saravali 30.61)",
+      "Servitude (Phaladeepika 8.16; Saravali 30.61)"
+    ],
+    "rare_outcomes": [
+      "A 'villain' (Brihat Jataka 20.7)",
+      "Sceptical about religion, irresolute, wandering (Jataka Parijata 8.98); derides religion but later repents and reforms (Raman)",
+      "Interested in study and mathematics, few children (Bhrigu Sutras 54-58)",
+      "Spends on good causes without praise (Chamatkar Chintamani, via summary)"
+    ],
+    "by_area": {
+      "personality": "Evil-minded (Jataka Parijata 8.98; Raman); generosity and release (PanchangBodh).",
+      "career": "Hospitals, ashrams or life abroad (PanchangBodh); service to others (Phaladeepika 8.16).",
+      "finance": "Poor (Bhrigu Sutras 54); loss of wealth (Chamatkar Chintamani, via summary); spends on charity, education, pilgrimage and guests faster than it saves (PanchangBodh).",
+      "health": "Restful sleep is common (PanchangBodh).",
+      "relationships": "Lascivious life, later reformed (Raman); loose character (Bhrigu Sutras 54).",
+      "family": "No or few children (Phaladeepika 8.16; Bhrigu Sutras 54).",
+      "spirituality": "Spends on religious causes (Bhrigu Sutras 58); meditation, retreat, service in institutions, moksha (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Exalted (Cancer) or own sign (Sagittarius, Pisces): Brihat Jataka 20.11 scales a benefic's good results from full in exaltation to half in own sign; Bhrigu Sutras repeatedly gives the full good results only in own or exaltation sign",
+      "In a kendra in Sagittarius, Pisces or Cancer it forms Hamsa Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "With a benefic, or in own or exaltation sign, an auspicious afterlife is promised (Bhrigu Sutras 55); read as strong spiritual merit",
+      "As lord of the 6th, 8th or 12th it can give Vipareeta Raja Yoga (Uttara Kalamrita, as quoted in the Bhrigu Sutras commentary; via summary)",
+      "Pisces makes the spiritual current strong (PanchangBodh)",
+      "Satyacharya, as read by Bhattotpala (Brihat Jataka 20.10 notes): a benefic in the 12th reduces expenditure"
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation in Capricorn, an enemy's sign or malefic association turns results adverse (Bhrigu Sutras, e.g. sutras 5-6, 10-12)",
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust",
+      "Kendra ownership (kendradhipati dosha) for Gemini and Virgo lagnas, where Jupiter is also a maraka (PanchangBodh)",
+      "As lord of good houses it harms them from the 12th (Bhrigu Sutras commentary)",
+      "With a malefic: adverse results (Bhrigu Sutras 56)",
+      "In Capricorn expenses need firmer boundaries (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: when Jupiter rules a dusthana (6th, 8th or 12th) its placement here can work as Vipareeta Raja Yoga.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.16 (Mantreswara; English rendering on siva.sh)",
+        "view": "Disliked, harsh-spoken, childless, sinful and idle, works as a servant.",
+        "url": "https://siva.sh/phaladeepika/8/16-20"
+      },
+      {
+        "source": "Saravali 30.61 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Indolent, odious, devoid of speech and luck, likely in servitude.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.7 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Jupiter in the 12th makes the person a villain.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.98 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Sceptical in religion, irresolute, wandering, evil-minded.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. VI ('Effects of Jupiter in the Twelve Houses') sutras 54-58, with the English commentator's notes (commentator not named in file)",
+        "view": "Poor, studious, few children, mathematical, loose character; benefic link or dignity gives a good afterlife, malefic link a bad one; spends on religion; commentator: Jupiter loses its good significations here unless Vipareeta Raja Yoga applies.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Spends on good causes but gets no praise; foolish; loses wealth.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Twelfth House' p.395",
+        "view": "Derides religion, evil-minded, fearful deeds, lascivious, later repents and reforms; anxious about vehicles and possessions.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Jupiter in houses' (modern practitioner site)",
+        "view": "Generosity and release; charity, education, pilgrimage spending; meditation, retreat, institutions, moksha; restful sleep; Pisces strong, Capricorn needs boundaries.",
+        "url": "https://panchangbodh.com/jupiter-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Jupiter in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Generosity, spirituality, yoga, meditation; downside business losses and friction with the father.",
+        "url": "https://vedicfeed.com/jupiter-effects-in-12-houses/"
+      },
+      {
+        "source": "Brihat Jataka 20.10 notes (Satyacharya, as interpreted by Bhattotpala)",
+        "view": "Good planets in the 12th destroy expenditure, i.e. promote thrift.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Strong split between classical and modern readings. Phaladeepika, Saravali, Brihat Jataka, Jataka Parijata, Bhrigu Sutras and Raman are negative; PanchangBodh and VedicFeed present a spiritual and generous Jupiter. Raman uniquely adds later reform. Satyacharya's general rule (benefics in the 12th curb expense) is at odds with PanchangBodh's 'spends faster than it saves'.",
+    "confidence": "medium",
+    "phrasing_guidance": "Do not repeat labels like 'villain' or 'evil-minded'. Present as a generous, inward, spiritually inclined placement that needs budgeting and clear boundaries, and suits retreat, service or work abroad."
+  }
+]

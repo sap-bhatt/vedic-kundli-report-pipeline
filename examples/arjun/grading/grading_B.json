@@ -1,0 +1,166 @@
+{
+  "chart": "arjun",
+  "part": "B",
+  "sections": {
+    "finance": {
+      "coverage": 61.8,
+      "accuracy": 92,
+      "groundedness": 94,
+      "tone": 82,
+      "violations": 0,
+      "score": 78.9,
+      "claims_counted": 34,
+      "coverage_detail": "17 covered, 8 partial, 9 missed, 0 contradicted",
+      "missed_claims": [
+        {"claim": "5th house aspected by Moon and Ketu", "type": "fact", "input_had_it": true},
+        {"claim": "Spending goes on learning, skills, travel, communication and devices (12th lord in 3rd)", "type": "interp", "input_had_it": false},
+        {"claim": "Saturn in youth avastha gains strength with age", "type": "fact", "input_had_it": false},
+        {"claim": "4th lord Moon in 11th: gains through property, home business or mother's side", "type": "interp", "input_had_it": false},
+        {"claim": "Aquarius is the badhaka house for Aries: gains come with delays or conditions", "type": "interp", "input_had_it": false},
+        {"claim": "BPHS 12th lord in 3rd = reduced sibling happiness rather than heavy loss", "type": "interp", "input_had_it": false},
+        {"claim": "Transit Saturn in Pisces (12th from lagna, 2nd from Moon, Sade Sati setting): high expenses, careful budgeting to June 2027, return Oct 2027-Feb 2028", "type": "fact", "input_had_it": false},
+        {"claim": "Transit Rahu in 11th supports network/tech gains but tempts speculation", "type": "interp", "input_had_it": false},
+        {"claim": "Income tracks career closely (Saturn rules the 10th as well as the 11th)", "type": "interp", "input_had_it": true}
+      ],
+      "partial_claims": ["Saturn as 10th AND 11th lord (10th omitted)", "11th aspected by four planets (says three, Rahu dropped)", "own effort rewarded by luck via teachers/father", "11th is the most heavily influenced house", "four channels of gains (Rahu's tech/foreign channel missing)", "Rahu beside Jupiter makes spending impulsive", "Aries-Rahu impatience vs Saturn slow growth", "saving / property / no borrowing for speculation"],
+      "accuracy_errors": ["'Three glances reach this house' (stated twice): the 11th is aspected by Sun, Jupiter, Saturn and Rahu (four)"],
+      "contradictions": []
+    },
+    "health": {
+      "coverage": 44.4,
+      "accuracy": 95,
+      "groundedness": 88,
+      "tone": 80,
+      "violations": 0,
+      "score": 71.1,
+      "claims_counted": 27,
+      "coverage_detail": "9 covered, 6 partial, 12 missed, 0 contradicted",
+      "missed_claims": [
+        {"claim": "Lagna lord Mars aspected by Jupiter (protective)", "type": "fact", "input_had_it": true},
+        {"claim": "Mars-Ketu pair: haste, minor injuries; care in sport, driving, physical risk", "type": "interp", "input_had_it": true},
+        {"claim": "Aries/Mars: head, face, fevers, heat, cuts", "type": "interp", "input_had_it": false},
+        {"claim": "Mars-Ketu in Sagittarius: hips, thighs, liver", "type": "interp", "input_had_it": false},
+        {"claim": "Moon aspected by Saturn and Rahu: circulation, sleep, anxiety; calm routine", "type": "interp", "input_had_it": true},
+        {"claim": "Transit Rahu over natal Moon adds restlessness now", "type": "fact", "input_had_it": false},
+        {"claim": "Saturn in Taurus 2nd: teeth, throat, right eye; dental/eye check-ups", "type": "interp", "input_had_it": false},
+        {"claim": "Mercury in 6th: temper in disputes (Phaladeepika)", "type": "interp", "input_had_it": false},
+        {"claim": "4th lord in 11th 'fear of hidden ailments': stress shows in the body; routine check-ups", "type": "interp", "input_had_it": false},
+        {"claim": "Saturn transit 12th from lagna / 2nd from Moon now to June 2027 (return Oct 2027-Feb 2028) as a care window", "type": "fact", "input_had_it": false},
+        {"claim": "Saturn transit over lagna 2027-2030, debilitated in Aries", "type": "fact", "input_had_it": false},
+        {"claim": "Kantaka Dhaiya April 2030 - May 2032", "type": "fact", "input_had_it": false}
+      ],
+      "partial_claims": ["Moon full (only 'benefic')", "Mercury Virgo nerves/digestion -> nervous strain", "Sun Leo heart -> 'overheating through overwork'", "Gulika 12th sleep -> sleep from 12th, Gulika not named", "Ketu/Mars sub-periods care with physical risk -> Mercury-Mars named but framed supportive", "longevity deliberately excluded (silent)"],
+      "accuracy_errors": ["'Jupiter and Saturn both sit over the 6th house' (Nov 2027-Feb 2028): Jupiter occupies Virgo but Saturn only aspects it from Pisces (dates correct)"],
+      "contradictions": []
+    },
+    "relationships": {
+      "coverage": 52.1,
+      "accuracy": 88,
+      "groundedness": 86,
+      "tone": 82,
+      "violations": 0,
+      "score": 72.3,
+      "claims_counted": 47,
+      "coverage_detail": "21 covered, 7 partial, 19 missed, 0 contradicted",
+      "missed_claims": [
+        {"claim": "Libra is airy, movable, Venus-ruled sign of balance", "type": "fact", "input_had_it": true},
+        {"claim": "Rahu's aspect: partner from a different background/culture", "type": "interp", "input_had_it": false},
+        {"claim": "Libra partner graceful, sociable, diplomatic", "type": "interp", "input_had_it": false},
+        {"claim": "Aries-Libra 'me and you' axis: learns to slow down", "type": "interp", "input_had_it": false},
+        {"claim": "Venus in Pushya, a nourishing nakshatra", "type": "fact", "input_had_it": false},
+        {"claim": "Venus is the karaka of the wife for a man", "type": "fact", "input_had_it": true},
+        {"claim": "Venus in yuva avastha", "type": "fact", "input_had_it": false},
+        {"claim": "Venus aspects the 10th: partner may play a role in public/professional life", "type": "interp", "input_had_it": false},
+        {"claim": "Exalted Moon in D9 11th with Mars: emotional resilience, shared friends", "type": "fact", "input_had_it": true},
+        {"claim": "Darakaraka Mars: partner educated, religious or from a different place", "type": "interp", "input_had_it": true},
+        {"claim": "DK Mars in D9 Taurus with exalted Moon: relationship warms and stabilises over time", "type": "interp", "input_had_it": true},
+        {"claim": "Ashtakoota details: Aquarius, Purva Bhadrapada pada 2, Manushya gana, Adi nadi, Lion yoni, Shudra varna, Manava vashya", "type": "fact", "input_had_it": false},
+        {"claim": "Saturn-Jupiter sub-period 27 Jun 2027 - 7 Jan 2030 prominent for relationships (Jupiter aspects 7th)", "type": "fact", "input_had_it": false},
+        {"claim": "Jupiter in Leo aspecting lagna while Saturn occupies it (late Jun-Oct 2027, Mar-Jul 2028)", "type": "fact", "input_had_it": false},
+        {"claim": "Jupiter transiting 7th from Moon now favours partner happiness (Phaladeepika 26.19)", "type": "fact", "input_had_it": false},
+        {"claim": "BPHS: Venus AD in Mercury MD good when Venus is in kendra/11th from dasha lord", "type": "interp", "input_had_it": false},
+        {"claim": "Aquarius 11th: like-minded communities and causes", "type": "interp", "input_had_it": false},
+        {"claim": "Four planets aspect the 11th: friendships numerous and varied", "type": "fact", "input_had_it": true},
+        {"claim": "Rahu warns against trusting new networks too quickly", "type": "interp", "input_had_it": false}
+      ],
+      "partial_claims": ["marriage tied to home and family/mother", "Saturn's aspect on Venus: seriousness, delay", "Mars aspect on 4th: friction over home arrangements", "Venus D9 Scorpio 5th: intense, loyal romance (only 'trine supports promise')", "Darakaraka Mars in both 7- and 8-karaka schemes (candidate hedges that some schemes name another planet)", "single vs married reading of windows", "Saturn 11th lord: fewer lasting friendships"],
+      "accuracy_errors": ["Calls Jupiter's 5th-house aspect on the 7th 'half strength' in the classical scheme; chart verdicts treat Jupiter's special aspect as full (input explicitly says never call a listed aspect partial)", "'Some schemes name a different planet as Darakaraka': for this chart Mars is DK in both the 7- and 8-karaka schemes (Rahu's effective degree 21.2 does not displace it)"],
+      "contradictions": [
+        {"topic": "Darakaraka certainty", "benchmark": "Mars in both the seven- and eight-karaka schemes", "candidate": "Some schemes name a different planet as Darakaraka ... take this as one reading", "severity": "minor"}
+      ]
+    },
+    "family": {
+      "coverage": 53.3,
+      "accuracy": 97,
+      "groundedness": 88,
+      "tone": 80,
+      "violations": 0,
+      "score": 75.2,
+      "claims_counted": 46,
+      "coverage_detail": "19 covered, 11 partial, 16 missed, 0 contradicted",
+      "missed_claims": [
+        {"claim": "Speech measured, practical, sometimes blunt or sparing (Saturn in 2nd)", "type": "interp", "input_had_it": true},
+        {"claim": "Sun, natural significator of the father, strong in own sign", "type": "fact", "input_had_it": false},
+        {"claim": "BPHS: lagna lord in 9th very favourable for father/fortune", "type": "interp", "input_had_it": false},
+        {"claim": "Two Pitra dosha indicators (Mars+Ketu; 9th lord Jupiter with Rahu)", "type": "fact", "input_had_it": true},
+        {"claim": "Father's life involves change, travel or break from tradition", "type": "interp", "input_had_it": false},
+        {"claim": "Must find his own dharma rather than inherit it", "type": "interp", "input_had_it": false},
+        {"claim": "BPHS 12th lord in 3rd reduces sibling happiness", "type": "interp", "input_had_it": false},
+        {"claim": "Elder siblings/seniors from 11th with full Moon: support from elders", "type": "interp", "input_had_it": false},
+        {"claim": "Jupiter (natural karaka of children) 5th from Moon: good indication", "type": "fact", "input_had_it": false},
+        {"claim": "Proud, involved, somewhat authoritative parent", "type": "interp", "input_had_it": false},
+        {"claim": "D7 Gemini lagna; D7 5th Libra empty, lord Venus in D7 11th (favourable)", "type": "fact", "input_had_it": false},
+        {"claim": "Jupiter transit 5th from Moon (Gemini) later 2030s for children", "type": "fact", "input_had_it": false},
+        {"claim": "Jupiter in Sagittarius Feb 2031 - Mar 2032 aspects natal 5th and Sun", "type": "fact", "input_had_it": false},
+        {"claim": "Mars-Ketu 9th: interest in philosophy, law, higher learning", "type": "interp", "input_had_it": false},
+        {"claim": "School/college years in Saturn MD and Sade Sati from Jan 2020: academic pressure", "type": "fact", "input_had_it": false},
+        {"claim": "4th lord Moon in 11th: peers and friends shaped learning", "type": "interp", "input_had_it": false}
+      ],
+      "partial_claims": ["Saturn 10/11 lord links family to career", "mother affectionate, well connected, gains through her", "Saturn aspect on 4th: responsibility for home and mother", "home/property supported esp. Moon/Venus sub-periods", "father energetic, principled, strict", "strong Sun and Jupiter's aspect soften the 9th", "5th aspected by Moon and Ketu (Ketu omitted)", "Moon aspect benefic, Ketu mildly malefic", "Phaladeepika Sun in 5th cautious; own sign protects", "children with delay/planning, small family", "Saturn-Jupiter 2027-2030 for higher study (framed as sibling/father)"],
+      "accuracy_errors": [],
+      "accuracy_notes": ["'Jupiter, which signifies the mother' and 'Venus, the planet that signifies children' are correct only as Jaimini Matrikaraka/Putrakaraka; the text does not say so, and the natural karakas (Moon, Jupiter) differ - a clarity issue rather than a factual error"],
+      "contradictions": []
+    },
+    "spirituality": {
+      "coverage": 47.0,
+      "accuracy": 98,
+      "groundedness": 86,
+      "tone": 80,
+      "violations": 0,
+      "score": 72.5,
+      "claims_counted": 33,
+      "coverage_detail": "10 covered, 11 partial, 10 missed, 2 contradicted",
+      "missed_claims": [
+        {"claim": "Mars and Ketu both in Mula (Ketu's nakshatra, deity Nirriti, 'root')", "type": "fact", "input_had_it": false},
+        {"claim": "Ketu's outsized role: rules lagna nakshatra Ashwini, aspects lagna, joins lagna lord, in own nakshatra", "type": "fact", "input_had_it": false},
+        {"claim": "Jupiter-Rahu in Ardra (Rahu's nakshatra, deity Rudra)", "type": "fact", "input_had_it": false},
+        {"claim": "Guru-Chandal combination: unconventional teachers, changing beliefs", "type": "interp", "input_had_it": false},
+        {"claim": "Guru-Chandal risk (claiming wisdom early) and gift (wide intellectual range)", "type": "interp", "input_had_it": false},
+        {"claim": "Moon nakshatra Purva Bhadrapada: Jupiter-ruled, Aja Ekapada", "type": "fact", "input_had_it": false},
+        {"claim": "Purva Bhadrapada idealism, sacrifice of comfort for belief", "type": "interp", "input_had_it": false},
+        {"claim": "Hidden talent: healing/care (Ashwini, strong 6th)", "type": "interp", "input_had_it": false},
+        {"claim": "Hidden talent: communication/teaching (Jupiter-Rahu 3rd, exalted Mercury)", "type": "interp", "input_had_it": true},
+        {"claim": "Hidden talent: analytical precision (exalted Mercury 6th)", "type": "interp", "input_had_it": false}
+      ],
+      "partial_claims": ["9th aspected by Jupiter and Rahu (Rahu omitted)", "Ketu detachment/intuition/moksha", "drawn to philosophy/older traditions/outside teacher", "pilgrimage, long journeys, philosophy/law", "Ketu MD 2047-2054 and Ketu sub-periods as turning points (only Mercury-Ketu named)", "learning through ideas/books/discussion rather than ritual", "spiritual life real and demanding", "12th empty apart from Gulika (Gulika not named)", "8th lord in 9th turns research energy to philosophy", "courage under pressure (Mars-Ketu)", "Rahu/Jupiter sub-periods activate foreign links (Saturn-Jupiter named for study only)"],
+      "accuracy_errors": [],
+      "contradictions": [
+        {"topic": "Foreign links verdict", "benchmark": "12th lord Jupiter with Rahu in the 3rd, Rahu aspecting 9th and 11th, Ketu in 9th, movable lagna -> meaningful foreign or long-distance connections, travel/work abroad, living away", "candidate": "The chart leans toward roots and home over long travel abroad.", "severity": "moderate"},
+        {"topic": "Foreign links indicators", "benchmark": "Rahu with the 12th lord is the classical significator of foreign things", "candidate": "Rahu sits with Jupiter in house 3 (named without foreign meaning; Mercury's aspect read as 'keeping one settled in one's own country')", "severity": "moderate"}
+      ]
+    }
+  },
+  "part_score_weighted_by_benchmark_words": 74.2,
+  "benchmark_errors": [
+    {"section": "family", "claim": "His school and college years fell entirely within the Saturn mahadasha", "why": "Born 2001-09-03; Jupiter mahadasha ran to 2011-01-07 (age 9), so early school years were in Jupiter MD. Minor."},
+    {"section": "finance/relationships", "claim": "Saturn in 'youth' avastha; Venus in 'yuva' avastha", "why": "Unverifiable: chart_data.json carries no avastha field. Not counted against the candidate (input_had_it false)."}
+  ],
+  "top_gaps": [
+    {"gap": "Health: the whole transit layer (Saturn 12th/2nd-from-Moon now, Saturn over lagna 2027-2030, Kantaka Dhaiya 2030-2032) and body-correspondence content absent", "section": "health", "input_had_it": false},
+    {"gap": "Spirituality: foreign-links verdict inverted (roots/home vs benchmark's meaningful foreign links); Rahu-with-12th-lord not read as foreign", "section": "spirituality", "input_had_it": true},
+    {"gap": "Nakshatra/deity layer missing (Mula/Nirriti, Ardra/Rudra, Purva Bhadrapada/Aja Ekapada, Pushya, Ashwini-Ketu link) plus Guru-Chandal reading", "section": "spirituality", "input_had_it": false},
+    {"gap": "Relationships: Ashtakoota details and Saturn-Jupiter sub-period / Jupiter-in-Leo transit windows missing; D9 Moon-Mars exalted support unused", "section": "relationships", "input_had_it": false},
+    {"gap": "Family: children timing and D7, Pitra dosha mention, Saturn-in-2nd speech, education context (Sade Sati school years, Mars-Ketu philosophy/law)", "section": "family", "input_had_it": false}
+  ],
+  "method_notes": "Coverage = (covered + 0.5*partial)/claims from the benchmark section; accuracy checked against chart_data.json (aspects, dignities, chara karakas from degrees: AK Moon, AmK Saturn, BK Sun, MK Jupiter, PK Venus, GK Mercury, DK Mars; transit windows checked against ingress tables); groundedness against each section's open_run/inputs file; part score weighted by benchmark words (finance 792, health 518, relationships 1017, family 987, spirituality 775)."
+}

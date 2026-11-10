@@ -1,0 +1,12 @@
+# One install for everything: pip install -r requirements.txt
+#
+# The pipeline itself (input builders, model client, checks, tables, assembly, tools/validate_chart.py) uses only the
+# Python standard library (3.10+). The two packages below are for the chart calculator and for PDF output.
+
+# Swiss Ephemeris, for the chart calculator (tools/chart_data.py with tools/engine/kundli_maker.py; also
+# tools/lookup.py --date). Not needed when you bring your own chart_data.json (docs/CHART_DATA_FORMAT.md).
+pyswisseph>=2.10,<3
+
+# Optional: PDF output from tools/assemble_report.py --pdf (and run_report.py --pdf).
+# After installing, run `python -m playwright install chromium` once, or keep a local Chrome/Edge as the fallback.
+playwright>=1.44,<2

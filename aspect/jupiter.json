@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "aspect/jupiter/1",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 1
+    },
+    "summary": "Jupiter aspecting the lagna gives religious and virtuous habits, honour from authorities, fame and good company, and protects and fills out the body; it is one of the strongest supports a lagna can have.",
+    "themes": [
+      "protection",
+      "virtue",
+      "honour",
+      "health"
+    ],
+    "common_outcomes": [
+      "interest in religious observances, honoured by rulers, famous, keeps the company of the virtuous, elders and guests (Saravali 34.1-7)",
+      "the lagna is strong when aspected by Jupiter, Mercury or its lord (Phaladeepika 4.6)",
+      "stout body if Jupiter aspects the lagna from a watery sign (Raman HJH vol. 1 ch. 4)",
+      "fair complexion, large eyes and dignified bearing; tendency to corpulence (Raman HJH vol. 1 ch. 4, chart notes)"
+    ],
+    "rare_outcomes": [
+      "Aspects on the natal Moon (the Moon as second lagna, BPHS ch. 12): Phaladeepika 18.6-11 gives Jupiter's aspect on the Moon as kingly status in Aries, Scorpio, Capricorn and Pisces; respect in Taurus; learning in Gemini; wisdom in Cancer; wealth in Leo; command of an army in Virgo; goldsmith's work in Libra; rule in Sagittarius; leadership in Aquarius. Raman HPA ch. XIII: the Jupiter-Moon opposition is extremely good.",
+      "Saturn, Mars and Venus in the lagna without Jupiter's aspect, with a waning Moon in the 7th: [maraka: text predicts the child's death in the 7th year] (Raman HJH vol. 2 ch. XII) - Jupiter's aspect is the protective factor.",
+      "Jupiter aspecting the lagna and Mercury trinally gave an analytical, legal intellect in a Raman case (HJH vol. 2 ch. XIV)."
+    ],
+    "by_area": {
+      "personality": "Principled, religious, dignified, respected (Saravali 34.1-7).",
+      "career": "Honour from those in power (Saravali 34.1-7).",
+      "finance": "",
+      "health": "Good constitution and fuller build (Raman HJH vol. 1 ch. 4).",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Devotion and religious practice (Saravali 34.1-7)."
+    },
+    "strengtheners": [
+      "Saravali 34.8: Sagittarius or Pisces lagna aspected by its own lord gives happiness, wealth and closeness to rulers.",
+      "Phaladeepika 4.11: Jupiter is the most powerful planet for warding off evil.",
+      "Raman HJH vol. 1 ch. 4: aspect from a watery sign adds bodily stoutness."
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter vitiated by association with Ketu or Rahu gives less benefit (Raman HJH vol. 1 ch. 6 chart notes)."
+    ],
+    "lagna_or_context_notes": "Jupiter aspects house 1 fully from the 7th (7th aspect), the 9th (5th aspect) and the 5th (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.1-7",
+        "view": "Jupiter aspecting the ascendant: religious observances, honoured by the king, famous, in the company of the virtuous, elders and guests.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.8, 34.10-11",
+        "view": "Own-sign aspect on the lagna gives happiness and wealth; even one benefic aspecting the lagna is auspicious.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.6",
+        "view": "Lagna is strong when occupied or aspected by its lord, Jupiter or Mercury.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.11",
+        "view": "In completely warding off evil and promoting prosperity Jupiter is the most powerful planet; Mercury and Venus have smaller shares of that power (fractions illegible in the scan).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 18.6-11",
+        "view": "Moon in each sign aspected by Jupiter (third in the list).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 4 (First House)",
+        "view": "Body stout if Jupiter aspects the lagna from a watery sign; in charts Jupiter's aspect gives fair complexion, large eyes, dignified stature, corpulence.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XII (Eighth House)",
+        "view": "Balarishta rule naming the absence of Jupiter's aspect on malefics in the lagna.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Jupiter aspects the 5th and 9th besides the 7th; results vary with the dignities of aspecting and aspected planets, but Jupiter's aspect as a natural benefic is weighty even when he is temporarily ill-disposed.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as protection, optimism, ethics and respect; weight gain can be mentioned lightly as a tendency. Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "1 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "happiness, wealth and closeness to people in power"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; Saravali 34.8"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 7,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 9,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 5,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 11,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 4,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 10,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 6,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/jupiter/2",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 2
+    },
+    "summary": "Jupiter, the significator of wealth, aspecting the 2nd makes earnings good even against afflictions there, and his aspect on the 2nd from the Moon brings plenty of wealth.",
+    "themes": [
+      "wealth",
+      "family",
+      "speech"
+    ],
+    "common_outcomes": [
+      "if Jupiter aspects the 2nd, earnings will be good, with money through friends and business (Raman HJH vol. 1 ch. 5, under Rahu in the 2nd)",
+      "exalted Jupiter aspecting the 2nd makes the house very strong (Raman HJH vol. 1 ch. 5, chart notes)",
+      "the 2nd from the Moon aspected by Venus or another benefic such as Jupiter: plenty of wealth (Saravali 34.15-20)"
+    ],
+    "rare_outcomes": [
+      "Jupiter in the 2nd aspected by Mercury: earned wealth is lost (Saravali 34.15-20) - Mercury's aspect on Jupiter, recorded under aspect/mercury/2."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Good earnings and accumulated wealth (Raman HJH vol. 1 ch. 5; Saravali 34.15-20).",
+      "health": "",
+      "relationships": "",
+      "family": "Prosperous family life (Raman HJH vol. 1 ch. 5).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter exalted (Raman HJH vol. 1 ch. 5 chart notes).",
+      "Raman treats Jupiter as Dhanakaraka (significator of wealth)."
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter himself afflicted or as a functional malefic weakens the help (Raman HJH vol. 1 ch. 2)."
+    ],
+    "lagna_or_context_notes": "Jupiter aspects house 2 fully from the 8th (7th aspect), the 10th (5th aspect) and the 6th (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 5 (Second House)",
+        "view": "If Jupiter aspects the 2nd house earnings will be good; money gained through friends and business; exalted Jupiter aspecting the 2nd strengthens it.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.15-20",
+        "view": "The 2nd from the Moon aspected by Venus, or by another benefic, gives plenty of wealth.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 13.1-2 (Santhanam's notes)",
+        "view": "The 2nd lord related to Jupiter or Venus by aspect or conjunction favours wealth.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.11",
+        "view": "In completely warding off evil and promoting prosperity Jupiter is the most powerful planet; Mercury and Venus have smaller shares of that power (fractions illegible in the scan).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Jupiter aspects the 5th and 9th besides the 7th; results vary with the dignities of aspecting and aspected planets, but Jupiter's aspect as a natural benefic is weighty even when he is temporarily ill-disposed.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "2 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 8,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 10,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 6,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 12,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 5,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 11,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 7,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/jupiter/3",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 3
+    },
+    "summary": "Jupiter's aspect on the 3rd relieves afflictions to siblings and courage and, with Mercury, gives a fine voice; Jupiter's aspect on Venus there increases happiness from co-born.",
+    "themes": [
+      "siblings",
+      "courage",
+      "voice"
+    ],
+    "common_outcomes": [
+      "3rd strong and aspected by Mercury and Jupiter: an exceedingly fine voice (Jataka Parijata 12.46)",
+      "Venus in the 3rd aspected by Jupiter increases happiness from co-born (Saravali 34.21-24)",
+      "benefic aspect on the 3rd gives co-born and courage (BPHS 14.1)",
+      "Jupiter's aspect mitigates malefic affliction to the 3rd (Raman HJH vol. 1 ch. 6, chart notes)"
+    ],
+    "rare_outcomes": [
+      "Moon alone in the 3rd aspected by male planets (Jupiter is one): younger brothers (BPHS 14.12-13)."
+    ],
+    "by_area": {
+      "personality": "Courage, fine voice (BPHS 14.1; Jataka Parijata 12.46).",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "Supportive siblings; more younger co-born (BPHS 14.1, 14.12-13; Saravali 34.21-24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jataka Parijata 12.46: with Mercury's aspect too."
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter's aspect is vitiated when he is with Ketu (Raman HJH vol. 1 ch. 6, chart notes)."
+    ],
+    "lagna_or_context_notes": "Jupiter aspects house 3 fully from the 9th (7th aspect), the 11th (5th aspect) and the 7th (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 12.46",
+        "view": "3rd strong and occupied or aspected by Mercury and Jupiter: an exceedingly fine voice.",
+        "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.21-24",
+        "view": "Aspects on the 3rd increase younger co-born; Venus in the 3rd aspected by Jupiter increases happiness from them.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 14.1, 14.12-13",
+        "view": "Benefic aspect on the 3rd gives co-born and courage; Moon alone in the 3rd aspected by male planets gives younger brothers.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 6 (Third House), chart notes",
+        "view": "Jupiter's aspect on the 3rd somewhat mitigates malefic affliction; Jupiter's aspect is good but vitiated by contact with Ketu.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Jupiter aspects the 5th and 9th besides the 7th; results vary with the dignities of aspecting and aspected planets, but Jupiter's aspect as a natural benefic is weighty even when he is temporarily ill-disposed.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "3 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 9,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 11,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 7,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 1,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 6,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 12,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 8,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/jupiter/4",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 4
+    },
+    "summary": "Jupiter aspecting the 4th gives a clean heart, home comforts, vehicles and safety, and restrains a sensual Moon in the 4th; by functional role it can be mixed.",
+    "themes": [
+      "home",
+      "mother",
+      "peace of mind",
+      "vehicles",
+      "education"
+    ],
+    "common_outcomes": [
+      "the native's heart is clean if Jupiter is in or aspects the 4th (Raman HJH vol. 1 ch. 7)",
+      "a benefic related to the 4th gives happiness with vehicles and freedom from accidents (BPHS 15.10-14)",
+      "4th holding its lord or the lagna lord and aspected by a benefic: full residential comfort (BPHS 15.2)",
+      "exalted Jupiter protects the 4th by aspect (Santhanam's note to BPHS 17.3-5)"
+    ],
+    "rare_outcomes": [
+      "Moon in the 4th is fond of sensual pleasures unless aspected by Jupiter (Raman HJH vol. 1 ch. 7).",
+      "Strong 4th and 9th lords aspected by Jupiter in kendras or trines: favours from rulers (Raman HJH vol. 1 ch. 7) - aspect on the lords."
+    ],
+    "by_area": {
+      "personality": "Sincere, clean-hearted (Raman HJH vol. 1 ch. 7).",
+      "career": "",
+      "finance": "Vehicles and property safe (BPHS 15.10-14).",
+      "health": "",
+      "relationships": "",
+      "family": "Happy home and mother (BPHS 15.2).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter as functional benefic (Raman HJH vol. 1 ch. 2)."
+    ],
+    "weakeners_or_cancellations": [
+      "Raman HJH vol. 1 ch. 7 chart notes: for Aquarius lagna Jupiter's aspect on the 4th is good as a natural benefic and bad as a functional malefic."
+    ],
+    "lagna_or_context_notes": "Jupiter aspects house 4 fully from the 10th (7th aspect), the 12th (5th aspect) and the 8th (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 7 (Fourth House), rules and chart notes",
+        "view": "Heart clean if Jupiter is in or aspects the 4th; Moon in the 4th sensual unless aspected by Jupiter; Jupiter's aspect on the 4th for Aquarius lagna both good (natural benefic) and bad (functional malefic).",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 15.2, 15.10-14; 17.3-5 note",
+        "view": "Benefic aspect gives home comfort, conveyances and safety; Santhanam notes exalted Jupiter protects the 4th by aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.11",
+        "view": "In completely warding off evil and promoting prosperity Jupiter is the most powerful planet; Mercury and Venus have smaller shares of that power (fractions illegible in the scan).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Jupiter aspects the 5th and 9th besides the 7th; results vary with the dignities of aspecting and aspected planets, but Jupiter's aspect as a natural benefic is weighty even when he is temporarily ill-disposed.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Raman HPA XIII holds Jupiter's aspect weighty even when he is temporarily ill-disposed, while his HJH chart note calls the same aspect bad for Aquarius lagna. Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "4 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 10,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 12,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 8,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 2,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 7,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 1,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 9,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/jupiter/5",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 5
+    },
+    "summary": "Jupiter, the significator of children, aspecting the 5th is the classic support for children and intelligence: many children with Mercury and Venus, doubled count, and protection of children against Mars there.",
+    "themes": [
+      "children",
+      "intelligence",
+      "speculation",
+      "merit"
+    ],
+    "common_outcomes": [
+      "many children when the 5th lord is strong and the 5th is aspected by strong Mercury, Jupiter and Venus (BPHS 16.12)",
+      "benefic aspect on the 5th gives children and doubles their count (Saravali 34.25-27)",
+      "Mars in the 5th aspected by Jupiter or Venus: loss limited to the first child (Saravali 34.41; Raman HJH vol. 1 ch. 8 repeats that the first child is at risk)",
+      "Jupiter's aspect on the 5th is a redeeming feature against malefics (Raman HJH vol. 1 ch. 8 and ch. 10, chart notes)"
+    ],
+    "rare_outcomes": [
+      "Mercury in the 5th well aspected by Jupiter: gains through speculation and authorship (Raman HJH vol. 1 ch. 8).",
+      "Frawley p. 154: Jupiter in the 5th is not good for children, but his aspect on it is."
+    ],
+    "by_area": {
+      "personality": "Good judgement and intelligence (Raman HJH vol. 1 ch. 8).",
+      "career": "",
+      "finance": "Gains through speculation and writing (Raman HJH vol. 1 ch. 8).",
+      "health": "",
+      "relationships": "",
+      "family": "Children and joy through them (BPHS 16.12; Saravali 34.25-27).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Mercury and Venus also aspecting (BPHS 16.12).",
+      "Frawley p. 154: the significator's aspect rather than occupation."
+    ],
+    "weakeners_or_cancellations": [
+      "Three malefics in the 5th are not counterbalanced by Jupiter's aspect alone (Raman HJH vol. 1 ch. 8, chart notes)."
+    ],
+    "lagna_or_context_notes": "Jupiter aspects house 5 fully from the 11th (7th aspect), the 1st (5th aspect) and the 9th (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 16.12",
+        "view": "Many children if the 5th lord is strong while the 5th is aspected by strong Mercury, Jupiter and Venus.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.25-27, 34.41",
+        "view": "Benefic aspect on the 5th gives children and doubles their number; Mars in the 5th kills children as born, but with Jupiter's or Venus's aspect only the first child is lost, and with all planets aspecting none.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 8 (Fifth House), rules and chart notes",
+        "view": "Jupiter's aspect on the 5th good, Mars's bad; well aspected by Jupiter favours gain through speculation and authorship; Jupiter's aspect alone cannot offset three malefics.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers p. 154",
+        "view": "It is usually good if the significator of a house aspects that house, not good if it occupies it (e.g. Jupiter in the 5th is not good for children).",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.11",
+        "view": "In completely warding off evil and promoting prosperity Jupiter is the most powerful planet; Mercury and Venus have smaller shares of that power (fractions illegible in the scan).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Jupiter aspects the 5th and 9th besides the 7th; results vary with the dignities of aspecting and aspected planets, but Jupiter's aspect as a natural benefic is weighty even when he is temporarily ill-disposed.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Frawley prefers Jupiter's aspect over his occupation of the 5th; BPHS 16 does not draw that distinction. Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of blessings through children, learning and creativity; never promise a number of children. Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "5 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 11,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 1,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 9,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 3,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 8,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 2,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 10,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/jupiter/6",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 6
+    },
+    "summary": "As the strongest benefic, Jupiter aspecting the 6th removes fear of enemies and gives some relief in disease combinations.",
+    "themes": [
+      "enemies",
+      "disease",
+      "service",
+      "debts"
+    ],
+    "common_outcomes": [
+      "benefic aspect on the 6th keeps one free from fear of enemies (Saravali 34.43-44)",
+      "Jupiter's aspect gives slight relief to an afflicted 6th-lord combination (Raman HJH vol. 1 ch. 9, chart notes)"
+    ],
+    "rare_outcomes": [
+      "Sun aspected by Jupiter: success and promotion in the Sun's sub-period (Raman HJH vol. 1 ch. 9) - aspect on the Sun, not the house."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Victory over rivals (Saravali 34.43-44).",
+      "finance": "",
+      "health": "Relief and recovery (Raman HJH vol. 1 ch. 9).",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Jupiter aspects house 6 fully from the 12th (7th aspect), the 2nd (5th aspect) and the 10th (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.43-44",
+        "view": "Benefics occupying or aspecting the 6th keep one free from fear of enemies.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 9 (Sixth House), chart notes",
+        "view": "Slight relief as Jupiter aspects an afflicted combination involving the 6th lord.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.11",
+        "view": "In completely warding off evil and promoting prosperity Jupiter is the most powerful planet; Mercury and Venus have smaller shares of that power (fractions illegible in the scan).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Jupiter aspects the 5th and 9th besides the 7th; results vary with the dignities of aspecting and aspected planets, but Jupiter's aspect as a natural benefic is weighty even when he is temporarily ill-disposed.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "6 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 12,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 2,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 10,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 4,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 9,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 3,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 11,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/jupiter/7",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 7
+    },
+    "summary": "Jupiter aspecting the 7th gives a spouse of Jupiter's nature and good background, protects marriage from break-up and adds stability.",
+    "themes": [
+      "marriage",
+      "spouse",
+      "partnerships"
+    ],
+    "common_outcomes": [
+      "a spouse corresponding to Jupiter and the sign (Saravali 34.45)",
+      "Jupiter related to the 7th: a spouse of the same background (Saravali 34.49)",
+      "Jupiter's aspect on the 7th from the Moon prevented a complete break-up of a troubled marriage (Raman HJH vol. 2 ch. XI, chart)"
+    ],
+    "rare_outcomes": [
+      "Jupiter aspecting Saturn in the 7th: stability with inner turmoil and resentment (Raman HJH vol. 2 ch. XI).",
+      "Jupiter aspecting or with the Sun in the 7th: a spiritually evolved partner who guides the native (Raman HJH vol. 2 ch. XI).",
+      "Mercury and Venus in the 7th with a benefic aspect: a wife at an advanced age instead of none (Saravali 34.56).",
+      "Jupiter and the Moon in mutual opposition: extremely good (Raman HPA ch. XIII)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "Wise, ethical, supportive partner; resilience in marriage (Saravali 34.45-49; Raman HJH vol. 2 ch. XI).",
+      "family": "",
+      "spirituality": "Partner may be spiritually inclined (Raman HJH vol. 2 ch. XI)."
+    },
+    "strengtheners": [
+      "Jupiter's aspect fortifies Venus in such charts (Raman HJH vol. 2 ch. XI chart notes)."
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter as 3rd and 6th or 6th and 9th lord is counted with reservation in Raman's chart notes (HJH vol. 2 ch. XI)."
+    ],
+    "lagna_or_context_notes": "Jupiter aspects house 7 fully from the 1st (7th aspect), the 3rd (5th aspect) and the 11th (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.45, 34.49, 34.56",
+        "view": "Jupiter in or aspecting the 7th gives a wife after its nature; Jupiter and Venus related to the 7th give a bride of the same caste; benefic aspect rescues the Mercury-Venus-in-7th combination.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XI (Seventh House), rules and chart notes",
+        "view": "Jupiter's aspect on the 7th from the Moon prevented a complete break-up; Jupiter aspecting Saturn in the 7th gives stability with inner turmoil; Jupiter aspecting the Sun in the 7th gives a spiritual partner.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Opposition of Jupiter and the Moon is extremely good.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.11",
+        "view": "In completely warding off evil and promoting prosperity Jupiter is the most powerful planet; Mercury and Venus have smaller shares of that power (fractions illegible in the scan).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Do not mention caste; speak of a partner with shared values and a marriage that can weather difficulties. Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "7 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 1,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 3,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 11,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 5,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 10,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 4,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 12,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/jupiter/8",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 8
+    },
+    "summary": "No classical rule gives Jupiter's aspect on the 8th itself; Raman's longevity rules use Jupiter's aspect on the lagna lord, and his cases count it as a mitigating factor.",
+    "themes": [
+      "longevity",
+      "crises",
+      "inheritance"
+    ],
+    "common_outcomes": [
+      "long life when benefics occupy kendras and the lagna lord is with benefics or aspected by Jupiter (Raman HJH vol. 2 ch. XII) - aspect on the lagna lord"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Jupiter's aspect is treated as a protective factor in longevity judgement (Raman HJH vol. 2 ch. XII).",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Jupiter aspects house 8 fully from the 2nd (7th aspect), the 4th (5th aspect) and the 12th (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XII (Eighth House)",
+        "view": "Purnayu (long life) if benefics are in kendras and the lagna lord is with benefics or aspected by Jupiter; chart notes count Jupiter's aspect on the 8th or its lord as mitigation.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.11",
+        "view": "In completely warding off evil and promoting prosperity Jupiter is the most powerful planet; Mercury and Venus have smaller shares of that power (fractions illegible in the scan).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Jupiter aspects the 5th and 9th besides the 7th; results vary with the dignities of aspecting and aspected planets, but Jupiter's aspect as a natural benefic is weighty even when he is temporarily ill-disposed.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Never make longevity predictions; at most speak of resilience in crises. Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "8 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 2,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 4,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 12,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 6,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 11,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 5,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 1,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/jupiter/9",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 9
+    },
+    "summary": "Jupiter aspecting the 9th gives piety, pilgrimages and dutifulness to parents; his own aspect on the 9th (as a strong planet from the lagna or 5th) makes one very fortunate.",
+    "themes": [
+      "fortune",
+      "dharma",
+      "father",
+      "pilgrimage"
+    ],
+    "common_outcomes": [
+      "Jupiter aspecting the 9th: travel to many holy places and religious centres (Raman HJH vol. 2 ch. XIII)",
+      "Jupiter's aspect on the 9th gives the fortune of bathing in the Ganges (Raman HJH vol. 2 ch. XIII)",
+      "Jupiter aspecting the 9th: pious and dutiful towards parents in the 9th lord's period (Raman HJH vol. 2 ch. XIII)",
+      "a strong planet giving full aspect to the 9th from the 3rd (scan unclear), 5th or lagna makes one extremely lucky (Saravali 32.5) - Jupiter in the lagna or 5th does this by his special aspects"
+    ],
+    "rare_outcomes": [
+      "Jupiter in the 9th aspected by the 9th lord: kingship (Saravali 32.23) - aspect on Jupiter."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Good fortune (Saravali 32.5).",
+      "health": "",
+      "relationships": "",
+      "family": "Devotion to parents and father's well-being (Raman HJH vol. 2 ch. XIII).",
+      "spirituality": "Piety, pilgrimage, respect for teachers (Raman HJH vol. 2 ch. XIII)."
+    },
+    "strengtheners": [
+      "Saravali 32.4: as 9th lord (Cancer and Leo lagnas) his aspect keeps fortune at home.",
+      "Saravali 32.26-27: a benefic aspect relieves or improves a malefic in the 9th."
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 32.4: if Jupiter does not own the 9th, fortune tends to come abroad."
+    ],
+    "lagna_or_context_notes": "Jupiter aspects house 9 fully from the 3rd (7th aspect), the 5th (5th aspect) and the 1st (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XIII (Ninth House)",
+        "view": "Jupiter aspecting the 9th gives travels to holy spots and religious centres, bathing in the Ganges, and piety and duty to parents during the 9th lord's period.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 32.4-5, 32.26-27",
+        "view": "9th aspected by its own lord: fortune at home; full aspect on the 9th from a strong planet in the 3rd(?), 5th or lagna: extremely lucky; benefic aspect relieves malefics in the 9th.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers p. 154",
+        "view": "It is usually good if the significator of a house aspects that house, not good if it occupies it (e.g. Jupiter in the 5th is not good for children).",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.11",
+        "view": "In completely warding off evil and promoting prosperity Jupiter is the most powerful planet; Mercury and Venus have smaller shares of that power (fractions illegible in the scan).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Jupiter aspects the 5th and 9th besides the 7th; results vary with the dignities of aspecting and aspected planets, but Jupiter's aspect as a natural benefic is weighty even when he is temporarily ill-disposed.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of faith, generosity, mentors and good fortune. Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "fortune made in one's own country"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; Saravali 32.4"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      },
+      {
+        "when": "md_house in [1, 5]",
+        "polarity": "good",
+        "effects": [
+          "Jupiter casts a full special aspect on the 9th from the lagna or the 5th; if strong, the native is very fortunate"
+        ],
+        "source": "Saravali 32.5 (with BPHS 26.4 for the special aspects)"
+      },
+      {
+        "when": "not (9 in md_rules)",
+        "polarity": "mixed",
+        "effects": [
+          "fortune tends to come away from home"
+        ],
+        "source": "Saravali 32.4"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 3,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 5,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 1,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 7,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 12,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 6,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 2,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/jupiter/10",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 10
+    },
+    "summary": "Jupiter aspecting the 10th brings distinction, authority and ethical or learned work (teaching, law, judiciary, writing, banking), and with the 9th lord forms Raja yoga.",
+    "themes": [
+      "career",
+      "authority",
+      "reputation",
+      "teaching"
+    ],
+    "common_outcomes": [
+      "9th-lord Jupiter aspecting the 10th brings distinction and authority in career (Raman HJH vol. 2 ch. XIV, chart)",
+      "9th-lord Jupiter aspecting the 10th trinally forms a Raja yoga (Raman HJH vol. 2 ch. XIV, chart)",
+      "Sun and Rahu in the 10th aspected by Jupiter: presides over political meetings without politics being the profession (Raman HJH vol. 2 ch. XIV)",
+      "Jupiter's aspect on the 10th made a prolific writer; with Saturn a judge; as 5th lord and Dhanakaraka a banker; with Mercury a journalist (Raman HJH vol. 2 ch. XIV, charts)"
+    ],
+    "rare_outcomes": [
+      "10th lord in the 9th aspected by Jupiter: a beacon to spiritual seekers (Raman HJH vol. 2 ch. XIV) - aspect on the lord.",
+      "10th lord exalted in a kendra or trine and with or aspected by Jupiter: worthy deeds (BPHS 21.2) - aspect on the lord."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Respected, advisory, teaching, legal, financial or publishing work (Raman HJH vol. 2 ch. XIV).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Ethical conduct in work (BPHS 21.2)."
+    },
+    "strengtheners": [
+      "Raman HJH vol. 2 ch. XIV: a planet in the 10th receiving a powerful benefic aspect gains the abilities of the aspecting planet.",
+      "Jupiter as 9th lord (Raman HJH vol. 2 ch. XIV)."
+    ],
+    "weakeners_or_cancellations": [
+      "Raman HJH vol. 2 ch. XIV: a wide Jupiter aspect can be outweighed by aspects of Mars and the Sun exact to the 10th cusp."
+    ],
+    "lagna_or_context_notes": "Jupiter aspects house 10 fully from the 4th (7th aspect), the 6th (5th aspect) and the 2nd (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XIV (Tenth House), rules and chart notes",
+        "view": "Jupiter's aspect on the 10th brings distinction and authority, forms Raja yoga as 9th lord, gives political interest with Sun and Rahu in the 10th, and appears in charts of writers, judges, bankers and journalists.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 21.2",
+        "view": "10th lord exalted in an angle or trine and with or aspected by Jupiter: worthy deeds.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.11",
+        "view": "In completely warding off evil and promoting prosperity Jupiter is the most powerful planet; Mercury and Venus have smaller shares of that power (fractions illegible in the scan).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Jupiter aspects the 5th and 9th besides the 7th; results vary with the dignities of aspecting and aspected planets, but Jupiter's aspect as a natural benefic is weighty even when he is temporarily ill-disposed.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "10 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 4,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 6,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 2,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 8,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 1,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 7,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 3,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/jupiter/11",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 11
+    },
+    "summary": "Jupiter related to the 11th brings gains through leadership, royal favour, religious and meritorious work, gold and horses (vehicles); benefic aspect increases gains.",
+    "themes": [
+      "gains",
+      "income",
+      "elder siblings",
+      "fulfilment of wishes"
+    ],
+    "common_outcomes": [
+      "gains through headship of a town or group, royal favour, religious sacrifices, meritorious acts, gold and horses (Saravali 34.62)",
+      "benefic aspect on the 11th increases gains (Saravali 34.65)"
+    ],
+    "rare_outcomes": [
+      "Jupiter's aspect on the 11th lord from the Moon kept an elder brother in the native's life despite heavy affliction (Raman HJH vol. 2 ch. XV, chart)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Steady, honourable income; gains through institutions and good work (Saravali 34.62).",
+      "health": "",
+      "relationships": "",
+      "family": "Support of elder siblings (Raman HJH vol. 2 ch. XV).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Exalted: full; own or friendly sign: half (Saravali 34.67)."
+    ],
+    "weakeners_or_cancellations": [
+      "Combust or inimical: a quarter or less (Saravali 34.67)."
+    ],
+    "lagna_or_context_notes": "Jupiter aspects house 11 fully from the 5th (7th aspect), the 7th (5th aspect) and the 3rd (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.62, 34.65-67",
+        "view": "Jupiter or his divisions related to the 11th: gains through headship of a city, royal mercy, sacrifices, meritorious acts, gold and horses; benefic aspect increases gains; dignity scales them.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XV (Eleventh House), chart notes",
+        "view": "Jupiter's aspect on the 11th lord from the Moon did not deny the native an elder brother.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers p. 154",
+        "view": "It is usually good if the significator of a house aspects that house, not good if it occupies it (e.g. Jupiter in the 5th is not good for children).",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.11",
+        "view": "In completely warding off evil and promoting prosperity Jupiter is the most powerful planet; Mercury and Venus have smaller shares of that power (fractions illegible in the scan).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "11 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      },
+      {
+        "when": "md_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "gains in full"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_dignity in ['own', 'moolatrikona', 'friend']",
+        "polarity": "good",
+        "effects": [
+          "about half of the stated gains"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_combust or md_dignity == 'enemy'",
+        "polarity": "bad",
+        "effects": [
+          "only a quarter or less of the gains"
+        ],
+        "source": "Saravali 34.67"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 5,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 7,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 3,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 9,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 2,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 8,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 4,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/jupiter/12",
+    "layer": "aspect",
+    "key": {
+      "planet": "Jupiter",
+      "house": 12
+    },
+    "summary": "Jupiter aspecting the 12th turns expenditure towards charity, service and spiritual life, and in Raman's cases supports selfless philanthropy and married comfort.",
+    "themes": [
+      "expenses",
+      "charity",
+      "spirituality",
+      "bed comforts"
+    ],
+    "common_outcomes": [
+      "benefic Jupiter aspecting the 12th made a selfless worker whose philanthropy helped many (Raman HJH vol. 2 ch. XVI, chart)",
+      "Jupiter and Saturn aspecting the 12th in the chart of a missionary (Raman HJH vol. 2 ch. XVI, chart)",
+      "the 12th and its lord with and aspected by benefics: moving within one's own country (BPHS 23.12)"
+    ],
+    "rare_outcomes": [
+      "Jupiter's aspect gave conjugal life until the native renounced it (Raman HJH vol. 2 ch. XVI, chart).",
+      "12th lord aspected by Jupiter with the 9th lord in the 4th and the 10th lord in a kendra: a charitable disposition (Raman HJH vol. 2 ch. XVI) - aspect on the lord.",
+      "Benefic in the 12th with its lord exalted, or with or aspected by a benefic: final emancipation (BPHS 23.10)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Spending on good causes (Raman HJH vol. 2 ch. XVI).",
+      "health": "",
+      "relationships": "Comfort in married life (Raman HJH vol. 2 ch. XVI, chart).",
+      "family": "",
+      "spirituality": "Charity, service, spiritual practice, moksha indications (Raman HJH vol. 2 ch. XVI; BPHS 23.10)."
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Mars's aspect on Jupiter in the 12th spoils its wealth-saving effect (Saravali 34.69-70)."
+    ],
+    "lagna_or_context_notes": "Jupiter aspects house 12 fully from the 6th (7th aspect), the 8th (5th aspect) and the 4th (9th aspect); BPHS 26.4 makes the 5th and 9th aspects full for Jupiter; Brihat Jataka 2.13 calls Jupiter auspicious in them.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XVI (Twelfth House), rules and chart notes",
+        "view": "Benefic Jupiter aspecting the 12th made a selfless philanthropist; Jupiter's aspect gave conjugal life; Jupiter and Saturn aspecting the 12th in a missionary's chart; 12th lord aspected by Jupiter with other factors gives charity.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 23.10-12",
+        "view": "Benefic in the 12th with its lord exalted or aspected by a benefic: emancipation; 12th and its lord with and aspected by benefics: moving within one's own country.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.69-70",
+        "view": "Jupiter in the 12th increases wealth if Mars does not aspect him.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 1950) 4.11",
+        "view": "In completely warding off evil and promoting prosperity Jupiter is the most powerful planet; Mercury and Venus have smaller shares of that power (fractions illegible in the scan).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "Jupiter aspects the 5th and 9th besides the 7th; results vary with the dignities of aspecting and aspected planets, but Jupiter's aspect as a natural benefic is weighty even when he is temporarily ill-disposed.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe Jupiter's aspect as protection, growth, wisdom and blessing on that house; keep it hopeful but not a guarantee.",
+    "conditional_results": [
+      {
+        "when": "12 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role or 'eighth_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "the aspect is good by nature but mixed, because Jupiter is a functional malefic for this lagna (Raman's example: aspect on the 4th for Aquarius lagna, where Jupiter rules 2 and 11)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2 and ch. 7 chart notes"
+      },
+      {
+        "when": "'kendra_lord' in md_role and not ('trikona_lord' in md_role) and not ('lagna_lord' in md_role)",
+        "polarity": "mixed",
+        "effects": [
+          "as a natural benefic owning only angles Jupiter becomes a functional malefic (kendradhipati dosha)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "'trikona_lord' in md_role or 'lagna_lord' in md_role",
+        "polarity": "good",
+        "effects": [
+          "Jupiter's protective aspect is at its best as lagna or trine lord"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2; vol. 2 ch. XIV chart notes (9th-lord Jupiter aspecting the 10th)"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 6,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "5th (special, full)",
+        "from_house": 8,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "9th (special, full)",
+        "from_house": 4,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 10,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 3,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 9,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 5,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  }
+]

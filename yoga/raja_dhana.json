@@ -1,0 +1,759 @@
+[
+  {
+    "id": "yoga/raja_kendra_trikona",
+    "layer": "yoga",
+    "key": {"name": "Raja (kendra-trikona lords)"},
+    "summary": "A link (conjunction, exchange, mutual aspect, or one placed in the other's kind of house) between the lord of an angle (1, 4, 7, 10) and the lord of a trine (1, 5, 9) is the basic Parashari Raja Yoga for status, power and prosperity. Modern writers stress that some such link exists in many charts, so the result depends on the strength, closeness and freedom from affliction of the two planets.",
+    "themes": ["status", "authority", "rise in life", "prosperity", "recognition"],
+    "common_outcomes": [
+      "rise in status, authority or public standing in the periods of the linked planets",
+      "prosperity and comfort (texts say 'becomes a king or equal to one'; modern writers read this as high position rather than literal kingship)",
+      "fame and honour"
+    ],
+    "rare_outcomes": [
+      "rulership or emperor-like standing when both lords attain high divisional dignity (Simhasanamsa or above in BPHS 41.29-34)",
+      "political power when the yoga planets are linked to the Sun, Moon or the 10th house (Raman); military command when linked to Mars (Raman)"
+    ],
+    "by_area": {
+      "personality": "Famous, honoured, with qualities of a leader (BPHS 34.11-12).",
+      "career": "Status, authority, high position or administrative power; the 10th-lord links count most (Laghu Parashari; Raman HJH).",
+      "finance": "Trine lords are called wealth-givers (BPHS 34.2-7; 41.16), so the yoga usually brings prosperity along with status.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "BPHS 41.28 calls the angles houses of Vishnu and the trines houses of Lakshmi; their union is read as lasting well-being."
+    },
+    "strengtheners": [
+      "The lords are strong by sign (exalted, own, moolatrikona) and by divisional dignity (Parijatamsa and higher: BPHS 41.29-34; PVR 11.7.2).",
+      "The link is close in degrees: Raman (HJH) says within 12 degrees; PVR says full results need roughly 5-6 degrees.",
+      "The link involves the 10th lord (strongest angle) or the 9th lord (strongest trine) (Laghu Parashari sl. 17; Raman HJH).",
+      "The link is conjunction, exchange or mutual aspect rather than mere mutual angular/trinal placement (Santhanam's note to BPHS 41.28).",
+      "Lagna lord also strong (Santhanam, note on BPHS 39)."
+    ],
+    "weakeners_or_cancellations": [
+      "One of the lords also owns a dusthana or 3rd/11th: BPHS 34.15 says such a lord does not produce Raja Yoga by mere relation.",
+      "Both lords blemished by other lordships: no yoga (Laghu Parashari sl. 15 as explained by Verma).",
+      "The 9th/10th lords also owning the 8th/11th (Laghu Parashari sl. 22).",
+      "Combustion, debilitation, enemy sign, bad avasthas, affliction by functional malefics (PVR 11.7.2; Raman HJH).",
+      "General Raja Yoga obstructions listed in Saravali ch. 39 (see cancellations)."
+    ],
+    "lagna_or_context_notes": "BPHS 34.19-44 names, for each lagna, which pairs do or do not give yoga. For example, for Aries the Jupiter (9/12) + Saturn (10/11) conjunction does not give a good result (34.19-22; also Bhavartha Ratnakara ch. 1 st. 4), and for Leo the Jupiter + Venus conjunction does not either (34.29-30). Bhavartha Ratnakara ch. 1 st. 1 says the 4th and 5th lords (Moon and Sun) give Raja Yoga for Aries. Raman (HJH) says to measure yogas from the lagna or the Moon, whichever is stronger.",
+    "source_views": [
+      {"source": "BPHS 34.11-12 (tr. R. Santhanam, vol. 1)", "view": "Exchange between an angular and a trinal lord, the two together in an angle or a trine, a trinal lord in an angle or an angular lord in a trine, or full mutual aspect gives yoga; the native becomes a king and famous. Santhanam lists six variants.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "BPHS 34.15 (tr. Santhanam)", "view": "An angular or trinal lord that also owns an evil house does not cause Raja Yoga by the mere relations of 34.11-12. Santhanam adds that the moolatrikona sign decides which lordship dominates.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "BPHS 39.33-38 (tr. Santhanam)", "view": "The 9th lord and especially the 5th lord act as ministers. Their mutual aspect or conjunction gives kingship. The 4th or 10th lord joining the 5th or 9th lord gives kingdom (39.37). So does the 5th lord in the 1st, 4th or 10th with the 9th or lagna lord (39.38).", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "BPHS 41.28-34 (tr. Santhanam)", "view": "Angles are Vishnu-sthanas and trines Lakshmi-sthanas; a relation between their lords gives Raja Yoga. Its grade rises with the pair's divisional dignity, from Parijatamsa (king) to Simhasanamsa (emperor) and beyond. Santhanam ranks the relations as exchange, mutual aspect and conjunction, then the weaker mutual angles or trines.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "Laghu Parashari (Jataka Chandrika), Raja Yoga chapter sl. 14-17, 22 (tr. O.P. Verma)", "view": "Related kendra and trikona lords that own no other bad house give auspiciousness par excellence (14). If one of them is blemished they still give good results, but if both are blemished they do not (15). The best case links the 10th lord with a trine lord or the 9th lord with a kendra lord (17). The yoga is extinguished when the 9th/10th lords also own the 8th/11th (22).", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "Phaladeepika 6.37-38 (tr. V. Subrahmanya Sastri)", "view": "Lords of a kendra and a kona conjoined in an auspicious bhava form Sankha yoga, which brings comfort and pleasures. The 9th-10th special case is named Raja yoga.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 7, notes to sl. 21 (tr. V. Subrahmanya Sastri)", "view": "The translator's note cites the classical rule that the association of kendra and kona lords produces Raja Yogas and lists four kinds of relationship (exchange, mutual aspect, conjunction, and a fourth not legible in the scan).", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Considerations in Judging a House' pp. 9-11", "view": "An angular lord associated with a trinal lord causes Raja Yoga. Of the two, the one unblemished by other ownership or by association with the 3rd/6th/8th lords acts as the yogakaraka. The yoga has substantial effect only when the planets are within 12 degrees, and its extent depends on ownership, association, occupation and aspect.", "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations, General Introduction and yogas 245-263", "view": "Raman's yoga method first classes each planet as a benefic, malefic or neutral lord for the lagna. He warns that the theoretical presence of a Raja Yoga is of no consequence without inherent vitality, and that results must be adapted to modern conditions: high position rather than kingship.", "url": "https://archive.org/details/300-important-combinations-b.v.-raman"},
+      {"source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, 11.7.1-11.7.2", "view": "Counts conjunction, mutual graha drishti and parivartana as associations, with lagna counting as both angle and trine. Notes that this association is found in many charts, so magnitude depends on freedom from functional-malefic affliction, an orb of about 6 degrees, no combustion, debilitation or bad avastha, and the dasa-varga amsa count.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"},
+      {"source": "David Frawley, Astrology of the Seers, house-rulership section p. 162", "view": "Combinations of trine and quadrant lords, especially the 9th with the 10th, create Raja Yoga when well placed and usually only when the planet does not rule other bad houses.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "BPHS 34.11-12 counts placement alone (a trine lord in an angle or vice versa) as yoga. Laghu Parashari, Raman and PVR require an actual relation (conjunction, exchange or aspect) and grade the mutual-angle and mutual-trine kinds as weaker. On blemished lords, BPHS 34.15 says an angle or trine lord that also owns an evil house gives no yoga by mere relation. Laghu Parashari sl. 15 allows the yoga if only one of the pair is blemished. Raman (HJH) says the strong pairs overcome 'slight' blemish. On orb, Raman allows 12 degrees and PVR about 5-6 degrees; the classics give none.",
+    "confidence": "high",
+    "phrasing_guidance": "Present it as potential for rising responsibility and recognition, not guaranteed power or wealth. Because many charts have some kendra-trikona link, mention it only when the planets are strong and close, and tie it to the dashas of those planets.",
+    "definitions": [
+      {"source": "BPHS 34.11-12 (Santhanam)", "definition": "Kendra lord and trikona lord in exchange, or both in a kendra or a trikona, or the trikona lord in a kendra or the kendra lord in a trikona, or in full mutual aspect."},
+      {"source": "BPHS 41.28 (Santhanam)", "definition": "Any relationship between an angular lord and a trinal lord. Santhanam lists exchange, mutual aspect, conjunction, mutual angles and mutual trines."},
+      {"source": "BPHS 39.37-38 (Santhanam)", "definition": "4th or 10th lord joined with the 5th or 9th lord. Or the 5th lord in the 1st, 4th or 10th together with the 9th or lagna lord."},
+      {"source": "Laghu Parashari Raja Yoga ch. sl. 14-17 (Verma)", "definition": "Relationship between kendra and trikona lords, unblemished by other evil lordships, or with only one of them blemished. Best when the 10th lord or 9th lord is involved."},
+      {"source": "Phaladeepika 6.37 (Sastri)", "definition": "Lords of a kendra and a kona conjoined in an auspicious bhava (named Sankha; the 9th+10th case is named Raja yoga)."},
+      {"source": "Raman, HJH vol. 1 p. 10", "definition": "Kendradhipati associated with Trikonadhipati. The 9th-10th, 4th-5th, 7th-5th, 10th-5th, 4th-9th and 7th-9th pairs are singled out as powerful."},
+      {"source": "PVR, Integrated Approach 11.7.1", "definition": "Lord of a quadrant and lord of a trine conjoined, in mutual graha drishti, or in parivartana. Lagna may count as either."}
+    ],
+    "cancellations": [
+      {"condition": "An angular or trinal lord that also owns an evil house gives no yoga by mere relation (Santhanam's note: the moolatrikona lordship decides).", "source": "BPHS 34.15"},
+      {"condition": "9th and 10th lords also owning the 8th or 11th: the person does not enjoy the yoga (Verma extends this to all kendra/trikona lords owning the 8th/11th).", "source": "Laghu Parashari Raja Yoga ch. sl. 22 (Verma)"},
+      {"condition": "Arudha Lagna and Dara Pada in mutual 6/8 or 2/12: poverty, with the horoscope's Raja Yogas not giving their effects.", "source": "BPHS 39.23 and Santhanam's note"},
+      {"condition": "Two or more of Mars, Saturn, Jupiter or Sun debilitated with one in lagna while the Moon is in Scorpio; weak Moon in certain gandanta navamsas unaspected; all malefics in angles in debility or enemy signs with benefics in 6/8/12; Vargottama lagna unaspected; Aquarius rising with three planets debilitated; four planets debilitated, combust or in enemy signs with no benefic in an angle or with the Moon.", "source": "Saravali 39.2-7 (tr. Santhanam)"},
+      {"condition": "Five planets debilitated; three or more debilitated (even an emperor's son begs); five planets in enemy signs or combust while neither luminary is exalted.", "source": "Saravali 39.10, 39.20, 39.21"},
+      {"condition": "Yoga planets in planetary war, losing lustre or strength; weak Moon in deep debilitation; Sun in deep fall (10th degree of Libra) or Sun singly in deep fall; Kemadruma with Moon unaspected; Venus in debilitation navamsa.", "source": "Saravali 39.13-22"},
+      {"condition": "Saravali says the stronger of the Raja Yoga and its obstruction prevails.", "source": "Saravali 39.23"},
+      {"condition": "Leo lagna with Saturn exalted but in a debilitated navamsa or aspected by benefics; Sun at deep debilitation. Raman doubts the Sun's fall alone destroys all Raja Yogas.", "source": "Raman, 300 Combinations nos. 298-299"},
+      {"condition": "Raja Yoga works only when stronger than the Raja-bhanga yogas present; lords of Arudha Lagna and Arudha of the 12th conjoined gives a fall from position (Rajabhrashta).", "source": "Raman, 300 Combinations no. 297"},
+      {"condition": "A Kemadruma yoga nullifies a Raja yoga.", "source": "Jataka Parijata 7.82 (via the translator's table of contents only)"}
+    ],
+    "rarity_and_weight": "Common. PVR (11.7.2) says the conjunction of a quadrant lord and a trine lord is found in many charts and its magnitude depends on strength and closeness. Raman (HJH) gives it substantial effect only within 12 degrees. In 300 Combinations, Raman says a merely theoretical Raja Yoga is of no consequence. Laghu Parashari and BPHS 41.29-34 grade it by the planets' strength and divisional dignity. Weight: moderate by default; high only when the lords are strong, close, unblemished and involve the 9th/10th lords.",
+    "timing": "Laghu Parashari (Verma sl. 18-19, 34): greatly auspicious results come in the dasa and bhukti of the yogakaraka planets. Related inauspicious planets give mixed results in their bhuktis. Results start in the dasa of one yoga lord and the bhukti of a related planet; if the yoga starts in a maraka's bhukti, it brings recognition more than real gain. Phaladeepika 20.54: in a yogakaraka's dasa, Raja Yoga begins in the bhuktis of the karaka planets and is increased by malefic bhuktis that follow. Raman (300 Combinations, Introduction): the stronger of the two yoga planets fulfils most of the yoga in its own dasa and the weaker as sub-lord. Jataka Parijata 7.66 note: Raja Yogas fructify in the dasa/antardasa of the lord or occupant of the lagna or 10th.",
+    "conditional_results": [],
+    "remedies": [],
+    "phases": "Laghu Parashari (Verma, sl. 34 note): when a planet is both yogakaraka and maraka, its dasa gives the yoga in the auspicious bhuktis first and the maraka evils later, at the end of the maraka bhukti."
+  },
+  {
+    "id": "yoga/yogakaraka",
+    "layer": "yoga",
+    "key": {"name": "Yogakaraka present"},
+    "summary": "A yogakaraka is a single planet that rules both an angle and a trine from the lagna. It is a Raja Yoga in itself: Venus for Capricorn and Aquarius, Saturn for Taurus and Libra, Mars for Cancer and Leo. Its strength and placement decide how much status and prosperity its periods bring.",
+    "themes": ["status", "prosperity", "key benefic planet", "fame"],
+    "common_outcomes": [
+      "fame, honour, financial prosperity and success in the periods of the yogakaraka when it is strong (Raman HJH)",
+      "the planet acts as the chart's most reliable functional benefic"
+    ],
+    "rare_outcomes": [
+      "kingly status when the yogakaraka is also linked to another trine lord (Laghu Parashari sl. 20: 'what better yoga than this')"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Status and recognition through the houses the yogakaraka rules (Raman HJH p. 9-10).",
+      "finance": "Financial prosperity (Raman HJH); BPHS 34 Taurus note: Saturn 'will bestow kingly status'.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strength by Shadbala, association, aspect and occupation (Raman HJH).",
+      "Relation to another trine lord (Laghu Parashari sl. 20).",
+      "Placement in an angle or trine (BPHS 34.13 counts this as 'specially' yogakaraka).",
+      "Raman's unit method (300 Combinations Introduction): one positive unit each for being a benefic lord, joined by a benefic lord, aspected by a benefic lord, and being in exaltation or a friendly sign."
+    ],
+    "weakeners_or_cancellations": [
+      "Debilitation, combustion and similar states leave a planet 'dispossessed of strength' and unable to confer auspiciousness (Verma, Laghu Parashari sl. 20 note).",
+      "Raman's negative units: joined or aspected by malefic lords, in debilitation or an enemy sign.",
+      "BPHS 34.19-22 (Aries): Jupiter's good is lost if he is 'at the disposal of a malefic'. This principle is applied there to trine lords generally."
+    ],
+    "lagna_or_context_notes": "From what BPHS 34 says for the lagnas read in Santhanam's edition: Taurus, Saturn causes Raja Yoga (34.23-24). Cancer, Mars confers a full-fledged yoga (34.27-28). Virgo, Venus with Mercury produces yoga (34.31-32). Libra, Saturn and Mercury are auspicious (the Raja Yoga pair is partly illegible in the scan; 34.33-34). Scorpio, the Sun and Moon are yogakarakas (34.35-36). Sagittarius, the Sun and Mercury confer yoga (34.37-38). Capricorn, only Venus gives a superior yoga (34.39-40). Aquarius, Venus is the only Raja Yoga planet (34.41-42). Pisces, Mars and Jupiter cause yoga (34.43-44). Raman HJH lists the single-planet yogakarakas: Mars for Cancer and Leo, Saturn for Taurus and Libra, Venus for Capricorn and Aquarius.",
+    "source_views": [
+      {"source": "BPHS 34.13 (tr. Santhanam)", "view": "A planet that owns both a trine and an angle, or one that is placed in an angle or a trine, becomes specially a yogakaraka.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "BPHS 34.14, 34.2-7 notes (tr. Santhanam)", "view": "A malefic owning an angle becomes auspicious only if it also owns a trine. Santhanam calls Saturn for Libra the 'unsullied yogakaraka'. He says the luminaries, owning one sign each, are exempt from this rule.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "BPHS 34.17 (tr. Santhanam)", "view": "Rahu or Ketu in an angle associated with or aspected by a trinal lord, or in a trine associated with an angular lord, becomes a yogakaraka.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "Phaladeepika 20.52-54 (tr. Sastri)", "view": "Rahu and Ketu in a kendra or trikona connected with the lord of one of these become yogakarakas. In a yogakaraka's dasa, the Raja Yoga begins with the bhuktis of the karaka planets.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Laghu Parashari Raja Yoga ch. sl. 18-21 (tr. Verma)", "view": "Yogakaraka dasas and bhuktis give great auspiciousness. A planet owning a kendra and a trikona is a yogakaraka; related to another trikona lord it gives the highest yoga, related to a further kendra lord less so. A yogakaraka's strength can override the blemish of a related trine lord that also owns the 8th. Rahu and Ketu can act as yogakarakas.", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "B.V. Raman, How to Judge a Horoscope vol. 1 pp. 9-10", "view": "Yogakarakas confer fame, honour, dignity, financial prosperity, political success and reputation. Only Mars, Saturn and Venus can own both a kendra and a trikona. The extent depends on Shadbala, association, aspect and occupation.", "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"},
+      {"source": "B.V. Raman, Bhavartha Ratnakara (tr.) ch. 1", "view": "Gives lagna-by-lagna yogas. For example, for Aries the 4th and 5th lords (Moon, Sun) give Raja Yoga, while Jupiter and Saturn (9th, 10th) do not.", "url": "https://archive.org/details/in.ernet.dli.2015.142241"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 13.2", "view": "The planet owning a quadrant and a trine becomes a yogakaraka; a table per lagna is given.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"},
+      {"source": "David Frawley, Astrology of the Seers p. 162", "view": "For some ascendants one planet alone produces Raja Yoga: Saturn for Gemini and Libra, Venus for Capricorn and Aquarius, Mars for Cancer and Leo. For Aries and Scorpio the Sun and Moon combine to do so.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Frawley lists Saturn as the single yogakaraka for Gemini, but for Gemini Saturn rules the 8th and 9th, not an angle. BPHS 34.25-26 names only Venus as auspicious for Gemini, and Raman's HJH list omits Gemini. BPHS 34.13 also counts any planet merely placed in an angle or trine as specially yogakaraka, which is much broader than the ownership definition of Raman and PVR. For Taurus, BPHS classes Venus (lagna and 6th lord) as a malefic; Santhanam notes that Susloka Sataka disagrees.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe the yogakaraka as the chart's most supportive planet, whose periods tend to bring growth and recognition in proportion to its strength. Do not promise wealth or power, and say plainly when the planet is weak or afflicted.",
+    "definitions": [
+      {"source": "BPHS 34.13 (Santhanam)", "definition": "One planet ruling both a trine and an angle, or a planet placed in an angle or trine (specially yogakaraka)."},
+      {"source": "BPHS 34.17 (Santhanam)", "definition": "Rahu/Ketu in an angle related to a trinal lord or in a trine related to an angular lord."},
+      {"source": "Raman, HJH vol. 1 p. 9", "definition": "A planet owning both a kendra and a trikona: Mars (Cancer, Leo), Saturn (Taurus, Libra), Venus (Capricorn, Aquarius)."},
+      {"source": "Laghu Parashari sl. 20 (Verma)", "definition": "The same planet owning a kendra and a trikona."},
+      {"source": "PVR, Integrated Approach 13.2", "definition": "Planet owning a quadrant and a trine."}
+    ],
+    "cancellations": [
+      {"condition": "Debilitated, combust or otherwise weak: cannot confer auspiciousness.", "source": "Laghu Parashari sl. 20 note (Verma)"},
+      {"condition": "Raman says that when negative units (malefic lord, malefic association or aspect, debilitation or enemy sign) predominate, the planet gives no evil but also less good. Equal positive and negative units practically neutralise the yoga.", "source": "Raman, 300 Combinations, Introduction"}
+    ],
+    "rarity_and_weight": "Structural: half the lagnas have a single-planet yogakaraka (Cancer, Leo, Taurus, Libra, Capricorn, Aquarius per Raman HJH), so its presence is fixed by the lagna and says nothing by itself. Its weight comes from its strength and placement (Raman HJH; Laghu Parashari).",
+    "timing": "Dasas and bhuktis of the yogakaraka (Laghu Parashari sl. 18). Phaladeepika 20.54 says that within the yogakaraka's dasa, results begin in the bhuktis of the karaka planets. Laghu Parashari sl. 34 says a yogakaraka does not give its yoga results in its own bhukti of its own dasa (Verma's note).",
+    "conditional_results": [
+      {"when": "manual: the yogakaraka is debilitated, combust or in an enemy sign", "polarity": "mixed", "effects": ["yoga results much reduced"], "source": "Laghu Parashari sl. 20 note (Verma); Raman 300 Combinations Introduction"}
+    ],
+    "remedies": []
+  },
+  {
+    "id": "yoga/dharma_karmadhipati",
+    "layer": "yoga",
+    "key": {"name": "dharma_karmadhipati"},
+    "summary": "The link between the 9th lord (dharma, fortune) and the 10th lord (karma, action) is the best of the kendra-trikona Raja Yogas. They may be joined, exchange signs, aspect each other, or occupy the 9th/10th. It brings righteous success, fortune and status, provided neither planet also owns the 8th or 11th.",
+    "themes": ["fortune", "career success", "righteous conduct", "status"],
+    "common_outcomes": [
+      "wealth, happiness and prosperity (Uttara Kalamrita 4.3)",
+      "high position and recognition (Uttara Kalamrita 4.4; Raman HJH)",
+      "sincere, devoted, righteous and fortunate nature (PVR)"
+    ],
+    "rare_outcomes": [
+      "kingship 'extolled by his people' when the 9th and 10th lords exchange (Phaladeepika 7.9)",
+      "a ruler amassing great wealth when the 9th-10th pair is strong and related (Uttara Kalamrita 4.4)"
+    ],
+    "by_area": {
+      "personality": "Sincere, devoted and righteous (PVR 11.7.1).",
+      "career": "Rise through one's own work and dharma; the 10th is the strongest kendra and the 9th the strongest kona (P.S. Sastri, note on UK).",
+      "finance": "Wealth and prosperity (UK 4.3). With the 2nd lord also joined, much wealth and many vehicles (Jataka Parijata 7.21).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Righteous conduct (PVR); the 9th as dharma (P.S. Sastri note)."
+    },
+    "strengtheners": [
+      "Both lords strong. Uttara Kalamrita 4.4 requires them to 'possess strength'.",
+      "Also associated with the lords of the 1st, 4th, 5th or 7th, or placed in those houses (Uttara Kalamrita 4.3).",
+      "Also associated with the 2nd lord, which adds wealth (Jataka Parijata 7.21).",
+      "Close conjunction or aspect (PVR 11.7.2)."
+    ],
+    "weakeners_or_cancellations": [
+      "Either lord also owning the 8th or 11th (UK 4.3; Laghu Parashari sl. 22).",
+      "Combustion: in the UK translator's example chart, lords set within 5-6 degrees of the Sun reduce the result (Sareen, ex. 7)."
+    ],
+    "lagna_or_context_notes": "For Aries, Jupiter (9th/12th) and Saturn (10th/11th) do not form this yoga in practice (BPHS 34.19-22; Bhavartha Ratnakara ch. 1 st. 4; Laghu Parashari sl. 22 per Vinayaka Sastri as quoted by Verma). BPHS 34.25-26 says the same Jupiter-Saturn conjunction for Gemini behaves as for Aries. For Taurus, Saturn alone owns both houses and is the yogakaraka. Uttara Kalamrita 4.4 also reckons the 9th/10th lords from the 9th and 10th houses, giving middling and lower grades.",
+    "source_views": [
+      {"source": "Uttara Kalamrita 4.3 (tr. S.S. Sareen; also P.S. Sastri)", "view": "Raja Yoga forms when the 9th and 10th lords are in their own houses, conjoined in either house, exchanged, or in mutual aspect. Associated with the lords of the 5th, 7th, 1st or 4th, or occupying those houses, they give wealth, happiness and prosperity. Neither may also own the 8th or 11th.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "Uttara Kalamrita 4.4 (tr. Sareen)", "view": "The 9th/10th lords reckoned from the lagna, from the 9th, and from the 10th give, in order, high, ordinary and below-average position. When related by conjunction, exchange or aspect and strong, or in mutual kendras, the native amasses wealth and rules.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "Phaladeepika 6.37-38 and 7.9 (tr. Sastri)", "view": "The 9th and 10th lords conjoined in an auspicious bhava constitute Raja Yoga: a king with elephants, conveyances and royal honours. The 10th lord in the 9th and the 9th lord in the 10th gives a king extolled by his people.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 7.21 (tr. Sastri)", "view": "The 10th and 9th lords conjoined with the 2nd lord make one wealthy. The same pairs reckoned from the 9th and 10th, in exchange or mutual-aspecting kendras with the 2nd lord, do too. If the 4th lord or karaka is also connected, much wealth and many vehicles follow.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "Laghu Parashari sl. 16, 22 (tr. Verma)", "view": "The 9th and 10th lords in each other's houses, together in one of them, or one in the other's house aspected by its dispositor gives great auspiciousness. The yoga is lost if they also own the 8th/11th.", "url": "https://archive.org/details/laghu-parashari-o.-p.-verma"},
+      {"source": "BPHS 39.37 (tr. Santhanam)", "view": "The 10th lord joining the 9th lord gives kingdom (one of four kendra-trikona joinings listed).", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "B.V. Raman, HJH vol. 1 p. 10", "view": "The most powerful Raja Yoga comes from the 9th and 10th lords associating. Their exchange makes each a Rajayogakaraka, as does the 9th lord in the 10th or the 10th lord in the 9th, or their full mutual aspect.", "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach 11.7.1", "view": "Names it Dharma-Karmadhipati Yoga, a special case of the basic Raja Yoga between the strongest trine and the strongest quadrant. The native is sincere, devoted, righteous and fortunate.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology (PDF p. 95)", "view": "Rath uses the name for the 9th-lord-10th-lord link even in a divisional chart (D-24), reading it as excellent for higher education there.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "On which relations count: Uttara Kalamrita and Raman include own-house placement and mutual aspect. Phaladeepika 6.37 requires conjunction in a good bhava. Laghu Parashari sl. 16 includes the case of one lord in the other's house aspected by its dispositor. Uttara Kalamrita alone adds the reckoning from the 9th and 10th houses as lesser grades.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as alignment between one's sense of purpose and one's work, which tends to bring steady recognition. Avoid predicting fame or office; mention the dashas of the 9th and 10th lords as the likely windows.",
+    "definitions": [
+      {"source": "Uttara Kalamrita 4.3", "definition": "9th and 10th lords in own houses, or conjoined in the 9th or 10th, or exchanged, or in mutual aspect; neither owning the 8th or 11th."},
+      {"source": "Phaladeepika 6.37", "definition": "9th and 10th lords conjoined in an auspicious bhava."},
+      {"source": "Phaladeepika 7.9", "definition": "10th lord in the 9th and 9th lord in the 10th (exchange)."},
+      {"source": "Laghu Parashari sl. 16 (Verma)", "definition": "9th and 10th lords in the 10th and 9th, or together in one of these, or one in the other's house aspected by its dispositor."},
+      {"source": "Raman, HJH vol. 1 p. 10", "definition": "9th and 10th lords associated, exchanged, one in the other's house, or in full mutual aspect."},
+      {"source": "PVR 11.7.1", "definition": "9th and 10th lords conjoined, in mutual graha drishti, or in parivartana."}
+    ],
+    "cancellations": [
+      {"condition": "Either lord also owns the 8th or 11th house.", "source": "Uttara Kalamrita 4.3; Laghu Parashari sl. 22"},
+      {"condition": "Aries lagna: the Jupiter-Saturn conjunction does not produce yoga.", "source": "BPHS 34.19-22; Bhavartha Ratnakara ch. 1 st. 4"}
+    ],
+    "rarity_and_weight": "Less common than kendra-trikona links in general, since it needs the two specific lords related. Raman (HJH) calls it the most powerful Raja Yoga, and Laghu Parashari sl. 17 calls it the best combination. Uttara Kalamrita 4.4 grades it by reference point and strength.",
+    "timing": "Dashas and bhuktis of the 9th and 10th lords (Laghu Parashari sl. 18 as for yogakarakas). The UK example chart shows a Mercury-Saturn period giving difficulty when the lords are combust (Sareen).",
+    "conditional_results": [],
+    "remedies": []
+  },
+  {
+    "id": "yoga/parivartana",
+    "layer": "yoga",
+    "key": {"name": "parivartana"},
+    "summary": "Parivartana is a mutual exchange of signs: planet A sits in a sign of planet B while B sits in a sign of A. Phaladeepika counts 66 possible exchanges between house lords. It divides them into Maha (28, good houses), Khala (8, involving the 3rd lord) and Dainya (30, involving the 6th, 8th or 12th lords), whose results range from wealth and authority to misfortune.",
+    "themes": ["exchange", "mutual support", "linking of two houses"],
+    "common_outcomes": [
+      "Maha: prosperity, authority, gifts from rulers, vehicles, wealth and children (Phaladeepika 6.34)",
+      "Khala: fluctuating fortune, sometimes prosperous and sometimes in distress (Phaladeepika 6.33)",
+      "Dainya: foolishness, enemies, harsh speech, obstacles in undertakings (Phaladeepika 6.33)"
+    ],
+    "rare_outcomes": [
+      "rulership from an exchange of the 4th and 10th lords when both are very strong and in Gopuramsa (Raman HJH 4th house)",
+      "Maha Raja Yoga from exchange of the lagna and 5th lords (BPHS 39.6-7)"
+    ],
+    "by_area": {
+      "personality": "Dainya: unsteady mind and harsh speech (PD 6.33). Khala: alternately astray and gentle (PD 6.33).",
+      "career": "Maha: authority conferred by the sovereign (PD 6.34). An exchange of the 10th and lagna lords gives close association with rulers (BPHS 40.13).",
+      "finance": "Maha: wealth, gold ornaments and gifts (PD 6.34). An exchange of the 2nd with the 5th or 11th lord brings financial prosperity in those dashas (Raman HJH 2nd house). The 2nd-11th exchange is a very powerful Dhana yoga (BPHS vol. 2, translator's note to ch. 48).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Both planets strong; Raman (HJH) mentions Gopuramsa for the 4th-10th exchange.",
+      "Exchange between kendra and trikona lords counts as Raja Yoga (BPHS 34.11-12; 41.28; PVR 11.7.1).",
+      "Frawley (p. 181) says an exchange can integrate the planets' power more than each simply being in its own sign."
+    ],
+    "weakeners_or_cancellations": [
+      "Involvement of the 6th, 8th or 12th lord (Dainya) or the 3rd lord (Khala) (Phaladeepika 6.32-33).",
+      "Exchange of the 2nd and 12th lords is a yoga for poverty (Frawley p. 181)."
+    ],
+    "lagna_or_context_notes": "Which kind forms is a property of the two houses involved, counted from the lagna. Rath (Crux) notes that in an exchange each planet gives the results of the other: in his chart 38, Saturn gives Mars's results. Rath also shows an exchange protecting a house (the lagna lord in the 6th exchanging with the 6th lord, chart 14).",
+    "source_views": [
+      {"source": "Phaladeepika 6.32 (tr. Sastri)", "view": "Two bhava lords occupying each other's houses is Parivartana. There are 66 such exchanges: 30 involve the 6th, 8th and 12th lords (Dainya), 8 the 3rd lord (Khala), and the remaining 28 are Maha. Sastri enumerates each set.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 6.33-34 (tr. Sastri)", "view": "Dainya natives are foolish, revile others, are tormented by enemies, wounding in speech, unsteady, with interrupted undertakings. Khala natives alternate between going astray and gentleness, prosperity and distress. Maha natives are blessed by Sri, wealthy, given authority, gifts, vehicles and children.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "BPHS 39.6-7 and 40.13 (tr. Santhanam)", "view": "Exchange of the lagna and 5th lords is a Maha Raja Yoga, making one famous and happy. Exchange of the 10th and lagna lords associates the native greatly with the king.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "BPHS 34.11-12 (tr. Santhanam)", "view": "An exchange between an angular and a trinal lord is the first of the Raja Yoga forms.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "Jataka Parijata 7, notes to sl. 21 (tr. Sastri)", "view": "The note lists 12 named yogas from relationships between the lords of successive houses (1st-2nd through 12th-1st). It counts sign exchange as one of the four kinds of relationship.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, HJH vol. 1, Fourth House p. 161 and Second House p. 95", "view": "Parivartana between the 4th and 10th lords gives lands, or even rulership if they are very strong (Gopuramsa). Exchange of the 4th and 6th lords gives lands from enemies. Exchange of the 2nd and 5th or 2nd and 11th lords gives financial prosperity in their periods.", "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology (PDF pp. 41, 79, 113)", "view": "An exchange makes each planet give the other's results. An exchange between the lagna lord in the 6th and the 6th lord in the lagna causes Raja Yoga and removes the bad effects of the lagna lord in the 6th. Rath also uses exchange to alter counting direction in the Saptamsa.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers pp. 173, 181", "view": "Sign exchange is a complete connection (sambandha) like a mutual full aspect, akin to Western mutual reception, and among the most powerful connections. Planets exchanging signs can produce stronger effects than the same planets in their own signs. Many yogas require exchange.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach 11.7.1", "view": "Parivartana is one of the three associations (with conjunction and graha drishti) that link a kendra and a trikona lord into Raja Yoga.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"}
+    ],
+    "disagreements": "Phaladeepika labels every exchange touching the 6th, 8th or 12th lord as Dainya, with bad results. Rath reads a lagna-6th exchange as a Raja Yoga that removes the 6th-house harm (chart 14). Frawley treats exchange as generally strengthening. Raman's 4th-6th exchange gives lands from enemies rather than misery.",
+    "confidence": "medium",
+    "phrasing_guidance": "Explain an exchange as two areas of life becoming closely tied, each planet acting for the other. Say which kind (Maha, Khala or Dainya) it is from the houses involved. Avoid harsh language for Dainya; say it points to effort and obstacles around the dusthana matters.",
+    "definitions": [
+      {"source": "Phaladeepika 6.32 (Sastri)", "definition": "Two bhava lords each occupying the other's house; 66 possible pairs."},
+      {"source": "Phaladeepika 6.32 - Maha (Sastri)", "definition": "Exchange between any two of the lords of 1, 2, 4, 5, 7, 9, 10, 11 (28 pairs)."},
+      {"source": "Phaladeepika 6.32 - Khala (Sastri)", "definition": "Exchange of the 3rd lord with the lord of 1, 2, 4, 5, 7, 9, 10 or 11 (8 pairs)."},
+      {"source": "Phaladeepika 6.32 - Dainya (Sastri)", "definition": "Any exchange involving the lord of the 6th, 8th or 12th (30 pairs)."},
+      {"source": "Frawley p. 173", "definition": "Two planets each in a sign ruled by the other (e.g. Jupiter in Aries, Mars in Pisces)."}
+    ],
+    "cancellations": [],
+    "rarity_and_weight": "Phaladeepika's count: 28 of the 66 possible exchanges are Maha, 8 Khala and 30 Dainya. Frawley rates exchange among the most powerful connections. Weight depends on the houses involved and the planets' strength (Raman HJH).",
+    "timing": "Raman (HJH) times the 2nd-5th and 2nd-11th exchanges to the periods and sub-periods of those lords. Rath reads results through the exchanged planets' periods and dasas (e.g. Mars-Venus exchange in the D-16, Crux PDF p. 87).",
+    "conditional_results": [],
+    "remedies": []
+  },
+  {
+    "id": "yoga/dhana",
+    "layer": "yoga",
+    "key": {"name": "Dhana (1/2/5/9/11 lords)"},
+    "summary": "Dhana yogas are links among the wealth houses: the 2nd (wealth), 11th (gains), 5th and 9th (fortune) and the lagna. The classic form joins the 2nd and 11th lords with the 5th and 9th lords. These yogas promise wealth in proportion to the strength of the planets involved.",
+    "themes": ["wealth", "gains", "savings", "fortune"],
+    "common_outcomes": [
+      "earning and accumulating wealth (Bhavartha Ratnakara ch. 2)",
+      "financial prosperity in the periods of the linked lords (Raman HJH)"
+    ],
+    "rare_outcomes": [
+      "great affluence when the 5th and 11th lords are in their own houses in specific lagna-wise forms (BPHS 41.2-8; Raman 300 nos. 118-122)",
+      "immense wealth when the lagna lord in its own sign in the lagna is joined or aspected by certain planets (BPHS 41.9-15; Raman 300 nos. 123-128)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "The core area: earnings, savings and gains. Uttara Kalamrita 4.5 links the 2nd and 11th lord pair to affluence and wealth.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The 2nd and 11th lords combined with the 5th and 9th lords rather than with other lords (Bhavartha Ratnakara ch. 2 st. 3-4).",
+      "Lords in own, friendly or exaltation signs (Uttara Kalamrita 4.5).",
+      "Strength and favourable disposition of the participating planets (BPHS 41.17; PVR 11.9).",
+      "A strong 11th house (PVR 11.9)."
+    ],
+    "weakeners_or_cancellations": [
+      "2nd and 11th lords combined with the 12th lord: much wealth is not acquired (Bhavartha Ratnakara ch. 2 st. 5).",
+      "2nd lord with the 12th lord gives only ordinary prosperity in the 2nd lord's dasa (Raman HJH 2nd house).",
+      "Lords of the lagna, 4th and 9th in the 8th, or the 5th lord in the 8th, give financial losses in their periods (Raman HJH 2nd house)."
+    ],
+    "lagna_or_context_notes": "BPHS 41.2-15 gives lagna-specific forms: the 5th lord in the 5th with the 11th lord or specific planets in the 11th, and the lagna lord in the lagna joined or aspected by specific planets. Raman (300 nos. 118-128) and PVR (11.9) list them per lagna. Raman notes the same form gives the same degree of wealth but from different sources depending on which lords are involved (no. 119).",
+    "source_views": [
+      {"source": "Bhavartha Ratnakara ch. 2 st. 1-8 (tr. B.V. Raman)", "view": "Lists the wealth combinations: exchange of the 2nd and 5th or 2nd and 11th lords; the 5th lord in the 5th and the 9th lord in the 9th; the 2nd and 11th lords combined with the 5th and 9th lords. If the 2nd and 11th lords join lords other than the 5th and 9th, only modest wealth follows. Combined with the 12th lord, much wealth does not come. Jupiter with the 2nd lord and Mercury, the lords of the 11th, 1st and 2nd in their own houses, and the 2nd and 11th lords in the lagna are also listed. Raman notes that the majority of horoscopes fall in the modest-wealth category.", "url": "https://archive.org/details/in.ernet.dli.2015.142241"},
+      {"source": "BPHS 41.16-17 (tr. Santhanam)", "view": "The 9th and 5th lords, and planets conjunct them, bestow wealth in their dasas. All wealth yogas must be weighed by the strength and disposition of the planets involved.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "BPHS 41.2-15 (tr. Santhanam)", "view": "Specific combinations: the 5th lord in its own sign in the 5th with the 11th lord or other named planets in the 11th gives great riches (2-8). The lagna lord in its own sign in the lagna, joined or aspected by named planets, makes one wealthy (9-15).", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "BPHS 39.18 (tr. Santhanam)", "view": "One of the Moon, Jupiter, Venus or Mercury exalted in the 2nd makes one wealthy.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "Uttara Kalamrita 4.5 (tr. Sareen)", "view": "Among four pairs of lords, the 2nd and 11th lords, related by conjunction, exchange or mutual aspect and in friendly, own or exaltation signs, give affluence and wealth.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "Jataka Parijata 7.21 (tr. Sastri)", "view": "The 10th and 9th lords conjoined and associated with the 2nd lord (and the same pairs counted from the 9th and 10th) make one wealthy.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, HJH vol. 1, Second House pp. 94-95", "view": "Wealth should be predicted only when other strong Dhana yogas exist. Financial prosperity comes in the periods of the 2nd and 5th or 2nd and 11th lords in exchange, or of the 5th and 9th lords in their own houses. The 2nd lord with the 12th gives ordinary prosperity.", "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations nos. 118-128", "view": "Raman reproduces the BPHS 5th/11th and lagna-lord wealth forms, noting that all fortify the 5th and 11th houses and that their strength varies by lagna.", "url": "https://archive.org/details/300-important-combinations-b.v.-raman"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach 11.9", "view": "Basic principle: the 5th and 9th lords and planets joining them give money in their dasas. The 11th and 2nd houses are also important. Strength of the participating planets decides the magnitude.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"}
+    ],
+    "disagreements": "The calculator's '1/2/5/9/11 lords' rule matches no single classical verse exactly. Bhavartha Ratnakara st. 3 centres the 2nd and 11th lords with the 5th and 9th. BPHS 41 centres the 5th and 9th lords and adds lagna-specific forms. Uttara Kalamrita 4.5 pairs the 2nd and 11th lords alone. Jataka Parijata 7.21 ties wealth to the 9th-10th lords plus the 2nd lord. Inclusion of the lagna lord comes from BR st. 7 (lords of 11, 1 and 2 in their own houses) and BPHS 41.9-15.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of capacity to earn and build resources, which shows most in the periods of the lords involved. Never promise riches; Bhavartha Ratnakara itself says most charts get modest rather than great wealth.",
+    "definitions": [
+      {"source": "Bhavartha Ratnakara ch. 2 st. 3 (Raman)", "definition": "Lords of the 2nd and 11th combined with the lords of the 5th and 9th."},
+      {"source": "Bhavartha Ratnakara ch. 2 st. 1-2, 7-8 (Raman)", "definition": "2nd-5th or 2nd-11th lord exchange; 5th lord in the 5th and 9th lord in the 9th; lords of 11, 1 and 2 in their own houses; 2nd and 11th lords in the lagna."},
+      {"source": "BPHS 41.16 (Santhanam)", "definition": "The 5th and 9th lords and planets conjunct them give wealth."},
+      {"source": "Uttara Kalamrita 4.5 (Sareen)", "definition": "2nd and 11th lords together, exchanged or in mutual aspect, in a friendly, own or exaltation sign."},
+      {"source": "Jataka Parijata 7.21 (Sastri)", "definition": "9th and 10th lords conjoined with the 2nd lord."},
+      {"source": "PVR 11.9", "definition": "5th and 9th lords and planets joining them; with a strong 11th and 2nd."}
+    ],
+    "cancellations": [
+      {"condition": "2nd and 11th lords combined with lords other than the 5th and 9th: only modest wealth.", "source": "Bhavartha Ratnakara ch. 2 st. 4"},
+      {"condition": "2nd and 11th lords combined with the 12th lord.", "source": "Bhavartha Ratnakara ch. 2 st. 5"},
+      {"condition": "Planets involved unfavourably disposed or weak.", "source": "BPHS 41.17"}
+    ],
+    "rarity_and_weight": "Common in some form. Raman's note to Bhavartha Ratnakara ch. 2 st. 4 says the majority of horoscopes have the weaker form that gives humble wealth. Raman (HJH) warns not to predict wealth unless other strong Dhana yogas exist. The lagna-specific BPHS forms are much rarer and stronger.",
+    "timing": "Dasas of the 5th and 9th lords and planets conjunct them (BPHS 41.16; PVR 11.9). Periods and sub-periods of the 2nd-5th or 2nd-11th exchanging lords, and of the 5th and 9th lords in their own houses (Raman HJH).",
+    "conditional_results": [],
+    "remedies": []
+  },
+  {
+    "id": "yoga/lakshmi",
+    "layer": "yoga",
+    "key": {"name": "lakshmi"},
+    "summary": "Lakshmi Yoga (named after the goddess of wealth) needs a strong 9th lord in its own, moolatrikona or exaltation sign in an angle (or a trine in some texts) and a strong lagna lord. Phaladeepika gives a variant requiring the 9th lord and Venus in such signs. It promises wealth, virtue, good looks, reputation and high standing.",
+    "themes": ["wealth", "fortune", "virtue", "reputation", "beauty"],
+    "common_outcomes": [
+      "wealth and comforts (Raman 300 no. 27)",
+      "good character, reputation and attractive appearance (BPHS 36.27-28)"
+    ],
+    "rare_outcomes": [
+      "'a king of kings' ruling many lands (Jataka Parijata 7.153)",
+      "immense wealth when the 9th lord and Venus are both in own or exaltation signs in kendras or trikonas (Raman's grading of the Phaladeepika form)"
+    ],
+    "by_area": {
+      "personality": "Charming, virtuous, of high moral merit (BPHS 36.27-28); learned and of high integrity (Raman).",
+      "career": "Kingly status, a good ruler (BPHS; Raman); protects his people (Phaladeepika 6.24).",
+      "finance": "Abundant wealth (BPHS); 'predominantly to do with wealth' (Raman).",
+      "health": "Free from disease (Phaladeepika 6.24).",
+      "relationships": "Phaladeepika 6.24 pictures him ever sporting with an amiable damsel. Jataka Parijata 7.153 gives numerous wives and sons.",
+      "family": "Many sons (BPHS 36.27-28; Jataka Parijata 7.153).",
+      "spirituality": "Blessed by the goddess of wealth (Phaladeepika 6.24)."
+    },
+    "strengtheners": [
+      "Strength of the lagna lord, Venus and the 9th lord (Raman).",
+      "Other Dhana yogas present (Raman)."
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: the lagna and 9th lords associated in the 3rd, 6th or 8th do not form even the ordinary type."
+    ],
+    "lagna_or_context_notes": "Raman says the strong form is rare, but in almost every horoscope with any claim to wealth some form of Lakshmi Yoga is found.",
+    "source_views": [
+      {"source": "BPHS 36.27-28 (tr. Santhanam)", "view": "The 9th lord is in an angle identical with its moolatrikona, own or exaltation sign, and the lagna lord is strong. The native is charming, virtuous, kingly, with many sons, abundant wealth, fame and high moral merit.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "Phaladeepika 6.21, 6.24 (tr. Sastri)", "view": "The 9th lord and Venus are in their own or exaltation houses identical with a trikona or kendra. The native is healthy, wealthy and brilliant, protects his people, is blessed by the goddess of wealth, rides in palanquins, and is the best of kings and liberal.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Jataka Parijata 7.152-153 (tr. Sastri)", "view": "The 9th lord is in a kendra identical with its moolatrikona, and the lagna lord is in exaltation with abundant strength. The native is a king of kings, virtuous, ruling many lands, learned and handsome, with many wives and sons.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations no. 27", "view": "Definition: a powerful lagna lord with the 9th lord in own or exaltation sign in a kendra or trikona. Raman lists variants and grades the 9th lord plus Venus form as the most powerful. The lagna and 9th lords associated or in mutual aspect outside the 3rd, 6th and 8th gives an ordinary type. Strong forms are rare, but some form is common in wealthy charts.", "url": "https://archive.org/details/300-important-combinations-b.v.-raman"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach 11.6", "view": "The 9th lord in own or exaltation sign in a quadrant and a strong lagna lord: becomes a king, good-looking, of good character, wealthy, with many children, principled and famous.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"}
+    ],
+    "disagreements": "On the 9th lord's dignity: BPHS accepts moolatrikona, own or exaltation; Jataka Parijata requires moolatrikona; Phaladeepika accepts own or exaltation. On location: BPHS and JP require a kendra, while Phaladeepika and Raman accept a kendra or trikona. On the second factor: BPHS and PVR need a strong lagna lord, JP needs the lagna lord exalted, and Phaladeepika needs Venus in its own or exaltation sign instead. Raman's ordinary type (mere lagna-9th lord association) is his own grading.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of good fortune, resources and a graceful life that tend to grow when the 9th lord's period runs. Avoid promising riches or many children.",
+    "definitions": [
+      {"source": "BPHS 36.27 (Santhanam)", "definition": "9th lord in a kendra identical with its moolatrikona, own or exaltation sign, and lagna lord strong."},
+      {"source": "Phaladeepika 6.21 (Sastri)", "definition": "9th lord and Venus in their own or exaltation signs identical with a kendra or trikona."},
+      {"source": "Jataka Parijata 7.152 (Sastri)", "definition": "9th lord in a kendra identical with its moolatrikona, and lagna lord exalted and very strong."},
+      {"source": "Raman 300 no. 27", "definition": "Lagna lord powerful and 9th lord in own or exaltation sign in a kendra or trikona."},
+      {"source": "PVR 11.6", "definition": "9th lord in own or exaltation sign in a quadrant, and lagna lord strong."}
+    ],
+    "cancellations": [
+      {"condition": "Raman's ordinary type fails if the lagna and 9th lords are associated in the 3rd, 6th or 8th.", "source": "Raman 300 no. 27 remarks"}
+    ],
+    "rarity_and_weight": "Raman says a really strong Lakshmi Yoga is rare and then gives full results, but some weaker form is found in almost every horoscope with any claim to wealth. Weight: high if the strict BPHS/JP form holds.",
+    "timing": "Raman's example (Chart 27): the 9th lord's (Mars) dasa brought wealth and reputation. Generally the 9th lord's and lagna lord's periods (Raman's Introduction method).",
+    "conditional_results": [],
+    "remedies": []
+  },
+  {
+    "id": "yoga/saraswati",
+    "layer": "yoga",
+    "key": {"name": "saraswati"},
+    "summary": "Saraswati Yoga (named after the goddess of learning) forms when Jupiter, Venus and Mercury occupy angles, trines or the 2nd house, with Jupiter in its own, exaltation or friendly sign. It promises learning, eloquence, literary or artistic skill, fame and wealth.",
+    "themes": ["learning", "eloquence", "creativity", "fame"],
+    "common_outcomes": [
+      "high intelligence and learning (Phaladeepika 6.27)",
+      "skill in composition, poetry, accounts or exposition of texts (Phaladeepika 6.27)",
+      "fame and wealth (Raman 300 no. 161)"
+    ],
+    "rare_outcomes": [
+      "fame 'over the three worlds' and respect from the best of kings (Phaladeepika 6.27)"
+    ],
+    "by_area": {
+      "personality": "Highly intelligent and clever (PD 6.27); praised by all (Raman).",
+      "career": "Poet, writer or scholar, skilled in prose, verse, drama and accounts, respected by rulers (PD 6.27; Raman).",
+      "finance": "Exceedingly wealthy (PD 6.27); rich (Raman).",
+      "health": "",
+      "relationships": "Endowed with wife and children (PD 6.27); a good wife and children (Raman).",
+      "family": "Good children (Raman).",
+      "spirituality": "Skilled in exposition of sacred texts (PD 6.27)."
+    },
+    "strengtheners": [
+      "Jupiter strong: own, exaltation or friendly sign and 'possessing strength' (PD 6.26).",
+      "All three planets strong (Raman)."
+    ],
+    "weakeners_or_cancellations": [
+      "If the planets are weak, the yoga merges with other, more powerful yogas (Raman)."
+    ],
+    "lagna_or_context_notes": "Because Mercury and Venus stay close to the Sun, the three often fall in the allowed houses together. Raman calls the yoga not rare.",
+    "source_views": [
+      {"source": "Phaladeepika 6.26-27 (tr. Sastri)", "view": "Venus, Jupiter and Mercury occupy a kendra, a trikona or the 2nd, with Jupiter strong in its exaltation, own or a friendly sign. The native is highly intelligent; skilled in drama, prose, verse, accounts, poetics and exposition of sacred texts; famous, very wealthy, with wife and children, fortunate and respected by kings.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations no. 161", "view": "Jupiter, Venus and Mercury occupy the 1st, 2nd, 4th, 5th, 7th, 9th or 10th, jointly or severally, with Jupiter in own, exaltation or friendly sign. The native is a poet, famous, learned, skilled, rich and praised, with a good wife and children. Not rare; if the planets are strong it is prominent, otherwise it merges with stronger yogas.", "url": "https://archive.org/details/300-important-combinations-b.v.-raman"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach 11.6", "view": "Each of Mercury, Jupiter and Venus is in a quadrant, a trine or the 2nd (not necessarily together), with Jupiter in an own, friendly or exaltation sign. The native is very learned, skilful, intelligent, rich, famous and praised.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"}
+    ],
+    "disagreements": "Only small differences: Raman lists the houses explicitly (1, 2, 4, 5, 7, 9, 10), which matches kendra + trikona + 2nd. Phaladeepika adds that Jupiter must 'possess strength'. Not found in Santhanam's BPHS yoga chapters, in Saravali, or in Jataka Parijata ch. 7 (as read), so classical support here rests on Phaladeepika.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe an aptitude for learning, expression and the arts that rewards study. Avoid promising fame; Raman notes the yoga is common and depends on strength.",
+    "definitions": [
+      {"source": "Phaladeepika 6.26 (Sastri)", "definition": "Venus, Jupiter and Mercury in a kendra, trikona or the 2nd, with Jupiter in exaltation, own or friendly sign and strong."},
+      {"source": "Raman 300 no. 161", "definition": "Jupiter, Venus and Mercury in the 1st, 2nd, 4th, 5th, 7th, 9th or 10th, jointly or severally, with Jupiter in own, exaltation or friendly sign."},
+      {"source": "PVR 11.6", "definition": "Each of Mercury, Jupiter, Venus in a quadrant, trine or the 2nd, with Jupiter in own, friendly or exaltation sign."}
+    ],
+    "cancellations": [],
+    "rarity_and_weight": "Raman: 'not a rare one'. It is prominent only when the planets are strong and otherwise merges with more powerful yogas.",
+    "timing": "",
+    "conditional_results": [],
+    "remedies": []
+  },
+  {
+    "id": "yoga/vasumati",
+    "layer": "yoga",
+    "key": {"name": "vasumati"},
+    "summary": "Vasumati Yoga forms when benefics occupy the upachaya houses (3, 6, 10, 11) from the lagna or the Moon. It is a yoga of independence and steady wealth: more benefics there means more wealth.",
+    "themes": ["wealth", "independence", "self-reliance"],
+    "common_outcomes": [
+      "commands plenty of money (Phaladeepika 6.20)",
+      "not dependent on others (Raman 300 no. 9)"
+    ],
+    "rare_outcomes": [
+      "very great wealth when all benefics are in upachayas (BPHS 37.6; Saravali 13.32)"
+    ],
+    "by_area": {
+      "personality": "Independent, not a dependent (Raman). 'Always keeps to his house' (Phaladeepika 6.20).",
+      "career": "",
+      "finance": "Plenty of wealth. All three benefics give much, two give medium and one gives little (BPHS 37.6; Saravali 13.32).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "More benefics in upachayas (BPHS 37.6; Saravali 13.32).",
+      "Upachayas that are the benefics' exaltation signs (Raman).",
+      "Counting from the lagna rather than the Moon (Raman: the lagna form seems more influential).",
+      "Strong benefics with no malefics in the upachayas (PVR)."
+    ],
+    "weakeners_or_cancellations": [
+      "Upachayas that are the benefics' debilitation signs (Raman).",
+      "Benefics there associated with or aspected by malefics (Raman).",
+      "Malefics occupying upachayas (PVR)."
+    ],
+    "lagna_or_context_notes": "Raman notes that counted from the Moon, all four upachayas cannot hold benefics because only three benefics remain. He also says Varahamihira held that Vasumati predictions do not fail.",
+    "source_views": [
+      {"source": "Phaladeepika 6.19-20 (tr. Sastri)", "view": "All the benefics occupy upachaya houses reckoned from the lagna or the Moon. The native keeps to his house and commands plenty of money.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "BPHS 37.6 (tr. Santhanam), named Dhana Yoga there", "view": "All three benefics in upachayas from the Moon make one very affluent, two give medium wealth, one gives negligible wealth.", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "Saravali 13.32 (tr. Santhanam)", "view": "All benefics in the 3rd, 6th, 10th and 11th give much wealth, two moderate wealth, one little; the yoga may also be counted from the Moon. Saravali calls it a Dhana yoga.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations no. 9", "view": "Benefics in upachayas from the ascendant or the Moon give independence and plenty of wealth, more to do with wealth than anything else. The lagna form is stronger. Pure forms are rare and allowance must be made for malefic aspects; the strongest of the forming planets delivers most of the result in its periods.", "url": "https://archive.org/details/300-important-combinations-b.v.-raman"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach 11.6", "view": "Benefics in upachayas; full results need no malefics in upachayas and strong benefics there. Abundant wealth.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"}
+    ],
+    "disagreements": "The texts disagree on how many benefics and on the reference point. Phaladeepika and Saravali say all benefics. Raman and PVR accept any benefics and grade by number. BPHS 37.6 counts from the Moon and calls it Dhana Yoga. Phaladeepika and Saravali allow the lagna or the Moon, and Raman prefers the lagna. Which planets count as benefics (e.g. the Moon, Mercury) is not specified in these passages.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a capacity for self-made, steadily growing resources and independence. Scale the wording to how many benefics are involved and avoid promising wealth.",
+    "definitions": [
+      {"source": "Phaladeepika 6.19 (Sastri)", "definition": "All benefics in upachayas (3, 6, 10, 11) from the lagna or the Moon."},
+      {"source": "BPHS 37.6 (Santhanam)", "definition": "Benefics (all three for full effect) in upachayas from the Moon."},
+      {"source": "Saravali 13.32 (Santhanam)", "definition": "All benefics in the 3rd, 6th, 10th and 11th, from the lagna or the Moon; graded by count."},
+      {"source": "Raman 300 no. 9", "definition": "Benefics in upachayas from the ascendant or the Moon."},
+      {"source": "PVR 11.6", "definition": "Benefics in upachayas."}
+    ],
+    "cancellations": [
+      {"condition": "Benefics in upachayas that are their debilitation signs, or associated with or aspected by malefics.", "source": "Raman 300 no. 9"},
+      {"condition": "Malefics also occupying upachayas.", "source": "PVR 11.6"}
+    ],
+    "rarity_and_weight": "Raman: pure Vasumati Yogas are rare, since very few charts have benefics in all the upachayas. Partial forms are common and give proportionately less (BPHS 37.6; Saravali 13.32).",
+    "timing": "Raman (Chart 14): most of the yoga fructifies in the period or sub-periods of the strongest of the forming planets.",
+    "conditional_results": [],
+    "remedies": []
+  },
+  {
+    "id": "yoga/viparita_harsha",
+    "layer": "yoga",
+    "key": {"name": "Viparita Raja (Harsha)"},
+    "summary": "Harsha Yoga, one of the three Viparita ('reversed') Raja Yogas, forms when the 6th lord falls in a dusthana (6th, 8th or 12th). Some writers require the 6th lord in the 6th itself. The trouble-giving house lord is weakened in another trouble house, and texts promise happiness, health, victory over enemies, wealth and fame. Raman warns that in practice the 6th lord's evil is only modified, not removed.",
+    "themes": ["victory over enemies", "health", "success after struggle"],
+    "common_outcomes": [
+      "overcomes enemies; strong constitution (Phaladeepika 6.63)",
+      "happiness, good fortune, wealth, fame and friends (Phaladeepika 6.63)"
+    ],
+    "rare_outcomes": [
+      "a famous and powerful king when all three dusthana lords are mutually related and unrelated to other planets (Uttara Kalamrita 4.22)"
+    ],
+    "by_area": {
+      "personality": "Afraid to commit sinful acts (PD 6.63); happy, strong, good-natured, invincible (PVR).",
+      "career": "Friend of illustrious and prominent people (PD 6.63); tremendous success, typically after struggle (PVR on Viparita).",
+      "finance": "Wealth and splendour (PD 6.63).",
+      "health": "A strong constitution (PD 6.63). Raman cites Parasara: the 6th lord in the 8th or 12th can make one sickly.",
+      "relationships": "Friends (PD 6.63).",
+      "family": "Sons (PD 6.63). Raman cites Parasara: the 6th lord in the 6th turns relatives into enemies.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Malefics occupying or aspecting the 6th house (BPHS vol. 2 translator's note).",
+      "The 6th, 8th and 12th lords mutually related and free from relation with other planets (Uttara Kalamrita 4.22; PVR's ideal case)."
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: 'in actual practice quite the contrary' results have been seen; interpret with an eye on the intrinsic evil of the ownership.",
+      "Association with other planets beyond the dusthana lords (Uttara Kalamrita 4.22)."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 6.57, 6.63 (tr. Sastri)", "view": "Twelve yogas arise when the lord of each bhava occupies the 6th, 8th or 12th, or the bhava is associated with or aspected by malefics. For the 6th bhava this is Harsha. Its native has happiness, enjoyment, good fortune and a strong body, overcomes enemies, fears sin, befriends the eminent, and has wealth, splendour, friends, fame and sons.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 6.70 (tr. Sastri)", "view": "If the lords of the 8th, 6th and 12th, weak or eclipsed, occupy those houses while the lords of the 1st, 4th, 9th and 10th are strong in kendras or konas, the native becomes a fortunate, wealthy, happy and virtuous king. The reverse configuration is Duryoga.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Uttara Kalamrita 4.22 (tr. Sareen; also P.S. Sastri)", "view": "Three Viparita Raja Yogas: the 8th lord in the 6th or 12th, the 6th lord in the 8th or 12th, and the 12th lord in the 6th or 8th. If these lords are related by exchange, aspect or conjunction and free of relation with other planets, the native is a great, renowned and wealthy king.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "BPHS vol. 2 (Ranjan Publications 1992), translator's note under ch. 48 vv. 5-8", "view": "Summarising Phaladeepika ch. 6: if the 6th house is occupied or aspected by malefics and the 6th lord is in a dusthana, Harsha yoga arises, with the results given above.", "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"},
+      {"source": "BPHS 39.20, 39.28 (tr. Santhanam)", "view": "A related BPHS Raja Yoga: the 6th, 8th and 12th lords in fall, enemy signs or combustion while the lagna lord in own or exaltation sign aspects the lagna (39.20). Even one of the 6th, 8th or 12th lords debilitated and aspecting the lagna gives Raja Yoga (39.28).", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations nos. 105-107", "view": "The 6th lord in the 6th gives Harsha: fortunate, happy, invincible, strong, wealthy, famous, afraid of sin. In practice, though, quite the contrary results have been seen. Raman says Parasara and Lomasa do not hold that the sting of evil lordship disappears; it is only modified.", "url": "https://archive.org/details/300-important-combinations-b.v.-raman"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach 11.6 and 11.7.1", "view": "Harsha: the 6th lord in the 6th, giving a happy, strong, good-natured, invincible native. Under Vipareeta Raja Yoga: dusthana lords in or conjoining dusthanas give tremendous success, typically after initial struggle, as obstacles run into obstacles. Ideally all three are together with no other planets, but one or two suffice for some results.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"}
+    ],
+    "disagreements": "On the formation rule, Raman and PVR require the 6th lord in the 6th. Uttara Kalamrita requires the 6th lord in the 8th or 12th, excluding the 6th. Phaladeepika (Sastri) says the 6th lord in the 6th, 8th or 12th, or the 6th associated with or aspected by malefics. The BPHS vol. 2 note requires both malefic influence on the 6th and the 6th lord in a dusthana. On results, Phaladeepika, UK and PVR are favourable, while Raman reports contrary results in practice and quotes Parasara's adverse readings of the 6th lord in the 6th, 8th or 12th.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present it as resilience: the ability to win against competition, illness or opposition, often after a struggle. Do not promise easy success, and do not make health claims.",
+    "definitions": [
+      {"source": "Phaladeepika 6.57 (Sastri)", "definition": "6th lord in the 6th, 8th or 12th, or the 6th bhava associated with or aspected by malefics."},
+      {"source": "Uttara Kalamrita 4.22", "definition": "6th lord in the 8th or 12th (one of three Viparita Raja Yogas), best when related only to the other dusthana lords."},
+      {"source": "BPHS vol. 2 translator's note (ch. 48)", "definition": "6th house occupied or aspected by malefics and the 6th lord in a dusthana."},
+      {"source": "Raman 300 no. 105", "definition": "6th lord in the 6th."},
+      {"source": "PVR 11.6", "definition": "6th lord in the 6th."}
+    ],
+    "cancellations": [
+      {"condition": "The dusthana lords related to other planets as well (the yoga requires them to be free of such relation).", "source": "Uttara Kalamrita 4.22"},
+      {"condition": "In practice the 6th-lordship evil persists in modified form (Raman's observation).", "source": "Raman 300 nos. 105-107 remarks"}
+    ],
+    "rarity_and_weight": "Raman gives it little reliable weight in practice. UK and PVR give most weight when two or three dusthana lords are related among themselves only.",
+    "timing": "PVR: success typically comes after initial struggle. No dasa rule found in the sources read.",
+    "conditional_results": [
+      {"when": "manual: 6th, 8th and 12th lords mutually related and unrelated to other planets", "polarity": "good", "effects": ["renowned, prosperous, powerful position"], "source": "Uttara Kalamrita 4.22"}
+    ],
+    "remedies": []
+  },
+  {
+    "id": "yoga/viparita_sarala",
+    "layer": "yoga",
+    "key": {"name": "Viparita Raja (Sarala)"},
+    "summary": "Sarala Yoga, a Viparita Raja Yoga, forms when the 8th lord falls in a dusthana (6th, 8th or 12th). Raman and PVR require the 8th lord in the 8th. Texts promise long life, fearlessness, learning, prosperity and victory over foes. Raman cautions that the 8th lord's evil is modified rather than removed.",
+    "themes": ["longevity", "fearlessness", "resilience", "learning"],
+    "common_outcomes": [
+      "long-lived, resolute, fearless (Phaladeepika 6.65)",
+      "prosperous, learned, successful in undertakings, overcomes foes (Phaladeepika 6.65)"
+    ],
+    "rare_outcomes": [
+      "a famous and powerful king when related only to the other dusthana lords (Uttara Kalamrita 4.22)"
+    ],
+    "by_area": {
+      "personality": "Resolute, fearless, pure, a terror to enemies (PD 6.65; Raman).",
+      "career": "Success in undertakings; widely celebrated (PD 6.65).",
+      "finance": "Prosperous and rich (PD 6.65).",
+      "health": "The texts promise long life (PD 6.65; Raman; PVR). Phrase it as resilience; never as a lifespan prediction.",
+      "relationships": "",
+      "family": "Children (PD 6.65).",
+      "spirituality": "Pure (PD 6.65)."
+    },
+    "strengtheners": [
+      "The 6th, 8th and 12th lords related only among themselves (Uttara Kalamrita 4.22; PVR)."
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: in practice results have been contrary; the ownership evil is only modified."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 6.57, 6.65 (tr. Sastri)", "view": "The 8th lord in the 6th, 8th or 12th, or the 8th bhava associated with or aspected by malefics, gives Sarala. The native is long-lived, resolute, fearless, prosperous, learned, with children and riches, successful, overcomes foes, pure and celebrated.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Uttara Kalamrita 4.22 (tr. Sareen)", "view": "The 8th lord in the 12th or 6th is one of three Viparita Raja Yogas. Related to the other dusthana lords and to no others, it gives great kingship, renown and wealth.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "BPHS vol. 2, translator's note under ch. 48", "view": "The 8th lord in the 6th, 8th or 12th gives Sarala, with Phaladeepika's results.", "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations no. 106", "view": "The 8th lord in the 8th gives Sarala: long-lived, fearless, learned, a terror to enemies, celebrated, prosperous. In practice, results have been to the contrary.", "url": "https://archive.org/details/300-important-combinations-b.v.-raman"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach 11.6 and 11.7.1", "view": "The 8th lord in the 8th: long-lived, fearless, learned, celebrated, prosperous, a terror to enemies. It also falls under the Vipareeta Raja Yoga of success after struggle.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"}
+    ],
+    "disagreements": "As for Harsha. Raman and PVR require the 8th lord in the 8th, Uttara Kalamrita the 8th lord in the 6th or 12th, and Phaladeepika the 8th lord in any dusthana or malefic influence on the 8th. Raman doubts the favourable results; the others accept them.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of steadiness and courage in crises and the capacity to recover. Do not make longevity or death-related statements.",
+    "definitions": [
+      {"source": "Phaladeepika 6.57 (Sastri)", "definition": "8th lord in the 6th, 8th or 12th, or the 8th bhava associated with or aspected by malefics."},
+      {"source": "Uttara Kalamrita 4.22", "definition": "8th lord in the 6th or 12th."},
+      {"source": "BPHS vol. 2 translator's note (ch. 48)", "definition": "8th lord in the 6th, 8th or 12th."},
+      {"source": "Raman 300 no. 106", "definition": "8th lord in the 8th."},
+      {"source": "PVR 11.6", "definition": "8th lord in the 8th."}
+    ],
+    "cancellations": [
+      {"condition": "Dusthana lords related to other planets as well.", "source": "Uttara Kalamrita 4.22"}
+    ],
+    "rarity_and_weight": "Raman gives it limited weight in practice. UK and PVR put the most weight on two or three dusthana lords related among themselves.",
+    "timing": "PVR: success typically comes after initial struggle. No dasa rule found in the sources read.",
+    "conditional_results": [],
+    "remedies": []
+  },
+  {
+    "id": "yoga/viparita_vimala",
+    "layer": "yoga",
+    "key": {"name": "Viparita Raja (Vimala)"},
+    "summary": "Vimala Yoga, a Viparita Raja Yoga, forms when the 12th lord falls in a dusthana (6th, 8th or 12th). Raman and PVR require the 12th lord in the 12th. Texts promise frugality, savings, independence, happiness and good reputation. Raman cautions that the 12th lordship's evil is only modified.",
+    "themes": ["frugality", "independence", "savings", "good conduct"],
+    "common_outcomes": [
+      "spends little and saves much (Phaladeepika 6.69)",
+      "happy, independent, of respectable profession or conduct (Phaladeepika 6.69)"
+    ],
+    "rare_outcomes": [
+      "a famous and powerful king when related only to the other dusthana lords (Uttara Kalamrita 4.22)"
+    ],
+    "by_area": {
+      "personality": "Good to everybody, renowned for good qualities (PD 6.69); noble (PVR).",
+      "career": "Respectable profession or conduct (PD 6.69).",
+      "finance": "Spends little and saves much (PD 6.69); frugal (Raman; PVR).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Vimala means pure (PVR)."
+    },
+    "strengtheners": [
+      "The 12th lord aspected by or associated with malefics (BPHS vol. 2 translator's note).",
+      "The 6th, 8th and 12th lords related only among themselves (Uttara Kalamrita 4.22)."
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: in practice the evil of the ownership remains in modified form."
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 6.57, 6.69 (tr. Sastri)", "view": "The 12th lord in the 6th, 8th or 12th, or the 12th bhava associated with or aspected by malefics, gives Vimala. The native spends little and saves much, is good to all, happy and independent, of respectable profession, and renowned for good qualities.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Uttara Kalamrita 4.22 (tr. Sareen)", "view": "The 12th lord in the 8th or 6th is one of three Viparita Raja Yogas, giving great results when related only to the other dusthana lords.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "BPHS vol. 2, translator's note under ch. 48", "view": "The 12th lord in a dusthana and aspected by or associated with malefics gives Vimala.", "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations no. 107", "view": "The 12th lord in the 12th gives Vimala: frugal, happy, independent, with ennobling qualities. In practice, results have been contrary; interpret with an eye on the ownership's evil.", "url": "https://archive.org/details/300-important-combinations-b.v.-raman"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach 11.6", "view": "The 12th lord in the 12th: noble, frugal, happy, independent.", "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"}
+    ],
+    "disagreements": "As for Harsha and Sarala. Raman and PVR require the 12th lord in the 12th, Uttara Kalamrita the 12th lord in the 6th or 8th, and Phaladeepika the 12th lord in any dusthana or malefic influence on the 12th. The BPHS vol. 2 note requires malefic association with the 12th lord. Raman doubts the favourable results.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe careful spending, self-reliance and a clean reputation. Avoid promising savings or status.",
+    "definitions": [
+      {"source": "Phaladeepika 6.57 (Sastri)", "definition": "12th lord in the 6th, 8th or 12th, or the 12th bhava associated with or aspected by malefics."},
+      {"source": "Uttara Kalamrita 4.22", "definition": "12th lord in the 6th or 8th."},
+      {"source": "BPHS vol. 2 translator's note (ch. 48)", "definition": "12th lord in a dusthana, aspected by or associated with malefics."},
+      {"source": "Raman 300 no. 107", "definition": "12th lord in the 12th."},
+      {"source": "PVR 11.6", "definition": "12th lord in the 12th."}
+    ],
+    "cancellations": [
+      {"condition": "Dusthana lords related to other planets as well.", "source": "Uttara Kalamrita 4.22"}
+    ],
+    "rarity_and_weight": "Raman gives it limited practical weight. UK and PVR put the most weight on two or three dusthana lords related among themselves.",
+    "timing": "No dasa rule found in the sources read.",
+    "conditional_results": [],
+    "remedies": []
+  },
+  {
+    "id": "yoga/neecha_bhanga",
+    "layer": "yoga",
+    "key": {"name": "neecha_bhanga"},
+    "summary": "Neecha Bhanga means cancellation of debilitation. A debilitated planet is relieved, and in many texts turned into a Raja Yoga, by conditions such as the lord of its sign, or of its exaltation sign, being in a kendra from the lagna or Moon, or the planet being exalted in navamsa or retrograde. Texts and modern writers say a well-cancelled debilitation can give rise from humble beginnings and even outstanding results.",
+    "themes": ["rise from difficulty", "reversal of weakness", "late or sudden elevation"],
+    "common_outcomes": [
+      "the weakness of the debilitated planet is removed or reduced (Frawley; Raman HJH)",
+      "status or kingship in texts that treat it as a Raja Yoga (Phaladeepika 7.26-30; Jataka Parijata 7.13)"
+    ],
+    "rare_outcomes": [
+      "emperor-like standing when both the sign lord and the exaltation lord are in mutual kendras (Phaladeepika 7.27)",
+      "results 'even better than exaltation' (Frawley)",
+      "sudden elevation or promotion when the debilitated planet is in an exalted navamsa; short-lived if it is also retrograde (Rath)"
+    ],
+    "by_area": {
+      "personality": "Frawley gives sign-specific gifts, e.g. Moon in Scorpio with debility cancelled gives deep understanding of the psyche, Saturn in Aries strong leadership.",
+      "career": "Rise to position; Raman (300) notes it is said to denote elevation from ordinary or low birth.",
+      "finance": "Raman (HJH 2nd house): Jupiter debilitated in the 11th with Saturn in a kendra from the Moon gives much gain.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Frawley: Moon in Scorpio with cancelled debility is common in spiritual teachers."
+    },
+    "strengtheners": [
+      "Several cancellation factors at once: Frawley says debility must usually be cancelled in at least two ways to be effectively countered.",
+      "The debilitated planet also in an auspicious house, not the 6th, 8th or 12th (Phaladeepika 7.3, 7.28).",
+      "Strong lagna lord (Santhanam, note in BPHS vol. 1 ch. 24 example)."
+    ],
+    "weakeners_or_cancellations": [
+      "Raman (300 no. 246): a debilitated retrograde Saturn in the 10th can, without other relief, badly harm the career.",
+      "Rath: a debilitated planet in an exalted navamsa that is also retrograde gives only short-lived elevation."
+    ],
+    "lagna_or_context_notes": "Raman (300 nos. 245-263) says the Neechabhanga Raja Yogas work much like other Raja Yogas and most are to be reckoned from both the lagna and the Moon. Phaladeepika's note and Raman discuss whether 'thaduchchanatha' (in Phaladeepika 7.26 and Raman no. 250) means the lord of the debilitated planet's exaltation sign or the planet exalted in the debilitation sign. Raman follows B. Suryanarain Rao's second reading and leaves the matter open.",
+    "source_views": [
+      {"source": "Phaladeepika 7.3 (tr. Sastri)", "view": "Even a single debilitated planet makes one a king's equal if it has bright rays, is retrograde and occupies a house other than the 6th, 8th or 12th. Two or three such planets make a king.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Phaladeepika 7.26-30 (tr. Sastri; 7.30 via siva.sh rendering)", "view": "26: the lord of the debilitation sign or of the planet's exaltation sign in a kendra from the Moon or lagna gives a just king. 27: the debilitation-sign lord and the exaltation-sign lord in mutual kendras give an emperor. 28: the debilitated planet aspected by its sign lord gives a famous ruler, more so in a good house. 29: the sign lord or the exaltation lord in a kendra from the lagna or Moon gives a wealthy, virtuous emperor. 30: both lords, or at least one, in a kendra gives an emperor honoured by kings.", "url": "https://www.siva.sh/phaladeepika/7/26-30"},
+      {"source": "Jataka Parijata 7.13-14 (tr. Sastri)", "view": "13: a debilitated planet whose sign lord or exaltation-sign lord is in a kendra from the Moon or lagna gives a king and just ruler. 14: the navamsa lord of a debilitated planet in a kendra or trikona, with a movable lagna or the lagna lord in a movable navamsa, gives a king or great power.", "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"},
+      {"source": "BPHS 39.19, 39.28-31 (tr. Santhanam)", "view": "BPHS has no separate Neecha Bhanga chapter in Santhanam's vol. 1, but it gives debilitation-based Raja Yogas. Debilitated planets in the 3rd, 6th and 8th with the lagna lord exalted or in own sign aspecting the lagna (19). One of the 6th, 8th or 12th lords debilitated and aspecting the lagna (28). A debilitated planet in the 6th, 8th, 3rd or 11th aspecting the lagna (29-31).", "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"},
+      {"source": "Saravali 39 (tr. Santhanam)", "view": "Saravali instead lists debilitation as an obstruction to Raja Yogas: three, four or five planets in fall, the Sun in deep fall, weak Moon in deep debilitation, Venus in a debilitation navamsa. Saravali 35.57 allows planets 'not in fall in Rasi' in their own navamsas as yoga-givers.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Bhavartha Ratnakara ch. 1 (tr. Raman)", "view": "Aries lagna: Mars debilitated in the 4th with Jupiter (exalted in Cancer) there gets Neechabhanga Raja Yoga; Raman finds it gives more fame than wealth. Capricorn: Jupiter debilitated in the lagna is cancelled by yogakaraka Venus with Mars (exalted in Capricorn) in the 11th, giving money through brothers.", "url": "https://archive.org/details/in.ernet.dli.2015.142241"},
+      {"source": "B.V. Raman, Three Hundred Important Combinations nos. 246, 250, 252, 260", "view": "246: a debilitated planet with bright rays (not combust) or retrograde, and not in a dusthana, gives Raja Yoga. 250: the lord of the debilitation sign, or the planet exalted there, in a kendra from the Moon or lagna. 252: planets debilitated in rasi but exalted in navamsa. 260: the navamsa lord of a debilitated planet in a kendra or trikona with a movable lagna and the lagna lord in a movable sign; Raman has not tested this one. Neechabhanga and other Raja Yogas function similarly.", "url": "https://archive.org/details/300-important-combinations-b.v.-raman"},
+      {"source": "B.V. Raman, HJH vol. 1, First House p. 65 and Second House p. 95", "view": "Applies cancellation when the planet exalted in the debilitation sign is in a kendra from the Moon (Mars in Cancer cancelled by Jupiter, chart 22). Also when the debilitation sign's lord is in a kendra from the Moon (Jupiter in the 11th cancelled by Saturn), which gives much gain.", "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology (PDF pp. 46-47, 120)", "view": "Debilitated Saturn attains Neechabhanga Raja Yoga from Venus (its exaltation-sign lord) in a kendra from both the lagna and the Arudha Lagna; retrogression also gives Neechabhanga. A debilitated planet in an exalted navamsa gives sudden elevation, short-lived if also retrograde.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, Astrology of the Seers pp. 126-127", "view": "Cancellation factors: the debilitated planet in an angle from the ascendant or Moon (the 10th strongest); its sign lord exalted (or, less, strong or in own sign); a planet exalted in one of the debilitated planet's own signs; retrogression (minor). Debility should usually be cancelled in at least two ways. A cancelled planet can give results even better than exaltation.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Sign lord vs exaltation lord: Phaladeepika 7.26/7.29 and JP 7.13 accept either in a kendra, while PD 7.27 and 7.30 grade both lords together higher. Meaning of 'thaduchchanatha': the lord of the exaltation sign or the planet exalted in the debilitation sign. Raman prefers the latter, applies both in HJH, and calls it controversial. Retrogression: PD 7.3 and Raman no. 246 treat it as relieving; Frawley calls it a minor factor; Rath says it makes elevation short-lived when combined with an exalted navamsa. Saravali ch. 39 treats multiple debilitations as destroying Raja Yogas rather than creating them. Frawley's 'debilitated planet itself in an angle' factor is not in the classical verses read here.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe it as a weakness that turns into strength through effort or circumstance, often after an early struggle. Do not promise a sudden rise, and do not label the planet simply 'debilitated' when a cancellation applies.",
+    "definitions": [
+      {"source": "Phaladeepika 7.3 (Sastri)", "definition": "Debilitated planet with bright rays (not combust), retrograde, in a house other than the 6th, 8th or 12th."},
+      {"source": "Phaladeepika 7.26 (Sastri)", "definition": "Lord of the debilitation sign or lord of the planet's exaltation sign in a kendra from the Moon or lagna."},
+      {"source": "Phaladeepika 7.27 (Sastri)", "definition": "Lord of the debilitation sign and lord of the exaltation sign in mutual kendras."},
+      {"source": "Phaladeepika 7.28 (Sastri)", "definition": "Debilitated planet aspected by the lord of the sign it occupies (stronger if not in the 6th, 8th or 12th)."},
+      {"source": "Phaladeepika 7.29 (Sastri)", "definition": "Lord of the occupied sign or of the planet's exaltation sign in a kendra from the lagna or Moon."},
+      {"source": "Phaladeepika 7.30 (via siva.sh rendering)", "definition": "Both the debilitation-sign lord and exaltation-sign lord, or at least one, in a kendra."},
+      {"source": "Jataka Parijata 7.13 (Sastri)", "definition": "Lord of the sign occupied by the debilitated planet, or lord of its exaltation sign, in a kendra from the Moon or lagna."},
+      {"source": "Jataka Parijata 7.14 (Sastri)", "definition": "Navamsa lord of the debilitated planet in a kendra or trikona, with a movable lagna or the lagna lord in a movable navamsa."},
+      {"source": "BPHS 39.28-31 (Santhanam)", "definition": "A debilitated 6th, 8th or 12th lord aspecting the lagna. Or a debilitated planet in the 6th, 8th, 3rd or 11th aspecting the lagna."},
+      {"source": "Raman 300 no. 250", "definition": "Lord of the debilitation sign, or the planet exalted in that sign, in a kendra from the Moon or lagna."},
+      {"source": "Raman 300 no. 252", "definition": "Planet debilitated in rasi but exalted in navamsa."},
+      {"source": "Raman 300 no. 260", "definition": "Navamsa lord of a debilitated planet in a kendra or trikona from a movable lagna, with the lagna lord in a movable sign."},
+      {"source": "Frawley pp. 126-127", "definition": "Debilitated planet in an angle from the ascendant or Moon; or its sign lord exalted; or a planet exalted in one of its own signs; or retrograde (minor). Two factors are needed for effective cancellation."},
+      {"source": "Rath, Crux", "definition": "Exaltation-sign lord in a kendra from the lagna and Arudha Lagna; retrogression; exalted navamsa."}
+    ],
+    "cancellations": [
+      {"condition": "The planet is combust (not 'with bright rays') or in the 6th, 8th or 12th: the PD 7.3 form fails.", "source": "Phaladeepika 7.3; Raman 300 no. 246"},
+      {"condition": "Only one weak cancellation factor: insufficient.", "source": "Frawley pp. 126-127"},
+      {"condition": "Debilitated planet in an exalted navamsa but retrograde: elevation is short and a fall from power may come when the planet turns retrograde in transit.", "source": "Rath, Crux (PDF p. 120)"},
+      {"condition": "Three or more planets in fall destroy Raja Yogas.", "source": "Saravali 39.10, 39.20"}
+    ],
+    "rarity_and_weight": "Debilitation itself affects many charts, and the kendra-lord conditions are often met, so some cancellation is common. Frawley's two-factor rule and Raman's caution (no. 246) argue for weighting it only when several conditions combine and the planet is otherwise strong. Raman (300 nos. 245-263 remarks) gives true Neechabhanga Raja Yogas the same weight as other Raja Yogas.",
+    "timing": "Rath: the elevation comes suddenly when the debilitated planet is in an exalted navamsa. Rath (Mother Teresa example) times its fame to the Narayana dasa of the relevant sign. In Bhavartha Ratnakara's Capricorn example, Jupiter gives money through brothers (in its period, per Raman's note). Otherwise no specific dasa rule in the sources read.",
+    "conditional_results": [
+      {"when": "manual: the debilitated planet is also retrograde and placed in an exalted navamsa", "polarity": "mixed", "effects": ["sudden but short-lived elevation"], "source": "Rath, Crux (PDF p. 120)"},
+      {"when": "manual: lord of the debilitation sign or of the exaltation sign is in a kendra from the lagna or Moon", "polarity": "good", "effects": ["debilitation cancelled; rise in standing"], "source": "Phaladeepika 7.26, 7.29; Jataka Parijata 7.13"}
+    ],
+    "remedies": []
+  }
+]

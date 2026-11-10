@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "planet_in_house/mercury/1",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 1
+    },
+    "summary": "Mercury in the lagna is one of the best-agreed placements: every text read describes a learned, intelligent and pleasant-spoken person, and several add long life.",
+    "themes": [
+      "intellect",
+      "learning",
+      "speech",
+      "wit",
+      "adaptability"
+    ],
+    "common_outcomes": [
+      "Learned, intelligent, quick-witted (Phaladeepika, Saravali, Brihat Jataka, Jataka Parijata, Raman)",
+      "Sweet, skilful or clever speech (Phaladeepika 8.11; Saravali 30.38; Bhrigu Sutras)",
+      "Skill in poetry and mathematics; knows the right time and place (Saravali 30.38)",
+      "Humour, adaptability, wide reading (Raman)"
+    ],
+    "rare_outcomes": [
+      "Long life (Phaladeepika 8.11; Saravali 30.38)",
+      "Interest in mantra, tantra, occult study or astrology (Bhrigu Sutras 1-17; Raman)",
+      "Earns by writing; good as a physician; protects against other planets' longevity threats (Chamatkar Chintamani, via summary)",
+      "Pilgrimage in the 27th year (Bhrigu Sutras; Adawal); state as a text detail only"
+    ],
+    "by_area": {
+      "personality": "Quick wit, mental ingenuity, humour, adaptability (Raman); quick, curious, youthful temperament (PanchangBodh); kind and forgiving (Bhrigu Sutras).",
+      "career": "Earning through writing; aptitude for medicine (Chamatkar Chintamani, via summary); scholarship (Jataka Parijata 8.58).",
+      "finance": "Gains of wealth with academic distinction (Bhrigu Sutras 1-17); devoted to acquiring wealth as well as learning (Jataka Parijata 8.58).",
+      "health": "Good health when Mercury is with benefics; skin, bile or jaundice trouble when with malefics (Bhrigu Sutras 1-17); nervous trouble if Rahu or Ketu share the lagna (Raman).",
+      "relationships": "Early marriage (Bhrigu Sutras 1-17); its 7th aspect brings talkative intelligence into partnership (PanchangBodh).",
+      "family": "Happiness from brothers when Mercury is exalted or in own sign (Bhrigu Sutras 1-17).",
+      "spirituality": "Listens devoutly to scripture, inclined to virtue and religion (Bhrigu Sutras; Jataka Parijata 8.58); learned in shastras (Phaladeepika 8.11)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Directional strength (digbala) in the 1st (PanchangBodh)",
+      "Good aspect from Venus gives musical and artistic talent (Raman)",
+      "Benefic association: health, wealth, grain, skill in logic and arithmetic (Bhrigu Sutras 1-17)"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "Rahu or Ketu in the lagna with Mercury: nervous troubles (Raman)",
+      "Saturn conjunction: trouble to the left eye (Bhrigu Sutras 13)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.11 (Mantreswara; English rendering on siva.sh)",
+        "view": "Long life, sweet and clever speech, keen intellect, learned in the scriptures.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.38 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Flawless body, intelligent, knows proper place and time, versed in poetry and mathematics, skilful sweet speaker, long-lived.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 1st makes the person learned.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.58 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Devoted to acquiring learning, wealth, virtue and religion.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 1-17, with the English commentator's notes (commentator not named in file)",
+        "view": "Educated, early marriage, listens to scripture, travels, inclined to mantra and tantra, soft-spoken and kind; malefic link brings skin/bile trouble, benefic link good health and astrology; commentator notes all authorities agree the placement is benefic but Mercury turns malefic with malefics.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Destroys arishta from other planets; very intelligent; lives by writing; good physician.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. IV 'Planets in the First House' p.29",
+        "view": "Humorous, quick wit, mental ingenuity, well-read especially in occult; with Venus musical; adaptable and intellectual; Rahu/Ketu in lagna bring nervous troubles.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Quick, curious, youthful, fluent; aspects the 7th; has digbala here; Bhadra Yoga in Gemini/Virgo; check combustion.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "Shanker Adawal, 'Methodology and Effects of Mercury in Various Houses', Boloji.com 2006 (practitioner article following the Bhrigu Sutras)",
+        "view": "Learned, persuasive, kind-hearted; pilgrimage in 27th year; malefic link gives excess bile; exalted/own sign gives happiness from brothers.",
+        "url": "https://www.boloji.com/articles/1068/"
+      }
+    ],
+    "disagreements": "Little real disagreement. Bhrigu Sutras 5-8 oddly list a defective limb, eye trouble and quarrels with brothers even under benefic influence; its own commentator rejects this. VedicFeed alone stresses scattered attention and inattentiveness as the downside.",
+    "confidence": "high",
+    "phrasing_guidance": "Lead with mind and voice: curious, articulate, quick to learn. Treat long-life statements as traditional praise, never as a lifespan claim; mention nervous restlessness only as something to manage."
+  },
+  {
+    "id": "planet_in_house/mercury/2",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 2
+    },
+    "summary": "Mercury in the 2nd ties money to the mind and the voice: classical texts agree the person earns by intelligence or skill and speaks well; modern writers add teaching, trade and accounts.",
+    "themes": [
+      "speech",
+      "earned wealth",
+      "family",
+      "food",
+      "learning"
+    ],
+    "common_outcomes": [
+      "Earns wealth by own intelligence or skill (Phaladeepika 8.11; Saravali 30.39)",
+      "Pleasant, auspicious or sincere speech (Phaladeepika 8.11; Saravali 30.39)",
+      "Rich (Brihat Jataka 20.6; Bhrigu Sutras 18-24)",
+      "Enjoys good food and drink (Phaladeepika 8.11; Saravali 30.39)"
+    ],
+    "rare_outcomes": [
+      "Becomes a poet (Phaladeepika 8.11)",
+      "Many children; distinction in studies by about the 15th year (Bhrigu Sutras 18-24)",
+      "With Jupiter's aspect, an authority in mathematics (Bhrigu Sutras 18-24)"
+    ],
+    "by_area": {
+      "personality": "Talkative, determined, contented (Bhrigu Sutras 18-24); good course of conduct (Saravali 30.39); virtuous (Jataka Parijata 8.63).",
+      "career": "Gain by lecturing, business and commerce (Raman); income from words, trade, accounts or teaching (PanchangBodh).",
+      "finance": "Much wealth acquired with discernment (Jataka Parijata 8.63); clever, careful and thrifty with money, spends on charity (Raman).",
+      "health": "Windy troubles if Mercury is with malefics or debilitated (Bhrigu Sutras 18-24).",
+      "relationships": "",
+      "family": "Many children, family enlarged (Bhrigu Sutras 18-24 and commentary); speech is central to family life (PanchangBodh).",
+      "spirituality": "Learned in religious and philosophical lore (Raman); versed in shastras (Bhrigu Sutras 18-24)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Jupiter's conjunction or aspect: proficiency in mathematics (Bhrigu Sutras 18-24)",
+      "Benefic association or aspect: wealthy and educated (Bhrigu Sutras 18-24)"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "Malefic association, malefic sign or Pisces: little education (Bhrigu Sutras 18-24)",
+      "With malefics the speech turns argumentative (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: especially good for Taurus and Leo lagnas (Mercury in own sign Gemini/Virgo as 2nd lord, with 5th or 11th lordship), and good for Gemini, Virgo, Sagittarius and Pisces lagnas; these give Dhana yogas.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.11 (Mantreswara; English rendering on siva.sh)",
+        "view": "Earns by own skill, becomes a poet, sincere and pleasant in speech, enjoys rich food.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.39 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Wealth through own wisdom, enjoys food and drink, auspicious speech, good conduct.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 2nd makes the person rich.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.63 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Virtuous, with much wealth and moral worth discerningly acquired.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 18-24, with the English commentator's notes (commentator not named in file)",
+        "view": "Many children, talkative, versed in shastras, content, wealthy; malefic/debilitated Mercury leaves him uneducated; Jupiter's aspect gives mathematics; commentator lists Dhana-yoga lagnas and notes all authorities agree this placement is benefic.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Wise, famous, a good orator, generous, fond of luxury.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. V 'Planets in the Second House' p.55",
+        "view": "Learned in religious and philosophical lore; gain by lecturing, business, commerce; rich, intelligent, charitable; clever, careful and thrifty.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Persuasive voice; income from words, trade, accounts, teaching; aspects the 8th; well placed it saves, with malefics it argues; combustion a concern.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Mercury in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Wit and persuasive speech, good money management; downside stubbornness and rushing outcomes.",
+        "url": "https://vedicfeed.com/effect-of-mercury-in-12-houses/"
+      },
+      {
+        "source": "Shanker Adawal, 'Methodology and Effects of Mercury in Various Houses', Boloji.com 2006 (practitioner article following the Bhrigu Sutras)",
+        "view": "Talkative, many children, scriptural interest, wealthy; education by 15th year; with Jupiter, mathematics and astrology.",
+        "url": "https://www.boloji.com/articles/1068/"
+      }
+    ],
+    "disagreements": "Broad agreement. Only VedicFeed adds stubbornness and panic when plans fail; no classical text says this.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as earning through skill, knowledge and communication. Avoid promising wealth; say the texts link this placement with financial cleverness and a good voice."
+  },
+  {
+    "id": "planet_in_house/mercury/3",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 3
+    },
+    "summary": "Mercury in the 3rd is contested: older texts (Brihat Jataka, Jataka Parijata, Saravali) call the person cunning or fickle, Phaladeepika gives courage with low spirits, while Bhrigu Sutras and modern writers read skill, siblings and communication.",
+    "themes": [
+      "siblings",
+      "effort",
+      "communication",
+      "skill",
+      "restlessness"
+    ],
+    "common_outcomes": [
+      "Hard work and effort (Saravali 30.40; Phaladeepika 8.11 as rendered in the Bhrigu Sutras commentary)",
+      "Has siblings, often good ones (Phaladeepika 8.11; Saravali 30.40; Bhrigu Sutras 25-31; Raman)",
+      "Skilful and clever (Saravali 30.40)",
+      "Sharp, tactful, fond of reading; success in trade (Raman)"
+    ],
+    "rare_outcomes": [
+      "A 'consummate rogue' (Brihat Jataka 20.6)",
+      "Bent on deception, vagrant, vacillating (Jataka Parijata 8.65)",
+      "Detached from worldly affairs; younger siblings depend on him (Chamatkar Chintamani, via summary)",
+      "Gain of a son and land around the 15th year (Bhrigu Sutras 25-31); text detail only"
+    ],
+    "by_area": {
+      "personality": "Brave but prone to fatigue and low spirits (Phaladeepika 8.11); cunning and fickle (Saravali 30.40); independent views, never discouraged once a task is begun (Raman).",
+      "career": "Business and trade (Chamatkar Chintamani, via summary; Raman); writing, editing, media, sales, teaching, coding, handcrafts (PanchangBodh).",
+      "finance": "Acquires wealth (Bhrigu Sutras 25-31); gain through 3rd-house matters (Raman).",
+      "health": "Moderate lifespan (Phaladeepika 8.11); afflicted Mercury inclines to nervous breakdown (Raman).",
+      "relationships": "Liked by friends and relatives (Raman); devoid of near and dear (Saravali 30.40).",
+      "family": "Many brothers; a strong 3rd lord gives long-lived brothers, a weak one suffering for them (Bhrigu Sutras 25-31); frequent sibling contact, not always harmonious (PanchangBodh).",
+      "spirituality": "High morals (Bhrigu Sutras 25-31); higher study and travel planned in detail via the 9th aspect (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Strong 3rd lord: long life, tolerance and long-lived brothers (Bhrigu Sutras 25-31)",
+      "Upachaya house: results grow with effort and age (PanchangBodh)",
+      "In Gemini or Virgo, prolific organised output (PanchangBodh)"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "Weak 3rd lord: timidity, suffering for brothers (Bhrigu Sutras 25-31)",
+      "Malefic company makes talk restless or sharp (PanchangBodh); afflicted, nervous strain (Raman)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.11 (Mantreswara; English rendering on siva.sh)",
+        "view": "Brave, medium lifespan, good siblings, but given to fatigue and low spirits.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.40 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Always toils hard, devoid of near and dear, skilful, has co-born, very cunning and fickle-minded.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 3rd makes the person a consummate rogue.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.65 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Bent on deception, of vagrant habits, excessively vacillating and miserable.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 25-31, with the English commentator's notes (commentator not named in file)",
+        "view": "Many brothers, happy, wealth, high morals; strong 3rd lord gives long life; commentator says Brihat Jataka's view fits an afflicted Mercury and prefers the Bhrigu Sutras reading.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Business contacts and profession, good nature, detached, younger siblings dependent.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. VI 'Planets in the Third House' p.75",
+        "view": "Does good for others but not himself happy; sharp, studious, finishes tasks, tactful, diplomatic; success in trade and speculation; many siblings; afflicted gives nervous breakdown.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Mental courage; writing, media, sales, teaching; sibling contact; upachaya grows; Gemini/Virgo prolific; malefics make talk sharp.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Mercury in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Curious, quick learner; downside spread over too many topics.",
+        "url": "https://vedicfeed.com/effect-of-mercury-in-12-houses/"
+      },
+      {
+        "source": "Shanker Adawal, 'Methodology and Effects of Mercury in Various Houses', Boloji.com 2006 (practitioner article following the Bhrigu Sutras)",
+        "view": "Gains gold in 15th year, prosperity; strong: brothers prosper; weak: fearfulness.",
+        "url": "https://www.boloji.com/articles/1068/"
+      }
+    ],
+    "disagreements": "Sharp split. Brihat Jataka 20.6 (rogue), Jataka Parijata 8.65 (deceptive, vacillating) and Saravali 30.40 (cunning, fickle) are negative; Phaladeepika 8.11 is mixed (brave, good siblings, but dejected); Bhrigu Sutras, Chamatkar Chintamani, Raman and PanchangBodh are largely positive. The Bhrigu Sutras commentator reconciles this by applying the negative readings to a Mercury under malefic influence.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a busy, skilful, communicative mind with strong sibling ties. If mentioning the classical 'cunning' reading, frame it as cleverness that needs honest use, and only when the chart shows affliction."
+  },
+  {
+    "id": "planet_in_house/mercury/4",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 4
+    },
+    "summary": "Mercury in the 4th is read as learned and comfortable: land, conveyances, wealth and learning are promised by most classical texts; modern writers add a busy inner life and work from home.",
+    "themes": [
+      "learning",
+      "home",
+      "property",
+      "conveyances",
+      "comfort"
+    ],
+    "common_outcomes": [
+      "Learned (Phaladeepika 8.11; Saravali 30.41; Brihat Jataka 20.6; Jataka Parijata 8.68)",
+      "Friends, land, grain, wealth and comforts (Phaladeepika 8.11)",
+      "Conveyances and relatives, fortunate (Saravali 30.41; Bhrigu Sutras 32-37)",
+      "Educationist or diplomat, witty speech (Raman)"
+    ],
+    "rare_outcomes": [
+      "Forlorn without friends or relatives while becoming a scholar (Jataka Parijata 8.68)",
+      "Chief accountant in government service; loss of ancestral property (Chamatkar Chintamani, via summary)",
+      "Boldly criticises the government; father self-made; travels far (Raman)",
+      "Wealth by questionable means around the 16th year (Bhrigu Sutras 34); the commentator reads it as a gift"
+    ],
+    "by_area": {
+      "personality": "Witty, learned, happy (Phaladeepika 8.11); patient, active hands (Bhrigu Sutras 32-37); active inner life of reading and study (PanchangBodh).",
+      "career": "Educationist, diplomat, held in esteem (Raman); property, interiors, education or desk work from home (PanchangBodh).",
+      "finance": "Wealth, land and grain (Phaladeepika 8.11); money and paraphernalia (Saravali 30.41).",
+      "health": "Busy thinking can disturb sleep and peace (PanchangBodh).",
+      "relationships": "Has friends (Phaladeepika 8.11); afflicted by Saturn, Rahu or Ketu, bitterness with relatives (Bhrigu Sutras 32-37).",
+      "family": "Happiness from parents (Bhrigu Sutras 32-37); articulate, practical mother (PanchangBodh); father a self-made man (Raman).",
+      "spirituality": "Taste for music and fine arts (Raman)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Strong 4th lord: fine conveyances (Bhrigu Sutras 32-37)",
+      "Well disposed: good for intellectual and literary attainment (Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "With Rahu, Ketu or Saturn: no conveyances or land, bitterness with relatives, deceit (Bhrigu Sutras 32-37)",
+      "Afflicted: mental distress, frauds, misery (Raman)",
+      "Loss of ancestral property likely if the 4th lord is in the 6th, 8th or 12th or Mercury rules a dusthana (Bhrigu Sutras commentary on Chamatkar Chintamani)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.11 (Mantreswara; English rendering on siva.sh)",
+        "view": "Learned and witty, with friends, land, grain, wealth and comforts.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.41 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Money and relatives, fortunate, conveyances, all paraphernalia, very learned.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 4th makes the person learned.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.68 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Forlorn without friends or relatives while growing into a scholar of sterling knowledge and affluence.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 32-37, with the English commentator's notes (commentator not named in file)",
+        "view": "Patient, happiness from parents, learned, conveyances; with Saturn/Rahu/Ketu loses land and comforts; Bhadra Yoga in Gemini/Virgo; commentator notes general agreement that results are good.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Wise, enjoys friends, chief accountant of government, deprived of ancestral property.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. VII 'Planets in the Fourth House' p.91",
+        "view": "Educationist or diplomat, criticises the government, esteemed, good conveyance, music, distant travel, witty; afflicted gives distress and fraud.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Reading and lifelong learning; property, interiors, desk work at home; articulate mother; thinking disturbs sleep; aspects the 10th; affliction unsettles rather than loses the home.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Mercury in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Imagination, memory, analytical skill; downside slow to accept new ideas.",
+        "url": "https://vedicfeed.com/effect-of-mercury-in-12-houses/"
+      },
+      {
+        "source": "Shanker Adawal, 'Methodology and Effects of Mercury in Various Houses', Boloji.com 2006 (practitioner article following the Bhrigu Sutras)",
+        "view": "Courage, happiness from parents, knowledge; with Rahu/Ketu/Saturn loss of vehicles, bitterness with relatives.",
+        "url": "https://www.boloji.com/articles/1068/"
+      }
+    ],
+    "disagreements": "Jataka Parijata 8.68 says the native is without friends or relatives, against Phaladeepika (friends) and Saravali (relatives). Chamatkar Chintamani (via summary) alone predicts loss of ancestral property.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of a studious, comfortable home life and learning. Do not predict loss of property or estrangement unless the chart clearly shows the afflictions named."
+  },
+  {
+    "id": "planet_in_house/mercury/5",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 5
+    },
+    "summary": "Mercury in the 5th is read as sharp intellect and learning, with skill in mantra; texts split on children, Phaladeepika and Saravali promising many while Bhrigu Sutras sees difficulty.",
+    "themes": [
+      "intellect",
+      "mantra",
+      "children",
+      "counsel",
+      "learning"
+    ],
+    "common_outcomes": [
+      "Learned and happy (Phaladeepika 8.12; Saravali 30.42; Raman)",
+      "Knowledge of mantras or spells (Phaladeepika 8.12; Saravali 30.42; Jataka Parijata 8.72; Raman)",
+      "Adviser or minister (Brihat Jataka 20.6; Raman)",
+      "Highly intelligent, soft-spoken, wise (Bhrigu Sutras 38-40)"
+    ],
+    "rare_outcomes": [
+      "Many children (Phaladeepika 8.12; Saravali 30.42)",
+      "Difficulty getting children, possible adoption (Bhrigu Sutras 38-40)",
+      "Children late; a clever hypnotist (Chamatkar Chintamani, via summary)",
+      "Trouble to a maternal uncle's throat (Bhrigu Sutras 38); the commentator finds no basis for this"
+    ],
+    "by_area": {
+      "personality": "Courageous and delighted (Phaladeepika 8.12; Saravali 30.42); sharp memory and quick learning (PanchangBodh).",
+      "career": "Adviser or minister (Brihat Jataka 20.6; Raman); gain through authorship if aspected by Jupiter (Raman).",
+      "finance": "Wealth with learning and fame (Jataka Parijata 8.72); speculation attracts, needs a written rule (PanchangBodh); its 11th aspect turns ideas into income (PanchangBodh).",
+      "health": "Excess indulgence can reduce vitality (Raman).",
+      "relationships": "Afflicted by Mars, scandal in love affairs (Raman).",
+      "family": "Children: many (Phaladeepika, Saravali) or hard to get (Bhrigu Sutras); bright, companionable children (PanchangBodh).",
+      "spirituality": "Expert in mantra (Saravali 30.42); proficient in sacred texts (Jataka Parijata 8.72)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Strong 5th lord and Jupiter assure children (Bhrigu Sutras commentary)",
+      "Jupiter's good aspect: gain through speculation and authorship (Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "Weak or afflicted 5th lord: loss of children (Bhrigu Sutras 39)",
+      "Afflicted Mercury: anxiety through children; emotion rules reason (Raman)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.12 (Mantreswara; English rendering on siva.sh)",
+        "view": "Learned, happy, courageous, many children, versed in charms and spells.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.42 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Expert in mantras and abhicara (malevolent spells), many sons, learning, happiness and efficacy.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 5th makes the person a minister.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.72 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Proficient in sacred texts and in overcoming foes by spells; wife, children, wealth, learning, fame and strength.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 38-40, with the English commentator's notes (commentator not named in file)",
+        "view": "Intelligent, soft-spoken, wise but difficulty with children; weak 5th lord brings loss or adoption; commentator says Mercury is sexless, so children depend on the 5th lord and Jupiter.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Children late; selfish; clever hypnotist.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. VIII 'Planets in the Fifth House' p.115",
+        "view": "Learned, happy, several children, adviser or minister, mantrasastra; too much pleasure lowers vitality; afflicted gives worry over children.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Sharp memory, maths and mantra, exam success; bright children; speculation needs rules; aspects the 11th.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Mercury in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Creativity and teaching; downside ego and mind games.",
+        "url": "https://vedicfeed.com/effect-of-mercury-in-12-houses/"
+      },
+      {
+        "source": "Shanker Adawal, 'Methodology and Effects of Mercury in Various Houses', Boloji.com 2006 (practitioner article following the Bhrigu Sutras)",
+        "view": "Good children, intelligence, sweet tongue; weak: loss of children; debilitated: adoption, mantra skill.",
+        "url": "https://www.boloji.com/articles/1068/"
+      }
+    ],
+    "disagreements": "Children: Phaladeepika 8.12, Saravali 30.42 and Raman say many; Bhrigu Sutras 38-40 says difficulty (possibly adoption) and Chamatkar Chintamani says late. The Bhrigu Sutras commentator notes this conflict and defers to the 5th lord and Jupiter.",
+    "confidence": "medium",
+    "phrasing_guidance": "Emphasise intelligence, study and good counsel. Never predict childlessness or number of children from this placement; say children are judged from the whole 5th house and Jupiter."
+  },
+  {
+    "id": "planet_in_house/mercury/6",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 6
+    },
+    "summary": "Mercury in the 6th gives mixed results: the person usually overcomes opponents or has none, but texts mention harsh speech, laziness and quarrels; modern writers point to analytical service work.",
+    "themes": [
+      "disputes",
+      "service",
+      "analysis",
+      "speech",
+      "health routine"
+    ],
+    "common_outcomes": [
+      "Overcomes enemies or has none (Phaladeepika 8.12; Brihat Jataka 20.6; Raman)",
+      "Harsh speech (Phaladeepika 8.12; Saravali 30.43; Raman)",
+      "Indolent or lazy (Phaladeepika 8.12; Saravali 30.43; Raman)",
+      "Quarrelsome or showy, yet respected (Jataka Parijata 8.76; Bhrigu Sutras 41-47; Raman)"
+    ],
+    "rare_outcomes": [
+      "Success in litigation and disputes (Saravali 30.43)",
+      "Favour from the government, notably around the 30th year; writes letters or books (Bhrigu Sutras 41-47)",
+      "Obstacles or interruptions in education (Bhrigu Sutras 41-47; Raman)"
+    ],
+    "by_area": {
+      "personality": "Quick to anger and quarrel (Phaladeepika 8.12); not given to anger but much insulted (Saravali 30.43); instructive, amusing, quarrelsome but friendly (Jataka Parijata 8.76).",
+      "career": "Accountants, auditors, lawyers, analysts, physicians, administrators (PanchangBodh).",
+      "finance": "Debts organised rather than ignored (PanchangBodh); earns by own efforts (Chamatkar Chintamani, via summary).",
+      "health": "Contracts diseases (Saravali 30.43); in Aries or Scorpio skin disease, with Saturn and Rahu/Ketu rheumatic pains (Bhrigu Sutras 41-47); afflicted, nervous strain (Raman).",
+      "relationships": "Quarrels with people of his own community (Bhrigu Sutras 41-47); no kindness to relatives (Jataka Parijata 8.76).",
+      "family": "",
+      "spirituality": "Joined by Jupiter, spiritual gains (Raman)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Fortified Mercury sharpens the intellect; with Jupiter, spiritual gains (Raman)",
+      "Gemini or Virgo gives precision (PanchangBodh)",
+      "Satyacharya, as read by Bhattotpala (Brihat Jataka 20.10 notes): a benefic in the 6th destroys enemies"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "Afflicted by Mars and Rahu or Saturn and Rahu: serious mental strain, trouble with servants (Raman)",
+      "In Aries or Scorpio, skin trouble (Bhrigu Sutras 41-47)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.12 (Mantreswara; English rendering on siva.sh)",
+        "view": "Quick to anger and quarrel, harsh-spoken, lazy, but overcomes enemies.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.43 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Always successful in litigation, contracts diseases, indolent, not given to anger, harsh speech, much insulted.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 6th makes the person without enemies.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.76 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Instructive, amusing, quarrelsome but friendly, void of morality, unhelpful to relatives.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 41-47, with the English commentator's notes (commentator not named in file)",
+        "view": "Respected by the king, obstacles in education, showy and proud, controversial, writes; skin and rheumatic troubles under affliction; commentator: mixed, evil effects predominate.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Inimical relations with others; earns by own efforts.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. I ch. IX 'Planets in the Sixth House' p.137",
+        "view": "Quarrelsome and showy but respected; interrupted education; lazy, harsh speech, terror to enemies; afflicted risks nervous breakdown.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Detail-oriented; handles opposition by argument and paperwork; analytical and service careers; afflicted affects skin, digestion, sleep; aspects the 12th.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Mercury in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Active, organising mind; downside headaches linked to nervousness.",
+        "url": "https://vedicfeed.com/effect-of-mercury-in-12-houses/"
+      },
+      {
+        "source": "Brihat Jataka 20.10 notes (Satyacharya, as interpreted by Bhattotpala)",
+        "view": "Benefics in the 6th destroy enemies, malefics increase them.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Temper: Phaladeepika 8.12 says quick to anger, Saravali 30.43 says not given to anger. Enemies: Brihat Jataka has none, Phaladeepika and Raman defeat them, Bhrigu Sutras and Chamatkar Chintamani have quarrels. The Bhrigu Sutras commentator finds the authorities agree only that enemies are absent or overcome.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a sharp, argumentative but effective problem-solver suited to analytical service work. Mention health only as a reason for routine; give no diagnoses."
+  },
+  {
+    "id": "planet_in_house/mercury/7",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 7
+    },
+    "summary": "Mercury in the 7th is read favourably: an educated, well-presented person with prestige and a clever or wealthy spouse; Brihat Jataka and Raman add knowledge of law, and modern writers stress a talkative partnership.",
+    "themes": [
+      "marriage",
+      "partnership",
+      "law",
+      "trade",
+      "presentation"
+    ],
+    "common_outcomes": [
+      "Learned, well dressed, prestigious (Phaladeepika 8.12; Raman)",
+      "Wealthy or learned spouse (Phaladeepika 8.12; Saravali 30.44; Raman)",
+      "Knowledge of law and customs (Brihat Jataka 20.6; Raman)",
+      "Skill in business and trade (Raman)"
+    ],
+    "rare_outcomes": [
+      "Spouse quarrelsome or not of good family (Saravali 30.44)",
+      "Maimed but amusing through skill in the arts (Jataka Parijata 8.79)",
+      "Not very virile (Chamatkar Chintamani, via summary)",
+      "Lagnadhi Yoga if Jupiter or Venus join Mercury across the 6th-8th without malefics (Bhrigu Sutras commentary)"
+    ],
+    "by_area": {
+      "personality": "Virtuous, genial, tasteful dress (Raman); religious and broad-minded (Bhrigu Sutras 48-56).",
+      "career": "Business and trade tactics; writing ability with early success (Raman); partnership suits better than solo work (PanchangBodh).",
+      "finance": "Spouse wealthy (Phaladeepika 8.12; Saravali 30.44); read contracts carefully (PanchangBodh).",
+      "health": "",
+      "relationships": "Early marriage to a rich partner (Raman); clever, practical, youthful spouse and a talkative marriage (PanchangBodh); strong 7th lord gives one spouse, weak or afflicted threatens loss of spouse (Bhrigu Sutras 48-56).",
+      "family": "Happiness from the mother and conveyances, read by 'bhavat bhavam' as 4th from 4th (Bhrigu Sutras 48-56 and commentary).",
+      "spirituality": "Religious, devout temperament (Raman; Bhrigu Sutras 48-56)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Benefic association: good spouse and conveyances (Bhrigu Sutras 48-56)",
+      "Strong 7th lord: a single stable marriage (Bhrigu Sutras 48-56)"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "No directional strength in the 7th (PanchangBodh)",
+      "Afflicted: cunning and deceitful (Raman)",
+      "Weak 7th lord or Mars, Saturn, Rahu or Ketu with Mercury: harm to the spouse (Bhrigu Sutras 48-56)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.12 (Mantreswara; English rendering on siva.sh)",
+        "view": "Learned, well dressed, of great prestige, with a wealthy spouse.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.44 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Wife very learned, beautiful, not of good descent, promotes quarrels, very affluent; the native himself very great.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 7th gives knowledge of the law and rules of the country.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.79 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Maimed but able to amuse with skill in the arts.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 48-56, with the English commentator's notes (commentator not named in file)",
+        "view": "Happiness from mother, religious, broad-minded, reputation, government respect; benefics give a good spouse; weak 7th lord or malefics harm the spouse; Bhadra and Lagnadhi yogas noted.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Gives happiness to the wife but not very virile; handsome and wealthy.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the 7th House' p.173",
+        "view": "Virtue, geniality, good dress, profound knowledge of law, business skill, writing success, early marriage to a rich woman, mathematics and astrology; afflicted cunning.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Capable rather than commanding (no digbala); companionable, talkative marriage; clever youthful spouse; aspects the 1st; read contracts.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Mercury in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Harmony and realism in marriage; downside poor decisions harming image.",
+        "url": "https://vedicfeed.com/effect-of-mercury-in-12-houses/"
+      },
+      {
+        "source": "Shanker Adawal, 'Methodology and Effects of Mercury in Various Houses', Boloji.com 2006 (practitioner article following the Bhrigu Sutras)",
+        "view": "Charitable, broad-minded; with benefics a good spouse and vehicle in 24th year; afflicted harms spouse (women's charts).",
+        "url": "https://www.boloji.com/articles/1068/"
+      }
+    ],
+    "disagreements": "Saravali 30.44 qualifies the learned, wealthy spouse as quarrelsome and of lower descent, while Phaladeepika is wholly positive. Jataka Parijata 8.79 is the outlier (maimed). The Bhrigu Sutras commentator notes Brihat Jataka's 'knowledge of law' has little to do with marriage; Raman keeps both themes.",
+    "confidence": "medium",
+    "phrasing_guidance": "Talk about mental rapport, conversation and practical partnership. Avoid predicting loss of a spouse or deformity; if mentioned at all, present as a classical caution tied to specific afflictions."
+  },
+  {
+    "id": "planet_in_house/mercury/8",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 8
+    },
+    "summary": "Unusually for a dusthana, the classics praise Mercury in the 8th: fame for good qualities, long life, support of family and a position of authority; modern writers add research and investigative skill.",
+    "themes": [
+      "reputation",
+      "longevity",
+      "research",
+      "inheritance",
+      "authority"
+    ],
+    "common_outcomes": [
+      "Famous or widely known for good qualities (Phaladeepika 8.12; Saravali 30.45; Brihat Jataka 20.6; Jataka Parijata 8.83)",
+      "Long-lived (Phaladeepika 8.12; Saravali 30.45; Raman)",
+      "Supports the family (Phaladeepika 8.12; Saravali 30.45)",
+      "Good breeding, courtesy, much wealth (Jataka Parijata 8.83; Raman)"
+    ],
+    "rare_outcomes": [
+      "Authority to punish: judge or magistrate, equal to a king (Phaladeepika 8.12; Saravali 30.45)",
+      "Large lands; seven children; honours around the 25th year (Bhrigu Sutras 57-63); the commentator doubts the children claim",
+      "Fame abroad and wealth by royal favour or trade (Chamatkar Chintamani, via summary)"
+    ],
+    "by_area": {
+      "personality": "Many good qualities, courteous, learned (Raman); investigative mind that questions the official version (PanchangBodh).",
+      "career": "Taxation, insurance, actuarial work, forensics, psychology, occult study (PanchangBodh); position of command (Phaladeepika 8.12).",
+      "finance": "Inherits and earns much (Raman); legacies or a partner's money (PanchangBodh); much wealth (Jataka Parijata 8.83).",
+      "health": "Long life but a weak constitution (Raman).",
+      "relationships": "",
+      "family": "Supports the family (Phaladeepika 8.12; Saravali 30.45); in-law matters need care (PanchangBodh).",
+      "spirituality": "Interest in occult study (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Strong 8th lord, or 8th lord exalted with benefics: full span of life (Bhrigu Sutras 57-63)",
+      "Mercury as 2nd lord in the 8th aspects its own house and does not harm it (Bhrigu Sutras commentary)",
+      "Satyacharya, as read by Bhattotpala (Brihat Jataka 20.10 notes): a benefic in the 8th lengthens life"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "8th lord debilitated and with malefics weakens longevity (Bhrigu Sutras 57-63)",
+      "As lord of an auspicious house placed in the 8th, it hurts that house's matters (Bhrigu Sutras commentary)",
+      "Afflicted: the mind circles one worry; documents and loans need caution (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: results depend on which houses Mercury rules; as 2nd lord it is not harmful here, as lord of other good houses it weakens them.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.12 (Mantreswara; English rendering on siva.sh)",
+        "view": "Famous and long-lived, supports the family, holds a commanding position.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.45 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Wins famous titles, strong, long-lived, supports family, equal to a king or a judge.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 8th makes the person widely known for good qualities.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.83 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Renowned for many good qualities, chiefly good breeding, with much wealth.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 57-63, with the English commentator's notes (commentator not named in file)",
+        "view": "Good lifespan, large lands, honour; longevity tied to the 8th lord's state; commentator: all authorities agree the placement is favourable.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Very long life, reputation at home and abroad, wealth by royal favour or business.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Eighth House' p.213",
+        "view": "Many good qualities, good breeding and courtesy, inherits and earns, learned and famous, long life but weak constitution.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Research mind; tax, insurance, forensics, psychology, occult; legacies; aspects the 2nd; afflicted, fixed worry.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Mercury in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Drive to learn, wisdom, charisma; downside hasty judgement and impatience.",
+        "url": "https://vedicfeed.com/effect-of-mercury-in-12-houses/"
+      },
+      {
+        "source": "Brihat Jataka 20.10 notes (Satyacharya, as interpreted by Bhattotpala)",
+        "view": "Good planets in the 8th retard death, lengthening life.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Little disagreement on the core: all classics read it as good. Bhrigu Sutras alone adds seven children, which its own commentator rejects. Modern PanchangBodh adds the dusthana caveat (worry, document risk) that the classics do not.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a respected, research-minded intellect. Never turn longevity statements into a lifespan prediction, and avoid talk of death; say texts associate it with endurance and reputation."
+  },
+  {
+    "id": "planet_in_house/mercury/9",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 9
+    },
+    "summary": "Mercury in the 9th is unanimously favourable: learning, wealth, good conduct, eloquence and religious or philosophical interest.",
+    "themes": [
+      "learning",
+      "dharma",
+      "eloquence",
+      "fortune",
+      "teachers"
+    ],
+    "common_outcomes": [
+      "Learned and scholarly (Phaladeepika 8.13; Saravali 30.46; Jataka Parijata 8.86; Raman)",
+      "Wealthy or affluent (Phaladeepika 8.13; Saravali 30.46; Raman)",
+      "Good conduct, virtuous (Phaladeepika 8.13; Saravali 30.46; Jataka Parijata 8.86)",
+      "Eloquent (Phaladeepika 8.13; Saravali 30.46)"
+    ],
+    "rare_outcomes": [
+      "Children, wealth and happiness (Brihat Jataka 20.6 read with 20.3)",
+      "Learned in Vedas, fond of music, father long-lived (Bhrigu Sutras 64-66)",
+      "Invited abroad to lecture; interest in theosophy and metaphysics (Raman)"
+    ],
+    "by_area": {
+      "personality": "Very skilful and virtuous (Saravali 30.46); studies before believing and compares sources (PanchangBodh); scientific mind (Raman).",
+      "career": "Lecturing in educational institutions (Raman); law, publishing, translation, university teaching (PanchangBodh).",
+      "finance": "Wealth righteously acquired (Jataka Parijata 8.86); very affluent (Saravali 30.46).",
+      "health": "",
+      "relationships": "",
+      "family": "Friendly relations with the father (Raman); father long-lived (Bhrigu Sutras 64-66); father or early guru educated (PanchangBodh); many children (Bhrigu Sutras 64-66).",
+      "spirituality": "Religious devotion (Phaladeepika 8.13); Vedas, shastras, meditation (Bhrigu Sutras 64-66); dharma examined rather than taken on trust (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "In own sign Gemini or Virgo: a powerful Raja Yoga (Bhrigu Sutras commentary)",
+      "With Jupiter: wit and wisdom; with Venus: music and pleasure (Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "Pisces brings belief before evidence; afflicted, clever about principle rather than loyal to it (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Dhana yogas for Taurus, Gemini, Leo, Virgo, Sagittarius and Pisces lagnas (Mercury ruling the 2nd/5th, 1st/4th, 2nd/11th, 1st/10th, 7th/10th, 4th/7th); for Libra lagna it is the 9th lord in its own house.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.13 (Mantreswara; English rendering on siva.sh)",
+        "view": "Learning, wealth, good conduct, religious devotion, broad knowledge, eloquence.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.46 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Very affluent, scholarly, good conduct, eloquent, very skilful, virtuous.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 with 20.3 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 9th gives the Sun's 9th-house results: children, wealth and happiness.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.86 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Wealth righteously acquired; learned and virtuous.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 64-66, with the English commentator's notes (commentator not named in file)",
+        "view": "Many children, learned in Vedas and shastras, musical, patient, religious, wealthy, fortunate, father long-lived; commentator lists Dhana-yoga lagnas and says all authorities agree.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Religious, wise, performs rites, brings good repute to the family.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Ninth House' p.269",
+        "view": "Much education and wealth, great scholar, theosophy and metaphysics, scientific mind; with Jupiter wit and wisdom; travel to lecture; good relations with father.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Studies before believing; law, publishing, translation, teaching, foreign study; educated father; Pisces and affliction weaken principle.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Mercury in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Analytical, strategic curiosity; downside unpredictable speech and money loss.",
+        "url": "https://vedicfeed.com/effect-of-mercury-in-12-houses/"
+      },
+      {
+        "source": "Shanker Adawal, 'Methodology and Effects of Mercury in Various Houses', Boloji.com 2006 (practitioner article following the Bhrigu Sutras)",
+        "view": "Many children, scriptural and Vedic learning, music, charity, earnings through business, dislike of the teacher.",
+        "url": "https://www.boloji.com/articles/1068/"
+      }
+    ],
+    "disagreements": "No real classical disagreement. Adawal's 'dislike of the teacher' and VedicFeed's money losses are isolated modern notes.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of a seeker who learns, questions and teaches. Keep religious language optional; present it as a love of meaning and study."
+  },
+  {
+    "id": "planet_in_house/mercury/10",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 10
+    },
+    "summary": "Mercury in the 10th is one of its most favoured places: success in undertakings, learning, virtue and reputation, with careers in knowledge, communication and administration.",
+    "themes": [
+      "career",
+      "success",
+      "reputation",
+      "learning",
+      "virtue"
+    ],
+    "common_outcomes": [
+      "Succeeds in undertakings (Phaladeepika 8.13; Saravali 30.47; Raman)",
+      "Learned, intelligent, strong (Phaladeepika 8.13; Saravali 30.47)",
+      "Happy and powerful (Brihat Jataka 20.6 read with 20.3)",
+      "Virtuous deeds and reputation (Phaladeepika 8.13; Saravali 30.47; Bhrigu Sutras 67-70)"
+    ],
+    "rare_outcomes": [
+      "Eye trouble around the 28th year (Bhrigu Sutras 68), which the commentator doubts; defective eyesight (Raman)",
+      "Paternal property and kingly authority; speaks little, does much (Chamatkar Chintamani, via summary)",
+      "Amala Yoga when a benefic Mercury is in the 10th: lasting fame and spotless character (Bhrigu Sutras commentary)"
+    ],
+    "by_area": {
+      "personality": "Truthful and virtuous (Phaladeepika 8.13); happy and straightforward (Raman); patient thinker (Bhrigu Sutras 67-70).",
+      "career": "Pursuits that advance knowledge, fame and wealth (Jataka Parijata 8.90); astronomy, mathematics, scholarship (Raman); trade, communication, analysis, teaching, administration (PanchangBodh).",
+      "finance": "Wealth through knowledge-work (Jataka Parijata 8.90); decorated with ornaments and honours (Saravali 30.47).",
+      "health": "Possible eye weakness (Raman; Bhrigu Sutras 68).",
+      "relationships": "With Venus, a charming spouse and wealth (Raman).",
+      "family": "Work and home closely linked through the 4th aspect (PanchangBodh).",
+      "spirituality": "In own or exaltation sign or with Jupiter, performs religious rites (Bhrigu Sutras 67-70)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Own sign, exaltation or Jupiter's company: religious, charitable, virtuous (Bhrigu Sutras 67-70)",
+      "Bhadra Yoga in Gemini/Virgo; Amala Yoga as a benefic in the 10th (Bhrigu Sutras commentary; PanchangBodh)",
+      "With Venus: charming spouse and wealth (Raman)"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "In an enemy's sign or with a malefic: poor conduct (Bhrigu Sutras 67-70)",
+      "With Saturn: drudging clerical work and want (Raman)",
+      "With Jupiter: high circles but personal unhappiness (Raman)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: Gemini lagna (lagna and 10th lord in 10th) and Virgo-in-10th for Sagittarius lagna (7th and 10th lord) are very favourable; Capricorn lagna gives the 9th lord in the 10th, a Raja Yoga; Dhana yogas for Gemini, Virgo, Sagittarius and Pisces lagnas.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.13 (Mantreswara; English rendering on siva.sh)",
+        "view": "Succeeds in undertakings; learned, strong, intelligent, happy, virtuous, truthful.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.47 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Distinguished intelligence and acts, fruition of undertakings, very learned, courageous, strong, many ornaments.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 with 20.3 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 10th gives the Sun's 10th-house results: happy and powerful.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.90 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Engages in pursuits that advance all kinds of knowledge, fame and wealth.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 67-70, with the English commentator's notes (commentator not named in file)",
+        "view": "Success through virtuous deeds, patient, renowned thinker; malefic influence spoils conduct; commentator: Bhadra, Amala and Dhana yogas; all agree it is among the most favourable placements.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Paternal property, respect everywhere, authority like a king, speaks less and does more.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Tenth House' p.300",
+        "view": "Happy, straightforward scholar, successful, defective eyesight, astronomy and mathematics; Venus adds a charming wife, Jupiter unhappiness, Saturn drudgery.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Kendra and upachaya; trade, communication, analysis, teaching, administration; Bhadra Yoga; aspects the 4th.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Mercury in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Verbal skill, professional standing; downside materialism and frivolous spending.",
+        "url": "https://vedicfeed.com/effect-of-mercury-in-12-houses/"
+      },
+      {
+        "source": "Shanker Adawal, 'Methodology and Effects of Mercury in Various Houses', Boloji.com 2006 (practitioner article following the Bhrigu Sutras)",
+        "view": "Good deeds, courage, reputation; eye disease in 28th year; combust, retrograde or with malefics, opposed to sacrifices.",
+        "url": "https://www.boloji.com/articles/1068/"
+      }
+    ],
+    "disagreements": "Agreement on success. Only small notes differ: Raman and Bhrigu Sutras mention eye weakness, which Bhrigu Sutras' own commentator finds illogical; Raman's combinations (with Jupiter unhappy, with Saturn penury) are not in the classics read.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as strong career potential through knowledge, communication and integrity. Avoid predicting eye illness; at most suggest ordinary care of eyesight with screen-heavy work."
+  },
+  {
+    "id": "planet_in_house/mercury/11",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 11
+    },
+    "summary": "Mercury in the 11th is unanimously a placement of gains: wealth, learning, truthfulness and happiness, with income from many sources.",
+    "themes": [
+      "gains",
+      "income",
+      "networks",
+      "learning",
+      "truthfulness"
+    ],
+    "common_outcomes": [
+      "Wealthy, often very wealthy (Phaladeepika 8.13; Saravali 30.48; Brihat Jataka 20.6 with 20.3; Jataka Parijata 8.94; Raman)",
+      "Learned with an acute intellect (Saravali 30.48; Jataka Parijata 8.94; Raman)",
+      "Truthful and happy (Phaladeepika 8.13; Raman)",
+      "Servants or helpers (Phaladeepika 8.13; Raman)"
+    ],
+    "rare_outcomes": [
+      "Long life (Phaladeepika 8.13; Saravali 30.48)",
+      "Engineering ventures (Raman)",
+      "Children after age 21 (Bhrigu Sutras 71-75); a son in the 27th year (Adawal)",
+      "No gain of wealth unless Mercury is in the 11th (Chamatkar Chintamani, via summary)"
+    ],
+    "by_area": {
+      "personality": "Kind-hearted (Bhrigu Sutras 71-75); amicable worker (Saravali 30.48); truthful (Phaladeepika 8.13).",
+      "career": "Trade, commissions, brokerage, technology (PanchangBodh); engineering (Raman); learned in many sciences (Raman).",
+      "finance": "Wealth from many sources (Bhrigu Sutras 71-75); among Mercury's most profitable placements (PanchangBodh).",
+      "health": "",
+      "relationships": "Helpful, articulate friends and elder siblings; wide network (PanchangBodh); famous (Saravali 30.48).",
+      "family": "Children after 21 (Bhrigu Sutras 71-75).",
+      "spirituality": "Performs many auspicious ceremonies (Bhrigu Sutras 71-75)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Own sign or exaltation: wealth by virtuous deeds (Bhrigu Sutras 71-75)"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "With malefics or in a malefic's sign: loss of wealth through wrong deeds (Bhrigu Sutras 71-75); loss through low associates (Adawal)"
+    ],
+    "lagna_or_context_notes": "Bhrigu Sutras commentary: for Leo lagna Mercury here rules the 2nd and 11th and is very good for wealth; also good for Gemini, Virgo, Sagittarius, Capricorn and Pisces lagnas.",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.13 (Mantreswara; English rendering on siva.sh)",
+        "view": "Long-lived, truthful, very wealthy, happy, with servants.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.48 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Rich, amicable worker, learned, happy, wide enjoyments, long-lived, famous.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 with 20.3 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 11th gives the Sun's 11th-house result: wealthy.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.94 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Acute intellect, famed for learning, wealthy.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 71-75, with the English commentator's notes (commentator not named in file)",
+        "view": "Auspicious ceremonies, wealth from many sources, children after 21, kind-hearted; malefic link brings loss; commentator: all agree this house is very favourable for Mercury.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "There is no gain of wealth unless Mercury is in the 11th.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Eleventh House' p.365",
+        "view": "Learned in many sciences, keen intellect, wealthy, truthful, happy, faithful servants, engineering ventures.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Very profitable; trade, commissions, tech; helpful friends and elder siblings; aspects the 5th.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Mercury in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Social and professional success; downside losses of wealth and health.",
+        "url": "https://vedicfeed.com/effect-of-mercury-in-12-houses/"
+      },
+      {
+        "source": "Shanker Adawal, 'Methodology and Effects of Mercury in Various Houses', Boloji.com 2006 (practitioner article following the Bhrigu Sutras)",
+        "view": "Kind-hearted, prosperous; with malefics money lost via low people; exalted/own sign prosperity.",
+        "url": "https://www.boloji.com/articles/1068/"
+      }
+    ],
+    "disagreements": "No classical disagreement; only VedicFeed mentions losses, without source.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of income through skill, networks and many small streams. Avoid guaranteeing wealth; say the placement is traditionally one of the best for gains."
+  },
+  {
+    "id": "planet_in_house/mercury/12",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Mercury",
+      "house": 12
+    },
+    "summary": "Mercury in the 12th is read unfavourably by most classics (humiliation, poverty, idleness, cruelty), though Saravali and Bhrigu Sutras still call the person learned; modern writers reframe it as solitary, behind-the-scenes or foreign intellectual work.",
+    "themes": [
+      "loss",
+      "solitude",
+      "expenditure",
+      "foreign",
+      "inner life"
+    ],
+    "common_outcomes": [
+      "Humiliation or degradation (Phaladeepika 8.13; Saravali 30.49; Brihat Jataka 20.6 with 20.3)",
+      "Indolent or inactive (Phaladeepika 8.13; Saravali 30.49)",
+      "Poverty or penury (Jataka Parijata 8.98; Raman)",
+      "Cruelty (Phaladeepika 8.13; Saravali 30.49)"
+    ],
+    "rare_outcomes": [
+      "Learned and a good speaker, keeps promises (Saravali 30.49; Bhrigu Sutras 76-81)",
+      "Spends on religious charity (Bhrigu Sutras 76-81)",
+      "Entertains Brahmins and frightens enemies (Chamatkar Chintamani, via summary)",
+      "Extra-marital involvement and few children (Raman)"
+    ],
+    "by_area": {
+      "personality": "Capricious, wayward, unhappy through distorted thinking (Raman); turns inward and thinks best alone (PanchangBodh); fond of giving things away (Bhrigu Sutras 76-81).",
+      "career": "Foreign languages, overseas trade, translation, research libraries, hospitals, ashrams (PanchangBodh).",
+      "finance": "Poor (Jataka Parijata 8.98; Raman); spending mostly on books, courses, travel (PanchangBodh).",
+      "health": "When afflicted, sleep is broken by thinking (PanchangBodh).",
+      "relationships": "Odious to relatives (Jataka Parijata 8.98); reserve or secrecy in speech (PanchangBodh).",
+      "family": "Few children (Raman).",
+      "spirituality": "Spends on religious charities (Bhrigu Sutras 76-81); suits mantra, contemplation, dream life and release (PanchangBodh)."
+    },
+    "strengtheners": [
+      "Exalted or own sign: Brihat Jataka 20.11 scales a benefic's good results from full (exaltation) through 3/4 (moolatrikona) and 1/2 (own sign) down to little in enemy signs",
+      "In a kendra in Gemini or Virgo it forms Bhadra Yoga (PanchangBodh; Bhrigu Sutras commentary)",
+      "Benefic association: expenditure on religious charity (Bhrigu Sutras 76-81)",
+      "Gemini or Virgo produces finished work (PanchangBodh)",
+      "Satyacharya, as read by Bhattotpala (Brihat Jataka 20.10 notes): a benefic in the 12th reduces expenditure"
+    ],
+    "weakeners_or_cancellations": [
+      "Combustion: Brihat Jataka 20.11 gives a benefic no good result when combust; PanchangBodh gives the orb as 14 deg (12 deg retrograde)",
+      "Debilitation in Pisces (Brihat Jataka 20.11 scale; Bhrigu Sutras)",
+      "Mercury turns malefic when joined or aspected by malefics (Bhrigu Sutras commentary on house 1)",
+      "Malefic association: unstable mind and hostility to authority (Bhrigu Sutras 76-81)",
+      "Combustion is most common here (PanchangBodh)"
+    ],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {
+        "source": "Phaladeepika 8.13 (Mantreswara; English rendering on siva.sh)",
+        "view": "Miserable, unlearned, humiliated, cruel and inactive.",
+        "url": "https://siva.sh/phaladeepika/8/11-15"
+      },
+      {
+        "source": "Saravali 30.49 (Kalyana Varma; English translation PDF, translator not named in file)",
+        "view": "Keeps promises, indolent, humiliated, good speaker, learned, pitiable, cruel.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Jataka 20.6 with 20.3 (Varahamihira; tr. V. Subrahmanya Sastri, 2nd ed.)",
+        "view": "Mercury in the 12th gives the Sun's 12th-house result: degradation.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata 8.98 (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. I)",
+        "view": "Odious to relatives, poor and senseless.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. V sutras 76-81, with the English commentator's notes (commentator not named in file)",
+        "view": "Learned, fond of distributing; with malefics unstable and hostile to the king; with benefics religious charity but meagre education; commentator: the authorities give adverse results.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "Chamatkar Chintamani, as quoted under 'Other Views' in the Bhrigu Sutras commentary (via summary)",
+        "view": "Entertains Brahmins; frightens enemies.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Bhrigu%20Sutras%20(partial%20significance%20of%20the%20Planets%20and%20Houses).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, Vol. II 'Planets in the Twelfth House' p.395",
+        "view": "Capricious, wayward, extra-marital ties, penury, unhappy through perverted thinking, few children.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "PanchangBodh, 'Mercury in houses' (modern practitioner site)",
+        "view": "Inward thinker; foreign languages, translation, research, hospitals, ashrams; intellectual spending; mantra and contemplation; combustion common.",
+        "url": "https://panchangbodh.com/mercury-in-houses"
+      },
+      {
+        "source": "VedicFeed (Mona), 'Positive and Negative Effects of Mercury in 12 Houses' (generic modern article, no classical citations)",
+        "view": "Practical, scientific outlook; downside irritability and seeming unsocial.",
+        "url": "https://vedicfeed.com/effect-of-mercury-in-12-houses/"
+      },
+      {
+        "source": "Brihat Jataka 20.10 notes (Satyacharya, as interpreted by Bhattotpala)",
+        "view": "Good planets in the 12th reduce expenditure, i.e. promote thrift.",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Learning: Phaladeepika 8.13 says unlearned and Jataka Parijata 8.98 senseless, but Saravali 30.49 and Bhrigu Sutras 76-81 say learned. Overall tone: classics and Raman are negative; PanchangBodh and VedicFeed reframe it positively as inward, foreign or research work. Satyacharya's rule (via Brihat Jataka 20.10 notes) that benefics in the 12th curb expenditure is not reflected in the house-specific verses.",
+    "confidence": "medium",
+    "phrasing_guidance": "Avoid the classical labels (cruel, poor, senseless). Present as a private, inward or behind-the-scenes mind, good for research, languages, foreign links and contemplation, with a caution about worry and overspending."
+  }
+]

@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "lord_in_house/4/1",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 1
+    },
+    "summary": "Home, mother and inner happiness merge with the self: the person is learned and virtuous, enjoys land and vehicles, and has happiness through the mother.",
+    "themes": [
+      "learning",
+      "mother",
+      "property",
+      "vehicles",
+      "contentment"
+    ],
+    "common_outcomes": [
+      "education and good character",
+      "ownership of land, home or vehicles",
+      "close, supportive bond with mother",
+      "emotional security forms part of identity"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "Settled, cultured, virtuous (BPHS 24.37; Charak); Raman: highly learned, though shy of speaking in public assemblies.",
+      "career": "",
+      "finance": "Land and vehicles (BPHS 24.37; Charak). Raman: may lose inherited wealth; whether the 4th lord here is strong, middling or weak shows birth into a rich, middling or poor family.",
+      "health": "",
+      "relationships": "",
+      "family": "Mother's happiness and support (BPHS 24.37; Charak). Rath 7.3.1: being in trine to the 9th, good relations with the father and gains from his position.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "own sign: Gemini lagna (Mercury) and Sagittarius lagna (Jupiter), where one planet owns 1st and 4th",
+      "exaltation: Libra lagna (Saturn in Libra, yogakaraka) and Capricorn lagna (Mars in Capricorn)",
+      "benefic aspects; strong Moon",
+      "4th and 9th lords together in the lagna: fortune and conveyances (Bhavartha Ratnakara IV st. 1)",
+      "exchange of the 1st and 4th lords: Bhagyavahana yoga (Bhavartha Ratnakara IV st. 13)",
+      "Jupiter as 4th lord in a kendra or trikona (Gemini lagna here): happiness (Bhavartha Ratnakara IV st. 3)",
+      "4th lord in the lagna with Venus strong in the 4th: vehicles, jewels and wealth (Raman HTJH I, 'Important Combinations')"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Pisces lagna, Mercury in Pisces",
+      "malefic affliction or combustion",
+      "natural benefic 4th lords can suffer kendradhipati dosha (BPHS 34: benefics owning kendras lose some beneficence), though lagna placement mitigates"
+    ],
+    "lagna_or_context_notes": "For Libra lagna Saturn owns the 4th and 5th, a kendra and a trikona, which O.P. Verma's notes to Laghu Parashari sloka 7 count as auspicious for Libra; here it is also exalted in the lagna. For Gemini and Sagittarius lagna one planet owns the 1st and 4th. Raman ('Important Combinations') says the 4th lord in the lagna or the 7th gives a house without difficulty.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.37 (enjoylearningsanskrit.com)",
+        "view": "Learned and virtuous, land and vehicles, happiness from mother. Note: this page's Sanskrit reads 'dhanage' (2nd house), duplicating verse 38; the sequence and other renderings place this verse in the lagna.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-37"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.37 (Santhanam-based text, archive.org)",
+        "view": "4th lord in lagna: learning, virtue, fine possessions, land, vehicles, maternal comfort.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7 (Santhanam-based text, archive.org)",
+        "view": "Benefics owning kendras lose some benefic character.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Highly learned but afraid to speak in public assemblies; likely to lose inherited wealth; a strong, middling or weak 4th lord here shows birth in a rich, mediocre or poor family. Also: the 4th lord in the lagna or 7th gives a house without difficulty.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Comforts from mother; blessed with education, lands, vehicles and virtues.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 7.3.1-7.3.2 (fourth lord) (p. 77)",
+        "view": "The 4th lord in the ascendant, being in trine to the 9th, gives good relations with the father and gain from the father's position or authority.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. IV st. 1, 3 and 13",
+        "view": "4th and 9th lords combined in the lagna: fortune and vehicles; Jupiter as 4th lord in a kendra or trikona: happiness; exchange of lagna and 4th lords: Bhagyavahana yoga.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, sloka 7 with notes",
+        "view": "Natural benefics owning kendras lose their beneficence and natural malefics owning kendras lose their maleficence; a planet owning both a kendra and a trikona becomes auspicious (rajayogakaraka). The commentary names Saturn as auspicious for Taurus and Libra lagna.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "Textual: the enjoylearningsanskrit edition reads verse 37 as 4th lord in the 2nd (two verses for the 2nd, none for the 1st), likely a transcription issue; the Santhanam-based text and Charak assign the learning/lands/vehicles/mother result to the lagna. Raman's text for this placement (learned but shy in assemblies, loses inherited wealth) matches what BPHS 24.43 and Charak give for the 4th lord in the 7th, so Raman appears to follow a different verse order here.",
+    "confidence": "high",
+    "phrasing_guidance": "Positive: learning, home comforts and maternal support. Avoid promising property."
+  },
+  {
+    "id": "lord_in_house/4/2",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 2
+    },
+    "summary": "Home and comforts link to wealth and family: pleasures, all-round wealth, family life and honour, with a bold and shrewd streak.",
+    "themes": [
+      "family wealth",
+      "comforts",
+      "honour",
+      "shrewdness"
+    ],
+    "common_outcomes": [
+      "wealth through family, property or inheritance",
+      "comfortable family life",
+      "respected and bold",
+      "shrewd or calculating in dealings"
+    ],
+    "rare_outcomes": [
+      "Raman: inheritance from the maternal grandfather",
+      "Rath 7.3.1: strained relations with the father"
+    ],
+    "by_area": {
+      "personality": "Pleasure-loving, bold, clever, at times cunning (BPHS 24.38; Charak: courageous, proud, an enchanter); Raman: sarcastic.",
+      "career": "",
+      "finance": "Wealthy in every way (BPHS 24.38); highly fortunate, with inheritance from the maternal grandfather (Raman HTJH I); owns property (Charak); Rath 7.3.1: hankers after wealth.",
+      "health": "",
+      "relationships": "",
+      "family": "Family support and honour (BPHS 24.38); a large family (Charak); Rath 7.3.1: can be at odds with the father.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "exaltation: Aries lagna (Moon in Taurus) and Aquarius lagna (Venus in Pisces, yogakaraka)",
+      "connection with the 11th lord",
+      "Cancer lagna: Venus as 4th and 11th lord gives yoga in the 2nd or 12th only (Bhavartha Ratnakara I, Karkataka st. 3)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Sagittarius lagna, Jupiter in Capricorn",
+      "malefic affliction to the 2nd"
+    ],
+    "lagna_or_context_notes": "For Cancer lagna Venus owns the 4th and 11th; Bhavartha Ratnakara (I, Karkataka st. 3) says Venus gives yoga only when placed in the 12th or the 2nd, and Raman's note approves the 2nd even though Leo is an enemy sign for Venus.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.38 (enjoylearningsanskrit.com)",
+        "view": "Pleasure-seeking, wealthy in every way, family support, honoured, bold, cunning.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-38"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.38 (Santhanam-based text, archive.org)",
+        "view": "Pleasures, wealth, family life, honour; adventurous and cunning.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Highly fortunate, courageous and happy; sarcastic nature; inherits property from the maternal grandfather.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Owns property, courageous, proud, a big family, an enchanter, given to physical pleasures.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 7.3.1-7.3.2 (fourth lord) (p. 77)",
+        "view": "The 4th lord in the 2nd makes the native hanker after wealth and be inimically disposed to the father.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. I Karkataka st. 3 with Raman's note",
+        "view": "For Cancer lagna Venus causes yoga if placed in the 12th or the 2nd, and nowhere else; Raman notes the 2nd is approved though it is an inimical sign.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS, Raman and Charak agree on wealth, boldness and family. Rath's strained relations with the father are not in BPHS 24.38 or Raman.",
+    "confidence": "high",
+    "phrasing_guidance": "Positive about family wealth and comfort; describe 'cunning' as shrewdness."
+  },
+  {
+    "id": "lord_in_house/4/3",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 3
+    },
+    "summary": "Home and happiness connect with courage and effort: BPHS gives a brave, generous, charitable and healthy person with servants and self-earned wealth.",
+    "themes": [
+      "courage",
+      "generosity",
+      "self-earned wealth",
+      "siblings"
+    ],
+    "common_outcomes": [
+      "brave and generous",
+      "self-earned wealth",
+      "helpers or staff around (BPHS, Charak)",
+      "little immovable property (Satyacharya, quoted by Raman)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "Valiant, generous, virtuous (BPHS 24.39; Raman: a man of character; Charak: talented, courageous); Rath 7.3.1: fond of combat.",
+      "career": "",
+      "finance": "Self-earned wealth (BPHS 24.39; Raman; Charak). Satyacharya, quoted by Raman, says even a well-aspected 4th lord here gives very little immovable property and may take away what there is.",
+      "health": "BPHS says free from illness while Raman says sickly; present neither as a health promise.",
+      "relationships": "",
+      "family": "Raman and Satyacharya mention trouble through step-relatives; Charak says the native can be a source of trouble to the parents.",
+      "spirituality": "Charitable (BPHS 24.39; Charak: gives alms)."
+    },
+    "strengtheners": [
+      "own sign: Scorpio lagna (Saturn in Capricorn, also 3rd lord)",
+      "benefic aspects",
+      "4th lord in an upachaya (3rd, 6th, 10th, 11th) grows the 4th house, especially if vargottama or joined or aspected by a trine lord (Rath, Crux 7.3.1)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Cancer lagna, Venus in Virgo",
+      "Phaladeepika 15.4: malefics in 12th from a bhava harm it",
+      "Satyacharya (quoted by Raman): even with good aspects, the 4th lord in the 3rd gives little landed property; more affliction intensifies this"
+    ],
+    "lagna_or_context_notes": "BPHS 24.39 is positive about character and wealth; Raman and Satyacharya (quoted by Raman) are cautious about property and step-relatives; Rath reads the 3rd as an upachaya where the 4th lord can still grow the 4th house.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.39 (enjoylearningsanskrit.com)",
+        "view": "Valiant, has servants, generous, healthy, virtuous, charitable, self-earned wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-39"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.39 (Santhanam-based text, archive.org)",
+        "view": "Brave, has servants, liberal, charitable, self-earned wealth, good health.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.4",
+        "view": "Malefics in 6/8/12 from a bhava damage it.",
+        "url": "https://www.siva.sh/phaladeepika/15/1-5"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Sickly, generous, a man of character, wealth by self-effort, troubles from step-brothers and step-mother. Satyacharya: even well aspected, very little immovable property, possibly lost.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Generous, talented, courageous, gives alms, has servants, earns by own efforts, a source of trouble to his parents.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 7.3.1-7.3.2 (fourth lord) (p. 77)",
+        "view": "The 4th lord in the 3rd or 6th makes the native fond of combat; in an upachaya it grows the 4th house, especially if vargottama or linked with a trine lord.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      }
+    ],
+    "disagreements": "BPHS 24.39 is favourable and calls the native healthy; Raman calls the native sickly and, with Satyacharya, cautions about property and step-relatives. Rath's upachaya rule is favourable for growth of 4th-house matters.",
+    "confidence": "medium",
+    "phrasing_guidance": "Lead with courage and generosity; note that home life benefits from conscious attention."
+  },
+  {
+    "id": "lord_in_house/4/4",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 4
+    },
+    "summary": "The 4th lord in its own house strengthens home, mother, property and contentment: BPHS describes a counsellor-like, wealthy, skilled, well-conducted, respected and learned person who is happy and loved.",
+    "themes": [
+      "domestic happiness",
+      "property",
+      "learning",
+      "counsel",
+      "mother"
+    ],
+    "common_outcomes": [
+      "full domestic happiness",
+      "land, house and vehicles",
+      "learning and good conduct",
+      "advisory or ministerial roles"
+    ],
+    "rare_outcomes": [
+      "BPHS 15.11: 4th lord exalted in the 4th with the Sun gives vehicles early in life"
+    ],
+    "by_area": {
+      "personality": "Dignified, skilled, happy (BPHS 24.40); religious and respectful of tradition (Raman HTJH I); sensual (Raman); clever and sober (Charak).",
+      "career": "Counsellor or minister (BPHS 24.40; Charak: a minister, well informed).",
+      "finance": "Wealthy (BPHS 24.40; Raman: rich; Charak: vast property).",
+      "health": "",
+      "relationships": "Loved by women or marital harmony (BPHS renderings differ); attached to the spouse (Charak).",
+      "family": "Strong home and maternal support (BPHS 15.2); a source of wealth and status to the father (Charak).",
+      "spirituality": "Religiously inclined (Raman; Charak)."
+    },
+    "strengtheners": [
+      "always own sign; Gemini lagna Mercury is also exalted (Virgo)",
+      "benefic aspect: complete domestic happiness (BPHS 15.2)",
+      "own/exalted sign or navamsa: happiness from land, vehicles, houses (BPHS 15.3)",
+      "link with the 10th lord in a kendra/kona: fine mansions (BPHS 15.4)",
+      "4th and 5th lords each in their own house: Bhagyavahana yoga (Bhavartha Ratnakara IV st. 16)",
+      "Mars joining the 4th lord: lands and houses (Bhavartha Ratnakara XII, with chart 54)",
+      "Jupiter in the 4th with the 4th lord: cattle and domestic animals (Bhavartha Ratnakara XII st. 11)",
+      "Virgo lagna: Jupiter (4th lord) with Venus (9th lord) in the 4th gives yoga in their dasas (Bhavartha Ratnakara I, Kanya st. 5)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction or combustion",
+      "natural benefic 4th lord in a kendra may carry kendradhipati dosha in functional terms (BPHS 34)",
+      "Venus in the 4th with the 4th lord gives only ordinary conveyances (Bhavartha Ratnakara IV st. 4)"
+    ],
+    "lagna_or_context_notes": "For Leo (Mars), Libra (Saturn) and Aquarius (Venus) lagna the 4th lord also owns a trikona, which Laghu Parashari (sloka 7 notes) treats as auspicious. For Virgo lagna Bhavartha Ratnakara (I, Kanya st. 5) gives yoga when Jupiter (4th lord) and Venus (9th lord) are in the 4th, though Raman notes Venus's dasa works better because Jupiter suffers as a kendra lord. BPHS 15.9 has a specific traditional line about speech when the 4th lord is in a movable sign in the 4th with Mars in the 6th or 12th; treat as text-specific.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.40 (enjoylearningsanskrit.com)",
+        "view": "Counsellor or minister, wealthy, skilled, well-conducted, respected, learned, loved by women, happy.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-40"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.40 (Santhanam-based text, archive.org)",
+        "view": "Minister-level status, wealth, skill, learning, marital harmony.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 15.2-4, 15.11 (Bandhu Bhava)",
+        "view": "4th lord in the 4th with benefic aspect gives domestic happiness; own/exalted gives land and vehicles.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-15"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Religiously inclined, respects traditions, rich, respected, happy and sensual.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Owns vast property, clever, sober, ever in comfort, a minister, well informed, proud, attached to wife, a source of wealth and status to the father, religious.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. IV st. 4 and 16; ch. I Kanya st. 5 with notes",
+        "view": "4th lord with Venus in the 4th: ordinary conveyances; 4th and 5th lords in their own houses: Bhagyavahana yoga; for Virgo, Jupiter and Venus in the 4th give yoga in their dasas.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. XII st. 11",
+        "view": "Cattle and domestic animals if Jupiter is in the 4th with the 4th lord.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. XII (Mars joining the 4th lord) with chart 54",
+        "view": "When Mars joins the 4th lord the native acquires landed property and houses; Raman's chart 54 has the 4th lord in the 7th with Mars.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, sloka 7 with notes",
+        "view": "Natural benefics owning kendras lose their beneficence and natural malefics owning kendras lose their maleficence; a planet owning both a kendra and a trikona becomes auspicious (rajayogakaraka). The commentary names Saturn as auspicious for Taurus and Libra lagna.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "BPHS renderings differ: 'loved by women' vs 'marital harmony'. Bhavartha Ratnakara II st. 9 says a karaka in its own bhava weakens it, while XII st. 1 says a lord joined by its karaka strengthens the bhava, so the Moon's role here is weighed differently by stanza.",
+    "confidence": "high",
+    "phrasing_guidance": "Strongly positive for home, learning and comforts; avoid promising office or property."
+  },
+  {
+    "id": "lord_in_house/4/5",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 5
+    },
+    "summary": "A kendra-trikona link between happiness and intelligence: the person is happy, liked, devout, virtuous, honoured and earns by own effort.",
+    "themes": [
+      "happiness",
+      "devotion",
+      "intelligence",
+      "education",
+      "children"
+    ],
+    "common_outcomes": [
+      "happy and well-liked",
+      "devotional or principled",
+      "good education and intelligence",
+      "self-earned wealth"
+    ],
+    "rare_outcomes": [
+      "BPHS specifically: devotion to Vishnu"
+    ],
+    "by_area": {
+      "personality": "Pleasant, virtuous, respected (BPHS 24.41; Raman: loved and respected).",
+      "career": "",
+      "finance": "Self-earned wealth (BPHS 24.41; Raman; Charak); acquires vehicles (Raman HTJH I).",
+      "health": "",
+      "relationships": "",
+      "family": "Mother comes from a respectable family (Raman); benefits from the father (Charak).",
+      "spirituality": "Devotional; traditional mention of Vishnu (BPHS 24.41; Raman; Charak: devoted to God)."
+    },
+    "strengtheners": [
+      "own sign: Libra lagna (Saturn in Aquarius, yogakaraka owning 4th and 5th)",
+      "benefic aspects; strong Jupiter",
+      "exchange of the 4th and 5th lords: Bhagyavahana yoga (Bhavartha Ratnakara IV st. 12)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Virgo lagna, Jupiter in Capricorn",
+      "malefic affliction to the 5th"
+    ],
+    "lagna_or_context_notes": "For Libra lagna this is Saturn, lord of the 4th and 5th, in own sign Aquarius in a trikona; O.P. Verma's notes to Laghu Parashari sloka 7 count this kendra-trikona lord as auspicious for Libra.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.41 (enjoylearningsanskrit.com)",
+        "view": "Happy, loved by many, devoted to Vishnu, virtuous, respected, self-earned wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-41"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.41 (Santhanam-based text, archive.org)",
+        "view": "Liked, devoted to Vishnu, virtuous, self-earned wealth.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Loved and respected, devotee of Vishnu, rich by self-effort; mother from a respectable family; acquires vehicles.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Enjoys physical comforts, loved by all, devoted to God, earns by own efforts, long-lived, benefits from father.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. IV st. 12",
+        "view": "Bhagyavahana yoga if the 4th and 5th lords exchange houses.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, sloka 7 with notes",
+        "view": "Natural benefics owning kendras lose their beneficence and natural malefics owning kendras lose their maleficence; a planet owning both a kendra and a trikona becomes auspicious (rajayogakaraka). The commentary names Saturn as auspicious for Taurus and Libra lagna.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "None significant; classical and modern sources agree.",
+    "confidence": "high",
+    "phrasing_guidance": "Positive; phrase devotion generally unless the user's tradition calls for naming a deity."
+  },
+  {
+    "id": "lord_in_house/4/6",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 6
+    },
+    "summary": "Home and happiness fall into the house of conflict and strain: BPHS says reduced comfort from the mother, irritability and unhappiness, with harsh traditional lines about conduct; modern readers add property disputes and home-related debt.",
+    "themes": [
+      "domestic strain",
+      "mother",
+      "disputes",
+      "debt",
+      "irritability"
+    ],
+    "common_outcomes": [
+      "less ease or comfort at home",
+      "strain or distance in the relationship with mother",
+      "property disputes or loans on home/vehicle (jagannathhora.com, practitioner site)",
+      "irritability under stress"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: inclination to theft, mischief or deceit; state carefully, never predict"
+    ],
+    "by_area": {
+      "personality": "Prone to anger and restlessness (BPHS 24.42; Raman: short-tempered, always roaming; Charak: short-tempered yet thoughtful); Rath 7.3.1: fond of combat.",
+      "career": "",
+      "finance": "A natural-benefic 4th lord here accumulates wealth (Charak). Raman's 'Important Combinations': the 4th lord in a dusthana can bring loss of property, while an exchange of the 4th and 6th lords gives lands from opponents, by right.",
+      "health": "Santhanam-based rendering mentions being unwell; do not make health claims about the person or the mother.",
+      "relationships": "",
+      "family": "Mother's comfort reduced (BPHS 24.42; Charak); a natural-malefic 4th lord here can bring a bad name to the father (Charak).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "exaltation: Leo lagna, Mars in Capricorn (yogakaraka)",
+      "benefic aspect restores the bhava (Phaladeepika 15.5)",
+      "strong lord: injury is slight (Phaladeepika 15.9)",
+      "natural-benefic 4th lord: accumulates wealth (Charak)",
+      "exchange of the 4th and 6th lords: lands from opponents, by right (Raman HTJH I, 'Important Combinations')",
+      "4th lord in an upachaya (3rd, 6th, 10th, 11th) grows the 4th house, especially if vargottama or joined or aspected by a trine lord (Rath, Crux 7.3.1)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Taurus lagna (Sun in Libra) and Scorpio lagna (Saturn in Aries)",
+      "malefic affliction; weak Moon",
+      "Phaladeepika 15.5: lord in a dusthana harms its bhava",
+      "4th lord in a dusthana: loss of property and wealth (Raman HTJH I, 'Important Combinations')"
+    ],
+    "lagna_or_context_notes": "For Leo lagna Mars, lord of the 4th and 9th, is exalted in the 6th.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.42 (enjoylearningsanskrit.com)",
+        "view": "Loses mother's comfort; irritable, prone to theft and mischief, often unhappy.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-42"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.42 (Santhanam-based text, archive.org)",
+        "view": "No maternal comfort; angry, thievish, deceitful, indisposed.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.5, 15.9",
+        "view": "Lord in a dusthana harms its bhava; strong lord limits harm; benefic aspect restores.",
+        "url": "https://www.siva.sh/phaladeepika/15/1-5"
+      },
+      {
+        "source": "jagannathhora.com, 4th lord in 12 houses (practitioner site)",
+        "view": "Home needs maintenance, property may involve tenants or loans; emotional strength develops through difficulty.",
+        "url": "https://jagannathhora.com/4th-lord-in-12-houses-effects/"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Short-tempered and mean, dissimulating, evil thoughts, always roaming. Important Combinations: 4th lord in a dusthana loses property; exchange of 4th and 6th lords gives lands from enemies by right.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Bereft of comforts from mother, short-tempered, wicked, thoughtful, adulterous; a malefic 4th lord brings a bad name to the father, a benefic one accumulates wealth.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 7.3.1-7.3.2 (fourth lord) (p. 77)",
+        "view": "The 4th lord in the 3rd or 6th makes the native fond of combat; in an upachaya it grows the 4th house, especially if vargottama or linked with a trine lord.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      }
+    ],
+    "disagreements": "BPHS, Raman and Charak are harsh on character and domestic comfort. Charak makes wealth depend on the lord's nature, and Rath's upachaya rule allows 4th-house matters to grow. The practitioner site focuses on practical domestic strain and debt.",
+    "confidence": "medium",
+    "phrasing_guidance": "Talk about domestic stress and the value of a calm home routine. Never label the person dishonest; no health claims about the mother."
+  },
+  {
+    "id": "lord_in_house/4/7",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 7
+    },
+    "summary": "Home and learning join partnership and public life: the person is highly educated, but BPHS says paternal wealth may be given up or lost and the person stays quiet in assemblies.",
+    "themes": [
+      "education",
+      "partnership",
+      "inheritance",
+      "reticence"
+    ],
+    "common_outcomes": [
+      "well educated (BPHS, Charak; Rath doubts this)",
+      "houses and lands (Raman)",
+      "reserved in public settings (BPHS, Charak)"
+    ],
+    "rare_outcomes": [
+      "BPHS: forfeits or squanders paternal wealth",
+      "BPHS: silent (mute-like) in assemblies"
+    ],
+    "by_area": {
+      "personality": "Learned but reticent in public (BPHS 24.43; Charak: knows several subjects, unable to speak in an assembly).",
+      "career": "Livelihood far from or near the birthplace depending on whether the 7th is a movable or fixed sign (Raman HTJH I).",
+      "finance": "Paternal wealth may be given up or lost (BPHS 24.43; Charak). Raman instead gives houses and lands, and says the 4th lord in the lagna or 7th gives a house without difficulty.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "own sign: Virgo lagna (Jupiter in Pisces) and Pisces lagna (Mercury in Virgo, also exalted)",
+      "benefic aspects",
+      "4th lord in the 7th: a house without difficulty (Raman HTJH I, 'Important Combinations')",
+      "Mars joining the 4th lord: lands and houses (Bhavartha Ratnakara XII, chart 54 has the 4th lord in the 7th with Mars)",
+      "lords of the lagna, 4th and 9th in the 7th with the 10th lord: very fortunate in their dasas (Bhavartha Ratnakara VIII st. 9-10)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Libra lagna (Saturn in Aries) and Capricorn lagna (Mars in Cancer)",
+      "natural benefic owning two kendras (Mercury or Jupiter for Gemini/Virgo/Sagittarius/Pisces) carries kendradhipati dosha (BPHS 34)"
+    ],
+    "lagna_or_context_notes": "For Virgo and Pisces lagna the 4th lord owns the 7th too and sits in own sign, but kendradhipati dosha is classically strongest for such double-kendra benefics (BPHS 34; Laghu Parashari sloka 7). Rath (Crux 7.3.1) notes that the 4th lord here opposes the lagna, which is why he doubts the 'very learned' reading.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.43 (enjoylearningsanskrit.com)",
+        "view": "Very learned, abandons father's wealth, silent in assemblies.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-43"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.43 (Santhanam-based text, archive.org)",
+        "view": "Well educated, squanders inheritance, silent in assemblies.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7 (Santhanam-based text, archive.org)",
+        "view": "Benefics owning kendras lose benefic character.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Generally happy; commands houses and lands; livelihood in distant places or near the birthplace as the 7th is a movable or fixed sign. Also: the 4th lord in the lagna or 7th gives a house without difficulty.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Knows several subjects, gives up father's (ancestral) property, unable to express himself in an assembly.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 7.3.1-7.3.2 (fourth lord) (p. 77)",
+        "view": "Some astrologers say the 4th lord in the 7th makes one exceedingly learned; but it opposes the ascendant, so unless other factors are strong a high education is not assured.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. XII (Mars joining the 4th lord) with chart 54",
+        "view": "When Mars joins the 4th lord the native acquires landed property and houses; Raman's chart 54 has the 4th lord in the 7th with Mars.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. VIII st. 9-10",
+        "view": "If the lords of the lagna, 9th and 4th are in the 10th, lagna or 7th with the 10th lord, the native becomes very fortunate and famous in their dasas.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, sloka 7 with notes",
+        "view": "Natural benefics owning kendras lose their beneficence and natural malefics owning kendras lose their maleficence; a planet owning both a kendra and a trikona becomes auspicious (rajayogakaraka). The commentary names Saturn as auspicious for Taurus and Libra lagna.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "BPHS renderings differ: voluntarily 'abandons' vs 'squanders' paternal wealth. Rath disputes the 'very learned' reading. Raman's text for this placement (happy, houses and lands, livelihood near or far) differs from BPHS and Charak; the assembly and inheritance lines they give here appear in Raman under the 4th lord in the lagna.",
+    "confidence": "medium",
+    "phrasing_guidance": "Emphasise learning and partnership-based home life. Present the inheritance line as a tendency to rely on own earnings rather than family assets."
+  },
+  {
+    "id": "lord_in_house/4/8",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 8
+    },
+    "summary": "Home and happiness fall into the house of upheaval: BPHS says domestic and parental comforts are reduced and vigour is low; modern readers add moves, renovation and inherited property.",
+    "themes": [
+      "domestic upheaval",
+      "parents",
+      "inherited property",
+      "transformation"
+    ],
+    "common_outcomes": [
+      "changes of residence or periods of unsettled home life",
+      "less comfort or closeness with parents",
+      "inherited or ancestral property (jagannathhora.com, practitioner site)",
+      "emotional life that restructures over time"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: weak in vigour (the Santhanam text uses a term for impotence/neuter; do not repeat)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Loss of landed property or litigation over it (Raman HTJH I); afflicted or debilitated here, deprived of lands and houses (Raman, 'Important Combinations'). Rath 7.3.2: the one exception is the Sun in Sagittarius (Taurus lagna), which gives property in foreign lands.",
+      "health": "",
+      "relationships": "",
+      "family": "Parental happiness limited (BPHS 24.44; Raman; Charak: little help from father and mother); Raman lists friction with the mother when the 4th lord is 8th from the lagna or its lord.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "exaltation: Sagittarius lagna, Jupiter in Cancer (also lagna lord)",
+      "benefic aspect (Phaladeepika 15.3)",
+      "Taurus lagna: the Sun as 4th lord in Sagittarius gives property in foreign lands (Rath, Crux 7.3.2)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Aries lagna (Moon in Scorpio) and Aquarius lagna (Venus in Virgo)",
+      "combust, debilitated or inimical with no benefic aspect: the 4th's results are spoiled (Phaladeepika 15.3)",
+      "afflicted or debilitated here: loss of lands and houses (Raman HTJH I, 'Important Combinations')",
+      "with the lagna and 9th lords also in the 8th: poverty yoga (Bhavartha Ratnakara II, Nirdhana st. 1)"
+    ],
+    "lagna_or_context_notes": "Rath (Crux 7.3.2): the 4th lord in the 8th is always bad except the Sun in Sagittarius (Taurus lagna), which gives property in foreign lands. For Sagittarius lagna Jupiter is both lagna lord and 4th lord and is exalted here.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.44 (enjoylearningsanskrit.com)",
+        "view": "Lacks home comforts, little happiness from parents, little vigour.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-44"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.44 (Santhanam-based text, archive.org)",
+        "view": "Lacks comforts and parental joy; neuter-like.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.3",
+        "view": "Bhava lord in the 8th without benefic aspect spoils the bhava.",
+        "url": "https://www.siva.sh/phaladeepika/15/1-5"
+      },
+      {
+        "source": "jagannathhora.com, 4th lord in 12 houses (practitioner site)",
+        "view": "Home transformation through moves or renovation; inherited property; legal property disputes possible.",
+        "url": "https://jagannathhora.com/4th-lord-in-12-houses-effects/"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Miserable; loose sex life or impotence; likely to lose landed property or face litigation. Important Combinations: afflicted or debilitated here, loses lands and houses; enmity with mother if the 4th lord is 8th from the lagna or its lord.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Lacks home comforts, impotent, little help from father and mother, cruel, sickly, wicked.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 7.3.1-7.3.2 (fourth lord) (p. 77)",
+        "view": "The 4th lord in the 8th is always bad except the Sun in Sagittarius, where as 4th lord it surely gives properties in foreign lands.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. II Nirdhana yogas st. 1",
+        "view": "Lords of the lagna, 4th and 9th in the 8th give poverty from birth.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS, Raman, Charak and Rath agree that this is a difficult placement for home, property and parents; Rath names one exception (Sun in Sagittarius). Renderings differ on the final term of BPHS 24.44 ('little vigour' vs 'neuter-like'), and Raman and Charak repeat the sexual line. The practitioner site adds inheritance themes not in BPHS 24.44.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of home changes and the need to build inner security. Never mention sexual capacity; avoid predictions about parents' health."
+  },
+  {
+    "id": "lord_in_house/4/9",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 9
+    },
+    "summary": "A kendra-trikona link between happiness and fortune: the person is loved, devout, virtuous, honoured and enjoys all comforts.",
+    "themes": [
+      "fortune",
+      "comforts",
+      "devotion",
+      "father",
+      "higher learning"
+    ],
+    "common_outcomes": [
+      "all-round comforts and good fortune",
+      "devout and virtuous",
+      "respected and well-liked",
+      "learning (Charak)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "Gracious, principled, proud and learned (BPHS 24.45; Charak).",
+      "career": "",
+      "finance": "All comforts (BPHS 24.45; Charak); happiness in properties (Raman HTJH I).",
+      "health": "",
+      "relationships": "",
+      "family": "Raman: happiness through the father and properties; Charak instead says little help from, and living away from, the father.",
+      "spirituality": "Devout (BPHS 24.45); worshipper of Vishnu (Charak)."
+    },
+    "strengtheners": [
+      "own sign: Leo lagna (Mars in Aries, yogakaraka) and Aquarius lagna (Venus in Libra, yogakaraka)",
+      "exaltation: Cancer lagna, Venus in Pisces",
+      "Jupiter's aspect",
+      "exchange of the 4th and 9th lords: Bhagyavahana yoga (Bhavartha Ratnakara IV st. 10)",
+      "Venus as 4th lord here (Cancer, Aquarius lagna): many conveyances (Bhavartha Ratnakara IV st. 5)",
+      "joined or aspected by Saturn: conveyances in Saturn's periods (Bhavartha Ratnakara VIII st. 7-8)",
+      "strong 4th and 9th lords aspected by Jupiter in kendras or trikonas: royal favour (Raman HTJH I, 'Important Combinations')"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction or combustion"
+    ],
+    "lagna_or_context_notes": "For Leo (Mars) and Aquarius (Venus) lagna the 4th lord also owns the 9th and sits in own sign in a trikona; Laghu Parashari (sloka 7 notes) counts a kendra-trikona lord as rajayogakaraka. For Cancer and Aquarius lagna, where Venus is 4th lord, Bhavartha Ratnakara IV st. 5 adds many conveyances.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.45 (enjoylearningsanskrit.com)",
+        "view": "Loved, devoted to the gods, virtuous, honoured, all comforts.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-45"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.45 (Santhanam-based text, archive.org)",
+        "view": "Loved, devout, virtuous, honourable, all comforts.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Generally a fortunate combination favouring happiness in regard to father and properties.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Beloved, many comforts, proud, virtuous, no help from father and stays away from him, learned, worshipper of Vishnu.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. IV st. 10",
+        "view": "Bhagyavahana yoga if the lords of the 4th and 9th interchange houses.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. IV st. 5",
+        "view": "If Venus as lord of the 4th is in the 11th, 9th or 10th, the native will possess a number of conveyances.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. VIII st. 7-8 with Raman's note",
+        "view": "Access to elephants (read by Raman as conveyances) in Saturn's periods if the 4th lord is in the 9th or 11th joined or aspected by Saturn.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Laghu Parashari (Jataka Chandrika), tr. with commentary by O.P. Verma, sloka 7 with notes",
+        "view": "Natural benefics owning kendras lose their beneficence and natural malefics owning kendras lose their maleficence; a planet owning both a kendra and a trikona becomes auspicious (rajayogakaraka). The commentary names Saturn as auspicious for Taurus and Libra lagna.",
+        "url": "https://archive.org/details/LaghuParashariOPVerma"
+      }
+    ],
+    "disagreements": "Charak's 'no help from, and living away from, the father' conflicts with Raman's happiness from the father; BPHS 24.45 is silent on the father.",
+    "confidence": "high",
+    "phrasing_guidance": "Positive: comfort, fortune and principled living."
+  },
+  {
+    "id": "lord_in_house/4/10",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 10
+    },
+    "summary": "Home and happiness support career and status: royal or government honours, expertise in chemistry or medicinal preparations (rasayana), enjoyment and self-control.",
+    "themes": [
+      "career",
+      "honours",
+      "rasayana",
+      "self-control",
+      "property work"
+    ],
+    "common_outcomes": [
+      "recognition from authorities",
+      "career success, including in public or political life (Raman, Rath)",
+      "enjoyment of comforts with self-discipline",
+      "skill in chemistry or medicinal preparations (BPHS, Raman, Charak)"
+    ],
+    "rare_outcomes": [
+      "BPHS: skill in rasayana (alchemy, chemistry or herbal/medicinal preparations)"
+    ],
+    "by_area": {
+      "personality": "Joyful and self-controlled (BPHS 24.46; Charak); makes the personality felt (Raman HTJH I).",
+      "career": "Political success and the ability to overcome rivals (Raman); honoured by rulers and skilled in rasayana or chemistry (BPHS 24.46; Raman: an expert chemist; Charak: knowledge of chemicals); professional success (Rath 7.3.1).",
+      "finance": "",
+      "health": "Very good health (Charak); not a health promise.",
+      "relationships": "",
+      "family": "Rath 7.3.1: home or mother can be unsettled, and relations between the parents strained.",
+      "spirituality": "Mastery of senses (BPHS 24.46)."
+    },
+    "strengtheners": [
+      "4th lord with the 10th lord in a kendra/kona: fine dwellings (BPHS 15.4)",
+      "dig bala for Sun/Mars in the 10th",
+      "benefic aspects",
+      "exchange of the 4th and 10th lords: lands; if both are very strong and in gopuramsa, rulership (Raman HTJH I, 'Important Combinations')",
+      "Venus as 4th lord here (Cancer, Aquarius lagna): many conveyances (Bhavartha Ratnakara IV st. 5)",
+      "lords of the lagna, 4th and 9th in the 10th with the 10th lord: very fortunate in their dasas (Bhavartha Ratnakara VIII st. 9-10)",
+      "4th lord in an upachaya (3rd, 6th, 10th, 11th) grows the 4th house, especially if vargottama or joined or aspected by a trine lord (Rath, Crux 7.3.1)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Gemini lagna, Mercury in Pisces",
+      "malefic affliction",
+      "afflicted 4th lord here: possible loss of reputation (Raman HTJH I)"
+    ],
+    "lagna_or_context_notes": "For Libra lagna the 4th lord Saturn (also 5th lord) sits in Cancer, an enemy sign; for Taurus lagna the Sun as 4th lord has directional strength here.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.46 (enjoylearningsanskrit.com)",
+        "view": "Honoured by rulers, skilled in rasayana, joyful, comfortable, self-controlled.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-46"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.46 (Santhanam-based text, archive.org)",
+        "view": "Royal honours, alchemy, pleasures, self-mastery.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 15.4, 15.12",
+        "view": "4th lord with 10th lord in kendra/kona gives fine dwellings; with exalted navamsa, vehicles.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-15"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Political success, an expert chemist, vanquishes enemies, makes the personality felt; loss of reputation if the 4th lord is afflicted. Important Combinations: exchange of 4th and 10th lords gives lands, and if very strong, rulership.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Honoured by the ruler, very good health, many comforts, self-controlled, knowledge of chemicals; father may have two wives.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 7.3.1-7.3.2 (fourth lord) (p. 77)",
+        "view": "In the 10th the 4th lord tends to make home and mother unstable and strain relations between the parents, though professional success is indicated; in an upachaya it grows the 4th house.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. IV st. 5",
+        "view": "If Venus as lord of the 4th is in the 11th, 9th or 10th, the native will possess a number of conveyances.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. VIII st. 9-10",
+        "view": "If the lords of the lagna, 9th and 4th are in the 10th, lagna or 7th with the 10th lord, the native becomes very fortunate and famous in their dasas.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS, Raman and Charak are positive (honour, chemistry, self-control); Rath adds instability at home alongside career success. Translators render rasayana as alchemy or chemistry; Raman and Charak both say chemistry.",
+    "confidence": "high",
+    "phrasing_guidance": "Positive about career recognition. Present rasayana as an aptitude for chemistry or healing preparations, not a prediction."
+  },
+  {
+    "id": "lord_in_house/4/11",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 11
+    },
+    "summary": "Home and comforts link with gains: the person is generous, virtuous and charitable, helps others and can gain through property or vehicles; BPHS adds a traditional caution about hidden ailments.",
+    "themes": [
+      "gains",
+      "generosity",
+      "charity",
+      "property income",
+      "vehicles"
+    ],
+    "common_outcomes": [
+      "gains through land, property or vehicles (Raman; BPHS 15.13)",
+      "generous and helpful",
+      "charitable nature"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: fear of a hidden or secret illness",
+      "BPHS 15.13: 4th lord with the 11th lord (or 11th lord in the 4th) brings a vehicle"
+    ],
+    "by_area": {
+      "personality": "Generous, virtuous, self-made (BPHS 24.47; Raman; Charak: talented, helpful).",
+      "career": "Success in buying and selling land and cattle (Raman HTJH I).",
+      "finance": "Gains through land trade (Raman); a vehicle when linked with the 11th lord (BPHS 15.13).",
+      "health": "BPHS (fear of hidden illness), Raman and Charak (sickly) carry traditional lines; do not make medical predictions.",
+      "relationships": "",
+      "family": "Mother fortunate (Raman); devoted to the father (Charak); Raman adds a possible step-mother (traditional).",
+      "spirituality": "Charity and helping others (BPHS 24.47; Charak)."
+    },
+    "strengtheners": [
+      "own sign: Cancer lagna (Venus in Taurus, also 11th lord) and Capricorn lagna (Mars in Scorpio, also 11th lord)",
+      "exaltation: Virgo lagna, Jupiter in Cancer",
+      "conjunction with the 11th lord (BPHS 15.13)",
+      "exchange of the 4th and 11th lords: Bhagyavahana yoga (Bhavartha Ratnakara IV st. 11)",
+      "Venus as 4th lord here (Cancer lagna, own sign): many conveyances (Bhavartha Ratnakara IV st. 5)",
+      "joined or aspected by Saturn: conveyances in Saturn's periods (Bhavartha Ratnakara VIII st. 7-8)",
+      "4th lord in an upachaya (3rd, 6th, 10th, 11th) grows the 4th house, especially if vargottama or joined or aspected by a trine lord (Rath, Crux 7.3.1)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction or combustion"
+    ],
+    "lagna_or_context_notes": "For Cancer lagna Venus, lord of the 4th and 11th, is in own sign Taurus here, which also meets Bhavartha Ratnakara IV st. 5 (Venus as 4th lord in the 11th gives many conveyances).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.47 (enjoylearningsanskrit.com)",
+        "view": "May fear hidden illness; generous, virtuous, charitable, helpful.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-47"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.47 (Santhanam-based text, archive.org)",
+        "view": "Fear of secret disease; liberal, virtuous, charitable.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 15.13",
+        "view": "11th lord in the 4th, or 4th lord with the 11th lord, gives a vehicle.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-15"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Self-made, generous, sickly; mother fortunate but there may be a step-mother; success in buying and selling cattle and lands.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Generous, helpful, talented, given to charities, sickly, devoted to father, virtuous deeds.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. IV st. 11",
+        "view": "Bhagyavahana yoga if the 4th lord is in the 11th and the 11th lord in the 4th.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. IV st. 5",
+        "view": "If Venus as lord of the 4th is in the 11th, 9th or 10th, the native will possess a number of conveyances.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. VIII st. 7-8 with Raman's note",
+        "view": "Access to elephants (read by Raman as conveyances) in Saturn's periods if the 4th lord is in the 9th or 11th joined or aspected by Saturn.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "Sources agree on generosity, charity and gains; all three (BPHS, Raman, Charak) add a health caution in different forms. Modern sources emphasise property income.",
+    "confidence": "high",
+    "phrasing_guidance": "Positive about generosity and gains. Omit the illness line or present it only as a traditional note to look after wellbeing."
+  },
+  {
+    "id": "lord_in_house/4/12",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 4,
+      "placed_in": 12
+    },
+    "summary": "Home and comforts fall into the house of loss and distance: BPHS says domestic comforts are lacking, with bad habits, foolishness and idleness; modern readers stress living away from the birthplace or abroad.",
+    "themes": [
+      "distance from home",
+      "foreign residence",
+      "loss of comfort",
+      "habits"
+    ],
+    "common_outcomes": [
+      "living away from birthplace or abroad (jagannathhora.com, practitioner site)",
+      "high home-related expenses",
+      "reduced domestic ease",
+      "need to guard against bad habits or inertia"
+    ],
+    "rare_outcomes": [
+      "BPHS traditional view: vices, foolishness and laziness"
+    ],
+    "by_area": {
+      "personality": "Can drift toward indulgence or inertia (BPHS 24.48; Charak: foolish, indolent).",
+      "career": "",
+      "finance": "Bad finances and loss of property (Raman HTJH I; 'Important Combinations': the 4th lord in a dusthana loses property); homelessness in Charak's list (traditional).",
+      "health": "",
+      "relationships": "",
+      "family": "Little domestic happiness (BPHS 24.48; Raman); Charak says the father lives in a foreign land.",
+      "spirituality": "Contemplative residence possible (jagannathhora.com, practitioner site)."
+    },
+    "strengtheners": [
+      "exaltation: Taurus lagna (Sun in Aries) and Scorpio lagna (Saturn in Libra)",
+      "benefic aspect (Phaladeepika 15.5)",
+      "strong lord: injury is slight (Phaladeepika 15.9)",
+      "Cancer lagna: Venus as 4th and 11th lord gives yoga in the 12th or 2nd (Bhavartha Ratnakara I, Karkataka st. 3)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation: Leo lagna, Mars in Cancer",
+      "malefic affliction; weak Moon",
+      "4th lord in a dusthana: loss of property and wealth (Raman HTJH I, 'Important Combinations')"
+    ],
+    "lagna_or_context_notes": "Bhavartha Ratnakara (I, Karkataka st. 3): for Cancer lagna, Venus as lord of the 4th and 11th gives yoga only in the 12th or the 2nd, so this placement is an exception for Cancer. For Taurus (Sun in Aries) and Scorpio (Saturn in Libra) lagna the 4th lord is exalted here.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.48 (enjoylearningsanskrit.com)",
+        "view": "Lacks home comforts, bad habits, foolish, lazy.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-48"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.48 (Santhanam-based text, archive.org)",
+        "view": "No comforts; vices, foolish, idle.",
+        "url": "https://archive.org/stream/ParasharaHoraSastra/BrihatParasharaHoraSastraVedicAstrologyEbook_djvu.txt"
+      },
+      {
+        "source": "Phaladeepika 15.5, 15.9",
+        "view": "Lord in a dusthana harms its bhava; strong lord limits harm.",
+        "url": "https://www.siva.sh/phaladeepika/15/1-5"
+      },
+      {
+        "source": "jagannathhora.com, 4th lord in 12 houses (practitioner site)",
+        "view": "One of the strongest indicators of foreign residence; high home expenses; contemplative residence.",
+        "url": "https://jagannathhora.com/4th-lord-in-12-houses-effects/"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. VII 'Results of the Lord of the Fourth House Occupying Different Houses' (pp. 90-91)",
+        "view": "Deprived of happiness and properties, bad finances, generally a miserable existence (with a traditional line on the mother). Important Combinations: 4th lord in a dusthana loses property.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "K.S. Charak, Elements of Vedic Astrology, ch. 'Placement of Lords of Houses': Fourth lord (pp. 234-235)",
+        "view": "Homeless, foolish, wicked, indolent; father resides in a foreign land.",
+        "url": "https://archive.org/details/elements-of-vedic-astrology-dr.-k-s-charak"
+      },
+      {
+        "source": "Bhavartha Ratnakara of Ramanujacharya (tr. B.V. Raman), ch. I Karkataka st. 3",
+        "view": "For Cancer lagna Venus causes yoga if placed in the 12th or the 2nd.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.142241"
+      }
+    ],
+    "disagreements": "BPHS, Raman and Charak are negative about home, property and character; Bhavartha Ratnakara makes an exception for Venus with Cancer lagna. Modern practitioners recast the placement as foreign residence, which BPHS 24.48 does not state; Charak puts the foreign land on the father.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of finding home away from the birthplace and building good routines. Never call the person foolish or lazy."
+  }
+]

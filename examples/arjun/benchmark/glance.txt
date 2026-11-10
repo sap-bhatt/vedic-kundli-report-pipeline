@@ -1,0 +1,149 @@
+1Chart at a glance
+
+Arjun was born with Mesha (Aries) lagna rising at 10°51'. The lagna is the zodiac sign on the eastern horizon at the moment of birth; in Parashari astrology it is the single most important reference point, because it defines the body, the temperament and the whole house structure of the chart. The lagna falls in the nakshatra (lunar mansion) Ashwini, 4th pada. The Moon was in Kumbha (Aquarius) in the nakshatra Purva Bhadrapada, 2nd pada. He was born on a Monday evening, three hours after sunset, on Krishna Pratipada, the first lunar day after the full Moon: the Moon stood almost exactly opposite the Sun (about 188° away), so it was as bright and full as the Moon can be.
+
+The chart has a clear shape. The Sun sits in its own sign Leo, in its moolatrikona zone (its "office", the strongest own-sign range), in the 5th house of intelligence and creativity. Mercury is exalted in its own sign Virgo in the 6th house of work and competition. The full Moon is in the 11th house of gains, exactly opposite the Sun, so the lords of the 4th and 5th houses look at each other across the chart. The lagna lord Mars sits in the 9th house of fortune and dharma, with Ketu, and exchanges a full aspect with Jupiter, the 9th lord, which sits with Rahu in the 3rd. Saturn, ruler of the 10th (career) and 11th (gains), is in the 2nd house of wealth and family. Venus, ruler of the 2nd and 7th, sits in the 4th house of home.
+
+No planet is retrograde (apart from the nodes, which always are), none is combust, and none is debilitated in the birth chart. Two planets are very strong by sign (the Sun and Mercury), and the lagna lord is in a trine. It is a chart of someone whose life is organised around three axes: personal effort and skill (the loaded 3rd house and the strong 6th), fortune and principle (the 9th), and gains through people and networks (the heavily aspected 11th).
+
+Rashi chart (D1), North Indian style. Houses are fixed (1st at top centre, counting anticlockwise); numbers are signs (1 = Aries ... 12 = Pisces). ↑ exalted, (MT) moolatrikona, Gk = Gulika.
+
+Navamsa chart (D9), Cancer rising. The Moon is exalted here; Mercury, exalted in D1, is debilitated in D9.
+
+Table 1. Planetary positions in the birth chart (D1)
+
+ | | Planet | Sign | Degree | Nakshatra (pada) | Nak. lord | House | Dignity | Notes
+
+ | Lagna | Aries | 10°51'33" | Ashwini (4) | Ketu | 1 | — | D9 Cancer
+
+ | Sun | Leo | 17°19'35" | Purva Phalguni (2) | Venus | 5 | Moolatrikona | 5th lord in own sign; opposite the Moon
+
+ | Moon | Aquarius | 25°32'47" | Purva Bhadrapada (2) | Jupiter | 11 | Neutral | Full (Krishna Pratipada); exalted in D9
+
+ | Mars | Sagittarius | 3°36'35" | Mula (2) | Ketu | 9 | Friend | Lagna lord; with Ketu about 5°12' away
+
+ | Mercury | Virgo | 9°56'52" | Uttara Phalguni (4) | Sun | 6 | Exalted | Own sign as well; debilitated in D9
+
+ | Jupiter | Gemini | 16°30'15" | Ardra (3) | Rahu | 3 | Enemy sign | With Rahu about 7°42' away
+
+ | Venus | Cancer | 15°03'00" | Pushya (4) | Saturn | 4 | Enemy sign | In a kendra; aspects the 10th
+
+ | Saturn | Taurus | 20°36'04" | Rohini (4) | Moon | 2 | Friend | 10th and 11th lord in the 2nd
+
+ | Rahu | Gemini | 8°48'04" | Ardra (1) | Rahu | 3 | — | Mean node; in its own nakshatra
+
+ | Ketu | Sagittarius | 8°48'04" | Mula (3) | Ketu | 9 | — | In its own nakshatra
+
+ | Gulika | Pisces | 27°06'17" | Revati (4) | Mercury | 12 | — | Sensitive point, not a planet
+
+Table 2. The twelve houses
+
+ | | House | Sign | Lord | Lord placed in | Occupants | Aspected by
+
+ | 1 Self, body | Aries | Mars | 9th, Sagittarius, friend | — | Ketu
+
+ | 2 Wealth, speech, family | Taurus | Venus | 4th, Cancer, enemy | Saturn | —
+
+ | 3 Courage, siblings, skills | Gemini | Mercury | 6th, Virgo, exalted | Jupiter, Rahu | Mars, Ketu
+
+ | 4 Home, mother, peace | Cancer | Moon | 11th, Aquarius, neutral | Venus | Mars, Saturn
+
+ | 5 Intellect, children, merit | Leo | Sun | 5th (own) | Sun | Moon, Ketu
+
+ | 6 Work, health, rivals | Virgo | Mercury | 6th (own, exalted) | Mercury | —
+
+ | 7 Partner, public | Libra | Venus | 4th, Cancer, enemy | — | Jupiter, Rahu
+
+ | 8 Depth, research, the hidden | Scorpio | Mars | 9th, Sagittarius, friend | — | Saturn
+
+ | 9 Fortune, father, dharma | Sagittarius | Jupiter | 3rd, Gemini, enemy | Mars, Ketu | Jupiter, Rahu
+
+ | 10 Career, status | Capricorn | Saturn | 2nd, Taurus, friend | — | Venus
+
+ | 11 Gains, friends, elder siblings | Aquarius | Saturn | 2nd, Taurus, friend | Moon | Sun, Jupiter, Saturn, Rahu
+
+ | 12 Expense, foreign, liberation | Pisces | Jupiter | 3rd, Gemini, enemy | (Gulika) | Mars, Mercury
+
+Table 3. Navamsa (D9) positions, Cancer lagna
+
+ | Planet | D9 sign | D9 house | Dignity in D9 | Comment
+
+ | Sun | Virgo | 3 | Neutral | Effort and skill behind the self-confidence
+
+ | Moon | Taurus | 11 | Exalted | Deep emotional resilience; the mind's promise grows with age
+
+ | Mars | Taurus | 11 | Neutral | With the exalted Moon: drive tied to gains and goals
+
+ | Mercury | Pisces | 9 | Debilitated | The D1 exaltation needs maturing; cleverness must meet wisdom
+
+ | Jupiter | Aquarius | 8 | Neutral | Inward, research-minded faith
+
+ | Venus | Scorpio | 5 | Neutral | Intense, private romantic nature
+
+ | Saturn | Cancer | 1 | Enemy | D9 7th lord in the D9 lagna: commitment taken seriously
+
+ | Rahu | Sagittarius | 6 | — | Rahu in an upachaya (growth) house of D9
+
+ | Ketu | Gemini | 12 | — | Ketu in the house of release: a quiet spiritual streak
+
+No planet is vargottama (in the same sign in D1 and D9).
+
+The six themes that define this chart
+
+A bright, opposed pair of lights. The Sun in its own sign in the 5th and the full Moon in the 11th face each other across the chart. The lords of the 4th (home, heart) and 5th (intelligence, creativity, children) are in mutual aspect, which the computation records as a Raja Yoga (combination for status). Born at full Moon, Arjun has a strong, visible emotional nature and a confident creative self, with a lifelong pull between personal expression (5th) and belonging to groups and networks (11th).
+
+Fortune and the self tied together. The lagna lord Mars sits in the 9th house, and exchanges a full aspect with Jupiter, the 9th lord. Parashara (BPHS ch. 24, v. 9) calls the lagna lord in the 9th fortunate, liked by people, devoted, skilful and eloquent. This lagna-lord/9th-lord link is a second Raja Yoga and also a Dhana (wealth) Yoga. Ketu sits right next to Mars, so the drive is principled but restless, and inclined to question inherited beliefs.
+
+A loaded 3rd house: effort, skill, communication. Jupiter (9th and 12th lord) and Rahu share the 3rd house, the house of courage, initiative, writing, media and siblings, in Mercury's sign Gemini. This forms the Guru-Chandal combination, which shapes how he relates to teachers, beliefs and conventions (see section 10). Its practical side is a strong drive to learn skills, speak, write and act on his own initiative.
+
+The strong 6th: exalted Mercury. Mercury, ruler of the 3rd and 6th, is exalted in its own sign in the 6th house. A 6th lord in the 6th forms Harsha yoga, one of the Viparita ("reversal") yogas: competition, service and problems tend to become sources of strength. It points to an analytical, precise, problem-solving mind well suited to competitive work.
+
+Career and gains held in the house of wealth. Saturn, ruler of the 10th and 11th, sits in the 2nd house of accumulated wealth, in Venus's sign Taurus. Parashara gives both the 10th lord and the 11th lord in the 2nd wealth and good qualities. Earnings follow career closely, built slowly and steadily.
+
+The Saturn chapter, and what follows it. Arjun has been running the 19-year Saturn mahadasha since January 2011, and is now (November 2026) in its Rahu sub-period, during the last phase of his first Sade Sati. The Jupiter sub-period begins on 27 June 2027 and the Mercury mahadasha on 7 January 2030. The next three years are a hinge between the effortful Saturn phase and the more skill-driven Mercury phase.
+
+Table 4. Functional roles of the planets for Aries lagna
+
+ | Planet | Houses ruled | Functional role (BPHS ch. 34) | In this chart
+
+ | Mars | 1, 8 | Lagna lord; benefic (lagna lordship outweighs the 8th) | 9th house, with Ketu; aspected by Jupiter
+
+ | Sun | 5 | Benefic (trine lord) | Own sign in the 5th: strong
+
+ | Jupiter | 9, 12 | Benefic (9th lordship dominant) | 3rd house with Rahu, enemy sign
+
+ | Moon | 4 | Neutral; depends on brightness | Full Moon in the 11th: well placed
+
+ | Saturn | 10, 11 | Malefic by rulership of the 11th, though 10th lord | 2nd house, friendly sign
+
+ | Mercury | 3, 6 | Malefic (3rd and 6th lord) | Exalted in the 6th: Harsha yoga
+
+ | Venus | 2, 7 | Malefic and maraka (2nd/7th lord) | 4th house, enemy sign
+
+Parashara's chapter on lagna-wise results (BPHS ch. 34, as given in the Sanskrit edition on enjoylearningsanskrit.com) names Saturn, Mercury and Venus as malefic for Aries and Jupiter and the Sun as auspicious, and adds that a mere association of Jupiter and Saturn does not by itself produce a yoga for this lagna. Modern lagna-wise lessons (e.g. onlinejyotish's Sun and Saturn lessons) agree that the Sun is a complete benefic for Aries and that Saturn, ruling two upachaya houses, is a functional malefic that nevertheless gives career success after hard work. The Prasna Marga rule for movable signs makes the 11th house (Aquarius) the badhaka (obstruction) house for Aries and Saturn its lord; this report gives that only moderate weight.
+
+How much does the birth time matter?
+
+The lagna at 10°51' Aries is comfortably inside the sign, so the D1 houses are secure even if the recorded time is off by half an hour or more. The divisional charts are another matter. Aries is a short-rising sign; at Chennai's latitude the ascendant moves roughly one degree every four minutes.
+
+D9 (navamsa): the Cancer navamsa runs from 10°00' to 13°20' Aries, so the D9 lagna holds if the true time lies within roughly 3 to 4 minutes earlier to about 10 minutes later. Moderately safe; readings that lean on the D9 lagna are given with some care.
+
+D10 (career): the lagna sits 1°51' into a 3° segment, so the D10 lagna changes about 7 minutes earlier or about 4 to 5 minutes later. Treated as reasonably reliable but not certain.
+
+D12 (parents): the lagna is only 0°51' past a boundary; a birth time about 3 minutes earlier would change it. D12 is not used for any firm conclusion.
+
+Dashas: depend on the Moon, which moves about half a degree an hour; a few minutes' error shifts dasha dates by only days or weeks.
+
+A few terms used throughout
+
+Kendra: angular houses 1, 4, 7, 10 (pillars of the chart). Trikona: trines 1, 5, 9 (fortune and merit). Dusthana: 6, 8, 12 (difficulty, but also service, research and release). Upachaya: 3, 6, 10, 11 (houses that improve with time and effort). Exalted / debilitated: the sign where a planet is strongest / weakest. Moolatrikona: a special strong zone within a planet's own sign. Dasha: a planetary period in the Vimshottari timing system; mahadasha is the major period, antardasha the sub-period. Dispositor: the lord of the sign a planet occupies, which "hosts" and conditions it.
+
+The dispositor chain: who is really in charge?
+
+Following each planet to the lord of its sign shows the chart's hidden chain of command. Here it splits into three groups.
+
+Mercury is the hub. Mars and Ketu sit in Jupiter's sign; Jupiter and Rahu sit in Mercury's sign; Mercury sits in its own sign. So the lagna lord, the 9th lord, both nodes and the whole 3rd–9th axis drain into exalted Mercury in the 6th. Skill, analysis, service and the ability to handle competition are the practical engine behind his fortune and his sense of self.
+
+A closed loop of Moon, Saturn and Venus. The Moon sits in Saturn's sign, Saturn in Venus's sign, and Venus in the Moon's sign. Home (4th lord Moon), career and gains (Saturn) and wealth and partnership (Venus) are bound together: what happens in one of these areas quickly echoes in the other two.
+
+The Sun stands alone. In its own sign, the Sun answers to no one. His creative intelligence and sense of personal dignity are an independent pillar, especially active in Sun periods and when transits touch Leo, as Jupiter is doing at the date of this report.

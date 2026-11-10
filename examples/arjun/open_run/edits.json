@@ -1,0 +1,296 @@
+[
+{
+"section": "personality",
+"old": "The Moon is in Aquarius, in the 11th house, in the nakshatra Purva Bhadrapada. It is your Atmakaraka, the planet with the highest degree in its sign, which stands for the soul and the core drive of a life.",
+"new": "The Moon is your Atmakaraka, which stands for the soul and the core drive of a life.",
+"reason": "Moon placement owned by Mind; Atmakaraka defined in Chart at a glance"
+},
+{
+"section": "personality",
+"old": "It is a natural benefic in your chart because it is waning and well away from the Sun, and it is exalted in your navamsa chart, which is a sign of inner steadiness. Traditional writers link the Moon in Aquarius with a noble, polite and cultured manner, and modern writers add artistic taste, a gentle temper and gratitude, with a tendency at times to hold back what you really think.",
+"new": "In your outer manner it adds a gentle temper and a tendency to hold back what you really think.",
+"reason": "Moon dignity and character owned by Mind"
+},
+{
+"section": "personality",
+"old": "Jupiter's benefic aspect on the Moon supports the good side of this nakshatra. Saturn and Rahu also aspect the Moon, so feelings can run deep and sometimes heavy.",
+"new": "Jupiter's benefic aspect on the Moon supports the good side of this nakshatra.",
+"reason": "Moon aspects owned by Mind"
+},
+{
+"section": "personality",
+"old": "The combination of the lagna lord in the 9th forms Raja Yoga, a union of kendra and trikona lords that traditionally brings rise in standing, and Dhana Yoga, a wealth combination.",
+"new": "The lagna lord in the 9th forms Raja Yoga and Dhana Yoga (see Yogas and doshas).",
+"reason": "yogas owned by Yogas and doshas"
+},
+{
+"section": "mind",
+"old": "It is close to full, about 172 degrees from the Sun, so the Moon counts as a natural benefic in this chart.",
+"new": "It is close to full, so the Moon counts as a natural benefic in this chart.",
+"reason": "Sun placement owned by Personality"
+},
+{
+"section": "mind",
+"old": "Jupiter itself sits in Gemini, its enemy sign, in the third house, so its support comes with some effort.",
+"new": "Jupiter's support comes with some effort (see Family).",
+"reason": "Jupiter placement owned by Family"
+},
+{
+"section": "mind",
+"old": "The Moon's sign lord, Saturn, sits in Taurus in the second house of money and family. Saturn is a friend in Taurus, so it is steady rather than commanding.",
+"new": "The Moon's sign lord, Saturn, is steady rather than commanding (see Finance).",
+"reason": "Saturn placement and dignity owned by Finance"
+},
+{
+"section": "mind",
+"old": "It is not combust, being about 23 degrees from the Sun, and no aspect falls on it.",
+"new": "It is not combust, and no aspect falls on it.",
+"reason": "Sun distance restated; Sun placement owned by Personality"
+},
+{
+"section": "mind",
+"old": "In the navamsa (the divisional chart used for the finer detail of life) Mercury is debilitated in Pisces.",
+"new": "In the navamsa Mercury is debilitated in Pisces.",
+"reason": "navamsa defined in Chart at a glance; term kept, definition cut"
+},
+{
+"section": "mind",
+"old": "Mercury's placement also forms what texts call a Viparita Raja yoga, which favours gain through hardship.",
+"new": "Mercury's placement also forms a Viparita Raja yoga (see Yogas and doshas).",
+"reason": "yoga owned by Yogas and doshas"
+},
+{
+"section": "mind",
+"old": "The Moon also takes part in a Kemadruma pattern, which the texts link with a sensitive and sometimes sorrowful mind. Jupiter's aspect on the Moon softens it, and its fuller meaning is covered in the yogas part of this report.",
+"new": "The Moon also takes part in a Kemadruma pattern, softened by Jupiter's aspect (see Yogas and doshas).",
+"reason": "yoga owned by Yogas and doshas"
+},
+{
+"section": "career",
+"old": "Saturn sits in Taurus in the second house, where it is a friend of its sign.",
+"new": "Saturn's placement is covered under Finance.",
+"reason": "Saturn placement owned by Finance; 10th-lord role kept in the next sentences (must-cover)"
+},
+{
+"section": "career",
+"old": "The Sun sits in Leo, its moolatrikona sign, in the fifth house of learning and creative skill.",
+"new": "Its placement is covered under Personality.",
+"reason": "Sun placement owned by Personality"
+},
+{
+"section": "career",
+"old": "No weakening factor shows. Saturn is in a friend's sign, not debilitated, and no planet aspects it. Its role is therefore sound",
+"new": "No weakening factor shows. Its role is therefore sound",
+"reason": "Saturn dignity owned by Finance"
+},
+{
+"section": "career",
+"old": "Among the chart's chara karakas (the planets ranked by degree within their signs) it has the second-highest degree.",
+"new": "Among the chara karakas it has the second-highest degree.",
+"reason": "chara karakas defined once in Chart at a glance"
+},
+{
+"section": "career",
+"old": "It sits in Aquarius in the eleventh house of gains, and it is exalted in the navamsa.",
+"new": "Its placement is covered under Mind.",
+"reason": "Moon placement owned by Mind"
+},
+{
+"section": "career",
+"old": "The navamsa (D9), a zoomed-in chart, is the classical check on livelihood.",
+"new": "The navamsa (D9) is the classical check on livelihood.",
+"reason": "navamsa defined in Chart at a glance; term kept, definition cut"
+},
+{
+"section": "career",
+"old": "Neither Venus nor Mars is strong in the navamsa, so their readings add colour rather than lead.",
+"new": "Their readings add colour rather than lead.",
+"reason": "Mars dignity owned by Personality"
+},
+{
+"section": "career",
+"old": "Mars sits in Capricorn in the D10 seventh house, where it is exalted. Mars is strong in D10 and is also the D10 tenth lord, so its periods",
+"new": "Mars, the D10 tenth lord, is strong in D10, so its periods",
+"reason": "Mars placement owned by Personality; D10 tenth lord kept (must-cover)"
+},
+{
+"section": "career",
+"old": "Mercury, exalted in the sixth house of daily work, supports a good job with capable colleagues and an interest in healing (Braha).",
+"new": "Mercury supports a good job with capable colleagues and an interest in healing (Braha).",
+"reason": "Mercury placement owned by Mind"
+},
+{
+"section": "career",
+"old": "Mercury in Virgo is skilled in writing, poetry, and fine or mechanical arts, and is disposed to serve others (Saravali).",
+"new": "Saravali links it with writing and skilled arts, and with service to others.",
+"reason": "Mercury character owned by Mind"
+},
+{
+"section": "finance",
+"old": "Venus is in an enemy sign and is pressed by the malefic glances of Mars and Saturn, so the comfort comes with some friction.",
+"new": "Venus's comfort comes with some friction (see Family).",
+"reason": "Venus placement owned by Family; Mars dignity owned by Personality"
+},
+{
+"section": "finance",
+"old": "Jupiter's benefic glance brings steady, honourable income through institutions and good work, though Jupiter sits in an enemy sign, which reduces its share.",
+"new": "Jupiter's benefic glance brings steady, honourable income through institutions and good work, though its share is reduced (see Family).",
+"reason": "Jupiter placement owned by Family"
+},
+{
+"section": "finance",
+"old": "The 5th is ruled by the Sun, placed in Leo in its moolatrikona dignity, a strong and well-supported position.",
+"new": "The 5th is ruled by the Sun, a strong and well-supported position (see Personality).",
+"reason": "Sun dignity owned by Personality"
+},
+{
+"section": "finance",
+"old": "Jupiter rules the 9th and sits in the 3rd in Gemini, an enemy sign, joined by Rahu.",
+"new": "Jupiter rules the 9th and sits in the 3rd (see Family).",
+"reason": "Jupiter placement owned by Family; 9th lordship kept"
+},
+{
+"section": "finance",
+"old": "Mars, your lagna lord, occupies the 9th in its friendly sign of Sagittarius.",
+"new": "Mars, your lagna lord, occupies the 9th (see Personality).",
+"reason": "Mars placement owned by Personality"
+},
+{
+"section": "finance",
+"old": "Yet the expense lord sits in an enemy sign and shares its place with Rahu.",
+"new": "Yet the expense lord has a harder placement (see Family).",
+"reason": "Rahu placement owned by Family"
+},
+{
+"section": "finance",
+"old": "The 11th has its lord in the 2nd, the Moon within it, and three glances reaching it, while the expense house's lord sits in an enemy sign beside Rahu.",
+"new": "The 11th has its lord in the 2nd and three glances reaching it, while the expense house's lord is less comfortable.",
+"reason": "Moon placement owned by Mind; Rahu and Jupiter placements owned by Family"
+},
+{
+"section": "finance",
+"old": "Older texts associate such pairs with affluence, and this one speaks to earnings, savings and gains together.",
+"new": "This one speaks to earnings, savings and gains together.",
+"reason": "dhana yoga owned by Yogas and doshas"
+},
+{
+"section": "health",
+"old": "Its ruler, Mars, sits in Sagittarius in the 9th house, a friendly sign and a house of fortune and faith.",
+"new": "Its ruler, Mars, sits in the 9th house (see Personality).",
+"reason": "Mars placement owned by Personality"
+},
+{
+"section": "health",
+"old": "Mercury, lord of the 6th house of daily health, sits in its own 6th house in Virgo and is exalted there.",
+"new": "Mercury, lord of the 6th house of daily health, sits in the 6th (see Mind).",
+"reason": "Mercury placement owned by Mind; 6th-house lordship kept (must-cover)"
+},
+{
+"section": "health",
+"old": "The Sun sits in a strong position in Leo, in the 5th house, and gives warmth and vigour.",
+"new": "The Sun gives warmth and vigour (see Personality).",
+"reason": "Sun placement owned by Personality"
+},
+{
+"section": "health",
+"old": "Mars, its lord, sits in the 9th, and no planets occupy the 8th.",
+"new": "No planets occupy the 8th.",
+"reason": "Mars placement owned by Personality; 8th-house lord owned by Spirituality"
+},
+{
+"section": "health",
+"old": "Its lord Jupiter sits in the 3rd house, and no planets occupy the 12th.",
+"new": "No planets occupy the 12th.",
+"reason": "Jupiter placement owned by Family; 12th-house lord owned by Spirituality"
+},
+{
+"section": "relationships",
+"old": "its lord Venus sits in the fourth house, in Cancer.",
+"new": "its lord Venus sits in the fourth house.",
+"reason": "Venus sign owned by Family; 7th lord kept (must-cover)"
+},
+{
+"section": "relationships",
+"old": "Mars sits in Sagittarius, a sign friendly to it, in the ninth house, and Jupiter's aspect supports it.",
+"new": "Mars sits in the ninth house (see Personality), and Jupiter's aspect supports it.",
+"reason": "Mars placement owned by Personality"
+},
+{
+"section": "relationships",
+"old": "The navamsa (D9) is the divisional chart the classical texts assign to the spouse",
+"new": "The navamsa (D9) is the chart the classical texts assign to the spouse",
+"reason": "navamsa defined in Chart at a glance; term kept, definition cut"
+},
+{
+"section": "relationships",
+"old": "Mars does carry softening factors, since it is the lagna lord and Jupiter aspects it, and these would cancel the dosha if it applied.",
+"new": "Softening factors on Mars would cancel the dosha if it applied.",
+"reason": "Mars dignity owned by Personality; Manglik point kept"
+},
+{
+"section": "relationships",
+"old": "Mars in Sagittarius carries a warning about rivals in the classical Brihat Jataka and in Raman.",
+"new": "Mars carries a warning about rivals in the classical Brihat Jataka and in Raman.",
+"reason": "Mars placement owned by Personality"
+},
+{
+"section": "family",
+"old": "the effect is more likely to show as self-reliance and a serious attitude toward family duties than as open conflict. Saturn sits in a friendly sign, which keeps that effect steady.",
+"new": "the effect is more likely to show as self-reliance and a serious attitude toward family duties than as open conflict.",
+"reason": "Saturn dignity owned by Finance"
+},
+{
+"section": "family",
+"old": "Your fourth house is Cancer, and its ruler, the Moon, sits in your 11th house in Aquarius.",
+"new": "Your fourth house is Cancer, and its ruler, the Moon, sits in your 11th house (see Mind).",
+"reason": "Moon placement owned by Mind"
+},
+{
+"section": "family",
+"old": "The third house is Gemini, ruled by Mercury, which sits in your 6th house in Virgo, where it is exalted.",
+"new": "The third house is Gemini, ruled by Mercury, which sits in your 6th house (see Mind).",
+"reason": "Mercury placement owned by Mind"
+},
+{
+"section": "family",
+"old": "The fifth house is Leo, ruled by the Sun, which sits in its own sign with moolatrikona strength.",
+"new": "The fifth house is Leo, ruled by the Sun (see Personality).",
+"reason": "Sun dignity owned by Personality"
+},
+{
+"section": "family",
+"old": "Mercury, the planet of learning, is exalted in the 6th, which suggests study taken on with discipline and competitive drive",
+"new": "Mercury, the planet of learning, sits in the 6th (see Mind), which suggests study taken on with discipline and competitive drive",
+"reason": "Mercury dignity owned by Mind"
+},
+{
+"section": "spirituality",
+"old": "The 9th house (Sagittarius) is ruled by Jupiter, which sits in house 3 in Gemini, its enemy sign, joined there by Rahu.",
+"new": "The 9th house (Sagittarius) is ruled by Jupiter, which sits in house 3 (see Family).",
+"reason": "Jupiter placement owned by Family"
+},
+{
+"section": "spirituality",
+"old": "Because Jupiter is in an enemy sign, its favourable side arrives with effort.",
+"new": "Its favourable side arrives with effort.",
+"reason": "Jupiter dignity owned by Family"
+},
+{
+"section": "spirituality",
+"old": "In the navamsa (D9, the divisional chart read for inner nature), the Moon is exalted in Taurus, and that sign is the karakamsha.",
+"new": "In the navamsa, the Moon is exalted in Taurus, and that sign is the karakamsha.",
+"reason": "navamsa defined in Chart at a glance; term kept, definition cut"
+},
+{
+"section": "spirituality",
+"old": "The Moon is not combust, sits 172 degrees from the Sun, and is joined by no planet.",
+"new": "The Moon is not combust and is joined by no planet.",
+"reason": "Moon dignity owned by Mind; Sun distance restated"
+},
+{
+"section": "spirituality",
+"old": "Raman describes the Moon in Aquarius as esoteric and mystical.",
+"new": "Raman describes this Moon as esoteric and mystical.",
+"reason": "Moon placement owned by Mind"
+}
+]

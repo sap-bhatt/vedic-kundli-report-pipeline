@@ -1,0 +1,142 @@
+{
+  "chart": "meera",
+  "part": "A",
+  "method_note": "Benchmark split into atomic claims (glance 48, personality 42, mind 40, career 59); covered=1, partial=0.5, missed/contradicted=0. Accuracy vs chart_data.json; groundedness vs open_run/inputs/<section>.md. Score = 0.40 cov + 0.25 acc + 0.20 grd + 0.15 tone - 5/violation.",
+  "sections": {
+    "glance": {
+      "coverage": 49.0,
+      "claims": {"total": 48, "covered": 17, "partial": 13, "missed": 18, "contradicted": 0},
+      "accuracy": 95,
+      "accuracy_notes": "All checkable facts correct (Shravana/Moon lord, 3 dusthana planets, Jupiter vargottama, Sun D9 debilitated, Mercury AK by highest degree, D9 59% / D10 33% through division, dispositor loop). Minor: Mars and Venus called 'moolatrikona' in D9 where the chart says own sign; lagna sign-change margin given as ~32 min (input value) vs benchmark ~25 min, not checkable against chart.",
+      "groundedness": 92,
+      "groundedness_notes": "~15 interpretive statements, all traceable to the input verdicts; 'promises around money need extra care' (Sun) and 'intellect works by reflection' are mild stretches.",
+      "tone": 72,
+      "tone_components": {"warmth": 3, "term_explanation": 4, "specificity": 3, "honesty_uncertainty": 4, "structure": 4},
+      "violations": 0,
+      "score": 72.5,
+      "missed_claims": [
+        {"claim": "Mars mahadasha 28 Sep 2025 - 27 Sep 2032 is running; its themes (home, property, relocation, gains)", "type": "fact", "input_had_it": true},
+        {"claim": "Rahu mahadasha (18 yrs) from 2032, Rahu beside exalted yogakaraka Venus = promising", "type": "interp", "input_had_it": false},
+        {"claim": "Mars as final dispositor and current MD lord makes 2025-2032 structural", "type": "interp", "input_had_it": true},
+        {"claim": "Seat of power = 4th-12th (home vs distance) axis via the Mars-Jupiter exchange", "type": "interp", "input_had_it": true},
+        {"claim": "Mars aspects the 7th; Manglik from lagna and Moon; Jupiter's aspect on 7th lord protects", "type": "fact", "input_had_it": true},
+        {"claim": "Navamsa lagna is Cancer", "type": "fact", "input_had_it": true},
+        {"claim": "Planet table (degrees, nakshatras, padas, nakshatra lords)", "type": "fact", "input_had_it": true},
+        {"claim": "Twelve-house table (sign, lord, placement, occupants, aspects)", "type": "fact", "input_had_it": true},
+        {"claim": "D9 positions table", "type": "fact", "input_had_it": true},
+        {"claim": "Venus is the amatyakaraka", "type": "fact", "input_had_it": true},
+        {"claim": "Birth on Krishna Ekadashi", "type": "fact", "input_had_it": false},
+        {"claim": "Birth before sunrise, so the vedic day is Saturday (Saturn's day, lagna lord)", "type": "fact", "input_had_it": false},
+        {"claim": "Mars at the Scorpio-Sagittarius gandanta junction", "type": "fact", "input_had_it": false},
+        {"claim": "Definition of the lagna as the main reference point", "type": "interp", "input_had_it": false},
+        {"claim": "BPHS 34.39 functional benefic/malefic list (Saturn alone not a killer; Mars mixed)", "type": "fact", "input_had_it": false},
+        {"claim": "D7 and D12 lagnas within ~2 min of a boundary", "type": "fact", "input_had_it": false}
+      ],
+      "contradictions": []
+    },
+    "personality": {
+      "coverage": 54.8,
+      "claims": {"total": 42, "covered": 15, "partial": 16, "missed": 11, "contradicted": 0},
+      "accuracy": 98,
+      "accuracy_notes": "All facts correct: Saturn rules 1 and 2, neutral in Sagittarius 12th; Mercury retro/combust ~6 deg, AK; Sun Aquarius enemy, 8th lord, D9 debilitated; Saturday vara, Krishna Ekadashi, Rakshasa gana; Mars-Saturn AD 2028-02-18..2029-03-29, Mars-Sun AD 2031-10-22..2032-02-27; double transit on lagna Jul-Dec 2028 (Jupiter Virgo 2028-07-25..12-28 + Saturn Aries) correct.",
+      "groundedness": 92,
+      "groundedness_notes": "Classical citations (BPHS 24.12, Rath, Saravali, Raman, Jataka Bharanam) all present in input. Stretches: 'Venus gives a practical, persistent drive'; 'intelligence ... still learning to speak carefully'.",
+      "tone": 80,
+      "tone_components": {"warmth": 4, "term_explanation": 4, "specificity": 4, "honesty_uncertainty": 4, "structure": 4},
+      "tone_notes": "Quotes Saravali as 'a man of few words' for a female native (minor slip).",
+      "violations": 0,
+      "score": 76.8,
+      "missed_claims": [
+        {"claim": "BPHS 24.97: 9th lord in lagna - fortunate, respected, learned", "type": "fact", "input_had_it": false},
+        {"claim": "BPHS 24.61: 6th lord in lagna - famous but own enemy, prone to ill-health", "type": "fact", "input_had_it": false},
+        {"claim": "Main obstacle is herself: over-work, self-criticism, taking on others' problems", "type": "interp", "input_had_it": true},
+        {"claim": "Mercury has dig bala in the lagna", "type": "fact", "input_had_it": false},
+        {"claim": "Retrograde Mercury: chesta bala, reconsidering style", "type": "interp", "input_had_it": false},
+        {"claim": "Lagna in Shravana pada 4 = Cancer navamsa: soft caring centre", "type": "fact", "input_had_it": true},
+        {"claim": "Baladi avastha table; no planet adult, four infant -> promise ripens with age", "type": "fact", "input_had_it": false},
+        {"claim": "Mars (and Jupiter) at gandanta", "type": "fact", "input_had_it": false},
+        {"claim": "Capricorn movable/initiating; makara symbol", "type": "fact", "input_had_it": false},
+        {"claim": "Often the person others bring their problems to", "type": "interp", "input_had_it": false}
+      ],
+      "contradictions": []
+    },
+    "mind": {
+      "coverage": 55.0,
+      "claims": {"total": 40, "covered": 17, "partial": 10, "missed": 13, "contradicted": 0},
+      "accuracy": 92,
+      "accuracy_notes": "Moon 51 deg from Sun, waning; Saturn ~4 deg and Mars ~10 deg away; Mercury combust ~6 deg; Sunapha by Mercury; Jupiter sign lord in 4th ruling 12th; Mars-Mercury 2029-03-29..2030-03-26 and Mars-Moon 2032-02-27..09-27 all correct. Deduction: says the Mula caution 'does not apply here' although the chart flags ganda_moola = true (the Moon is not in the gandanta degrees, but the flag stands).",
+      "groundedness": 88,
+      "groundedness_notes": "Mostly grounded (BJ 17.9, Saravali 23.58, Raman waning Moon + Saturn, Sunapha Saravali/BPHS). Stretches: 'steady judgement' added to Saravali's ministerial rank; dismissing the Mula caution while input says Trivedi calls pada 4 harmful; Ketu aspect making attention 'scatter'.",
+      "tone": 76,
+      "tone_components": {"warmth": 4, "term_explanation": 4, "specificity": 3, "honesty_uncertainty": 4, "structure": 4},
+      "tone_notes": "'Every text read describes...' is mild machinery phrasing (not counted as a violation).",
+      "violations": 0,
+      "score": 74.0,
+      "missed_claims": [
+        {"claim": "D9 Moon in own sign Cancer = navamsa lagna lord in navamsa lagna, with Rahu (a must-cover item)", "type": "fact", "input_had_it": true},
+        {"claim": "Mature inner mind strong and caring; Rahu adds an anxious, searching quality", "type": "interp", "input_had_it": true},
+        {"claim": "Mula pada 4 falls in Cancer navamsa: emotional depth, nurturing", "type": "fact", "input_had_it": true},
+        {"claim": "Mula deity Nirriti (dissolution, clearing the old)", "type": "fact", "input_had_it": true},
+        {"claim": "Jupiter sits 5th (a trine) from the Moon: philosophical safety net", "type": "fact", "input_had_it": true},
+        {"claim": "Phaladeepika's harsh Moon-in-12th reading, softened by Jupiter", "type": "interp", "input_had_it": true},
+        {"claim": "Saturn is the lagna lord, so the Moon-Saturn seriousness is part of who she is", "type": "interp", "input_had_it": true},
+        {"claim": "Chandra-Mangala yoga named", "type": "fact", "input_had_it": false},
+        {"claim": "Kemadruma absent", "type": "fact", "input_had_it": false},
+        {"claim": "Mars gandanta adds intensity", "type": "fact", "input_had_it": false},
+        {"claim": "Moon-Saturn strengths show after the early thirties", "type": "interp", "input_had_it": false},
+        {"claim": "Mula: deep transformation, tear down and rebuild; roots symbol", "type": "interp", "input_had_it": false}
+      ],
+      "contradictions": [
+        {"topic": "Ganda Moola", "benchmark": "Mula is a Ganda Moola nakshatra; pada 4 regarded as the mildest", "candidate": "your Moon sits well past that point, so that caution does not apply here", "severity": "minor"}
+      ]
+    },
+    "career": {
+      "coverage": 55.1,
+      "claims": {"total": 59, "covered": 22, "partial": 21, "missed": 16, "contradicted": 0},
+      "accuracy": 98,
+      "accuracy_notes": "All checked facts correct: Venus D9 Libra = D9 4th; 3rd is 6th from 10th; only Jupiter aspects the 10th, no Mars/Sun aspect; D10 Aries lagna, 10th Capricorn empty, Saturn D10 Aquarius 11th, Mars D10 9th, Rahu D10 8th; Phaladeepika lines (Venus/Venus, Mercury/Leo/Sun, Mars/Aries/Mars) correct; Mars-Saturn AD and both 10th-house double transits (2028-12-28..2029-03-30, 2029-10-06..2030-01-26) correct.",
+      "groundedness": 94,
+      "groundedness_notes": "Rath short-term contracts, Raman slow rise, Raman exact-aspect caveat, Raman 2nd lord in 12th (religious institutions), Braha Saturn 12th, D10 Rath rules all in input. Stretches: 'good results come through fully' for exalted Venus; Mars line 'gains with less effort' on a 12th-house Mars.",
+      "tone": 76,
+      "tone_components": {"warmth": 3, "term_explanation": 4, "specificity": 4, "honesty_uncertainty": 4, "structure": 4},
+      "violations": 0,
+      "score": 76.7,
+      "missed_claims": [
+        {"claim": "Mars-Venus AD Aug 2030 - Oct 2031 is the most promising career window of the decade", "type": "interp", "input_had_it": false},
+        {"claim": "Rahu MD from 2032 with the exalted 10th lord: ambition, visibility, larger audiences", "type": "interp", "input_had_it": false},
+        {"claim": "Career arc through past dashas (Venus MD education, Sun MD effortful entry, Moon MD relocation/partnership)", "type": "interp", "input_had_it": false},
+        {"claim": "10th from Moon (Virgo) holds Ketu; Ketu -> D9 Capricorn -> Saturn: sustained, organised technical work", "type": "fact", "input_had_it": false},
+        {"claim": "From the Moon, career = skill, precision, service, detachment from status", "type": "interp", "input_had_it": false},
+        {"claim": "D10 Jupiter in the lagna: teaching, guidance, advisory roles", "type": "fact", "input_had_it": true},
+        {"claim": "D10 Mercury with Ketu in 2nd: speech, valuation, specialised skill", "type": "fact", "input_had_it": true},
+        {"claim": "D10 Moon in 12th: behind-the-scenes, foreign or care work", "type": "fact", "input_had_it": true},
+        {"claim": "Ketu aspects the 3rd: principled, detached edge", "type": "fact", "input_had_it": true},
+        {"claim": "Gulika in the 10th: protect reputation", "type": "interp", "input_had_it": false},
+        {"claim": "Libra 10th: diplomatic, fair-minded, client- and partner-facing style", "type": "interp", "input_had_it": false},
+        {"claim": "5th lord in 3rd (BPHS 24.51): devotion to own work", "type": "fact", "input_had_it": false},
+        {"claim": "Rahu in 3rd as a good placement (daring, media, bold ventures)", "type": "interp", "input_had_it": false},
+        {"claim": "Combust Mercury: works under a respected person/institution before her own name; self-promotion roles less natural", "type": "interp", "input_had_it": false},
+        {"claim": "8-karaka variant: Rahu becomes AK, Mars stays DK", "type": "fact", "input_had_it": false}
+      ],
+      "contradictions": [
+        {"topic": "Rahu with Venus", "benchmark": "Rahu amplifies ambition, scale, media, foreign audiences (one of its better placements)", "candidate": "Venus's shared house with Rahu, which the texts count against it", "severity": "minor"},
+        {"topic": "Key career window", "benchmark": "Mars-Venus Aug 2030 - Oct 2031 is the single most promising career window", "candidate": "most area-specific stretch is Mars-Saturn, Feb 2028 - Mar 2029 (Mars-Venus not offered by the input's period list)", "severity": "moderate"},
+        {"topic": "D10 lagna lord Mars in 9th", "benchmark": "principled, mentor-led career", "candidate": "independent work, being one's own boss (Rath)", "severity": "minor"}
+      ]
+    }
+  },
+  "part_score_weighted": {"value": 74.8, "weights_benchmark_words": {"glance": 2168, "personality": 1290, "mind": 910, "career": 1564}},
+  "words": {"candidate": {"glance": 883, "personality": 1332, "mind": 823, "career": 1283, "total": 4321}, "benchmark": {"glance": 2168, "personality": 1290, "mind": 910, "career": 1564, "total": 5932}, "note": "wc -w on raw files; candidate counts include the hidden trace comment"},
+  "benchmark_errors": [
+    {"section": "career", "claim": "Moon mahadasha 'its last sub-period, Venus (Jul 2023 - Mar 2025)'", "chart": "Last Moon-MD sub-period is Sun, 2025-03-29 to 2025-09-28; Venus is the penultimate."},
+    {"section": "career", "claim": "Moon mahadasha 'running almost entirely under Saturn's Sade Sati (2014-2023)'", "chart": "Sade Sati 2014-11-02 to 2023-01-17 overlaps about 7.3 of the 10 MD years; 'almost entirely' overstates it (minor)."}
+  ],
+  "top_gaps": [
+    {"section": "glance", "gap": "No mention of the running Mars mahadasha (2025-2032), its themes, or the Rahu MD from 2032", "input_had_it": true},
+    {"section": "mind", "gap": "D9 Moon in own sign Cancer (a must-cover item) and its Rahu company omitted; Mula pada 4 / Cancer navamsa missing", "input_had_it": true},
+    {"section": "career", "gap": "Timing: Mars-Venus 2030-31 career window, Rahu MD outlook and past-dasha career arc absent (candidate leads with Mars-Saturn 2028-29)", "input_had_it": false},
+    {"section": "glance", "gap": "No planet/house/D9 tables and no partnership theme (Mars on 7th, Manglik, Jupiter protecting 7th lord); D9 lagna sign not named", "input_had_it": true},
+    {"section": "personality", "gap": "Mercury's 9th/6th lordship in the lagna (BPHS), dig bala, retro reconsidering style and the Baladi avasthas / gandanta absent", "input_had_it": false},
+    {"section": "career", "gap": "D10 Jupiter in lagna, Mercury+Ketu 2nd, Moon 12th and the 10th-from-Moon Ketu thread not used", "input_had_it": true}
+  ]
+}

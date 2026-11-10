@@ -1,0 +1,242 @@
+[
+{
+"section": "personality",
+"old": "Venus sits in Pisces, in the 3rd house, so its support works through daily life and the way you deal with people, more than through your own body.",
+"new": "Venus's support works through daily life and the way you deal with people, more than through your own body (see Family).",
+"reason": "Venus placement owned by Family"
+},
+{
+"section": "personality",
+"old": "In the navamsa (D9) the Sun is debilitated, which leans its strength toward the demanding side.",
+"new": "In the navamsa the Sun is debilitated, which leans its strength toward the demanding side.",
+"reason": "navamsa already defined in Chart at a glance; term kept, definition cut"
+},
+{
+"section": "personality",
+"old": "The Moon is in Sagittarius, in the 12th house, with Mars and Saturn. It is waning, so in this chart it counts as a natural malefic, though it is strong in the navamsa, where it is in its own sign, Cancer. Its full character is covered in the Mind section.",
+"new": "The Moon is waning, so in this chart it counts as a natural malefic. Its full character is covered in the Mind section.",
+"reason": "Moon placement owned by Mind"
+},
+{
+"section": "personality",
+"old": "Saturn, your lagna lord, sits in the 12th house, so your self is tested through spending, distance and inner work, and Jupiter's aspect on the 12th house, with Jupiter vargottama (in the same sign in the birth chart and the navamsa, here Aries), gives a steady source of help.",
+"new": "Saturn, your lagna lord, sits in the 12th house, so your self is tested through spending, distance and inner work, and Jupiter's aspect on the 12th house gives a steady source of help.",
+"reason": "Jupiter vargottama placement owned by Family"
+},
+{
+"section": "career",
+"old": "Venus sits in the third house, in Pisces, where it is exalted, the sign where a planet is at its strongest.",
+"new": "Venus, the tenth lord, sits in the third house, where it is exalted (see Family).",
+"reason": "Venus placement and dignity owned by Family"
+},
+{
+"section": "career",
+"old": "Because Venus is exalted, these good results come through fully.",
+"new": "These good results come through fully.",
+"reason": "Venus dignity owned by Family"
+},
+{
+"section": "career",
+"old": "The classical Amatyakaraka texts treat a strong Amatyakaraka in its own or exalted sign as a sign of senior advisory roles, and Venus fits that.",
+"new": "The classical Amatyakaraka texts treat a strong Amatyakaraka as a sign of senior advisory roles, and Venus fits that.",
+"reason": "Venus dignity owned by Family"
+},
+{
+"section": "career",
+"old": "Jupiter's benefic aspect on Saturn softens the picture, and Saturn's sign gives a real teaching pull: the classics link Saturn in Sagittarius with teaching, sacred learning and leading a town or group.",
+"new": "Jupiter's benefic aspect on Saturn softens the picture, and the classics link Saturn in Sagittarius with teaching, sacred learning and leading a town or group.",
+"reason": "Saturn placement owned by Personality; career meaning kept"
+},
+{
+"section": "career",
+"old": "**Mars** is friendly in its sign and moolatrikona in the navamsa, so it has real strength behind it.",
+"new": "**Mars** has real strength behind it (see Spirituality).",
+"reason": "Mars dignity owned by Spirituality"
+},
+{
+"section": "career",
+"old": "Its lagna is Aries and its tenth house is Capricorn, whose lord Saturn sits in Aquarius, the eleventh house, in moolatrikona.",
+"new": "Its lagna is Aries and its tenth house is Capricorn, ruled by Saturn.",
+"reason": "Saturn D10 placement owned by Personality"
+},
+{
+"section": "career",
+"old": "Mars is strong in the navamsa, so this line also gives its gains with less effort.",
+"new": "Mars is strong, so this line also gives its gains with less effort.",
+"reason": "Mars dignity owned by Spirituality"
+},
+{
+"section": "career",
+"old": "**Moon-based line (the tenth from the Moon is Virgo, ruled by Mercury, which sits in the navamsa Leo, ruled by the Sun):**",
+"new": "**Moon-based line (the tenth from the Moon is Virgo, ruled by Mercury):**",
+"reason": "Sun and Mercury placement owned by Personality and Mind"
+},
+{
+"section": "finance",
+"old": "There is one hopeful note: Saravali associates Saturn in Sagittarius with affluence in later life.",
+"new": "There is one hopeful note: Saravali links Saturn with affluence in later life.",
+"reason": "Saturn placement owned by Personality"
+},
+{
+"section": "finance",
+"old": "Mars rules this house and sits in the twelfth, in a friendly sign.",
+"new": "Mars rules this house, from the twelfth (see Spirituality).",
+"reason": "Mars placement owned by Spirituality"
+},
+{
+"section": "finance",
+"old": "It is strong in the navamsa, a finer chart used to judge inner strength, and Jupiter's benefic aspect supports it.",
+"new": "It is strong in the navamsa, and Jupiter's benefic aspect supports it.",
+"reason": "navamsa defined in Chart at a glance; Jupiter aspect owned by Family"
+},
+{
+"section": "finance",
+"old": "Venus rules this house from the third house, in the sign of its exaltation.",
+"new": "Venus rules this house, from the third (see Family).",
+"reason": "Venus placement owned by Family"
+},
+{
+"section": "finance",
+"old": "Venus is the yogakaraka for Capricorn, the planet that rules both a trikona and a kendra, which makes it the most supportive planet in this chart.",
+"new": "Venus is the yogakaraka for Capricorn, which makes it the most supportive planet in this chart.",
+"reason": "yogakaraka defined once in Career; Venus placement owned by Family"
+},
+{
+"section": "finance",
+"old": "Jupiter rules this house and sits in the fourth, in a friendly sign.",
+"new": "Jupiter rules this house, from the fourth (see Family).",
+"reason": "Jupiter placement owned by Family"
+},
+{
+"section": "finance",
+"old": "The strongest supports are the exalted Venus, the aspects on the ninth house, and the wealth combinations.",
+"new": "The strongest supports are Venus, the aspects on the ninth house, and the wealth combinations.",
+"reason": "Venus dignity owned by Family"
+},
+{
+"section": "health",
+"old": "Saturn sits in the 12th house, in Sagittarius, a sign neutral to it, and a lagna lord in the 12th usually gets its results with more effort than ease.",
+"new": "Saturn, the lagna lord in the 12th, usually gets its results with more effort than ease (see Personality).",
+"reason": "Saturn placement owned by Personality"
+},
+{
+"section": "health",
+"old": "The Sun sits in Aquarius in the 2nd house. That is an enemy sign for it, and it is debilitated in the navamsa (D9) chart. The Sun is a natural malefic here, so its strength is best supported by regular meals, sleep and rest.",
+"new": "The Sun is a natural malefic here (see Personality), so its strength is best supported by regular meals, sleep and rest.",
+"reason": "Sun placement owned by Personality; navamsa defined in Chart at a glance"
+},
+{
+"section": "health",
+"old": "The Moon sits in Sagittarius in the 12th house. It was waning at birth and is a natural malefic in this chart. In the D9 chart it sits in its own sign, Cancer, which steadies it.",
+"new": "The Moon was waning at birth and is a natural malefic in this chart (see Mind).",
+"reason": "Moon placement owned by Mind"
+},
+{
+"section": "health",
+"old": "Mercury is combust (close to the Sun) and retrograde.",
+"new": "Mercury is combust and retrograde (see Mind).",
+"reason": "Mercury placement owned by Mind; combust defined in Personality"
+},
+{
+"section": "relationships",
+"old": "The 7th house is Cancer, and its lord, the Moon, sits in the 12th house in Sagittarius, together with Mars and Saturn.",
+"new": "The 7th house is Cancer, and its lord, the Moon, sits in the 12th house (see Mind).",
+"reason": "7th lord is must-cover; Moon placement owned by Mind"
+},
+{
+"section": "relationships",
+"old": "In the navamsa (D9), the chart Parashara assigns to the spouse, Capricorn is the 7th house, and its lord Saturn is placed in Taurus, the 11th house of the navamsa.",
+"new": "In the navamsa, Capricorn is the 7th house, and its lord Saturn is in the 11th house of the navamsa (see Personality).",
+"reason": "navamsa defined in Chart at a glance; Saturn placement owned by Personality"
+},
+{
+"section": "relationships",
+"old": "Venus, the marriage planet, is moolatrikona in Libra in the navamsa, in its 4th house, which supports its promise in the main chart.",
+"new": "Venus, the marriage planet, is strong in the navamsa, which supports its promise in the main chart.",
+"reason": "Venus placement owned by Family"
+},
+{
+"section": "relationships",
+"old": "Mars sits in a friendly sign, Sagittarius, which softens the point.",
+"new": "Mars's placement softens the point (see Spirituality).",
+"reason": "Mars placement owned by Spirituality"
+},
+{
+"section": "family",
+"old": "Its lord, Mercury, sits in the first house in Capricorn.",
+"new": "Its lord, Mercury, sits in the first house (see Mind).",
+"reason": "Mercury placement owned by Mind"
+},
+{
+"section": "family",
+"old": "It is retrograde (moving backward in the sky) and very close to the Sun, so it is combust, meaning its light is dimmed by the Sun.",
+"new": "It is retrograde and combust (see Mind).",
+"reason": "Mercury combustion owned by Mind; combust defined in Personality"
+},
+{
+"section": "family",
+"old": "The Sun, the natural father signifier, sits in an enemy sign in the second house, so the father line carries some friction alongside its warmth.",
+"new": "The Sun, the natural father signifier, adds some friction to the father line alongside its warmth (see Personality).",
+"reason": "Sun placement owned by Personality"
+},
+{
+"section": "family",
+"old": "Jupiter, the significator of children, sits in the fourth in a friendly sign and is strong in the navamsa (the divisional chart used for marriage and deeper fortune), which supports family-centred joy.",
+"new": "Jupiter, the significator of children, sits in the fourth in a friendly sign and is strong in the navamsa, which supports family-centred joy.",
+"reason": "navamsa defined in Chart at a glance; term kept, definition cut"
+},
+{
+"section": "family",
+"old": "Mercury, the planet of reasoning, is combust, so its sharpness is softened, and learning is best built through steady, repeated practice rather than quick grasping.",
+"new": "Mercury, the planet of reasoning, is combust, so learning is best built through steady, repeated practice rather than quick grasping.",
+"reason": "Mercury combustion owned by Mind"
+},
+{
+"section": "spirituality",
+"old": "Its lord, the Sun, sits in the 2nd house in Aquarius, an enemy sign, so it works through money, family and speech.",
+"new": "Its lord, the Sun, works through money, family and speech (see Personality).",
+"reason": "Sun placement owned by Personality"
+},
+{
+"section": "spirituality",
+"old": "Mercury is retrograde and combust, only about six degrees from the Sun, so its light is dimmed and its expression turns inward.",
+"new": "Mercury is retrograde and combust, so its expression turns inward (see Mind).",
+"reason": "Mercury placement owned by Mind"
+},
+{
+"section": "spirituality",
+"old": "Venus, exalted and a yogakaraka, aspects it with a benefic aspect, so the 9th is both tested and supported.",
+"new": "Venus aspects it with a benefic aspect, so the 9th is both tested and supported (see Family).",
+"reason": "Venus dignity owned by Family"
+},
+{
+"section": "spirituality",
+"old": "Jupiter, the 12th lord, sits in the 4th house in Aries, a friendly sign.",
+"new": "Jupiter, the 12th lord, sits in the 4th house (see Family).",
+"reason": "Jupiter placement owned by Family"
+},
+{
+"section": "spirituality",
+"old": "Three planets occupy the 12th: the Moon, Mars and Saturn, all in Sagittarius.",
+"new": "Three planets occupy the 12th: the Moon, Mars and Saturn.",
+"reason": "Moon placement owned by Mind"
+},
+{
+"section": "spirituality",
+"old": "Saturn, the lagna lord, is only neutral here, not in its own sign, so the strongest form of the claim that Saturn brings success in higher consciousness does not quite apply.",
+"new": "Saturn, the lagna lord, is only neutral here, so the strongest form of the claim that Saturn brings success in higher consciousness does not quite apply.",
+"reason": "Saturn dignity owned by Personality"
+},
+{
+"section": "spirituality",
+"old": "The navamsa (D9) placement of the Atmakaraka is karakamsha, and here it is in Leo.",
+"new": "The navamsa placement of the Atmakaraka is karakamsha, and here it is in Leo.",
+"reason": "navamsa defined in Chart at a glance; term kept, definition cut"
+},
+{
+"section": "spirituality",
+"old": "Mars and Venus are both moolatrikona in the navamsa, the Moon is in its own sign there, and Jupiter is vargottama, the same sign in both the birth chart and the navamsa.",
+"new": "Mars and Venus are both strong in the navamsa, and Jupiter is vargottama.",
+"reason": "Moon, Mars, Venus and Jupiter placements owned by Mind, Spirituality, Family"
+}
+]

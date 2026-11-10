@@ -1,0 +1,1826 @@
+[
+  {
+    "id": "karaka/karakamsha_aries",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Aries"
+    },
+    "summary": "With the Atmakaraka in Aries navamsa, Jaimini and Parasara speak of trouble from rats, cats and similar small animals.",
+    "themes": [
+      "small animals",
+      "minor nuisances"
+    ],
+    "common_outcomes": [
+      "Nuisance or bites from rats, cats and similar creatures (Jaimini 1.2.2; BPHS 33.2-8; Raman art. 129)."
+    ],
+    "rare_outcomes": [
+      "Murthy ch. 6 adds possible involvement in trading animals.",
+      "B.S. Rao's first reading of Jaimini 1.2.70 and Raman art. 142: karakamsha in Aries with Ketu (B.S. Rao: with a benefic) points to moksha."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Raman art. 129: fear from cats, rats and similar creatures.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Jaimini 1.2.70 as read by B.S. Rao and Raman art. 142: Aries karakamsha with Ketu (or benefics) gives final liberation."
+    },
+    "strengtheners": [
+      "benefic aspect on the karakamsha removes the evil (BPHS 33.2-8)"
+    ],
+    "weakeners_or_cancellations": [
+      "a malefic joining increases the nuisance (BPHS 33.2-8)",
+      "BPHS 33.12: Atmakaraka in a division of Mars (Aries is Mars-ruled) is said to incline one to others' spouses"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [
+      "BPHS 33.12: AK in divisions of the Moon, Mars or Venus inclines one towards others' spouses, otherwise the contrary.",
+      "BPHS 33.19-22: Rahu and Sun in the karakamsha in a malefic's sign aspected by Jupiter - fire to a neighbouring house (Jaimini 1.2.28 via Abhyankar: fire reaches but does not burn one's own house).",
+      "Abhyankar's reading of Jaimini 1.2.70: Ketu in the 12th from the karakamsha, that 12th being Pisces, definitely gives salvation - this applies to an Aries karakamsha."
+    ],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Aries navamsa: nuisance from rats and cats at all times, more if a malefic joins.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.2",
+        "view": "First division: the person is affected by rats and cats.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.2",
+        "view": "Mesha navamsa: fears and bites of rats, cats and the like.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.70 (with notes)",
+        "view": "One reading: if Mesha or Dhanus is the karakamsa with a benefic there, the person gets moksha.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 129, 142",
+        "view": "Aries: fear from cats, rats and the like; Ketu in an Aries or Sagittarius karakamsa gives moksha.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Aries: nuisance of rats and cats, or trade in animals.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects. Jaimini 1.2.70 (kriya-chapa): B.S. Rao and Raman read it as the karakamsha itself in Aries or Sagittarius; B.S. Rao's second reading and BPHS 33.63-74 make it the 12th from the karakamsha in Aries/Sagittarius (karakamsha Taurus or Capricorn); Abhyankar reads the 12th as Pisces or Cancer.",
+    "confidence": "medium",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  },
+  {
+    "id": "karaka/karakamsha_taurus",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Taurus"
+    },
+    "summary": "With the Atmakaraka in Taurus navamsa, the texts link the native's fortunes to four-footed animals - happiness from them in Parasara, gain or trouble in the commentators.",
+    "themes": [
+      "cattle and quadrupeds",
+      "livestock"
+    ],
+    "common_outcomes": [
+      "Happiness or gain from quadrupeds such as cattle and horses (BPHS 33.2-8; B.S. Rao on 1.2.3; Murthy ch. 6)."
+    ],
+    "rare_outcomes": [
+      "Trouble from quadrupeds when the Atmakaraka is weak or afflicted (B.S. Rao on 1.2.3; Raman art. 129 lists bulls and horses under dangers)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "BPHS 33.2-8 and Murthy ch. 6: benefit through quadrupeds.",
+      "health": "Raman art. 129: dangers from bulls, horses and similar animals.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "The 12th from a Taurus karakamsha is Aries: BPHS 33.63-74 and B.S. Rao's second reading of Jaimini 1.2.70 say Ketu there, aspected by a benefic, gives final liberation."
+    },
+    "strengtheners": [
+      "benefic aspect (BPHS 33.2-8)",
+      "strong, unafflicted Atmakaraka turns the result towards gain (B.S. Rao on 1.2.3)"
+    ],
+    "weakeners_or_cancellations": [
+      "weak or afflicted Atmakaraka turns it towards trouble (B.S. Rao on 1.2.3)",
+      "BPHS 33.12: Venus-ruled division - inclination to others' spouses"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [
+      "BPHS 33.12: AK in divisions of the Moon, Mars or Venus inclines one towards others' spouses.",
+      "12th from karakamsha = Aries: Ketu there with benefic aspect gives moksha (BPHS 33.63-74; Jaimini 1.2.70, B.S. Rao second reading)."
+    ],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Taurus navamsa: happiness from quadrupeds.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.3",
+        "view": "Second division: the person is affected by quadrupeds.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.3 (with notes)",
+        "view": "Vrishabha navamsa: gains and happiness from cattle, horses, elephants; some commentators say troubles; B.S. Rao predicts trouble when the AK is weak or afflicted.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 129",
+        "view": "Taurus: bulls, horses and similar quadrupeds (listed among dangers).",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Taurus: benefit through quadruped animals.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects. Gain (BPHS, Murthy) or trouble (Raman, some commentators cited by B.S. Rao) from quadrupeds; Abhyankar leaves it neutral ('affected by').",
+    "confidence": "medium",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  },
+  {
+    "id": "karaka/karakamsha_gemini",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Gemini"
+    },
+    "summary": "With the Atmakaraka in Gemini navamsa, the texts point to skin complaints such as itch and to a tendency to put on weight.",
+    "themes": [
+      "skin",
+      "corpulence"
+    ],
+    "common_outcomes": [
+      "Itch, skin eruptions and corpulence (Jaimini 1.2.4; BPHS 33.2-8; Raman art. 129)."
+    ],
+    "rare_outcomes": [
+      "B.S. Rao on 1.2.7: since the Virgo sutra says 'like Gemini, plus fire', fire is also implied for Gemini."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Jaimini 1.2.4 and Raman art. 129: cutaneous trouble and corpulence; Murthy ch. 6: skin diseases.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic aspect (BPHS 33.2-8)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic aspect (BPHS 33.2-8)"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Gemini navamsa: affliction by itch etc.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.4",
+        "view": "Third division: itches and corpulence.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.4",
+        "view": "Mithuna: corpulence, itches and skin eruptions.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 129",
+        "view": "Gemini: frequent skin disease and a tendency to corpulence.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Gemini: skin diseases.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects.",
+    "confidence": "medium",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  },
+  {
+    "id": "karaka/karakamsha_cancer",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Cancer"
+    },
+    "summary": "With the Atmakaraka in Cancer navamsa, the texts warn of dangers from water and, in Jaimini, skin disease (leprosy in the old wording).",
+    "themes": [
+      "water",
+      "skin disease"
+    ],
+    "common_outcomes": [
+      "Danger or fear from water (Jaimini 1.2.5; BPHS 33.2-8; Murthy ch. 6)."
+    ],
+    "rare_outcomes": [
+      "Leprosy or similar skin disease (Jaimini 1.2.5; Raman art. 129)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Jaimini 1.2.5 / Raman art. 129: aquatic dangers and leprosy-type disease; B.S. Rao links it to impure water.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic aspect (BPHS 33.2-8)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic aspect (BPHS 33.2-8)",
+      "BPHS 33.12: Moon-ruled division - inclination to others' spouses"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [
+      "BPHS 33.12: AK in divisions of the Moon, Mars or Venus inclines one towards others' spouses."
+    ],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Cancer navamsa: fear from water etc.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.5",
+        "view": "Fourth division: water and leprosy.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.5",
+        "view": "Kataka: dangers from watery places and leprosy.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 129",
+        "view": "Cancer: dangers from aquatic sources and diseases like leprosy.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Cancer: danger from water.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects. BPHS mentions only water; Jaimini adds leprosy.",
+    "confidence": "medium",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  },
+  {
+    "id": "karaka/karakamsha_leo",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Leo"
+    },
+    "summary": "With the Atmakaraka in Leo navamsa, the texts speak of danger from animals - tigers in Parasara, dogs in B.S. Rao and Raman, wild beasts generally in others.",
+    "themes": [
+      "animals",
+      "beasts"
+    ],
+    "common_outcomes": [
+      "Fear or danger from wild animals or beasts (BPHS 33.2-8; Jaimini 1.2.6; Murthy ch. 6)."
+    ],
+    "rare_outcomes": [
+      "Abhyankar's reading of Jaimini 1.2.70: Ketu in the 12th from the karakamsha when that 12th is Cancer gives liberation - i.e. a Leo karakamsha."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Raman art. 129: fear from dogs and other canines.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic aspect (BPHS 33.2-8)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic aspect (BPHS 33.2-8)"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [
+      "BPHS 33.19-22: Rahu and Sun in the karakamsha in a malefic's sign (Leo is Sun-ruled) aspected by Jupiter - fire to a neighbouring house."
+    ],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Leo navamsa: fear from tigers etc.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.6",
+        "view": "Fifth division: affected by beasts.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.70",
+        "view": "Ketu in the 12th, the 12th being the twelfth or fourth division from Aries (Pisces or Cancer), definitely gives salvation.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.6",
+        "view": "Simha navamsa: troubles through dogs and canine animals.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 129",
+        "view": "Leo: fear from dogs and canines.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Leo: fear and danger from wild animals.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects. Which animal: tigers (BPHS), dogs (B.S. Rao, Raman), beasts in general (Abhyankar, Murthy).",
+    "confidence": "medium",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  },
+  {
+    "id": "karaka/karakamsha_virgo",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Virgo"
+    },
+    "summary": "With the Atmakaraka in Virgo navamsa, the texts repeat the Gemini results (itch, corpulence) and add danger from fire.",
+    "themes": [
+      "skin",
+      "fire",
+      "corpulence"
+    ],
+    "common_outcomes": [
+      "Itch, skin trouble and corpulence, plus danger from fire (Jaimini 1.2.7; BPHS 33.2-8; Raman art. 129)."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Raman art. 129: danger from fire, skin trouble, corpulence; Murthy ch. 6: itches and skin allergies.",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic aspect (BPHS 33.2-8)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic aspect (BPHS 33.2-8)"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Virgo navamsa: itch, corpulence, fire etc. cause trouble.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.7",
+        "view": "Sixth division: as for the third, and in addition fire.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.7 (with notes)",
+        "view": "Kanya: fire, itches and corpulence; the Gemini results plus fire.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 129",
+        "view": "Virgo: danger from fire, skin troubles, corpulence.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Virgo: itches and skin allergies.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects. Murthy omits fire, which the classical texts include.",
+    "confidence": "medium",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  },
+  {
+    "id": "karaka/karakamsha_libra",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Libra"
+    },
+    "summary": "With the Atmakaraka in Libra navamsa, all sources agree on trade and commerce; Parasara adds skill in making garments.",
+    "themes": [
+      "trade",
+      "commerce",
+      "crafts"
+    ],
+    "common_outcomes": [
+      "A trader or merchant; fortune through trade (Jaimini 1.2.8; BPHS 33.2-8; Murthy ch. 6)."
+    ],
+    "rare_outcomes": [
+      "Skill in making robes or garments (BPHS 33.2-8)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Trade and merchandise; B.S. Rao on 1.2.8: the kind of goods is judged from the sign, its lord and the planets joining or aspecting it.",
+      "finance": "B.S. Rao on 1.2.8: much money by merchandise.",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic aspect (BPHS 33.2-8)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic aspect (BPHS 33.2-8)",
+      "BPHS 33.12: Venus-ruled division - inclination to others' spouses"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [
+      "BPHS 33.12: AK in divisions of the Moon, Mars or Venus inclines one towards others' spouses."
+    ],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Libra navamsa: a trader, skilful in making robes etc.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.8",
+        "view": "Seventh division: fortune influenced by trade.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.8 (with notes)",
+        "view": "Thula: much money by merchandise; the goods from the sign, lord, conjunctions and aspects.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Libra: involvement in trading.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects.",
+    "confidence": "high",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  },
+  {
+    "id": "karaka/karakamsha_scorpio",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Scorpio"
+    },
+    "summary": "With the Atmakaraka in Scorpio navamsa, the texts warn of snakes and water creatures and say the infant may lack its mother's milk.",
+    "themes": [
+      "snakes and reptiles",
+      "early nourishment"
+    ],
+    "common_outcomes": [
+      "Danger or fear from snakes, reptiles and water creatures (Jaimini 1.2.9; BPHS 33.2-8; Raman art. 129)."
+    ],
+    "rare_outcomes": [
+      "Lack of mother's milk in infancy (Jaimini 1.2.9; Murthy ch. 6); BPHS words it as affliction to the mother's breasts."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Raman art. 129: fear from animals, insects and reptiles.",
+      "relationships": "",
+      "family": "Jaimini 1.2.9 / BPHS 33.2-8: the mother may be unable to nurse.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic aspect (BPHS 33.2-8)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic aspect (BPHS 33.2-8)",
+      "BPHS 33.12: Mars-ruled division - inclination to others' spouses"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [
+      "BPHS 33.12: AK in divisions of the Moon, Mars or Venus inclines one towards others' spouses.",
+      "BPHS 33.19-22: Rahu and Sun in the karakamsha in a malefic's sign aspected by Jupiter - fire to a neighbouring house."
+    ],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Scorpio navamsa: troubles from snakes etc. and affliction to the mother's breasts.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.9",
+        "view": "Eighth division: affected by water reptiles; no feeding from mother's milk.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.9",
+        "view": "Vrischika: fears from water animals and snakes; no milk from the mother.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 129",
+        "view": "Scorpio: fear from animals, insects and reptiles.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Scorpio: fear from reptiles; may be deprived of mother's milk.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects.",
+    "confidence": "medium",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  },
+  {
+    "id": "karaka/karakamsha_sagittarius",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Sagittarius"
+    },
+    "summary": "With the Atmakaraka in Sagittarius navamsa, all sources warn of falls - from vehicles, horses or heights; some read the sign as favourable for liberation when Ketu is there.",
+    "themes": [
+      "falls",
+      "vehicles",
+      "heights"
+    ],
+    "common_outcomes": [
+      "Falls from vehicles, mounts or high places (Jaimini 1.2.10; BPHS 33.2-8; Raman art. 129; Murthy ch. 6)."
+    ],
+    "rare_outcomes": [
+      "Murthy ch. 6: fond of horse riding.",
+      "Raman art. 142 and B.S. Rao's first reading of Jaimini 1.2.70: a Sagittarius karakamsha with Ketu (or a benefic) gives moksha."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Accidents from conveyances and falls (Raman art. 129); B.S. Rao includes aeroplanes as a modern extension.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Raman art. 142; Jaimini 1.2.70 (B.S. Rao first reading): moksha with Ketu here."
+    },
+    "strengtheners": [
+      "benefic aspect (BPHS 33.2-8)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic aspect (BPHS 33.2-8)"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Sagittarius navamsa: falls from heights and conveyances.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.10",
+        "view": "Ninth division: a fall from a vehicle or from a high position.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.10, 1.2.70 (with notes)",
+        "view": "Dhanus: dangers from falls from vehicles, horses, trees, houses, hills; one reading of 1.2.70 gives moksha when Dhanus is the karakamsa with a benefic.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 129, 142",
+        "view": "Sagittarius: accidents from conveyances, falls from heights; Ketu in an Aries or Sagittarius karakamsa gives moksha.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Sagittarius: vehicle accidents or falls; fond of horse riding.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects. Jaimini 1.2.70: karakamsha itself Sagittarius (B.S. Rao first reading, Raman) vs 12th from karakamsha Sagittarius (BPHS 33.63-74, B.S. Rao second reading) vs Pisces/Cancer as the 12th (Abhyankar). Abhyankar's 'fall from a higher position' can be read as loss of status as well as a physical fall.",
+    "confidence": "medium",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  },
+  {
+    "id": "karaka/karakamsha_capricorn",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Capricorn"
+    },
+    "summary": "With the Atmakaraka in Capricorn navamsa, Parasara promises gain from water creatures and sea products (conch, pearl, coral), while Jaimini's sutra speaks of trouble from aquatic creatures, birds and skin growths.",
+    "themes": [
+      "sea and water products",
+      "aquatic creatures"
+    ],
+    "common_outcomes": [
+      "Parasara: gains from water creatures and conch, pearl, coral (BPHS 33.2-8; Murthy ch. 6: gain from marine products).",
+      "Jaimini: trouble from aquatic creatures, birds or wild animals, itches and stubborn swellings (Jaimini 1.2.11; Raman art. 129)."
+    ],
+    "rare_outcomes": [
+      "Raman art. 129 adds troubles from women and spirits; B.S. Rao notes 'khechara' (sky-goers) may mean evil spirits or be read 'bhuchara' (land beasts).",
+      "The 12th from a Capricorn karakamsha is Sagittarius: Ketu there with benefic aspect gives moksha (BPHS 33.63-74; Jaimini 1.2.70, B.S. Rao second reading)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "BPHS 33.2-8: gains from water-dwelling beings and sea products.",
+      "health": "Jaimini 1.2.11: skin trouble, large wounds, glandular swellings (B.S. Rao) / incurable growths (Abhyankar).",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Ketu in the 12th (Sagittarius) with benefic aspect: moksha (BPHS 33.63-74)."
+    },
+    "strengtheners": [
+      "benefic aspect (BPHS 33.2-8)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic aspect (BPHS 33.2-8)",
+      "Raman art. 141 (Arishta yogas): karakamsha in Saturn's shadvargas or joined by Saturn, Rahu or other malefics is listed as a sign of illegitimate birth"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [
+      "BPHS 33.19-22: Rahu and Sun in the karakamsha in a malefic's sign aspected by Jupiter - fire to a neighbouring house.",
+      "12th from karakamsha = Sagittarius: Ketu there with benefic aspect - moksha (BPHS 33.63-74)."
+    ],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Capricorn navamsa: gains from water-dwelling beings and conch, pearl, coral etc.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.11",
+        "view": "Tenth division: affected by aquatic creatures, birds, planets, meteors, itches and incurable growths.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.11 (with notes)",
+        "view": "Makara: troubles from aquatic animals, fierce birds, skin disease, large wounds and glandular swellings; 'khechara' may mean evil spirits, or be read 'bhuchara' for wild land animals.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 129, 141",
+        "view": "Capricorn: troubles from fishes, whales, wild animals, women and spirits; Saturn-dominated karakamsha listed among arishta yogas.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Capricorn: gain from marine products.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects. Sharp split: BPHS and Murthy read gain from water products; Jaimini (Abhyankar, B.S. Rao) and Raman read trouble from aquatic and other creatures and skin/glandular disease.",
+    "confidence": "low",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  },
+  {
+    "id": "karaka/karakamsha_aquarius",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Aquarius"
+    },
+    "summary": "With the Atmakaraka in Aquarius navamsa, the texts associate the native with public works - building tanks, wells, gardens and rest-houses as charity.",
+    "themes": [
+      "public works",
+      "charity",
+      "water bodies"
+    ],
+    "common_outcomes": [
+      "Building tanks, wells, gardens, temples or rest-houses for public benefit (Jaimini 1.2.12; BPHS 33.2-8; B.S. Rao; Raman art. 142)."
+    ],
+    "rare_outcomes": [
+      "Raman art. 129 (health list): mental disturbance and insomnia.",
+      "Raman art. 141: karakamsha in Saturn's shadvargas or with Saturn/Rahu is listed among arishta yogas (illegitimate birth)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Murthy ch. 6: construction work related to water bodies.",
+      "finance": "",
+      "health": "Raman art. 129: mental disturbance, insomnia.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "B.S. Rao on 1.2.12: charity in the form of wells, tanks, groves, temples and dharmasalas."
+    },
+    "strengtheners": [
+      "benefic aspect (BPHS 33.2-8)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic aspect (BPHS 33.2-8)"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [
+      "BPHS 33.19-22: Rahu and Sun in the karakamsha in a malefic's sign aspected by Jupiter - fire to a neighbouring house."
+    ],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Aquarius navamsa: the native constructs tanks etc.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.12",
+        "view": "Eleventh division: affected by tanks, wells etc.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.12",
+        "view": "Kumbha: charities such as wells, tanks, groves, temples and rest-houses.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 129, 142",
+        "view": "Aquarius: mental disturbance, insomnia (health list); builds tanks, choultries and parks for public benefit (yogas).",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Aquarius: construction connected with water bodies.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects. Raman gives two readings in different articles: public works (art. 142, agreeing with the classics) and mental disturbance (art. 129, health).",
+    "confidence": "medium",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  },
+  {
+    "id": "karaka/karakamsha_pisces",
+    "layer": "karaka",
+    "key": {
+      "karakamsha": "Pisces"
+    },
+    "summary": "With the Atmakaraka in Pisces navamsa, Parasara and Jaimini point to steady righteousness and the aim of final liberation (moksha).",
+    "themes": [
+      "dharma",
+      "charity",
+      "liberation"
+    ],
+    "common_outcomes": [
+      "Firm in religion and virtuous deeds, aiming at final emancipation (Jaimini 1.2.13; BPHS 33.2-8; B.S. Rao)."
+    ],
+    "rare_outcomes": [
+      "Raman art. 129 (health list): watery diseases such as dropsy and swollen feet.",
+      "Raman art. 127: an inspirational and righteous nature; art. 142: inclined to charity."
+    ],
+    "by_area": {
+      "personality": "Raman art. 127: inspirational and righteous.",
+      "career": "",
+      "finance": "",
+      "health": "Raman art. 129: watery disease, dropsy, swelling of feet.",
+      "relationships": "",
+      "family": "",
+      "spirituality": "BPHS 33.2-8: grants final emancipation; Jaimini 1.2.13: devoted to dharma and kaivalya; Murthy ch. 6: philanthropist, attains salvation at the end."
+    },
+    "strengtheners": [
+      "benefic aspect (BPHS 33.2-8)",
+      "B.S. Rao on 1.2.13 (quoting old commentators): benefics in kendras from the karakamsha give wealth or rule; a well-placed planet next to the AK gives heaven after death"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic aspect (BPHS 33.2-8)"
+    ],
+    "lagna_or_context_notes": "The karakamsha is the navamsa sign of the Atmakaraka (7-karaka scheme in the calculator). Results are modified by the planets in and aspecting it and by the houses counted from it (BPHS ch. 33; Jaimini 1.2). Murthy ch. 6 also reads the same sign in the rasi chart.",
+    "sign_specific_rules": [],
+    "planets_in_or_aspecting": [
+      {
+        "rule": "Sun in the karakamsha: royal or government work (Jaimini 1.2.14; BPHS 33.13-18); Raman art. 136: political leadership or state service.",
+        "source": "Jaimini 1.2.14; BPHS 33.13-18; Raman art. 136"
+      },
+      {
+        "rule": "Full Moon (BPHS: more so with Venus' aspect) in the karakamsha: enjoyment and living by learning (Jaimini 1.2.15; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.15; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mars: weapons, fire, alchemy or metallurgy (Jaimini 1.2.16; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.16; BPHS 33.13-18"
+      },
+      {
+        "rule": "Strong Mercury: trade, weaving, crafts, arts; intelligent and educated (Jaimini 1.2.17; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.17; BPHS 33.13-18"
+      },
+      {
+        "rule": "Jupiter: religious rites, spiritual and Vedic learning (Jaimini 1.2.18; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.18; BPHS 33.13-18"
+      },
+      {
+        "rule": "Venus: state affairs or government service, sensuous, long-lived (Jaimini 1.2.19; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.19; BPHS 33.13-18"
+      },
+      {
+        "rule": "Saturn: livelihood by a well-known or family profession (Jaimini 1.2.20; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.20; BPHS 33.13-18"
+      },
+      {
+        "rule": "Rahu: archer, machinery or metal work, poison-cure; also a thief (Jaimini 1.2.21; BPHS 33.13-18).",
+        "source": "Jaimini 1.2.21; BPHS 33.13-18"
+      },
+      {
+        "rule": "Ketu: dealing in elephants; also a thief (Jaimini 1.2.22; BPHS 33.13-18); with Venus' aspect a performer of sacrifices, with Saturn's an ascetic or servant, with malefic aspect ear trouble (Jaimini 1.2.32-37; BPHS 33.25-29).",
+        "source": "Jaimini 1.2.22, 1.2.32-37; BPHS 33.13-18, 33.25-29"
+      },
+      {
+        "rule": "Sun and Rahu together: danger from snakes, averted by benefic aspect; in benefic vargas a poison-healer; Mars' aspect links it to fire (Jaimini 1.2.23-28; BPHS 33.19-22).",
+        "source": "Jaimini 1.2.23-28; BPHS 33.19-22"
+      },
+      {
+        "rule": "Moon in the karakamsha aspected by Venus: alchemist; by Mercury: physician (Jaimini 1.2.86-87; BPHS 33.77-84).",
+        "source": "Jaimini 1.2.86-87; BPHS 33.77-84"
+      },
+      {
+        "rule": "Benefics only in the karakamsha and the navamsa lagna, aspected by benefics: royal status; benefics in kendras/trines from it: wealth and learning; mixed influence gives mixed results (BPHS 33.9-11).",
+        "source": "BPHS 33.9-11"
+      },
+      {
+        "rule": "Sun and/or Venus aspecting the karakamsha: royal servant or ambassador (Jaimini 1.2.38; Raman art. 136).",
+        "source": "Jaimini 1.2.38; Raman art. 136"
+      },
+      {
+        "rule": "Jupiter or Moon in the karakamsha or its 5th: an author or scholar; Venus a lesser writer, Mercury lesser still (BPHS 33.41-45, 33.85-86; Raman art. 136).",
+        "source": "BPHS 33.41-45, 33.85-86; Raman art. 136"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.1 (note) and 33.2-8",
+        "view": "The karakamsa is the navamsa sign occupied by the Atmakaraka; Parasara gives a result for each sign Aries to Pisces and adds that a benefic's aspect removes the evils while a malefic's aspect does no good.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.1-13",
+        "view": "After the karakas, Jaimini takes up the division occupied by the chief significator and gives a result for each of the twelve divisions counted from Aries.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.1-13",
+        "view": "Having found the Atmakaraka, judge the results of his navamsa position; one sutra per navamsa sign, decoded by katapayadi numbers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 7.3.6",
+        "view": "The sign occupied by the Atmakaraka in the navamsa chart is the karakamsa; the navamsa can be read with it as lagna; the 12th from it shows liberation and Ketu there helps moksha.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "Karakamsa joins 'karaka' (the Atmakaraka and other chara karakas) with 'amsa' (the navamsa and other divisions); it is the seat of the real self and the first house for inner desires.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 33.2-8",
+        "view": "Pisces navamsa: the Atmakaraka grants final emancipation.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.13",
+        "view": "Twelfth division: firm in religion and aiming at emancipation.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.13 (with notes)",
+        "view": "Meena navamsa: fond of virtuous deeds and charity, residence in higher worlds or moksha.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.S. Sastri, notes to Uttara Kalamrita ch. 4",
+        "view": "Worked example: an Atmakaraka Venus at 29 degrees Scorpio falls in Pisces navamsa, which is the karakamsa lagna; judge first from Pisces in the navamsa, then from Pisces in the rasi.",
+        "url": "https://archive.org/details/kupdf.net_uttkalamrita-kalidas-ps-sastri"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 127, 129, 142",
+        "view": "Pisces karakamsa: inspirational and righteous, charitable; health list gives watery diseases.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 6",
+        "view": "Pisces: a philanthropist who attains salvation at the end.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "Which sign: BPHS, B.S. Rao, Raman, PVR and Murthy take the Atmakaraka's navamsa sign; Murthy also uses the same sign in the rasi chart ('karakamsa rasi') and notes that some read 'swamsa' as the navamsa lagna; Abhyankar's translation speaks only of the 'division occupied by' the significator, counted from Aries; Kalidasa (Uttara Kalamrita ch. 4) reads the Atmakaraka's rasi position, which P.S. Sastri rejects. Raman's health list (dropsy) differs from the classical spiritual reading.",
+    "confidence": "high",
+    "phrasing_guidance": "The sign results are old, often literal (animals, water, falls); present them as areas to be careful with or symbolic themes, never as predicted accidents or diseases. Lead with supportive themes where sources give them, and do not state illegitimacy, adultery or criminality claims to a user."
+  }
+]

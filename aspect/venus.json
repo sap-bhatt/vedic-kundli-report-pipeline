@@ -1,0 +1,1428 @@
+[
+  {
+    "id": "aspect/venus/1",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 1
+    },
+    "summary": "Venus aspecting the lagna (from the 7th) is classically linked with good looks, pleasure, comfort and wealth, and with strong attraction to the opposite sex; texts also warn of indulgence.",
+    "themes": [
+      "attractiveness",
+      "pleasure",
+      "comfort",
+      "sensuality"
+    ],
+    "common_outcomes": [
+      "handsome or attractive appearance and magnetism to the opposite sex (Saravali 34.1-7; Braha)",
+      "enjoyment of wealth and pleasures (Saravali 34.1-7; Jataka Parijata 11.43-44)",
+      "bodily well-being, as the lagna is aspected by a benefic (BPHS 12.3-4; Saravali 34.10-11)"
+    ],
+    "rare_outcomes": [
+      "Saravali 34.1-7 and Jataka Parijata 11.43-44 add attachment to courtesans or women of ill fame and a voluptuous nature",
+      "Raman (HJH vol. 2, longevity rules): when the lagna lord receives the aspect of Venus and Jupiter and is itself in a kendra, the native is long-lived (an aspect on the lagna lord, not the house)",
+      "Raman (HJH vol. 1, Sixth House, pp. 249-250): if Venus is in the lagna with the 6th lord and is aspected by Saturn, Rahu or Mars, relatives cause trouble (Venus as the aspected planet)"
+    ],
+    "by_area": {
+      "personality": "youthful, pleasure-loving, charming and attractive (Saravali 34.1-7; Braha)",
+      "career": "",
+      "finance": "happiness from wealth; opulence (Saravali 34.1-7; Jataka Parijata 11.43-44)",
+      "health": "a benefic aspect on the lagna favours bodily felicity (BPHS 12.3-4)",
+      "relationships": "strong appeal to the opposite sex; texts warn of indulgence in many relationships (Saravali 34.1-7; Jataka Parijata 11.43-44; Braha)",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus owning the lagna (Taurus or Libra rising): an aspect on its own sign confers happiness, wealth and royal favour (Saravali 34.8)",
+      "two or more planets aspecting the lagna bring happiness and wealth (Saravali 34.10-11)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus debilitated, combust or in an enemy sign (Phaladeepika 15.1)",
+      "malefic aspects on the lagna at the same time give mixed results (Phaladeepika 15.2)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 1 fully when placed in house 7. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 11 and 4, one-half from houses 9 and 5, three-quarters from houses 10 and 6; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "1 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 34.1-7, 34.8, 34.10-11 (Eng. tr., retyped edition)",
+        "view": "Venus aspecting the ascendant: many courtesans, youthful, happiness of wealth and pleasure, beautiful. A planet aspecting its own sign on the ascendant gives happiness, wealth and closeness to the king; one benefic aspecting the ascendant is auspicious.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Jataka Parijata 11.43-44 (tr. V. Subrahmanya Sastri)",
+        "view": "If Venus aspects the lagna, the native is addicted to women of ill fame, opulent and voluptuous.",
+        "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "BPHS 12.3-4 (tr. Santhanam)",
+        "view": "Bodily felicity if the ascendant is aspected by or joined with a benefic; poor health if aspected by malefics without benefic aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Venus in the 7th house'",
+        "view": "Because Venus in the 7th aspects the 1st, the person is beautiful and magnetic to the opposite sex.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 15.1-2 (tr. V. Subrahmanya Sastri)",
+        "view": "A house occupied or aspected by benefics or its own lord, free of malefic aspect, gives full good results, provided the planets are not debilitated, combust or in enemy signs; mixed influences give mixed results.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "The classical texts (Saravali, Jataka Parijata) stress indulgence and attachment to courtesans; Braha stresses beauty and magnetism without the moral warning.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of charm, a pleasant appearance and a taste for comfort and beauty; mention the texts' caution about overindulgence gently, without moral judgement."
+  },
+  {
+    "id": "aspect/venus/2",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 2
+    },
+    "summary": "Venus aspecting the 2nd (from the 8th) is read as favouring wealth; Saravali gives this from the Moon's 2nd house and Braha from the lagna.",
+    "themes": [
+      "wealth",
+      "family resources"
+    ],
+    "common_outcomes": [
+      "wealth is favoured by the benefic aspect on the 2nd (Braha, Venus in the 8th)",
+      "plenty of wealth if the 2nd from the Moon is aspected by Venus (Saravali 34.15-20)"
+    ],
+    "rare_outcomes": [
+      "Raman (HJH vol. 1, Second House, p. 85): Saturn in the 2nd aspected by Venus gives ordinary wealth",
+      "Jataka Parijata 11.57: the Moon in the 2nd aspected by Venus makes the native generous",
+      "BPHS 13.5: wealth if the 2nd lord is in a kendra and the 11th lord, in a trine from it, is aspected by or joined with Jupiter and Venus"
+    ],
+    "by_area": {
+      "personality": "generosity when Venus aspects the Moon in the 2nd (Jataka Parijata 11.57)",
+      "career": "",
+      "finance": "wealth favoured (Braha; Saravali 34.15-20, counted from the Moon)",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus owning the 2nd sign (Saravali 34.8 principle; BPHS 11.14-16)",
+      "a strong, well-placed Venus (Phaladeepika 15.1)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus as 8th or 12th lord (Braha)",
+      "malefics in or aspecting the 2nd at the same time (Phaladeepika 15.2)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 2 fully when placed in house 8. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 12 and 5, one-half from houses 10 and 6, three-quarters from houses 11 and 7; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "2 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 34.15-20 (Eng. tr., retyped edition)",
+        "view": "Should the 2nd from the Moon be aspected by Venus, plenty of wealth will be earned; the same with another benefic.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Venus in the 8th house'",
+        "view": "Wealth is favoured due to the positive aspect cast on the 2nd house.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Second House', p. 85",
+        "view": "Ordinary wealth is indicated if Saturn is in the 2nd aspected by Venus.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Jataka Parijata 11.57 (tr. Sastri)",
+        "view": "The Moon in the 2nd aspected by Venus makes one munificent.",
+        "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Phaladeepika 15.1-2 (tr. V. Subrahmanya Sastri)",
+        "view": "A house occupied or aspected by benefics or its own lord, free of malefic aspect, gives full good results, provided the planets are not debilitated, combust or in enemy signs; mixed influences give mixed results.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Saravali states the rule from the Moon, not the lagna; Braha applies it from the lagna. Keep the two reference points separate.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say the aspect tends to support income and family resources; avoid promising riches."
+  },
+  {
+    "id": "aspect/venus/3",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 3
+    },
+    "summary": "Venus aspecting the 3rd (from the 9th) is linked with artistic talent and good relations with siblings, especially sisters; one classical death verse lists Venus's link to the 3rd.",
+    "themes": [
+      "siblings",
+      "arts",
+      "effort"
+    ],
+    "common_outcomes": [
+      "artistic talent, though it may not be pursued as a career (Braha, Venus in the 9th)",
+      "pleasant, 'charmed' relations with brothers and sisters (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 14.12-13: the Moon alone in the 3rd aspected by Venus indicates younger sisters",
+      "Jataka Parijata 12.16 (sloka number partly illegible in the scan): the 3rd lord aspected by Venus and the Moon in an even sign, or aspected by a benefic, gives a long-lived, healthy younger sibling",
+      "BPHS 44.25-31: Venus in or aspecting the 3rd shows death through urinary disease [maraka: text predicts the manner of death]",
+      "Raman (HJH vol. 1, Third House, pp. 139-140, chart 57): the 3rd aspected by Mars and by Venus as 12th lord, with an afflicted 3rd lord, in a case of partial deafness"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "artistic or creative skill (Braha)",
+      "finance": "",
+      "health": "BPHS 44.25-31 ties Venus's connection with the 3rd to urinary trouble at the end of life; report only with care",
+      "relationships": "",
+      "family": "harmonious ties with siblings; sisters indicated (Braha; BPHS 14.12-13)",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus owning the 3rd (Libra or Taurus there) - Braha's example of Venus aspecting its own sign (BPHS 11.14-16)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus ruling the 12th or 6th and joined by Mars' aspect (Raman's chart example)",
+      "Venus debilitated or combust (Phaladeepika 15.1)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 3 fully when placed in house 9. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 1 and 6, one-half from houses 11 and 7, three-quarters from houses 12 and 8; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "3 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Venus in the 9th house'",
+        "view": "Venus in the 9th aspects the 3rd: talent in the fine arts and charmed relations with siblings.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "BPHS 14.12-13 (tr. Santhanam)",
+        "view": "If the Moon is alone in the 3rd aspected by male planets there will be younger brothers, while Venus's aspect denotes younger sisters.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS 44.25-31 (tr. Santhanam)",
+        "view": "Planets in or aspecting the 3rd show the manner of death; urinary disease if Venus is in or aspects the 3rd.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Jataka Parijata 12.16 (tr. Sastri; number partly illegible)",
+        "view": "The 3rd lord aspected by Venus and the Moon in an even sign, or by a benefic in a kendra or trine, gives a long-lived, happy after-born sibling.",
+        "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1, 'Concerning the Third House', pp. 139-140",
+        "view": "Chart examples where the 3rd aspected by malefics or by Venus as 12th lord, with a weak 3rd lord, goes with deafness.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, 'Drishtis--Planetary Aspects'",
+        "view": "A benefic's aspect enhances; the aspecting planet's rulership matters (9th lord very good, 8th/12th lords harmful); aspecting its own or exaltation sign helps, its fall sign harms.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Braha reads the aspect as wholly favourable for siblings and the arts; BPHS 44 uses the same link as a pointer to the manner of death, and Raman's chart shows Venus as 12th lord harming the 3rd. Functional role decides.",
+    "confidence": "medium",
+    "phrasing_guidance": "Lead with creativity and sibling harmony. Do not mention death or disease predictions to users."
+  },
+  {
+    "id": "aspect/venus/4",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 4
+    },
+    "summary": "Venus aspecting the 4th (from the 10th) is read as bringing domestic happiness, comforts, vehicles and a good bond with the mother.",
+    "themes": [
+      "home",
+      "comforts",
+      "vehicles",
+      "mother"
+    ],
+    "common_outcomes": [
+      "happiness, wealth, fine vehicles and a happy relationship with the mother (Braha, Venus in the 10th)",
+      "full residential comfort when the 4th is also occupied by its lord or the lagna lord and aspected by a benefic (BPHS 15.2)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "property and vehicles (Braha; BPHS 15.2)",
+      "health": "",
+      "relationships": "",
+      "family": "good relationship with the mother; happy home (Braha)",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "4th lord or lagna lord in the 4th as well (BPHS 15.2)",
+      "Venus owning the 4th (BPHS 11.14-16)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus as 8th or 12th lord (Braha)",
+      "Venus debilitated or combust (Phaladeepika 15.1)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 4 fully when placed in house 10. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 2 and 7, one-half from houses 12 and 8, three-quarters from houses 1 and 9; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "4 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the 4th is occupied by its own lord or by the lagna lord",
+        "polarity": "good",
+        "effects": [
+          "full comfort in housing"
+        ],
+        "source": "BPHS 15.2 (tr. Santhanam)"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Venus in the 10th house'",
+        "view": "Venus in the 10th throws its beneficial aspect on the 4th: happiness, great wealth, fine cars and a happy relationship with the mother.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "BPHS 15.2 (tr. Santhanam)",
+        "view": "Full residential comforts if the 4th is occupied by its lord or the lagna lord and aspected by a benefic.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Phaladeepika 15.1-2 (tr. V. Subrahmanya Sastri)",
+        "view": "A house occupied or aspected by benefics or its own lord, free of malefic aspect, gives full good results, provided the planets are not debilitated, combust or in enemy signs; mixed influences give mixed results.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe comfort at home and a warm family base; avoid promising property."
+  },
+  {
+    "id": "aspect/venus/5",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 5
+    },
+    "summary": "Venus aspecting the 5th (from the 11th) supports children and intelligence; Saravali adds several specific (and dated) rules on the kind of progeny.",
+    "themes": [
+      "children",
+      "intelligence",
+      "learning"
+    ],
+    "common_outcomes": [
+      "children are indicated when the 5th is aspected by a benefic (Saravali 34.25-26)",
+      "a benefic aspect on the 5th doubles the count of children (Saravali 34.27)",
+      "high intelligence, learning and enjoyment of children (Braha, Venus in the 11th)"
+    ],
+    "rare_outcomes": [
+      "Saravali 34.38: the 5th in a navamsa of Venus and aspected by Venus gives progeny through a female servant",
+      "Saravali 34.39: if the 5th has only Moon/Venus divisions and only their aspects, only daughters are born",
+      "Saravali 34.41: Mars in the 5th aspected by Jupiter or Venus limits the loss of children to the first child (Venus aspecting the planet in the 5th)",
+      "Saravali 34.36: the Sun and Moon in the 5th aspected only by Venus, in the luminaries' divisions, shows progeny by a wife already pregnant at marriage"
+    ],
+    "by_area": {
+      "personality": "intelligent and learned (Braha)",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "children indicated; Saravali links Venus's aspect with daughters (Saravali 34.25-27, 34.39)",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus owning the 5th (BPHS 11.14-16)",
+      "the 5th also in a benefic sign or holding Jupiter's divisions (Saravali 34.25-26)"
+    ],
+    "weakeners_or_cancellations": [
+      "a malefic sign on the 5th with malefic aspect makes progeny difficult (Saravali 34.27, 34.37)",
+      "Venus as 8th or 12th lord (Braha)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 5 fully when placed in house 11. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 3 and 8, one-half from houses 1 and 9, three-quarters from houses 2 and 10; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "5 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 34.25-27, 34.36-41 (Eng. tr., retyped edition)",
+        "view": "Benefic occupation or aspect of the 5th gives children and doubles their number; Venus/Moon aspects and divisions point to daughters; various special progeny rules.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology, 'Venus in the 11th house'",
+        "view": "By the beneficial aspect Venus casts on the 5th, the person is highly intelligent and learned and enjoys his children.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 15.1-2 (tr. V. Subrahmanya Sastri)",
+        "view": "A house occupied or aspected by benefics or its own lord, free of malefic aspect, gives full good results, provided the planets are not debilitated, combust or in enemy signs; mixed influences give mixed results.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of creativity, learning and joy from children; never predict the sex, number or circumstances of children."
+  },
+  {
+    "id": "aspect/venus/6",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 6
+    },
+    "summary": "A benefic aspect on the 6th (Venus from the 12th) is classically said to remove fear from enemies; no Venus-specific result was found.",
+    "themes": [
+      "enemies",
+      "disputes"
+    ],
+    "common_outcomes": [
+      "occupation or aspect of benefics on the 6th keeps one free from fear of enemies (Saravali 34.43-44; Jataka Parijata 13.72)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "fewer troubles from opponents (Saravali 34.43-44; Jataka Parijata 13.72)",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus owning the 6th (BPHS 11.14-16 principle)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus as 8th or 12th lord (Braha)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 6 fully when placed in house 12. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 4 and 9, one-half from houses 2 and 10, three-quarters from houses 3 and 11; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "6 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 34.43-44 (Eng. tr., retyped edition)",
+        "view": "If the 6th is aspected by Saturn and occupied by Mars there is fear from enemies; occupation or aspect of benefics keeps one free of such fear.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Jataka Parijata 13.72 (tr. Sastri)",
+        "view": "If the 6th is aspected or occupied by benefics there is no danger from enemies; malefic aspect or occupation brings much danger.",
+        "url": "https://archive.org/details/JatakaParijataVolIIOfIIByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Say the aspect tends to soften conflicts; keep it general."
+  },
+  {
+    "id": "aspect/venus/7",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 7
+    },
+    "summary": "Venus aspecting the 7th (from the lagna) shapes the spouse after Venus and counts toward the number of partners in Saravali; Raman warns it helps little when Venus is a functional malefic.",
+    "themes": [
+      "marriage",
+      "spouse",
+      "partnerships"
+    ],
+    "common_outcomes": [
+      "a spouse resembling the nature of the aspecting planet and sign (Saravali 34.45)",
+      "Venus related to the 7th gives a bride of the same community (Saravali 34.49)"
+    ],
+    "rare_outcomes": [
+      "Saravali 34.47: the number of wives corresponds to the number of planets aspecting the 7th",
+      "Saravali 34.49 (citing Ketumalacharya): Venus and the Moon related to the 7th cause relations with courtesans",
+      "BPHS 18.6: the 7th lord in a sign of Saturn or Venus and aspected by a benefic gives many wives (aspect on the 7th lord)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "the spouse's nature takes Venus's colour; texts also link it to more than one relationship (Saravali 34.45-49)",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus owning the 7th (Aries or Scorpio lagna has Venus as 7th lord) - aspect on its own sign (BPHS 11.14-16)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus a functional malefic for the lagna - e.g. Sagittarius lagna, where Raman says Venus's aspect on the 7th is 'not very helpful' (HJH vol. 2)",
+      "Venus as 8th or 12th lord (Braha)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 7 fully when placed in house 1. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 5 and 10, one-half from houses 3 and 11, three-quarters from houses 4 and 12; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "7 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: Venus is a functional malefic for the lagna (Raman's example: Sagittarius lagna, Venus ruling the 6th and 11th)",
+        "polarity": "bad",
+        "effects": [
+          "Venus's aspect on the 7th does not help marriage much"
+        ],
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2, 'Concerning the Seventh House', pp. 42-43"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 34.45-49 (Eng. tr., retyped edition)",
+        "view": "Jupiter, Moon, Venus or Mercury in or aspecting the 7th gives a wife matching the planet and sign; number of wives by the aspecting bodies; Venus related to the 7th gives a bride of the same caste, and per Ketumalacharya relations with courtesans.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2, 'Concerning the Seventh House', pp. 42-43",
+        "view": "Chart discussion: the aspect of Venus on the 7th is not very helpful since Venus is a functional malefic for Sagittarius ascendant.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, 'Drishtis--Planetary Aspects'",
+        "view": "A benefic's aspect enhances; the aspecting planet's rulership matters (9th lord very good, 8th/12th lords harmful); aspecting its own or exaltation sign helps, its fall sign harms.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali treats Venus's link to the 7th as favourable for the type of spouse but also as a sign of plural relations; Raman makes the result depend on Venus's functional role for the lagna.",
+    "confidence": "medium",
+    "phrasing_guidance": "Focus on affection, charm and harmony in partnership; never predict the number of marriages or infidelity."
+  },
+  {
+    "id": "aspect/venus/8",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 8
+    },
+    "summary": "No Venus-specific result for an aspect on the 8th was found; Phaladeepika lists any planet aspecting the 8th among those that can harm a house in its dasha.",
+    "themes": [
+      "longevity",
+      "hidden matters"
+    ],
+    "common_outcomes": [],
+    "rare_outcomes": [
+      "Phaladeepika 15.8: the planet aspecting the 8th is among those that harm the matters of a house during its own dasha (a general rule, not specific to Venus)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus owning the 8th (BPHS 11.14-16 principle)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus as 12th lord (Braha)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 8 fully when placed in house 2. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 6 and 11, one-half from houses 4 and 12, three-quarters from houses 5 and 1; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "8 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: during the dasha of the planet aspecting the 8th house",
+        "polarity": "bad",
+        "effects": [
+          "the house under study can suffer during that dasha"
+        ],
+        "source": "Phaladeepika 15.8 (tr. Sastri)"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Phaladeepika 15.8 (tr. Sastri)",
+        "view": "The 3rd lord from lagna and Moon, the occupant and the aspecting planet of the 8th, Saturn, the 22nd drekkana lord and others cause destruction of a house in their dashas.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Keep it neutral; do not speak of longevity."
+  },
+  {
+    "id": "aspect/venus/9",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 9
+    },
+    "summary": "Venus aspecting the 9th (from the 3rd) gives luck when Venus is strong; Saravali says fortune comes away from home unless the aspecting planet owns the 9th.",
+    "themes": [
+      "fortune",
+      "dharma",
+      "father",
+      "travel"
+    ],
+    "common_outcomes": [
+      "a strong planet giving its full aspect to the 9th from the 3rd makes one very lucky (Saravali 32.5)",
+      "if the aspecting planet is not the 9th lord, fortune rises away from one's own country (Saravali 32.4)"
+    ],
+    "rare_outcomes": [
+      "Saravali 32.6-7: Jupiter in the 9th aspected by Venus gives cattle, vehicles and wealth",
+      "Saravali 32.8-22: Jupiter in the 9th jointly aspected by Venus and the Sun gives a festive, sociable nature with cattle; with the Moon great riches and dutifulness (also attachment to others' wives and no sons); with Mars wealth, learning, skill and life abroad; with Mercury an artisan who is virtuous, learned and fortunate"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "luck and resources when Venus is strong (Saravali 32.5-7)",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "a benefic aspect makes the 9th more auspicious (Saravali 32.26-27)"
+    },
+    "strengtheners": [
+      "Venus strong (Saravali 32.5)",
+      "Venus owning the 9th: fortune in one's own country (Saravali 32.4)",
+      "Venus as 9th lord (Braha)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus debilitated or combust (Phaladeepika 15.1)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 9 fully when placed in house 3. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 7 and 12, one-half from houses 5 and 1, three-quarters from houses 6 and 2; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "fortune made in one's own country"
+        ],
+        "source": "Saravali 32.4"
+      },
+      {
+        "when": "not (9 in md_rules)",
+        "polarity": "mixed",
+        "effects": [
+          "fortune dawns away from one's own country"
+        ],
+        "source": "Saravali 32.4"
+      },
+      {
+        "when": "manual: Venus is strong and aspects the 9th fully from the 3rd",
+        "polarity": "good",
+        "effects": [
+          "exceptional good fortune"
+        ],
+        "source": "Saravali 32.5"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 32.4-7, 32.8-22, 32.26-27 (Eng. tr., retyped edition)",
+        "view": "9th aspected by its own lord: fortune at home; by others: elsewhere. Strong full aspect on the 9th from the 3rd, 5th or lagna: very lucky. Results for Jupiter in the 9th aspected by Venus singly and jointly.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Phaladeepika 15.1-2 (tr. V. Subrahmanya Sastri)",
+        "view": "A house occupied or aspected by benefics or its own lord, free of malefic aspect, gives full good results, provided the planets are not debilitated, combust or in enemy signs; mixed influences give mixed results.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of supportive luck and opportunities, possibly through travel; avoid certainty."
+  },
+  {
+    "id": "aspect/venus/10",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 10
+    },
+    "summary": "Saravali gives benefic aspects on the 10th (from the Moon) as making career results favourable; no Venus-specific result from the lagna was found.",
+    "themes": [
+      "career",
+      "status"
+    ],
+    "common_outcomes": [
+      "benefic aspects on the 10th from the Moon bring out the good career results (Saravali 33.63)"
+    ],
+    "rare_outcomes": [
+      "Saravali 33.62: malefics in the 10th from the Moon aspected by benefics give a doctor, priest, astrologer, or one given to cheating"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "career results come out well under benefic aspect (Saravali 33.63, from the Moon)",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus owning the 10th (BPHS 11.14-16 principle)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus as 8th or 12th lord (Braha)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 10 fully when placed in house 4. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 8 and 1, one-half from houses 6 and 2, three-quarters from houses 7 and 3; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "10 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 33.62-63 (Eng. tr., retyped edition)",
+        "view": "Effects of the 10th reveal beneficially if benefics aspect the 10th from the Moon; malefic aspects spoil them. Malefics in the 10th from the Moon aspected by benefics: doctor, purohit, astrologer or cheat.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "Saravali's rule is stated from the Moon, not the lagna.",
+    "confidence": "low",
+    "phrasing_guidance": "Keep general: a pleasant, cooperative working environment."
+  },
+  {
+    "id": "aspect/venus/11",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 11
+    },
+    "summary": "Venus connected with the 11th (by aspect, ownership or divisions) gives gains through Venusian things - travel, pearls, silver, and in the text courtesans; benefic aspect increases gains.",
+    "themes": [
+      "gains",
+      "income",
+      "luxury goods"
+    ],
+    "common_outcomes": [
+      "gains through travel, pearls and silver (Saravali 34.63)",
+      "benefic aspect on the 11th increases its gains (Saravali 34.65)"
+    ],
+    "rare_outcomes": [
+      "Saravali 34.63: gains through connections with courtesans",
+      "Saravali 34.66: if all planets aspect the 11th, wealth comes in many ways"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "income through Venus-ruled trades and goods (Saravali 34.63, 34.65)",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus exalted: full results (Saravali 34.67)",
+      "Venus owning the 11th (BPHS 11.14-16 principle)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus in own or friendly sign gives half, inimical sign a quarter, combust very little (Saravali 34.67)",
+      "malefic influence on the 11th reduces the results (Saravali 34.65)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 11 fully when placed in house 5. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 9 and 2, one-half from houses 7 and 3, three-quarters from houses 8 and 4; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "11 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "md_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "full gains"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_dignity in ['own', 'friend']",
+        "polarity": "mixed",
+        "effects": [
+          "half the gains"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_dignity == 'enemy'",
+        "polarity": "bad",
+        "effects": [
+          "one quarter of the gains"
+        ],
+        "source": "Saravali 34.67"
+      },
+      {
+        "when": "md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "very meagre gains"
+        ],
+        "source": "Saravali 34.67"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali 34.58, 34.63, 34.65-67 (Eng. tr., retyped edition)",
+        "view": "A planet in, aspecting or owning the 11th (or its divisions so connected) gives gains of its nature; Venus: prostitutes, travels, pearls, silver. Benefic aspect increases, malefic decreases; dignity scales results.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of income from creative, luxury or travel-related work; leave out the courtesan reading."
+  },
+  {
+    "id": "aspect/venus/12",
+    "layer": "aspect",
+    "key": {
+      "planet": "Venus",
+      "house": 12
+    },
+    "summary": "No source read gives a specific result for Venus aspecting the 12th; only the general rule that a benefic's aspect helps a house applies.",
+    "themes": [
+      "expenses",
+      "losses",
+      "retreat"
+    ],
+    "common_outcomes": [
+      "general rule only: a house aspected by a benefic, free of malefic aspect, gives good results (Phaladeepika 15.1; BPHS 11.14-16)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus owning the 12th (BPHS 11.14-16 principle)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus debilitated or combust (Phaladeepika 15.1)"
+    ],
+    "lagna_or_context_notes": "Venus has only the full 7th-house aspect, so it aspects house 12 fully when placed in house 6. Classical partial aspects (BPHS 26.2-5, Brihat Jataka 2.13, Phaladeepika 2.23): one-quarter from houses 10 and 3, one-half from houses 8 and 4, three-quarters from houses 9 and 5; Braha says practising astrologers ignore these partial aspects and the calculator uses only the full 7th. As a natural benefic, Venus's aspect is classed as helpful (Phaladeepika 15.1, BPHS 11.14-16), but its functional role for the lagna changes this (Raman, Braha).",
+    "conditional_results": [
+      {
+        "when": "12 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "Venus aspects its own sign: the house is protected and its matters flourish"
+        ],
+        "source": "BPHS 11.14-16 (tr. Santhanam: a house aspected by its own lord prospers); Saravali 34.8 (for the lagna)"
+      },
+      {
+        "when": "md_dignity in ['debilitated', 'enemy'] or md_combust == true",
+        "polarity": "bad",
+        "effects": [
+          "the good results of a benefic aspect are not assured"
+        ],
+        "source": "Phaladeepika 15.1 (tr. Sastri)"
+      },
+      {
+        "when": "8 in md_rules or 12 in md_rules",
+        "polarity": "bad",
+        "effects": [
+          "an aspect from the 8th or 12th lord brings loss, destruction and misery to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "an aspect from the 9th lord gives strongly positive and spiritual energy to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's exaltation sign (Pisces)",
+        "polarity": "good",
+        "effects": [
+          "extra benefit to the house"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      },
+      {
+        "when": "manual: the aspected sign is Venus's debilitation sign (Virgo)",
+        "polarity": "bad",
+        "effects": [
+          "the aspect can do harm instead of good"
+        ],
+        "source": "Braha, Ancient Hindu Astrology, 'Drishtis--Planetary Aspects'"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS 26.2-5 (tr. Santhanam); verse 4 at enjoylearningsanskrit",
+        "view": "All planets aspect the 7th fully; partial aspects grow by quarters (3rd/10th 1/4, 5th/9th 1/2, 4th/8th 3/4); results are in proportion to the aspect.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Phaladeepika 15.1-2 (tr. V. Subrahmanya Sastri)",
+        "view": "A house occupied or aspected by benefics or its own lord, free of malefic aspect, gives full good results, provided the planets are not debilitated, combust or in enemy signs; mixed influences give mixed results.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Keep it general; do not invent specific results."
+  }
+]

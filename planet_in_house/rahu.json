@@ -1,0 +1,1249 @@
+[
+  {
+    "id": "planet_in_house/rahu/1",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 1
+    },
+    "summary": "Rahu in the lagna gives a strong, unusual, self-driven personality with worldly drive and resilience against rivals, but classical texts warn of health weakness, especially of the head and face, and modern authors of unsettled marriage and self-image.",
+    "themes": [
+      "strong will and ambition",
+      "unusual personality",
+      "health of head and body",
+      "marriage axis (Ketu in 7th)"
+    ],
+    "common_outcomes": [
+      "Strength, power or wealth (Phaladeepika 8.25; Braha; Foss name 64 'tremendous power')",
+      "Overcomes enemies or competitors (Chamatkar Chintamani via Bhrigu Sutras; Braha)",
+      "Health that is hard to diagnose or treat conventionally; head and face complaints (Phaladeepika 8.25; Raman HJH; Braha)",
+      "Odd, eccentric or out-of-the-ordinary personality, interest in the occult (Raman HJH; Braha)"
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 8.25: a short life despite wealth and strength",
+      "Bhrigu Sutras 1-4: in Aries, Taurus or Cancer, kind-hearted and fond of enjoyments; aspected by a malefic, marks on the face",
+      "Chamatkar Chintamani (via Bhrigu Sutras): remains under others' influence and stays detached despite many marriages",
+      "Braha: often gives striking good looks"
+    ],
+    "by_area": {
+      "personality": "Wilful, with a 'hypocritical super-consciousness' towards others; odd and eccentric (Raman HJH); big ego with fragile confidence and a lifelong struggle for self-acceptance (Braha); obliging, sympathetic and courageous (Hindu Predictive Astrology).",
+      "career": "",
+      "finance": "Wealthy (Phaladeepika 8.25; Braha).",
+      "health": "Diseases of the head and face (Phaladeepika 8.25); health generally unsatisfactory, calling for non-medical remedies (Raman HJH); illness from upset emotions, hard to diagnose (Braha).",
+      "relationships": "Usually bad for marriage (Raman HJH); constant ups and downs in married life; spouse may be spiritual or devious (Braha).",
+      "family": "",
+      "spirituality": "Inclines one to the occult (Raman HJH); inclined to spiritual or occult subjects (Braha)."
+    },
+    "strengtheners": [
+      "Rahu in Aries, Taurus or Cancer in the lagna: protects from the evils of the chart (Saravali 12.10-11); with benefic aspect 'no evil exists' (Garga Hora GP 25; Raman HJH)",
+      "Rahu in Gemini or Virgo: honour, fame, leadership (Braha); Foss reports a text saying Rahu in Gemini in the 1st removes all afflictions",
+      "Rahu in a kendra connected with a kendra/trikona lord becomes a yogakaraka (Phaladeepika 20, sl. ~52); in a kendra or trikona Rahu is said to lead to religious sacrifices (BPHS 21.3)"
+    ],
+    "weakeners_or_cancellations": [
+      "Rahu in Cancer or Leo heightens the negatives (Braha) — note this conflicts with Saravali's listing of Cancer as protective",
+      "Rahu aspected by a malefic: facial marks (Bhrigu Sutras 1-4)",
+      "Rahu or Ketu in the lagna while the lagna lord is in the 6th, 8th or 12th: bodily trouble in the lagna lord's dasa (Jataka Parijata 11.31)"
+    ],
+    "lagna_or_context_notes": "Ketu is always in the 7th, so marriage readings must include Ketu in 7. Raman HJH: Rahu here 'partakes of the characteristics of Saturn' (cf. Phaladeepika 8.34). Braha says Rahu gives its full effects around the 42nd year. Node dignity is disputed: Raman (Hindu Predictive Astrology) gives Rahu's exaltation as Taurus, while Braha says the only placements agreed upon are Mercury's signs Gemini and Virgo and treats Cancer and Leo as weak for the nodes.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.25 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Short-lived but wealthy and strong; suffers diseases of the head and face.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 1-4 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 1st: the spouse may lose a pregnancy; in Aries, Taurus or Cancer, kind-hearted and fond of enjoyment; aspected by a malefic, marks on the face. (The Sutras give one result for either node.)",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 1st (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Destroys the power of enemies, remains under others' influence, stays detached despite many wives.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 12.10-11 (tr. R. Santhanam)",
+        "view": "Rahu in the lagna in Aries, Taurus or Cancer protects the native from the chart's evils, as a pleased king forgives crimes.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Garga Hora, 'General Principles' v. 25 (tr. R. Santhanam)",
+        "view": "Rahu in the lagna in Aries, Taurus or Cancer aspected by a benefic: no evil exists in the horoscope.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 21.3 (tr. R. Santhanam, vol. 1)",
+        "view": "If Rahu is in an angle or trine the native performs religious sacrifices such as Jyotishtoma (Santhanam: when Rahu is strongly disposed, the native is very religious and meritorious).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Jataka Parijata (Vaidyanatha) 11.31 (tr. V. Subrahmanya Sastri, 1932, vol. II)",
+        "view": "Ketu or Rahu in the lagna with the lagna lord in a dusthana: privation of some limb in the lagna lord's dasa and 6th lord's antardasa.",
+        "url": "https://archive.org/details/JatakaParijata1932"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the first house ('Planets in the First House')",
+        "view": "Health generally unsatisfactory, needing non-medical treatment; occult leaning; marked wilfulness; odd and eccentric; usually bad for marriage; Rahu takes on Saturn's character.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Obliging, sympathetic, courageous; also lists a miscarriage indication.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 1st house' section",
+        "view": "Bad for domestic happiness; health, longevity and confidence weakened; egocentric yet insecure; eccentric; wealthy; occult interest; illnesses from emotions; physical strength and strong will; defeats competitors; often good looks. Gemini/Virgo: honour and leadership.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu, the North Node (commentary on the 108-name list of the graha), names 64",
+        "view": "'Svagrahe prabaladhyadaya': in the 1st house Rahu gives tremendous power; Foss adds that one text says Rahu in Gemini in the 1st removes all afflictions.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Phaladeepika 8.25 gives short life, whereas Saravali 12 and Garga Hora treat Rahu in the lagna in Aries, Taurus or Cancer as protective. Braha regards Cancer as a weak sign for Rahu, contradicting that Saravali list. Hindu Predictive Astrology is mildly positive in character (obliging, sympathetic), Raman HJH more negative (wilful, hypocritical).",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a magnetic, unconventional drive for self-making, with advice to ground ambition in routine and self-care. Avoid predictions about lifespan, pregnancy loss or specific illnesses; mention partnership balance (Ketu in the 7th) gently."
+  },
+  {
+    "id": "planet_in_house/rahu/2",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 2
+    },
+    "summary": "Rahu in the 2nd unsettles speech, family harmony, diet and finances; texts swing between poverty and wealth gained through the ruler, friends or business, with Jupiter's influence the main stabiliser.",
+    "themes": [
+      "speech",
+      "family harmony",
+      "money and food",
+      "face and eyes"
+    ],
+    "common_outcomes": [
+      "Ambiguous, insincere or harsh speech (Phaladeepika 8.25; Braha)",
+      "Friction or disturbance in family life (Raman HJH; Braha; Chamatkar Chintamani via Bhrigu Sutras)",
+      "Uncertain finances (Raman HJH; Bhrigu Sutras 5-6; Braha)",
+      "Disease or marks of the mouth, face or eyes (Phaladeepika 8.25; Raman HJH; Hindu Predictive Astrology; Bhrigu Sutras 5-6)"
+    ],
+    "rare_outcomes": [
+      "Wealth through the ruler or government (Phaladeepika 8.25)",
+      "Foss name 88: in the 2nd Rahu gives the position and insignia of royalty (high position or abundant wealth)",
+      "More than one marriage if afflicted (Hindu Predictive Astrology)",
+      "Fondness for rich dinners, alcohol or meat (Hindu Predictive Astrology; Braha)"
+    ],
+    "by_area": {
+      "personality": "Quick to anger yet tender-hearted (Phaladeepika 8.25); peevish (Raman HJH; Hindu Predictive Astrology); fearless but untruthful (Chamatkar Chintamani); vivid, peculiar imagination (Braha).",
+      "career": "",
+      "finance": "Uncertain unless other good combinations; good earnings if Jupiter aspects the 2nd; gains through friends and business (Raman HJH). Poverty (Bhrigu Sutras 5-6); wealth through the sovereign (Phaladeepika 8.25); craving for money, phenomenal wealth possible if well disposed (Braha). Rath: Rahu in the 2nd does not by itself cause poverty yoga; it is formed when Jupiter is 2nd, 5th, 9th or 12th from Rahu.",
+      "health": "Mouth or face disease (Phaladeepika 8.25); danger to eyesight (Raman HJH); right-eye problems, facial scars (Braha).",
+      "relationships": "Domestic quarrels or separation from the spouse (Braha).",
+      "family": "Friction in family life (Raman HJH); destruction of the family line in Chamatkar Chintamani's wording; loss of children (Bhrigu Sutras 5-6).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter's aspect on the 2nd (Raman HJH)",
+      "Rahu in Gemini or Virgo: great wealth, fine education, poetic or speaking talent (Braha)",
+      "Rahu in the 2nd associated with or aspected by the 5th or 9th lord: wealth and longevity in its dasa (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)"
+    ],
+    "weakeners_or_cancellations": [
+      "Jupiter in the 2nd, 5th, 9th or 12th from Rahu forms Daridra (poverty) yoga (Rath)",
+      "Association with a malefic: marks on the lips (Bhrigu Sutras 5-6)",
+      "A malefic joined with the 2nd/7th lord while a node is in the 2nd/7th is treated as dangerous in the node's dasa (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)"
+    ],
+    "lagna_or_context_notes": "Ketu is in the 8th. Braha calls this one of Rahu's worst positions and adds that whenever the nodes are in the 2nd or 8th, happiness is disturbed. Node dignity is disputed: Raman (Hindu Predictive Astrology) gives Rahu's exaltation as Taurus, while Braha says the only placements agreed upon are Mercury's signs Gemini and Virgo and treats Cancer and Leo as weak for the nodes.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.25 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Ambiguous or insincere speech, disease of mouth or face, tender-hearted, wealth through the sovereign, wrathful yet happy.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 5-6 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 2nd: poverty, bodily disease, loss of children, dark complexion; with a malefic, a mark on the lips.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 2nd (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Destruction of the family; fearless but a liar; destroys enemies to protect wealth.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Uttara Kalamrita (Kalidasa) Kanda I, section 6, slokas 14-15 (tr. S.S. Sareen)",
+        "view": "Rahu or Ketu in the 2nd or 7th with or aspected by the lord of the 5th or 9th gives wealth and longevity; if instead a malefic joins the 2nd or 7th lord, their dasa is dangerous.",
+        "url": "https://archive.org/details/uttara-kalamrita-kalidas"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (Sagar), discussion of Daridra yoga",
+        "view": "Rahu's mere presence in the 2nd does not cause Daridra yoga; it arises when Jupiter is in the 2nd, 5th, 9th or 12th from Rahu, and Rahu so placed from a 2nd-house Jupiter can obstruct Jupiter's wealth yoga.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the second house ('Planets in the Second House')",
+        "view": "Peevish, diseased face, family friction, danger to eyesight, finances uncertain unless other good combinations; Jupiter's aspect gives good earnings through friends and business.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Poor, more than one wife if afflicted, dark complexion, diseased face, peevish, luxurious dinners.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 2nd house' section",
+        "view": "One of Rahu's worst positions: depressive tendency, family quarrels or separation, poor food or intoxicants, lying or foul speech, facial scars or right-eye problems; craves wealth, phenomenal wealth possible if well disposed. Gemini/Virgo: great wealth and learning.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu, the North Node (commentary on the 108-name list of the graha), names 88",
+        "view": "'Dhane kakutprada': in the 2nd house Rahu gives the position and insignia of royalty; Foss notes this can mean abundant material wealth.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Phaladeepika gives wealth via the ruler and Foss's name-list gives royal position, while Bhrigu Sutras and Hindu Predictive Astrology give poverty and Braha calls it one of Rahu's worst houses. Rath clarifies that the placement alone does not make poverty.",
+    "confidence": "medium",
+    "phrasing_guidance": "Talk about learning to steady speech, diet and spending, and about family dynamics needing patience. Frame money as variable rather than poor; note Jupiter's role if present. Avoid predicting family breakdown or loss of children."
+  },
+  {
+    "id": "planet_in_house/rahu/3",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 3
+    },
+    "summary": "Rahu in the 3rd, an upachaya house, is one of its best placements: courage, initiative, strong will, wealth and long life, at the cost of harmony with siblings.",
+    "themes": [
+      "courage and initiative",
+      "siblings",
+      "communication and media",
+      "self-effort and gains"
+    ],
+    "common_outcomes": [
+      "Courageous, bold, strong-willed (Phaladeepika 8.25; Raman HJH; Hindu Predictive Astrology; Chamatkar Chintamani via Bhrigu Sutras; Braha)",
+      "Wealth and long life (Phaladeepika 8.25; Hindu Predictive Astrology; Braha)",
+      "Strained relations with, or few, siblings (Phaladeepika 8.25; Raman HJH; Braha)",
+      "Fulfilment of efforts and desires (Braha)"
+    ],
+    "rare_outcomes": [
+      "Abundance of oilseeds/produce (Bhrigu Sutras 7-8); with a benefic, a mark on the neck",
+      "Severe criticism for one's views; sudden, unexpected news (Raman HJH)",
+      "Gymnastic or physical skill; many relations (Hindu Predictive Astrology)",
+      "Talent in organising, writing, music or drama (Braha)"
+    ],
+    "by_area": {
+      "personality": "Proud, strong-willed (Phaladeepika 8.25); 'brave for outward appearances' (Raman HJH); adventurous, excited, motivated (Braha).",
+      "career": "Ability in organisational or detail work, communication, fine arts; Gemini/Virgo may give work as a producer or director (Braha).",
+      "finance": "Wealthy (Phaladeepika 8.25); very wealthy (Hindu Predictive Astrology); favours wealth and respect (Braha).",
+      "health": "Long-lived (Phaladeepika 8.25; Braha).",
+      "relationships": "",
+      "family": "Hostile to brothers (Phaladeepika 8.25); generally bad for brothers (Raman HJH); few younger siblings or no happiness from them (Braha); few children (Hindu Predictive Astrology).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Rahu in the 3rd, 6th or 11th aspected by benefics destroys all evils (Saravali 12.3-5); counteracts other negative combinations (Raman HJH)",
+      "Malefics in upachaya houses give good results (Uttara Kalamrita 4.16; Braha)",
+      "Rahu in Gemini or Virgo: greater courage, artistic and communicative excellence (Braha)"
+    ],
+    "weakeners_or_cancellations": [
+      "Bhrigu Sutras 7-8 gives only a neutral or minor result, so the strong positive reading rests on Phaladeepika and later authors",
+      "Sibling matters remain the weak point even when Rahu is strong (Braha)"
+    ],
+    "lagna_or_context_notes": "Ketu is in the 9th. Uttara Kalamrita 4.9 does not list the 3rd among Rahu's favourable houses (it lists 4, 7, 8, 10, 11) but reserves the 3rd as Ketu's best house.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.25 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Proud, hostile to siblings, strong-willed, long-lived and wealthy.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 7-8 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 3rd: abundance of oilseeds such as mustard and sesame; with a benefic, a mark on the neck.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 3rd (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Very courageous.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 12.3-5 (tr. R. Santhanam)",
+        "view": "Rahu in the 3rd, 6th or 11th from the lagna aspected by benefics destroys all evils, as wind carries away cotton.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the third house ('Planets in the Third House')",
+        "view": "Brave in appearance, sudden unexpected news, generally bad for brothers, may be severely criticised for his views. (p. ~209: Rahu in the 3rd, 6th or 11th counteracts other affliction.)",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Few children, very wealthy, bold, adventurous, courageous, good at gymnastics, many relations.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 3rd house' section",
+        "view": "Very well placed: adventurous, courageous, firm personality, cravings to communicate, wealth and respect, fulfilment of efforts, organisational skill, literary or artistic talent, long life; the only bad effect is few or unhappy relations with younger siblings.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Phaladeepika, Raman, Braha and Saravali 12 agree that the 3rd is good for Rahu; the Bhrigu Sutras give only a minor material result. Uttara Kalamrita 4.9 omits the 3rd from Rahu's good houses.",
+    "confidence": "high",
+    "phrasing_guidance": "A confident placement to describe: initiative, nerve and success through one's own efforts and communication. Mention sibling relationships as needing care, without predicting estrangement."
+  },
+  {
+    "id": "planet_in_house/rahu/4",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 4
+    },
+    "summary": "Rahu in the 4th disturbs inner contentment, the home and the relationship with the mother, with restless cravings for property and comfort; a minority of texts (Uttara Kalamrita, Chamatkar Chintamani in certain signs) rate it favourable.",
+    "themes": [
+      "home and contentment",
+      "mother",
+      "property and vehicles",
+      "restlessness"
+    ],
+    "common_outcomes": [
+      "Happiness only occasional; restless or troubled mind (Phaladeepika 8.25; Braha)",
+      "Difficulties around the mother or her health (Chamatkar Chintamani via Bhrigu Sutras; Braha; Foss name 66)",
+      "Strong desire for land or home that is not easily satisfied (Braha)",
+      "Fraud suffered or committed; few friends (Raman HJH)"
+    ],
+    "rare_outcomes": [
+      "Chamatkar Chintamani (via Bhrigu Sutras): in Aries, Cancer or Virgo, beneficial results and royal status",
+      "Bhrigu Sutras 9-10: many ornaments, two marriages, serves others",
+      "Proficiency in foreign (European) languages; subordinate position (Hindu Predictive Astrology)",
+      "Gemini/Virgo: exceptional homes and a strong, beneficial mother (Braha)"
+    ],
+    "by_area": {
+      "personality": "Foolish in behaviour (Raman HJH; Phaladeepika 8.25); insatiable cravings for worldly benefits that disturb contentment (Braha).",
+      "career": "Subordinate service (Hindu Predictive Astrology; Bhrigu Sutras 9-10).",
+      "finance": "",
+      "health": "Phaladeepika 8.25 gives short life.",
+      "relationships": "Few friends (Raman HJH); two wives (Bhrigu Sutras 9-10).",
+      "family": "Mother sickly (Chamatkar Chintamani); mother in distress if Rahu is with a malefic, not with a benefic (Bhrigu Sutras 9-10); difficulties with a mother who may lead a troubled life (Braha); disputes with relatives or over property (Foss name 81).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Association with a benefic protects the mother (Bhrigu Sutras 9-10)",
+      "Rahu in Aries, Cancer or Virgo (Chamatkar Chintamani); Gemini or Virgo (Braha)",
+      "Uttara Kalamrita 4.9 lists the 4th among Rahu's favourable houses",
+      "Kendra placement connected with a kendra/trikona lord makes the node a yogakaraka (Phaladeepika 20, sl. ~52); BPHS 21.3 (Rahu in an angle leads to religious sacrifices)"
+    ],
+    "weakeners_or_cancellations": [
+      "Rahu in the 4th aspected by a malefic: suffering in domestic comforts (Jataka Parijata 12.139)",
+      "Association with a malefic: mother's distress (Bhrigu Sutras 9-10)",
+      "Braha: nodes in any kendra bring many major changes in life"
+    ],
+    "lagna_or_context_notes": "Ketu is in the 10th. Node dignity is disputed: Raman (Hindu Predictive Astrology) gives Rahu's exaltation as Taurus, while Braha says the only placements agreed upon are Mercury's signs Gemini and Virgo and treats Cancer and Leo as weak for the nodes.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.25 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Foolish, a cause of grief to others, short-lived, happy only at times (Sastri's text also has 'will have friends').",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 9-10 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 4th: many ornaments, two wives, serves others; with a malefic the mother is distressed, not so with a benefic.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 4th (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Mother sickly; in Aries, Cancer or Virgo Rahu gives beneficial results and the native becomes a king.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Jataka Parijata (Vaidyanatha) 12.139 (tr. V. Subrahmanya Sastri, 1932, vol. II)",
+        "view": "A malefic or Rahu in the 4th aspected by an evil planet makes one suffer in domestic comforts.",
+        "url": "https://archive.org/details/JatakaParijata1932"
+      },
+      {
+        "source": "Uttara Kalamrita (Kalidasa) Kanda I, section 4, sloka 9 (tr. S.S. Sareen)",
+        "view": "Rahu is favourable in the 7th, 4th, 8th, 11th or 10th house.",
+        "url": "https://archive.org/details/uttara-kalamrita-kalidas"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the fourth house ('Planets in the Fourth House')",
+        "view": "Foolish in behaviour, few friends, subject to fraud or guilty of fraudulent action.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Subordinate position, proficiency in European languages; also an indication of low associations.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 4th house' section",
+        "view": "Difficulties with a mother who may lead a troubled life; strong desire for land and home but negative for it; education difficulties; powerful cravings that disturb contentment; nodes in kendras bring major life changes. Gemini/Virgo: special homes, fine vehicles, strong beneficial mother.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu, the North Node (commentary on the 108-name list of the graha), names 66, 81",
+        "view": "In the 4th house Rahu is harmful to the mother (66) and gives enmity, e.g. disputes over relatives or property (81); Foss stresses these need not be literal.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Uttara Kalamrita 4.9 lists the 4th as favourable for Rahu, and Chamatkar Chintamani gives royal status in Aries, Cancer or Virgo, against Phaladeepika, Jataka Parijata, Raman and Braha who treat it as disturbing. Braha calls Cancer weak for Rahu, contradicting Chamatkar Chintamani's Cancer exception.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe an inner restlessness about home and security that settles with conscious effort; speak about the mother relationship as one needing understanding. Avoid predictions of short life or a mother's illness."
+  },
+  {
+    "id": "planet_in_house/rahu/5",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 5
+    },
+    "summary": "Rahu in the 5th is traditionally linked with obstacles concerning children (the 'serpent curse' motif), stomach complaints and a hard or unconventional mind, though some sources allow sharp intelligence and a son.",
+    "themes": [
+      "children",
+      "mind and intelligence",
+      "digestion",
+      "serpent-curse tradition"
+    ],
+    "common_outcomes": [
+      "Few, delayed or lost children, or sorrow through them (Phaladeepika 8.26; Bhrigu Sutras 11-13; Raman HJH; Hindu Predictive Astrology; Braha; Foss name 77)",
+      "Stomach or abdominal complaints, colic, flatulence (Phaladeepika 8.26; Chamatkar Chintamani via Bhrigu Sutras; Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Hard-hearted, narrow or unconventional thinking (Phaladeepika 8.26; Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Troubled love affairs (Braha)"
+    ],
+    "rare_outcomes": [
+      "Childlessness attributed to a serpent's curse, remedied by worship of a Naga image (Phaladeepika 12; Bhrigu Sutras 11-13)",
+      "Speaking through the nose (Phaladeepika 8.26)",
+      "Chamatkar Chintamani (via Bhrigu Sutras): gets a son but worries over the spouse",
+      "Foss name 89: in the 5th Rahu gives penetrating, high intelligence"
+    ],
+    "by_area": {
+      "personality": "Hard-hearted (Phaladeepika 8.26); mistaken by others and unfriended, hard-hearted and unconventional (Raman HJH); tyrannical yet polite, narrow-minded (Hindu Predictive Astrology); intelligent but troubled mind, practical, worldly (Braha).",
+      "career": "Gemini/Virgo: excellence in sports, politics or crafts (Braha).",
+      "finance": "Gemini/Virgo: successful investments (Braha).",
+      "health": "Belly-ache (Phaladeepika 8.26); colic and heart trouble (Raman HJH); windy diseases (Bhrigu Sutras 11-13); stomach ailments (Chamatkar Chintamani; Braha).",
+      "relationships": "Disturbed love affairs (Braha); Raman HJH: Rahu afflicting the 5th gives strange courtships.",
+      "family": "Childless or loss of children (Phaladeepika 8.26; Bhrigu Sutras 11-13); will lose a number of children (Raman HJH).",
+      "spirituality": "Not much inclined to spiritual practice (Braha)."
+    },
+    "strengtheners": [
+      "Rahu in Gemini or Virgo: extremely intelligent, powerful children, good relations with them (Braha)",
+      "Rahu in a trikona connected with a kendra/trikona lord (Phaladeepika 20, sl. ~52); BPHS 21.3",
+      "Bhrigu Sutras 11-13: children after worship of a Naga image (traditional remedy)"
+    ],
+    "weakeners_or_cancellations": [
+      "Rahu in the 5th with the 5th lord in a dusthana: loss of children (Jataka Parijata 13.12)",
+      "Rahu in the 5th (9th from the 9th) with its dispositor in the 8th and the 9th lord debilitated: lack of fortune (BPHS 20.30)",
+      "Rahu or Ketu in a trikona associated with the 2nd or 7th lord: harmful in their dasa (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)",
+      "Moon with a malefic and Rahu in the 5th, 8th or 12th: mental disorders (Raman HJH); Venus with Rahu here gives unusual sexual orientation per Raman HJH"
+    ],
+    "lagna_or_context_notes": "Ketu is in the 11th. Frawley lists the 5th among Rahu's 'difficult houses' (for remedial measures).",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.26 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Speaks through the nose, childless, hard-hearted, suffers from belly-ache.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 12 (Putra bhava), verse on causes of childlessness (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "If Rahu occupies the 5th or joins its lord, childlessness is due to the curse of a serpent (for Ketu, a Brahmin's curse).",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 11-13 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "No children or loss of children through the serpent god's wrath, children after worship of a Naga image; windy diseases, sinful deeds, the ruler's displeasure, living in undesirable places.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 5th (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Gets a son, is always worried on account of his wife, suffers stomach ailments.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Jataka Parijata (Vaidyanatha) 13.12 (tr. V. Subrahmanya Sastri, 1932, vol. II)",
+        "view": "Rahu in the 5th with its lord in a dusthana causes the death of children.",
+        "url": "https://archive.org/details/JatakaParijata1932"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 20.30 (tr. R. Santhanam, vol. 1)",
+        "view": "Rahu in the 5th (9th from the 9th) with its dispositor in the 8th and the 9th lord in fall: devoid of fortune.",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the fifth house ('Planets in the Fifth House')",
+        "view": "Colic, misunderstood and unfriended, loses a number of children, hard-hearted and unconventional, heart trouble; Rahu's affliction to the 5th is very bad and may bring scandal through children.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Childless, flatulent, tyrannical yet polite, narrow-minded and cruel-hearted.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 5th house' section",
+        "view": "Desires for money carried from a past life; intelligent but troubled mind; practical, not spiritual; few children or troubles with them; disturbed love affairs; stomach problems. Gemini/Virgo: very intelligent, powerful children, successful investments.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu, the North Node (commentary on the 108-name list of the graha), names 77, 89",
+        "view": "In the 5th Rahu causes grief (77), but also gives penetrating, high intelligence (89); Foss notes children may equally be brilliant and healthy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. on remedial measures for Rahu (pp. ~256-257)",
+        "view": "Rahu in difficult houses (5th, 6th, 8th, 12th), with a weak dispositor or malefic aspects, is a case for remedial measures.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Most sources agree on obstacles with children; Chamatkar Chintamani gives a son, and Foss's name-list gives both grief and high intelligence. Braha's Gemini/Virgo exception gives powerful children.",
+    "confidence": "medium",
+    "phrasing_guidance": "Never say someone will have no children or that a child will die. Speak of children possibly being delayed or needing extra care, of a mind that thinks unconventionally, and of attention to digestion. Present the serpent-curse idea only as tradition if asked."
+  },
+  {
+    "id": "planet_in_house/rahu/6",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 6
+    },
+    "summary": "Rahu in the 6th is widely rated one of its best houses: victory over enemies and rivals, wealth and long life, though sources mention puzzling or chronic ailments.",
+    "themes": [
+      "victory over enemies",
+      "service and competition",
+      "health of a puzzling kind",
+      "wealth"
+    ],
+    "common_outcomes": [
+      "Defeats enemies and competitors, few or no enemies (Chamatkar Chintamani via Bhrigu Sutras; Hindu Predictive Astrology; Braha; Frawley)",
+      "Wealthy and long-lived (Phaladeepika 8.26; Raman HJH; Braha)",
+      "Ailments that are hard to diagnose, or of the lower body (Phaladeepika 8.26; Raman HJH)",
+      "Fame and wealth (Foss name 80)"
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 8.26: troubled by enemies or by malefic planets (Sastri: 'demons'), with anal disease",
+      "Many cousins (Raman HJH; Hindu Predictive Astrology)",
+      "Success through foreigners (Frawley)",
+      "Bhrigu Sutras 14-16: tolerant and very happy; with the Moon, liaisons with women of high (royal) family"
+    ],
+    "by_area": {
+      "personality": "Tolerant and very happy (Bhrigu Sutras 14-16); powerful and virile (Chamatkar Chintamani).",
+      "career": "Excels in detail work and service jobs, health or catering fields (Braha).",
+      "finance": "Wealthy (Phaladeepika 8.26; Raman HJH; Chamatkar Chintamani; Braha).",
+      "health": "Long-lived (Phaladeepika 8.26; Raman HJH; Braha); sickness of a puzzling nature (Raman HJH); can contribute to nervous-system disorders (Frawley); Rahu or Ketu in the 6th/8th causes stomach disorders (Santhanam's note to BPHS 17.3-5).",
+      "relationships": "Raman HJH: private life may become scandalous.",
+      "family": "Many cousins (Raman HJH; Hindu Predictive Astrology).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Rahu in the 3rd, 6th or 11th aspected by benefics destroys all evils (Saravali 12.3-5; Raman HJH)",
+      "Malefics in upachaya houses (Uttara Kalamrita 4.16; Braha)",
+      "Rahu in Gemini or Virgo heightens the benefits (Braha)"
+    ],
+    "weakeners_or_cancellations": [
+      "Moon and Saturn joining Rahu here: liability to mental strain (Raman HJH)",
+      "Rahu aspected by Mars in the 6th or 8th: boils/carbuncles (Phaladeepika 14)",
+      "Rahu or Ketu in the 6th, 8th or 12th associated with the lords of those houses: harm during their dasas (Uttara Kalamrita Kanda I, sec. 6, sl. 17-18)",
+      "Phaladeepika 19.15 makes Rahu's dasa fully good only when Rahu is in a house other than 6, 8 or 12"
+    ],
+    "lagna_or_context_notes": "Ketu is in the 12th. Frawley (houses chapter) singles out the 6th as a good house for Rahu, yet in his remedies chapter lists it among Rahu's difficult houses.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.26 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Troubled by enemies or by malefic planets, suffers anal disease, but wealthy and long-lived.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 14-16 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 6th: tolerant and very happy; with the Moon, relations with women of a royal family; poor and a thief (as printed).",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 6th (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Enemies destroyed; powerful, virile and wealthy.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 12.3-5 (tr. R. Santhanam)",
+        "view": "Rahu in the 3rd, 6th or 11th aspected by benefics removes all evils.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 14 (diseases), sl. ~10-11 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Rahu in the 6th or 8th aspected by Mars indicates carbuncle.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the sixth house ('Planets in the Sixth House')",
+        "view": "Long-lived and wealthy, troubled by enemies, 'ghosts' and private-part ailments, puzzling sickness; mental strain if the Moon and Saturn join Rahu; many cousins; scandalous private life.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Enjoyment, no enemies, many cousins; also venereal complaints.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 6th house' section",
+        "view": "An excellent placement: great vitality, health and long life; defeats enemies and rises above competitors; detail and service work; scriptures say wealthy and respected.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu, the North Node (commentary on the 108-name list of the graha), names 80",
+        "view": "'The giver of fame and wealth when placed in the sixth house' (80); Rahu defeats enemies and clears the way to success.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. 'The Houses', p. 145",
+        "view": "Rahu is good in the 6th: freedom from enmity and success through foreigners, though it can contribute to nervous-system disorders.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Phaladeepika and Raman HJH say the native is troubled by enemies, while Hindu Predictive Astrology says 'no enemies' and Chamatkar Chintamani, Braha, Foss and Frawley give victory. Frawley himself lists the 6th both as good for Rahu and as a difficult house for remedies.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as competitive strength and an ability to handle conflict, illness and service work. Encourage attention to health without naming conditions."
+  },
+  {
+    "id": "planet_in_house/rahu/7",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 7
+    },
+    "summary": "Rahu in the 7th brings intense, unconventional or unsettled partnerships: classical texts warn of loss through relationships and of separation or remarriage, while a few sources rate the 7th as favourable for worldly gains through others.",
+    "themes": [
+      "marriage and partners",
+      "unconventional relationships",
+      "wealth through others",
+      "public dealings"
+    ],
+    "common_outcomes": [
+      "Disturbance, strife or separation in marriage (Phaladeepika 8.26; Bhrigu Sutras 17-21; Chamatkar Chintamani; Braha; Foss names 78-79)",
+      "Unconventional or foreign partner/associations (Raman HJH; Braha)",
+      "Loss of wealth through relationships (Phaladeepika 8.26; Phaladeepika 10.2 with the Sun)",
+      "Luxurious habits, rich food (Raman HJH; Hindu Predictive Astrology)"
+    ],
+    "rare_outcomes": [
+      "Remarriage after the loss of the first spouse (Bhrigu Sutras 17-21; Braha citing the scriptures)",
+      "Diabetes and the spouse's reproductive-health troubles (Raman HJH; Hindu Predictive Astrology)",
+      "Uttara Kalamrita 4.9: Rahu is favourable in the 7th",
+      "Foss name 79: strife, or alternatively a (spiritual) path"
+    ],
+    "by_area": {
+      "personality": "Self-willed and foolish (Phaladeepika 8.26); unconventional and heterodox (Raman HJH); compulsive desire to be in relationship (Braha).",
+      "career": "",
+      "finance": "Loses wealth through women (Phaladeepika 8.26).",
+      "health": "Loss of virility (Phaladeepika 8.26); diabetes (Raman HJH; Hindu Predictive Astrology); Ganda-mala (glandular swelling) with a malefic (Bhrigu Sutras 17-21).",
+      "relationships": "Separation from the beloved (Phaladeepika 8.26); two marriages, only one if a benefic joins Rahu (Bhrigu Sutras 17-21); powerful, domineering or worldly spouse (Braha); affairs with foreigners or outsiders (Raman HJH).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Association with a benefic: only one marriage and no glandular disease (Bhrigu Sutras 17-21); beneficial aspect averts loss of the first spouse (Braha); Rahu strong or aspected by Jupiter (Foss)",
+      "Rahu in the 7th with or aspected by the 5th or 9th lord: wealth and longevity (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)",
+      "Rahu in Gemini or Virgo: very powerful, wealthy or spiritual spouse (Braha)",
+      "Kendra placement connected with a kendra/trikona lord (Phaladeepika 20, sl. ~52); BPHS 21.3"
+    ],
+    "weakeners_or_cancellations": [
+      "Association with a malefic (Bhrigu Sutras 17-21)",
+      "Sun with Rahu in the 7th: loss of wealth through women (Phaladeepika 10.2; Raman HJH)",
+      "A malefic joined with the 2nd/7th lord while a node is in the 2nd/7th (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)"
+    ],
+    "lagna_or_context_notes": "Ketu is in the 1st. BPHS 18.7-8 groups Saturn, Rahu and Ketu in the 7th as indicating low-status sexual associations; Raman HJH quotes a classical rule that Rahu in the 7th gives an 'outcaste' partner. Node dignity is disputed: Raman (Hindu Predictive Astrology) gives Rahu's exaltation as Taurus, while Braha says the only placements agreed upon are Mercury's signs Gemini and Virgo and treats Cancer and Leo as weak for the nodes.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.26 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Loss of wealth through women, separation from the beloved, loss of virility, self-willed and foolish.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 10.2 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Sun and Rahu in the 7th: loss of wealth through association with women.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 17-21 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 7th: two wives, the first lost and the second ill; with a malefic, glandular disease (Ganda-mala); with a benefic, only one wife.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 7th (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Loss of the wife.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Uttara Kalamrita (Kalidasa) Kanda I, section 4, sloka 9 (tr. S.S. Sareen)",
+        "view": "Rahu is favourable when in the 7th (also 4th, 8th, 11th, 10th).",
+        "url": "https://archive.org/details/uttara-kalamrita-kalidas"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 18.7-8 (tr. R. Santhanam, vol. 1)",
+        "view": "Saturn, Rahu or Ketu in the 7th denote association with base partners (part of a list matching each planet in the 7th with a type of partner).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the seventh house ('Planets in the Seventh House')",
+        "view": "Unconventional and heterodox, affairs with outsiders or foreigners, spouse's womb disorders, rich food and luxury, diabetes; also quotes that Rahu in the 7th gives an outcaste partner and the Sun with Rahu loses wealth through women.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Spouse's menstrual disorders, connection with a widow, diabetes, luxurious food, unhappiness.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 7th house' section",
+        "view": "Disturbed married life with constant issues; compulsive desire for relationship; powerful, domineering, worldly spouse; scriptures say the first wife is lost unless Rahu is well aspected. Gemini/Virgo: very powerful or spiritual spouse.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu, the North Node (commentary on the 108-name list of the graha), names 78, 79",
+        "view": "In the 7th Rahu harms the spouse (78) and brings strife or a path (79); Foss notes strong Rahu or Jupiter's aspect largely mitigates, though separation and remarriage are not uncommon.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Uttara Kalamrita 4.9 lists the 7th as favourable for Rahu, against Phaladeepika, Bhrigu Sutras, Chamatkar Chintamani and Braha, who stress marital loss. Foss reads one 7th-house name as 'strife or a path', allowing a spiritual reading.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of relationships that are intense, unconventional or cross-cultural, and of the value of clear agreements and patience. Do not predict divorce, a spouse's death, infidelity or sexual issues."
+  },
+  {
+    "id": "planet_in_house/rahu/8",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 8
+    },
+    "summary": "Rahu in the 8th is generally difficult: chronic or puzzling ailments, reputation trouble, disturbed family happiness and limited benefit from others' money, though Uttara Kalamrita rates it favourable and modern authors add intuition and occult interest.",
+    "themes": [
+      "chronic health",
+      "public censure",
+      "hidden matters and occult",
+      "joint finances"
+    ],
+    "common_outcomes": [
+      "Health troubles, often wind-related or chronic (Phaladeepika 8.26; Bhrigu Sutras 22-23; Chamatkar Chintamani; Raman HJH; Braha)",
+      "Public censure, humiliation or estrangement from relatives (Raman HJH; Chamatkar Chintamani)",
+      "Quarrelsome or unscrupulous conduct (Raman HJH; Hindu Predictive Astrology)",
+      "Disturbed family happiness; little gain from spouse's money (Braha)"
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 8.26: short life, defect of a limb, few children",
+      "Chamatkar Chintamani (via Bhrigu Sutras): respected by the king and the learned though not by family; loss of paternal property",
+      "Uttara Kalamrita 4.9: Rahu is favourable in the 8th",
+      "Gemini/Virgo: long life, partner's wealth, strong intuition (Braha)"
+    ],
+    "by_area": {
+      "personality": "Vicious, quarrelsome, unscrupulous (Raman HJH); narrow-minded (Hindu Predictive Astrology).",
+      "career": "",
+      "finance": "Loss of paternal property (Chamatkar Chintamani); difficulties in joint finances (Braha).",
+      "health": "Wind diseases (Phaladeepika 8.26; Chamatkar Chintamani); very sickly (Bhrigu Sutras 22-23); many ailments (Raman HJH); reproductive or long-term illness in inimical signs (Braha); Rahu or Ketu in the 6th/8th gives stomach disorders (Santhanam's note, BPHS 17).",
+      "relationships": "Separation from spouse or family possible (Braha).",
+      "family": "Few children (Phaladeepika 8.26); treated as an outsider by relatives (Chamatkar Chintamani).",
+      "spirituality": "Generally a spiritual influence, but limits worldly benefits (Braha); occult interest when dignified (Braha)."
+    },
+    "strengtheners": [
+      "Rahu in a friendly sign or in Sagittarius/Pisces gives fairly good results (Braha)",
+      "Rahu in Gemini or Virgo: long life, benefit from partner's wealth (Braha)",
+      "Rahu associated with a benefic (Bhrigu Sutras 22-23 grade longevity upward with benefic association or a strong 8th lord)"
+    ],
+    "weakeners_or_cancellations": [
+      "Rahu with Mars' aspect in the 6th or 8th: boils (Phaladeepika 14)",
+      "Moon with a malefic and Rahu in the 8th, 12th or 5th: mental disorders (Raman HJH)",
+      "Rahu or Ketu in the 6th, 8th or 12th associated with the lords of those houses: harm in their dasas (Uttara Kalamrita Kanda I, sec. 6, sl. 17-18)",
+      "Rahu in a dusthana spoils its dasa (Phaladeepika 19.15)"
+    ],
+    "lagna_or_context_notes": "Ketu is in the 2nd. Braha: whenever the nodes are in the 2nd or 8th, happiness is disturbed. Frawley lists the 8th among Rahu's difficult houses.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.26 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Short-lived, impure acts, a defective limb, wind diseases, few children.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 22-23 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 8th: very sickly, with a lifespan graded upward by benefic association or a strong 8th lord (numbers given in the text are not reproduced here).",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 8th (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Wind troubles, deprived of paternal property, cast out by relatives, yet respected by the king and the learned.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Uttara Kalamrita (Kalidasa) Kanda I, section 4, sloka 9 (tr. S.S. Sareen)",
+        "view": "Rahu is favourable when in the 8th (among 4, 7, 8, 10, 11).",
+        "url": "https://archive.org/details/uttara-kalamrita-kalidas"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the eighth house ('Planets in the Eighth House')",
+        "view": "Public censure and humiliation, many ailments, vicious, quarrelsome, unscrupulous; with the Moon and a malefic, mental disorders.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Vicious, degraded, quarrelsome, narrow-minded, immoral.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 8th house' section",
+        "view": "Happiness spoiled, family separation; fairly good in a friend's sign or Sagittarius/Pisces; spiritual influence but limited worldly gain; little from spouse's wealth; reproductive or chronic illness in inimical signs. Gemini/Virgo: long life, intuition, partner's wealth.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. on remedial measures for Rahu (pp. ~256-257)",
+        "view": "The 8th is among Rahu's difficult houses calling for remedies.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Uttara Kalamrita 4.9 rates the 8th favourable for Rahu, against nearly every other source. Chamatkar Chintamani adds royal and scholarly respect alongside family estrangement.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of depth, research and intuition, and of the need for transparency in shared money and for steady health habits. Never quote lifespans or predict scandal."
+  },
+  {
+    "id": "planet_in_house/rahu/9",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 9
+    },
+    "summary": "Rahu in the 9th gives worldly standing and sometimes leadership, but tension with the father, teachers and orthodox religion; sources split on whether the native is irreligious or a pilgrim of good qualities.",
+    "themes": [
+      "religion and belief",
+      "father and teachers",
+      "fortune and leadership",
+      "unorthodox views"
+    ],
+    "common_outcomes": [
+      "Contrary or bitter speech; heterodox or rebellious towards tradition (Phaladeepika 8.27; Raman HJH; Foss name 82)",
+      "Strain with, or harm to, the father (Raman HJH; Braha; Foss name 76)",
+      "Leadership of clan, village or town (Phaladeepika 8.27; Braha citing scriptures)",
+      "Unrighteous acts or loose morals in classical lists (Phaladeepika 8.27; Bhrigu Sutras 24; Raman HJH; Hindu Predictive Astrology)"
+    ],
+    "rare_outcomes": [
+      "Chamatkar Chintamani (via Bhrigu Sutras): full of good qualities, fond of pilgrimage, kind-hearted",
+      "Bhrigu Sutras 24: childless and dependent on others",
+      "May become famous and acquire much wealth (Raman HJH)",
+      "Foss name 65: Rahu gains unusual strength in a dharma house (1st, 5th, 9th)"
+    ],
+    "by_area": {
+      "personality": "Impolite, miserly (Raman HJH); uncharitable (Hindu Predictive Astrology); speaks contrarily (Phaladeepika 8.27); kind-hearted (Chamatkar Chintamani).",
+      "career": "Head of clan, village or city (Phaladeepika 8.27); powerful with many worldly benefits (Braha).",
+      "finance": "Famous and wealthy (Raman HJH); dependent livelihood (Bhrigu Sutras 24).",
+      "health": "Emaciation (Raman HJH; Hindu Predictive Astrology).",
+      "relationships": "Nagging, domineering spouse; 'puppet in the hands of the wife' (Raman HJH; Hindu Predictive Astrology).",
+      "family": "Hates the father (Raman HJH); father's life may be difficult depending on Rahu's sign (Braha); childless (Bhrigu Sutras 24).",
+      "spirituality": "Reviles God and religion (Raman HJH); irreligious (Bhrigu Sutras 24); fond of pilgrimage (Chamatkar Chintamani); Braha says the scriptures are divided and the result depends on sign and aspect; Foss: may reject conventional religion and follow or teach one's own path."
+    },
+    "strengtheners": [
+      "Rahu in a friendly sign (Braha)",
+      "Rahu in Gemini or Virgo: lucky, strong and successful father, long-distance travel, high morals (Braha)",
+      "Rahu in a trikona connected with a kendra/trikona lord (Phaladeepika 20, sl. ~52); BPHS 21.3 (Rahu in a trine leads to religious sacrifices)",
+      "Rahu or Ketu in the 9th or 10th with a trikona lord brings prosperity (Uttara Kalamrita, as quoted in the Bhrigu Sutras commentary)"
+    ],
+    "weakeners_or_cancellations": [
+      "Rahu or Ketu in a trikona associated with the 2nd or 7th lord: harmful in their dasa (Uttara Kalamrita Kanda I, sec. 6, sl. 14-15)",
+      "Saturn, Mars and Rahu in the 9th or 11th are listed among combinations harmful to the father (Jataka Parijata 13.58; also quoted in Raman HJH)"
+    ],
+    "lagna_or_context_notes": "Ketu is in the 3rd.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.27 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Speaks contrarily, head of a clan, village headman or city mayor, but commits unrighteous deeds.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 24 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 9th: childless, intimacy with low-born women, dependent on others for livelihood, irreligious.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 9th (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Full of good qualities, fond of pilgrimage, kind-hearted.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the ninth house ('Planets in the Ninth House')",
+        "view": "Nagging, domineering spouse; impolite, miserly, emaciated, loose morals; hates the father and reviles religion; but may become famous and wealthy.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Puppet in the hands of the wife, impolite, uncharitable, emaciated waist, loose morals.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 9th house' section",
+        "view": "Rahu's significations enhanced: worldly benefits and power, possibly head of a town; father relations depend on sign; scriptures divided on religiosity; interruptions in higher education. Gemini/Virgo: lucky, strong father, travel, high morals.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu, the North Node (commentary on the 108-name list of the graha), names 65, 76, 82",
+        "view": "In the 9th Rahu damages the father (76) and gives 'sinfulness' (82), read by Foss as rejecting conventional religion for one's own path; name 65 gives Rahu unusual strength in dharma houses.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Jataka Parijata (Vaidyanatha) 13.58 (tr. V. Subrahmanya Sastri, 1932, vol. II)",
+        "view": "Saturn, Mars and Rahu in the 11th or 9th bhava from the lagna are listed among combinations for the father's death (combination of three planets, not Rahu alone).",
+        "url": "https://archive.org/details/JatakaParijata1932"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Chamatkar Chintamani makes the native virtuous and fond of pilgrimage, while Phaladeepika, Bhrigu Sutras and Raman stress irreligion or unrighteous acts; Braha notes the scriptures themselves are divided.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe an independent, questioning relationship with belief and authority, and a life-path that may break from family tradition. Avoid judgments about morality or predictions about the father."
+  },
+  {
+    "id": "planet_in_house/rahu/10",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 10
+    },
+    "summary": "Rahu in the 10th is often counted among its strongest placements for worldly status: fame, fearlessness, wide travel and influence with the public, coupled with irregular conduct in classical lists and career rises and falls.",
+    "themes": [
+      "career and fame",
+      "public influence",
+      "ambition",
+      "pilgrimage motif"
+    ],
+    "common_outcomes": [
+      "Fame and renown (Phaladeepika 8.27; Raman HJH; Braha)",
+      "Fearless, bold, adventurous (Phaladeepika 8.27; Raman HJH)",
+      "Few children (Phaladeepika 8.27; Raman HJH)",
+      "Learned, artistic or literary taste; much travel (Raman HJH; Hindu Predictive Astrology; Bhrigu Sutras 25-28)"
+    ],
+    "rare_outcomes": [
+      "Bathing in the Ganges / pilgrimage (Foss name 63; Braha)",
+      "Garga Hora GP 28: Rahu in the 10th in its own sign with Mars, Mercury and Venus gives alternating prosperity and downfall",
+      "Chamatkar Chintamani (via Bhrigu Sutras): squanders money on drink, prefers the company of foreigners",
+      "Foss name 83: grief in the 10th house"
+    ],
+    "by_area": {
+      "personality": "Fearless (Phaladeepika 8.27); bold, adventurous, learned (Raman HJH); insatiable career ambition (Braha).",
+      "career": "Works in others' service (Phaladeepika 8.27); famous, in business (Raman HJH); powerful, renowned career, influences the masses, early earnings (Braha).",
+      "finance": "Early earnings, may support parents (Braha).",
+      "health": "",
+      "relationships": "Classical lists mention liaisons with widows (Bhrigu Sutras 25-28; Raman HJH; Hindu Predictive Astrology).",
+      "family": "Rath: the nodes in the 10th can act inimically to the father through argala on the 9th.",
+      "spirituality": "Many pilgrimages or a turn to spiritual life (Braha); devotional purification (Foss name 63)."
+    },
+    "strengtheners": [
+      "Uttara Kalamrita 4.9 lists the 10th among Rahu's favourable houses",
+      "Rahu in a kendra connected with a kendra/trikona lord becomes yogakaraka (Phaladeepika 20, sl. ~52); in an angle, religious sacrifices (BPHS 21.3)",
+      "Rahu or Ketu in the 9th/10th with a trikona lord gives prosperity (Uttara Kalamrita, as quoted in the Bhrigu Sutras commentary)",
+      "Association with a benefic: better surroundings (Bhrigu Sutras 25-28); strong 10th with a strong benefic dispositor suits gem remedies to strengthen Rahu (Frawley)",
+      "Rahu in Gemini or Virgo: stellar career and fame (Braha)"
+    ],
+    "weakeners_or_cancellations": [
+      "Rahu with malefics in its own sign here: rise followed by fall (Garga Hora GP 28)",
+      "Rahu's argala on the 9th: hardship for the father or guru (Rath)"
+    ],
+    "lagna_or_context_notes": "Ketu is in the 4th. Node dignity is disputed: Raman (Hindu Predictive Astrology) gives Rahu's exaltation as Taurus, while Braha says the only placements agreed upon are Mercury's signs Gemini and Virgo and treats Cancer and Leo as weak for the nodes.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.27 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Famous, few children, works for others, does no good deeds, fearless.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 25-28 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 10th: relations with widows, living in poor quarters, better places with a benefic, interest in poetry.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 10th (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Wastes money on drink, cruel deeds, prefers the company of foreigners, enjoys beautiful women.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Garga Hora, 'General Principles' v. 28 (tr. R. Santhanam)",
+        "view": "Rahu in the 10th in its own house with Mars, Mercury and Venus: the native sometimes prospers and sometimes falls.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Uttara Kalamrita (Kalidasa) Kanda I, section 4, sloka 9 (tr. S.S. Sareen)",
+        "view": "Rahu is favourable when in the 10th.",
+        "url": "https://archive.org/details/uttara-kalamrita-kalidas"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (Sagar), section 12.2 and the 9th-house argala discussion",
+        "view": "Malefics in the 10th have obstructing argala on the 9th; the nodes in the 10th can act very inimically to the father, and Rahu or Saturn there makes the father or guru suffer.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the tenth house ('Planets in the Tenth House')",
+        "view": "Tendency towards widows; skilled artist with a flair for poetry and literature; travels widely, learned, famous, in business; few issues; bold and adventurous yet sinful.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Taste in poetry and literature, good artist, traveller, learned; also an irregular relationship.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 10th house' section",
+        "view": "One of Rahu's finest placements: powerful, renowned career, influence on the masses, early earnings, authority; pilgrimages or spiritual life; scriptures add preference for foreign company, courage, few children.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu, the North Node (commentary on the 108-name list of the graha), names 63, 83",
+        "view": "In the 10th Rahu can give a bath in the Ganges (63), a well-known Indian dictum Foss confirms in practice, but also grief (83).",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. on remedial measures for Rahu (pp. ~256-257)",
+        "view": "When Rahu is in strong houses like the 10th and its lord is benefic and strong, gems for Rahu may be worn to increase its positive social influence.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Braha, Frawley, Uttara Kalamrita and Raman stress fame and success; Chamatkar Chintamani and Phaladeepika add negative conduct; Foss's list gives both pilgrimage and grief; Rath warns about the father.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe strong public ambition and an unconventional or global career path, with advice about ethics and work-life balance (Ketu in the 4th). Prepare for career cycles rather than promising fame."
+  },
+  {
+    "id": "planet_in_house/rahu/11",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 11
+    },
+    "summary": "Rahu in the 11th is broadly favourable: gains, prosperity, long life and influential connections, often through foreign or unconventional sources, with a recurrent note of few children and ear trouble.",
+    "themes": [
+      "gains and income",
+      "networks and friends",
+      "foreign sources",
+      "children (Ketu in 5th)"
+    ],
+    "common_outcomes": [
+      "Prosperity, wealth and gains (Phaladeepika 8.27; Bhrigu Sutras 29-30; Chamatkar Chintamani; Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Long life (Phaladeepika 8.27)",
+      "Few children (Phaladeepika 8.27; Raman HJH; Braha citing scriptures)",
+      "Ear complaints (Phaladeepika 8.27; Raman HJH)"
+    ],
+    "rare_outcomes": [
+      "Distinction in the army or navy (Raman HJH)",
+      "Wealth earned in foreign countries or through foreigners (Raman HJH; Chamatkar Chintamani via Bhrigu Sutras)",
+      "Many children (Hindu Predictive Astrology; Bhrigu Sutras 29-30 'blessed with children')",
+      "Good agriculturist; influence among working people (Hindu Predictive Astrology)"
+    ],
+    "by_area": {
+      "personality": "Strong goals and ambitions, likely fulfilled (Braha).",
+      "career": "Distinction in armed services, fame and learning (Raman HJH).",
+      "finance": "Prosperous (Phaladeepika 8.27); wealthy (Bhrigu Sutras 29-30; Hindu Predictive Astrology); many opportunities for gain (Braha); wealth through foreigners (Chamatkar Chintamani; Raman HJH).",
+      "health": "Ear disease (Phaladeepika 8.27; Raman HJH); long-lived (Phaladeepika 8.27).",
+      "relationships": "Wealthy, powerful, influential friends (Braha).",
+      "family": "Difficulties with the eldest sibling (Braha); few children (Phaladeepika; Raman HJH) or happiness from children (Chamatkar Chintamani).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Rahu in the 3rd, 6th or 11th aspected by benefics destroys evils (Saravali 12.3-5; Raman HJH)",
+      "Malefics in upachaya houses (Uttara Kalamrita 4.16); Uttara Kalamrita 4.9 lists the 11th as favourable for Rahu",
+      "Rahu in Gemini or Virgo: great wealth and the best friends (Braha)"
+    ],
+    "weakeners_or_cancellations": [
+      "Combinations of Saturn, Mars and Rahu in the 11th or 9th are listed as harmful to the father (Jataka Parijata 13.58)",
+      "BPHS 21.11: Rahu with the Sun, Saturn and Mars in the 11th leads to cessation of one's duties"
+    ],
+    "lagna_or_context_notes": "Ketu is in the 5th, which Braha uses to explain the 'few children' tradition.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.27 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Prosperous, few children, long-lived, ear disease.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 29-30 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 11th: blessed with children and wealthy.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 11th (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Acquires wealth through foreigners and has happiness from children.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Saravali (Kalyana Varma) 12.3-5 (tr. R. Santhanam)",
+        "view": "Rahu in the 3rd, 6th or 11th aspected by benefics removes all evils.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Uttara Kalamrita (Kalidasa) Kanda I, section 4, sloka 9 (tr. S.S. Sareen)",
+        "view": "Rahu is favourable when in the 11th.",
+        "url": "https://archive.org/details/uttara-kalamrita-kalidas"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 21.11 (tr. R. Santhanam, vol. 1)",
+        "view": "Rahu with the Sun, Saturn and Mars in the 11th: cessation of one's duties (a four-planet combination).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the eleventh house ('Planets in the Eleventh House')",
+        "view": "Distinguished in army or navy, famous, wealthy, learned; few children; ear afflictions; much wealth from foreign countries.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Wealthy, influential among working people, many children, good agriculturist.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 11th house' section",
+        "view": "An excellent placement: wealth, profits, community respect, powerful friends, opportunities, ambitions fulfilled; difficulties with the eldest sibling; scriptures say few children (Ketu in 5th).",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Phaladeepika and Raman HJH say few children; Hindu Predictive Astrology and Bhrigu Sutras say many or blessed with children.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe strong networks and gains, especially through broad or international circles; suggest balancing ambition with attention to children and creative life (Ketu in the 5th)."
+  },
+  {
+    "id": "planet_in_house/rahu/12",
+    "layer": "planet_in_house",
+    "key": {
+      "planet": "Rahu",
+      "house": 12
+    },
+    "summary": "Rahu in the 12th is classically a placement of heavy or hidden expenditure and secret wrongdoing, with eye trouble; modern readings add foreign residence, sudden expenses, and, in some views, spiritual leanings.",
+    "themes": [
+      "expenditure and loss",
+      "secrecy",
+      "foreign lands",
+      "eyes and sleep"
+    ],
+    "common_outcomes": [
+      "Heavy or wasteful expenditure, many losses (Phaladeepika 8.27; Hindu Predictive Astrology; Braha; Rath)",
+      "Secret wrongdoing (Phaladeepika 8.27; Braha citing scriptures)",
+      "Eye trouble (Bhrigu Sutras 31-32; Raman HJH; Hindu Predictive Astrology; Braha)",
+      "Few children (Bhrigu Sutras 31-32; Hindu Predictive Astrology)"
+    ],
+    "rare_outcomes": [
+      "Water-related disease (Phaladeepika 8.27)",
+      "Prosperous and helpful, though of loose morals (Raman HJH)",
+      "Saintly (Hindu Predictive Astrology)",
+      "Gemini/Virgo: thrift, success abroad (Braha)"
+    ],
+    "by_area": {
+      "personality": "Helpful by nature (Raman HJH); saintly (Hindu Predictive Astrology).",
+      "career": "Unsuccessful undertakings (Chamatkar Chintamani via Bhrigu Sutras).",
+      "finance": "Spends much (Phaladeepika 8.27); wealth wasted (Braha); sudden unwanted expenditures that may tempt one towards illegitimate gains (Rath); prosperous (Raman HJH) versus poor (Chamatkar Chintamani).",
+      "health": "Water-disease (Phaladeepika 8.27); eye troubles (Bhrigu Sutras; Raman HJH; Braha); left ear or eye (Braha).",
+      "relationships": "Friendship with ill-intentioned people (Chamatkar Chintamani); little sexual pleasure in an inimical sign (Braha).",
+      "family": "Few children (Bhrigu Sutras 31-32; Hindu Predictive Astrology).",
+      "spirituality": "Saintly (Hindu Predictive Astrology); Bhrigu Sutras 31-32 and Braha's scriptural summary describe an unpleasant after-death state."
+    },
+    "strengtheners": [
+      "Rahu in Gemini or Virgo: thrift, foreign success, a 'heavenly' state after death (Braha)"
+    ],
+    "weakeners_or_cancellations": [
+      "Rahu in the 12th with Mars, Saturn and the Sun is a classical bad combination for the after-life (BPHS 23.9)",
+      "Moon with a malefic and Rahu in the 12th, 8th or 5th: mental disorders (Raman HJH)",
+      "Rahu or Ketu in the 6th, 8th or 12th associated with those houses' lords: harm in their dasas (Uttara Kalamrita Kanda I, sec. 6, sl. 17-18)",
+      "Rahu in a dusthana spoils its dasa (Phaladeepika 19.15)"
+    ],
+    "lagna_or_context_notes": "Ketu is in the 6th. Frawley lists the 12th among Rahu's difficult houses. Raman HJH also cites a combination (Sun in 7th, Mars in 10th, Rahu in 12th) for early loss of the father.",
+    "source_views": [
+      {
+        "source": "Phaladeepika (Mantreswara) 8.27 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "Commits sins secretly, spends much, suffers from a water-related disease.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+      },
+      {
+        "source": "Bhrigu Sutras ch. 9 (Rahu and Ketu), sutras 31-32 (English tr. with commentary; archive.org scan, translator not named in the OCR)",
+        "view": "Rahu or Ketu in the 12th: few children, eye troubles, an unhappy after-life.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Chamatkar Chintamani (Bhatta Narayana), 12th (Rahu) house, as quoted in the 'Other Views' of the Bhrigu Sutras commentary (via quotation; original not read)",
+        "view": "Poor, unsuccessful in undertakings, friendly with evil-minded people.",
+        "url": "https://archive.org/details/BhriguSutras"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 23.9 (tr. R. Santhanam, vol. 1)",
+        "view": "Rahu in the 12th with Mars, Saturn and the Sun: the native 'goes to hell' (combination; the 12th as house of the after-life).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (Sagar), discussion of 11th/12th house and gains",
+        "view": "A malefic Rahu in the 12th gives various unwanted and sudden expenditures that tempt the native towards illegal gains.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope, chapter on the twelfth house ('Planets in the Twelfth House')",
+        "view": "Prosperous, immoral but of a helpful nature, eye troubles.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXI 'Planets in Different Bhavas' (pp. 198-203)",
+        "view": "Deformed, few children, defective sight, very many losses, saintly.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Rahu in the 12th house' section",
+        "view": "Spends whatever is gained; scriptures say wealth is wasted and sins committed; left ear/eye problems; little sexual pleasure in inimical signs. Gemini/Virgo: thrift, foreign success, good after-death state.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. on remedial measures for Rahu (pp. ~256-257)",
+        "view": "The 12th is among Rahu's difficult houses calling for remedies.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Phaladeepika (Mantreswara) 8.34 (tr. V. Subrahmanya Sastri, 2nd ed. 1950)",
+        "view": "It is declared by the authorities that Rahu gives results like Saturn and Ketu like Mars.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "disagreements": "Classical support for Rahu by house is thin: Brihat Jataka and Saravali give no house-by-house results for the nodes (as the Bhrigu Sutras commentator also notes); Phaladeepika 8.25-27 and the Bhrigu Sutras (which give one combined result for Rahu or Ketu) are the main per-house classical statements, supplemented by scattered rules in Saravali 12, BPHS, Jataka Parijata and Uttara Kalamrita. Raman HJH calls the native prosperous and Hindu Predictive Astrology 'saintly', against the losses and secret wrongdoing in Phaladeepika, Chamatkar Chintamani and Braha.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as a call for budgeting, sleep hygiene and healthy outlets for escapism; mention travel or life abroad as possibilities. Do not discuss after-death states or label the person immoral."
+  }
+]

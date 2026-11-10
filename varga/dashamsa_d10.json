@@ -1,0 +1,420 @@
+[
+  {
+    "id": "varga/what_d10_shows",
+    "layer": "varga",
+    "key": {"topic": "what_d10_shows"},
+    "summary": "The dashamsa (D10, each sign split into ten parts of 3 degrees) is Parashara's chart for power and position ('great results'); modern authors use it as the chart of career, work and achievements in society.",
+    "themes": ["career", "status", "karma", "achievements"],
+    "common_outcomes": [
+      "Read career questions in D10 after checking the D1 10th house, its lord and the 10th from the Moon.",
+      "Treat D10 as showing how work actually unfolds and the standing it brings, not only the job title."
+    ],
+    "rare_outcomes": [
+      "Rath also calls D10 'karmamsa' or 'swarga chakra' and uses it for the work a spiritual person does in the world (e.g. heads of religious institutions)."
+    ],
+    "by_area": {"personality": "", "career": "Core use (BPHS 7.1-8; PVR 6.3; Rath ch. XIII; Raman HPA ch. X).", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": "Rath ch. XII: the work one does to further spiritual aims is also seen in D10."},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "D10 counting: from the sign itself for an odd sign, from the 9th sign for an even sign (BPHS 6.13-14; Phaladeepika 3.6). PVR gives the seed house of D10 as the 10th, hence 'karma or action in society'.",
+    "source_views": [
+      {"source": "BPHS 7.1-8 (tr. R. Santhanam, vol. 1)", "view": "Power and position are to be judged from the dasamsa.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS, Santhanam's introduction to vol. 1", "view": "In deciding one's career the dasamsa positions of the planets are of supreme importance.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 6.13-14", "view": "Defines the ten 3-degree dasamsas, counted from the sign itself in odd signs and from the 9th in even signs.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, 6.3 Table 11, 6.5 and 18.5", "view": "D10 shows career, activities and achievements in society; to study career one should analyse the dasamsa; its seed is the 10th house, so it shows karma in society.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. II sec. 7 and ch. XIII 13.2", "view": "D10 is also called karmamsa or swarga chakra; the focus is the 10th house in that chart; power or rise due to karma is seen in D10.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. X", "view": "Among Parashara's sixteen divisions the dasamsa is used for profession; a beginner need not use these finer divisions yet.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"}
+    ],
+    "disagreements": "Parashara's word is 'great results' / power and position (Santhanam: power and position); career-as-profession is the modern reading. Raman treats D10 as an advanced tool rather than a default one.",
+    "confidence": "high",
+    "phrasing_guidance": "Present D10 as describing the shape of one's working life and recognition; avoid naming a single fixed job.",
+    "conditional_results": []
+  },
+  {
+    "id": "varga/d10_weight_vs_d1",
+    "layer": "varga",
+    "key": {"topic": "d10_weight_vs_d1"},
+    "summary": "Classical weighting gives the dasamsa little general weight (one quarter of the rasi effect in Phaladeepika; 1.5 of 20 vimshopaka points in the ten-division scheme), so D10 refines career judgement but does not replace D1.",
+    "themes": ["weighting", "vimshopaka", "rasi vs dasamsa"],
+    "common_outcomes": [
+      "Judge career first from D1 (10th house, 10th lord, 10th from Moon) and use D10 to confirm and specify.",
+      "For overall planetary strength the dasamsa counts only in the ten- and sixteen-division schemes."
+    ],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "Main sphere where D10 gets more than background weight (PVR 6.5; Rath 13.2.1).", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "The dasamsa is not part of the six- or seven-division schemes (BPHS 7.17-20; Phaladeepika 3.2).",
+    "source_views": [
+      {"source": "Phaladeepika 3.2-3.3 (tr. Sastri, 1950)", "view": "Removing the dasamsa, shashtyamsa and kalamsa from the ten vargas gives the saptavarga; effects are full in the rasi, half in other vargas and only a quarter in the shodasamsa, dasamsa and shashtyamsa.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "BPHS 7.20-25 (tr. Santhanam)", "view": "In the dasavarga scheme the rasi gets 3, the shashtiamsa 5 and each other division (dasamsa included) 1.5 points; in the shodasavarga scheme the dasamsa is among the divisions getting half a point.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 6.5 and 13.4.1", "view": "Choose the divisional chart by the matter of interest: for career and achievements in society D10 is the correct chart.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. XIII 13.2.1", "view": "The dasamsa should be analysed in detail independently, like the rasi chart.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Classical weights give D10 little general force; PVR and Rath give it primary weight for career questions specifically.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say D10 adds detail to the career picture already in the birth chart.",
+    "conditional_results": []
+  },
+  {
+    "id": "varga/d10_lagna_and_lord",
+    "layer": "varga",
+    "key": {"topic": "d10_lagna_and_lord"},
+    "summary": "The D10 lagna and its lord represent the person in their working life; the lord's house in D10 shows working style (in the 9th: independent, own boss; in the 5th: prefers service), and planets linked to it drive the career.",
+    "themes": ["dasamsa lagna", "lagna lord", "work style"],
+    "common_outcomes": [
+      "D10 lagna lord in the 9th: independent, suited to business or self-directed work (Rath).",
+      "D10 lagna lord in the 5th: tends to work as a subordinate or in service (Rath).",
+      "D10 lagna lord in a dusthana (e.g. 8th) weakens the career chart; in a trine it strengthens it (PVR 32.2.1 example)."
+    ],
+    "rare_outcomes": [
+      "Rath: heads of the Kanchi math seem to have a watery D10 lagna with a strong Jupiter-Mars combination."
+    ],
+    "by_area": {"personality": "", "career": "Core use.", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["D10 lagna lord in a kendra or trikona", "benefics in or aspecting the D10 lagna"],
+    "weakeners_or_cancellations": ["D10 lagna lord in the 8th (PVR example)", "8th lord joining the D10 lagna or its lord (Rath ch. XI)"],
+    "lagna_or_context_notes": "The D10 lagna changes sign about every 12 minutes of birth time (PVR 32.2.1); see birth_time_sensitivity.",
+    "source_views": [
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. II sec. 7 and ch. XIII 13.2.4", "view": "In the divisional chart the ninth house is the boss and the fifth the subordinates; the lagna lord in the 9th makes one independent (business suits), in the 5th one prefers to be a subordinate or in service.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 32.2.1", "view": "Example: a D10 with the lagna lord in the 8th is weak, while the same lord in the 9th strengthens it.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. XII (spiritual heads)", "view": "Notes a recurring watery D10 lagna with a strong Jupiter-Mars yoga in charts of heads of the Kanchi Kamakoti Peetham.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "BPHS 7.1-8 (tr. Santhanam)", "view": "General method: houses and lords are judged within the relevant division; Santhanam's example is the 2nd and 4th lords in the chaturvimsamsa for education.", "url": "https://archive.org/details/BPHSEnglish"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe preferred working style, not a fixed destiny of 'boss' or 'employee'.",
+    "conditional_results": [
+      {"when": "manual: D10 lagna lord in the 9th house of D10", "polarity": "good", "effects": ["independent work; business or self-directed roles suit"], "source": "Rath, Crux ch. XIII 13.2.4"},
+      {"when": "manual: D10 lagna lord in the 5th house of D10", "polarity": "mixed", "effects": ["prefers service or a subordinate role"], "source": "Rath, Crux ch. II sec. 7"},
+      {"when": "manual: D10 lagna lord in the 8th house of D10", "polarity": "bad", "effects": ["career chart weakened"], "source": "PVR 32.2.1"}
+    ]
+  },
+  {
+    "id": "varga/d10_tenth_house_and_lord",
+    "layer": "varga",
+    "key": {"topic": "d10_tenth_house_and_lord"},
+    "summary": "The 10th house of D10 shows the true nature of one's work and conduct in society; any planet there can independently give rise and success, and the planet's nature points to the field.",
+    "themes": ["10th house", "nature of work", "field"],
+    "common_outcomes": [
+      "Planets in the D10 10th (and the other artha houses 2 and 6) colour the field: Sun politics or public service, Mars police/army, Jupiter law/teaching/priesthood/astrology, Mercury business/writing/trade, Venus entertainment and beauty, Saturn heavy or menial work, Rahu imports, Ketu exports (Rath 13.2.1).",
+      "Also study the 7th of D10, the arudha (pada) of the 10th (Rath).",
+      "The 10th from the arudha lagna in D10 shows perceived status in career, as opposed to the 10th from the D10 lagna (PVR 9.3)."
+    ],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "Core use.", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["strong planet in the D10 10th", "10th lord of D10 well placed"],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. XIII 13.2.1", "view": "The artha trikona (2, 6, 10) of D10 governs functioning; any planet in the D10 10th can give power, rise and success; the 7th, as pada to the 10th, should also be studied; lists fields by planet dominating these houses.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. II sec. 7", "view": "In D10 the focus is the 10th house; the artha trikonas (2, 6, 10) normally decide the choice of profession.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 9.3", "view": "The 10th from lagna in D10 shows true conduct in society and the true nature of one's work; the 10th from the arudha lagna in D10 shows how that conduct is perceived and one's status in career; A10 in D10 shows the workplace.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Saravali 33.2-6 (Santhanam tr.)", "view": "Classically, the 10th from the stronger of lagna and Moon is the house of karma; if its lord is strong karma prospers; occupants of the 10th from the Moon or lagna shape livelihood by their nature (D1 rule, the basis D10 refines).", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"}
+    ],
+    "disagreements": "Saravali works from the D1 10th (from lagna or Moon); Rath and PVR transfer the analysis into D10.",
+    "confidence": "medium",
+    "phrasing_guidance": "Offer fields as broad families of work; avoid stigmatising labels like 'menial'.",
+    "conditional_results": [
+      {"when": "manual: the Sun dominates the 2nd, 6th or 10th of D10", "polarity": "good", "effects": ["politics or public service"], "source": "Rath, Crux 13.2.1"},
+      {"when": "manual: Mars dominates the 2nd, 6th or 10th of D10", "polarity": "mixed", "effects": ["police, intelligence, army"], "source": "Rath, Crux 13.2.1"},
+      {"when": "manual: Jupiter dominates the 2nd, 6th or 10th of D10", "polarity": "good", "effects": ["law, judiciary, priesthood, astrology, teaching"], "source": "Rath, Crux 13.2.1"},
+      {"when": "manual: Mercury dominates the 2nd, 6th or 10th of D10", "polarity": "good", "effects": ["business, writing, publishing, trade"], "source": "Rath, Crux 13.2.1"},
+      {"when": "manual: Venus dominates the 2nd, 6th or 10th of D10", "polarity": "good", "effects": ["entertainment, arts, beauty"], "source": "Rath, Crux 13.2.1"},
+      {"when": "manual: Saturn dominates the 2nd, 6th or 10th of D10", "polarity": "mixed", "effects": ["burdensome or labour-heavy work"], "source": "Rath, Crux 13.2.1"},
+      {"when": "manual: any planet occupies the 10th house of D10", "polarity": "good", "effects": ["can independently give power, rise and success in career"], "source": "Rath, Crux 13.2.1"}
+    ]
+  },
+  {
+    "id": "varga/planets_strong_in_d10",
+    "layer": "varga",
+    "key": {"topic": "planets_strong_in_d10"},
+    "summary": "A planet in its exaltation, moolatrikona or own sign in D10 is strong for career; its periods bring career gains, especially if linked to the D10 lagna or power points; debilitated malefics in key D10 houses damage the matters of those houses.",
+    "themes": ["dignity in D10", "career strength"],
+    "common_outcomes": [
+      "Expect career progress in the periods of planets strong in D10, particularly if they relate to the D10 lagna, 10th or their lords.",
+      "A debilitated malefic in the D10 7th damages business and pushes towards service (Rath)."
+    ],
+    "rare_outcomes": [
+      "PVR: a planet exalted in the ghati lagna of D10 can give power and authority in its period."
+    ],
+    "by_area": {"personality": "", "career": "Core use.", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": ["debility or combustion in D10"],
+    "lagna_or_context_notes": "The calculator's D9 dignity facts do not cover D10; D10 dignity must be judged manually.",
+    "source_views": [
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 6.6 and 16.5.1", "view": "Exaltation, moolatrikona or own sign in a divisional chart makes a planet very strong in that chart; a planet gives the results promised by its divisional positions, e.g. a planet exalted in ghati lagna in D10 can give power and authority.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. XIII 13.2.2 and ch. XI (chart example)", "view": "A debilitated malefic in the 7th of D10 encourages service and damages business; in the example it destroyed the business.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "BPHS 7.1-8 (tr. Santhanam, with notes)", "view": "A dasha lord dignified in the relevant division gives that division's results (Santhanam's example: dignified in the chaturvimsamsa, wide learning); a bhava flourishes when its lord is in a benefic shodasamsa.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "Saravali 45.22 (applied by analogy)", "view": "Gives graded results by navamsa dignity (exaltation full, own moderate-good, enemy/debilitation little); no equivalent dasamsa rule is stated in Saravali.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"}
+    ],
+    "disagreements": "Classical texts state dignity-by-division rules mainly for the navamsa; applying them to D10 is the modern practice (PVR, Rath) following BPHS 7's instruction to judge each matter in its division.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of periods that favour professional growth rather than guaranteed promotions.",
+    "conditional_results": [
+      {"when": "manual: dasha lord is exalted, moolatrikona or own sign in D10", "polarity": "good", "effects": ["career gains in its period"], "source": "PVR 6.6, 16.5.1; BPHS 7.1-8 (Santhanam note)"},
+      {"when": "manual: a debilitated malefic in the 7th house of D10", "polarity": "bad", "effects": ["business damaged; service favoured"], "source": "Rath, Crux 13.2.2"}
+    ]
+  },
+  {
+    "id": "varga/service_vs_business_in_d10",
+    "layer": "varga",
+    "key": {"topic": "service_vs_business_in_d10"},
+    "summary": "In D10 the 6th house shows service (employment) and the 7th business; whichever is stronger or more occupied indicates the path; the 9th is the boss, the 5th subordinates, the 8th retirement.",
+    "themes": ["employment", "business", "boss", "subordinates"],
+    "common_outcomes": [
+      "Stronger or more occupied D10 6th: service; stronger D10 7th: own business (Rath 13.2.2).",
+      "Benefic influence on the D10 9th: helpful boss; malefic obstruction on it: trouble from the boss in that planet's period (Rath 13.2.3).",
+      "The 3rd, 8th and 12th of D10 (3rd from the 1st, 6th and 10th) cause problems; 8th shows retirement, 3rd short leave, 12th long leave (Rath 13.2.3)."
+    ],
+    "rare_outcomes": [
+      "Rath: the 7th lord's period can unsettle a job, since the 7th (business) is the maraka of the 6th (service)."
+    ],
+    "by_area": {"personality": "", "career": "Core use.", "finance": "The 2nd of D10 (8th from the 7th) governs the finance to start a business (Rath 13.2.4).", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. XIII 13.2.2-13.2.4", "view": "6th rules service, 7th business; more planets or strength in one decides; 7th lord's period may destabilise service; boss from the 9th, subordinates from the 5th; 3rd, 8th and 12th cause problems; the 2nd governs business finance.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. II sec. 7", "view": "In D10 the 7th is business and the maraka of the 6th (service); the 8th, being 11th from the 10th, is retirement and inherited business; the 4th is the premises; the 9th the boss.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 9.3 and 13.4.1", "view": "A10 in D10 shows the workplace; choose the house in the divisional chart for the matter (e.g. the 7th for dealings with others in that sphere).", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Offer as leanings, not instructions to quit a job or start a business.",
+    "conditional_results": [
+      {"when": "manual: the 6th house of D10 is stronger or more occupied than the 7th", "polarity": "mixed", "effects": ["employment / service path"], "source": "Rath, Crux 13.2.2"},
+      {"when": "manual: the 7th house of D10 is stronger than the 6th", "polarity": "mixed", "effects": ["business path"], "source": "Rath, Crux 13.2.2"},
+      {"when": "manual: running period lord has malefic argala on the 9th of D10", "polarity": "bad", "effects": ["friction with the boss"], "source": "Rath, Crux 13.2.3"}
+    ]
+  },
+  {
+    "id": "varga/d10_eighth_house",
+    "layer": "varga",
+    "key": {"topic": "d10_eighth_house"},
+    "summary": "The 8th house and lord of D10 can bring career trouble (loss of job, lawsuits, debt) or, if linked to the D10 lagna lord, inheritance of an enterprise or headship; it also marks retirement.",
+    "themes": ["8th house", "debt", "retirement", "inheritance"],
+    "common_outcomes": [
+      "8th lord or 8th-house planets of D10 can bring loss of service, lawsuits, even imprisonment in their periods, depending on nature and strength (Rath).",
+      "If well connected to the D10 lagna lord, the 8th can give inheritance of factories, institutions or party leadership (Rath).",
+      "A benefic in the D10 8th favours business; a malefic there favours service (Rath)."
+    ],
+    "rare_outcomes": ["Rath: the 8th lord in the D10 lagna shows chronic debt."],
+    "by_area": {"personality": "", "career": "Core use.", "finance": "Debt or large loans for enterprise (Rath).", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": ["8th lord with benefic argala on the D10 lagna lord"],
+    "weakeners_or_cancellations": ["8th lord in the D10 lagna"],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. XI (8th house)", "view": "The D10 8th lord or 8th-house planets can cause loss of service, lawsuits and imprisonment; well connected to the D10 lagna lord they give inheritance of enterprises or headship; a benefic in the 8th favours business, a malefic service; the 8th lord in the D10 lagna shows chronic debt.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. XIII 13.2", "view": "The 8th, as 11th from the 10th, is retirement or end of career; beneficially disposed it gives big loans for enterprise, ill-disposed endless debt.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 12.5 (Example 39, ashtakavarga of D-10)", "view": "Strong sarvashtakavarga points in the D10 8th explained struggles in a politician's career despite a strong D10 lagna.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Never predict imprisonment or lawsuits; speak of periods needing care with obligations and contracts.",
+    "conditional_results": [
+      {"when": "manual: running period is of the D10 8th lord or a planet in the D10 8th, and it is weak or afflicted", "polarity": "bad", "effects": ["job instability, disputes, debt"], "source": "Rath, Crux ch. XI"},
+      {"when": "manual: D10 8th lord well connected to the D10 lagna lord", "polarity": "good", "effects": ["inherited enterprise or headship"], "source": "Rath, Crux ch. XI"}
+    ]
+  },
+  {
+    "id": "varga/amatyakaraka_and_career",
+    "layer": "varga",
+    "key": {"topic": "amatyakaraka_and_career"},
+    "summary": "The amatyakaraka (second-highest degree chara karaka, the 'minister') is linked to profession and advisory or official roles; sources state the rules in D1 (and karakamsa) and modern authors read it alongside D10, but no source read gives a D10-specific amatyakaraka rule.",
+    "themes": ["amatyakaraka", "minister", "profession"],
+    "common_outcomes": [
+      "10th lord joined or aspected by the amatyakaraka or its dispositor: an important position with authority (BPHS 40.1; PVR 11.8).",
+      "Amatyakaraka strong in own or exaltation sign, in a trine from the lagna, or conjunct the atmakaraka: ministerial or senior advisory roles (PVR 11.8).",
+      "Check the amatyakaraka's D10 placement as supporting evidence for career direction (Rath's examples)."
+    ],
+    "rare_outcomes": [
+      "BPHS 33 (via Santhanam): deity of worship can also be read from the 6th navamsa from the amatyakaraka's navamsa."
+    ],
+    "by_area": {"personality": "", "career": "Core use.", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": "Rath ch. XII and BPHS 33: 6th from the amatyakaraka in D9 for places/deity of worship."},
+    "strengtheners": ["amatyakaraka in a kendra or trikona from the atmakaraka (PVR 11.8)"],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Seven vs eight karaka schemes can change which planet is amatyakaraka (BPHS 32.1-2). See karaka/amatyakaraka for significations.",
+    "source_views": [
+      {"source": "BPHS 40.1 (tr. Santhanam)", "view": "If the 10th lord is joined or aspected by the amatyakaraka's dispositor, or the amatyakaraka itself, the native is a chief in the king's court.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "BPHS 32.13-17", "view": "The amatyakaraka is the planet next after the atmakaraka in degrees.", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 11.8 (Raaja sambandha yogas)", "view": "10th lord with AmK or its dispositor; AK and AmK conjoined; AmK strong in own or exaltation; AmK in a trine from lagna; AmK in kendra/trine from AK: all give association with rulers and ministerial roles.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. XIII (example charts)", "view": "The amatyakaraka plays an important role in determining profession; in examples he reads its rasi, navamsa and dasamsa placements together.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "No source read states a rule for the amatyakaraka in D10 as such; the D10 use is inferred from Rath's worked examples.",
+    "confidence": "low",
+    "phrasing_guidance": "Use as supporting colour for advisory, managerial or official roles.",
+    "conditional_results": [
+      {"when": "manual: D1 10th lord conjunct or aspected by the amatyakaraka or its dispositor", "polarity": "good", "effects": ["position of authority or high office"], "source": "BPHS 40.1; PVR 11.8"},
+      {"when": "manual: amatyakaraka in own or exaltation sign, or in a trine from the lagna", "polarity": "good", "effects": ["ministerial or senior advisory standing"], "source": "PVR 11.8"}
+    ]
+  },
+  {
+    "id": "varga/d10_yogas",
+    "layer": "varga",
+    "key": {"topic": "d10_yogas"},
+    "summary": "Yogas can be read inside D10; raja yogas of D1 should be confirmed there (and in D5), and solar yogas like Budha-Aditya are most powerful in divisional charts such as D10.",
+    "themes": ["raja yoga confirmation", "Budha-Aditya", "yogas in vargas"],
+    "common_outcomes": [
+      "Confirm a D1 raja yoga by checking whether the same planets are strong and linked in D10 (Rath 13.2).",
+      "Sun and Mercury together in D10 (not too close): strong Budha-Aditya yoga in career, felt in the periods of Sun, Mercury and that sign (PVR 11.2.4)."
+    ],
+    "rare_outcomes": [
+      "Rath (example): a five-planet malika yoga in D10 coincided with the real raja yoga period."
+    ],
+    "by_area": {"personality": "", "career": "Core use.", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": ["combust Mercury weakens Budha-Aditya (PVR 11.2.4)"],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. XIII 13.2", "view": "Raja yogas need to be confirmed in the panchamamsa (D5) and the dasamsa (D10).", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 11.2 and 11.2.4", "view": "Solar yogas can be applied in D9 and D10; Budha-Aditya yoga is most powerful in divisional charts like D10 and gives career results throughout life, especially in the periods of Sun, Mercury and the sign involved.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "BPHS 6.42-53 (tr. Santhanam)", "view": "Good vargas are counted across schemes and the resulting grades are used in raja yogas; divisions of combust or weak planets are ignored because they destroy good yogas.", "url": "https://archive.org/details/BPHSEnglish"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as confirmation of potential already in the birth chart.",
+    "conditional_results": [
+      {"when": "manual: a D1 raja yoga's planets are also strong and connected in D10", "polarity": "good", "effects": ["raja yoga confirmed for career"], "source": "Rath, Crux 13.2"},
+      {"when": "manual: Sun and Mercury in the same sign in D10 and Mercury not combust", "polarity": "good", "effects": ["skill and recognition in career; active in Sun/Mercury periods"], "source": "PVR 11.2.4"}
+    ]
+  },
+  {
+    "id": "varga/classical_profession_via_navamsa",
+    "layer": "varga",
+    "key": {"topic": "classical_profession_via_navamsa"},
+    "summary": "Before D10 became standard, classical texts read the kind of profession from the lord of the navamsa occupied by the 10th lord (from lagna, Moon or Sun, whichever is strongest); this rule complements a D10 reading.",
+    "themes": ["profession", "navamsa of 10th lord", "classical method"],
+    "common_outcomes": [
+      "Find the 10th lord (from the strongest of lagna, Moon, Sun), note its D9 sign and that sign's lord; the lord's nature gives the means of livelihood (Phaladeepika 5.1-5.8).",
+      "Sun's navamsa: medicine, wool, metals, government service; Moon's: water products, agriculture, cattle, clothes; Mars's: metals, fighting, cooking, land, weapons; Mercury's: writing, scriptures, clerical work, astrology (Phaladeepika 5.2-5.5)."
+    ],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "Core use.", "finance": "Phaladeepika 5.1: the source of wealth (father, mother, enemy, friend, sibling, spouse, servant) follows the planet in the 10th from the stronger of lagna and Moon.", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "Phaladeepika 5.1-5.5 (tr. Sastri)", "view": "Profession is that of the lord of the navamsa occupied by the 10th lord counted from the lagna, Moon or Sun, whichever is strongest; gives the trades for the Sun's, Moon's, Mars's and Mercury's navamsas and onwards.", "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"},
+      {"source": "Saravali 33.2-6", "view": "The 10th from the stronger of lagna and Moon is karmasthana; a strong 10th lord makes karma prosper; occupants of the 10th from Moon or lagna shape livelihood by their nature.", "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. VIII 8.1", "view": "Skill and intelligence, which shape the profession, are seen from the 5th from the navamsa lagna or karakamsa.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"}
+    ],
+    "disagreements": "Classical texts derive profession from D9 (navamsa of the 10th lord); modern authors (PVR, Rath) use D10. They can be read together.",
+    "confidence": "medium",
+    "phrasing_guidance": "Translate old trade lists into modern families of work.",
+    "conditional_results": [
+      {"when": "manual: lord of the D9 sign occupied by the 10th lord is the Sun", "polarity": "mixed", "effects": ["work with medicine, metals, wool, government or respected patrons"], "source": "Phaladeepika 5.2"},
+      {"when": "manual: lord of the D9 sign occupied by the 10th lord is the Moon", "polarity": "mixed", "effects": ["water products, agriculture, cattle, clothing trade, service under a woman"], "source": "Phaladeepika 5.3"},
+      {"when": "manual: lord of the D9 sign occupied by the 10th lord is Mars", "polarity": "mixed", "effects": ["metals, land, weapons, cooking, adventurous or combative work"], "source": "Phaladeepika 5.4"},
+      {"when": "manual: lord of the D9 sign occupied by the 10th lord is Mercury", "polarity": "mixed", "effects": ["writing, clerical work, scriptures, astrology, priestly work"], "source": "Phaladeepika 5.5"}
+    ]
+  },
+  {
+    "id": "varga/birth_time_sensitivity",
+    "layer": "varga",
+    "key": {"topic": "birth_time_sensitivity"},
+    "summary": "The D10 lagna changes sign roughly every 12 minutes of birth time (the D1 lagna moves about 1 degree in 4 minutes and each dasamsa is 3 degrees), and planets near a 3-degree boundary can also flip sign; so D10 is only as reliable as the birth time.",
+    "themes": ["birth time", "accuracy", "rectification"],
+    "common_outcomes": [
+      "If the reported birth time could be off by more than a few minutes, treat the D10 lagna and house positions as uncertain.",
+      "Check whether the ascendant degree is within about 1 degree (4 minutes) of a 3-degree boundary, or the Moon within a few arc-minutes of one: then two D10 versions are possible."
+    ],
+    "rare_outcomes": [
+      "PVR: the Moon moves about 1 arc-minute in 1.8 minutes, so even a 2-minute error can move it across a D10 boundary when it is right at the edge."
+    ],
+    "by_area": {"personality": "", "career": "Reliability of all D10 career judgements depends on this.", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Slow planets rarely change D10 sign within a few minutes (the Sun changes D10 sign about every 3 days, the Moon about every 6 hours), so planet signs are usually safe unless near a boundary.",
+    "source_views": [
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 32.1-32.2.1", "view": "Twins born minutes apart differ because divisional lagnas change fast; the lagna moves 1 degree in about 4 minutes and changes sign in D10 in 12 minutes (D24 in 5); check planets at varga borders and consider both positions.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. II sec. 8", "view": "For proper use of divisional charts the birth time should first be rectified using the navamsa, dwadasamsa and other key divisions, then fine-tuned.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XI", "view": "The exact moment of birth is rarely recorded; rectification is for experienced astrologers using pronounced life events.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"},
+      {"source": "BPHS 6.13-14", "view": "Each dasamsa spans 3 degrees, the basis of the sensitivity.", "url": "https://archive.org/details/BPHSEnglish"}
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Be open that fine career detail depends on an accurate birth time; never present D10 specifics as certain when the time is approximate.",
+    "conditional_results": [
+      {"when": "manual: D1 ascendant degree is within about 1 degree of a multiple of 3 degrees in its sign", "polarity": "mixed", "effects": ["D10 lagna uncertain; consider both candidate D10 lagnas"], "source": "PVR 32.2.1"}
+    ]
+  },
+  {
+    "id": "varga/uncertain_d10_handling",
+    "layer": "varga",
+    "key": {"topic": "uncertain_d10_handling"},
+    "summary": "When D10 is uncertain, sources say to rectify from known life events (fix D9 or D10 lagna from marriage and career history, then refine), consider both candidate positions, and otherwise fall back on D1 and D9 rather than averaging.",
+    "themes": ["uncertain birth time", "rectification", "fallback"],
+    "common_outcomes": [
+      "If career history is known, test each candidate D10 lagna against it and keep the one that explains the past (PVR 32.1, 32.3).",
+      "Do not use an averaged time: a 6-minute window covers people with different D10 charts (PVR 32.1).",
+      "Without verification, lean on the D1 10th house/lord, 10th from the Moon and the classical navamsa-of-10th-lord rule, and mark D10-only conclusions as tentative (Raman ch. X advises beginners to rest on rasi and navamsa)."
+    ],
+    "rare_outcomes": [
+      "PVR warns most textbook rectification formulas (e.g. Pranapada in navamsa, kunda) fail the test of twins; only event-based rectification works."
+    ],
+    "by_area": {"personality": "", "career": "Core use.", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 32.1 and 32.3", "view": "Reported birth times are seldom accurate; the only correct rectification finds a nearby time that explains the person's nature and known events; do not average a range; first fix the D9 or D10 lagna, then go to higher charts, revisiting if stuck.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. II sec. 8", "view": "Rectify first using the navamsa, dwadasamsa and other important divisions before relying on divisional charts.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. X-XI", "view": "Beginners should judge from rasi and navamsa; birth times can be rectified only by experienced astrologers from pronounced life events.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"}
+    ],
+    "disagreements": "PVR treats D1-only prediction as unscientific and insists on rectification; Raman accepts rasi-plus-navamsa judgement as the practical baseline.",
+    "confidence": "medium",
+    "phrasing_guidance": "State plainly when a career statement rests on an unverified D10 and offer it as a possibility.",
+    "conditional_results": []
+  },
+  {
+    "id": "varga/d10_and_dasha",
+    "layer": "varga",
+    "key": {"topic": "d10_and_dasha"},
+    "summary": "Career events are timed by the periods of planets well or badly placed in D10 and linked to its lagna, 10th and power points; Narayana dasa can be run on D10 itself.",
+    "themes": ["dasha", "career timing", "promotion"],
+    "common_outcomes": [
+      "Promotion: planets or signs connected to the ghati lagna and to the arudha lagna (or its 5th/10th) in D10; e.g. the AL lord in the 10th from AL aspecting GL (PVR 6.5).",
+      "Job start: the period of the 5th lord from the D10 lagna (Rath, ch. X example; and 13.2: joining a new job is timed from the 5th house).",
+      "A well-disposed planet aspecting A3 in D10 can bring writing or publishing (PVR 16.5.1)."
+    ],
+    "rare_outcomes": [
+      "PVR runs Narayana dasa of D10 to time career changes (18.5)."
+    ],
+    "by_area": {"personality": "", "career": "Core use.", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "P.V.R. Narasimha Rao, Integrated Approach, 6.5, 16.5.1 and 18.5", "view": "Promotions are linked to ghati lagna and arudha lagna in D10; a planet exalted in GL in D10 can give authority in its period; Narayana dasa of D10 times career events.", "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology, ch. XIII 13.2 and ch. X example (5th lord in D10)", "view": "The timing of joining a new job is done from the 5th house; in an example the D10 5th lord's sub-sub period gave the appointment.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "BPHS 7.30-32 (tr. Santhanam)", "view": "Dasha results are to be declared according to the planet's vimshopaka grade across the divisions (eight grades from full to very little).", "url": "https://archive.org/details/BPHSEnglish"},
+      {"source": "B.V. Raman, Hindu Predictive Astrology, ch. XXIV", "view": "A dasha lord's results are modified by its divisional (navamsa) strength; e.g. full political success from the Sun in the 10th only if equally strong in the navamsa.", "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"}
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Give timing as favourable windows, not dates.",
+    "conditional_results": [
+      {"when": "manual: running period lord is strong in D10 and linked to the D10 lagna, 10th house or their lords", "polarity": "good", "effects": ["career progress in the period"], "source": "PVR 16.5.1; Rath 13.2"},
+      {"when": "manual: running sub-period or sub-sub-period lord is the 5th lord from the D10 lagna", "polarity": "good", "effects": ["new job or appointment possible"], "source": "Rath, Crux 13.2 and ch. X example"}
+    ]
+  },
+  {
+    "id": "varga/d10_deities",
+    "layer": "varga",
+    "key": {"topic": "d10_deities"},
+    "summary": "Parashara assigns a presiding deity of the ten directions to each dasamsa (Indra, Agni, Yama, Rakshasa, Varuna, Vayu, Kubera, Isana, Brahma, Ananta; reversed in even signs), but gives no rule for how they modify results.",
+    "themes": ["dasamsa deities", "dikpalas"],
+    "common_outcomes": ["Record the deity only as descriptive colour; no interpretive rule is sourced."],
+    "rare_outcomes": [],
+    "by_area": {"personality": "", "career": "", "finance": "", "health": "", "relationships": "", "family": "", "spirituality": ""},
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "",
+    "source_views": [
+      {"source": "BPHS 6.13-14 (tr. Santhanam)", "view": "The ten dasamsas of an odd sign are presided over by Indra, Agni, Yama, Rakshasa, Varuna, Vayu, Kubera, Isana, Brahma and Ananta; in reverse order for an even sign.", "url": "https://archive.org/details/BPHSEnglish"}
+    ],
+    "disagreements": "",
+    "confidence": "low",
+    "phrasing_guidance": "Do not draw predictions from the deity alone.",
+    "conditional_results": []
+  }
+]

@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "planet_in_sign/rahu/aries",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Aries"
+    },
+    "summary": "Rahu in Aries mixes the node's agitation with Mars's energy. Foss calls Rahu especially potent here, needing careful judgment of strength; Saravali says Rahu rising in Aries protects from evils, BPHS lists Aries among signs where Rahu gives wealth even when weak, and Raman's dasa note is favourable. Mars is listed as Rahu's enemy in several schemes.",
+    "themes": [
+      "self-assertion",
+      "ambition",
+      "impulsive risk",
+      "pioneering",
+      "restlessness"
+    ],
+    "common_outcomes": [
+      "Strong drive and agitation coloured by Mars; results depend on the relative strength of Rahu and Mars (Foss, name 45)",
+      "Raman's dasa note: celebrations at home, land, domestic happiness and respect from rulers (HPA ch.24)",
+      "Bold initiative and career jumps (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "BPHS 45.123: Rahu in Aries, Taurus, Gemini or Virgo brings wealth and grain even in the 'sleeping' state that otherwise brings trouble",
+      "Saravali 12.10: Rahu in the lagna in Aries, Taurus or Cancer protects the native from evils",
+      "Foss links Rahu in Aries with intelligence and problem-solving (Aries as the head)"
+    ],
+    "by_area": {
+      "personality": "Potent and agitated when provoked, inventive (Foss, name 45); impulsive and competitive (astromedha.in, via summary).",
+      "career": "Sudden career jumps (astromedha.in, via summary).",
+      "finance": "Gains of land and wealth (BPHS 45.123; Raman HPA ch.24).",
+      "health": "",
+      "relationships": "",
+      "family": "Domestic happiness in Rahu's dasa (Raman HPA ch.24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong, well-placed Mars (dispositor; Frawley pp.256-257)",
+      "Rahu in the lagna in Aries (Saravali 12.10)",
+      "BPHS 57.1: Rahu in a kendra, trikona or the 11th, or linked with a raja yoga, gives good dasa results",
+      "Braha: the nodes do better in the 3rd, 6th, 10th and 11th houses; Frawley: Rahu works best in the 9th or 10th with that house's ruler strong"
+    ],
+    "weakeners_or_cancellations": [
+      "Weak or afflicted Mars (Frawley pp.256-257)",
+      "Mars is listed as Rahu's enemy (Jataka Bharanam 'others' view)",
+      "Aspects of Saturn, Sun and Mars on Rahu add to weakness (Frawley p.256)"
+    ],
+    "lagna_or_context_notes": "Saravali 12.10 singles out Rahu rising in Aries as protective. Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "BPHS 45.123 (Sanskrit with gloss, enjoylearningsanskrit.com numbering)",
+        "view": "Rahu in shayana avastha brings much trouble, but in Taurus, Gemini, Virgo or Aries gives wealth and grain.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-45/verse-123"
+      },
+      {
+        "source": "Saravali 12.10 (English e-text, archive.org; matches R. Santhanam's translation)",
+        "view": "Rahu in the ascendant in Aries, Taurus or Cancer protects the native from all evils.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Rahu's home Virgo, exaltation Gemini, moolatrikona Pisces. 'Some': exaltation Taurus (Ketu Scorpio), moolatrikona Aquarius, Aries friendly. 'Others': exaltation Gemini (peak 20 degrees), trine Aquarius, home Virgo; friends Venus and Saturn, enemies Sun, Moon and Mars.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), name 45",
+        "view": "'Born in Aries': Rahu is especially potent in Aries; mixed with Mars's energy it can be agitated if provoked, but relative strength and auspicious factors must be weighed.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu in Aries: auspicious celebrations, sacred recitations, land, domestic happiness, respect from rulers.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers pp.103, 256-257",
+        "view": "Rahu acts like Saturn and magnifies the planets it joins; a weak Rahu shows when the planet ruling its sign is weak, fallen, combust or badly aspected.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "astromedha.in, Rahu in Aries (via summary)",
+        "view": "Mars-like boldness, impulsive overreach, sudden career jumps, dissatisfaction.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-aries"
+      }
+    ],
+    "disagreements": "Aries is inimical in friendship schemes that make Mars Rahu's enemy (Jataka Bharanam 'others'), yet one view in the same text calls Aries Rahu's friendly sign, and BPHS 45.123, Saravali 12.10 and Raman's dasa note are favourable. Foss warns the Mars-Rahu mix can turn aggressive if provoked.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe ambitious, pioneering drive that benefits from patience. Classical support is thin; present as tendencies conditioned by Mars. No fatalism."
+  },
+  {
+    "id": "planet_in_sign/rahu/taurus",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Taurus"
+    },
+    "summary": "Taurus is the most widely cited exaltation of Rahu (Raman, Bhavartha Ratnakara, many scholars per Foss), with Gemini the main rival view. In Venus's sign, a friend of Rahu, the node turns toward wealth and comfort; Foss often sees abundant wealth or its show here, with a hidden cost, depending on Venus.",
+    "themes": [
+      "exaltation (majority view)",
+      "material desire",
+      "wealth",
+      "comfort and beauty",
+      "attachment"
+    ],
+    "common_outcomes": [
+      "Strong pull toward money and possessions; abundant wealth or at least its show (Foss, name 88)",
+      "Results hinge on Venus, the sign lord (Foss, name 88; Frawley pp.256-257)",
+      "Raman's dasa note: pilgrimages, philosophical knowledge, entertainment and gains from livestock (HPA ch.24)"
+    ],
+    "rare_outcomes": [
+      "BPHS 45.123 lists Taurus among signs where Rahu gives wealth even in the sleeping state",
+      "Saravali 12.10: Rahu rising in Taurus protects from evils",
+      "Foss notes the cost behind such wealth may include acts others would call scandalous (name 88)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Often favourable: wealth or its display (Foss, name 88; BPHS 45.123); overspending on pleasures is the risk (astromedha.in, via summary).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Pilgrimage and philosophical study in Rahu's dasa (Raman HPA ch.24)."
+    },
+    "strengtheners": [
+      "Strong Venus (dispositor and Rahu's friend; Braha; Foss name 88)",
+      "BPHS 57.1: Rahu in exaltation, own sign or moolatrikona, or in a kendra, trikona or the 11th, gives good dasa results",
+      "Rahu in the lagna in Taurus (Saravali 12.10)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Venus (Frawley pp.256-257)",
+      "Under the Gemini-exaltation school Taurus is only a friendly sign (Jataka Bharanam main view; Rath)"
+    ],
+    "lagna_or_context_notes": "Saravali 12.10 singles out Rahu rising in Taurus as protective. Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.6 (p.19)",
+        "view": "Rahu is exalted at 20 degrees of Taurus and Ketu at 20 degrees of Scorpio.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.8 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Rahu, Taurus is the place of exaltation and Gemini and Cancer are moolatrikonas.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), name 2",
+        "view": "For many scholars Rahu's exaltation is Taurus; others say it is powerful in Taurus but peaks for worldly affairs in Gemini. Aquarius and Scorpio are the signs owned by Rahu and Ketu; the four fixed signs are tied to the nodes.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), name 88",
+        "view": "Rahu in the 2nd house or in Taurus often gives abundant material wealth or its show, at a hidden cost; much depends on Venus.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers p.125",
+        "view": "Rahu and Ketu are sometimes given exaltation at 20 Taurus and 20 Scorpio; other Vedic astrologers say both nodes are exalted in Mercury's signs, Gemini and Virgo.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Sarvartha Chintamani (via summary, astrojagriti.substack.com)",
+        "view": "Rahu exalted in Taurus, Ketu in Scorpio.",
+        "url": "https://astrojagriti.substack.com/p/rahu-ketu-debilitation"
+      },
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Rahu's home Virgo, exaltation Gemini, moolatrikona Pisces. 'Some': exaltation Taurus (Ketu Scorpio), moolatrikona Aquarius, Aries friendly. 'Others': exaltation Gemini (peak 20 degrees), trine Aquarius, home Virgo; friends Venus and Saturn, enemies Sun, Moon and Mars.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "BPHS 45.123",
+        "view": "Taurus among signs where Rahu gives wealth even in the sleeping state.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-45/verse-123"
+      },
+      {
+        "source": "BPHS 57.1",
+        "view": "Rahu dasa is good if Rahu is in exaltation, own or moolatrikona, Libra, or kendra/trikona/11th; the verse names no sign for exaltation.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-57/verse-1"
+      },
+      {
+        "source": "Saravali 12.10 (English e-text, archive.org; matches R. Santhanam's translation)",
+        "view": "Rahu in the ascendant in Aries, Taurus or Cancer protects from evils.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu in Taurus: pilgrimages, philosophical knowledge, entertainments, gains from livestock.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Rahu in Taurus (via summary)",
+        "view": "Exaltation (standard view, some say Gemini); pull to wealth, attachment, overindulgence.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-taurus"
+      }
+    ],
+    "disagreements": "Taurus exaltation: Raman (HPA ch.6), Bhavartha Ratnakara 15.8, Sarvartha Chintamani (via summary), 'some' in Jataka Bharanam, many scholars per Foss and Frawley's first view. Gemini exaltation: Jataka Bharanam main view, Rath, others per Foss. Gemini and Virgo for both nodes: Braha and Frawley's second view. BPHS chapter 3 gives dignities only for the seven visible planets.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say Rahu is 'considered strong here by many traditions'. Emphasise material capability and the value of moderation. Avoid promising wealth."
+  },
+  {
+    "id": "planet_in_sign/rahu/gemini",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Gemini"
+    },
+    "summary": "Gemini is Rahu's exaltation in one major school (Jataka Bharanam's main view, Sanjay Rath; 'others' per Foss) and its moolatrikona in Bhavartha Ratnakara; Braha calls Mercury's signs the only agreed strong signs for the nodes. Foss sees Gemini as Rahu's peak for worldly affairs and debate. Raman's dasa note, however, is unfavourable.",
+    "themes": [
+      "exaltation or moolatrikona (disputed)",
+      "information hunger",
+      "communication",
+      "trade and media",
+      "restless mind"
+    ],
+    "common_outcomes": [
+      "Love of debate and counter-argument; peak worldly effect per some scholars (Foss, name 2)",
+      "Honour, fame, leadership and wealth when Rahu in Gemini is rising (Braha)",
+      "Raman's dasa note: more enemies, short temper, fear of authorities and disfavour (HPA ch.24)",
+      "Fast learning and communication skill (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Jataka Bharanam reports 20 degrees of Gemini as Rahu's highest exaltation point in one opinion",
+      "Foss: one text says Rahu in Gemini in the 1st house removes all afflictions (name 64)",
+      "BPHS 45.123 lists Gemini among signs where Rahu gives wealth even in the sleeping state"
+    ],
+    "by_area": {
+      "personality": "Argumentative, quick, always with a counter-argument (Foss, name 2).",
+      "career": "Braha: in Gemini or Virgo in the 10th or other houses, the nodes flourish; communication fields (astromedha.in, via summary).",
+      "finance": "Wealth even in a weak state (BPHS 45.123).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Mercury (dispositor; Rahu's friend per Braha)",
+      "Rahu rising in Gemini (Foss, name 64; Braha)",
+      "Braha: the nodes do better in the 3rd, 6th, 10th and 11th houses; Frawley: Rahu works best in the 9th or 10th with that house's ruler strong"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted or combust Mercury (Frawley pp.256-257)",
+      "Under the Taurus school Gemini is only a friendly sign or moolatrikona (Raman; Bhavartha Ratnakara 15.8)"
+    ],
+    "lagna_or_context_notes": "Foss: if the lagna is one of Rahu's strong signs (Aquarius, Virgo, Gemini, Taurus) with Rahu in it, Rahu is especially powerful, and one text says Rahu in Gemini rising removes afflictions. Braha: Rahu in Gemini or Virgo in the 1st makes one honoured, a leader, wealthy and spiritual. Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Rahu's home Virgo, exaltation Gemini, moolatrikona Pisces. 'Some': exaltation Taurus (Ketu Scorpio), moolatrikona Aquarius, Aries friendly. 'Others': exaltation Gemini (peak 20 degrees), trine Aquarius, home Virgo; friends Venus and Saturn, enemies Sun, Moon and Mars.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch.7 s.7.6.2 (chart 47, p.~154)",
+        "view": "Treats Rahu in Gemini as exalted in chart reading.",
+        "url": "https://archive.org/details/sanjayrathcruxofvedicastrologytimingofevents19982"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), name 2",
+        "view": "For many scholars Rahu's exaltation is Taurus; others say it is powerful in Taurus but peaks for worldly affairs in Gemini. Aquarius and Scorpio are the signs owned by Rahu and Ketu; the four fixed signs are tied to the nodes.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), name 64",
+        "view": "Rahu's own sign is Aquarius (some say Virgo); Gemini and Taurus are strong places; Rahu rising in one of these is especially powerful, and one text says Rahu in Gemini in the 1st removes afflictions.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The sages barely agree on the nodes' good and bad signs; the only placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes. No fall is given; as enemies of the Sun and Moon, the nodes may give worse results in their signs. Rahu, Venus, Saturn and Mercury are mutual friends.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.8 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Rahu, Taurus is the place of exaltation and Gemini and Cancer are moolatrikonas.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers p.125",
+        "view": "Rahu and Ketu are sometimes given exaltation at 20 Taurus and 20 Scorpio; other Vedic astrologers say both nodes are exalted in Mercury's signs, Gemini and Virgo.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS 45.123",
+        "view": "Gemini among favourable signs for Rahu in the sleeping state.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-45/verse-123"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu in Gemini: multiplication of enemies, short temper, fear of police and magistrates, sickness in the family, disfavour.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Wikipedia, Rahu",
+        "view": "States Rahu is exalted in Gemini and co-rules Aquarius.",
+        "url": "https://en.wikipedia.org/wiki/Rahu"
+      },
+      {
+        "source": "astromedha.in, Rahu in Gemini (via summary)",
+        "view": "Treats it as neutral; information hunger, communication gifts, restlessness.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-gemini"
+      }
+    ],
+    "disagreements": "Exaltation (Jataka Bharanam main view, Rath, 'others' per Foss), moolatrikona (Bhavartha Ratnakara 15.8), agreed strong sign for both nodes (Braha), or only friendly under the Taurus school (Raman). Raman's dasa note is negative even though most schools rate Gemini highly.",
+    "confidence": "medium",
+    "phrasing_guidance": "Highlight quick intelligence and communication skill; mention restlessness gently. State that traditions differ on Rahu's dignity here."
+  },
+  {
+    "id": "planet_in_sign/rahu/cancer",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Cancer"
+    },
+    "summary": "Rahu in Cancer sits in the Moon's sign; the Moon is Rahu's permanent enemy in Frawley and Jataka Bharanam, and Braha expects the nodes to do worse in the luminaries' signs. Yet Bhavartha Ratnakara calls Cancer a moolatrikona of Rahu, Saravali counts Rahu rising in Cancer as protective, and Raman and Foss link it with public service and social change.",
+    "themes": [
+      "enemy sign",
+      "emotional hunger",
+      "home and belonging",
+      "mother",
+      "public sentiment"
+    ],
+    "common_outcomes": [
+      "Public, humanitarian or national service, with wealth, honour and reputation in Rahu's dasa (Raman HPA ch.24)",
+      "Association with major social change and rapid rise to power (Foss, name 69: Thatcher example)",
+      "Strong desire for security and belonging (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Bhavartha Ratnakara 15.8 gives Cancer (with Gemini) as Rahu's moolatrikona",
+      "Saravali 12.10: Rahu rising in Cancer protects from evils"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Public and humanitarian service, honour and reputation (Raman HPA ch.24); power that comes quickly and can end abruptly (Foss, name 69).",
+      "finance": "Gains and increase of wealth in Rahu's dasa (Raman HPA ch.24).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong, well-aspected Moon (dispositor; Frawley pp.256-257)",
+      "Rahu rising in Cancer (Saravali 12.10)"
+    ],
+    "weakeners_or_cancellations": [
+      "Weak or afflicted Moon (Frawley pp.256-257)",
+      "The Moon is Rahu's permanent enemy (Frawley p.131; Jataka Bharanam 'others'); Braha says the nodes may give worse results in the luminaries' signs",
+      "Frawley: the nodes in water signs tend to negate the water element (p.115)"
+    ],
+    "lagna_or_context_notes": "Saravali 12.10 singles out Rahu rising in Cancer as protective. Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.8 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Rahu, Taurus is the place of exaltation and Gemini and Cancer are moolatrikonas.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Saravali 12.10 (English e-text, archive.org; matches R. Santhanam's translation)",
+        "view": "Rahu in the ascendant in Aries, Taurus or Cancer protects from all evils.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Rahu's home Virgo, exaltation Gemini, moolatrikona Pisces. 'Some': exaltation Taurus (Ketu Scorpio), moolatrikona Aquarius, Aries friendly. 'Others': exaltation Gemini (peak 20 degrees), trine Aquarius, home Virgo; friends Venus and Saturn, enemies Sun, Moon and Mars.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers p.131",
+        "view": "Worked example: Rahu in Cancer is in the sign of the Moon, its permanent enemy.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The sages barely agree on the nodes' good and bad signs; the only placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes. No fall is given; as enemies of the Sun and Moon, the nodes may give worse results in their signs. Rahu, Venus, Saturn and Mercury are mutual friends.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), name 69",
+        "view": "Thatcher had Rahu in Cancer (in a Saturn nakshatra) and rose to power in Rahu's dasa; Rahu's link with the Moon or Cancer can bring major social change.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu in Cancer: serving the suffering, humanitarian work, national service, gains in wealth, honour and great reputation.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Rahu in Cancer (via summary)",
+        "view": "Craving for security, nurturing gift, codependency risk, complex mother relationship.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-cancer"
+      }
+    ],
+    "disagreements": "Enemy sign (Frawley, Jataka Bharanam, Braha) vs moolatrikona (Bhavartha Ratnakara 15.8). Raman's dasa note and Foss's examples are favourable for public life even though the friendship tables are not.",
+    "confidence": "low",
+    "phrasing_guidance": "Speak of a deep need for belonging that becomes strength when grounded. Do not predict family loss or emotional illness."
+  },
+  {
+    "id": "planet_in_sign/rahu/leo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Leo"
+    },
+    "summary": "Rahu in Leo, the Sun's sign, puts the node's hunger on power and visibility. The Sun is Rahu's chief enemy, and Braha expects worse results in the luminaries' signs; Foss ties Leo to Rahu's mythic birth and to the use and abuse of power, and Raman's dasa note warns of legal and political trouble.",
+    "themes": [
+      "enemy sign",
+      "hunger for recognition",
+      "public image",
+      "leadership ambition",
+      "identity shifts"
+    ],
+    "common_outcomes": [
+      "Themes of power, strategy and its abuse (Foss, names 2 and 68)",
+      "Raman's dasa note: fear of prosecution over fraud or political offences, property loss and worry (HPA ch.24)",
+      "Ambition for status and recognition (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Foss: Leo is said to be where the Moon stood when Rahu was born, making it Rahu's 'birth sign' (name 68)",
+      "Foss: in Leo Rahu can stir people to revolt against the establishment (name 7, transit context)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Politics and the machinery of power (Foss, names 2 and 68); legal or political risk in Rahu's dasa (Raman HPA ch.24).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Sun (dispositor) not conjunct Rahu (Frawley pp.256-257)",
+      "Braha: the nodes do better in the 3rd, 6th, 10th and 11th houses; Frawley: Rahu works best in the 9th or 10th with that house's ruler strong"
+    ],
+    "weakeners_or_cancellations": [
+      "The Sun is Rahu's enemy (Jataka Bharanam 'others'); Braha says the nodes may give worse results in the luminaries' signs",
+      "Weak or afflicted Sun (Frawley pp.256-257)"
+    ],
+    "lagna_or_context_notes": "Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Rahu's home Virgo, exaltation Gemini, moolatrikona Pisces. 'Some': exaltation Taurus (Ketu Scorpio), moolatrikona Aquarius, Aries friendly. 'Others': exaltation Gemini (peak 20 degrees), trine Aquarius, home Virgo; friends Venus and Saturn, enemies Sun, Moon and Mars.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The sages barely agree on the nodes' good and bad signs; the only placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes. No fall is given; as enemies of the Sun and Moon, the nodes may give worse results in their signs. Rahu, Venus, Saturn and Mercury are mutual friends.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), names 2, 7, 68",
+        "view": "Leo, the royal sign, is Rahu's birth sign; Rahu there shows the use and abuse of power and can incite revolt against the establishment.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu in Leo: fear of imprisonment for fraud, deception or political offences, destruction of property, mental worries.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.15 (pp.75-76)",
+        "view": "Rahu and Ketu give good results in the signs of benefic planets and evil results in evil signs.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Rahu in Leo (via summary)",
+        "view": "Ambition, hunger for recognition, shifting personas, image vs substance.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-leo"
+      }
+    ],
+    "disagreements": "Enemy sign in the friendship lists and Braha's luminaries rule; Raman's dasa note is negative. Foss gives Leo special mythic weight as Rahu's birth sign without calling it strong.",
+    "confidence": "low",
+    "phrasing_guidance": "Frame as ambition for meaningful recognition; avoid labelling the person as vain."
+  },
+  {
+    "id": "planet_in_sign/rahu/virgo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Virgo"
+    },
+    "summary": "Virgo is Rahu's own sign in Jataka Bharanam's main view and, per Foss, some treat it as Rahu's own or moolatrikona sign because Parashara calls Rahu strong there. Braha and Frawley's second view make Mercury's signs the nodes' exaltation, BPHS lists Virgo among Rahu's favourable signs, and Raman's dasa note is strongly positive.",
+    "themes": [
+      "own sign (one school)",
+      "analysis",
+      "problem-solving",
+      "service",
+      "perfectionism"
+    ],
+    "common_outcomes": [
+      "Royal status or high position for those born with Rahu in Virgo (Foss, name 74)",
+      "Raman's dasa note: wealth, prosperity, new lands, elevation, respect for learning, domestic harmony (HPA ch.24)",
+      "Healing ability (Foss, name 74)",
+      "Detail-oriented, systematic mind (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "BPHS 45.123 lists Virgo among signs where Rahu gives wealth even in the sleeping state",
+      "Raman's dasa note includes sudden access to much wealth"
+    ],
+    "by_area": {
+      "personality": "Analytical and exacting (astromedha.in, via summary).",
+      "career": "High position (Foss, name 74; Raman HPA ch.24); healing work (Foss, name 74).",
+      "finance": "Gains and sudden wealth (Raman HPA ch.24; BPHS 45.123).",
+      "health": "",
+      "relationships": "",
+      "family": "Domestic harmony and children in Rahu's dasa (Raman HPA ch.24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Mercury (dispositor; Rahu's friend per Braha)",
+      "Rahu rising in Virgo (Braha: honoured, a leader; Foss name 64)",
+      "Braha: the nodes do better in the 3rd, 6th, 10th and 11th houses; Frawley: Rahu works best in the 9th or 10th with that house's ruler strong"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Mercury (Frawley pp.256-257)"
+    ],
+    "lagna_or_context_notes": "Braha: Rahu in Gemini or Virgo in the 1st makes one honoured or famous, a leader, wealthy and spiritual. Foss: Rahu rising in one of its strong signs is especially powerful. Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Rahu's home Virgo, exaltation Gemini, moolatrikona Pisces. 'Some': exaltation Taurus (Ketu Scorpio), moolatrikona Aquarius, Aries friendly. 'Others': exaltation Gemini (peak 20 degrees), trine Aquarius, home Virgo; friends Venus and Saturn, enemies Sun, Moon and Mars.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), names 64 and 74",
+        "view": "Some scholars add Virgo to Aquarius as Rahu's own sign; Parashara's statement that Rahu is strong in Virgo leads some to call it Rahu's moolatrikona; Rahu in Virgo gives high position and can make good healers.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The sages barely agree on the nodes' good and bad signs; the only placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes. No fall is given; as enemies of the Sun and Moon, the nodes may give worse results in their signs. Rahu, Venus, Saturn and Mercury are mutual friends.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers p.125",
+        "view": "Rahu and Ketu are sometimes given exaltation at 20 Taurus and 20 Scorpio; other Vedic astrologers say both nodes are exalted in Mercury's signs, Gemini and Virgo.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS 45.123",
+        "view": "Virgo among favourable signs for Rahu in the sleeping state.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-45/verse-123"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu in Virgo: wealth, prosperity, new lands, elevation, respect for learning, domestic harmony, children, sudden wealth.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Rahu in Virgo (via summary)",
+        "view": "Analytical mind, systematic intuition, perfectionism, anxiety.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-virgo"
+      }
+    ],
+    "disagreements": "Own sign (Jataka Bharanam main view; some per Foss) or exaltation for both nodes (Braha, Frawley's second view) vs Aquarius as Rahu's own sign (BPHS 50.42, Foss, Rath) vs no special dignity (Raman's Taurus scheme, Bhavartha Ratnakara 15.8, which does not name Virgo). Most sources rate it favourable.",
+    "confidence": "medium",
+    "phrasing_guidance": "Highlight analytical strength and service; note that worry is the thing to manage. Mention dignity as school-dependent."
+  },
+  {
+    "id": "planet_in_sign/rahu/libra",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Libra"
+    },
+    "summary": "Rahu in Libra is in the sign of Venus, counted a friend of Rahu (Jataka Bharanam, Braha), and BPHS's Rahu-dasa verse names Libra among good positions. Raman's dasa note, however, is strongly negative, so this is a placement where texts disagree sharply.",
+    "themes": [
+      "friendly sign",
+      "partnership",
+      "diplomacy",
+      "social intelligence",
+      "approval"
+    ],
+    "common_outcomes": [
+      "BPHS 57.1 lists Libra among conditions for good Rahu dasa results",
+      "Raman's dasa note: loss of property or position, residence abroad, hardship and litigation (HPA ch.24)",
+      "Success through partnerships and networks (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "Partnership and client-facing work (astromedha.in, via summary).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Venus (dispositor and Rahu's friend; Braha; Jataka Bharanam 'others')",
+      "BPHS 57.1 conditions: kendra/trikona/11th placement or link to raja yoga"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Venus (Frawley pp.256-257)"
+    ],
+    "lagna_or_context_notes": "Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "BPHS 57.1 (Sanskrit with gloss, enjoylearningsanskrit.com numbering)",
+        "view": "Rahu in moolatrikona, own sign, Libra or exaltation, or in kendra/trikona/11th or with raja yoga, gives good dasa results.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-57/verse-1"
+      },
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Rahu's home Virgo, exaltation Gemini, moolatrikona Pisces. 'Some': exaltation Taurus (Ketu Scorpio), moolatrikona Aquarius, Aries friendly. 'Others': exaltation Gemini (peak 20 degrees), trine Aquarius, home Virgo; friends Venus and Saturn, enemies Sun, Moon and Mars.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The sages barely agree on the nodes' good and bad signs; the only placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes. No fall is given; as enemies of the Sun and Moon, the nodes may give worse results in their signs. Rahu, Venus, Saturn and Mercury are mutual friends.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu in Libra: destruction of property, loss of wealth and position, residence abroad as if in exile, hardship, business failure, litigation.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.15 (pp.75-76)",
+        "view": "Rahu and Ketu give good results in the signs of benefic planets and evil results in evil signs.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Rahu in Libra (via summary)",
+        "view": "Venus-dependent; social intelligence, partnerships, approval dependency.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-libra"
+      }
+    ],
+    "disagreements": "BPHS 57.1 singles Libra out as favourable and Venus is Rahu's friend, yet Raman's dasa list for Libra is one of the harshest. Read the dispositor and house before leaning either way.",
+    "confidence": "low",
+    "phrasing_guidance": "Speak of partnership skill and social intelligence; frame approval-seeking as something to balance."
+  },
+  {
+    "id": "planet_in_sign/rahu/scorpio",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Scorpio"
+    },
+    "summary": "Scorpio is Rahu's debilitation in the Taurus-exaltation school; Raman says Rahu is debilitated here and 'causes great havoc' in its dasa. It is also Ketu's own or co-ruled sign (BPHS 50.42, Foss, Frawley, Rath). A minority tradition instead calls Scorpio Rahu's exaltation.",
+    "themes": [
+      "debilitation (majority view)",
+      "intensity",
+      "secrecy",
+      "investigation",
+      "transformation"
+    ],
+    "common_outcomes": [
+      "Raman: debilitated; Rahu's dasa brings business failure, moral lapses and discontent (HPA ch.24)",
+      "Intense, private, investigative focus (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Jataka Bharanam and the Tamil Veemesaram (as reported) record a view that Rahu is exalted in Scorpio"
+    ],
+    "by_area": {
+      "personality": "Intense and guarded (astromedha.in, via summary).",
+      "career": "Business setbacks in Rahu's dasa (Raman HPA ch.24).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Mars (dispositor; Frawley pp.256-257); Ketu as co-lord of Scorpio may also be weighed (Rath; Frawley p.109)",
+      "Braha: the nodes do better in the 3rd, 6th, 10th and 11th houses; Frawley: Rahu works best in the 9th or 10th with that house's ruler strong"
+    ],
+    "weakeners_or_cancellations": [
+      "Weak or afflicted Mars (Frawley pp.256-257)",
+      "Debilitation under the Taurus school (Raman HPA ch.6, ch.24)",
+      "Frawley: the nodes in water signs tend to negate the water element (p.115)"
+    ],
+    "lagna_or_context_notes": "Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.6 (p.19)",
+        "view": "Rahu is exalted at 20 degrees of Taurus and Ketu at 20 degrees of Scorpio.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu is debilitated in Scorpio and causes great havoc: losses, moral lapse, business failure, discontent.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.8 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Rahu, Taurus is the place of exaltation and Gemini and Cancer are moolatrikonas.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Veemesaram (Tamil) (via summary)",
+        "view": "Reported to place Rahu's exaltation in Scorpio.",
+        "url": "https://astrojagriti.substack.com/p/rahu-ketu-debilitation"
+      },
+      {
+        "source": "Jataka Bharanam, nodes page 414 (AI translation) (via summary)",
+        "view": "Some authorities place Rahu's exaltation in Scorpio and Ketu's in Aquarius.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/414"
+      },
+      {
+        "source": "BPHS 50.42 (enjoylearningsanskrit numbering)",
+        "view": "The sign group beginning with Scorpio is Ketu's own; the group beginning with Aquarius is Rahu's.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-50/verse-42"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), name 2",
+        "view": "For many scholars Rahu's exaltation is Taurus; others say it is powerful in Taurus but peaks for worldly affairs in Gemini. Aquarius and Scorpio are the signs owned by Rahu and Ketu; the four fixed signs are tied to the nodes.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The sages barely agree on the nodes' good and bad signs; the only placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes. No fall is given; as enemies of the Sun and Moon, the nodes may give worse results in their signs. Rahu, Venus, Saturn and Mercury are mutual friends.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "astromedha.in, Rahu in Scorpio (via summary)",
+        "view": "Debilitated: drives expressed in distorted or exaggerated ways; investigative strength.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-scorpio"
+      }
+    ],
+    "disagreements": "Debilitation (Raman, Taurus school) vs exaltation (Veemesaram, some in Jataka Bharanam) vs neutral (Gemini school, where Sagittarius is the fall). Braha says no fall is given for the nodes. Anish Prasad (astrojagriti, via summary) argues node debilitation has little practical effect.",
+    "confidence": "low",
+    "phrasing_guidance": "Speak of depth and intensity that becomes insight when channelled. Do not frame as dangerous; note traditions disagree on dignity."
+  },
+  {
+    "id": "planet_in_sign/rahu/sagittarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Sagittarius"
+    },
+    "summary": "Sagittarius is Rahu's debilitation in the Gemini-exaltation school and a neutral Jupiter sign in the Taurus school. Foss calls Taurus and Gemini the 'enemy' and 'blocking' places of Sagittarius, the sign of the gods. Raman's dasa note is mixed: sudden gains alongside loss and unrest.",
+    "themes": [
+      "debilitation (Gemini school)",
+      "belief and ideology",
+      "foreign culture",
+      "teaching and law",
+      "over-promising"
+    ],
+    "common_outcomes": [
+      "Raman's dasa note: sudden gains without effort and success in undertakings, with loss of near ones and mental unrest (HPA ch.24)",
+      "Search for belief and meaning; susceptibility to gurus and ideologies (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Under the Gemini school this is Rahu's fall"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Sudden, unexpected gains (Raman HPA ch.24).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "A seeker's pull with risk of dogma (astromedha.in, via summary)."
+    },
+    "strengtheners": [
+      "Strong Jupiter (dispositor; Frawley pp.256-257)",
+      "Braha: the nodes do better in the 3rd, 6th, 10th and 11th houses; Frawley: Rahu works best in the 9th or 10th with that house's ruler strong"
+    ],
+    "weakeners_or_cancellations": [
+      "Weak or afflicted Jupiter (Frawley pp.256-257)",
+      "Foss reads Rahu's exaltation signs as the 'enemy' (Taurus, 6th) and 'blocking' (Gemini, badhaka) places of Sagittarius (name 8)"
+    ],
+    "lagna_or_context_notes": "Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Rahu's home Virgo, exaltation Gemini, moolatrikona Pisces. 'Some': exaltation Taurus (Ketu Scorpio), moolatrikona Aquarius, Aries friendly. 'Others': exaltation Gemini (peak 20 degrees), trine Aquarius, home Virgo; friends Venus and Saturn, enemies Sun, Moon and Mars.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch.7 s.7.6.2 (chart 47, p.~154)",
+        "view": "Treats Rahu in Gemini as exalted in chart reading.",
+        "url": "https://archive.org/details/sanjayrathcruxofvedicastrologytimingofevents19982"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), name 8",
+        "view": "'Enemy of the gods': Sagittarius signifies the gods; Taurus (6th from it) and Gemini (its badhaka) are Rahu's exaltation signs in the two schools.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu in Sagittarius: wealth, sudden gains without effort, success, but loss of near relatives and mental unrest.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Wikipedia, Ketu",
+        "view": "Modern majority (as stated) puts Ketu exalted in Sagittarius, debilitated in Gemini, which mirrors Rahu debilitated in Sagittarius.",
+        "url": "https://en.wikipedia.org/wiki/Ketu_(mythology)"
+      },
+      {
+        "source": "astromedha.in, Rahu in Sagittarius (via summary)",
+        "view": "Hunger for truth and foreign cultures, vulnerability to gurus and ideologies, strengths in law and teaching.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-sagittarius"
+      }
+    ],
+    "disagreements": "Debilitation (Gemini school: Jataka Bharanam main view, Rath) vs neutral (Taurus school: Raman, Bhavartha Ratnakara). Braha gives no fall for the nodes. Raman's dasa note is mixed rather than harsh.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe a seeker's drive that benefits from discernment. Do not disparage the person's beliefs."
+  },
+  {
+    "id": "planet_in_sign/rahu/capricorn",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Capricorn"
+    },
+    "summary": "Rahu in Capricorn is in Saturn's sign; Saturn is Rahu's friend (Jataka Bharanam, Braha) and Rahu is said to act like Saturn (Frawley). Raman's dasa note is strongly favourable: promotion, state recognition and growing wealth.",
+    "themes": [
+      "friendly sign",
+      "strategic ambition",
+      "institutions",
+      "status",
+      "patience"
+    ],
+    "common_outcomes": [
+      "Raman's dasa note: sudden promotion, recognition by the state, family celebrations, more wealth (HPA ch.24)",
+      "Methodical, strategic ambition within institutions (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Risk of using systems for personal gain is flagged by astromedha.in (via summary)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Promotion and official recognition (Raman HPA ch.24); career rise through organisations (astromedha.in, via summary).",
+      "finance": "Increase of wealth (Raman HPA ch.24).",
+      "health": "",
+      "relationships": "",
+      "family": "Marriage festivities at home in Rahu's dasa (Raman HPA ch.24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Saturn (dispositor and friend; Braha; Frawley pp.256-257)",
+      "Braha: the nodes do better in the 3rd, 6th, 10th and 11th houses; Frawley: Rahu works best in the 9th or 10th with that house's ruler strong"
+    ],
+    "weakeners_or_cancellations": [
+      "Weak or afflicted Saturn (Frawley pp.256-257)"
+    ],
+    "lagna_or_context_notes": "Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Rahu's home Virgo, exaltation Gemini, moolatrikona Pisces. 'Some': exaltation Taurus (Ketu Scorpio), moolatrikona Aquarius, Aries friendly. 'Others': exaltation Gemini (peak 20 degrees), trine Aquarius, home Virgo; friends Venus and Saturn, enemies Sun, Moon and Mars.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Rahu and Ketu (archive.org scan)",
+        "view": "The sages barely agree on the nodes' good and bad signs; the only placements agreed on are Mercury's signs, Gemini and Virgo, where either node flourishes. No fall is given; as enemies of the Sun and Moon, the nodes may give worse results in their signs. Rahu, Venus, Saturn and Mercury are mutual friends.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers p.103",
+        "view": "Rahu is said to act like Saturn, the greater malefic.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu in Capricorn: sudden promotion, recognition by the state, marriage festivities, increase of wealth and prosperity.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Rahu in Capricorn (via summary)",
+        "view": "Methodical ambition, long-game thinking, institutional intelligence, status-identification.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-capricorn"
+      }
+    ],
+    "disagreements": "Friendly sign in the friendship lists (Jataka Bharanam, Braha); neutral in some modern treatments (astromedha). No classical sign verse found; Raman's dasa note supports a favourable reading.",
+    "confidence": "medium",
+    "phrasing_guidance": "Highlight strategic, patient ambition; frame status attachment as a balance point."
+  },
+  {
+    "id": "planet_in_sign/rahu/aquarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Aquarius"
+    },
+    "summary": "Aquarius is the sign most often given as Rahu's own (co-ruled with Saturn): BPHS assigns the sign group from Aquarius to Rahu, and Foss, Frawley and Rath treat Rahu as owner or co-lord; other texts call it Rahu's moolatrikona. Raman's dasa note is nonetheless harsh, so dignity and dasa traditions pull apart here.",
+    "themes": [
+      "own sign / co-lordship",
+      "networks and systems",
+      "reform",
+      "technology",
+      "collective goals"
+    ],
+    "common_outcomes": [
+      "Rahu as own-sign or co-lord of Aquarius, strengthened when the stronger co-lord is well placed (Rath; Foss name 2; Frawley p.109)",
+      "Ease in groups, networks and large systems (astromedha.in, via summary)",
+      "Raman's dasa note: disappointments, sorrowful news and mental strain (HPA ch.24)"
+    ],
+    "rare_outcomes": [
+      "BPHS 50.42: work begun in Rahu's dasa while Rahu is in its own sign group (from Aquarius) is auspicious",
+      "Some teachers in Jataka Bharanam call Aquarius Rahu's moolatrikona"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Networks, technology and large organisations (astromedha.in, via summary).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Strong Saturn (sign lord); Rath uses the stronger of Saturn and Rahu as Aquarius's lord",
+      "BPHS 57.1: own sign or moolatrikona gives good dasa results",
+      "Rahu rising in its own sign is especially powerful (Foss, name 64)"
+    ],
+    "weakeners_or_cancellations": [
+      "Afflicted Saturn (Frawley pp.256-257)"
+    ],
+    "lagna_or_context_notes": "Foss: with Aquarius rising and Rahu in it, Rahu is especially powerful. Rath reads Aquarius dasas through the stronger of its co-lords Saturn and Rahu. Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15).",
+    "source_views": [
+      {
+        "source": "BPHS 50.42 (Sanskrit with gloss, enjoylearningsanskrit.com numbering)",
+        "view": "The four signs beginning with Aquarius are Rahu's own; Ketu's begin with Scorpio. Undertakings begun in their dasa there are auspicious.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-50/verse-42"
+      },
+      {
+        "source": "BPHS 57.1",
+        "view": "Rahu in own sign or moolatrikona gives good dasa results.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-57/verse-1"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), name 2",
+        "view": "For many scholars Rahu's exaltation is Taurus; others say it is powerful in Taurus but peaks for worldly affairs in Gemini. Aquarius and Scorpio are the signs owned by Rahu and Ketu; the four fixed signs are tied to the nodes.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Rahu (commentary on Rahu's 108 names, archive.org), name 64",
+        "view": "Svagraha, Rahu's own sign, is Aquarius (some scholars say Virgo too).",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers pp.109-110",
+        "view": "Rahu and Ketu are often considered co-rulers of Aquarius and Scorpio.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998) (chart examples of Aquarius dasas)",
+        "view": "Treats Rahu as co-lord of Aquarius with Saturn (and Ketu of Scorpio with Mars), using the stronger co-lord.",
+        "url": "https://archive.org/details/sanjayrathcruxofvedicastrologytimingofevents19982"
+      },
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Rahu's home Virgo, exaltation Gemini, moolatrikona Pisces. 'Some': exaltation Taurus (Ketu Scorpio), moolatrikona Aquarius, Aries friendly. 'Others': exaltation Gemini (peak 20 degrees), trine Aquarius, home Virgo; friends Venus and Saturn, enemies Sun, Moon and Mars.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu in Aquarius: disappointments, mental distress, sorrowful news, family losses.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Wikipedia, Rahu",
+        "view": "Rahu co-rules Aquarius with Saturn.",
+        "url": "https://en.wikipedia.org/wiki/Rahu"
+      },
+      {
+        "source": "astromedha.in, Rahu in Aquarius (via summary)",
+        "view": "Foresight, reform within systems, ideological rigidity.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-aquarius"
+      }
+    ],
+    "disagreements": "Own sign or co-lordship (BPHS 50.42, Foss, Frawley, Rath, Wikipedia), moolatrikona (some in Jataka Bharanam), or no ownership (Raman's dasa list treats it as difficult). Virgo is the rival own-sign claim.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe a strong, system-minded, reform-oriented placement; present dignity as 'widely regarded as Rahu's own sign'."
+  },
+  {
+    "id": "planet_in_sign/rahu/pisces",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Rahu",
+      "sign": "Pisces"
+    },
+    "summary": "Rahu in Pisces is in Jupiter's sign. Jataka Bharanam's main view gives Pisces as Rahu's moolatrikona, but most lists treat it as neutral. Raman calls Rahu's dasa from Pisces mixed and stresses checking friendly or unfriendly placement and house.",
+    "themes": [
+      "neutral sign",
+      "mysticism",
+      "imagination",
+      "escapism",
+      "compassion"
+    ],
+    "common_outcomes": [
+      "Raman's dasa note: mixed results, with fear of swindlers, some gains, educational progress and unease (HPA ch.24)",
+      "Strong pull to the mystical and imaginative; escapism risk (astromedha.in, via summary)"
+    ],
+    "rare_outcomes": [
+      "Jataka Bharanam main view: Pisces is Rahu's moolatrikona"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Some gains with risk from swindlers (Raman HPA ch.24).",
+      "health": "",
+      "relationships": "Inclination to marriage in Rahu's dasa (Raman HPA ch.24).",
+      "family": "",
+      "spirituality": "Very prominent; discernment is key (astromedha.in, via summary)."
+    },
+    "strengtheners": [
+      "Strong Jupiter (dispositor; Frawley pp.256-257); Raman (HPA ch.15) says the nodes do well in benefics' signs"
+    ],
+    "weakeners_or_cancellations": [
+      "Weak or afflicted Jupiter (Frawley pp.256-257)",
+      "Frawley: the nodes in water signs tend to negate the water element (p.115)"
+    ],
+    "lagna_or_context_notes": "Results follow the sign lord: a weak, fallen, combust or afflicted dispositor gives a weak Rahu (Frawley pp.256-257); Raman says the nodes do well in benefics' signs and badly in malefics' signs (HPA ch.15). Raman stresses judging Rahu in Pisces by friendly or unfriendly sign and the house it occupies (HPA ch.24).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam (Dhundhiraja), nodes page 413 (unreviewed AI translation, sourcelibrary.org)",
+        "view": "Main view: Rahu's home Virgo, exaltation Gemini, moolatrikona Pisces. 'Some': exaltation Taurus (Ketu Scorpio), moolatrikona Aquarius, Aries friendly. 'Others': exaltation Gemini (peak 20 degrees), trine Aquarius, home Virgo; friends Venus and Saturn, enemies Sun, Moon and Mars.",
+        "url": "https://sourcelibrary.org/book/6990647bef12272ffdc925d4/page-number/413"
+      },
+      {
+        "source": "BPHS 50.42",
+        "view": "The sign group starting at Aquarius is Rahu's own; whether Pisces is included depends on reading of the group.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-50/verse-42"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Rahu's dasa by sign (pp.152-153)",
+        "view": "Rahu in Pisces: fear from thieves and swindlers, inclination to marriage, progress in education, some gains, unease; mixed results that depend on sign relationship and house.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.15 (pp.75-76)",
+        "view": "Rahu and Ketu give good results in the signs of benefic planets and evil results in evil signs.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "astromedha.in, Rahu in Pisces (via summary)",
+        "view": "Spiritual pull, risk of escapism and self-deception, intuitive gifts.",
+        "url": "https://astromedha.in/insights/vedic/rahu-in-pisces"
+      }
+    ],
+    "disagreements": "Moolatrikona (Jataka Bharanam main view) vs neutral (most lists). Pisces is Ketu's own sign in Jataka Bharanam and Bhavartha Ratnakara, which some read as uncomfortable for Rahu. Raman explicitly calls the results mixed.",
+    "confidence": "low",
+    "phrasing_guidance": "Highlight imagination, compassion and spiritual interest; mention escapism only as something to ground. No mental-health predictions."
+  }
+]

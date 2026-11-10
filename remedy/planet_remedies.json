@@ -1,0 +1,1769 @@
+[
+  {
+    "id": "remedy/sun",
+    "layer": "remedy",
+    "key": {
+      "planet": "Sun"
+    },
+    "summary": "Remedies for Sun are indicated when it is weak, afflicted or badly placed, and especially while it runs a hard dasha or antardasha or an adverse transit (Phaladeepika 26.49; BPHS 84.26). The classical means are worship, its mantra, homa, feeding and gifts; modern authors add bija mantras, conduct and lifestyle changes, and optional gemstones only when Sun is functionally helpful in the chart.",
+    "themes": [
+      "self-confidence",
+      "father",
+      "authority",
+      "vitality"
+    ],
+    "common_outcomes": [
+      "Classical texts present planetary worship as bringing peace, prosperity, health and long life (BPHS 84.2-3).",
+      "Navagraha Stotra phalashruti: obstacles pacified, bad dreams removed, troubles from planets and stars calmed.",
+      "PVR: remedies change the details of a period, not its basic pattern."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Frawley: debilitated (Libra), in an enemy sign such as Saturn's, in the 6th/8th/12th, or under Saturn, Rahu or Ketu (Ketu's close conjunction especially). Shows as low self-worth, weak will, dependence; the father may fare poorly."
+    ],
+    "lagna_or_context_notes": "Which remedy fits depends on the planet's functional role from the lagna: modern authors (PVR 34.2; Frawley, Astrology of the Seers Part III ch. 4 and Ayurvedic Astrology ch. 9) reserve gems for functional benefics and use mantra, worship and charity for malefics. BPHS 84.26 says to worship whichever planet is badly placed at the time.",
+    "remedies": [
+      {
+        "type": "mantra",
+        "remedy": "Recite the planet's Vedic mantra beginning 'Akrishnena rajasa...' after worshipping Sun; prescribed count 7,000 repetitions.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 17-20; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Recite verse 1 of the Navagraha Stotra (to the Sun as bright as the japa (hibiscus) flower, son of Kashyapa, enemy of darkness, remover of sins), or the whole hymn; the closing verses say that whoever recites it with a collected mind, day or night, has obstacles pacified and troubles from planets and stars calmed.",
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman), v. 1 and phalashruti; https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Name and seed mantras: name mantra OM SURYAYA NAMAHA (also Savitre, Adityaya, Ravaye); bija OM SUM; RAM also suggested; at least 108 times a week, preferably Sunday at dawn, noon or sunset.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Read the planet's introductory verse a few times, then repeat its basic mantra about 6,000 times, ideally on its weekday; PVR also suggests the planet's 108 names, kavacha or stotra, recited with devotion and correct pronunciation.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.4; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha puja: make an image of Sun in copper (or draw it on cloth in its colour) and contemplate it as two-armed, seated on a lotus holding a lotus, red like a lotus, on a chariot of seven horses (84.6); offer flowers and cloth of its colour, sandal paste, lamp, incense (guggulu) and the food it likes.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 3-16; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; same content in G.C. Sharma ch. 86, https://archive.org/details/brihatparasarahorasastrawithenglishtranslationgirishchandsharmavolume2_433_w"
+      },
+      {
+        "type": "worship",
+        "remedy": "Homa: offer arka (aak) as the sacrificial fuel for Sun, dipped in honey, ghee, curd or milk, 108 or 28 times.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 21-22; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha-yajna as taught by Yajnavalkya: worship with flowers and items of the planet's colour (red), recite its mantra, and give the prescribed food and gift; recommended for anyone troubled by a hostile planet or wanting peace and prosperity.",
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib); https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "worship",
+        "remedy": "Worship of the Sun is prescribed for troubled Sun sub-periods in several mahadashas (e.g. Sun in Mars, Rahu, Saturn, Mercury and Venus dashas, chs. 54, 55, 57, 58, 60); recitation of the Aditya Hridaya is prescribed for the Sun sub-period in Jupiter's dasha when the Sun rules the 2nd or 7th (ch. 56 vv. 56-57).",
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given); https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Worship a deity linked to Sun: Shiva, Rama; PVR advises choosing the form that best fits the planet's combinations in the chart.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.5 Table 78; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Deity: Shiva as the Divine Father; Vishnu as the benefic side of solar light; ruling deity Agni, over-ruler Shiva (ch. 5 table).",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets' and David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "charity",
+        "remedy": "Feed Brahmins rice cooked with jaggery and give a milch cow (with calf) as the gift (dakshina), according to one's means and with respect.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 23-25; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; the gift list matches Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib), https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "charity",
+        "remedy": "Do a good deed in Sun's area: go to a temple, donate to a temple or help run one. Give away wheat, the grain ruled by Sun.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Place a small bowl of wheat on the altar to represent Sun in worship; Frawley adds these are good foods when the planet is weak.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "fasting",
+        "remedy": "Fasting on the weekday of the relevant planet (Sunday for Sun). PVR's own examples tie the day to the planet that rules the troubled area (e.g. the upapada lord's day for marriage), not to a fixed list.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3 (fasting); weekday attribution from 34.2/34.4 and Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Conduct and lifestyle: cultivate independence and courage, face fears, take initiative and leadership, spend time in the sun, rise early and greet the Sun with a prayer at dawn, noon and sunset.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Planets are always favourable to one who harms no one, keeps self-control, earns wealth by righteous means and keeps a steady religious discipline; when a planet is adverse in dasha, bhukti, ashtakavarga or transit, pacify it with prayers and mantras suited to it, virtuous acts, vows, gifts and worship.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Common-sense precautions in a difficult period (e.g. drive carefully if accidents are indicated, restrain oneself if conflict with authority is indicated); good deeds in the planet's area of life.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.1.1 and 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Gem traditionally assigned to Sun: ruby (substitutes: garnet (larger size)). Frawley: ruby (min. ~2 carats) in gold, ring finger of the right hand, first worn on a Sunday at sunrise when the Sun is strong. Avoid when the Sun rules malefic houses (3rd, 6th, 11th), when it combusts or opposes benefics one wants to strengthen, or with high-Pitta conditions or a domineering, proud temperament.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley; gem list also David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy', https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. PVR: wear the gem only if Sun is a functional benefic in the chart (useful even if that benefic is weak or badly placed); avoid gems of functional malefics, and of marakas during maraka periods; first wear it on the planet's weekday when the planet is strong.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.2 and Table 77; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Sutton: prefer the gems of strong planets (especially the lagna lord and trine lords) over weak ones; gems help only alongside a real change of attitude; wearing the planet's colour, its oils or seeds can stand in for an unaffordable gem.",
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://skyscript.co.uk/gems.html"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Phaladeepika lists ruby as Sun's gem among the planets' correspondences; the verse assigns gems but does not prescribe wearing them as a remedy.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 2 v. 29; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma)",
+        "view": "Joys and sorrows depend on the planets, so those wanting peace, wealth, health or long life should worship them; whichever planet is badly placed at a given time should be worshipped with special care, because Brahma granted the planets the boon of honouring those who honour them (vv. 2-3, 26-27). For Sun: image in copper, mantra 'Akrishnena rajasa...' x 7,000, fuel arka (aak), food rice cooked with jaggery, gift a milch cow (with calf).",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given)",
+        "view": "Worship of the Sun is prescribed for troubled Sun sub-periods in several mahadashas (e.g. Sun in Mars, Rahu, Saturn, Mercury and Venus dashas, chs. 54, 55, 57, 58, 60); recitation of the Aditya Hridaya is prescribed for the Sun sub-period in Jupiter's dasha when the Sun rules the 2nd or 7th (ch. 56 vv. 56-57).",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50",
+        "view": "Remedy is indicated whenever a planet is badly placed in dasha, bhukti, ashtakavarga or transit; the means are prayer and planet-specific mantra, propitiatory rites, virtuous acts, vows, gifts and worship. Non-harming, self-control, honestly earned wealth and discipline keep the planets favourable.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman)",
+        "view": "Verse 1 praises the Sun as bright as the japa (hibiscus) flower, son of Kashyapa, enemy of darkness, remover of sins; the closing verses promise pacification of obstacles, bad dreams and planet-caused troubles.",
+        "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib)",
+        "view": "Yajnavalkya's graha-yajna: anyone under a hostile planet, or wanting prosperity and peace, should perform it; colour for Sun red; gifts follow the same order as BPHS.",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures'",
+        "view": "Remedies adjust the details of a karmic pattern, not the pattern; four ways to please a planet: gem (only for functional benefics), good deeds, mantra/stotra, deity worship. For Sun: deed - go to a temple, donate to a temple or help run one; deity - Shiva, Rama; mantra count ~6,000.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'",
+        "view": "Strengthen a planet chiefly when it is weak, and be careful strengthening natural malefics; mantra and meditation are safer than gems or herbs, and are used to ward off an over-strong malefic. Signs of a weak Sun: Frawley: debilitated (Libra), in an enemy sign such as Saturn's, in the 6th/8th/12th, or under Saturn, Rahu or Ketu (Ketu's close conjunction especially). Shows as low self-worth, weak will, dependence; the father may fare poorly.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy'",
+        "view": "Gems are called the main remedial measure in Vedic astrology, but wrongly prescribed gems can cause imbalances; two schools exist (strengthen weak benefics - the 'safe school' Frawley follows - versus propitiate the troublesome malefic), and Frawley advises against wearing malefics' gems unless backed by serious mantra and meditation practice.",
+        "url": "https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004)",
+        "view": "Wear gems of strong, not weak, planets; criticises wearing many gems as a shortcut and astrologers who profit by selling costly stones; gems work only with a change of attitude; node gems best avoided.",
+        "url": "https://skyscript.co.uk/gems.html"
+      },
+      {
+        "source": "B.V. Raman, Planetary Influences on Human Affairs, ch. XI 'Astrology as an Aid to Medical Science' and ch. VIII",
+        "view": "Ancient texts suggest mantra-based remedies for afflictions (arishta yogas) shown in the chart (ch. XI); karma and free will coexist, so astrology should not be used fatalistically (ch. VIII). Raman gives no planet-by-planet list here.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Planetary%20Astrology%20of%20Human%20Affairs%20by%20Dr.%20B%20V%20Raman.pdf"
+      }
+    ],
+    "disagreements": "Mantra counts: BPHS 84.19-20 gives 7,000 for Sun; PVR gives about 6,000 (his counts follow a different scheme). Mantra type: the classical texts read here prescribe Vedic verses and hymns; the short bija and name mantras come from modern authors (Frawley, PVR), and their classical mantra-text source (e.g. Mantra Maharnava) was not verified. Gemstones: the graha-shanti chapters read (BPHS ch. 84, Garuda Purana 1.101) prescribe worship, japa, homa, feeding and gifts, not wearing a planet's gem (Garuda mentions wearing metals); Phaladeepika 2.29 only lists the gems as correspondences. Among moderns: PVR and Frawley's 'safe school' give gems only for functional benefics (even weak ones) and avoid gems of functional malefics; a second school Frawley reports gives the gem of the troublesome malefic itself; Sutton prefers gems of strong planets over weak ones. Frawley and Sutton warn about side effects (blue sapphire, cat's eye, ruby, node gems) and Sutton criticises commercial gem-selling. Translation: in BPHS ch. 84 the Kapoor translation differs from the Sanskrit on some details (e.g. Rahu's image metal lead vs glass, the vehicles of Saturn and Ketu, Mars's count 10,000 vs 11,000).",
+    "confidence": "high",
+    "phrasing_guidance": "Offer these as optional devotional or lifestyle practices, never as a requirement or a fix. Do not frame the planet as something to fear. Do not promise that any remedy will change events, health or money. Mention gemstones only as an optional tradition that sources disagree on, recommend consulting a qualified, independent astrologer before buying one, and never tie a reading to a purchase. Prefer free practices first: prayer or mantra on the planet's day, simple charity, and the conduct changes. Classical gifts of animals (cows, bulls, goats, horses) can be described as the tradition's form of charity; a modern reader can give in kind or to a cause instead. No medical claims: herbs or gems are not treatment."
+  },
+  {
+    "id": "remedy/moon",
+    "layer": "remedy",
+    "key": {
+      "planet": "Moon"
+    },
+    "summary": "Remedies for Moon are indicated when it is weak, afflicted or badly placed, and especially while it runs a hard dasha or antardasha or an adverse transit (Phaladeepika 26.49; BPHS 84.26). The classical means are worship, its mantra, homa, feeding and gifts; modern authors add bija mantras, conduct and lifestyle changes, and optional gemstones only when Moon is functionally helpful in the chart.",
+    "themes": [
+      "mind and emotions",
+      "mother",
+      "peace",
+      "nurture"
+    ],
+    "common_outcomes": [
+      "Classical texts present planetary worship as bringing peace, prosperity, health and long life (BPHS 84.2-3).",
+      "Navagraha Stotra phalashruti: obstacles pacified, bad dreams removed, troubles from planets and stars calmed.",
+      "PVR: remedies change the details of a period, not its basic pattern."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Frawley: waning (especially near new Moon), debilitated (Scorpio), aspected by Saturn, Rahu, Ketu or Mars (Rahu and Saturn worst unless Jupiter helps), or in the 6th/8th/12th. Shows as emotional instability, anxiety, moodiness; the mother may suffer."
+    ],
+    "lagna_or_context_notes": "Which remedy fits depends on the planet's functional role from the lagna: modern authors (PVR 34.2; Frawley, Astrology of the Seers Part III ch. 4 and Ayurvedic Astrology ch. 9) reserve gems for functional benefics and use mantra, worship and charity for malefics. BPHS 84.26 says to worship whichever planet is badly placed at the time.",
+    "remedies": [
+      {
+        "type": "mantra",
+        "remedy": "Recite the planet's Vedic mantra beginning 'Imam deva asapatnam...' after worshipping Moon; prescribed count 11,000 repetitions.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 17-20; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Recite verse 2 of the Navagraha Stotra (to the Moon, white as curd, conch and frost, born from the ocean of milk, ornament on Shiva's crown), or the whole hymn; the closing verses say that whoever recites it with a collected mind, day or night, has obstacles pacified and troubles from planets and stars calmed.",
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman), v. 2 and phalashruti; https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Name and seed mantras: name mantras OM SOMAYA NAMAHA / OM CHANDRAYA NAMAHA; bija SOM, also CHAM and SHRIM; on Mondays, in the evening, especially near the full Moon.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Read the planet's introductory verse a few times, then repeat its basic mantra about 10,000 times, ideally on its weekday; PVR also suggests the planet's 108 names, kavacha or stotra, recited with devotion and correct pronunciation.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.4; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha puja: make an image of Moon in crystal (sphatika) (or draw it on cloth in its colour) and contemplate it as white, in white garments and white ornaments, two arms (mace and boon-giving gesture), on a chariot of ten horses (84.7); offer flowers and cloth of its colour, sandal paste, lamp, incense (guggulu) and the food it likes.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 3-16; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; same content in G.C. Sharma ch. 86, https://archive.org/details/brihatparasarahorasastrawithenglishtranslationgirishchandsharmavolume2_433_w"
+      },
+      {
+        "type": "worship",
+        "remedy": "Homa: offer palasha as the sacrificial fuel for Moon, dipped in honey, ghee, curd or milk, 108 or 28 times.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 21-22; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha-yajna as taught by Yajnavalkya: worship with flowers and items of the planet's colour (white), recite its mantra, and give the prescribed food and gift; recommended for anyone troubled by a hostile planet or wanting peace and prosperity.",
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib); https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "worship",
+        "remedy": "Gift of a white cow and/or a female buffalo is prescribed for troubled Moon sub-periods (e.g. Moon in the Sun's dasha, ch. 52; Moon in Rahu's dasha, ch. 55); Durga Saptashati recitation for the Moon sub-period in Jupiter's dasha (ch. 56).",
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given); https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Worship a deity linked to Moon: Gauri, Lalita, Saraswati, Krishna; PVR advises choosing the form that best fits the planet's combinations in the chart.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.5 Table 78; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Deity: the Divine Mother (Parvati, Lakshmi, Tara and other forms), meditated in the full Moon; ruling deity Apas (waters), over-ruler Parvati (ch. 5 table).",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets' and David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "charity",
+        "remedy": "Feed Brahmins rice cooked in milk (payasa) and give a conch as the gift (dakshina), according to one's means and with respect.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 23-25; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; the gift list matches Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib), https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "charity",
+        "remedy": "Do a good deed in Moon's area: donate to a music institution or help a woman in need ('a fair lady' in the text). Give away rice, the grain ruled by Moon.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Place a small bowl of white rice on the altar to represent Moon in worship; Frawley adds these are good foods when the planet is weak.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "fasting",
+        "remedy": "Fasting on the weekday of the relevant planet (Monday for Moon). PVR's own examples tie the day to the planet that rules the troubled area (e.g. the upapada lord's day for marriage), not to a fixed list.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3 (fasting); weekday attribution from 34.2/34.4 and Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Conduct and lifestyle: seek an atmosphere of peace, faith and caring; do service work; stay in a supportive family or community and nurture others; devotional (bhakti) practice.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Planets are always favourable to one who harms no one, keeps self-control, earns wealth by righteous means and keeps a steady religious discipline; when a planet is adverse in dasha, bhukti, ashtakavarga or transit, pacify it with prayers and mantras suited to it, virtuous acts, vows, gifts and worship.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Common-sense precautions in a difficult period (e.g. drive carefully if accidents are indicated, restrain oneself if conflict with authority is indicated); good deeds in the planet's area of life.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.1.1 and 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Gem traditionally assigned to Moon: pearl (substitutes: cultured pearl or moonstone (larger size)). Frawley: natural pearl (min. ~2 carats) in silver, ring finger, first worn on a Monday in the waxing Moon. Avoid when the Moon rules malefic houses (e.g. for Taurus, Sagittarius, Aquarius lagnas), or with Kapha excess (congestion, overweight) or strong emotional attachment.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley; gem list also David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy', https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. PVR: wear the gem only if Moon is a functional benefic in the chart (useful even if that benefic is weak or badly placed); avoid gems of functional malefics, and of marakas during maraka periods; first wear it on the planet's weekday when the planet is strong.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.2 and Table 77; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Sutton: prefer the gems of strong planets (especially the lagna lord and trine lords) over weak ones; gems help only alongside a real change of attitude; wearing the planet's colour, its oils or seeds can stand in for an unaffordable gem.",
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://skyscript.co.uk/gems.html"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Phaladeepika lists pearl as Moon's gem among the planets' correspondences; the verse assigns gems but does not prescribe wearing them as a remedy.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 2 v. 29; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma)",
+        "view": "Joys and sorrows depend on the planets, so those wanting peace, wealth, health or long life should worship them; whichever planet is badly placed at a given time should be worshipped with special care, because Brahma granted the planets the boon of honouring those who honour them (vv. 2-3, 26-27). For Moon: image in crystal (sphatika), mantra 'Imam deva asapatnam...' x 11,000, fuel palasha, food rice cooked in milk (payasa), gift a conch.",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given)",
+        "view": "Gift of a white cow and/or a female buffalo is prescribed for troubled Moon sub-periods (e.g. Moon in the Sun's dasha, ch. 52; Moon in Rahu's dasha, ch. 55); Durga Saptashati recitation for the Moon sub-period in Jupiter's dasha (ch. 56).",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50",
+        "view": "Remedy is indicated whenever a planet is badly placed in dasha, bhukti, ashtakavarga or transit; the means are prayer and planet-specific mantra, propitiatory rites, virtuous acts, vows, gifts and worship. Non-harming, self-control, honestly earned wealth and discipline keep the planets favourable.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman)",
+        "view": "Verse 2 praises the Moon, white as curd, conch and frost, born from the ocean of milk, ornament on Shiva's crown; the closing verses promise pacification of obstacles, bad dreams and planet-caused troubles.",
+        "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib)",
+        "view": "Yajnavalkya's graha-yajna: anyone under a hostile planet, or wanting prosperity and peace, should perform it; colour for Moon white; gifts follow the same order as BPHS.",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures'",
+        "view": "Remedies adjust the details of a karmic pattern, not the pattern; four ways to please a planet: gem (only for functional benefics), good deeds, mantra/stotra, deity worship. For Moon: deed - donate to a music institution or help a woman in need ('a fair lady' in the text); deity - Gauri, Lalita, Saraswati, Krishna; mantra count ~10,000.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'",
+        "view": "Strengthen a planet chiefly when it is weak, and be careful strengthening natural malefics; mantra and meditation are safer than gems or herbs, and are used to ward off an over-strong malefic. Signs of a weak Moon: Frawley: waning (especially near new Moon), debilitated (Scorpio), aspected by Saturn, Rahu, Ketu or Mars (Rahu and Saturn worst unless Jupiter helps), or in the 6th/8th/12th. Shows as emotional instability, anxiety, moodiness; the mother may suffer.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy'",
+        "view": "Gems are called the main remedial measure in Vedic astrology, but wrongly prescribed gems can cause imbalances; two schools exist (strengthen weak benefics - the 'safe school' Frawley follows - versus propitiate the troublesome malefic), and Frawley advises against wearing malefics' gems unless backed by serious mantra and meditation practice.",
+        "url": "https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004)",
+        "view": "Wear gems of strong, not weak, planets; criticises wearing many gems as a shortcut and astrologers who profit by selling costly stones; gems work only with a change of attitude; node gems best avoided.",
+        "url": "https://skyscript.co.uk/gems.html"
+      },
+      {
+        "source": "B.V. Raman, Planetary Influences on Human Affairs, ch. XI 'Astrology as an Aid to Medical Science' and ch. VIII",
+        "view": "Ancient texts suggest mantra-based remedies for afflictions (arishta yogas) shown in the chart (ch. XI); karma and free will coexist, so astrology should not be used fatalistically (ch. VIII). Raman gives no planet-by-planet list here.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Planetary%20Astrology%20of%20Human%20Affairs%20by%20Dr.%20B%20V%20Raman.pdf"
+      }
+    ],
+    "disagreements": "Mantra counts: BPHS 84.19-20 gives 11,000 for Moon; PVR gives about 10,000 (his counts follow a different scheme). Mantra type: the classical texts read here prescribe Vedic verses and hymns; the short bija and name mantras come from modern authors (Frawley, PVR), and their classical mantra-text source (e.g. Mantra Maharnava) was not verified. Gemstones: the graha-shanti chapters read (BPHS ch. 84, Garuda Purana 1.101) prescribe worship, japa, homa, feeding and gifts, not wearing a planet's gem (Garuda mentions wearing metals); Phaladeepika 2.29 only lists the gems as correspondences. Among moderns: PVR and Frawley's 'safe school' give gems only for functional benefics (even weak ones) and avoid gems of functional malefics; a second school Frawley reports gives the gem of the troublesome malefic itself; Sutton prefers gems of strong planets over weak ones. Frawley and Sutton warn about side effects (blue sapphire, cat's eye, ruby, node gems) and Sutton criticises commercial gem-selling. Translation: in BPHS ch. 84 the Kapoor translation differs from the Sanskrit on some details (e.g. Rahu's image metal lead vs glass, the vehicles of Saturn and Ketu, Mars's count 10,000 vs 11,000).",
+    "confidence": "high",
+    "phrasing_guidance": "Offer these as optional devotional or lifestyle practices, never as a requirement or a fix. Do not frame the planet as something to fear. Do not promise that any remedy will change events, health or money. Mention gemstones only as an optional tradition that sources disagree on, recommend consulting a qualified, independent astrologer before buying one, and never tie a reading to a purchase. Prefer free practices first: prayer or mantra on the planet's day, simple charity, and the conduct changes. Classical gifts of animals (cows, bulls, goats, horses) can be described as the tradition's form of charity; a modern reader can give in kind or to a cause instead. No medical claims: herbs or gems are not treatment."
+  },
+  {
+    "id": "remedy/mars",
+    "layer": "remedy",
+    "key": {
+      "planet": "Mars"
+    },
+    "summary": "Remedies for Mars are indicated when it is weak, afflicted or badly placed, and especially while it runs a hard dasha or antardasha or an adverse transit (Phaladeepika 26.49; BPHS 84.26). The classical means are worship, its mantra, homa, feeding and gifts; modern authors add bija mantras, conduct and lifestyle changes, and optional gemstones only when Mars is functionally helpful in the chart.",
+    "themes": [
+      "energy",
+      "courage",
+      "siblings",
+      "property"
+    ],
+    "common_outcomes": [
+      "Classical texts present planetary worship as bringing peace, prosperity, health and long life (BPHS 84.2-3).",
+      "Navagraha Stotra phalashruti: obstacles pacified, bad dreams removed, troubles from planets and stars calmed.",
+      "PVR: remedies change the details of a period, not its basic pattern."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Frawley: debilitated (Cancer), aspected by Saturn or Rahu, combust, or in the 5th, 8th, 9th or 12th. Shows as low energy and motivation, difficulty standing up for oneself."
+    ],
+    "lagna_or_context_notes": "Which remedy fits depends on the planet's functional role from the lagna: modern authors (PVR 34.2; Frawley, Astrology of the Seers Part III ch. 4 and Ayurvedic Astrology ch. 9) reserve gems for functional benefics and use mantra, worship and charity for malefics. BPHS 84.26 says to worship whichever planet is badly placed at the time.",
+    "remedies": [
+      {
+        "type": "mantra",
+        "remedy": "Recite the planet's Vedic mantra beginning 'Agnir murdha divah kakut...' after worshipping Mars; prescribed count 10,000 by the Sanskrit numeral word ('disho' = 10); the Kapoor table prints 11,000 repetitions.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 17-20; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Recite verse 3 of the Navagraha Stotra (to Mars, born of the Earth, bright as lightning, the youth who holds a spear), or the whole hymn; the closing verses say that whoever recites it with a collected mind, day or night, has obstacles pacified and troubles from planets and stars calmed.",
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman), v. 3 and phalashruti; https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Name and seed mantras: name mantras OM KUJAYA / ANGARAKAYA / MANGALAYA NAMAHA; bija OM KUM, also AM, MAM, and RAM (fire).",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Read the planet's introductory verse a few times, then repeat its basic mantra about 7,000 times, ideally on its weekday; PVR also suggests the planet's 108 names, kavacha or stotra, recited with devotion and correct pronunciation.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.4; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha puja: make an image of Mars in red sandalwood (or draw it on cloth in its colour) and contemplate it as four arms, red garland and garments, holding shakti, trident and mace with a boon-giving hand, riding a ram (84.8); offer flowers and cloth of its colour, sandal paste, lamp, incense (guggulu) and the food it likes.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 3-16; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; same content in G.C. Sharma ch. 86, https://archive.org/details/brihatparasarahorasastrawithenglishtranslationgirishchandsharmavolume2_433_w"
+      },
+      {
+        "type": "worship",
+        "remedy": "Homa: offer khadira (khair) as the sacrificial fuel for Mars, dipped in honey, ghee, curd or milk, 108 or 28 times.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 21-22; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha-yajna as taught by Yajnavalkya: worship with flowers and items of the planet's colour (red), recite its mantra, and give the prescribed food and gift; recommended for anyone troubled by a hostile planet or wanting peace and prosperity.",
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib); https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "worship",
+        "remedy": "Gift of a bull is prescribed for troubled Mars sub-periods (e.g. Mars in Jupiter's dasha, ch. 56; Mars in Ketu's dasha, ch. 59); homa with gift of a bull for Mars in Saturn's dasha (ch. 57); Mrityunjaya japa with a cow for Mars in Mercury's dasha (ch. 58).",
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given); https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Worship a deity linked to Mars: Hanuman, Rudra, Kartikeya (Subrahmanya), Narasimha; PVR advises choosing the form that best fits the planet's combinations in the chart.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.5 Table 78; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Deity: Skanda / Kartikeya / Subrahmanya, the divine warrior; ruling deity Bhumi (Earth), over-ruler Skanda (ch. 5 table).",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets' and David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "charity",
+        "remedy": "Feed Brahmins havishya (simple sacrificial rice) and give a bull/ox as the gift (dakshina), according to one's means and with respect.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 23-25; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; the gift list matches Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib), https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "charity",
+        "remedy": "Do a good deed in Mars's area: take up physical exercise or donate to a school gym. Give away toor dal, the grain ruled by Mars.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Place a small bowl of red dal on the altar to represent Mars in worship; Frawley adds these are good foods when the planet is weak.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "fasting",
+        "remedy": "Fasting on the weekday of the relevant planet (Tuesday for Mars). PVR's own examples tie the day to the planet that rules the troubled area (e.g. the upapada lord's day for marriage), not to a fixed list.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3 (fasting); weekday attribution from 34.2/34.4 and Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Conduct and lifestyle: take up regular physical activity and a definite discipline in body, emotions and spiritual life, pursued with intelligence rather than harshness; Frawley also cautions that martial arts can feed a negative Mars.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Planets are always favourable to one who harms no one, keeps self-control, earns wealth by righteous means and keeps a steady religious discipline; when a planet is adverse in dasha, bhukti, ashtakavarga or transit, pacify it with prayers and mantras suited to it, virtuous acts, vows, gifts and worship.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Common-sense precautions in a difficult period (e.g. drive carefully if accidents are indicated, restrain oneself if conflict with authority is indicated); good deeds in the planet's area of life.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.1.1 and 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Gem traditionally assigned to Mars: red coral (substitutes: carnelian; pink coral (gentler)). Frawley: red coral (min. ~3 carats) in silver or gold-copper, index or ring finger of the right hand, first worn on a Tuesday in the waxing Moon. Avoid when Mars is a malefic lord (especially Gemini and Virgo lagnas), conjoins benefics one wants to strengthen, sits in the 7th or strongly in angles, or with fever, bleeding, anger or aggression.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley; gem list also David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy', https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. PVR: wear the gem only if Mars is a functional benefic in the chart (useful even if that benefic is weak or badly placed); avoid gems of functional malefics, and of marakas during maraka periods; first wear it on the planet's weekday when the planet is strong.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.2 and Table 77; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Sutton: prefer the gems of strong planets (especially the lagna lord and trine lords) over weak ones; gems help only alongside a real change of attitude; wearing the planet's colour, its oils or seeds can stand in for an unaffordable gem.",
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://skyscript.co.uk/gems.html"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Phaladeepika lists coral as Mars's gem among the planets' correspondences; the verse assigns gems but does not prescribe wearing them as a remedy.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 2 v. 29; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma)",
+        "view": "Joys and sorrows depend on the planets, so those wanting peace, wealth, health or long life should worship them; whichever planet is badly placed at a given time should be worshipped with special care, because Brahma granted the planets the boon of honouring those who honour them (vv. 2-3, 26-27). For Mars: image in red sandalwood, mantra 'Agnir murdha divah kakut...' x 10,000 by the Sanskrit numeral word ('disho' = 10); the Kapoor table prints 11,000, fuel khadira (khair), food havishya (simple sacrificial rice), gift a bull/ox.",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given)",
+        "view": "Gift of a bull is prescribed for troubled Mars sub-periods (e.g. Mars in Jupiter's dasha, ch. 56; Mars in Ketu's dasha, ch. 59); homa with gift of a bull for Mars in Saturn's dasha (ch. 57); Mrityunjaya japa with a cow for Mars in Mercury's dasha (ch. 58).",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50",
+        "view": "Remedy is indicated whenever a planet is badly placed in dasha, bhukti, ashtakavarga or transit; the means are prayer and planet-specific mantra, propitiatory rites, virtuous acts, vows, gifts and worship. Non-harming, self-control, honestly earned wealth and discipline keep the planets favourable.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman)",
+        "view": "Verse 3 praises Mars, born of the Earth, bright as lightning, the youth who holds a spear; the closing verses promise pacification of obstacles, bad dreams and planet-caused troubles.",
+        "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib)",
+        "view": "Yajnavalkya's graha-yajna: anyone under a hostile planet, or wanting prosperity and peace, should perform it; colour for Mars red; gifts follow the same order as BPHS.",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures'",
+        "view": "Remedies adjust the details of a karmic pattern, not the pattern; four ways to please a planet: gem (only for functional benefics), good deeds, mantra/stotra, deity worship. For Mars: deed - take up physical exercise or donate to a school gym; deity - Hanuman, Rudra, Kartikeya (Subrahmanya), Narasimha; mantra count ~7,000.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'",
+        "view": "Strengthen a planet chiefly when it is weak, and be careful strengthening natural malefics; mantra and meditation are safer than gems or herbs, and are used to ward off an over-strong malefic. Signs of a weak Mars: Frawley: debilitated (Cancer), aspected by Saturn or Rahu, combust, or in the 5th, 8th, 9th or 12th. Shows as low energy and motivation, difficulty standing up for oneself.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy'",
+        "view": "Gems are called the main remedial measure in Vedic astrology, but wrongly prescribed gems can cause imbalances; two schools exist (strengthen weak benefics - the 'safe school' Frawley follows - versus propitiate the troublesome malefic), and Frawley advises against wearing malefics' gems unless backed by serious mantra and meditation practice.",
+        "url": "https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004)",
+        "view": "Wear gems of strong, not weak, planets; criticises wearing many gems as a shortcut and astrologers who profit by selling costly stones; gems work only with a change of attitude; node gems best avoided.",
+        "url": "https://skyscript.co.uk/gems.html"
+      },
+      {
+        "source": "B.V. Raman, Planetary Influences on Human Affairs, ch. XI 'Astrology as an Aid to Medical Science' and ch. VIII",
+        "view": "Ancient texts suggest mantra-based remedies for afflictions (arishta yogas) shown in the chart (ch. XI); karma and free will coexist, so astrology should not be used fatalistically (ch. VIII). Raman gives no planet-by-planet list here.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Planetary%20Astrology%20of%20Human%20Affairs%20by%20Dr.%20B%20V%20Raman.pdf"
+      }
+    ],
+    "disagreements": "Mantra counts: BPHS 84.19-20 gives 10,000 by the Sanskrit numeral word ('disho' = 10); the Kapoor table prints 11,000 for Mars; PVR gives about 7,000 (his counts follow a different scheme). Mantra type: the classical texts read here prescribe Vedic verses and hymns; the short bija and name mantras come from modern authors (Frawley, PVR), and their classical mantra-text source (e.g. Mantra Maharnava) was not verified. Gemstones: the graha-shanti chapters read (BPHS ch. 84, Garuda Purana 1.101) prescribe worship, japa, homa, feeding and gifts, not wearing a planet's gem (Garuda mentions wearing metals); Phaladeepika 2.29 only lists the gems as correspondences. Among moderns: PVR and Frawley's 'safe school' give gems only for functional benefics (even weak ones) and avoid gems of functional malefics; a second school Frawley reports gives the gem of the troublesome malefic itself; Sutton prefers gems of strong planets over weak ones. Frawley and Sutton warn about side effects (blue sapphire, cat's eye, ruby, node gems) and Sutton criticises commercial gem-selling. Translation: in BPHS ch. 84 the Kapoor translation differs from the Sanskrit on some details (e.g. Rahu's image metal lead vs glass, the vehicles of Saturn and Ketu, Mars's count 10,000 vs 11,000).",
+    "confidence": "high",
+    "phrasing_guidance": "Offer these as optional devotional or lifestyle practices, never as a requirement or a fix. Do not frame the planet as something to fear. Do not promise that any remedy will change events, health or money. Mention gemstones only as an optional tradition that sources disagree on, recommend consulting a qualified, independent astrologer before buying one, and never tie a reading to a purchase. Prefer free practices first: prayer or mantra on the planet's day, simple charity, and the conduct changes. Classical gifts of animals (cows, bulls, goats, horses) can be described as the tradition's form of charity; a modern reader can give in kind or to a cause instead. No medical claims: herbs or gems are not treatment."
+  },
+  {
+    "id": "remedy/mercury",
+    "layer": "remedy",
+    "key": {
+      "planet": "Mercury"
+    },
+    "summary": "Remedies for Mercury are indicated when it is weak, afflicted or badly placed, and especially while it runs a hard dasha or antardasha or an adverse transit (Phaladeepika 26.49; BPHS 84.26). The classical means are worship, its mantra, homa, feeding and gifts; modern authors add bija mantras, conduct and lifestyle changes, and optional gemstones only when Mercury is functionally helpful in the chart.",
+    "themes": [
+      "intellect",
+      "speech",
+      "learning",
+      "trade"
+    ],
+    "common_outcomes": [
+      "Classical texts present planetary worship as bringing peace, prosperity, health and long life (BPHS 84.2-3).",
+      "Navagraha Stotra phalashruti: obstacles pacified, bad dreams removed, troubles from planets and stars calmed.",
+      "PVR: remedies change the details of a period, not its basic pattern."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Frawley: aspected by malefics (Saturn, Rahu, Ketu, Sun, Mars), debilitated (Pisces), or in the 6th/8th/12th. Shows as poor communication, weak memory, nervousness."
+    ],
+    "lagna_or_context_notes": "Which remedy fits depends on the planet's functional role from the lagna: modern authors (PVR 34.2; Frawley, Astrology of the Seers Part III ch. 4 and Ayurvedic Astrology ch. 9) reserve gems for functional benefics and use mantra, worship and charity for malefics. BPHS 84.26 says to worship whichever planet is badly placed at the time.",
+    "remedies": [
+      {
+        "type": "mantra",
+        "remedy": "Recite the planet's Vedic mantra beginning 'Udbudhyasva...' after worshipping Mercury; prescribed count 9,000 repetitions.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 17-20; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Recite verse 4 of the Navagraha Stotra (to Mercury, dark like the priyangu bud, of matchless form, gentle and of gentle qualities), or the whole hymn; the closing verses say that whoever recites it with a collected mind, day or night, has obstacles pacified and troubles from planets and stars calmed.",
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman), v. 4 and phalashruti; https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Name and seed mantras: name mantra OM BUDHAYA NAMAHA; bija OM BUM; also AIM (Saraswati); on Wednesdays.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Read the planet's introductory verse a few times, then repeat its basic mantra about 17,000 times, ideally on its weekday; PVR also suggests the planet's 108 names, kavacha or stotra, recited with devotion and correct pronunciation.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.4; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha puja: make an image of Mercury in gold (or draw it on cloth in its colour) and contemplate it as yellow garland and garments, bright as the karnikara flower, four arms holding sword, shield and mace with a boon-giving hand, riding a lion (84.9); offer flowers and cloth of its colour, sandal paste, lamp, incense (guggulu) and the food it likes.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 3-16; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; same content in G.C. Sharma ch. 86, https://archive.org/details/brihatparasarahorasastrawithenglishtranslationgirishchandsharmavolume2_433_w"
+      },
+      {
+        "type": "worship",
+        "remedy": "Homa: offer apamarga (chirchiri) as the sacrificial fuel for Mercury, dipped in honey, ghee, curd or milk, 108 or 28 times.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 21-22; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha-yajna as taught by Yajnavalkya: worship with flowers and items of the planet's colour (yellowish), recite its mantra, and give the prescribed food and gift; recommended for anyone troubled by a hostile planet or wanting peace and prosperity.",
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib); https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "worship",
+        "remedy": "Recitation of the Vishnu Sahasranama is the remedy most often prescribed for troubled Mercury sub-periods (e.g. Mercury in the dashas of the Sun, Moon, Mars, Rahu, Mercury, Ketu and Venus; chs. 52-55, 58-60), sometimes with a gift of grains and a silver image (ch. 52) or a horse (ch. 54).",
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given); https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Worship a deity linked to Mercury: Vishnu, Narayana, Buddha; PVR advises choosing the form that best fits the planet's combinations in the chart.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.5 Table 78; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Deity: Vishnu as indwelling intelligence; the Buddha; ruling deity Vishnu, over-ruler Narayana (ch. 5 table).",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets' and David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "charity",
+        "remedy": "Feed Brahmins shashtika rice cooked in milk and give gold as the gift (dakshina), according to one's means and with respect.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 23-25; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; the gift list matches Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib), https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "charity",
+        "remedy": "Do a good deed in Mercury's area: donate to an organisation of scholars or seek a scholar's blessing. Give away moong dal, the grain ruled by Mercury.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Place a small bowl of mung beans on the altar to represent Mercury in worship; Frawley adds these are good foods when the planet is weak.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "fasting",
+        "remedy": "Fasting on the weekday of the relevant planet (Wednesday for Mercury). PVR's own examples tie the day to the planet that rules the troubled area (e.g. the upapada lord's day for marriage), not to a fixed list.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3 (fasting); weekday attribution from 34.2/34.4 and Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Conduct and lifestyle: read, study, write; take courses, learn a language, study mathematics or philosophy; keep time for silence and relaxation in nature.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Planets are always favourable to one who harms no one, keeps self-control, earns wealth by righteous means and keeps a steady religious discipline; when a planet is adverse in dasha, bhukti, ashtakavarga or transit, pacify it with prayers and mantras suited to it, virtuous acts, vows, gifts and worship.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Common-sense precautions in a difficult period (e.g. drive carefully if accidents are indicated, restrain oneself if conflict with authority is indicated); good deeds in the planet's area of life.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.1.1 and 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Gem traditionally assigned to Mercury: emerald (substitutes: peridot, jade, green zircon, green tourmaline). Frawley: emerald (min. ~1.5 carats) in gold, middle or little finger, first worn on a Wednesday in the waxing Moon. Generally safe; be careful combining it with malefics' gems, and when Mercury is a malefic lord (Aries, Scorpio lagnas), especially joined to Saturn or Rahu.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley; gem list also David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy', https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. PVR: wear the gem only if Mercury is a functional benefic in the chart (useful even if that benefic is weak or badly placed); avoid gems of functional malefics, and of marakas during maraka periods; first wear it on the planet's weekday when the planet is strong.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.2 and Table 77; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Sutton: prefer the gems of strong planets (especially the lagna lord and trine lords) over weak ones; gems help only alongside a real change of attitude; wearing the planet's colour, its oils or seeds can stand in for an unaffordable gem.",
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://skyscript.co.uk/gems.html"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Phaladeepika lists emerald as Mercury's gem among the planets' correspondences; the verse assigns gems but does not prescribe wearing them as a remedy.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 2 v. 29; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma)",
+        "view": "Joys and sorrows depend on the planets, so those wanting peace, wealth, health or long life should worship them; whichever planet is badly placed at a given time should be worshipped with special care, because Brahma granted the planets the boon of honouring those who honour them (vv. 2-3, 26-27). For Mercury: image in gold, mantra 'Udbudhyasva...' x 9,000, fuel apamarga (chirchiri), food shashtika rice cooked in milk, gift gold.",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given)",
+        "view": "Recitation of the Vishnu Sahasranama is the remedy most often prescribed for troubled Mercury sub-periods (e.g. Mercury in the dashas of the Sun, Moon, Mars, Rahu, Mercury, Ketu and Venus; chs. 52-55, 58-60), sometimes with a gift of grains and a silver image (ch. 52) or a horse (ch. 54).",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50",
+        "view": "Remedy is indicated whenever a planet is badly placed in dasha, bhukti, ashtakavarga or transit; the means are prayer and planet-specific mantra, propitiatory rites, virtuous acts, vows, gifts and worship. Non-harming, self-control, honestly earned wealth and discipline keep the planets favourable.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman)",
+        "view": "Verse 4 praises Mercury, dark like the priyangu bud, of matchless form, gentle and of gentle qualities; the closing verses promise pacification of obstacles, bad dreams and planet-caused troubles.",
+        "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib)",
+        "view": "Yajnavalkya's graha-yajna: anyone under a hostile planet, or wanting prosperity and peace, should perform it; colour for Mercury yellowish; gifts follow the same order as BPHS.",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures'",
+        "view": "Remedies adjust the details of a karmic pattern, not the pattern; four ways to please a planet: gem (only for functional benefics), good deeds, mantra/stotra, deity worship. For Mercury: deed - donate to an organisation of scholars or seek a scholar's blessing; deity - Vishnu, Narayana, Buddha; mantra count ~17,000.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'",
+        "view": "Strengthen a planet chiefly when it is weak, and be careful strengthening natural malefics; mantra and meditation are safer than gems or herbs, and are used to ward off an over-strong malefic. Signs of a weak Mercury: Frawley: aspected by malefics (Saturn, Rahu, Ketu, Sun, Mars), debilitated (Pisces), or in the 6th/8th/12th. Shows as poor communication, weak memory, nervousness.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy'",
+        "view": "Gems are called the main remedial measure in Vedic astrology, but wrongly prescribed gems can cause imbalances; two schools exist (strengthen weak benefics - the 'safe school' Frawley follows - versus propitiate the troublesome malefic), and Frawley advises against wearing malefics' gems unless backed by serious mantra and meditation practice.",
+        "url": "https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004)",
+        "view": "Wear gems of strong, not weak, planets; criticises wearing many gems as a shortcut and astrologers who profit by selling costly stones; gems work only with a change of attitude; node gems best avoided.",
+        "url": "https://skyscript.co.uk/gems.html"
+      },
+      {
+        "source": "B.V. Raman, Planetary Influences on Human Affairs, ch. XI 'Astrology as an Aid to Medical Science' and ch. VIII",
+        "view": "Ancient texts suggest mantra-based remedies for afflictions (arishta yogas) shown in the chart (ch. XI); karma and free will coexist, so astrology should not be used fatalistically (ch. VIII). Raman gives no planet-by-planet list here.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Planetary%20Astrology%20of%20Human%20Affairs%20by%20Dr.%20B%20V%20Raman.pdf"
+      }
+    ],
+    "disagreements": "Mantra counts: BPHS 84.19-20 gives 9,000 for Mercury; PVR gives about 17,000 (his counts follow a different scheme). Mantra type: the classical texts read here prescribe Vedic verses and hymns; the short bija and name mantras come from modern authors (Frawley, PVR), and their classical mantra-text source (e.g. Mantra Maharnava) was not verified. Gemstones: the graha-shanti chapters read (BPHS ch. 84, Garuda Purana 1.101) prescribe worship, japa, homa, feeding and gifts, not wearing a planet's gem (Garuda mentions wearing metals); Phaladeepika 2.29 only lists the gems as correspondences. Among moderns: PVR and Frawley's 'safe school' give gems only for functional benefics (even weak ones) and avoid gems of functional malefics; a second school Frawley reports gives the gem of the troublesome malefic itself; Sutton prefers gems of strong planets over weak ones. Frawley and Sutton warn about side effects (blue sapphire, cat's eye, ruby, node gems) and Sutton criticises commercial gem-selling. Translation: in BPHS ch. 84 the Kapoor translation differs from the Sanskrit on some details (e.g. Rahu's image metal lead vs glass, the vehicles of Saturn and Ketu, Mars's count 10,000 vs 11,000).",
+    "confidence": "high",
+    "phrasing_guidance": "Offer these as optional devotional or lifestyle practices, never as a requirement or a fix. Do not frame the planet as something to fear. Do not promise that any remedy will change events, health or money. Mention gemstones only as an optional tradition that sources disagree on, recommend consulting a qualified, independent astrologer before buying one, and never tie a reading to a purchase. Prefer free practices first: prayer or mantra on the planet's day, simple charity, and the conduct changes. Classical gifts of animals (cows, bulls, goats, horses) can be described as the tradition's form of charity; a modern reader can give in kind or to a cause instead. No medical claims: herbs or gems are not treatment."
+  },
+  {
+    "id": "remedy/jupiter",
+    "layer": "remedy",
+    "key": {
+      "planet": "Jupiter"
+    },
+    "summary": "Remedies for Jupiter are indicated when it is weak, afflicted or badly placed, and especially while it runs a hard dasha or antardasha or an adverse transit (Phaladeepika 26.49; BPHS 84.26). The classical means are worship, its mantra, homa, feeding and gifts; modern authors add bija mantras, conduct and lifestyle changes, and optional gemstones only when Jupiter is functionally helpful in the chart.",
+    "themes": [
+      "wisdom",
+      "faith",
+      "children",
+      "teachers",
+      "fortune"
+    ],
+    "common_outcomes": [
+      "Classical texts present planetary worship as bringing peace, prosperity, health and long life (BPHS 84.2-3).",
+      "Navagraha Stotra phalashruti: obstacles pacified, bad dreams removed, troubles from planets and stars calmed.",
+      "PVR: remedies change the details of a period, not its basic pattern."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Frawley: debilitated (Capricorn), aspected by Saturn, Rahu, Ketu or Mars, or in the 6th/8th/12th. Shows as low faith and joy, pessimism, money troubles; children (or a woman's husband) may suffer."
+    ],
+    "lagna_or_context_notes": "Which remedy fits depends on the planet's functional role from the lagna: modern authors (PVR 34.2; Frawley, Astrology of the Seers Part III ch. 4 and Ayurvedic Astrology ch. 9) reserve gems for functional benefics and use mantra, worship and charity for malefics. BPHS 84.26 says to worship whichever planet is badly placed at the time.",
+    "remedies": [
+      {
+        "type": "mantra",
+        "remedy": "Recite the planet's Vedic mantra beginning 'Brihaspate ati yad aryo...' after worshipping Jupiter; prescribed count 19,000 repetitions.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 17-20; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Recite verse 5 of the Navagraha Stotra (to Jupiter, teacher of gods and sages, golden in hue, wisdom itself, lord of the three worlds), or the whole hymn; the closing verses say that whoever recites it with a collected mind, day or night, has obstacles pacified and troubles from planets and stars calmed.",
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman), v. 5 and phalashruti; https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Name and seed mantras: name mantra OM BRIHASPATAYE NAMAHA; bija OM BRAHM; also SHRIM, OM, and Ganesha's OM GAM GANESHAYA NAMAHA.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Read the planet's introductory verse a few times, then repeat its basic mantra about 16,000 times, ideally on its weekday; PVR also suggests the planet's 108 names, kavacha or stotra, recited with devotion and correct pronunciation.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.4; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha puja: make an image of Jupiter in gold (or draw it on cloth in its colour) and contemplate it as yellow complexion, four arms holding staff, rosary and water-pot with a boon-giving hand (84.10); offer flowers and cloth of its colour, sandal paste, lamp, incense (guggulu) and the food it likes.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 3-16; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; same content in G.C. Sharma ch. 86, https://archive.org/details/brihatparasarahorasastrawithenglishtranslationgirishchandsharmavolume2_433_w"
+      },
+      {
+        "type": "worship",
+        "remedy": "Homa: offer pippala (peepal) as the sacrificial fuel for Jupiter, dipped in honey, ghee, curd or milk, 108 or 28 times.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 21-22; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha-yajna as taught by Yajnavalkya: worship with flowers and items of the planet's colour (yellowish), recite its mantra, and give the prescribed food and gift; recommended for anyone troubled by a hostile planet or wanting peace and prosperity.",
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib); https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "worship",
+        "remedy": "Shiva Sahasranama and/or Rudra japa are prescribed for troubled Jupiter sub-periods (e.g. Jupiter in the dashas of Mars, Jupiter, Saturn and Mercury; chs. 54, 56-58), with a gift of gold in Saturn's dasha (ch. 57); Mrityunjaya japa for Jupiter in the dashas of Ketu and Venus (chs. 59-60); worship of the ishta devata for Jupiter in the Sun's dasha (ch. 52).",
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given); https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Worship a deity linked to Jupiter: Hayagriva, Vishnu, Parameshvara, Dattatreya, any guru; PVR advises choosing the form that best fits the planet's combinations in the chart.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.5 Table 78; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Deity: Brihaspati; Ganesha; ruling deity Indra, over-ruler Brahma (ch. 5 table).",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets' and David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "charity",
+        "remedy": "Feed Brahmins curd with rice and give cloth/garments as the gift (dakshina), according to one's means and with respect.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 23-25; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; the gift list matches Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib), https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "charity",
+        "remedy": "Do a good deed in Jupiter's area: respect and donate to a learned Brahmin or priest, or donate cows to a priest. Give away chickpeas (e.g. a bowl given away on a Thursday morning), the grain ruled by Jupiter.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Place a small bowl of chickpeas on the altar to represent Jupiter in worship; Frawley adds these are good foods when the planet is weak.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "fasting",
+        "remedy": "Fasting on the weekday of the relevant planet (Thursday for Jupiter). PVR's own examples tie the day to the planet that rules the troubled area (e.g. the upapada lord's day for marriage), not to a fixed list.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3 (fasting); weekday attribution from 34.2/34.4 and Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Conduct and lifestyle: cultivate optimism and faith, live by principle, perform rituals and good deeds, be friendly and sociable, align with the forces of good.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Planets are always favourable to one who harms no one, keeps self-control, earns wealth by righteous means and keeps a steady religious discipline; when a planet is adverse in dasha, bhukti, ashtakavarga or transit, pacify it with prayers and mantras suited to it, virtuous acts, vows, gifts and worship.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Common-sense precautions in a difficult period (e.g. drive carefully if accidents are indicated, restrain oneself if conflict with authority is indicated); good deeds in the planet's area of life.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.1.1 and 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Gem traditionally assigned to Jupiter: yellow sapphire (substitutes: yellow topaz, citrine, yellow zircon). Frawley: yellow sapphire (min. ~2 carats) in gold, index finger of the right hand, first worn on a Thursday in the waxing Moon. Among the safest gems; avoid when Jupiter rules malefic houses (Taurus, Libra lagnas) unless exalted or in its own sign.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley; gem list also David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy', https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. PVR: wear the gem only if Jupiter is a functional benefic in the chart (useful even if that benefic is weak or badly placed); avoid gems of functional malefics, and of marakas during maraka periods; first wear it on the planet's weekday when the planet is strong.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.2 and Table 77; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Sutton: prefer the gems of strong planets (especially the lagna lord and trine lords) over weak ones; gems help only alongside a real change of attitude; wearing the planet's colour, its oils or seeds can stand in for an unaffordable gem.",
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://skyscript.co.uk/gems.html"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Phaladeepika lists topaz (Jupiter) as Jupiter's gem among the planets' correspondences; the verse assigns gems but does not prescribe wearing them as a remedy.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 2 v. 29; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma)",
+        "view": "Joys and sorrows depend on the planets, so those wanting peace, wealth, health or long life should worship them; whichever planet is badly placed at a given time should be worshipped with special care, because Brahma granted the planets the boon of honouring those who honour them (vv. 2-3, 26-27). For Jupiter: image in gold, mantra 'Brihaspate ati yad aryo...' x 19,000, fuel pippala (peepal), food curd with rice, gift cloth/garments.",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given)",
+        "view": "Shiva Sahasranama and/or Rudra japa are prescribed for troubled Jupiter sub-periods (e.g. Jupiter in the dashas of Mars, Jupiter, Saturn and Mercury; chs. 54, 56-58), with a gift of gold in Saturn's dasha (ch. 57); Mrityunjaya japa for Jupiter in the dashas of Ketu and Venus (chs. 59-60); worship of the ishta devata for Jupiter in the Sun's dasha (ch. 52).",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50",
+        "view": "Remedy is indicated whenever a planet is badly placed in dasha, bhukti, ashtakavarga or transit; the means are prayer and planet-specific mantra, propitiatory rites, virtuous acts, vows, gifts and worship. Non-harming, self-control, honestly earned wealth and discipline keep the planets favourable.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman)",
+        "view": "Verse 5 praises Jupiter, teacher of gods and sages, golden in hue, wisdom itself, lord of the three worlds; the closing verses promise pacification of obstacles, bad dreams and planet-caused troubles.",
+        "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib)",
+        "view": "Yajnavalkya's graha-yajna: anyone under a hostile planet, or wanting prosperity and peace, should perform it; colour for Jupiter yellowish; gifts follow the same order as BPHS.",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures'",
+        "view": "Remedies adjust the details of a karmic pattern, not the pattern; four ways to please a planet: gem (only for functional benefics), good deeds, mantra/stotra, deity worship. For Jupiter: deed - respect and donate to a learned Brahmin or priest, or donate cows to a priest; deity - Hayagriva, Vishnu, Parameshvara, Dattatreya, any guru; mantra count ~16,000.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'",
+        "view": "Strengthen a planet chiefly when it is weak, and be careful strengthening natural malefics; mantra and meditation are safer than gems or herbs, and are used to ward off an over-strong malefic. Signs of a weak Jupiter: Frawley: debilitated (Capricorn), aspected by Saturn, Rahu, Ketu or Mars, or in the 6th/8th/12th. Shows as low faith and joy, pessimism, money troubles; children (or a woman's husband) may suffer.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy'",
+        "view": "Gems are called the main remedial measure in Vedic astrology, but wrongly prescribed gems can cause imbalances; two schools exist (strengthen weak benefics - the 'safe school' Frawley follows - versus propitiate the troublesome malefic), and Frawley advises against wearing malefics' gems unless backed by serious mantra and meditation practice.",
+        "url": "https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004)",
+        "view": "Wear gems of strong, not weak, planets; criticises wearing many gems as a shortcut and astrologers who profit by selling costly stones; gems work only with a change of attitude; node gems best avoided.",
+        "url": "https://skyscript.co.uk/gems.html"
+      },
+      {
+        "source": "B.V. Raman, Planetary Influences on Human Affairs, ch. XI 'Astrology as an Aid to Medical Science' and ch. VIII",
+        "view": "Ancient texts suggest mantra-based remedies for afflictions (arishta yogas) shown in the chart (ch. XI); karma and free will coexist, so astrology should not be used fatalistically (ch. VIII). Raman gives no planet-by-planet list here.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Planetary%20Astrology%20of%20Human%20Affairs%20by%20Dr.%20B%20V%20Raman.pdf"
+      }
+    ],
+    "disagreements": "Mantra counts: BPHS 84.19-20 gives 19,000 for Jupiter; PVR gives about 16,000 (his counts follow a different scheme). Mantra type: the classical texts read here prescribe Vedic verses and hymns; the short bija and name mantras come from modern authors (Frawley, PVR), and their classical mantra-text source (e.g. Mantra Maharnava) was not verified. Gemstones: the graha-shanti chapters read (BPHS ch. 84, Garuda Purana 1.101) prescribe worship, japa, homa, feeding and gifts, not wearing a planet's gem (Garuda mentions wearing metals); Phaladeepika 2.29 only lists the gems as correspondences. Among moderns: PVR and Frawley's 'safe school' give gems only for functional benefics (even weak ones) and avoid gems of functional malefics; a second school Frawley reports gives the gem of the troublesome malefic itself; Sutton prefers gems of strong planets over weak ones. Frawley and Sutton warn about side effects (blue sapphire, cat's eye, ruby, node gems) and Sutton criticises commercial gem-selling. Translation: in BPHS ch. 84 the Kapoor translation differs from the Sanskrit on some details (e.g. Rahu's image metal lead vs glass, the vehicles of Saturn and Ketu, Mars's count 10,000 vs 11,000).",
+    "confidence": "high",
+    "phrasing_guidance": "Offer these as optional devotional or lifestyle practices, never as a requirement or a fix. Do not frame the planet as something to fear. Do not promise that any remedy will change events, health or money. Mention gemstones only as an optional tradition that sources disagree on, recommend consulting a qualified, independent astrologer before buying one, and never tie a reading to a purchase. Prefer free practices first: prayer or mantra on the planet's day, simple charity, and the conduct changes. Classical gifts of animals (cows, bulls, goats, horses) can be described as the tradition's form of charity; a modern reader can give in kind or to a cause instead. No medical claims: herbs or gems are not treatment."
+  },
+  {
+    "id": "remedy/venus",
+    "layer": "remedy",
+    "key": {
+      "planet": "Venus"
+    },
+    "summary": "Remedies for Venus are indicated when it is weak, afflicted or badly placed, and especially while it runs a hard dasha or antardasha or an adverse transit (Phaladeepika 26.49; BPHS 84.26). The classical means are worship, its mantra, homa, feeding and gifts; modern authors add bija mantras, conduct and lifestyle changes, and optional gemstones only when Venus is functionally helpful in the chart.",
+    "themes": [
+      "love",
+      "marriage",
+      "beauty",
+      "comfort",
+      "arts"
+    ],
+    "common_outcomes": [
+      "Classical texts present planetary worship as bringing peace, prosperity, health and long life (BPHS 84.2-3).",
+      "Navagraha Stotra phalashruti: obstacles pacified, bad dreams removed, troubles from planets and stars calmed.",
+      "PVR: remedies change the details of a period, not its basic pattern."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Frawley: debilitated (Virgo), aspected by malefics (Sun, Mars, Saturn, Rahu, Ketu), or in the 6th/8th. Shows as difficulty with affection and romance; for men, the wife may suffer."
+    ],
+    "lagna_or_context_notes": "Which remedy fits depends on the planet's functional role from the lagna: modern authors (PVR 34.2; Frawley, Astrology of the Seers Part III ch. 4 and Ayurvedic Astrology ch. 9) reserve gems for functional benefics and use mantra, worship and charity for malefics. BPHS 84.26 says to worship whichever planet is badly placed at the time.",
+    "remedies": [
+      {
+        "type": "mantra",
+        "remedy": "Recite the planet's Vedic mantra beginning 'Annat parisruto rasam...' after worshipping Venus; prescribed count 16,000 repetitions.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 17-20; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Recite verse 6 of the Navagraha Stotra (to Venus, white as snow, jasmine and lotus fibre, supreme teacher of the daityas, expounder of all shastras), or the whole hymn; the closing verses say that whoever recites it with a collected mind, day or night, has obstacles pacified and troubles from planets and stars calmed.",
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman), v. 6 and phalashruti; https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Name and seed mantras: name mantra OM SHUKRAYA NAMAHA; bija OM SHUM; also SHRIM and HRIM.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Read the planet's introductory verse a few times, then repeat its basic mantra about 20,000 times, ideally on its weekday; PVR also suggests the planet's 108 names, kavacha or stotra, recited with devotion and correct pronunciation.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.4; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha puja: make an image of Venus in silver (or draw it on cloth in its colour) and contemplate it as fair complexion, four arms holding staff, rosary and water-pot with a boon-giving hand (84.10); offer flowers and cloth of its colour, sandal paste, lamp, incense (guggulu) and the food it likes.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 3-16; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; same content in G.C. Sharma ch. 86, https://archive.org/details/brihatparasarahorasastrawithenglishtranslationgirishchandsharmavolume2_433_w"
+      },
+      {
+        "type": "worship",
+        "remedy": "Homa: offer udumbara (goolar) as the sacrificial fuel for Venus, dipped in honey, ghee, curd or milk, 108 or 28 times.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 21-22; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha-yajna as taught by Yajnavalkya: worship with flowers and items of the planet's colour (white), recite its mantra, and give the prescribed food and gift; recommended for anyone troubled by a hostile planet or wanting peace and prosperity.",
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib); https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "worship",
+        "remedy": "Worship of Durga and Lakshmi, often with a gift of a (tawny) cow or female buffalo, is prescribed for troubled Venus sub-periods (e.g. Venus in the dashas of Rahu, Saturn, Mercury, Ketu and Venus; chs. 55, 57-60); Rudra japa with a gift for Venus in the Moon's dasha (ch. 53); Mrityunjaya and Rudra japa with a tawny cow or female buffalo when Venus rules the 6th or 8th in the Sun's dasha (ch. 52).",
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given); https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Worship a deity linked to Venus: Lakshmi, Parvati; PVR advises choosing the form that best fits the planet's combinations in the chart.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.5 Table 78; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Deity: the Goddess as Lakshmi, Lalita, Tripurasundari, worshipped on Fridays with flowers, ideally near water; ruling deity Indrani, over-ruler Indra (ch. 5 table).",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets' and David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "charity",
+        "remedy": "Feed Brahmins rice with ghee and give a horse as the gift (dakshina), according to one's means and with respect.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 23-25; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; the gift list matches Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib), https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "charity",
+        "remedy": "Do a good deed in Venus's area: read poetry or help a poet. Give away a whitish grain, the grain ruled by Venus.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Place a small bowl of lima beans on the altar to represent Venus in worship; Frawley adds these are good foods when the planet is weak.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "fasting",
+        "remedy": "Fasting on the weekday of the relevant planet (Friday for Venus). PVR's own examples tie the day to the planet that rules the troubled area (e.g. the upapada lord's day for marriage), not to a fixed list.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3 (fasting); weekday attribution from 34.2/34.4 and Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Conduct and lifestyle: lead a more refined, appreciative and affectionate life; be creative or artistic; bring beauty and colour into one's surroundings; for men, give more respect to the women in their lives.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Planets are always favourable to one who harms no one, keeps self-control, earns wealth by righteous means and keeps a steady religious discipline; when a planet is adverse in dasha, bhukti, ashtakavarga or transit, pacify it with prayers and mantras suited to it, virtuous acts, vows, gifts and worship.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Common-sense precautions in a difficult period (e.g. drive carefully if accidents are indicated, restrain oneself if conflict with authority is indicated); good deeds in the planet's area of life.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.1.1 and 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Gem traditionally assigned to Venus: diamond (substitutes: white sapphire, clear zircon, quartz crystal). Frawley: diamond (min. ~1 carat) in gold or white gold, middle finger, first worn on a Friday in the waxing Moon, with Venus not close to the Sun. Avoid when Venus rules malefic houses (Sagittarius, Pisces lagnas), when Venus is strongly sensual (fixed signs, Mars aspect, 5th/7th/12th), or when the person already has a strong drive for pleasure and luxury.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley; gem list also David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy', https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. PVR: wear the gem only if Venus is a functional benefic in the chart (useful even if that benefic is weak or badly placed); avoid gems of functional malefics, and of marakas during maraka periods; first wear it on the planet's weekday when the planet is strong.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.2 and Table 77; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Sutton: prefer the gems of strong planets (especially the lagna lord and trine lords) over weak ones; gems help only alongside a real change of attitude; wearing the planet's colour, its oils or seeds can stand in for an unaffordable gem.",
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://skyscript.co.uk/gems.html"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Phaladeepika lists diamond as Venus's gem among the planets' correspondences; the verse assigns gems but does not prescribe wearing them as a remedy.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 2 v. 29; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma)",
+        "view": "Joys and sorrows depend on the planets, so those wanting peace, wealth, health or long life should worship them; whichever planet is badly placed at a given time should be worshipped with special care, because Brahma granted the planets the boon of honouring those who honour them (vv. 2-3, 26-27). For Venus: image in silver, mantra 'Annat parisruto rasam...' x 16,000, fuel udumbara (goolar), food rice with ghee, gift a horse.",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given)",
+        "view": "Worship of Durga and Lakshmi, often with a gift of a (tawny) cow or female buffalo, is prescribed for troubled Venus sub-periods (e.g. Venus in the dashas of Rahu, Saturn, Mercury, Ketu and Venus; chs. 55, 57-60); Rudra japa with a gift for Venus in the Moon's dasha (ch. 53); Mrityunjaya and Rudra japa with a tawny cow or female buffalo when Venus rules the 6th or 8th in the Sun's dasha (ch. 52).",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50",
+        "view": "Remedy is indicated whenever a planet is badly placed in dasha, bhukti, ashtakavarga or transit; the means are prayer and planet-specific mantra, propitiatory rites, virtuous acts, vows, gifts and worship. Non-harming, self-control, honestly earned wealth and discipline keep the planets favourable.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman)",
+        "view": "Verse 6 praises Venus, white as snow, jasmine and lotus fibre, supreme teacher of the daityas, expounder of all shastras; the closing verses promise pacification of obstacles, bad dreams and planet-caused troubles.",
+        "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib)",
+        "view": "Yajnavalkya's graha-yajna: anyone under a hostile planet, or wanting prosperity and peace, should perform it; colour for Venus white; gifts follow the same order as BPHS.",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures'",
+        "view": "Remedies adjust the details of a karmic pattern, not the pattern; four ways to please a planet: gem (only for functional benefics), good deeds, mantra/stotra, deity worship. For Venus: deed - read poetry or help a poet; deity - Lakshmi, Parvati; mantra count ~20,000.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'",
+        "view": "Strengthen a planet chiefly when it is weak, and be careful strengthening natural malefics; mantra and meditation are safer than gems or herbs, and are used to ward off an over-strong malefic. Signs of a weak Venus: Frawley: debilitated (Virgo), aspected by malefics (Sun, Mars, Saturn, Rahu, Ketu), or in the 6th/8th. Shows as difficulty with affection and romance; for men, the wife may suffer.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy'",
+        "view": "Gems are called the main remedial measure in Vedic astrology, but wrongly prescribed gems can cause imbalances; two schools exist (strengthen weak benefics - the 'safe school' Frawley follows - versus propitiate the troublesome malefic), and Frawley advises against wearing malefics' gems unless backed by serious mantra and meditation practice.",
+        "url": "https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004)",
+        "view": "Wear gems of strong, not weak, planets; criticises wearing many gems as a shortcut and astrologers who profit by selling costly stones; gems work only with a change of attitude; node gems best avoided.",
+        "url": "https://skyscript.co.uk/gems.html"
+      },
+      {
+        "source": "B.V. Raman, Planetary Influences on Human Affairs, ch. XI 'Astrology as an Aid to Medical Science' and ch. VIII",
+        "view": "Ancient texts suggest mantra-based remedies for afflictions (arishta yogas) shown in the chart (ch. XI); karma and free will coexist, so astrology should not be used fatalistically (ch. VIII). Raman gives no planet-by-planet list here.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Planetary%20Astrology%20of%20Human%20Affairs%20by%20Dr.%20B%20V%20Raman.pdf"
+      }
+    ],
+    "disagreements": "Mantra counts: BPHS 84.19-20 gives 16,000 for Venus; PVR gives about 20,000 (his counts follow a different scheme). Mantra type: the classical texts read here prescribe Vedic verses and hymns; the short bija and name mantras come from modern authors (Frawley, PVR), and their classical mantra-text source (e.g. Mantra Maharnava) was not verified. Gemstones: the graha-shanti chapters read (BPHS ch. 84, Garuda Purana 1.101) prescribe worship, japa, homa, feeding and gifts, not wearing a planet's gem (Garuda mentions wearing metals); Phaladeepika 2.29 only lists the gems as correspondences. Among moderns: PVR and Frawley's 'safe school' give gems only for functional benefics (even weak ones) and avoid gems of functional malefics; a second school Frawley reports gives the gem of the troublesome malefic itself; Sutton prefers gems of strong planets over weak ones. Frawley and Sutton warn about side effects (blue sapphire, cat's eye, ruby, node gems) and Sutton criticises commercial gem-selling. Translation: in BPHS ch. 84 the Kapoor translation differs from the Sanskrit on some details (e.g. Rahu's image metal lead vs glass, the vehicles of Saturn and Ketu, Mars's count 10,000 vs 11,000).",
+    "confidence": "high",
+    "phrasing_guidance": "Offer these as optional devotional or lifestyle practices, never as a requirement or a fix. Do not frame the planet as something to fear. Do not promise that any remedy will change events, health or money. Mention gemstones only as an optional tradition that sources disagree on, recommend consulting a qualified, independent astrologer before buying one, and never tie a reading to a purchase. Prefer free practices first: prayer or mantra on the planet's day, simple charity, and the conduct changes. Classical gifts of animals (cows, bulls, goats, horses) can be described as the tradition's form of charity; a modern reader can give in kind or to a cause instead. No medical claims: herbs or gems are not treatment."
+  },
+  {
+    "id": "remedy/saturn",
+    "layer": "remedy",
+    "key": {
+      "planet": "Saturn"
+    },
+    "summary": "Remedies for Saturn are indicated when it is weak, afflicted or badly placed, and especially while it runs a hard dasha or antardasha or an adverse transit (Phaladeepika 26.49; BPHS 84.26). The classical means are worship, its mantra, homa, feeding and gifts; modern authors add bija mantras, conduct and lifestyle changes, and optional gemstones only when Saturn is functionally helpful in the chart.",
+    "themes": [
+      "discipline",
+      "endurance",
+      "work",
+      "service",
+      "detachment"
+    ],
+    "common_outcomes": [
+      "Classical texts present planetary worship as bringing peace, prosperity, health and long life (BPHS 84.2-3).",
+      "Navagraha Stotra phalashruti: obstacles pacified, bad dreams removed, troubles from planets and stars calmed.",
+      "PVR: remedies change the details of a period, not its basic pattern."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Frawley: debilitated (Aries), aspected by Sun, Mars, Rahu or Ketu, or in the 5th, 6th, 8th or 12th. Shows as agitation, poor endurance, trouble with institutions and money."
+    ],
+    "lagna_or_context_notes": "Which remedy fits depends on the planet's functional role from the lagna: modern authors (PVR 34.2; Frawley, Astrology of the Seers Part III ch. 4 and Ayurvedic Astrology ch. 9) reserve gems for functional benefics and use mantra, worship and charity for malefics. BPHS 84.26 says to worship whichever planet is badly placed at the time.",
+    "remedies": [
+      {
+        "type": "mantra",
+        "remedy": "Recite the planet's Vedic mantra beginning 'Shanno devir abhishtaye...' after worshipping Saturn; prescribed count 23,000 repetitions.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 17-20; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Recite verse 7 of the Navagraha Stotra (to Saturn, dark like collyrium, son of the Sun, elder brother of Yama, born of Chhaya and the Sun), or the whole hymn; the closing verses say that whoever recites it with a collected mind, day or night, has obstacles pacified and troubles from planets and stars calmed.",
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman), v. 7 and phalashruti; https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Name and seed mantras: name mantra OM SHANAISCHARAYA NAMAHA; bija OM SHAM; also OM SHANTI SHANTI SHANTI, OM NAMAH SHIVAYA, and Kali's KLIM.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Read the planet's introductory verse a few times, then repeat its basic mantra about 19,000 times, ideally on its weekday; PVR also suggests the planet's 108 names, kavacha or stotra, recited with devotion and correct pronunciation.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.4; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha puja: make an image of Saturn in iron (or draw it on cloth in its colour) and contemplate it as lustre of indranila (blue sapphire), four arms holding trident, bow and arrow with a boon-giving hand; the vehicle reads as a vulture in the Sanskrit, a donkey in the Kapoor translation (84.11); offer flowers and cloth of its colour, sandal paste, lamp, incense (guggulu) and the food it likes.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 3-16; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; same content in G.C. Sharma ch. 86, https://archive.org/details/brihatparasarahorasastrawithenglishtranslationgirishchandsharmavolume2_433_w"
+      },
+      {
+        "type": "worship",
+        "remedy": "Homa: offer shami as the sacrificial fuel for Saturn, dipped in honey, ghee, curd or milk, 108 or 28 times.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 21-22; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha-yajna as taught by Yajnavalkya: worship with flowers and items of the planet's colour (black), recite its mantra, and give the prescribed food and gift; recommended for anyone troubled by a hostile planet or wanting peace and prosperity.",
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib); https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "worship",
+        "remedy": "Mrityunjaya japa and gift of a black cow or female buffalo are prescribed for troubled Saturn sub-periods (e.g. Saturn in the dashas of the Sun and Moon, chs. 52-53; a black cow or she-buffalo in Rahu's dasha, ch. 55); homa with sesame and a black cow or female buffalo in Ketu's dasha (ch. 59); homa with sesame in Venus's dasha (ch. 60); Vishnu Sahasranama in Jupiter's dasha (ch. 56).",
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given); https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Worship a deity linked to Saturn: Vishnu, Brahma; PVR advises choosing the form that best fits the planet's combinations in the chart.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.5 Table 78; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Deity: Shiva as Kala (time) or Kali; the ancestors; ruling deity Yama, over-ruler Prajapati (ch. 5 table).",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets' and David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "charity",
+        "remedy": "Feed Brahmins rice cooked with sesame (tila) powder and give a black cow as the gift (dakshina), according to one's means and with respect.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 23-25; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; the gift list matches Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib), https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "charity",
+        "remedy": "Do a good deed in Saturn's area: do some physical labour or help people who live by manual labour. Give away sesame seeds, the grain ruled by Saturn.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Place a small bowl of sesame seeds on the altar to represent Saturn in worship; Frawley adds these are good foods when the planet is weak.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "fasting",
+        "remedy": "Fasting on the weekday of the relevant planet (Saturday for Saturn). PVR's own examples tie the day to the planet that rules the troubled area (e.g. the upapada lord's day for marriage), not to a fixed list.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3 (fasting); weekday attribution from 34.2/34.4 and Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Conduct and lifestyle: cultivate calm, detachment and equanimity; keep a strict routine and follow a tradition; reduce travel and over-stimulation; slow down, spend time in nature; karmic expiation through prayer, pilgrimage and charity.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Planets are always favourable to one who harms no one, keeps self-control, earns wealth by righteous means and keeps a steady religious discipline; when a planet is adverse in dasha, bhukti, ashtakavarga or transit, pacify it with prayers and mantras suited to it, virtuous acts, vows, gifts and worship.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Common-sense precautions in a difficult period (e.g. drive carefully if accidents are indicated, restrain oneself if conflict with authority is indicated); good deeds in the planet's area of life.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.1.1 and 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Gem traditionally assigned to Saturn: blue sapphire (substitutes: lapis lazuli, amethyst, malachite, turquoise). Frawley: blue sapphire (min. ~2 carats) in gold, middle finger, first worn on a Saturday in the waxing Moon, only when Saturn is benefic and well placed; give it a trial run; often paired with a gem of a friendly benefic. Avoid when Saturn rules difficult houses (Aries, Cancer, Leo, Scorpio, Sagittarius, Pisces lagnas), when it afflicts benefics, or in a cold, possessive or manipulative temperament. Ayurvedic Astrology ch. 9 lists blue sapphire among gems with possible side effects.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley; gem list also David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy', https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. PVR: wear the gem only if Saturn is a functional benefic in the chart (useful even if that benefic is weak or badly placed); avoid gems of functional malefics, and of marakas during maraka periods; first wear it on the planet's weekday when the planet is strong.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.2 and Table 77; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Sutton: prefer the gems of strong planets (especially the lagna lord and trine lords) over weak ones; gems help only alongside a real change of attitude; wearing the planet's colour, its oils or seeds can stand in for an unaffordable gem.",
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://skyscript.co.uk/gems.html"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Phaladeepika lists sapphire as Saturn's gem among the planets' correspondences; the verse assigns gems but does not prescribe wearing them as a remedy.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 2 v. 29; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma)",
+        "view": "Joys and sorrows depend on the planets, so those wanting peace, wealth, health or long life should worship them; whichever planet is badly placed at a given time should be worshipped with special care, because Brahma granted the planets the boon of honouring those who honour them (vv. 2-3, 26-27). For Saturn: image in iron, mantra 'Shanno devir abhishtaye...' x 23,000, fuel shami, food rice cooked with sesame (tila) powder, gift a black cow.",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given)",
+        "view": "Mrityunjaya japa and gift of a black cow or female buffalo are prescribed for troubled Saturn sub-periods (e.g. Saturn in the dashas of the Sun and Moon, chs. 52-53; a black cow or she-buffalo in Rahu's dasha, ch. 55); homa with sesame and a black cow or female buffalo in Ketu's dasha (ch. 59); homa with sesame in Venus's dasha (ch. 60); Vishnu Sahasranama in Jupiter's dasha (ch. 56).",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50",
+        "view": "Remedy is indicated whenever a planet is badly placed in dasha, bhukti, ashtakavarga or transit; the means are prayer and planet-specific mantra, propitiatory rites, virtuous acts, vows, gifts and worship. Non-harming, self-control, honestly earned wealth and discipline keep the planets favourable.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman)",
+        "view": "Verse 7 praises Saturn, dark like collyrium, son of the Sun, elder brother of Yama, born of Chhaya and the Sun; the closing verses promise pacification of obstacles, bad dreams and planet-caused troubles.",
+        "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib)",
+        "view": "Yajnavalkya's graha-yajna: anyone under a hostile planet, or wanting prosperity and peace, should perform it; colour for Saturn black; gifts follow the same order as BPHS.",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures'",
+        "view": "Remedies adjust the details of a karmic pattern, not the pattern; four ways to please a planet: gem (only for functional benefics), good deeds, mantra/stotra, deity worship. For Saturn: deed - do some physical labour or help people who live by manual labour; deity - Vishnu, Brahma; mantra count ~19,000.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'",
+        "view": "Strengthen a planet chiefly when it is weak, and be careful strengthening natural malefics; mantra and meditation are safer than gems or herbs, and are used to ward off an over-strong malefic. Signs of a weak Saturn: Frawley: debilitated (Aries), aspected by Sun, Mars, Rahu or Ketu, or in the 5th, 6th, 8th or 12th. Shows as agitation, poor endurance, trouble with institutions and money.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy'",
+        "view": "Gems are called the main remedial measure in Vedic astrology, but wrongly prescribed gems can cause imbalances; two schools exist (strengthen weak benefics - the 'safe school' Frawley follows - versus propitiate the troublesome malefic), and Frawley advises against wearing malefics' gems unless backed by serious mantra and meditation practice.",
+        "url": "https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004)",
+        "view": "Wear gems of strong, not weak, planets; criticises wearing many gems as a shortcut and astrologers who profit by selling costly stones; gems work only with a change of attitude; node gems best avoided.",
+        "url": "https://skyscript.co.uk/gems.html"
+      },
+      {
+        "source": "B.V. Raman, Planetary Influences on Human Affairs, ch. XI 'Astrology as an Aid to Medical Science' and ch. VIII",
+        "view": "Ancient texts suggest mantra-based remedies for afflictions (arishta yogas) shown in the chart (ch. XI); karma and free will coexist, so astrology should not be used fatalistically (ch. VIII). Raman gives no planet-by-planet list here.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Planetary%20Astrology%20of%20Human%20Affairs%20by%20Dr.%20B%20V%20Raman.pdf"
+      }
+    ],
+    "disagreements": "Mantra counts: BPHS 84.19-20 gives 23,000 for Saturn; PVR gives about 19,000 (his counts follow a different scheme). Mantra type: the classical texts read here prescribe Vedic verses and hymns; the short bija and name mantras come from modern authors (Frawley, PVR), and their classical mantra-text source (e.g. Mantra Maharnava) was not verified. Gemstones: the graha-shanti chapters read (BPHS ch. 84, Garuda Purana 1.101) prescribe worship, japa, homa, feeding and gifts, not wearing a planet's gem (Garuda mentions wearing metals); Phaladeepika 2.29 only lists the gems as correspondences. Among moderns: PVR and Frawley's 'safe school' give gems only for functional benefics (even weak ones) and avoid gems of functional malefics; a second school Frawley reports gives the gem of the troublesome malefic itself; Sutton prefers gems of strong planets over weak ones. Frawley and Sutton warn about side effects (blue sapphire, cat's eye, ruby, node gems) and Sutton criticises commercial gem-selling. Translation: in BPHS ch. 84 the Kapoor translation differs from the Sanskrit on some details (e.g. Rahu's image metal lead vs glass, the vehicles of Saturn and Ketu, Mars's count 10,000 vs 11,000).",
+    "confidence": "high",
+    "phrasing_guidance": "Offer these as optional devotional or lifestyle practices, never as a requirement or a fix. Do not frame the planet as something to fear. Do not promise that any remedy will change events, health or money. Mention gemstones only as an optional tradition that sources disagree on, recommend consulting a qualified, independent astrologer before buying one, and never tie a reading to a purchase. Prefer free practices first: prayer or mantra on the planet's day, simple charity, and the conduct changes. Classical gifts of animals (cows, bulls, goats, horses) can be described as the tradition's form of charity; a modern reader can give in kind or to a cause instead. No medical claims: herbs or gems are not treatment."
+  },
+  {
+    "id": "remedy/rahu",
+    "layer": "remedy",
+    "key": {
+      "planet": "Rahu"
+    },
+    "summary": "Remedies for Rahu are indicated when it is weak, afflicted or badly placed, and especially while it runs a hard dasha or antardasha or an adverse transit (Phaladeepika 26.49; BPHS 84.26). The classical means are worship, its mantra, homa, feeding and gifts; modern authors add bija mantras, conduct and lifestyle changes, and optional gemstones only when Rahu is functionally helpful in the chart.",
+    "themes": [
+      "anxiety and confusion",
+      "ambition",
+      "foreign and unconventional",
+      "illusion"
+    ],
+    "common_outcomes": [
+      "Classical texts present planetary worship as bringing peace, prosperity, health and long life (BPHS 84.2-3).",
+      "Navagraha Stotra phalashruti: obstacles pacified, bad dreams removed, troubles from planets and stars calmed.",
+      "PVR: remedies change the details of a period, not its basic pattern."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Frawley: in the 5th, 6th, 8th or 12th, with a weak, debilitated or combust dispositor, or aspected by Saturn, Sun or Mars. Shows as anxiety, impressionability, confusion, unwholesome habits."
+    ],
+    "lagna_or_context_notes": "Which remedy fits depends on the planet's functional role from the lagna: modern authors (PVR 34.2; Frawley, Astrology of the Seers Part III ch. 4 and Ayurvedic Astrology ch. 9) reserve gems for functional benefics and use mantra, worship and charity for malefics. BPHS 84.26 says to worship whichever planet is badly placed at the time.",
+    "remedies": [
+      {
+        "type": "mantra",
+        "remedy": "Recite the planet's Vedic mantra beginning 'Kaya nas chitra a bhuvat...' after worshipping Rahu; prescribed count 18,000 repetitions.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 17-20; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Recite verse 8 of the Navagraha Stotra (to Rahu, half-bodied, of great valour, afflicter of the Sun and Moon, born of Simhika), or the whole hymn; the closing verses say that whoever recites it with a collected mind, day or night, has obstacles pacified and troubles from planets and stars calmed.",
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman), v. 8 and phalashruti; https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Name and seed mantras: name mantra OM RAHAVE NAMAHA; bija OM RAM (as Frawley gives it); also Shiva's HUM and Durga's DUM.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Read the planet's introductory verse a few times, then repeat its basic mantra about 18,000 times, ideally on its weekday; PVR also suggests the planet's 108 names, kavacha or stotra, recited with devotion and correct pronunciation.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.4; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha puja: make an image of Rahu in lead ('sisa' in the Sanskrit; the Kapoor translation renders it glass) (or draw it on cloth in its colour) and contemplate it as fearsome face, four arms holding sword, shield and trident with a boon-giving hand, blue, riding a lion (84.12); offer flowers and cloth of its colour, sandal paste, lamp, incense (guggulu) and the food it likes.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 3-16; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; same content in G.C. Sharma ch. 86, https://archive.org/details/brihatparasarahorasastrawithenglishtranslationgirishchandsharmavolume2_433_w"
+      },
+      {
+        "type": "worship",
+        "remedy": "Homa: offer durva grass as the sacrificial fuel for Rahu, dipped in honey, ghee, curd or milk, 108 or 28 times.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 21-22; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha-yajna as taught by Yajnavalkya: worship with flowers and items of the planet's colour (black), recite its mantra, and give the prescribed food and gift; recommended for anyone troubled by a hostile planet or wanting peace and prosperity.",
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib); https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "worship",
+        "remedy": "Mrityunjaya japa with gift of a goat is prescribed for troubled Rahu sub-periods (e.g. Rahu in the dashas of Jupiter and Saturn, chs. 56-57; Mrityunjaya japa in Venus's dasha, ch. 60); Naga puja, feeding Brahmins and Mrityunjaya japa in Mars's dasha (ch. 54); Durga and Lakshmi mantras with a tawny cow or female buffalo in Mercury's dasha (ch. 58); Durga Saptashati in Ketu's dasha (ch. 59).",
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given); https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Worship a deity linked to Rahu: Durga, Narasimha; PVR advises choosing the form that best fits the planet's combinations in the chart.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.5 Table 78; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Deity: Durga as the demon-slayer; also Rama; ruling deity Durga, over-ruler Sarpa (serpent deity) (ch. 5 table).",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets' and David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "charity",
+        "remedy": "Feed Brahmins rice cooked with meat (mamsa) and give iron (Kapoor: weapons of iron) as the gift (dakshina), according to one's means and with respect.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 23-25; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; the gift list matches Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib), https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "charity",
+        "remedy": "Do a good deed in Rahu's area: donate to a research organisation or go on a pilgrimage. Give away black gram (urad), the grain ruled by Rahu.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Place a small bowl of black gram on the altar to represent Rahu in worship; Frawley adds these are good foods when the planet is weak.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "fasting",
+        "remedy": "Fasting on the weekday of the relevant planet (Saturday (Sutton; Frawley also allows the day of Rahu's sign lord) for Rahu). PVR's own examples tie the day to the planet that rules the troubled area (e.g. the upapada lord's day for marriage), not to a fixed list.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3 (fasting); weekday attribution from 34.2/34.4 and Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Conduct and lifestyle: avoid powerful sensations, mass media, drugs, excess sex, talk and fantasy, junk food and artificial environments; cultivate peace, quiet, rest and a protective setting; devotion and a clear tradition rather than astral or visualisation practices.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Planets are always favourable to one who harms no one, keeps self-control, earns wealth by righteous means and keeps a steady religious discipline; when a planet is adverse in dasha, bhukti, ashtakavarga or transit, pacify it with prayers and mantras suited to it, virtuous acts, vows, gifts and worship.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Common-sense precautions in a difficult period (e.g. drive carefully if accidents are indicated, restrain oneself if conflict with authority is indicated); good deeds in the planet's area of life.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.1.1 and 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Gem traditionally assigned to Rahu: hessonite garnet (gomeda) (substitutes: golden grossularite garnet). Frawley: hessonite (min. ~3 carats) in gold or silver, middle finger (or the finger of Rahu's sign lord), first worn in the waxing Moon on a Saturday or the sign lord's day; suggested mainly when Rahu is in strong houses like the 10th with a strong benefic lord. Avoid dark garnets, and avoid when Rahu is in trines or angles under strong malefic aspects unless its lord is benefic. Sutton advises that node gems are best avoided unless one can handle their energy.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley; gem list also David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy', https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. PVR: wear the gem only if Rahu is a functional benefic in the chart (useful even if that benefic is weak or badly placed); avoid gems of functional malefics, and of marakas during maraka periods; first wear it on the planet's weekday when the planet is strong.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.2 and Table 77; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Sutton: prefer the gems of strong planets (especially the lagna lord and trine lords) over weak ones; gems help only alongside a real change of attitude; wearing the planet's colour, its oils or seeds can stand in for an unaffordable gem.",
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://skyscript.co.uk/gems.html"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Phaladeepika lists 'agate' in Sastri's rendering (Rahu) as Rahu's gem among the planets' correspondences; the verse assigns gems but does not prescribe wearing them as a remedy.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 2 v. 29; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma)",
+        "view": "Joys and sorrows depend on the planets, so those wanting peace, wealth, health or long life should worship them; whichever planet is badly placed at a given time should be worshipped with special care, because Brahma granted the planets the boon of honouring those who honour them (vv. 2-3, 26-27). For Rahu: image in lead ('sisa' in the Sanskrit; the Kapoor translation renders it glass), mantra 'Kaya nas chitra a bhuvat...' x 18,000, fuel durva grass, food rice cooked with meat (mamsa), gift iron (Kapoor: weapons of iron).",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given)",
+        "view": "Mrityunjaya japa with gift of a goat is prescribed for troubled Rahu sub-periods (e.g. Rahu in the dashas of Jupiter and Saturn, chs. 56-57; Mrityunjaya japa in Venus's dasha, ch. 60); Naga puja, feeding Brahmins and Mrityunjaya japa in Mars's dasha (ch. 54); Durga and Lakshmi mantras with a tawny cow or female buffalo in Mercury's dasha (ch. 58); Durga Saptashati in Ketu's dasha (ch. 59).",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50",
+        "view": "Remedy is indicated whenever a planet is badly placed in dasha, bhukti, ashtakavarga or transit; the means are prayer and planet-specific mantra, propitiatory rites, virtuous acts, vows, gifts and worship. Non-harming, self-control, honestly earned wealth and discipline keep the planets favourable.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman)",
+        "view": "Verse 8 praises Rahu, half-bodied, of great valour, afflicter of the Sun and Moon, born of Simhika; the closing verses promise pacification of obstacles, bad dreams and planet-caused troubles.",
+        "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib)",
+        "view": "Yajnavalkya's graha-yajna: anyone under a hostile planet, or wanting prosperity and peace, should perform it; colour for Rahu black; gifts follow the same order as BPHS.",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures'",
+        "view": "Remedies adjust the details of a karmic pattern, not the pattern; four ways to please a planet: gem (only for functional benefics), good deeds, mantra/stotra, deity worship. For Rahu: deed - donate to a research organisation or go on a pilgrimage; deity - Durga, Narasimha; mantra count ~18,000.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'",
+        "view": "Strengthen a planet chiefly when it is weak, and be careful strengthening natural malefics; mantra and meditation are safer than gems or herbs, and are used to ward off an over-strong malefic. Signs of a weak Rahu: Frawley: in the 5th, 6th, 8th or 12th, with a weak, debilitated or combust dispositor, or aspected by Saturn, Sun or Mars. Shows as anxiety, impressionability, confusion, unwholesome habits.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy'",
+        "view": "Gems are called the main remedial measure in Vedic astrology, but wrongly prescribed gems can cause imbalances; two schools exist (strengthen weak benefics - the 'safe school' Frawley follows - versus propitiate the troublesome malefic), and Frawley advises against wearing malefics' gems unless backed by serious mantra and meditation practice.",
+        "url": "https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004)",
+        "view": "Wear gems of strong, not weak, planets; criticises wearing many gems as a shortcut and astrologers who profit by selling costly stones; gems work only with a change of attitude; node gems best avoided.",
+        "url": "https://skyscript.co.uk/gems.html"
+      },
+      {
+        "source": "B.V. Raman, Planetary Influences on Human Affairs, ch. XI 'Astrology as an Aid to Medical Science' and ch. VIII",
+        "view": "Ancient texts suggest mantra-based remedies for afflictions (arishta yogas) shown in the chart (ch. XI); karma and free will coexist, so astrology should not be used fatalistically (ch. VIII). Raman gives no planet-by-planet list here.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Planetary%20Astrology%20of%20Human%20Affairs%20by%20Dr.%20B%20V%20Raman.pdf"
+      }
+    ],
+    "disagreements": "Mantra counts: BPHS 84.19-20 gives 18,000 for Rahu; PVR gives about 18,000 (his counts follow a different scheme). Mantra type: the classical texts read here prescribe Vedic verses and hymns; the short bija and name mantras come from modern authors (Frawley, PVR), and their classical mantra-text source (e.g. Mantra Maharnava) was not verified. Gemstones: the graha-shanti chapters read (BPHS ch. 84, Garuda Purana 1.101) prescribe worship, japa, homa, feeding and gifts, not wearing a planet's gem (Garuda mentions wearing metals); Phaladeepika 2.29 only lists the gems as correspondences. Among moderns: PVR and Frawley's 'safe school' give gems only for functional benefics (even weak ones) and avoid gems of functional malefics; a second school Frawley reports gives the gem of the troublesome malefic itself; Sutton prefers gems of strong planets over weak ones. Frawley and Sutton warn about side effects (blue sapphire, cat's eye, ruby, node gems) and Sutton criticises commercial gem-selling. Translation: in BPHS ch. 84 the Kapoor translation differs from the Sanskrit on some details (e.g. Rahu's image metal lead vs glass, the vehicles of Saturn and Ketu, Mars's count 10,000 vs 11,000).",
+    "confidence": "medium",
+    "phrasing_guidance": "Offer these as optional devotional or lifestyle practices, never as a requirement or a fix. Do not frame the planet as something to fear. Do not promise that any remedy will change events, health or money. Mention gemstones only as an optional tradition that sources disagree on, recommend consulting a qualified, independent astrologer before buying one, and never tie a reading to a purchase. Prefer free practices first: prayer or mantra on the planet's day, simple charity, and the conduct changes. Classical gifts of animals (cows, bulls, goats, horses) can be described as the tradition's form of charity; a modern reader can give in kind or to a cause instead. No medical claims: herbs or gems are not treatment."
+  },
+  {
+    "id": "remedy/ketu",
+    "layer": "remedy",
+    "key": {
+      "planet": "Ketu"
+    },
+    "summary": "Remedies for Ketu are indicated when it is weak, afflicted or badly placed, and especially while it runs a hard dasha or antardasha or an adverse transit (Phaladeepika 26.49; BPHS 84.26). The classical means are worship, its mantra, homa, feeding and gifts; modern authors add bija mantras, conduct and lifestyle changes, and optional gemstones only when Ketu is functionally helpful in the chart.",
+    "themes": [
+      "detachment",
+      "insight",
+      "spiritual search",
+      "sudden events"
+    ],
+    "common_outcomes": [
+      "Classical texts present planetary worship as bringing peace, prosperity, health and long life (BPHS 84.2-3).",
+      "Navagraha Stotra phalashruti: obstacles pacified, bad dreams removed, troubles from planets and stars calmed.",
+      "PVR: remedies change the details of a period, not its basic pattern."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Frawley: weak dispositor, in the 3rd, 6th or 8th, or aspected by Saturn and Mars. Shows as self-doubt, poor concentration, feeling constricted."
+    ],
+    "lagna_or_context_notes": "Which remedy fits depends on the planet's functional role from the lagna: modern authors (PVR 34.2; Frawley, Astrology of the Seers Part III ch. 4 and Ayurvedic Astrology ch. 9) reserve gems for functional benefics and use mantra, worship and charity for malefics. BPHS 84.26 says to worship whichever planet is badly placed at the time.",
+    "remedies": [
+      {
+        "type": "mantra",
+        "remedy": "Recite the planet's Vedic mantra beginning 'Ketum krinvann aketave...' after worshipping Ketu; prescribed count 17,000 repetitions.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 17-20; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Recite verse 9 of the Navagraha Stotra (to Ketu, like the palasha flower, head of the stars and planets, fierce and terrible), or the whole hymn; the closing verses say that whoever recites it with a collected mind, day or night, has obstacles pacified and troubles from planets and stars calmed.",
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman), v. 9 and phalashruti; https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Name and seed mantras: name mantra OM KETAVE NAMAHA (Frawley prints OM NAMAHA KETAVE); bija OM KEM.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "mantra",
+        "remedy": "Read the planet's introductory verse a few times, then repeat its basic mantra about 7,000 times, ideally on its weekday; PVR also suggests the planet's 108 names, kavacha or stotra, recited with devotion and correct pronunciation.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.4; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha puja: make an image of Ketu in bell-metal (kamsya) (or draw it on cloth in its colour) and contemplate it as there are many Ketus: smoky in colour, two arms (mace and boon-giving gesture), fearsome face; the vehicle reads as a vulture in the Sanskrit, a donkey in the Kapoor translation (84.13); offer flowers and cloth of its colour, sandal paste, lamp, incense (guggulu) and the food it likes.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 3-16; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; same content in G.C. Sharma ch. 86, https://archive.org/details/brihatparasarahorasastrawithenglishtranslationgirishchandsharmavolume2_433_w"
+      },
+      {
+        "type": "worship",
+        "remedy": "Homa: offer kusha grass as the sacrificial fuel for Ketu, dipped in honey, ghee, curd or milk, 108 or 28 times.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 21-22; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Graha-yajna as taught by Yajnavalkya: worship with flowers and items of the planet's colour (black), recite its mantra, and give the prescribed food and gift; recommended for anyone troubled by a hostile planet or wanting peace and prosperity.",
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib); https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "worship",
+        "remedy": "Gift of a goat is prescribed for troubled Ketu sub-periods (e.g. Ketu in the dashas of Rahu, Saturn and Mercury; chs. 55, 57, 58); Mrityunjaya japa in Jupiter's dasha (ch. 56); Durga Saptashati and Mrityunjaya japa in Ketu's own dasha (ch. 59); Mrityunjaya japa and a goat in Venus's dasha (ch. 60). For Ketu in Mars's dasha the translator notes no remedy is given (ch. 54).",
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given); https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "type": "worship",
+        "remedy": "Worship a deity linked to Ketu: Ganesha; PVR advises choosing the form that best fits the planet's combinations in the chart.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.5 Table 78; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Deity: Rudra, the fierce form of Shiva; Brahma as knowledge; ruling deity Chitragupta, over-ruler Brahma (ch. 5 table).",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets' and David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "charity",
+        "remedy": "Feed Brahmins mixed rice (chitranna; Kapoor: khichdi) and give a goat as the gift (dakshina), according to one's means and with respect.",
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma) vv. 23-25; https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl; the gift list matches Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib), https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "type": "charity",
+        "remedy": "Do a good deed in Ketu's area: do meditation.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "worship",
+        "remedy": "Place a small bowl of horse gram (kulattha) on the altar to represent Ketu in worship; Frawley adds these are good foods when the planet is weak.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 5 'Worship and Meditation on the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "fasting",
+        "remedy": "Fasting on the weekday of the relevant planet (Tuesday (Sutton); Frawley gives Saturday or the day of Ketu's sign lord for Ketu). PVR's own examples tie the day to the planet that rules the troubled area (e.g. the upapada lord's day for marriage), not to a fixed list.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.3 (fasting); weekday attribution from 34.2/34.4 and Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Conduct and lifestyle: trust one's own perceptions; take up spiritual study (Frawley suggests astrology) under a teacher or tradition; keep a discipline that joins will with compassion.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Planets are always favourable to one who harms no one, keeps self-control, earns wealth by righteous means and keeps a steady religious discipline; when a planet is adverse in dasha, bhukti, ashtakavarga or transit, pacify it with prayers and mantras suited to it, virtuous acts, vows, gifts and worship.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "type": "lifestyle",
+        "remedy": "Common-sense precautions in a difficult period (e.g. drive carefully if accidents are indicated, restrain oneself if conflict with authority is indicated); good deeds in the planet's area of life.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.1.1 and 34.3; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Gem traditionally assigned to Ketu: cat's eye (chrysoberyl) (substitutes: quartz cat's eye). Frawley: cat's eye (min. ~3 carats), preferably in gold, middle finger (or the finger of Ketu's sign lord), first worn in the waxing Moon on a Saturday or the sign lord's day; suggested when Ketu is strong (with a benefic in its own or exalted sign, or unafflicted in the 12th). Avoid when Ketu conjoins planets (unless they are exalted or own-sign), when its lord rules the 6th or 11th, or with high-Pitta conditions. Ayurvedic Astrology ch. 9 lists cat's eye among gems with possible side effects; Sutton advises node gems are best avoided.",
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'; https://archive.org/details/astrology-of-the-seers-david-frawley; gem list also David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy', https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. PVR: wear the gem only if Ketu is a functional benefic in the chart (useful even if that benefic is weak or badly placed); avoid gems of functional malefics, and of marakas during maraka periods; first wear it on the planet's weekday when the planet is strong.",
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures', 34.2 and Table 77; https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Sutton: prefer the gems of strong planets (especially the lagna lord and trine lords) over weak ones; gems help only alongside a real change of attitude; wearing the planet's colour, its oils or seeds can stand in for an unaffordable gem.",
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004); https://skyscript.co.uk/gems.html"
+      },
+      {
+        "type": "gemstone",
+        "remedy": "OPTIONAL. Phaladeepika lists 'lapis lazuli or turquoise' in Sastri's rendering (Ketu) as Ketu's gem among the planets' correspondences; the verse assigns gems but does not prescribe wearing them as a remedy.",
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 2 v. 29; https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      }
+    ],
+    "source_views": [
+      {
+        "source": "BPHS ch. 84 (tr. G.S. Kapoor, Ranjan 1992, vol. 2 of the Santhanam set; = ch. 86 in G.C. Sharma)",
+        "view": "Joys and sorrows depend on the planets, so those wanting peace, wealth, health or long life should worship them; whichever planet is badly placed at a given time should be worshipped with special care, because Brahma granted the planets the boon of honouring those who honour them (vv. 2-3, 26-27). For Ketu: image in bell-metal (kamsya), mantra 'Ketum krinvann aketave...' x 17,000, fuel kusha grass, food mixed rice (chitranna; Kapoor: khichdi), gift a goat.",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "BPHS antardasha chapters 52-60 (Kapoor/Ranjan numbering; verse numbers not recorded unless given)",
+        "view": "Gift of a goat is prescribed for troubled Ketu sub-periods (e.g. Ketu in the dashas of Rahu, Saturn and Mercury; chs. 55, 57, 58); Mrityunjaya japa in Jupiter's dasha (ch. 56); Durga Saptashati and Mrityunjaya japa in Ketu's own dasha (ch. 59); Mrityunjaya japa and a goat in Venus's dasha (ch. 60). For Ketu in Mars's dasha the translator notes no remedy is given (ch. 54).",
+        "url": "https://archive.org/details/pcis_brihat-parasara-hora-sastra-volume-2-by-maharshi-parasara-sanskrit-and-engl"
+      },
+      {
+        "source": "Phaladeepika (tr. V. Subrahmanya Sastri, 2nd ed. 1950) ch. 26 vv. 49-50",
+        "view": "Remedy is indicated whenever a planet is badly placed in dasha, bhukti, ashtakavarga or transit; the means are prayer and planet-specific mantra, propitiatory rites, virtuous acts, vows, gifts and worship. Non-harming, self-control, honestly earned wealth and discipline keep the planets favourable.",
+        "url": "https://archive.org/details/Phaladeepika2ndEd.1950ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Navagraha Stotra attributed to Vyasa (sanskritdocuments.org text, tr. V. Rao & S. Kalyanaraman)",
+        "view": "Verse 9 praises Ketu, like the palasha flower, head of the stars and planets, fierce and terrible; the closing verses promise pacification of obstacles, bad dreams and planet-caused troubles.",
+        "url": "https://sanskritdocuments.org/doc_z_misc_navagraha/navanew.html"
+      },
+      {
+        "source": "Garuda Purana 1.101 'Propitiation of malignant planets' (tr. M.N. Dutt, wisdomlib)",
+        "view": "Yajnavalkya's graha-yajna: anyone under a hostile planet, or wanting prosperity and peace, should perform it; colour for Ketu black; gifts follow the same order as BPHS.",
+        "url": "https://www.wisdomlib.org/hinduism/book/the-garuda-purana-dutt/d/doc122581.html"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach, ch. 34 'Remedial Measures'",
+        "view": "Remedies adjust the details of a karmic pattern, not the pattern; four ways to please a planet: gem (only for functional benefics), good deeds, mantra/stotra, deity worship. For Ketu: deed - do meditation; deity - Ganesha; mantra count ~7,000.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, Part III ch. 4 'Treatment Methods: Balancing Influences of the Planets'",
+        "view": "Strengthen a planet chiefly when it is weak, and be careful strengthening natural malefics; mantra and meditation are safer than gems or herbs, and are used to ward off an over-strong malefic. Signs of a weak Ketu: Frawley: weak dispositor, in the 3rd, 6th or 8th, or aspected by Saturn and Mars. Shows as self-doubt, poor concentration, feeling constricted.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "David Frawley, Ayurvedic Astrology, ch. 9 'Vedic Gem Therapy'",
+        "view": "Gems are called the main remedial measure in Vedic astrology, but wrongly prescribed gems can cause imbalances; two schools exist (strengthen weak benefics - the 'safe school' Frawley follows - versus propitiate the troublesome malefic), and Frawley advises against wearing malefics' gems unless backed by serious mantra and meditation practice.",
+        "url": "https://archive.org/details/david-frawley-ayurvedic-astrology-self-healing-through-the-stars_202305"
+      },
+      {
+        "source": "Komilla Sutton, 'Astrology and Gemmology' (Skyscript, 2005; from Astrology and Medicine Newsletter 40, 2004)",
+        "view": "Wear gems of strong, not weak, planets; criticises wearing many gems as a shortcut and astrologers who profit by selling costly stones; gems work only with a change of attitude; node gems best avoided.",
+        "url": "https://skyscript.co.uk/gems.html"
+      },
+      {
+        "source": "B.V. Raman, Planetary Influences on Human Affairs, ch. XI 'Astrology as an Aid to Medical Science' and ch. VIII",
+        "view": "Ancient texts suggest mantra-based remedies for afflictions (arishta yogas) shown in the chart (ch. XI); karma and free will coexist, so astrology should not be used fatalistically (ch. VIII). Raman gives no planet-by-planet list here.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Planetary%20Astrology%20of%20Human%20Affairs%20by%20Dr.%20B%20V%20Raman.pdf"
+      }
+    ],
+    "disagreements": "Mantra counts: BPHS 84.19-20 gives 17,000 for Ketu; PVR gives about 7,000 (his counts follow a different scheme). Mantra type: the classical texts read here prescribe Vedic verses and hymns; the short bija and name mantras come from modern authors (Frawley, PVR), and their classical mantra-text source (e.g. Mantra Maharnava) was not verified. Gemstones: the graha-shanti chapters read (BPHS ch. 84, Garuda Purana 1.101) prescribe worship, japa, homa, feeding and gifts, not wearing a planet's gem (Garuda mentions wearing metals); Phaladeepika 2.29 only lists the gems as correspondences. Among moderns: PVR and Frawley's 'safe school' give gems only for functional benefics (even weak ones) and avoid gems of functional malefics; a second school Frawley reports gives the gem of the troublesome malefic itself; Sutton prefers gems of strong planets over weak ones. Frawley and Sutton warn about side effects (blue sapphire, cat's eye, ruby, node gems) and Sutton criticises commercial gem-selling. Translation: in BPHS ch. 84 the Kapoor translation differs from the Sanskrit on some details (e.g. Rahu's image metal lead vs glass, the vehicles of Saturn and Ketu, Mars's count 10,000 vs 11,000).",
+    "confidence": "medium",
+    "phrasing_guidance": "Offer these as optional devotional or lifestyle practices, never as a requirement or a fix. Do not frame the planet as something to fear. Do not promise that any remedy will change events, health or money. Mention gemstones only as an optional tradition that sources disagree on, recommend consulting a qualified, independent astrologer before buying one, and never tie a reading to a purchase. Prefer free practices first: prayer or mantra on the planet's day, simple charity, and the conduct changes. Classical gifts of animals (cows, bulls, goats, horses) can be described as the tradition's form of charity; a modern reader can give in kind or to a cause instead. No medical claims: herbs or gems are not treatment."
+  }
+]

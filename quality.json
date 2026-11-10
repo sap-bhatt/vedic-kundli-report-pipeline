@@ -1,0 +1,367 @@
+{
+ "planet_in_house/sun.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "Phaladeepika 8, Brihat Jataka 20, Jataka Parijata 8 full reads; Raman"
+ },
+ "planet_in_house/moon.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "Phaladeepika 8, Brihat Jataka 20, Jataka Parijata 8 full reads; Raman"
+ },
+ "planet_in_house/mars.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "Phaladeepika 8, Brihat Jataka 20, Jataka Parijata 8 full reads; Raman"
+ },
+ "planet_in_house/mercury.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "5 classical full reads + Raman"
+ },
+ "planet_in_house/jupiter.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "5 classical full reads + Raman"
+ },
+ "planet_in_house/venus.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "5 classical full reads + Raman"
+ },
+ "planet_in_house/saturn.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "8 classical + 4 modern (Raman, Braha, Frawley, Rath); nodes per-house classical support thin (stated per entry)"
+ },
+ "planet_in_house/rahu.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "8 classical incl. Garga Hora + 5 modern; nodes per-house classical support thin (stated per entry)"
+ },
+ "planet_in_house/ketu.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "6 classical + 5 modern; nodes per-house classical support thin (stated per entry)"
+ },
+ "planet_in_sign/sun.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 3.55 friendships, BJ, Saravali 22/23/25 full (Santhanam), Phaladeepika; Raman HPA, Frawley, Braha, Foss"
+ },
+ "planet_in_sign/moon.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 3.55 friendships, BJ, Saravali 22/23/25 full (Santhanam), Phaladeepika; Raman HPA, Frawley, Braha, Foss"
+ },
+ "planet_in_sign/mars.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 3.55 friendships, BJ, Saravali 22/23/25 full (Santhanam), Phaladeepika; Raman HPA, Frawley, Braha, Foss"
+ },
+ "planet_in_sign/mercury.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: Saravali 26-28 full (Santhanam), BJ 18 Sastri, Raman 300 Combinations, Braha, Foss; Jupiter aspect on Venus has no Saravali verse (stated)"
+ },
+ "planet_in_sign/jupiter.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: Saravali 26-28 full (Santhanam), BJ 18 Sastri, Raman 300 Combinations, Braha, Foss; Jupiter aspect on Venus has no Saravali verse (stated)"
+ },
+ "planet_in_sign/venus.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: Saravali 26-28 full (Santhanam), BJ 18 Sastri, Raman 300 Combinations, Braha, Foss; Jupiter aspect on Venus has no Saravali verse (stated)"
+ },
+ "planet_in_sign/saturn.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: Saravali 29 English e-text (translator unnamed), Bhavartha Ratnakara; Raman HPA, Braha, Foss, Frawley; 4 sign mis-mappings corrected"
+ },
+ "planet_in_sign/rahu.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: Bhavartha Ratnakara 15, Saravali/Jataka Bharanam; Raman, Foss, Frawley, Braha, Rath; competing exaltation views side by side; 35-40% fields empty (thin classical node coverage)"
+ },
+ "planet_in_sign/ketu.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: Bhavartha Ratnakara 15, Saravali/Jataka Bharanam; Raman, Foss, Frawley, Braha, Rath; competing exaltation views side by side; 35-40% fields empty (thin classical node coverage)"
+ },
+ "lord_in_house/lord_01.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24, Bhavartha Ratnakara (Raman tr.) and Laghu Parashari (Verma) full; Raman HTJH I, Charak, Rath Crux"
+ },
+ "lord_in_house/lord_02.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24, Bhavartha Ratnakara (Raman tr.) and Laghu Parashari (Verma) full; Raman HTJH I, Charak, Rath Crux"
+ },
+ "lord_in_house/lord_03.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24, Bhavartha Ratnakara (Raman tr.) and Laghu Parashari (Verma) full; Raman HTJH I, Charak, Rath Crux"
+ },
+ "lord_in_house/lord_04.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24, Bhavartha Ratnakara (Raman tr.) and Laghu Parashari (Verma) full; Raman HTJH I, Charak, Rath Crux"
+ },
+ "lord_in_house/lord_05.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24 two translations + BPHS 34, Phaladeepika 10/12/15/16, Bhavartha Ratnakara; Raman HTJH + 300 Combinations, Braha, Rath, Frawley; low-confidence 14->0 (spot-check)"
+ },
+ "lord_in_house/lord_06.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24 two translations + BPHS 34, Phaladeepika 10/12/15/16, Bhavartha Ratnakara; Raman HTJH + 300 Combinations, Braha, Rath, Frawley; low-confidence 14->0 (spot-check)"
+ },
+ "lord_in_house/lord_07.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24 two translations + BPHS 34, Phaladeepika 10/12/15/16, Bhavartha Ratnakara; Raman HTJH + 300 Combinations, Braha, Rath, Frawley; low-confidence 14->0 (spot-check)"
+ },
+ "lord_in_house/lord_08.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24 two translations + BPHS 34, Phaladeepika 10/12/15/16, Bhavartha Ratnakara; Raman HTJH + 300 Combinations, Braha, Rath, Frawley; low-confidence 14->0 (spot-check)"
+ },
+ "lord_in_house/lord_09.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24, Jataka Parijata II (Sastri), Phaladeepika 16, Uttara Kalamrita (Sareen), Laghu Parashari (Row); Raman HTJH II, Braha, Rath, Frawley; uncited 57%->2%"
+ },
+ "lord_in_house/lord_10.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24, Jataka Parijata II (Sastri), Phaladeepika 16, Uttara Kalamrita (Sareen), Laghu Parashari (Row); Raman HTJH II, Braha, Rath, Frawley; uncited 57%->2%"
+ },
+ "lord_in_house/lord_11.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24, Jataka Parijata II (Sastri), Phaladeepika 16, Uttara Kalamrita (Sareen), Laghu Parashari (Row); Raman HTJH II, Braha, Rath, Frawley; uncited 57%->2%"
+ },
+ "lord_in_house/lord_12.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "enriched: BPHS 24, Jataka Parijata II (Sastri), Phaladeepika 16, Uttara Kalamrita (Sareen), Laghu Parashari (Row); Raman HTJH II, Braha, Rath, Frawley; uncited 57%->2%"
+ },
+ "dasha_principle/principles.json": {
+  "status": "accepted_caveats",
+  "note": "17 rules, 59/106 checkable; Rao via summary; some Phaladeepika verse nos uncertain (OCR)"
+ },
+ "dasha_md/rahu.json": {
+  "status": "accepted_caveats",
+  "note": "classical strong (BPHS 47/55, Phaladeepika 19-21, JP 18 full); modern thin (Raman full only; Frawley/Rath thin; Sutton, G.C. Sharma via summary) -> enrichment pass"
+ },
+ "dasha_ad/rahu.json": {
+  "status": "accepted_caveats",
+  "note": "classical strong (BPHS 47/55, Phaladeepika 19-21, JP 18 full); modern thin (Raman full only; Frawley/Rath thin; Sutton, G.C. Sharma via summary) -> enrichment pass"
+ },
+ "transit/saturn.json": {
+  "status": "accepted_caveats",
+  "note": "Phaladeepika 26, Brihat Samhita 104, Saravali 53 full; Raman HPA 34 + Krishna Bhagavan full; Frawley partial; UK verse illegible; 109/213 checkable"
+ },
+ "sade_sati/sade_sati.json": {
+  "status": "accepted_caveats",
+  "note": "no classical text names Sade Sati/Dhaiya (stated in entries); Svoboda, Krishna Bhagavan, Raman, Kurczak full; K.N. Rao via summary"
+ },
+ "transit/jupiter.json": {
+  "status": "accepted_caveats",
+  "note": "Phaladeepika 26 + Brihat Samhita 104 full; Jataka Sara Dipa via blog summary; Raman HPA 34, PVR, LOVA full; 34/131 checkable"
+ },
+ "yogini/yogini.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 46.196-200 (mapping only) + Mansagari (Hindi) full; one AI-translated MS; modern Chugh, Kursija, Goel, Jhanji; Mansagari variant mapping recorded"
+ },
+ "dosha/doshas.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 80/83/92-94, Phaladeepika 10-11, JP 9/16 full; Raman, K.N. Rao, Frawley, Rath full; provenance: only manglik/ganda_moola/(narrow) pitra classical; ghata has two meanings - match calculator"
+ },
+ "dasha_md/mercury.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.61-70 + 58.1-72 (Santhanam full + Sanskrit gloss), Phaladeepika 19-21 (via page summaries), JP 18.133-142, UK; modern Raman HPA XXIV + Rele full, PVR ch.16, Frawley; Rath examples only"
+ },
+ "dasha_ad/mercury.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.61-70 + 58.1-72 (Santhanam full + Sanskrit gloss), Phaladeepika 19-21 (via page summaries), JP 18.133-142, UK; modern Raman HPA XXIV + Rele full, PVR ch.16, Frawley; Rath examples only"
+ },
+ "dasha_md/jupiter.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "BPHS 47.44-51 + 56 (Santhanam + gloss), Phaladeepika 19-21, JP 18.110-119 full; UK by page; modern Raman HPA XXIV, PVR ch.16, Frawley full; Rath partial; no summaries"
+ },
+ "dasha_ad/jupiter.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "BPHS 47.44-51 + 56 (Santhanam + gloss), Phaladeepika 19-21, JP 18.110-119 full; UK by page; modern Raman HPA XXIV, PVR ch.16, Frawley full; Rath partial; no summaries"
+ },
+ "dasha_md/saturn.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.52-60 + 57 (Santhanam + gloss), BPHS 34, Phaladeepika 19-21 (21.53-56 via summary), JP 18.121-132, UK 6 full; modern Raman HPA XXIV full, Rath + PVR dasha chapters, Frawley general -> modern enrichment later"
+ },
+ "dasha_ad/saturn.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.52-60 + 57 (Santhanam + gloss), BPHS 34, Phaladeepika 19-21 (21.53-56 via summary), JP 18.121-132, UK 6 full; modern Raman HPA XXIV full, Rath + PVR dasha chapters, Frawley general -> modern enrichment later"
+ },
+ "yoga/raja_dhana.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 34-41, Phaladeepika 6/7/20, Saravali 13/35/39, JP 7, UK 4, Laghu Parashari, Bhavartha Ratnakara; Raman 300 Combinations + HJH, PVR 11, Rath, Frawley; PD 7.30 via siva.sh, JP 7.82 TOC only; Saraswati single classical source; ISSUE: no verse matches calculator Dhana 1/2/5/9/11 rule"
+ },
+ "yoga/mahapurusha_lunar.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "BPHS 36/37/75, Phaladeepika 6/18, Saravali 13-38, JP 7, BJ 13-14, UK (Adhi); Raman 300 Combinations + HJH + HPA, PVR, Frawley full; Rath/K.N. Rao examples only; Budhaditya combustion rule Raman-only"
+ },
+ "dasha_md/venus.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.78-89 + 60 (Santhanam + gloss), JP 18.158-169, Phaladeepika 19-21 full; modern Venus-specific only Raman HPA + Rele; Frawley/PVR/Rath general; 60.13 Santhanam only"
+ },
+ "dasha_ad/venus.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.78-89 + 60 (Santhanam + gloss), JP 18.158-169, Phaladeepika 19-21 full; modern Venus-specific only Raman HPA + Rele; Frawley/PVR/Rath general; 60.13 Santhanam only"
+ },
+ "dasha_md/ketu.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47 + 59 (Santhanam + gloss), Phaladeepika 19-21 (wisdomlib OCR), JP 18.145-157 full; Raman HPA XVI/XXIII/XXIV, Rele, PVR 16, Frawley full; Rath examples; Ketu-Scorpio conditions written by sign name (consistent with calculator: Ketu exalted Scorpio)"
+ },
+ "dasha_ad/ketu.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47 + 59 (Santhanam + gloss), Phaladeepika 19-21 (wisdomlib OCR), JP 18.145-157 full; Raman HPA XVI/XXIII/XXIV, Rele, PVR 16, Frawley full; Rath examples; Ketu-Scorpio conditions written by sign name (consistent with calculator: Ketu exalted Scorpio)"
+ },
+ "yoga/moon_and_other.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "BPHS, Phaladeepika, Saravali, BJ, JP, UK (eclipse verse) chapters full; Raman 300 + HPA, PVR full; HJH/Rath/Frawley passages; Grahan not a classical yoga name; JP 7.108 via Sastri note"
+ },
+ "dasha_md/sun.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.3-15 + 52 (Santhanam + gloss), Phaladeepika 19-21, JP 18, Saravali 41-42, UK 6 full; modern Sun-specific only Raman HPA + Rele; JP 62-64 verse nos inferred"
+ },
+ "dasha_ad/sun.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.3-15 + 52 (Santhanam + gloss), Phaladeepika 19-21, JP 18, Saravali 41-42, UK 6 full; modern Sun-specific only Raman HPA + Rele; JP 62-64 verse nos inferred"
+ },
+ "dasha_md/mars.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.27-33 + 54 (Santhanam + gloss), Phaladeepika 19-21, JP 18.84-93, UK VI (page nos), Laghu Parashari 12 full; modern Mars-specific only Raman HPA; Frawley/PVR/Rath general; JP 18.90 illegible"
+ },
+ "dasha_ad/mars.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.27-33 + 54 (Santhanam + gloss), Phaladeepika 19-21, JP 18.84-93, UK VI (page nos), Laghu Parashari 12 full; modern Mars-specific only Raman HPA; Frawley/PVR/Rath general; JP 18.90 illegible"
+ },
+ "dasha_md/moon.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.16-26 + 53 (Santhanam + gloss), Phaladeepika 19-21, JP 18.73-83 (75-76 missing in scan), UK VI (page) full; modern Moon-specific only Raman HPA + Rele; Frawley general"
+ },
+ "dasha_ad/moon.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 47.16-26 + 53 (Santhanam + gloss), Phaladeepika 19-21, JP 18.73-83 (75-76 missing in scan), UK VI (page) full; modern Moon-specific only Raman HPA + Rele; Frawley general"
+ },
+ "nakshatra/nakshatras_01_14.json": {
+  "status": "accepted_caveats",
+  "note": "BJ 16 (Neely), Brihat Samhita 98/15, BPHS 6/46/80/92/94, Dharma Sindhu full; modern Raman Muhurtha, PVR, Frawley Shaktis; symbols via Wikipedia only; as_lagna + planets_in_it EMPTY (no source); Harness/Sutton/Trivedi not legitimately online; BJ 16.6 label fixed to Purva Phalguni"
+ },
+ "nakshatra/nakshatras_15_27.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "BJ 16.8-14, Hora Sara 28 + 1.14 (Santhanam), JP 9 (Sastri), Brihat Samhita 98 full; Saravali partial; Trivedi, Raman, Frawley, PVR full; JP 9.88 garbled; Mula deity variant recorded"
+ },
+ "karaka/chara_karakas.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "Jaimini Upadesa Sutras 1.1-1.2 (Abhyankar + B.S. Rao), BPHS 32-33, UK 4 full; Raman Studies in Jaimini, PVR, Prabhakara Murthy, Rath articles full; K.N. Rao 7-karaka view via summary; sutra numbering differs by one between translations"
+ },
+ "karaka/karakamsha.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "Jaimini Upadesa Sutras 1.1-1.2 (Abhyankar + B.S. Rao), BPHS 32-33, UK 4 full; Raman Studies in Jaimini, PVR, Prabhakara Murthy, Rath articles full; K.N. Rao 7-karaka view via summary; sutra numbering differs by one between translations"
+ },
+ "remedy/planet_remedies.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS graha-shanti (Ranjan/Kapoor ch.84; Sharma ch.86) + antardasha remedies 52-60, Phaladeepika 26, Navagraha Stotra, Garuda Purana 1.101 full; PVR 34, Frawley, Sutton full; Rath via summary; no classical source for fasting; bija mantra source unverified; gemstones all flagged optional"
+ },
+ "rising_sign/rising_signs.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "BPHS 4 + 34.19-46, BJ 1, Phaladeepika 1/9, JP 9.104-109, Laghu Parashari 43-72, Bhavartha Ratnakara 1 (Raman) full; Raman HJH + HPA XVII, Frawley, PVR table full; Saravali OCR unusable; Frawley Gemini yogakaraka misprint flagged"
+ },
+ "conjunction/pairs.json": {
+  "status": "accepted_caveats",
+  "note": "BJ 14, Saravali 15, JP 8, Brihat Samhita 17 full; Phaladeepika 18 via fetch summary (unmarked - treat as summary); Raman 300 + HJH, PVR 11, Frawley, Rath; 14 node pairs modern-only (low confidence); Saravali 16-17 not read"
+ },
+ "varga/navamsa_d9.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "BPHS 6-7/18/32-33/40, Phaladeepika, JP I-II, Saravali chapters; PVR, Rath Crux, Raman HPA, C.S. Patel (D9 only; BJ 21.7/Deva Keralam/Vidyamadhaviyam via Patel); JP 7.25 via Patel; no D10 condition facts yet -> all D10 conditions manual (OPEN: add D10 facts)"
+ },
+ "varga/dashamsa_d10.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "BPHS 6-7/18/32-33/40, Phaladeepika, JP I-II, Saravali chapters; PVR, Rath Crux, Raman HPA, C.S. Patel (D9 only; BJ 21.7/Deva Keralam/Vidyamadhaviyam via Patel); JP 7.25 via Patel; no D10 condition facts yet -> all D10 conditions manual (OPEN: add D10 facts)"
+ },
+ "aspect/venus.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 26/11-18/33/44, BJ 2.13, Phaladeepika 2/15, Saravali 4/32-34, JP 2/6/11-15 full; Raman HJH 1-2, PVR, Braha, Vijnananda note; sourced 30/48 (Rahu 4/12, Ketu 2/12); nodal aspects disputed (BPHS 26 silent, Braha none, Raman yes) vs calculator 5/7/9"
+ },
+ "aspect/saturn.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 26/11-18/33/44, BJ 2.13, Phaladeepika 2/15, Saravali 4/32-34, JP 2/6/11-15 full; Raman HJH 1-2, PVR, Braha, Vijnananda note; sourced 30/48 (Rahu 4/12, Ketu 2/12); nodal aspects disputed (BPHS 26 silent, Braha none, Raman yes) vs calculator 5/7/9"
+ },
+ "aspect/rahu.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 26/11-18/33/44, BJ 2.13, Phaladeepika 2/15, Saravali 4/32-34, JP 2/6/11-15 full; Raman HJH 1-2, PVR, Braha, Vijnananda note; sourced 30/48 (Rahu 4/12, Ketu 2/12); nodal aspects disputed (BPHS 26 silent, Braha none, Raman yes) vs calculator 5/7/9"
+ },
+ "aspect/ketu.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 26/11-18/33/44, BJ 2.13, Phaladeepika 2/15, Saravali 4/32-34, JP 2/6/11-15 full; Raman HJH 1-2, PVR, Braha, Vijnananda note; sourced 30/48 (Rahu 4/12, Ketu 2/12); nodal aspects disputed (BPHS 26 silent, Braha none, Raman yes) vs calculator 5/7/9"
+ },
+ "aspect/sun.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 11-23/26, Saravali 4/32/34, Phaladeepika 4/14/15/18, JP 2/6/12, BJ 2.13/19 full; Raman HPA XIII + HJH aspect passages, Frawley, PVR 10; 56/60 planet-specific; confidence mostly medium/low; several Raman items from single example charts"
+ },
+ "aspect/moon.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 11-23/26, Saravali 4/32/34, Phaladeepika 4/14/15/18, JP 2/6/12, BJ 2.13/19 full; Raman HPA XIII + HJH aspect passages, Frawley, PVR 10; 56/60 planet-specific; confidence mostly medium/low; several Raman items from single example charts"
+ },
+ "aspect/mars.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 11-23/26, Saravali 4/32/34, Phaladeepika 4/14/15/18, JP 2/6/12, BJ 2.13/19 full; Raman HPA XIII + HJH aspect passages, Frawley, PVR 10; 56/60 planet-specific; confidence mostly medium/low; several Raman items from single example charts"
+ },
+ "aspect/mercury.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 11-23/26, Saravali 4/32/34, Phaladeepika 4/14/15/18, JP 2/6/12, BJ 2.13/19 full; Raman HPA XIII + HJH aspect passages, Frawley, PVR 10; 56/60 planet-specific; confidence mostly medium/low; several Raman items from single example charts"
+ },
+ "aspect/jupiter.json": {
+  "status": "accepted_caveats",
+  "note": "BPHS 11-23/26, Saravali 4/32/34, Phaladeepika 4/14/15/18, JP 2/6/12, BJ 2.13/19 full; Raman HPA XIII + HJH aspect passages, Frawley, PVR 10; 56/60 planet-specific; confidence mostly medium/low; several Raman items from single example charts"
+ },
+ "panchang/tithi.json": {
+  "status": "accepted_caveats",
+  "note": "LOW: birth results only from Jataka Bharanam (1800 MS, unreviewed AI translation checked vs Sanskrit) + Muhurta Chintamani (AI translation); BPHS 85-88/92 remedies only; Brihat Samhita 99-100; PVR, Rath (short), Krishna Darshan; no modern source on avakhada; corrupt yoga names 1-12 identified by order"
+ },
+ "panchang/vara.json": {
+  "status": "accepted_caveats",
+  "note": "LOW: birth results only from Jataka Bharanam (1800 MS, unreviewed AI translation checked vs Sanskrit) + Muhurta Chintamani (AI translation); BPHS 85-88/92 remedies only; Brihat Samhita 99-100; PVR, Rath (short), Krishna Darshan; no modern source on avakhada; corrupt yoga names 1-12 identified by order"
+ },
+ "panchang/nitya_yoga.json": {
+  "status": "accepted_caveats",
+  "note": "LOW: birth results only from Jataka Bharanam (1800 MS, unreviewed AI translation checked vs Sanskrit) + Muhurta Chintamani (AI translation); BPHS 85-88/92 remedies only; Brihat Samhita 99-100; PVR, Rath (short), Krishna Darshan; no modern source on avakhada; corrupt yoga names 1-12 identified by order"
+ },
+ "panchang/karana.json": {
+  "status": "accepted_caveats",
+  "note": "LOW: birth results only from Jataka Bharanam (1800 MS, unreviewed AI translation checked vs Sanskrit) + Muhurta Chintamani (AI translation); BPHS 85-88/92 remedies only; Brihat Samhita 99-100; PVR, Rath (short), Krishna Darshan; no modern source on avakhada; corrupt yoga names 1-12 identified by order"
+ },
+ "panchang/avakhada.json": {
+  "status": "accepted_caveats",
+  "note": "LOW: birth results only from Jataka Bharanam (1800 MS, unreviewed AI translation checked vs Sanskrit) + Muhurta Chintamani (AI translation); BPHS 85-88/92 remedies only; Brihat Samhita 99-100; PVR, Rath (short), Krishna Darshan; no modern source on avakhada; corrupt yoga names 1-12 identified by order"
+ },
+ "profession/profession.json": {
+  "status": "accepted",
+  "standard": "strict",
+  "note": "Phaladeepika 5.1-5.9 + Brihat Jataka 10.1-10.4 (Sastri, full read incl. notes and Bhattotpala view), Saravali 33 (Santhanam) full; Raman HJH vol 2 ch XIV, Rath Crux 13.7, Pijan Lama commentary; Rahu/Ketu skipped: own no signs, no source assigns them this role"
+ }
+}

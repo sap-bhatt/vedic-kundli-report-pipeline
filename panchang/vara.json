@@ -1,0 +1,445 @@
+[
+  {
+    "id": "panchang/vara/sunday",
+    "layer": "panchang",
+    "key": {
+      "vara": "Sunday",
+      "lord": "Sun"
+    },
+    "summary": "Birth on Sunday, the day of Sun. Jataka Bharanam describes the native as harsh in manner, little or thin hair, victorious at the front of a fight.",
+    "themes": [
+      "weekday",
+      "Sun",
+      "vitality"
+    ],
+    "common_outcomes": [
+      "harsh in manner",
+      "little or thin hair",
+      "victorious at the front of a fight",
+      "strong hands",
+      "prone to bursts of anger",
+      "generous, brave and full of vitality"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "bold, quick-tempered, generous",
+      "career": "",
+      "finance": "",
+      "health": "strong vitality",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "A weekday is reckoned from sunrise to sunrise, so a birth before local sunrise belongs to the previous weekday (PVR sec. 1.3.11).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), vara-phala v.1 (p.21)",
+        "view": "Birth on Sunday (Sun's day): harsh in manner; little or thin hair; victorious at the front of a fight; strong hands; prone to bursts of anger; generous, brave and full of vitality.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371ca"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.11 Hora)",
+        "view": "The weekday is ruled by Sun, which also rules the first hora (hour) after sunrise; the day runs sunrise to sunrise.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted), lessons on panchanga (via student notes)",
+        "view": "Vara belongs to the fire (agni) element and shows physical vitality; the lord of the weekday (vaaradhipati) matters for it.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "Vara is the solar limb of time: ruled by Surya, element Agni (fire).",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "Only Jataka Bharanam gives birth results per weekday among the sources read; the modern sources (PVR, Rath) describe what the vara limb signifies (vitality, fire element) but give no per-day personality readings.",
+    "confidence": "low",
+    "phrasing_guidance": "One sentence at most, as a flavour of the weekday lord. Avoid physical-appearance claims (hair, build, ageing) and never present Saturday birth as unlucky; frame it as a serious, enduring temperament.",
+    "attributes": {
+      "lord": "Sun",
+      "element_of_limb": "agni (fire)"
+    }
+  },
+  {
+    "id": "panchang/vara/monday",
+    "layer": "panchang",
+    "key": {
+      "vara": "Monday",
+      "lord": "Moon"
+    },
+    "summary": "Birth on Monday, the day of Moon. Jataka Bharanam describes the native as wise and very calm, kind, pleasant speech, knows rites and customs.",
+    "themes": [
+      "weekday",
+      "Moon",
+      "vitality"
+    ],
+    "common_outcomes": [
+      "wise and very calm",
+      "kind, pleasant speech",
+      "knows rites and customs",
+      "earns a living under good patrons or rulers",
+      "even-tempered in sorrow"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "calm and gentle",
+      "career": "livelihood through good patrons or employers",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "A weekday is reckoned from sunrise to sunrise, so a birth before local sunrise belongs to the previous weekday (PVR sec. 1.3.11).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), vara-phala v.2 (p.21)",
+        "view": "Birth on Monday (Moon's day): wise and very calm; kind, pleasant speech; knows rites and customs; earns a living under good patrons or rulers; even-tempered in sorrow.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371ca"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.11 Hora)",
+        "view": "The weekday is ruled by Moon, which also rules the first hora (hour) after sunrise; the day runs sunrise to sunrise.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted), lessons on panchanga (via student notes)",
+        "view": "Vara belongs to the fire (agni) element and shows physical vitality; the lord of the weekday (vaaradhipati) matters for it.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "Vara is the solar limb of time: ruled by Surya, element Agni (fire).",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "Only Jataka Bharanam gives birth results per weekday among the sources read; the modern sources (PVR, Rath) describe what the vara limb signifies (vitality, fire element) but give no per-day personality readings.",
+    "confidence": "low",
+    "phrasing_guidance": "One sentence at most, as a flavour of the weekday lord. Avoid physical-appearance claims (hair, build, ageing) and never present Saturday birth as unlucky; frame it as a serious, enduring temperament.",
+    "attributes": {
+      "lord": "Moon",
+      "element_of_limb": "agni (fire)"
+    }
+  },
+  {
+    "id": "panchang/vara/tuesday",
+    "layer": "panchang",
+    "key": {
+      "vara": "Tuesday",
+      "lord": "Mars"
+    },
+    "summary": "Birth on Tuesday, the day of Mars. Jataka Bharanam describes the native as bears auspicious marks, fond of battle, minister or adviser to rulers.",
+    "themes": [
+      "weekday",
+      "Mars",
+      "vitality"
+    ],
+    "common_outcomes": [
+      "bears auspicious marks",
+      "fond of battle",
+      "minister or adviser to rulers",
+      "long-lived",
+      "great strength and courage",
+      "intense, fierce temperament"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "brave but fierce",
+      "career": "adviser to people in power",
+      "finance": "",
+      "health": "long life",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "A weekday is reckoned from sunrise to sunrise, so a birth before local sunrise belongs to the previous weekday (PVR sec. 1.3.11).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), vara-phala v.3 (p.21)",
+        "view": "Birth on Tuesday (Mars's day): bears auspicious marks; fond of battle; minister or adviser to rulers; long-lived; great strength and courage; intense, fierce temperament.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371ca"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.11 Hora)",
+        "view": "The weekday is ruled by Mars, which also rules the first hora (hour) after sunrise; the day runs sunrise to sunrise.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted), lessons on panchanga (via student notes)",
+        "view": "Vara belongs to the fire (agni) element and shows physical vitality; the lord of the weekday (vaaradhipati) matters for it.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "Vara is the solar limb of time: ruled by Surya, element Agni (fire).",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "Only Jataka Bharanam gives birth results per weekday among the sources read; the modern sources (PVR, Rath) describe what the vara limb signifies (vitality, fire element) but give no per-day personality readings.",
+    "confidence": "low",
+    "phrasing_guidance": "One sentence at most, as a flavour of the weekday lord. Avoid physical-appearance claims (hair, build, ageing) and never present Saturday birth as unlucky; frame it as a serious, enduring temperament.",
+    "attributes": {
+      "lord": "Mars",
+      "element_of_limb": "agni (fire)"
+    }
+  },
+  {
+    "id": "panchang/vara/wednesday",
+    "layer": "panchang",
+    "key": {
+      "vara": "Wednesday",
+      "lord": "Mercury"
+    },
+    "summary": "Birth on Wednesday, the day of Mercury. Jataka Bharanam describes the native as handsome, soft, charming speech, wealthy.",
+    "themes": [
+      "weekday",
+      "Mercury",
+      "vitality"
+    ],
+    "common_outcomes": [
+      "handsome",
+      "soft, charming speech",
+      "wealthy",
+      "skilled in many arts",
+      "knows gardening and plant work",
+      "wise and appreciative of others' merits"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "arts, crafts, gardening",
+      "finance": "wealthy",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "A weekday is reckoned from sunrise to sunrise, so a birth before local sunrise belongs to the previous weekday (PVR sec. 1.3.11).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), vara-phala v.4 (p.21)",
+        "view": "Birth on Wednesday (Mercury's day): handsome; soft, charming speech; wealthy; skilled in many arts; knows gardening and plant work; wise and appreciative of others' merits.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371ca"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.11 Hora)",
+        "view": "The weekday is ruled by Mercury, which also rules the first hora (hour) after sunrise; the day runs sunrise to sunrise.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted), lessons on panchanga (via student notes)",
+        "view": "Vara belongs to the fire (agni) element and shows physical vitality; the lord of the weekday (vaaradhipati) matters for it.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "Vara is the solar limb of time: ruled by Surya, element Agni (fire).",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "Only Jataka Bharanam gives birth results per weekday among the sources read; the modern sources (PVR, Rath) describe what the vara limb signifies (vitality, fire element) but give no per-day personality readings.",
+    "confidence": "low",
+    "phrasing_guidance": "One sentence at most, as a flavour of the weekday lord. Avoid physical-appearance claims (hair, build, ageing) and never present Saturday birth as unlucky; frame it as a serious, enduring temperament.",
+    "attributes": {
+      "lord": "Mercury",
+      "element_of_limb": "agni (fire)"
+    }
+  },
+  {
+    "id": "panchang/vara/thursday",
+    "layer": "panchang",
+    "key": {
+      "vara": "Thursday",
+      "lord": "Jupiter"
+    },
+    "summary": "Birth on Thursday, the day of Jupiter. Jataka Bharanam describes the native as learned, virtuous, with every good quality, pleasant nature, gets what he wishes.",
+    "themes": [
+      "weekday",
+      "Jupiter",
+      "vitality"
+    ],
+    "common_outcomes": [
+      "learned",
+      "virtuous, with every good quality",
+      "pleasant nature, gets what he wishes",
+      "an excellent teacher",
+      "liked by the public"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "teaching",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "virtuous"
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "A weekday is reckoned from sunrise to sunrise, so a birth before local sunrise belongs to the previous weekday (PVR sec. 1.3.11).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), vara-phala v.5 (p.21)",
+        "view": "Birth on Thursday (Jupiter's day): learned; virtuous, with every good quality; pleasant nature, gets what he wishes; an excellent teacher; liked by the public.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371ca"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.11 Hora)",
+        "view": "The weekday is ruled by Jupiter, which also rules the first hora (hour) after sunrise; the day runs sunrise to sunrise.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted), lessons on panchanga (via student notes)",
+        "view": "Vara belongs to the fire (agni) element and shows physical vitality; the lord of the weekday (vaaradhipati) matters for it.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "Vara is the solar limb of time: ruled by Surya, element Agni (fire).",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "Only Jataka Bharanam gives birth results per weekday among the sources read; the modern sources (PVR, Rath) describe what the vara limb signifies (vitality, fire element) but give no per-day personality readings.",
+    "confidence": "low",
+    "phrasing_guidance": "One sentence at most, as a flavour of the weekday lord. Avoid physical-appearance claims (hair, build, ageing) and never present Saturday birth as unlucky; frame it as a serious, enduring temperament.",
+    "attributes": {
+      "lord": "Jupiter",
+      "element_of_limb": "agni (fire)"
+    }
+  },
+  {
+    "id": "panchang/vara/friday",
+    "layer": "panchang",
+    "key": {
+      "vara": "Friday",
+      "lord": "Venus"
+    },
+    "summary": "Birth on Friday, the day of Venus. Jataka Bharanam describes the native as thick curly hair, pleasing looks, very wise.",
+    "themes": [
+      "weekday",
+      "Venus",
+      "vitality"
+    ],
+    "common_outcomes": [
+      "thick curly hair",
+      "pleasing looks",
+      "very wise",
+      "fond of fine pearls",
+      "walks a virtuous path"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "attractive and refined",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "A weekday is reckoned from sunrise to sunrise, so a birth before local sunrise belongs to the previous weekday (PVR sec. 1.3.11).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), vara-phala v.6 (p.22)",
+        "view": "Birth on Friday (Venus's day): thick curly hair; pleasing looks; very wise; fond of fine pearls; walks a virtuous path.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371cb"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.11 Hora)",
+        "view": "The weekday is ruled by Venus, which also rules the first hora (hour) after sunrise; the day runs sunrise to sunrise.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted), lessons on panchanga (via student notes)",
+        "view": "Vara belongs to the fire (agni) element and shows physical vitality; the lord of the weekday (vaaradhipati) matters for it.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "Vara is the solar limb of time: ruled by Surya, element Agni (fire).",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "Only Jataka Bharanam gives birth results per weekday among the sources read; the modern sources (PVR, Rath) describe what the vara limb signifies (vitality, fire element) but give no per-day personality readings.",
+    "confidence": "low",
+    "phrasing_guidance": "One sentence at most, as a flavour of the weekday lord. Avoid physical-appearance claims (hair, build, ageing) and never present Saturday birth as unlucky; frame it as a serious, enduring temperament.",
+    "attributes": {
+      "lord": "Venus",
+      "element_of_limb": "agni (fire)"
+    }
+  },
+  {
+    "id": "panchang/vara/saturday",
+    "layer": "panchang",
+    "key": {
+      "vara": "Saturday",
+      "lord": "Saturn"
+    },
+    "summary": "Birth on Saturday, the day of Saturn. Jataka Bharanam describes the native as tends to age early, thin or weak frame, much anger.",
+    "themes": [
+      "weekday",
+      "Saturn",
+      "vitality"
+    ],
+    "common_outcomes": [
+      "tends to age early",
+      "thin or weak frame",
+      "much anger",
+      "heavy, tamasic (dull, inert) temperament"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "early ageing; slight frame",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "A weekday is reckoned from sunrise to sunrise, so a birth before local sunrise belongs to the previous weekday (PVR sec. 1.3.11).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), vara-phala v.7 (p.22)",
+        "view": "Birth on Saturday (Saturn's day): tends to age early; thin or weak frame; much anger; heavy, tamasic (dull, inert) temperament.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371cb"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach (author-hosted PDF), sec. 1.3.8-1.3.12 (sec. 1.3.11 Hora)",
+        "view": "The weekday is ruled by Saturn, which also rules the first hora (hour) after sunrise; the day runs sunrise to sunrise.",
+        "url": "https://www.vedicastrologer.org/articles/vedic_astro_textbook.pdf"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Lessons on Vedic Astrology vol. I (student-compiled class notes, author-hosted), lessons on panchanga (via student notes)",
+        "view": "Vara belongs to the fire (agni) element and shows physical vitality; the lord of the weekday (vaaradhipati) matters for it.",
+        "url": "https://www.vedicastrologer.org/classes/book1-for-CD.pdf"
+      },
+      {
+        "source": "Sanjay Rath, 'Panchanga Intro' (srath.com)",
+        "view": "Vara is the solar limb of time: ruled by Surya, element Agni (fire).",
+        "url": "https://srath.com/learn/panchanga/panchanga-intro/"
+      }
+    ],
+    "disagreements": "Only Jataka Bharanam gives birth results per weekday among the sources read; the modern sources (PVR, Rath) describe what the vara limb signifies (vitality, fire element) but give no per-day personality readings.",
+    "confidence": "low",
+    "phrasing_guidance": "One sentence at most, as a flavour of the weekday lord. Avoid physical-appearance claims (hair, build, ageing) and never present Saturday birth as unlucky; frame it as a serious, enduring temperament.",
+    "attributes": {
+      "lord": "Saturn",
+      "element_of_limb": "agni (fire)"
+    }
+  }
+]

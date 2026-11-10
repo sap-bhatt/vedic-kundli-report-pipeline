@@ -1,0 +1,1704 @@
+{
+ "birth": {
+  "date": "2001-09-03",
+  "time": "21:15 IST",
+  "place": "Chennai, Tamil Nadu (13.08N, 80.27E)",
+  "sex": "male"
+ },
+ "settings": {
+  "ayanamsa": "lahiri",
+  "ayanamsa_value": "23°52'33\"",
+  "ayanamsa_deg": 23.875889,
+  "node": "mean",
+  "dasha_year_days": 365.25,
+  "houses": "whole sign",
+  "sunrise": "hindu (disc centre, no refraction)",
+  "gulika": "middle",
+  "node_exalt": "taurus_scorpio",
+  "node_aspects": "7",
+  "manglik_houses": "full",
+  "benefics": [
+   "Jupiter",
+   "Venus",
+   "Mercury"
+  ]
+ },
+ "lagna": {
+  "lon": 10.8592,
+  "sign": "Aries",
+  "sign_num": 1,
+  "deg_in_sign": "10°51'33\"",
+  "nakshatra": "Ashwini",
+  "pada": 4,
+  "vargas": {
+   "D1": "Aries",
+   "D2": "Leo",
+   "D3": "Leo",
+   "D7": "Gemini",
+   "D9": "Cancer",
+   "D10": "Cancer",
+   "D12": "Leo"
+  }
+ },
+ "planets": [
+  {
+   "name": "Sun",
+   "lon": 137.3265,
+   "sign": "Leo",
+   "sign_num": 5,
+   "deg_in_sign": "17°19'35\"",
+   "nakshatra": "Purva Phalguni",
+   "pada": 2,
+   "nak_lord": "Venus",
+   "house": 5,
+   "vargas": {
+    "D1": "Leo",
+    "D2": "Cancer",
+    "D3": "Sagittarius",
+    "D7": "Sagittarius",
+    "D9": "Virgo",
+    "D10": "Capricorn",
+    "D12": "Aquarius"
+   },
+   "retro": false,
+   "speed": 0.9684,
+   "dignity": "moolatrikona",
+   "combust": false
+  },
+  {
+   "name": "Moon",
+   "lon": 325.5464,
+   "sign": "Aquarius",
+   "sign_num": 11,
+   "deg_in_sign": "25°32'47\"",
+   "nakshatra": "Purva Bhadrapada",
+   "pada": 2,
+   "nak_lord": "Jupiter",
+   "house": 11,
+   "vargas": {
+    "D1": "Aquarius",
+    "D2": "Cancer",
+    "D3": "Libra",
+    "D7": "Cancer",
+    "D9": "Taurus",
+    "D10": "Libra",
+    "D12": "Sagittarius"
+   },
+   "retro": false,
+   "speed": 11.9316,
+   "dignity": "neutral",
+   "combust": false
+  },
+  {
+   "name": "Mars",
+   "lon": 243.6098,
+   "sign": "Sagittarius",
+   "sign_num": 9,
+   "deg_in_sign": "3°36'35\"",
+   "nakshatra": "Mula",
+   "pada": 2,
+   "nak_lord": "Ketu",
+   "house": 9,
+   "vargas": {
+    "D1": "Sagittarius",
+    "D2": "Leo",
+    "D3": "Sagittarius",
+    "D7": "Sagittarius",
+    "D9": "Taurus",
+    "D10": "Capricorn",
+    "D12": "Capricorn"
+   },
+   "retro": false,
+   "speed": 0.4785,
+   "dignity": "friend",
+   "combust": false
+  },
+  {
+   "name": "Mercury",
+   "lon": 159.9477,
+   "sign": "Virgo",
+   "sign_num": 6,
+   "deg_in_sign": "9°56'52\"",
+   "nakshatra": "Uttara Phalguni",
+   "pada": 4,
+   "nak_lord": "Sun",
+   "house": 6,
+   "vargas": {
+    "D1": "Virgo",
+    "D2": "Cancer",
+    "D3": "Virgo",
+    "D7": "Taurus",
+    "D9": "Pisces",
+    "D10": "Leo",
+    "D12": "Sagittarius"
+   },
+   "retro": false,
+   "speed": 1.4238,
+   "dignity": "exalted",
+   "combust": false
+  },
+  {
+   "name": "Jupiter",
+   "lon": 76.5041,
+   "sign": "Gemini",
+   "sign_num": 3,
+   "deg_in_sign": "16°30'15\"",
+   "nakshatra": "Ardra",
+   "pada": 3,
+   "nak_lord": "Rahu",
+   "house": 3,
+   "vargas": {
+    "D1": "Gemini",
+    "D2": "Cancer",
+    "D3": "Libra",
+    "D7": "Virgo",
+    "D9": "Aquarius",
+    "D10": "Scorpio",
+    "D12": "Sagittarius"
+   },
+   "retro": false,
+   "speed": 0.161,
+   "dignity": "enemy",
+   "combust": false
+  },
+  {
+   "name": "Venus",
+   "lon": 105.0501,
+   "sign": "Cancer",
+   "sign_num": 4,
+   "deg_in_sign": "15°03'00\"",
+   "nakshatra": "Pushya",
+   "pada": 4,
+   "nak_lord": "Saturn",
+   "house": 4,
+   "vargas": {
+    "D1": "Cancer",
+    "D2": "Leo",
+    "D3": "Scorpio",
+    "D7": "Aries",
+    "D9": "Scorpio",
+    "D10": "Leo",
+    "D12": "Capricorn"
+   },
+   "retro": false,
+   "speed": 1.1981,
+   "dignity": "enemy",
+   "combust": false
+  },
+  {
+   "name": "Saturn",
+   "lon": 50.601,
+   "sign": "Taurus",
+   "sign_num": 2,
+   "deg_in_sign": "20°36'04\"",
+   "nakshatra": "Rohini",
+   "pada": 4,
+   "nak_lord": "Moon",
+   "house": 2,
+   "vargas": {
+    "D1": "Taurus",
+    "D2": "Leo",
+    "D3": "Capricorn",
+    "D7": "Pisces",
+    "D9": "Cancer",
+    "D10": "Cancer",
+    "D12": "Capricorn"
+   },
+   "retro": false,
+   "speed": 0.0415,
+   "dignity": "friend",
+   "combust": false
+  },
+  {
+   "name": "Rahu",
+   "lon": 68.801,
+   "sign": "Gemini",
+   "sign_num": 3,
+   "deg_in_sign": "8°48'04\"",
+   "nakshatra": "Ardra",
+   "pada": 1,
+   "nak_lord": "Rahu",
+   "house": 3,
+   "vargas": {
+    "D1": "Gemini",
+    "D2": "Leo",
+    "D3": "Gemini",
+    "D7": "Leo",
+    "D9": "Sagittarius",
+    "D10": "Leo",
+    "D12": "Virgo"
+   },
+   "retro": true,
+   "dignity": "-"
+  },
+  {
+   "name": "Ketu",
+   "lon": 248.801,
+   "sign": "Sagittarius",
+   "sign_num": 9,
+   "deg_in_sign": "8°48'04\"",
+   "nakshatra": "Mula",
+   "pada": 3,
+   "nak_lord": "Ketu",
+   "house": 9,
+   "vargas": {
+    "D1": "Sagittarius",
+    "D2": "Leo",
+    "D3": "Sagittarius",
+    "D7": "Aquarius",
+    "D9": "Gemini",
+    "D10": "Aquarius",
+    "D12": "Pisces"
+   },
+   "retro": true,
+   "dignity": "-"
+  },
+  {
+   "name": "Gulika",
+   "lon": 357.1048,
+   "sign": "Pisces",
+   "sign_num": 12,
+   "deg_in_sign": "27°06'17\"",
+   "nakshatra": "Revati",
+   "pada": 4,
+   "nak_lord": "Mercury",
+   "house": 12,
+   "vargas": {
+    "D1": "Pisces",
+    "D2": "Leo",
+    "D3": "Scorpio",
+    "D7": "Pisces",
+    "D9": "Pisces",
+    "D10": "Leo",
+    "D12": "Capricorn"
+   }
+  }
+ ],
+ "houses": [
+  {
+   "house": 1,
+   "sign": "Aries",
+   "lord": "Mars",
+   "lord_in_house": 9,
+   "lord_in_sign": "Sagittarius",
+   "lord_dignity": "friend",
+   "occupants": [],
+   "aspected_by": [
+    "Ketu"
+   ]
+  },
+  {
+   "house": 2,
+   "sign": "Taurus",
+   "lord": "Venus",
+   "lord_in_house": 4,
+   "lord_in_sign": "Cancer",
+   "lord_dignity": "enemy",
+   "occupants": [
+    "Saturn"
+   ],
+   "aspected_by": []
+  },
+  {
+   "house": 3,
+   "sign": "Gemini",
+   "lord": "Mercury",
+   "lord_in_house": 6,
+   "lord_in_sign": "Virgo",
+   "lord_dignity": "exalted",
+   "occupants": [
+    "Jupiter",
+    "Rahu"
+   ],
+   "aspected_by": [
+    "Mars",
+    "Ketu"
+   ]
+  },
+  {
+   "house": 4,
+   "sign": "Cancer",
+   "lord": "Moon",
+   "lord_in_house": 11,
+   "lord_in_sign": "Aquarius",
+   "lord_dignity": "neutral",
+   "occupants": [
+    "Venus"
+   ],
+   "aspected_by": [
+    "Mars",
+    "Saturn"
+   ]
+  },
+  {
+   "house": 5,
+   "sign": "Leo",
+   "lord": "Sun",
+   "lord_in_house": 5,
+   "lord_in_sign": "Leo",
+   "lord_dignity": "moolatrikona",
+   "occupants": [
+    "Sun"
+   ],
+   "aspected_by": [
+    "Moon",
+    "Ketu"
+   ]
+  },
+  {
+   "house": 6,
+   "sign": "Virgo",
+   "lord": "Mercury",
+   "lord_in_house": 6,
+   "lord_in_sign": "Virgo",
+   "lord_dignity": "exalted",
+   "occupants": [
+    "Mercury"
+   ],
+   "aspected_by": []
+  },
+  {
+   "house": 7,
+   "sign": "Libra",
+   "lord": "Venus",
+   "lord_in_house": 4,
+   "lord_in_sign": "Cancer",
+   "lord_dignity": "enemy",
+   "occupants": [],
+   "aspected_by": [
+    "Jupiter",
+    "Rahu"
+   ]
+  },
+  {
+   "house": 8,
+   "sign": "Scorpio",
+   "lord": "Mars",
+   "lord_in_house": 9,
+   "lord_in_sign": "Sagittarius",
+   "lord_dignity": "friend",
+   "occupants": [],
+   "aspected_by": [
+    "Saturn"
+   ]
+  },
+  {
+   "house": 9,
+   "sign": "Sagittarius",
+   "lord": "Jupiter",
+   "lord_in_house": 3,
+   "lord_in_sign": "Gemini",
+   "lord_dignity": "enemy",
+   "occupants": [
+    "Mars",
+    "Ketu"
+   ],
+   "aspected_by": [
+    "Jupiter",
+    "Rahu"
+   ]
+  },
+  {
+   "house": 10,
+   "sign": "Capricorn",
+   "lord": "Saturn",
+   "lord_in_house": 2,
+   "lord_in_sign": "Taurus",
+   "lord_dignity": "friend",
+   "occupants": [],
+   "aspected_by": [
+    "Venus"
+   ]
+  },
+  {
+   "house": 11,
+   "sign": "Aquarius",
+   "lord": "Saturn",
+   "lord_in_house": 2,
+   "lord_in_sign": "Taurus",
+   "lord_dignity": "friend",
+   "occupants": [
+    "Moon"
+   ],
+   "aspected_by": [
+    "Sun",
+    "Jupiter",
+    "Saturn",
+    "Rahu"
+   ]
+  },
+  {
+   "house": 12,
+   "sign": "Pisces",
+   "lord": "Jupiter",
+   "lord_in_house": 3,
+   "lord_in_sign": "Gemini",
+   "lord_dignity": "enemy",
+   "occupants": [],
+   "aspected_by": [
+    "Mars",
+    "Mercury"
+   ]
+  }
+ ],
+ "panchang_at_birth": {
+  "tithi": "Pratipada",
+  "paksha": "Krishna",
+  "tithi_num": 16,
+  "nitya_yoga": "Dhriti",
+  "karana": "Kaulava",
+  "vara": "Monday",
+  "sunrise": "2001-09-03 06:01",
+  "sunset": "2001-09-03 18:15"
+ },
+ "avakhada": {
+  "rashi": "Kumbha",
+  "rashi_lord": "Saturn",
+  "nakshatra": "Purva Bhadrapada",
+  "pada": 2,
+  "nak_lord": "Jupiter",
+  "gana": "Manushya",
+  "yoni": "Lion (Male)",
+  "nadi": "Adi",
+  "varna": "Shudra",
+  "vashya": "Manava",
+  "lagna": "Mesha",
+  "lagna_lord": "Mars"
+ },
+ "graha_yuddha": [],
+ "vimshottari": {
+  "balance_at_birth": {
+   "lord": "Jupiter",
+   "years": 9.3443
+  },
+  "mahadashas": [
+   {
+    "md": "Jupiter",
+    "start": "1995-01-07",
+    "end": "2011-01-07"
+   },
+   {
+    "md": "Saturn",
+    "start": "2011-01-07",
+    "end": "2030-01-07"
+   },
+   {
+    "md": "Mercury",
+    "start": "2030-01-07",
+    "end": "2047-01-07"
+   },
+   {
+    "md": "Ketu",
+    "start": "2047-01-07",
+    "end": "2054-01-07"
+   },
+   {
+    "md": "Venus",
+    "start": "2054-01-07",
+    "end": "2074-01-07"
+   },
+   {
+    "md": "Sun",
+    "start": "2074-01-07",
+    "end": "2080-01-08"
+   },
+   {
+    "md": "Moon",
+    "start": "2080-01-08",
+    "end": "2090-01-07"
+   },
+   {
+    "md": "Mars",
+    "start": "2090-01-07",
+    "end": "2097-01-07"
+   },
+   {
+    "md": "Rahu",
+    "start": "2097-01-07",
+    "end": "2115-01-08"
+   }
+  ],
+  "current_md_antardashas": [
+   {
+    "ad": "Saturn",
+    "start": "2011-01-07",
+    "end": "2014-01-10",
+    "current": false
+   },
+   {
+    "ad": "Mercury",
+    "start": "2014-01-10",
+    "end": "2016-09-19",
+    "current": false
+   },
+   {
+    "ad": "Ketu",
+    "start": "2016-09-19",
+    "end": "2017-10-29",
+    "current": false
+   },
+   {
+    "ad": "Venus",
+    "start": "2017-10-29",
+    "end": "2020-12-29",
+    "current": false
+   },
+   {
+    "ad": "Sun",
+    "start": "2020-12-29",
+    "end": "2021-12-11",
+    "current": false
+   },
+   {
+    "ad": "Moon",
+    "start": "2021-12-11",
+    "end": "2023-07-12",
+    "current": false
+   },
+   {
+    "ad": "Mars",
+    "start": "2023-07-12",
+    "end": "2024-08-20",
+    "current": false
+   },
+   {
+    "ad": "Rahu",
+    "start": "2024-08-20",
+    "end": "2027-06-27",
+    "current": true
+   },
+   {
+    "ad": "Jupiter",
+    "start": "2027-06-27",
+    "end": "2030-01-07",
+    "current": false
+   }
+  ],
+  "antardashas_by_md": {
+   "Jupiter": [
+    {
+     "ad": "Jupiter",
+     "start": "1995-01-07",
+     "end": "1997-02-25"
+    },
+    {
+     "ad": "Saturn",
+     "start": "1997-02-25",
+     "end": "1999-09-08"
+    },
+    {
+     "ad": "Mercury",
+     "start": "1999-09-08",
+     "end": "2001-12-14"
+    },
+    {
+     "ad": "Ketu",
+     "start": "2001-12-14",
+     "end": "2002-11-20"
+    },
+    {
+     "ad": "Venus",
+     "start": "2002-11-20",
+     "end": "2005-07-21"
+    },
+    {
+     "ad": "Sun",
+     "start": "2005-07-21",
+     "end": "2006-05-09"
+    },
+    {
+     "ad": "Moon",
+     "start": "2006-05-09",
+     "end": "2007-09-08"
+    },
+    {
+     "ad": "Mars",
+     "start": "2007-09-08",
+     "end": "2008-08-14"
+    },
+    {
+     "ad": "Rahu",
+     "start": "2008-08-14",
+     "end": "2011-01-07"
+    }
+   ],
+   "Saturn": [
+    {
+     "ad": "Saturn",
+     "start": "2011-01-07",
+     "end": "2014-01-10"
+    },
+    {
+     "ad": "Mercury",
+     "start": "2014-01-10",
+     "end": "2016-09-19"
+    },
+    {
+     "ad": "Ketu",
+     "start": "2016-09-19",
+     "end": "2017-10-29"
+    },
+    {
+     "ad": "Venus",
+     "start": "2017-10-29",
+     "end": "2020-12-29"
+    },
+    {
+     "ad": "Sun",
+     "start": "2020-12-29",
+     "end": "2021-12-11"
+    },
+    {
+     "ad": "Moon",
+     "start": "2021-12-11",
+     "end": "2023-07-12"
+    },
+    {
+     "ad": "Mars",
+     "start": "2023-07-12",
+     "end": "2024-08-20"
+    },
+    {
+     "ad": "Rahu",
+     "start": "2024-08-20",
+     "end": "2027-06-27"
+    },
+    {
+     "ad": "Jupiter",
+     "start": "2027-06-27",
+     "end": "2030-01-07"
+    }
+   ],
+   "Mercury": [
+    {
+     "ad": "Mercury",
+     "start": "2030-01-07",
+     "end": "2032-06-05"
+    },
+    {
+     "ad": "Ketu",
+     "start": "2032-06-05",
+     "end": "2033-06-02"
+    },
+    {
+     "ad": "Venus",
+     "start": "2033-06-02",
+     "end": "2036-04-02"
+    },
+    {
+     "ad": "Sun",
+     "start": "2036-04-02",
+     "end": "2037-02-06"
+    },
+    {
+     "ad": "Moon",
+     "start": "2037-02-06",
+     "end": "2038-07-09"
+    },
+    {
+     "ad": "Mars",
+     "start": "2038-07-09",
+     "end": "2039-07-06"
+    },
+    {
+     "ad": "Rahu",
+     "start": "2039-07-06",
+     "end": "2042-01-22"
+    },
+    {
+     "ad": "Jupiter",
+     "start": "2042-01-22",
+     "end": "2044-04-29"
+    },
+    {
+     "ad": "Saturn",
+     "start": "2044-04-29",
+     "end": "2047-01-07"
+    }
+   ],
+   "Ketu": [
+    {
+     "ad": "Ketu",
+     "start": "2047-01-07",
+     "end": "2047-06-06"
+    },
+    {
+     "ad": "Venus",
+     "start": "2047-06-06",
+     "end": "2048-08-05"
+    },
+    {
+     "ad": "Sun",
+     "start": "2048-08-05",
+     "end": "2048-12-10"
+    },
+    {
+     "ad": "Moon",
+     "start": "2048-12-10",
+     "end": "2049-07-12"
+    },
+    {
+     "ad": "Mars",
+     "start": "2049-07-12",
+     "end": "2049-12-08"
+    },
+    {
+     "ad": "Rahu",
+     "start": "2049-12-08",
+     "end": "2050-12-26"
+    },
+    {
+     "ad": "Jupiter",
+     "start": "2050-12-26",
+     "end": "2051-12-02"
+    },
+    {
+     "ad": "Saturn",
+     "start": "2051-12-02",
+     "end": "2053-01-10"
+    },
+    {
+     "ad": "Mercury",
+     "start": "2053-01-10",
+     "end": "2054-01-07"
+    }
+   ],
+   "Venus": [
+    {
+     "ad": "Venus",
+     "start": "2054-01-07",
+     "end": "2057-05-09"
+    },
+    {
+     "ad": "Sun",
+     "start": "2057-05-09",
+     "end": "2058-05-09"
+    },
+    {
+     "ad": "Moon",
+     "start": "2058-05-09",
+     "end": "2060-01-08"
+    },
+    {
+     "ad": "Mars",
+     "start": "2060-01-08",
+     "end": "2061-03-09"
+    },
+    {
+     "ad": "Rahu",
+     "start": "2061-03-09",
+     "end": "2064-03-09"
+    },
+    {
+     "ad": "Jupiter",
+     "start": "2064-03-09",
+     "end": "2066-11-08"
+    },
+    {
+     "ad": "Saturn",
+     "start": "2066-11-08",
+     "end": "2070-01-07"
+    },
+    {
+     "ad": "Mercury",
+     "start": "2070-01-07",
+     "end": "2072-11-07"
+    },
+    {
+     "ad": "Ketu",
+     "start": "2072-11-07",
+     "end": "2074-01-07"
+    }
+   ],
+   "Sun": [
+    {
+     "ad": "Sun",
+     "start": "2074-01-07",
+     "end": "2074-04-27"
+    },
+    {
+     "ad": "Moon",
+     "start": "2074-04-27",
+     "end": "2074-10-26"
+    },
+    {
+     "ad": "Mars",
+     "start": "2074-10-26",
+     "end": "2075-03-03"
+    },
+    {
+     "ad": "Rahu",
+     "start": "2075-03-03",
+     "end": "2076-01-26"
+    },
+    {
+     "ad": "Jupiter",
+     "start": "2076-01-26",
+     "end": "2076-11-13"
+    },
+    {
+     "ad": "Saturn",
+     "start": "2076-11-13",
+     "end": "2077-10-26"
+    },
+    {
+     "ad": "Mercury",
+     "start": "2077-10-26",
+     "end": "2078-09-02"
+    },
+    {
+     "ad": "Ketu",
+     "start": "2078-09-02",
+     "end": "2079-01-07"
+    },
+    {
+     "ad": "Venus",
+     "start": "2079-01-07",
+     "end": "2080-01-08"
+    }
+   ],
+   "Moon": [
+    {
+     "ad": "Moon",
+     "start": "2080-01-08",
+     "end": "2080-11-07"
+    },
+    {
+     "ad": "Mars",
+     "start": "2080-11-07",
+     "end": "2081-06-08"
+    },
+    {
+     "ad": "Rahu",
+     "start": "2081-06-08",
+     "end": "2082-12-08"
+    },
+    {
+     "ad": "Jupiter",
+     "start": "2082-12-08",
+     "end": "2084-04-08"
+    },
+    {
+     "ad": "Saturn",
+     "start": "2084-04-08",
+     "end": "2085-11-07"
+    },
+    {
+     "ad": "Mercury",
+     "start": "2085-11-07",
+     "end": "2087-04-09"
+    },
+    {
+     "ad": "Ketu",
+     "start": "2087-04-09",
+     "end": "2087-11-08"
+    },
+    {
+     "ad": "Venus",
+     "start": "2087-11-08",
+     "end": "2089-07-09"
+    },
+    {
+     "ad": "Sun",
+     "start": "2089-07-09",
+     "end": "2090-01-07"
+    }
+   ],
+   "Mars": [
+    {
+     "ad": "Mars",
+     "start": "2090-01-07",
+     "end": "2090-06-05"
+    },
+    {
+     "ad": "Rahu",
+     "start": "2090-06-05",
+     "end": "2091-06-24"
+    },
+    {
+     "ad": "Jupiter",
+     "start": "2091-06-24",
+     "end": "2092-05-30"
+    },
+    {
+     "ad": "Saturn",
+     "start": "2092-05-30",
+     "end": "2093-07-09"
+    },
+    {
+     "ad": "Mercury",
+     "start": "2093-07-09",
+     "end": "2094-07-06"
+    },
+    {
+     "ad": "Ketu",
+     "start": "2094-07-06",
+     "end": "2094-12-02"
+    },
+    {
+     "ad": "Venus",
+     "start": "2094-12-02",
+     "end": "2096-02-01"
+    },
+    {
+     "ad": "Sun",
+     "start": "2096-02-01",
+     "end": "2096-06-08"
+    },
+    {
+     "ad": "Moon",
+     "start": "2096-06-08",
+     "end": "2097-01-07"
+    }
+   ],
+   "Rahu": [
+    {
+     "ad": "Rahu",
+     "start": "2097-01-07",
+     "end": "2099-09-20"
+    },
+    {
+     "ad": "Jupiter",
+     "start": "2099-09-20",
+     "end": "2102-02-14"
+    },
+    {
+     "ad": "Saturn",
+     "start": "2102-02-14",
+     "end": "2104-12-21"
+    },
+    {
+     "ad": "Mercury",
+     "start": "2104-12-21",
+     "end": "2107-07-10"
+    },
+    {
+     "ad": "Ketu",
+     "start": "2107-07-10",
+     "end": "2108-07-28"
+    },
+    {
+     "ad": "Venus",
+     "start": "2108-07-28",
+     "end": "2111-07-28"
+    },
+    {
+     "ad": "Sun",
+     "start": "2111-07-28",
+     "end": "2112-06-21"
+    },
+    {
+     "ad": "Moon",
+     "start": "2112-06-21",
+     "end": "2113-12-21"
+    },
+    {
+     "ad": "Mars",
+     "start": "2113-12-21",
+     "end": "2115-01-08"
+    }
+   ]
+  }
+ },
+ "yogini_current_and_next": [
+  {
+   "yogini": "Sankata",
+   "planet": "Rahu",
+   "years": 8,
+   "start": "2022-01-04",
+   "end": "2030-01-04",
+   "current": true
+  },
+  {
+   "yogini": "Mangala",
+   "planet": "Moon",
+   "years": 1,
+   "start": "2030-01-04",
+   "end": "2031-01-04",
+   "current": false
+  },
+  {
+   "yogini": "Pingala",
+   "planet": "Sun",
+   "years": 2,
+   "start": "2031-01-04",
+   "end": "2033-01-04",
+   "current": false
+  }
+ ],
+ "chara_current_and_next": [
+  {
+   "sign": "Simha",
+   "years": 12,
+   "start": "2020-09-03",
+   "end": "2032-09-03"
+  },
+  {
+   "sign": "Kanya",
+   "years": 13,
+   "start": "2032-09-03",
+   "end": "2045-09-03"
+  },
+  {
+   "sign": "Tula",
+   "years": 9,
+   "start": "2045-09-03",
+   "end": "2054-09-04"
+  }
+ ],
+ "yogas_present": [
+  {
+   "name": "Raja (kendra-trikona lords)",
+   "fired": true,
+   "variant": "PyJHora/BVR: any association, no strength filter",
+   "conditions": {
+    "pairs": [
+     {
+      "pair": [
+       "Jupiter",
+       "Mars"
+      ],
+      "how": [
+       "mutual_aspect"
+      ],
+      "houses_owned": {
+       "Jupiter": [
+        9,
+        12
+       ],
+       "Mars": [
+        1,
+        8
+       ]
+      }
+     },
+     {
+      "pair": [
+       "Moon",
+       "Sun"
+      ],
+      "how": [
+       "mutual_aspect"
+      ],
+      "houses_owned": {
+       "Moon": [
+        4
+       ],
+       "Sun": [
+        5
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "name": "Viparita Raja (Harsha)",
+   "fired": true,
+   "variant": "popular: lord in any dusthana",
+   "conditions": {
+    "lord": "Mercury",
+    "lord_house": 6,
+    "strict_fired": true
+   }
+  },
+  {
+   "name": "Kemadruma",
+   "fired": true,
+   "variant": "no planet (ex Sun/nodes) in 2nd/12th from Moon",
+   "conditions": {
+    "cancelled": true,
+    "planet_kendra_from_moon": [
+     "Saturn"
+    ],
+    "planet_kendra_from_lagna": [
+     "Venus"
+    ],
+    "moon_in_kendra_from_lagna": false,
+    "jupiter_aspects_moon": true
+   }
+  },
+  {
+   "name": "Dhana (1/2/5/9/11 lords)",
+   "fired": true,
+   "variant": "any association between wealth-house lords",
+   "conditions": {
+    "pairs": [
+     {
+      "pair": [
+       "Jupiter",
+       "Mars"
+      ],
+      "how": [
+       "mutual_aspect"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "name": "Guru-Chandal",
+   "fired": true,
+   "variant": "Jupiter with Rahu",
+   "conditions": {
+    "with_ketu": false
+   }
+  }
+ ],
+ "yogas_checked_absent": [
+  "Gajakesari",
+  "Ruchaka",
+  "Bhadra",
+  "Hamsa",
+  "Malavya",
+  "Sasa",
+  "Yogakaraka present",
+  "Dharma-Karmadhipati",
+  "Viparita Raja (Sarala)",
+  "Viparita Raja (Vimala)",
+  "Budhaditya",
+  "Chandra-Mangala",
+  "Adhi",
+  "Amala",
+  "Vasumati",
+  "Sunapha",
+  "Anapha",
+  "Durudhara",
+  "Lakshmi",
+  "Saraswati",
+  "Parivartana",
+  "Shakata",
+  "Grahan",
+  "Shubha Kartari (lagna)",
+  "Papa Kartari (lagna)"
+ ],
+ "doshas": {
+  "manglik": {
+   "houses_used": [
+    1,
+    2,
+    4,
+    7,
+    8,
+    12
+   ],
+   "mars_house": {
+    "lagna": 9,
+    "moon": 11,
+    "venus": 6
+   },
+   "hits": {
+    "lagna": false,
+    "moon": false,
+    "venus": false
+   },
+   "is_manglik_any": false,
+   "count_refs": 0,
+   "drik_pct_from_lagna": 0,
+   "malefics_with_mars": [
+    "Ketu"
+   ],
+   "cancel_flags": {
+    "mars_own_or_exalted": false,
+    "mars_in_leo_aquarius": false,
+    "house_specific_sign": false,
+    "with_jupiter_or_venus": false,
+    "aspected_by_jupiter": true,
+    "mars_retro": false,
+    "mars_movable_sign": false,
+    "lagna_cancer_or_leo": false,
+    "mars_is_lagna_lord": true,
+    "mars_debilitated": false
+   },
+   "cancelled_any": true
+  },
+  "kaal_sarp": {
+   "mean": {
+    "degree_full": false,
+    "direction": null,
+    "degree_partial_one_out": false,
+    "outside_planets": [
+     "Moon",
+     "Saturn"
+    ],
+    "sign_mode_full": false,
+    "rahu_house": 3,
+    "name": "Vasuki"
+   },
+   "true": {
+    "degree_full": false,
+    "direction": null,
+    "degree_partial_one_out": false,
+    "outside_planets": [
+     "Moon",
+     "Saturn"
+    ],
+    "sign_mode_full": false,
+    "rahu_house": 3,
+    "name": "Vasuki"
+   }
+  },
+  "pitra": {
+   "flags": {
+    "sun_moon_rahu_in_9th": [],
+    "ketu_in_4th": false,
+    "lights_or_nodes_with_mars_saturn": [
+     "Ketu+Mars"
+    ],
+    "mer_ven_rahu_pair_in_2_5_9_12": [],
+    "sun_or_moon_with_node": [],
+    "sun_with_saturn": false,
+    "ninth_lord_with_malefic": [
+     "Rahu"
+    ]
+   },
+   "pyjhora_fired": true
+  },
+  "guru_chandal": true,
+  "shrapit": false,
+  "angarak": false,
+  "ghata": false,
+  "ganda_moola": false,
+  "sade_sati": {
+   "moon_sign": "Aquarius",
+   "saturn_now": "Pisces",
+   "current": [
+    "Sade Sati - setting (2nd)"
+   ],
+   "intervals": [
+    {
+     "phase": "Dhaiya - Kantaka (4th)",
+     "saturn_in": "Taurus",
+     "start": "2000-06-07",
+     "end": "2002-07-23",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Kantaka (4th)",
+     "saturn_in": "Taurus",
+     "start": "2003-01-08",
+     "end": "2003-04-07",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Ashtama (8th)",
+     "saturn_in": "Virgo",
+     "start": "2009-09-10",
+     "end": "2011-11-15",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Ashtama (8th)",
+     "saturn_in": "Virgo",
+     "start": "2012-05-16",
+     "end": "2012-08-04",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - rising (12th)",
+     "saturn_in": "Capricorn",
+     "start": "2020-01-24",
+     "end": "2022-04-29",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - peak (1st)",
+     "saturn_in": "Aquarius",
+     "start": "2022-04-29",
+     "end": "2022-07-12",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - rising (12th)",
+     "saturn_in": "Capricorn",
+     "start": "2022-07-12",
+     "end": "2023-01-17",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - peak (1st)",
+     "saturn_in": "Aquarius",
+     "start": "2023-01-17",
+     "end": "2025-03-29",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - setting (2nd)",
+     "saturn_in": "Pisces",
+     "start": "2025-03-29",
+     "end": "2027-06-03",
+     "current": true
+    },
+    {
+     "phase": "Sade Sati - setting (2nd)",
+     "saturn_in": "Pisces",
+     "start": "2027-10-20",
+     "end": "2028-02-23",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Kantaka (4th)",
+     "saturn_in": "Taurus",
+     "start": "2029-08-08",
+     "end": "2029-10-05",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Kantaka (4th)",
+     "saturn_in": "Taurus",
+     "start": "2030-04-17",
+     "end": "2032-05-31",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Ashtama (8th)",
+     "saturn_in": "Virgo",
+     "start": "2038-10-22",
+     "end": "2039-04-05",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Ashtama (8th)",
+     "saturn_in": "Virgo",
+     "start": "2039-07-13",
+     "end": "2041-01-28",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Ashtama (8th)",
+     "saturn_in": "Virgo",
+     "start": "2041-02-06",
+     "end": "2041-09-26",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - rising (12th)",
+     "saturn_in": "Capricorn",
+     "start": "2049-03-06",
+     "end": "2049-07-10",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - rising (12th)",
+     "saturn_in": "Capricorn",
+     "start": "2049-12-04",
+     "end": "2052-02-25",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - peak (1st)",
+     "saturn_in": "Aquarius",
+     "start": "2052-02-25",
+     "end": "2054-05-14",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - setting (2nd)",
+     "saturn_in": "Pisces",
+     "start": "2054-05-14",
+     "end": "2054-09-02",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - peak (1st)",
+     "saturn_in": "Aquarius",
+     "start": "2054-09-02",
+     "end": "2055-02-05",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - setting (2nd)",
+     "saturn_in": "Pisces",
+     "start": "2055-02-05",
+     "end": "2057-04-07",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Kantaka (4th)",
+     "saturn_in": "Taurus",
+     "start": "2059-05-27",
+     "end": "2061-07-11",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Kantaka (4th)",
+     "saturn_in": "Taurus",
+     "start": "2062-02-13",
+     "end": "2062-03-07",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Ashtama (8th)",
+     "saturn_in": "Virgo",
+     "start": "2068-08-30",
+     "end": "2070-11-04",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - rising (12th)",
+     "saturn_in": "Capricorn",
+     "start": "2079-01-15",
+     "end": "2081-04-12",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - peak (1st)",
+     "saturn_in": "Aquarius",
+     "start": "2081-04-12",
+     "end": "2081-08-03",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - rising (12th)",
+     "saturn_in": "Capricorn",
+     "start": "2081-08-03",
+     "end": "2082-01-07",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - peak (1st)",
+     "saturn_in": "Aquarius",
+     "start": "2082-01-07",
+     "end": "2084-03-20",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - setting (2nd)",
+     "saturn_in": "Pisces",
+     "start": "2084-03-20",
+     "end": "2086-05-21",
+     "current": false
+    },
+    {
+     "phase": "Sade Sati - setting (2nd)",
+     "saturn_in": "Pisces",
+     "start": "2086-11-10",
+     "end": "2087-02-08",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Kantaka (4th)",
+     "saturn_in": "Taurus",
+     "start": "2088-07-18",
+     "end": "2088-10-31",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Kantaka (4th)",
+     "saturn_in": "Taurus",
+     "start": "2089-04-05",
+     "end": "2090-09-19",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Kantaka (4th)",
+     "saturn_in": "Taurus",
+     "start": "2090-10-25",
+     "end": "2091-05-21",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Ashtama (8th)",
+     "saturn_in": "Virgo",
+     "start": "2097-10-11",
+     "end": "2098-05-02",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Ashtama (8th)",
+     "saturn_in": "Virgo",
+     "start": "2098-06-20",
+     "end": "2099-12-26",
+     "current": false
+    },
+    {
+     "phase": "Dhaiya - Ashtama (8th)",
+     "saturn_in": "Virgo",
+     "start": "2100-03-17",
+     "end": "2100-09-16",
+     "current": false
+    }
+   ]
+  }
+ },
+ "transits_2026_11_03": {
+  "Sun": {
+   "sign": "Libra",
+   "deg": 16.6,
+   "retro": false,
+   "house_from_lagna": 7,
+   "house_from_moon": 9
+  },
+  "Moon": {
+   "sign": "Leo",
+   "deg": 4.7,
+   "retro": false,
+   "house_from_lagna": 5,
+   "house_from_moon": 7
+  },
+  "Mars": {
+   "sign": "Cancer",
+   "deg": 25.5,
+   "retro": false,
+   "house_from_lagna": 4,
+   "house_from_moon": 6
+  },
+  "Mercury": {
+   "sign": "Libra",
+   "deg": 19.7,
+   "retro": true,
+   "house_from_lagna": 7,
+   "house_from_moon": 9
+  },
+  "Jupiter": {
+   "sign": "Leo",
+   "deg": 0.4,
+   "retro": false,
+   "house_from_lagna": 5,
+   "house_from_moon": 7
+  },
+  "Venus": {
+   "sign": "Libra",
+   "deg": 1.0,
+   "retro": true,
+   "house_from_lagna": 7,
+   "house_from_moon": 9
+  },
+  "Saturn": {
+   "sign": "Pisces",
+   "deg": 14.9,
+   "retro": true,
+   "house_from_lagna": 12,
+   "house_from_moon": 2
+  },
+  "Rahu": {
+   "sign": "Aquarius",
+   "house_from_lagna": 11,
+   "house_from_moon": 1
+  }
+ },
+ "jupiter_ingresses_next_6y": [
+  [
+   "2027-01-26",
+   "Cancer",
+   4
+  ],
+  [
+   "2027-06-27",
+   "Leo",
+   5
+  ],
+  [
+   "2027-11-28",
+   "Virgo",
+   6
+  ],
+  [
+   "2028-03-01",
+   "Leo",
+   5
+  ],
+  [
+   "2028-07-25",
+   "Virgo",
+   6
+  ],
+  [
+   "2028-12-28",
+   "Libra",
+   7
+  ],
+  [
+   "2029-03-30",
+   "Virgo",
+   6
+  ],
+  [
+   "2029-08-25",
+   "Libra",
+   7
+  ],
+  [
+   "2030-01-26",
+   "Scorpio",
+   8
+  ],
+  [
+   "2030-05-02",
+   "Libra",
+   7
+  ],
+  [
+   "2030-09-23",
+   "Scorpio",
+   8
+  ],
+  [
+   "2031-02-18",
+   "Sagittarius",
+   9
+  ],
+  [
+   "2031-06-14",
+   "Scorpio",
+   8
+  ],
+  [
+   "2031-10-16",
+   "Sagittarius",
+   9
+  ],
+  [
+   "2032-03-06",
+   "Capricorn",
+   10
+  ],
+  [
+   "2032-08-13",
+   "Sagittarius",
+   9
+  ],
+  [
+   "2032-10-24",
+   "Capricorn",
+   10
+  ]
+ ],
+ "saturn_ingresses_next_6y": [
+  [
+   "2027-06-03",
+   "Aries",
+   1
+  ],
+  [
+   "2027-10-21",
+   "Pisces",
+   12
+  ],
+  [
+   "2028-02-24",
+   "Aries",
+   1
+  ],
+  [
+   "2029-08-09",
+   "Taurus",
+   2
+  ],
+  [
+   "2029-10-06",
+   "Aries",
+   1
+  ],
+  [
+   "2030-04-18",
+   "Taurus",
+   2
+  ],
+  [
+   "2032-05-31",
+   "Gemini",
+   3
+  ]
+ ]
+}

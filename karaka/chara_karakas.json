@@ -1,0 +1,632 @@
+[
+  {
+    "id": "karaka/atmakaraka",
+    "layer": "karaka",
+    "key": {
+      "role": "Atmakaraka"
+    },
+    "summary": "The Atmakaraka is the planet with the highest degree within its sign; it stands for the self or soul and is the 'king' of the chart, whose condition colours the whole horoscope and governs bondage and liberation.",
+    "themes": [
+      "self",
+      "soul",
+      "chart's overall strength",
+      "bondage and liberation",
+      "spiritual path"
+    ],
+    "determination": "Rank the seven planets Sun to Saturn by degrees travelled within their own sign (sign ignored; ties broken by minutes, then seconds); highest = Atmakaraka, then Amatya, Bhratri, Matri, Putra, Gnati and lowest = Darakaraka (7-karaka scheme, the one the calculator uses). In the 8-karaka scheme Rahu is added (its degrees counted back from the end of its sign) and a Pitrikaraka (father) is inserted after the Matrikaraka, so every role below Matrikaraka can fall on a different planet. Sources: 7-karaka with Rahu only as a tie-filler - BPHS 32.1-2 first view, B. Suryanarain Rao, B.V. Raman, Prabhakara Murthy, K.N. Rao (via summary); 8-karaka - BPHS 32.1-2 second view and Santhanam's worked example, Abhyankar's text of Jaimini 1.1.10-18, P.V.R. Narasimha Rao, Sanjay Rath (8 for living beings, 7 for mundane charts). The Atmakaraka is the highest-degree planet. Under the 7-karaka scheme it is always one of Sun to Saturn; under the 8-karaka scheme Rahu can be Atmakaraka when it is near the start of its sign.",
+    "significations": [
+      "the native's self and soul (Jaimini 1.1.10-11 Abhyankar numbering; BPHS 32.3-8)",
+      "bondage and release - misery and happiness (Jaimini 1.1.11 Abhyankar / 1.1.12 B.S. Rao)",
+      "the main reference point for the karakamsa (its navamsa sign) and for raja yogas, sustenance and spiritual progress"
+    ],
+    "common_outcomes": [
+      "A strong, well-placed Atmakaraka lifts the whole chart; a weak one limits it (Raman art. 8; Murthy ch. 2).",
+      "If the Atmakaraka is favourable, the other karakas cannot impose their bad effects fully; if it is adverse, they cannot give their good effects fully (BPHS 32.9-12).",
+      "The planet's own nature describes the native's inner drive and the lesson the soul works on (Rath)."
+    ],
+    "rare_outcomes": [
+      "Rahu as Atmakaraka (8-karaka scheme only): Rath cites it in the charts of Srila Prabhupada and Ramakrishna; P.V.R. Narasimha Rao (8.2) says it can show a saint on one side or a revolutionary or outcast on the other.",
+      "Exalted Atmakaraka with only benefic influence is read by B. Suryanarain Rao as pointing to final liberation (moksha)."
+    ],
+    "by_area": {
+      "personality": "Murthy ch. 2: Sun as AK - courageous and enduring; Moon - bright and adaptable; Mars - bold, adventurous; Mercury - intelligent, drawn to material gain; Jupiter - self-confident, ambitious; Venus - gentle, fond of comforts; Saturn - principled, hard-working, prospers later. Rath: Sun must overcome ego; Moon be caring; Mars avoid violence; Mercury keep speech truthful; Jupiter respect teachers and care for children; Venus keep clean character; Saturn share others' sorrows; Rahu stay guileless though often deceived.",
+      "career": "Uttara Kalamrita ch. 4: the most-advanced planet joined by the Sun gives an adviser at court; by full Moon and Venus a wealthy scholar; by Mars a soldier, commander or metal-worker; by Mercury a sculptor or trader; by Jupiter one skilled in Vedic rites; by Saturn many activities; by Rahu/Ketu work with poisons or metals. PVR 11.8: AK and Amatyakaraka together make one a minister; AK in own or exaltation sign in a kendra or trikona aspecting the 9th lord is a further royal yoga. Abhyankar intro: Sun as AK makes one fit for government service.",
+      "finance": "",
+      "health": "Raman art. 129: the native is generally healthy if the AK is free of malefic conjunction and aspect; afflictions to the 6th from the AK's sign and from the karakamsa count more than those to the 6th from the lagna.",
+      "relationships": "Murthy ch. 10: the elemental nature and mutual friendship of the Atmakaraka and Darakaraka show harmony between the spouses.",
+      "family": "",
+      "spirituality": "Jaimini 1.1.11: the AK rules bondage and liberation. B.S. Rao: exalted or benefic-joined AK gives release, residence in holy places and moksha; debilitated or malefic-joined AK gives confinement and denies moksha unless benefics aspect. Rath: a malefic AK suggests a more advanced soul than a benefic one; a combust AK gives spiritual insight; a retrograde AK shows a deep-rooted desire behind the birth. PVR 14.3: the lord of the 8th from the AK (Maheswara) shows the channels through which the soul seeks liberation."
+    },
+    "strengtheners": [
+      "exaltation, moolatrikona, own or friendly sign (Murthy ch. 2; B.S. Rao on 1.1.12)",
+      "benefic conjunction or aspect (B.S. Rao on 1.1.12)",
+      "conjunction with the Putrakaraka or Amatyakaraka for raja yoga (PVR 11.7.3, 11.8; Murthy ch. 7)",
+      "benefics with the AK or in trines from it increase longevity class (kaksha vriddhi) (Raman art. 115)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation, combustion or an inimical sign (Murthy ch. 2) - though Rath reads combustion of the AK as giving spiritual insight",
+      "malefic conjunction or aspect (B.S. Rao on 1.1.12; Raman art. 129)"
+    ],
+    "lagna_or_context_notes": "Rath counts the sign of the AK from the navamsa lagna: 1st - noble standing, rise from humble birth if the navamsa lagna lord joins the AK; 2nd - deeply spiritual; 3rd - wealth and powerful friends; 4th - a karma yogi; 5th - dharmic and protected by the father's blessings; 6th - disease and trouble; 7th - clean heart and many joys; 8th - many troubles; 9th - pious and fortunate; 10th - a pillar of family; 11th - brave and successful; 12th - very rich. Raman art. 127: the 5th lord aspecting the AK gives high intelligence; the 4th lord aspecting it a happy life; the 12th lord aspecting it a spendthrift.",
+    "timing": [
+      "Rath: the Vimshottari dasa of the AK often brings hardship, especially when the AK is a malefic, but can be helpful to spiritually inclined natives; the Narayana dasa of the AK's sign, or of signs aspecting it, brings major achievement.",
+      "Raman art. 112: Jaimini's third longevity method uses the stronger of the 8th lord from the AK and the 8th lord from the 7th from the AK; AK in the 9th from lagna swaps short and full life.",
+      "PVR 16.5.1: the Vimshottari period of an exalted planet in the 12th from the AK in the navamsa can bring serious thoughts of liberation.",
+      "PVR 14.3 / Raman art. 38: Maheswara, the 8th lord from the AK (with exceptions when Rahu or Ketu join it), is used in longevity and liberation analysis."
+    ],
+    "karakamsa": "The navamsa sign holding the Atmakaraka is the karakamsa (BPHS 33.1 note; Jaimini 1.2.1); see karaka/karakamsha_<sign>.",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 32.1-2, 32.13-17",
+        "view": "Karakas are taken from the seven planets Sun to Saturn; some add Rahu only when two planets share the same longitude, others always count eight including Rahu. The eight in order are Atma, Amatya, Bhratri, Matri, Pitri, Putra, Gnati and Stree (Dara) karaka; some treat Matri and Putra karaka as one. If two planets tie, one role is left short and the constant significator is used for it. These are chara (variable) karakas.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 32.3-8",
+        "view": "Among Sun etc., the one that has crossed the most degrees in its sign is the Atmakaraka; ties go by minutes, then seconds; Rahu's degrees are counted from 30. The AK is the most important karaka and rules the native as a king rules his country, able to bind and release.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 32.9-12",
+        "view": "As a minister cannot oppose the king, the other karakas cannot override the AK: an adverse AK blocks the others' good effects and a favourable AK blocks their evil.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.1.10-11",
+        "view": "The planet most advanced in degrees is the chief significator; it rules a person's bondage and liberation (misery and happiness).",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.1.11-12",
+        "view": "Of seven planets Sun to Saturn, or eight Sun to Rahu, the one with the highest degrees is AK; it gives good or bad results through its dignity and associations.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B. Suryanarain Rao, notes to his Jaimini Sutras (1955 ed.) on 1.1.12",
+        "view": "Exalted or benefic-joined AK: release even if confined, life in holy places and moksha; debilitated or malefic-joined AK: confinement and no moksha unless benefic aspect relieves it.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "Uttara Kalamrita ch. 4 (tr. P.S. Sastri)",
+        "view": "The planet that has crossed the most degrees in a sign is the 'advanced' planet; with the Sun - royal adviser; full Moon and Venus - wealthy scholar; Mars - soldier or metal-worker; Mercury - sculptor or trader; Jupiter - Vedic ritualist; Venus - long life and affairs; Saturn - varied activity; Rahu/Ketu - poisons and metal works. Malefic in the 3rd from it gives courage, benefic timidity. (Verse numbers not legible in the scan.)",
+        "url": "https://archive.org/details/kupdf.net_uttkalamrita-kalidas-ps-sastri"
+      },
+      {
+        "source": "P.S. Sastri, notes to Uttara Kalamrita ch. 4",
+        "view": "Sastri identifies this as Jaimini's Atmakaraka and objects that Kalidasa reads it from the rasi only, whereas Jaimini judges it from its navamsa (the karakamsa).",
+        "url": "https://archive.org/details/kupdf.net_uttkalamrita-kalidas-ps-sastri"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 8, 15-16",
+        "view": "The highest-degree planet is AK; its strength reflects the strength of the whole chart; the natural AK is the Sun. Raman follows seven karakas with Rahu only as a gap-filler when planets tie, calling it the view supported by Parasara.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 8.1-8.2",
+        "view": "Eight chara karakas (seven planets plus Rahu, Ketu excluded as he signifies moksha); they show people and matters affecting sustenance, achievement and spiritual progress, and how karma carries between lives. The AK throws light on the inner self.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 2",
+        "view": "Seven karakas; Rahu only fills a vacancy when planets tie, never as AK in the 7-karaka scheme. Strength of AK decides strength of chart; strong in exaltation, moolatrikona, own and friendly signs; weak in debility, combustion and enemy signs. Gives the traits of each planet as AK.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka & Karakamsa' (srath.com)",
+        "view": "The AK's nature shows the soul's nature; a malefic AK indicates higher spiritual development; retrograde AK shows a deep desire behind the birth; combust AK gives spiritual insight; gives a lesson for each planet as AK and results of the AK counted from the navamsa lagna; AK's Vimshottari dasa often brings suffering, its Narayana dasa achievement.",
+        "url": "https://srath.com/2011/03/atmakaraka-karakamsa/"
+      },
+      {
+        "source": "Sanjay Rath, 'Atmakaraka II: Bhagavat Gita' (srath.com)",
+        "view": "Seven planets Sun to Saturn suffice for mundane charts; living, procreating beings use eight with Rahu (Ketu excluded).",
+        "url": "https://srath.com/?p=1175"
+      },
+      {
+        "source": "K.N. Rao (via summary: Sri Harsha Indrasena, 'Chara Karaka Scheme - No longer A Mystery', Saptarishis Astrology, 2009)",
+        "view": "K.N. Rao is reported to use seven karakas always, with no Pitrikaraka.",
+        "url": "https://saptarishisshop.com/?p=28332"
+      }
+    ],
+    "disagreements": "7- vs 8-karaka: BPHS 32.1-2 records both views without choosing; Jaimini 1.1.19 says some authorities merge mother and son karakas. Abhyankar's text lists eight (with Pitrikaraka) and reads 1.1.19 as the seven-planet alternative; B. Suryanarain Rao's text has no Pitrikaraka sutra at all and uses Rahu only to fill gaps when planets tie; Raman, Murthy and K.N. Rao (via summary) use seven; P.V.R. Narasimha Rao and Sanjay Rath use eight (Rath: eight for living beings, seven for mundane charts). The choice changes which planet holds the middle and lower roles. Rahu as AK: possible only in the 8-karaka scheme (PVR, Rath); Murthy rules it out for the 7-karaka scheme. Natural AK: Raman names the Sun. Malefic AK: Rath reads it as spiritually more advanced, while B.S. Rao reads malefic influence on the AK as bondage. Uttara Kalamrita reads the AK's results from the rasi; Jaimini and Sastri from the navamsa.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe the Atmakaraka as the planet that shows the person's core drive and life lessons. Do not call a malefic or weak AK bad luck; frame it as the area of growth. Avoid predictions of imprisonment, death or moksha as certainties."
+  },
+  {
+    "id": "karaka/amatyakaraka",
+    "layer": "karaka",
+    "key": {
+      "role": "Amatyakaraka"
+    },
+    "summary": "The Amatyakaraka is the planet with the second-highest degree; as the 'minister' to the Atmakaraka it shows counsel, career and the means by which the native rises.",
+    "themes": [
+      "career",
+      "advisers",
+      "status",
+      "minister to the self"
+    ],
+    "determination": "Rank the seven planets Sun to Saturn by degrees travelled within their own sign (sign ignored; ties broken by minutes, then seconds); highest = Atmakaraka, then Amatya, Bhratri, Matri, Putra, Gnati and lowest = Darakaraka (7-karaka scheme, the one the calculator uses). In the 8-karaka scheme Rahu is added (its degrees counted back from the end of its sign) and a Pitrikaraka (father) is inserted after the Matrikaraka, so every role below Matrikaraka can fall on a different planet. Sources: 7-karaka with Rahu only as a tie-filler - BPHS 32.1-2 first view, B. Suryanarain Rao, B.V. Raman, Prabhakara Murthy, K.N. Rao (via summary); 8-karaka - BPHS 32.1-2 second view and Santhanam's worked example, Abhyankar's text of Jaimini 1.1.10-18, P.V.R. Narasimha Rao, Sanjay Rath (8 for living beings, 7 for mundane charts). The Amatyakaraka is second in degrees. Adding Rahu (8-karaka) can change it when Rahu's counted-back degrees fall above the 7-karaka Amatyakaraka.",
+    "significations": [
+      "ministers and advisers (Jaimini 1.1.12 Abhyankar / 1.1.13 B.S. Rao; PVR 8.2)",
+      "profession (P.S. Sastri on Uttara Kalamrita ch. 4)",
+      "career elevation and social status (Murthy ch. 10)"
+    ],
+    "common_outcomes": [
+      "A strong, well-aspected Amatyakaraka can make one a counsellor or minister; a weak, afflicted one an adviser who brings disgrace (B.S. Rao on 1.1.13).",
+      "Links between the Amatyakaraka and the 10th lord or Atmakaraka are read as yogas for high position (PVR 11.8)."
+    ],
+    "rare_outcomes": [
+      "Devotion: BPHS ch. 33 (12th-from-karakamsa section) and Jaimini 1.2.82 say the deity rules can also be read from the 6th from the Amatyakaraka's navamsa (B.S. Rao: the 6th planet from it in weekday order); Raman art. 142 says similar results follow if the Amatyakaraka is in the karakamsa."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "PVR 11.8: 10th lord conjoined or aspected by the AmK or its dispositor - an important person at court; AK with AmK - very intelligent, a minister; AmK very strong in own or exaltation sign - a minister; AmK in a trine from lagna - a famous minister; AmK in a kendra or trine from the AK - an associate liked by the ruler. P.S. Sastri: Kalidasa's rule that the planet next to the most advanced decides profession matches Jaimini's Amatyakaraka. Murthy ch. 10: important for elevation in employment and social status.",
+      "finance": "",
+      "health": "",
+      "relationships": "Murthy ch. 10: the Amatyakaraka plays an important role in marriage.",
+      "family": "Murthy ch. 10: the Amatyakaraka plays a role in childbirth.",
+      "spirituality": "BPHS ch. 33 and Jaimini 1.2.82: rules for the deity worshipped can also be applied from the 6th from the Amatyakaraka's navamsa."
+    },
+    "strengtheners": [
+      "own or exaltation sign (PVR 11.8)",
+      "conjunction with the Atmakaraka (PVR 11.8)",
+      "trine from lagna, or kendra/trine from the AK (PVR 11.8)",
+      "good combination and aspect (B.S. Rao on 1.1.13)"
+    ],
+    "weakeners_or_cancellations": [
+      "debility, evil combination and malefic aspect - an adviser who brings disgrace (B.S. Rao on 1.1.13)"
+    ],
+    "lagna_or_context_notes": "Raman art. 9: there is no natural (naisargika) Amatyakaraka, but Mercury may be taken as such.",
+    "timing": [
+      "Murthy ch. 10: important in timing marriage, childbirth and job elevation (no specific dasa rule given)."
+    ],
+    "karakamsa": "Raman art. 142: if the Amatyakaraka is in the karakamsa, the deity-worship results of the karakamsa apply similarly.",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 32.1-2, 32.13-17",
+        "view": "Karakas are taken from the seven planets Sun to Saturn; some add Rahu only when two planets share the same longitude, others always count eight including Rahu. The eight in order are Atma, Amatya, Bhratri, Matri, Pitri, Putra, Gnati and Stree (Dara) karaka; some treat Matri and Putra karaka as one. If two planets tie, one role is left short and the constant significator is used for it. These are chara (variable) karakas.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.1.12",
+        "view": "The planet next to the chief significator is the minister significator (Amatyakaraka).",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.1.13 (with notes)",
+        "view": "Next in degrees to the AK is the Amatyakaraka; when powerful and well aspected the person becomes a great minister or councillor, when debilitated and afflicted an evil adviser who disgraces himself and those he advises.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.2.82 (with notes)",
+        "view": "Read as 'likewise from the Amatyakaraka': B.S. Rao takes the 6th planet from the AmK (weekday order) in an evil karakamsa as devotion to lower spirits.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.2.82",
+        "view": "Abhyankar instead reads this sutra as applying the deity rules to the 6th house from the Atmakaraka's division.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 33 (vv. 63-74 section)",
+        "view": "Ends the deity rules for the 12th from the karakamsa by saying similar inferences come from the 6th navamsa counted from the Amatyakaraka's navamsa.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "P.S. Sastri, notes to Uttara Kalamrita ch. 4",
+        "view": "Kalidasa's planet next below the most advanced one, which he says decides profession, is Jaimini's Amatyakaraka.",
+        "url": "https://archive.org/details/kupdf.net_uttkalamrita-kalidas-ps-sastri"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 9, 142",
+        "view": "The planet with the next highest degrees is the sub-lord; no natural AmK but Mercury may serve; AmK in karakamsa repeats the deity results.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 8.2, 11.8",
+        "view": "AmK shows advisers and counsellors: intellectuals when strong, indecisive people when weak; gives the court/minister yogas listed above.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 2, ch. 10",
+        "view": "Second-highest planet; plays an important role in marriage, child birth, elevation in employment and social status.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "7- vs 8-karaka: BPHS 32.1-2 records both views without choosing; Jaimini 1.1.19 says some authorities merge mother and son karakas. Abhyankar's text lists eight (with Pitrikaraka) and reads 1.1.19 as the seven-planet alternative; B. Suryanarain Rao's text has no Pitrikaraka sutra at all and uses Rahu only to fill gaps when planets tie; Raman, Murthy and K.N. Rao (via summary) use seven; P.V.R. Narasimha Rao and Sanjay Rath use eight (Rath: eight for living beings, seven for mundane charts). The choice changes which planet holds the middle and lower roles. Jaimini 1.2.82 is read by B.S. Rao as 'from the Amatyakaraka' and by Abhyankar as 'from the 6th house'; BPHS ch. 33 supports the Amatyakaraka reading.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present the Amatyakaraka as the planet describing the kind of work and support that helps the person rise. Avoid promising ministerial office; speak of leadership, advisory or service roles."
+  },
+  {
+    "id": "karaka/bhratrikaraka",
+    "layer": "karaka",
+    "key": {
+      "role": "Bhratrikaraka"
+    },
+    "summary": "The Bhratrikaraka is the third-highest planet by degree and signifies brothers and sisters; some read it also for courage and manliness.",
+    "themes": [
+      "siblings",
+      "courage",
+      "co-borns"
+    ],
+    "determination": "Rank the seven planets Sun to Saturn by degrees travelled within their own sign (sign ignored; ties broken by minutes, then seconds); highest = Atmakaraka, then Amatya, Bhratri, Matri, Putra, Gnati and lowest = Darakaraka (7-karaka scheme, the one the calculator uses). In the 8-karaka scheme Rahu is added (its degrees counted back from the end of its sign) and a Pitrikaraka (father) is inserted after the Matrikaraka, so every role below Matrikaraka can fall on a different planet. Sources: 7-karaka with Rahu only as a tie-filler - BPHS 32.1-2 first view, B. Suryanarain Rao, B.V. Raman, Prabhakara Murthy, K.N. Rao (via summary); 8-karaka - BPHS 32.1-2 second view and Santhanam's worked example, Abhyankar's text of Jaimini 1.1.10-18, P.V.R. Narasimha Rao, Sanjay Rath (8 for living beings, 7 for mundane charts). The Bhratrikaraka is third in degrees.",
+    "significations": [
+      "brothers and sisters (Jaimini 1.1.13 Abhyankar / 1.1.14 B.S. Rao; Raman art. 10; PVR 8.2)",
+      "valour and manliness (P.S. Sastri on Uttara Kalamrita ch. 4)"
+    ],
+    "common_outcomes": [
+      "Exalted, well-joined and well-aspected Bhratrikaraka: many brothers who prosper (B.S. Rao on 1.1.14).",
+      "Debilitated, malefic-joined or badly aspected Bhratrikaraka: harm to brothers - none, or ones who suffer (B.S. Rao on 1.1.14)."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "P.S. Sastri: Kalidasa's planet next below the Amatyakaraka decides valour and manliness.",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "Raman art. 10: all events concerning brothers and sisters are read from the Bhratrikaraka; art. 132: the number of siblings may be judged from the navamsas gained by the 3rd and 11th houses or by the Bhratrikaraka.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "exaltation, good combination and benefic aspect (B.S. Rao on 1.1.14)"
+    ],
+    "weakeners_or_cancellations": [
+      "debility, conjunction with malefics, malefic aspect (B.S. Rao on 1.1.14)"
+    ],
+    "lagna_or_context_notes": "Natural significator of siblings is Mars (Raman art. 10); Jaimini 1.1.20 assigns sisters, brothers-in-law, younger brothers (and mother) to Mars; Raman art. 132 reads younger and elder siblings from the 3rd and 11th from the Upapada.",
+    "timing": [],
+    "karakamsa": "",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 32.1-2, 32.13-17",
+        "view": "Karakas are taken from the seven planets Sun to Saturn; some add Rahu only when two planets share the same longitude, others always count eight including Rahu. The eight in order are Atma, Amatya, Bhratri, Matri, Pitri, Putra, Gnati and Stree (Dara) karaka; some treat Matri and Putra karaka as one. If two planets tie, one role is left short and the constant significator is used for it. These are chara (variable) karakas.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.1.13",
+        "view": "The planet next to the Amatyakaraka is the significator of the brother.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.1.14 (with notes)",
+        "view": "Next in degrees after the AmK; debilitated, malefic-joined BK ruins brothers, exalted and well-aspected BK gives many prosperous brothers.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "P.S. Sastri, notes to Uttara Kalamrita ch. 4",
+        "view": "The planet next lower than the Amatyakaraka is said by Kalidasa to decide valour and manliness.",
+        "url": "https://archive.org/details/kupdf.net_uttkalamrita-kalidas-ps-sastri"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 10, 132",
+        "view": "BK becomes lord of brothers; all events about brothers and sisters are read from it; Mars is the natural significator.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 8.2",
+        "view": "Third in the order of eight; signifies siblings.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 2",
+        "view": "Third-highest planet in the 7-karaka list.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "7- vs 8-karaka: BPHS 32.1-2 records both views without choosing; Jaimini 1.1.19 says some authorities merge mother and son karakas. Abhyankar's text lists eight (with Pitrikaraka) and reads 1.1.19 as the seven-planet alternative; B. Suryanarain Rao's text has no Pitrikaraka sutra at all and uses Rahu only to fill gaps when planets tie; Raman, Murthy and K.N. Rao (via summary) use seven; P.V.R. Narasimha Rao and Sanjay Rath use eight (Rath: eight for living beings, seven for mundane charts). The choice changes which planet holds the middle and lower roles.",
+    "confidence": "medium",
+    "phrasing_guidance": "Talk about the quality of sibling relationships and support; never predict a sibling's death or absence of siblings from this alone."
+  },
+  {
+    "id": "karaka/matrikaraka",
+    "layer": "karaka",
+    "key": {
+      "role": "Matrikaraka"
+    },
+    "summary": "The Matrikaraka is the fourth-highest planet by degree and signifies the mother; in the 7-karaka tradition it may also stand for children.",
+    "themes": [
+      "mother",
+      "nurture"
+    ],
+    "determination": "Rank the seven planets Sun to Saturn by degrees travelled within their own sign (sign ignored; ties broken by minutes, then seconds); highest = Atmakaraka, then Amatya, Bhratri, Matri, Putra, Gnati and lowest = Darakaraka (7-karaka scheme, the one the calculator uses). In the 8-karaka scheme Rahu is added (its degrees counted back from the end of its sign) and a Pitrikaraka (father) is inserted after the Matrikaraka, so every role below Matrikaraka can fall on a different planet. Sources: 7-karaka with Rahu only as a tie-filler - BPHS 32.1-2 first view, B. Suryanarain Rao, B.V. Raman, Prabhakara Murthy, K.N. Rao (via summary); 8-karaka - BPHS 32.1-2 second view and Santhanam's worked example, Abhyankar's text of Jaimini 1.1.10-18, P.V.R. Narasimha Rao, Sanjay Rath (8 for living beings, 7 for mundane charts). The Matrikaraka is fourth in degrees. Jaimini 1.1.19 and BPHS 32.13-17 record a view that the mother and son karakas are one planet.",
+    "significations": [
+      "the mother (Jaimini 1.1.14 Abhyankar / 1.1.15 B.S. Rao; BPHS 32.13-17; Raman art. 11)",
+      "children as well, for those who merge the mother and son karakas (Jaimini 1.1.19; BPHS 32.13-17)"
+    ],
+    "common_outcomes": [
+      "Raman art. 131: a well-disposed 4th from the Arudha Lagna together with a good Matrikaraka is needed for a good and long-lived mother."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "Mother's welfare is judged from the Matrikaraka with the 4th from the Arudha Lagna (Raman art. 131). B.S. Rao on 1.1.19: where mother and son karakas merge, the planet next after the Bhratrikaraka speaks for both mother and children.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "good disposition of the Matrikaraka and of the 4th from the Arudha Lagna (Raman art. 131)"
+    ],
+    "weakeners_or_cancellations": [
+      "affliction to the Matrikaraka (Raman art. 131, worked example)"
+    ],
+    "lagna_or_context_notes": "Natural significator of the mother is the Moon (Raman art. 11); BPHS 32.18-21 gives the stronger of Moon and Mars as the constant significator of the mother; Jaimini 1.1.20 also lists the mother under Mars.",
+    "timing": [],
+    "karakamsa": "",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 32.1-2, 32.13-17",
+        "view": "Karakas are taken from the seven planets Sun to Saturn; some add Rahu only when two planets share the same longitude, others always count eight including Rahu. The eight in order are Atma, Amatya, Bhratri, Matri, Pitri, Putra, Gnati and Stree (Dara) karaka; some treat Matri and Putra karaka as one. If two planets tie, one role is left short and the constant significator is used for it. These are chara (variable) karakas.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.1.14, 1.1.19",
+        "view": "The planet next to the brother's significator signifies the mother; some scholars take the mother's significator as the son's too, counting seven karakas.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.1.15, 1.1.19 (with notes)",
+        "view": "Next after BK is the Matrikaraka; some authorities let one planet represent mother and children.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 32.18-21",
+        "view": "Constant significators: the stronger of Sun and Venus for the father, of Moon and Mars for the mother.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 11, 131",
+        "view": "Planet with next highest degrees is the lord of the mother; Moon is the natural karaka; MK and the 4th from Arudha Lagna together judge the mother's welfare.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 8.2",
+        "view": "Fourth in the order of eight; signifies the mother.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 2",
+        "view": "Fourth-highest planet in the 7-karaka list.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "7- vs 8-karaka: BPHS 32.1-2 records both views without choosing; Jaimini 1.1.19 says some authorities merge mother and son karakas. Abhyankar's text lists eight (with Pitrikaraka) and reads 1.1.19 as the seven-planet alternative; B. Suryanarain Rao's text has no Pitrikaraka sutra at all and uses Rahu only to fill gaps when planets tie; Raman, Murthy and K.N. Rao (via summary) use seven; P.V.R. Narasimha Rao and Sanjay Rath use eight (Rath: eight for living beings, seven for mundane charts). The choice changes which planet holds the middle and lower roles. Whether the Matrikaraka also signifies children (merged scheme) or a separate Putrakaraka is used is itself the point of Jaimini 1.1.19.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of the bond with and support from the mother; never predict a mother's illness or death from the karaka alone."
+  },
+  {
+    "id": "karaka/putrakaraka",
+    "layer": "karaka",
+    "key": {
+      "role": "Putrakaraka"
+    },
+    "summary": "The Putrakaraka is the fifth planet by degree in the 7-karaka scheme (sixth in the 8-karaka) and signifies children; with the Atmakaraka it forms a key raja yoga.",
+    "themes": [
+      "children",
+      "followers",
+      "creative legacy",
+      "raja yoga with the Atmakaraka"
+    ],
+    "determination": "Rank the seven planets Sun to Saturn by degrees travelled within their own sign (sign ignored; ties broken by minutes, then seconds); highest = Atmakaraka, then Amatya, Bhratri, Matri, Putra, Gnati and lowest = Darakaraka (7-karaka scheme, the one the calculator uses). In the 8-karaka scheme Rahu is added (its degrees counted back from the end of its sign) and a Pitrikaraka (father) is inserted after the Matrikaraka, so every role below Matrikaraka can fall on a different planet. Sources: 7-karaka with Rahu only as a tie-filler - BPHS 32.1-2 first view, B. Suryanarain Rao, B.V. Raman, Prabhakara Murthy, K.N. Rao (via summary); 8-karaka - BPHS 32.1-2 second view and Santhanam's worked example, Abhyankar's text of Jaimini 1.1.10-18, P.V.R. Narasimha Rao, Sanjay Rath (8 for living beings, 7 for mundane charts). In the 7-karaka scheme the Putrakaraka follows the Matrikaraka directly; in the 8-karaka scheme a Pitrikaraka (father) comes between them.",
+    "significations": [
+      "children (Jaimini 1.1.16; BPHS 32.13-17; Raman art. 12)",
+      "subordinates and followers (PVR 8.2 note)"
+    ],
+    "common_outcomes": [
+      "A well-placed, exalted Putrakaraka in good vargas with benefic associations gives children who are virtuous, happy and dutiful (B.S. Rao on 1.1.16).",
+      "Atmakaraka with Putrakaraka, together with lagna and 5th lords conjoining, gives a raja yoga of power and prosperity (PVR 11.7.3); Murthy ch. 7 calls the AK-PK association the most powerful karaka yoga, stronger in the lagna, 5th or karakamsa."
+    ],
+    "rare_outcomes": [
+      "AK and PK in the lagna or 5th, in own sign, exaltation or with benefic aspect, with lagna and 5th lords exchanged, gives a 'great king' yoga (PVR 11.7.3)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "PVR 11.7.3 and Murthy ch. 7: AK-PK association is a raja yoga for power and status.",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "PVR 8.4: troubles or achievements around children that touch the soul are read from the Putrakaraka, while the plain birth of children is read from the 5th from Jupiter. Murthy ch. 10: children are judged from the Upapada and its 7th, the Putra arudha (A5), and the Putrakaraka.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "exaltation, good shadvargas, benefic conjunction and aspect (B.S. Rao on 1.1.16)",
+      "conjunction with the Atmakaraka (PVR 11.7.3; Murthy ch. 7)"
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Natural significator of children is Jupiter (Raman art. 12). In the 7-karaka scheme there is no Pitrikaraka; the father is read from the Sun / 9th house (BPHS 32.22-24) or the stronger of Sun and Venus (BPHS 32.18-21).",
+    "timing": [],
+    "karakamsa": "",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 32.1-2, 32.13-17",
+        "view": "Karakas are taken from the seven planets Sun to Saturn; some add Rahu only when two planets share the same longitude, others always count eight including Rahu. The eight in order are Atma, Amatya, Bhratri, Matri, Pitri, Putra, Gnati and Stree (Dara) karaka; some treat Matri and Putra karaka as one. If two planets tie, one role is left short and the constant significator is used for it. These are chara (variable) karakas.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.1.15-16",
+        "view": "After the mother's significator comes the father's significator (Pitrikaraka), then the son's (Putrakaraka).",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.1.16 (with notes)",
+        "view": "The planet next to the Matrikaraka is the Putrakaraka; when it is well placed, exalted and benefic-associated the children are virtuous and dutiful.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 12, 16",
+        "view": "Lord of children; natural karaka Jupiter; if MK and PK fall vacant through ties, Rahu fills MK and Jupiter becomes PK.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 8.2, 8.4, 11.7.3",
+        "view": "PK shows children and also subordinates/followers; soul-level matters of children are read from it; AK-PK conjunction is a raja yoga.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 2, 10, 7",
+        "view": "Fifth-highest in the 7-karaka list; used with Upapada and A5 for children; AK-PK association is the most powerful karaka yoga.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "7- vs 8-karaka: BPHS 32.1-2 records both views without choosing; Jaimini 1.1.19 says some authorities merge mother and son karakas. Abhyankar's text lists eight (with Pitrikaraka) and reads 1.1.19 as the seven-planet alternative; B. Suryanarain Rao's text has no Pitrikaraka sutra at all and uses Rahu only to fill gaps when planets tie; Raman, Murthy and K.N. Rao (via summary) use seven; P.V.R. Narasimha Rao and Sanjay Rath use eight (Rath: eight for living beings, seven for mundane charts). The choice changes which planet holds the middle and lower roles. In the 7-karaka scheme the fifth planet is Putrakaraka; in the 8-karaka scheme the fifth is Pitrikaraka and the Putrakaraka is sixth, so the two schemes usually assign this role to different planets.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of children, students or followers and creative output. Never predict childlessness or a child's misfortune from the karaka alone."
+  },
+  {
+    "id": "karaka/gnatikaraka",
+    "layer": "karaka",
+    "key": {
+      "role": "Gnatikaraka"
+    },
+    "summary": "The Gnatikaraka is the sixth planet by degree in the 7-karaka scheme (seventh in the 8-karaka) and signifies cousins and kinsfolk; it is widely used for rivals and obstacles.",
+    "themes": [
+      "cousins",
+      "kinsfolk",
+      "rivals",
+      "disputes"
+    ],
+    "determination": "Rank the seven planets Sun to Saturn by degrees travelled within their own sign (sign ignored; ties broken by minutes, then seconds); highest = Atmakaraka, then Amatya, Bhratri, Matri, Putra, Gnati and lowest = Darakaraka (7-karaka scheme, the one the calculator uses). In the 8-karaka scheme Rahu is added (its degrees counted back from the end of its sign) and a Pitrikaraka (father) is inserted after the Matrikaraka, so every role below Matrikaraka can fall on a different planet. Sources: 7-karaka with Rahu only as a tie-filler - BPHS 32.1-2 first view, B. Suryanarain Rao, B.V. Raman, Prabhakara Murthy, K.N. Rao (via summary); 8-karaka - BPHS 32.1-2 second view and Santhanam's worked example, Abhyankar's text of Jaimini 1.1.10-18, P.V.R. Narasimha Rao, Sanjay Rath (8 for living beings, 7 for mundane charts). The Gnatikaraka is second-lowest in degrees.",
+    "significations": [
+      "kinsfolk and cousins (Jaimini 1.1.17; B.S. Rao; Raman art. 13)",
+      "rivals and enemies in common use; literal meaning paternal cousin (PVR 8.2 note)"
+    ],
+    "common_outcomes": [
+      "B.S. Rao on 1.1.17: the Gnatikaraka's condition shows whether cousins and nephews are sympathetic or hostile, which matters especially in inheritance."
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "PVR 8.2: commonly used for rivals and enemies.",
+      "family": "Cousins and relatives (B.S. Rao on 1.1.17; Raman art. 13).",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Raman art. 13 gives Mars as the natural significator of cousins and relations. Murthy ch. 7: associations of chara karakas form yogas, except the Gnatikaraka.",
+    "timing": [],
+    "karakamsa": "",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 32.1-2, 32.13-17",
+        "view": "Karakas are taken from the seven planets Sun to Saturn; some add Rahu only when two planets share the same longitude, others always count eight including Rahu. The eight in order are Atma, Amatya, Bhratri, Matri, Pitri, Putra, Gnati and Stree (Dara) karaka; some treat Matri and Putra karaka as one. If two planets tie, one role is left short and the constant significator is used for it. These are chara (variable) karakas.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.1.17",
+        "view": "The planet next to the son's significator is the significator of kinsfolk.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.1.17 (with notes)",
+        "view": "Planet below the Putrakaraka is lord of cousins; its condition shows their attitude, important under Hindu inheritance customs.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 13",
+        "view": "Lord of relations; natural karaka Mars.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 8.2",
+        "view": "Jnati karaka is commonly used for enemies or rivals; the word literally means paternal cousin.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 2, ch. 7",
+        "view": "Sixth-highest in the 7-karaka list; it is the one karaka whose association does not form a yoga.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "7- vs 8-karaka: BPHS 32.1-2 records both views without choosing; Jaimini 1.1.19 says some authorities merge mother and son karakas. Abhyankar's text lists eight (with Pitrikaraka) and reads 1.1.19 as the seven-planet alternative; B. Suryanarain Rao's text has no Pitrikaraka sutra at all and uses Rahu only to fill gaps when planets tie; Raman, Murthy and K.N. Rao (via summary) use seven; P.V.R. Narasimha Rao and Sanjay Rath use eight (Rath: eight for living beings, seven for mundane charts). The choice changes which planet holds the middle and lower roles. Meaning: classical texts give kinsfolk/cousins; PVR notes the common modern use for rivals and enemies.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as competition, disputes with relatives or rivals that build resilience; avoid naming specific enemies or predicting conflict as certain."
+  },
+  {
+    "id": "karaka/darakaraka",
+    "layer": "karaka",
+    "key": {
+      "role": "Darakaraka"
+    },
+    "summary": "The Darakaraka is the planet with the lowest degree in its sign and signifies the spouse; the planet itself (not the 7th from it) describes the partner.",
+    "themes": [
+      "spouse",
+      "marriage",
+      "partnership"
+    ],
+    "determination": "Rank the seven planets Sun to Saturn by degrees travelled within their own sign (sign ignored; ties broken by minutes, then seconds); highest = Atmakaraka, then Amatya, Bhratri, Matri, Putra, Gnati and lowest = Darakaraka (7-karaka scheme, the one the calculator uses). In the 8-karaka scheme Rahu is added (its degrees counted back from the end of its sign) and a Pitrikaraka (father) is inserted after the Matrikaraka, so every role below Matrikaraka can fall on a different planet. Sources: 7-karaka with Rahu only as a tie-filler - BPHS 32.1-2 first view, B. Suryanarain Rao, B.V. Raman, Prabhakara Murthy, K.N. Rao (via summary); 8-karaka - BPHS 32.1-2 second view and Santhanam's worked example, Abhyankar's text of Jaimini 1.1.10-18, P.V.R. Narasimha Rao, Sanjay Rath (8 for living beings, 7 for mundane charts). The Darakaraka is the lowest in degrees. In the 8-karaka scheme Rahu becomes Darakaraka when it is near the end of its sign (lowest counted-back degrees).",
+    "significations": [
+      "wife or husband (Jaimini 1.1.18; BPHS 32.13-17 'Streekaraka'; Raman art. 14)"
+    ],
+    "common_outcomes": [
+      "PVR 8.3: the Darakaraka itself represents the spouse; one does not take the 7th from it.",
+      "Murthy ch. 10: marriage is likely in the dasa or antardasa of a sign occupied or aspected by the Darakaraka (Jaimini sign dasas)."
+    ],
+    "rare_outcomes": [
+      "Raman art. 133 worked example: a Darakaraka in a benefic sign aspected by benefics is credited with protecting the spouse despite other affliction."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "B.S. Rao on 1.1.18: the word 'cha' in the sutra means the spouse must also be judged from the houses counted from the lagna, Arudha Lagna and Upapada, not from the karaka alone. Murthy ch. 10: the nature and friendship of the Atmakaraka and Darakaraka show the couple's harmony.",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "benefic sign and benefic aspect (Raman art. 133 example)"
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Natural significator of spouse is Venus (Raman art. 14; PVR 8.3 for marriage timing); BPHS 32.13-17 (Santhanam note): if planets tie and no planet is left for the Dara role, use Venus for marriage matters.",
+    "timing": [
+      "Murthy ch. 10: dasa or antardasa of the sign occupied or aspected by the Darakaraka can bring marriage, along with Upapada-based signs and Jupiter's transit of the 2nd from the Upapada.",
+      "PVR 12.6: for marriage one may want transiting Jupiter to be benefic (in prastaara ashtakavarga) from references such as Venus or the Darakaraka."
+    ],
+    "karakamsa": "",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 32.1-2, 32.13-17",
+        "view": "Karakas are taken from the seven planets Sun to Saturn; some add Rahu only when two planets share the same longitude, others always count eight including Rahu. The eight in order are Atma, Amatya, Bhratri, Matri, Pitri, Putra, Gnati and Stree (Dara) karaka; some treat Matri and Putra karaka as one. If two planets tie, one role is left short and the constant significator is used for it. These are chara (variable) karakas.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 32.13-17 (Santhanam note)",
+        "view": "If two planets tie to the second of arc, a planet is lacking for the Dara role and the constant significator Venus is used for marriage.",
+        "url": "https://archive.org/details/heag_brihat-parasara-hora-sastra-vol-1-by-maharshi-parasara-commentary-editor-tr"
+      },
+      {
+        "source": "Jaimini Upadesa Sutras (tr. K.V. Abhyankar) 1.1.18",
+        "view": "The planet next to the kinsfolk significator is the significator of the wife.",
+        "url": "https://archive.org/details/jaimini-kva-a-4-size"
+      },
+      {
+        "source": "Jaimini Sutras (tr. B. Suryanarain Rao, 1955 ed.) 1.1.18 (with notes)",
+        "view": "The planet with fewer degrees than the Gnatikaraka is lord of the wife; the 'cha' tells us to judge also from the houses from lagna, Arudha and Upapada.",
+        "url": "https://archive.org/details/Jaiminisutras1955EditionByBSRao"
+      },
+      {
+        "source": "B.V. Raman, Studies in Jaimini Astrology art. 14, 133",
+        "view": "Lord of wife or husband is the lowest-degree planet; natural karaka Venus; example of Darakaraka in a benefic sign protecting the spouse.",
+        "url": "https://archive.org/details/studies-in-jaimini-astrology-by-b-v-raman-127930441"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach 8.2-8.3, 12.6",
+        "view": "DK is the lowest of eight; unlike naisargika karakas, DK itself shows the spouse; Jupiter's transit benefic from DK can be used in timing marriage.",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      },
+      {
+        "source": "Prabhakara Murthy, Introduction to Jaimini Astrology ch. 2, ch. 10",
+        "view": "Lowest-degree planet; marriage likely in dasa/antardasa of sign occupied or aspected by DK; AK-DK nature and friendship shows harmony.",
+        "url": "https://archive.org/details/prabhakara-murthy-introduction-to-jaimini-astrology"
+      }
+    ],
+    "disagreements": "7- vs 8-karaka: BPHS 32.1-2 records both views without choosing; Jaimini 1.1.19 says some authorities merge mother and son karakas. Abhyankar's text lists eight (with Pitrikaraka) and reads 1.1.19 as the seven-planet alternative; B. Suryanarain Rao's text has no Pitrikaraka sutra at all and uses Rahu only to fill gaps when planets tie; Raman, Murthy and K.N. Rao (via summary) use seven; P.V.R. Narasimha Rao and Sanjay Rath use eight (Rath: eight for living beings, seven for mundane charts). The choice changes which planet holds the middle and lower roles. Under the 8-karaka scheme Rahu can be the Darakaraka, so the spouse significator can differ from the 7-karaka result.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe qualities the partner may bring and themes in partnership; avoid predicting the timing of marriage, divorce or a spouse's health as fixed."
+  }
+]

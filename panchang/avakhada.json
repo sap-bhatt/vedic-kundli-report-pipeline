@@ -1,0 +1,602 @@
+[
+  {
+    "id": "panchang/gana/deva",
+    "layer": "panchang",
+    "key": {
+      "gana": "Deva",
+      "nakshatras": [
+        "Ashwini",
+        "Mrigashira",
+        "Punarvasu",
+        "Pushya",
+        "Hasta",
+        "Swati",
+        "Anuradha",
+        "Shravana",
+        "Revati"
+      ]
+    },
+    "summary": "Deva (divine) gana: one of three temperament classes set by the birth nakshatra, read as refined and other-worldly.",
+    "themes": [
+      "gana",
+      "temperament",
+      "marriage matching"
+    ],
+    "common_outcomes": [
+      "eats sparingly",
+      "oriented to the other world",
+      "appreciates virtue",
+      "a fine speaker",
+      "said to stand apart from worldly qualities",
+      "the text also says short of stature"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "eats sparingly; oriented to the other world; appreciates virtue",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "used in gana-kuta matching (6 of 36 points)",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Gana comes from the Moon's nakshatra at birth. In marriage matching it scores 6 of 36 points (Muhurta Chintamani ch. 6 v.21).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), gana-phala v.1 (p.35)",
+        "view": "Deva gana birth: eats sparingly; oriented to the other world; appreciates virtue; a fine speaker; said to stand apart from worldly qualities; the text also says short of stature.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d8"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 6 (vivaha / marriage) v.29-30, 33 (p.97-98)",
+        "view": "Gana is fixed by the birth nakshatra (Deva: Ashwini, Mrigashira, Punarvasu, Pushya, Hasta, Swati, Anuradha, Shravana, Revati; Manushya: Bharani, Rohini, Ardra, Purva Phalguni, Uttara Phalguni, Purva Ashadha, Uttara Ashadha, Purva Bhadrapada, Uttara Bhadrapada; Rakshasa: Krittika, Ashlesha, Magha, Chitra, Vishakha, Jyeshtha, Mula, Dhanishta, Shatabhisha). Same gana: great affection (6 points); Deva-Manushya: middling (5); Rakshasa with Manushya: [maraka: text predicts danger to life / death]; Rakshasa with Deva: enmity (0). The commentary adds directional variants (a Manushya groom with a Rakshasa bride is the worst case). v.33: if the Moon-sign lords or navamsha lords of the couple are friends, the gana fault does not apply.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c4db"
+      }
+    ],
+    "disagreements": "The Jataka Bharanam verse is unusually ascetic (short stature, little food) compared with the usual reading of Deva gana as simply virtuous; the AI translator also flags this.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe gana as a temperament style, not moral worth; never call anyone 'demonic'. For Rakshasa, say 'forceful, independent temperament'. In matching, mention cancellations before any warning, and never repeat a death prediction.",
+    "attributes": {
+      "nakshatras": [
+        "Ashwini",
+        "Mrigashira",
+        "Punarvasu",
+        "Pushya",
+        "Hasta",
+        "Swati",
+        "Anuradha",
+        "Shravana",
+        "Revati"
+      ]
+    },
+    "cancellations": [
+      {
+        "condition": "the lords of the couple's Moon signs, or of their navamshas, are friends",
+        "source": "Muhurta Chintamani ch. 6 v.33"
+      }
+    ]
+  },
+  {
+    "id": "panchang/gana/manushya",
+    "layer": "panchang",
+    "key": {
+      "gana": "Manushya",
+      "nakshatras": [
+        "Bharani",
+        "Rohini",
+        "Ardra",
+        "Purva Phalguni",
+        "Uttara Phalguni",
+        "Purva Ashadha",
+        "Uttara Ashadha",
+        "Purva Bhadrapada",
+        "Uttara Bhadrapada"
+      ]
+    },
+    "summary": "Manushya (human) gana: the middle temperament class, read as worldly, capable and kind.",
+    "themes": [
+      "gana",
+      "temperament",
+      "marriage matching"
+    ],
+    "common_outcomes": [
+      "devoted to worship of gods and the learned",
+      "self-respecting",
+      "wealthy",
+      "compassionate and strong",
+      "skilled in the arts",
+      "wise, good-looking, gives happiness to many"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "devoted to worship of gods and the learned; self-respecting; wealthy",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "used in gana-kuta matching (6 of 36 points)",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Gana comes from the Moon's nakshatra at birth. In marriage matching it scores 6 of 36 points (Muhurta Chintamani ch. 6 v.21).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), gana-phala v.2 (p.35)",
+        "view": "Manushya gana birth: devoted to worship of gods and the learned; self-respecting; wealthy; compassionate and strong; skilled in the arts; wise, good-looking, gives happiness to many.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d8"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 6 (vivaha / marriage) v.29-30, 33 (p.97-98)",
+        "view": "Gana is fixed by the birth nakshatra (Deva: Ashwini, Mrigashira, Punarvasu, Pushya, Hasta, Swati, Anuradha, Shravana, Revati; Manushya: Bharani, Rohini, Ardra, Purva Phalguni, Uttara Phalguni, Purva Ashadha, Uttara Ashadha, Purva Bhadrapada, Uttara Bhadrapada; Rakshasa: Krittika, Ashlesha, Magha, Chitra, Vishakha, Jyeshtha, Mula, Dhanishta, Shatabhisha). Same gana: great affection (6 points); Deva-Manushya: middling (5); Rakshasa with Manushya: [maraka: text predicts danger to life / death]; Rakshasa with Deva: enmity (0). The commentary adds directional variants (a Manushya groom with a Rakshasa bride is the worst case). v.33: if the Moon-sign lords or navamsha lords of the couple are friends, the gana fault does not apply.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c4db"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe gana as a temperament style, not moral worth; never call anyone 'demonic'. For Rakshasa, say 'forceful, independent temperament'. In matching, mention cancellations before any warning, and never repeat a death prediction.",
+    "attributes": {
+      "nakshatras": [
+        "Bharani",
+        "Rohini",
+        "Ardra",
+        "Purva Phalguni",
+        "Uttara Phalguni",
+        "Purva Ashadha",
+        "Uttara Ashadha",
+        "Purva Bhadrapada",
+        "Uttara Bhadrapada"
+      ]
+    },
+    "cancellations": [
+      {
+        "condition": "the lords of the couple's Moon signs, or of their navamshas, are friends",
+        "source": "Muhurta Chintamani ch. 6 v.33"
+      }
+    ]
+  },
+  {
+    "id": "panchang/gana/rakshasa",
+    "layer": "panchang",
+    "key": {
+      "gana": "Rakshasa",
+      "nakshatras": [
+        "Krittika",
+        "Ashlesha",
+        "Magha",
+        "Chitra",
+        "Vishakha",
+        "Jyeshtha",
+        "Mula",
+        "Dhanishta",
+        "Shatabhisha"
+      ]
+    },
+    "summary": "Rakshasa (demonic) gana: the forceful temperament class; in matching it is the class most often flagged.",
+    "themes": [
+      "gana",
+      "temperament",
+      "marriage matching"
+    ],
+    "common_outcomes": [
+      "talks a great deal",
+      "hard-hearted",
+      "daring",
+      "quick to anger and haughty",
+      "difficult character, starts quarrels",
+      "stubborn and oppositional"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "talks a great deal; hard-hearted; daring",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "used in gana-kuta matching (6 of 36 points)",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "Gana comes from the Moon's nakshatra at birth. In marriage matching it scores 6 of 36 points (Muhurta Chintamani ch. 6 v.21).",
+    "source_views": [
+      {
+        "source": "Jataka Bharanam of Dhundiraja (1800 Jammu manuscript, partial; Source Library AI translation, unreviewed, checked against the Sanskrit on the page), gana-phala v.3 (p.35)",
+        "view": "Rakshasa gana birth: talks a great deal; hard-hearted; daring; quick to anger and haughty; difficult character, starts quarrels; stubborn and oppositional.",
+        "url": "https://sourcelibrary.org/book/jataka-bharanam-dhundiraja-dhundiraja/page/69907c634d10d339852371d8"
+      },
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 6 (vivaha / marriage) v.29-30, 33 (p.97-98)",
+        "view": "Gana is fixed by the birth nakshatra (Deva: Ashwini, Mrigashira, Punarvasu, Pushya, Hasta, Swati, Anuradha, Shravana, Revati; Manushya: Bharani, Rohini, Ardra, Purva Phalguni, Uttara Phalguni, Purva Ashadha, Uttara Ashadha, Purva Bhadrapada, Uttara Bhadrapada; Rakshasa: Krittika, Ashlesha, Magha, Chitra, Vishakha, Jyeshtha, Mula, Dhanishta, Shatabhisha). Same gana: great affection (6 points); Deva-Manushya: middling (5); Rakshasa with Manushya: [maraka: text predicts danger to life / death]; Rakshasa with Deva: enmity (0). The commentary adds directional variants (a Manushya groom with a Rakshasa bride is the worst case). v.33: if the Moon-sign lords or navamsha lords of the couple are friends, the gana fault does not apply.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c4db"
+      }
+    ],
+    "disagreements": "Sources agree that Rakshasa gana is the harshest class; Muhurta Chintamani lets friendship of the sign or navamsha lords cancel the matching fault.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe gana as a temperament style, not moral worth; never call anyone 'demonic'. For Rakshasa, say 'forceful, independent temperament'. In matching, mention cancellations before any warning, and never repeat a death prediction.",
+    "attributes": {
+      "nakshatras": [
+        "Krittika",
+        "Ashlesha",
+        "Magha",
+        "Chitra",
+        "Vishakha",
+        "Jyeshtha",
+        "Mula",
+        "Dhanishta",
+        "Shatabhisha"
+      ]
+    },
+    "cancellations": [
+      {
+        "condition": "the lords of the couple's Moon signs, or of their navamshas, are friends",
+        "source": "Muhurta Chintamani ch. 6 v.33"
+      }
+    ]
+  },
+  {
+    "id": "panchang/nadi/adi",
+    "layer": "panchang",
+    "key": {
+      "nadi": "Adi",
+      "nakshatras": [
+        "Ashwini",
+        "Ardra",
+        "Punarvasu",
+        "Uttara Phalguni",
+        "Hasta",
+        "Jyeshtha",
+        "Mula",
+        "Shatabhisha",
+        "Purva Bhadrapada"
+      ]
+    },
+    "summary": "Adi (first) nadi: one of three nakshatra groups used in nadi-kuta, the heaviest-weighted matching factor.",
+    "themes": [
+      "nadi",
+      "marriage matching"
+    ],
+    "common_outcomes": [
+      "used only in compatibility: both partners in the same nadi is a fault; different nadis earn the full 8 points"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "nadi-kuta: 8 of 36 points; same nadi is the classic 'nadi dosha'",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Same nadi for both partners is a matching fault (nadi dosha)."
+    ],
+    "lagna_or_context_notes": "Nadi comes from the Moon's nakshatra at birth and says nothing about the person alone in the sources read; it is a matching factor.",
+    "source_views": [
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 6 (vivaha / marriage) v.34 (p.98-99)",
+        "view": "Nadi is set by the birth nakshatra (Adi: Ashwini, Ardra, Punarvasu, Uttara Phalguni, Hasta, Jyeshtha, Mula, Shatabhisha, Purva Bhadrapada; Madhya: Bharani, Mrigashira, Pushya, Purva Phalguni, Chitra, Anuradha, Purva Ashadha, Dhanishta, Uttara Bhadrapada; Antya: Krittika, Rohini, Ashlesha, Magha, Swati, Vishakha, Uttara Ashadha, Shravana, Revati). Bride and groom in the same nadi is inauspicious; both in Madhya nadi: [maraka: text predicts danger to life / death]. Other views quoted: the side nadis' fault does not apply south of the Godavari or for Kshatriyas; Adi harms the groom, Antya the bride, Madhya both. If only the nakshatra (not the pada) nadi matches, the fault is minor. Remedies: Mahamrityunjaya japa and the gift of a golden nadi. Nadi purity is required even when other kuta faults are cancelled (v.32 commentary).",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c4dd"
+      }
+    ],
+    "disagreements": "Muhurta Chintamani records several views: regional exemptions for the side nadis (Adi, Antya), which partner each nadi harms, and four- and five-nadi schemes used in some regions instead of the three-nadi scheme.",
+    "confidence": "medium",
+    "phrasing_guidance": "Do not describe nadi as a personal trait. In matching, state nadi dosha calmly, mention the exemptions and remedies, and never repeat a prediction of death or childlessness.",
+    "attributes": {
+      "nakshatras": [
+        "Ashwini",
+        "Ardra",
+        "Punarvasu",
+        "Uttara Phalguni",
+        "Hasta",
+        "Jyeshtha",
+        "Mula",
+        "Shatabhisha",
+        "Purva Bhadrapada"
+      ]
+    },
+    "cancellations": [
+      {
+        "condition": "the nadi matches by nakshatra but not by pada: fault is minor",
+        "source": "Muhurta Chintamani ch. 6 v.34 commentary"
+      },
+      {
+        "condition": "regional view: side-nadi (Adi/Antya) fault not applied south of the Godavari or for Kshatriyas",
+        "source": "Muhurta Chintamani ch. 6 v.34 commentary"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "Mahamrityunjaya japa; gift of a golden nadi",
+        "source": "Muhurta Chintamani ch. 6 v.34 commentary"
+      }
+    ]
+  },
+  {
+    "id": "panchang/nadi/madhya",
+    "layer": "panchang",
+    "key": {
+      "nadi": "Madhya",
+      "nakshatras": [
+        "Bharani",
+        "Mrigashira",
+        "Pushya",
+        "Purva Phalguni",
+        "Chitra",
+        "Anuradha",
+        "Purva Ashadha",
+        "Dhanishta",
+        "Uttara Bhadrapada"
+      ]
+    },
+    "summary": "Madhya (middle) nadi: the group whose same-nadi match the matching texts judge most severely.",
+    "themes": [
+      "nadi",
+      "marriage matching"
+    ],
+    "common_outcomes": [
+      "used only in compatibility: both partners in the same nadi is a fault; different nadis earn the full 8 points"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "nadi-kuta: 8 of 36 points; same nadi is the classic 'nadi dosha'",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Same nadi for both partners is a matching fault (nadi dosha).",
+      "Both partners in Madhya nadi is judged the most severe case (Muhurta Chintamani ch. 6 v.34)."
+    ],
+    "lagna_or_context_notes": "Nadi comes from the Moon's nakshatra at birth and says nothing about the person alone in the sources read; it is a matching factor.",
+    "source_views": [
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 6 (vivaha / marriage) v.34 (p.98-99)",
+        "view": "Nadi is set by the birth nakshatra (Adi: Ashwini, Ardra, Punarvasu, Uttara Phalguni, Hasta, Jyeshtha, Mula, Shatabhisha, Purva Bhadrapada; Madhya: Bharani, Mrigashira, Pushya, Purva Phalguni, Chitra, Anuradha, Purva Ashadha, Dhanishta, Uttara Bhadrapada; Antya: Krittika, Rohini, Ashlesha, Magha, Swati, Vishakha, Uttara Ashadha, Shravana, Revati). Bride and groom in the same nadi is inauspicious; both in Madhya nadi: [maraka: text predicts danger to life / death]. Other views quoted: the side nadis' fault does not apply south of the Godavari or for Kshatriyas; Adi harms the groom, Antya the bride, Madhya both. If only the nakshatra (not the pada) nadi matches, the fault is minor. Remedies: Mahamrityunjaya japa and the gift of a golden nadi. Nadi purity is required even when other kuta faults are cancelled (v.32 commentary).",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c4dd"
+      }
+    ],
+    "disagreements": "Muhurta Chintamani records several views: regional exemptions for the side nadis (Adi, Antya), which partner each nadi harms, and four- and five-nadi schemes used in some regions instead of the three-nadi scheme.",
+    "confidence": "medium",
+    "phrasing_guidance": "Do not describe nadi as a personal trait. In matching, state nadi dosha calmly, mention the exemptions and remedies, and never repeat a prediction of death or childlessness.",
+    "attributes": {
+      "nakshatras": [
+        "Bharani",
+        "Mrigashira",
+        "Pushya",
+        "Purva Phalguni",
+        "Chitra",
+        "Anuradha",
+        "Purva Ashadha",
+        "Dhanishta",
+        "Uttara Bhadrapada"
+      ]
+    },
+    "cancellations": [
+      {
+        "condition": "the nadi matches by nakshatra but not by pada: fault is minor",
+        "source": "Muhurta Chintamani ch. 6 v.34 commentary"
+      },
+      {
+        "condition": "regional view: side-nadi (Adi/Antya) fault not applied south of the Godavari or for Kshatriyas",
+        "source": "Muhurta Chintamani ch. 6 v.34 commentary"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "Mahamrityunjaya japa; gift of a golden nadi",
+        "source": "Muhurta Chintamani ch. 6 v.34 commentary"
+      }
+    ]
+  },
+  {
+    "id": "panchang/nadi/antya",
+    "layer": "panchang",
+    "key": {
+      "nadi": "Antya",
+      "nakshatras": [
+        "Krittika",
+        "Rohini",
+        "Ashlesha",
+        "Magha",
+        "Swati",
+        "Vishakha",
+        "Uttara Ashadha",
+        "Shravana",
+        "Revati"
+      ]
+    },
+    "summary": "Antya (last) nadi: one of three nakshatra groups used in nadi-kuta; some views accept a same-Antya match when other factors remedy it.",
+    "themes": [
+      "nadi",
+      "marriage matching"
+    ],
+    "common_outcomes": [
+      "used only in compatibility: both partners in the same nadi is a fault; different nadis earn the full 8 points"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "nadi-kuta: 8 of 36 points; same nadi is the classic 'nadi dosha'",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Same nadi for both partners is a matching fault (nadi dosha)."
+    ],
+    "lagna_or_context_notes": "Nadi comes from the Moon's nakshatra at birth and says nothing about the person alone in the sources read; it is a matching factor.",
+    "source_views": [
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 6 (vivaha / marriage) v.34 (p.98-99)",
+        "view": "Nadi is set by the birth nakshatra (Adi: Ashwini, Ardra, Punarvasu, Uttara Phalguni, Hasta, Jyeshtha, Mula, Shatabhisha, Purva Bhadrapada; Madhya: Bharani, Mrigashira, Pushya, Purva Phalguni, Chitra, Anuradha, Purva Ashadha, Dhanishta, Uttara Bhadrapada; Antya: Krittika, Rohini, Ashlesha, Magha, Swati, Vishakha, Uttara Ashadha, Shravana, Revati). Bride and groom in the same nadi is inauspicious; both in Madhya nadi: [maraka: text predicts danger to life / death]. Other views quoted: the side nadis' fault does not apply south of the Godavari or for Kshatriyas; Adi harms the groom, Antya the bride, Madhya both. If only the nakshatra (not the pada) nadi matches, the fault is minor. Remedies: Mahamrityunjaya japa and the gift of a golden nadi. Nadi purity is required even when other kuta faults are cancelled (v.32 commentary).",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c4dd"
+      }
+    ],
+    "disagreements": "Muhurta Chintamani records several views: regional exemptions for the side nadis (Adi, Antya), which partner each nadi harms, and four- and five-nadi schemes used in some regions instead of the three-nadi scheme.",
+    "confidence": "medium",
+    "phrasing_guidance": "Do not describe nadi as a personal trait. In matching, state nadi dosha calmly, mention the exemptions and remedies, and never repeat a prediction of death or childlessness.",
+    "attributes": {
+      "nakshatras": [
+        "Krittika",
+        "Rohini",
+        "Ashlesha",
+        "Magha",
+        "Swati",
+        "Vishakha",
+        "Uttara Ashadha",
+        "Shravana",
+        "Revati"
+      ]
+    },
+    "cancellations": [
+      {
+        "condition": "the nadi matches by nakshatra but not by pada: fault is minor",
+        "source": "Muhurta Chintamani ch. 6 v.34 commentary"
+      },
+      {
+        "condition": "regional view: side-nadi (Adi/Antya) fault not applied south of the Godavari or for Kshatriyas",
+        "source": "Muhurta Chintamani ch. 6 v.34 commentary"
+      }
+    ],
+    "remedies": [
+      {
+        "remedy": "Mahamrityunjaya japa; gift of a golden nadi",
+        "source": "Muhurta Chintamani ch. 6 v.34 commentary"
+      }
+    ]
+  },
+  {
+    "id": "panchang/yoni",
+    "layer": "panchang",
+    "key": {
+      "factor": "yoni"
+    },
+    "summary": "Yoni assigns each birth nakshatra an animal (14 animals, two nakshatras each with Abhijit); in marriage matching it measures instinctive and physical compatibility and scores 4 of 36 points.",
+    "themes": [
+      "yoni",
+      "marriage matching",
+      "instinctive compatibility"
+    ],
+    "common_outcomes": [
+      "same yoni: excellent; friendly yonis: good; neutral: average; enemy yonis: inauspicious",
+      "natural enemy pairs: cow-tiger, elephant-lion, horse-buffalo, dog-deer, mongoose-serpent, monkey-sheep, cat-rat"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "yoni-kuta, 4 points",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [
+      "Enemy yonis (e.g. cow-tiger) are to be avoided in a match (Muhurta Chintamani ch. 6 v.26)."
+    ],
+    "lagna_or_context_notes": "From the Moon's nakshatra. Animals per Muhurta Chintamani: horse (Ashwini, Shatabhisha), elephant (Bharani, Revati), sheep (Krittika, Pushya), serpent (Rohini, Mrigashira), dog (Ardra, Mula), cat (Punarvasu, Ashlesha), rat (Magha, Purva Phalguni), cow (Uttara Phalguni, Uttara Bhadrapada), buffalo (Hasta, Swati), tiger (Chitra, Vishakha), deer (Anuradha, Jyeshtha), monkey (Purva Ashadha, Shravana), mongoose (Uttara Ashadha, Abhijit), lion (Dhanishta, Purva Bhadrapada).",
+    "source_views": [
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 6 (vivaha / marriage) v.25-26 (p.95-96)",
+        "view": "Lists the animal of each nakshatra and the seven pairs of great enmity; same or friendly yoni is good; yoni friendship earns 4 points.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c4da"
+      }
+    ],
+    "disagreements": "The AI-translated verse has slips (Purva Ashadha under both monkey and dog; Magha and Purva Phalguni under cat); the commentary on the next page gives the usual scheme (Ardra = dog, Magha and Purva Phalguni = rat), used here.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of yoni as one small compatibility factor; avoid sexual or animal-character language about the person."
+  },
+  {
+    "id": "panchang/varna",
+    "layer": "panchang",
+    "key": {
+      "factor": "varna"
+    },
+    "summary": "Varna ranks the Moon signs into four classes for marriage matching (1 of 36 points); it is the lowest-weighted factor and says little about the person.",
+    "themes": [
+      "varna",
+      "marriage matching"
+    ],
+    "common_outcomes": [
+      "Brahmin: Cancer, Scorpio, Pisces; Kshatriya: Aries, Leo, Sagittarius; Vaishya: Taurus, Virgo, Capricorn; Shudra: Gemini, Libra, Aquarius",
+      "the point is given when the groom's varna is equal to or higher than the bride's"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "varna-kuta, 1 point",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "From the Moon sign. It is a matching rule only; the sources read give no personal reading for it.",
+    "source_views": [
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 6 (vivaha / marriage) v.21-22 (p.95), table p.99",
+        "view": "Lists the eight kutas with points 1-8 (varna 1, vashya 2, tara 3, yoni 4, graha maitri 5, gana 6, bhakuta 7, nadi 8; total 36): a higher score is better. Gives the sign groups for the four varnas; a bride of higher varna than the groom is not praised; same varna is best.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c4d9"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Mention only inside a matching summary, as the smallest factor; do not use caste language about the person or imply social rank."
+  },
+  {
+    "id": "panchang/vashya",
+    "layer": "panchang",
+    "key": {
+      "factor": "vashya"
+    },
+    "summary": "Vashya groups the Moon signs (human, quadruped, water, wild, insect) to judge which partner's sign 'is controlled by' the other's; it scores 2 of 36 points in marriage matching.",
+    "themes": [
+      "vashya",
+      "marriage matching",
+      "mutual influence"
+    ],
+    "common_outcomes": [
+      "human signs hold all others under their control except Leo; water signs are 'food' of the human signs",
+      "all signs are under Leo except Scorpio",
+      "the points are given when the bride's sign is under the groom's sign"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "vashya-kuta, 2 points; read as mutual attraction or influence",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "From the Moon sign. Human signs per the commentary: Gemini, Virgo, Libra, first half of Sagittarius, Aquarius. Muhurta Chintamani says other relations of control are to be judged 'from worldly behaviour', and its table gives half or partial points for mixed pairs.",
+    "source_views": [
+      {
+        "source": "Muhurta Chintamani of Rama Daivajna (with Hindi commentary; Source Library AI translation, unreviewed), ch. 6 (vivaha / marriage) v.23 (p.95), table p.99",
+        "view": "Defines vashya by sign groups: human signs control all but Leo; water signs are the food of humans; all are under Leo except Scorpio; 2 points when the bride's sign is subject to the groom's. A table scores pairs of quadruped, human, water, wild and insect classes from 0 to 2.",
+        "url": "https://sourcelibrary.org/book/muhurta-chintamani-the-gem-of-electional-astrology-ramacharya/page/6990601d8cbcc9a4dba2c4d9"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "medium",
+    "phrasing_guidance": "Explain as one small factor of attraction or influence in a match; avoid language of one partner controlling the other."
+  }
+]

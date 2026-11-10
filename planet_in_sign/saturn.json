@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "planet_in_sign/saturn/aries",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Aries"
+    },
+    "summary": "Saturn in Aries is debilitated (deepest at 20 degrees) in the sign of an enemy, Mars. Patience and structure meet impulse and haste, so the classical picture is friction, restlessness and strained relationships, which later authors say can be transformed when the debilitation is cancelled.",
+    "themes": [
+      "debilitation",
+      "impatience vs discipline",
+      "friction with kin",
+      "self-made effort",
+      "learning restraint"
+    ],
+    "common_outcomes": [
+      "Hardship through hard labour and one's own habits; ill temper; friction with relatives and one's own people (Saravali 29.1-2; Raman HPA ch.22)",
+      "Restless, wandering and friendless tendencies (Brihat Jataka 18.17; Raman HPA ch.22)",
+      "Limited means and loss of position or dependence during the planet's dasa (Saravali 29.1-2; Phaladeepika 9.18 on debilitated planets)",
+      "Raman describes Saturn's dasa from Aries as a period of losses, disappointments and strained relations (HPA ch.24)"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.17 lists foolishness, wandering and deceit as Aries-specific traits",
+      "Saravali 29.29: a Jupiter aspect on Saturn in a Mars sign gives happiness, wealth and a minister's or chief's position; 29.25: a Sun aspect gives farming and livestock wealth",
+      "Frawley: Saturn in Aries with its debility cancelled can give strong leadership and strength of will"
+    ],
+    "by_area": {
+      "personality": "Classical and modern sign lists describe temper, impatience and resentment (Saravali 29.1-2; Raman HPA ch.22); with cancelled debility, strength of will (Frawley p.126).",
+      "career": "Hard labour and work under others (Saravali 29.1-2); Braha describes Saturn in Aries in the 10th house as an uphill professional struggle.",
+      "finance": "Limited means in classical texts (Saravali 29.1-2); a Jupiter aspect reverses this (Saravali 29.29).",
+      "health": "",
+      "relationships": "Friction with one's own people and relatives (Saravali 29.1-2; Raman HPA ch.24).",
+      "family": "Saravali 29.1-2 says inimical to relatives; Raman's dasa note adds misunderstandings with relatives and friends (HPA ch.24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Cancelled debility (neecha bhanga): Saturn in an angle from the lagna or Moon, Mars (lord of Aries) exalted or strong, or a planet exalted in Saturn's own signs (e.g. Mars in Capricorn); Frawley says at least two such factors are needed (Astrology of the Seers pp.126-127)",
+      "Jupiter aspecting Saturn in a Mars sign (Saravali 29.29)",
+      "Sun aspect gives agricultural and livestock wealth (Saravali 29.25)",
+      "Retrograde Saturn: Phaladeepika 9.20 says a retrograde planet gives results like exaltation; Frawley counts retrogression only a minor cancelling factor"
+    ],
+    "weakeners_or_cancellations": [
+      "Moon, Mars, Mercury or Venus aspect on Saturn in a Mars sign is described negatively (Saravali 29.26-28, 29.30)",
+      "Combustion weakens a planet in its dasa (Phaladeepika 9.19)",
+      "If Mars is exalted in Capricorn while Saturn is debilitated in Aries, each rules the other's sign and their effects tend to neutralise, the stronger one prevailing (Frawley p.127)"
+    ],
+    "lagna_or_context_notes": "Raman (HPA ch.17) names Saturn the sole rajayoga planet for Taurus and Libra lagnas, so its sign results tend to be felt more favourably there; Raman (HPA ch.17) lists Saturn as ill-disposed for Aries, Leo and Pisces lagnas. Braha describes Saturn in Aries rising as a hard start in life and in the 10th house as professional struggle; these lagna-specific readings still depend on cancellation factors.",
+    "source_views": [
+      {
+        "source": "Saravali 29.1-2 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Aries: miserable through vices and hard labour, deceitful, hates relatives, garrulous, poor, ill-tempered, inimical to his own people, does base acts.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Saravali 29.25-30 (English e-text, archive.org)",
+        "view": "Saturn in Aries or Scorpio aspected by the Sun: agriculture, cattle and horses, fortunate; Moon: fickle, little happiness or wealth; Mars: base, leader of robbers yet famous; Mercury: untruthful, not virtuous; Jupiter: happy, wealthy, a king's minister and chief; Venus: unsteady, bereft of pleasures.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Brihat Jataka 18.17 (tr. M. D. Neely)",
+        "view": "Saturn in Aries: foolish, restless, deceitful, friendless.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501822.html"
+      },
+      {
+        "source": "BPHS 3.49-50",
+        "view": "Saturn's exaltation is Libra; the seventh sign (Aries) is its debilitation, at the same degree (20).",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-50/"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Aries is inimical and the place of debilitation.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Phaladeepika 9.18, 9.20 (tr. V. Subrahmanya Sastri)",
+        "view": "A debilitated planet brings loss of position, debts and dependence in its dasa; a retrograde planet acts as if exalted.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Aries: insincere, peevish, resentful, quarrelsome, gloomy, wandering, misunderstood.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa with Saturn in Aries: unexpected losses, disappointments in undertakings, misunderstandings with relatives and friends, more enemies.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers pp.125-127 'Exaltation and Debility' (archive.org)",
+        "view": "Neecha bhanga factors: angle from lagna or Moon, exalted or strong dispositor, a planet exalted in a sign the debilitated planet rules, retrogression (minor); two needed. Saturn in Aries cancelled gives leadership and will.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Saturn and Saturn-in-houses dignity notes (archive.org scan)",
+        "view": "Saturn works worst in Aries, its fall; in the 1st or 10th house in Aries it describes a hard start and professional struggle.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Saturn (commentary on Saturn's 108 names, archive.org)",
+        "view": "Commentary on name 73: Saturn is debilitated in Bharani (Aries), and when Saturn is weak, keeping order in life is harder.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Classical texts (Saravali, Brihat Jataka) and Raman's sign list are uniformly harsh. Frawley and the neecha bhanga rules allow a cancelled debility to give leadership and will; Phaladeepika 9.20 treats a retrograde planet as exalted, while Frawley counts retrogression only a minor factor. Authors differ on how many cancelling factors are needed.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a placement where patience is learned through friction, not as a curse. Always check for cancellation before describing it as weak. Avoid words like 'foolish' or 'deceitful' for the person; say 'may be tested around impatience or trust'. No health or longevity predictions."
+  },
+  {
+    "id": "planet_in_sign/saturn/taurus",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Taurus"
+    },
+    "summary": "Saturn in Taurus sits in the sign of its friend Venus. Classical texts describe a serving or dependent position, modest means and attraction to pleasure, while Raman's modern list adds success, cleverness and self-restraint, and his dasa note speaks of good income.",
+    "themes": [
+      "friendly sign",
+      "material patience",
+      "slow accumulation",
+      "sensual attachments",
+      "service"
+    ],
+    "common_outcomes": [
+      "Service or dependent work and many assignments (Saravali 29.3-4)",
+      "Strong attraction to partners and pleasure (Saravali 29.3-4; Brihat Jataka 18.18)",
+      "Raman lists success, power, cleverness, persuasiveness, love of solitude and self-restraint (HPA ch.22)",
+      "Raman's dasa note: gains from land and agriculture and good income (HPA ch.24)"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.18 mentions limited power and several marriages",
+      "Saravali 29.32: Moon aspect brings wealth through women and honour from ministers; 29.35: Jupiter aspect makes one liked, charitable and industrious; 29.36: Venus aspect brings gems, strength and royal favour",
+      "Saravali 29.31: Sun aspect makes one learned but losing wealth"
+    ],
+    "by_area": {
+      "personality": "Raman: clever, persuasive, likes solitude, self-restrained but a worrier (HPA ch.22).",
+      "career": "Service and many assignments (Saravali 29.3-4); agriculture and land gains in Saturn's dasa (Raman HPA ch.24).",
+      "finance": "Saravali 29.3-4 says bereft of wealth; Raman's dasa note gives great income (HPA ch.24); benefic aspects improve wealth (Saravali 29.32, 29.36).",
+      "health": "",
+      "relationships": "Classical texts flag attraction to women and several unions (Saravali 29.3-4; Brihat Jataka 18.18).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus is Saturn's friend (Braha; Bhavartha Ratnakara 15.7 lists Taurus as friendly for Saturn)",
+      "Moon, Jupiter or Venus aspecting Saturn (Saravali 29.32, 29.35, 29.36)",
+      "Phaladeepika 9.16: a planet in a friend's sign brings success through friends and support"
+    ],
+    "weakeners_or_cancellations": [
+      "Mercury aspect is described as weakening and base (Saravali 29.34)",
+      "Sun aspect costs wealth (Saravali 29.31)"
+    ],
+    "lagna_or_context_notes": "Raman (HPA ch.17) names Saturn the sole rajayoga planet for Taurus and Libra lagnas, so its sign results tend to be felt more favourably there. For Taurus lagna this places the yogakaraka in the lagna itself.",
+    "source_views": [
+      {
+        "source": "Saravali 29.3-4 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Taurus: bereft of wealth, a servant, untruthful speech, bad friends, attached to women, strong sight, many assignments.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Saravali 29.31-36 (English e-text, archive.org)",
+        "view": "Saturn in Taurus or Libra aspected by the Sun: learned but loses wealth; Moon: wealth through women, honoured by ministers; Mars: skilled in war preparations, talkative, wealthy; Mercury: jocular, base; Jupiter: liked, charitable, industrious; Venus: gems, strong, dear to the king.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Brihat Jataka 18.18 (tr. M. D. Neely)",
+        "view": "Saturn in Taurus: limited power, strong attraction to partners, several marriages.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501823.html"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Taurus and Gemini are friendly signs.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Phaladeepika 9.16",
+        "view": "A planet in a friend's sign gives success through friends, family and wealth.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Taurus: deceitful, successful, powerful, unorthodox, clever, likes solitude, persuasive, self-restrained, worried.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa from Taurus: success in agriculture and with livestock, great income, access to things desired.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Saturn and Saturn-in-houses dignity notes (archive.org scan)",
+        "view": "Saturn's friends are Mercury and Venus, who welcome it in their signs.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali calls the native poor; Raman's sign list calls him successful and powerful and his dasa note promises income. The friendly-sign rule (Phaladeepika, Bhavartha Ratnakara, Braha) supports the more favourable reading.",
+    "confidence": "medium",
+    "phrasing_guidance": "Emphasise patient building of security and the need for discipline with comfort. Do not predict infidelity or multiple marriages; say relationships benefit from clear commitments."
+  },
+  {
+    "id": "planet_in_sign/saturn/gemini",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Gemini"
+    },
+    "summary": "Saturn in Gemini is in the sign of its friend Mercury. Classical verses warn of debts, toil and restraint, while Raman's modern list adds an original, strategic and scientific mind, and his dasa note speaks of recognition and trade profits.",
+    "themes": [
+      "friendly sign",
+      "serious intellect",
+      "contracts and obligations",
+      "craft and skill",
+      "mental strain"
+    ],
+    "common_outcomes": [
+      "Debts, confinement and toil (Saravali 29.5-6)",
+      "Wandering nature (Saravali 29.5-6; Raman HPA ch.22)",
+      "Original, subtle, strategic and logical mind with a taste for chemical and mechanical sciences (Raman HPA ch.22)",
+      "Raman's dasa note: recognition of services, trade profits and respect from rulers (HPA ch.24)"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.17: in Mercury's signs, lacking modesty, comfort or wealth and uneven in writing or painting",
+      "Saravali 29.40: Mercury aspect gives wealth and skill in dance, music and arts; 29.41: Jupiter aspect makes one trusted in the king's circle; 29.38: Moon aspect gives king-like standing and honour through women",
+      "Saravali 29.5-6 also mentions devotion through hymns and prayers"
+    ],
+    "by_area": {
+      "personality": "Raman: original, subtle, ingenious, strategic, logical, sometimes narrow-minded (HPA ch.22).",
+      "career": "Chemical and mechanical sciences (Raman HPA ch.22); recognition and trade profits in Saturn's dasa (Raman HPA ch.24).",
+      "finance": "Saravali 29.5-6 warns of debts; Raman's dasa note gives profits in trade and speculation (HPA ch.24).",
+      "health": "",
+      "relationships": "",
+      "family": "Raman lists few children (HPA ch.22).",
+      "spirituality": "Saravali 29.5-6 mentions consecration through hymns and prayers."
+    },
+    "strengtheners": [
+      "Mercury is Saturn's friend (Braha; Bhavartha Ratnakara 15.7)",
+      "Mercury or Jupiter aspecting Saturn (Saravali 29.40-41)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars aspect: heavy loads and dullness (Saravali 29.39)",
+      "Sun aspect: virtuous and enduring but without happiness or wealth (Saravali 29.37)"
+    ],
+    "lagna_or_context_notes": "Raman (HPA ch.17) says that for Gemini lagna Venus joined with Saturn in good signs gives an excellent career; Raman (HPA ch.17) names Saturn the sole rajayoga planet for Taurus and Libra lagnas, so its sign results tend to be felt more favourably there.",
+    "source_views": [
+      {
+        "source": "Saravali 29.5-6 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Gemini: debts and imprisonment, toil, vanity, consecrates by hymns and prayers, keeps hidden, cunning, fond of wandering and sports.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Saravali 29.37-42 (English e-text, archive.org)",
+        "view": "Saturn in Gemini or Virgo aspected by the Sun: virtuous, enduring, without wealth; Moon: king-like, honour through women; Mars: carries heavy loads; Mercury: rich, skilled in dance, song and arts; Jupiter: trusted in the king's circle; Venus: teacher of yoga or saint.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Brihat Jataka 18.17 (tr. M. D. Neely)",
+        "view": "In Mercury's signs: lacks modesty, comfort, wealth and children; uneven in writing or painting.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501822.html"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Gemini is a friendly sign.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Gemini: wandering, untidy, original, subtle, ingenious, strategic, few children, taste for chemical and mechanical sciences, logical, speculative.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa from Gemini: recognition of services, humanitarian work, profits in trade and speculation, respect from rulers, reputation.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Saturn and Saturn-in-houses dignity notes (archive.org scan)",
+        "view": "Mercury is one of Saturn's friends.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali and Brihat Jataka are negative; Raman's modern sign list and dasa note are mixed to favourable. Brihat Jataka treats Gemini and Virgo together; Saravali gives them separate verses but shared aspect verses.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe as a careful, serious mind that does well with structure; mention obligations or debts only as areas to manage. Avoid predicting legal trouble."
+  },
+  {
+    "id": "planet_in_sign/saturn/cancer",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Cancer"
+    },
+    "summary": "Saturn in Cancer is in the sign of the Moon, a natural enemy. Classical texts link it with poverty in youth, distance from the mother and quarrels with kin, but Saravali adds learning, soft speech and a king-like position in mid-life; Foss sees Cancer's caring nature as improving Saturn.",
+    "themes": [
+      "enemy sign",
+      "emotional restraint",
+      "home and mother",
+      "late recognition",
+      "duty to family"
+    ],
+    "common_outcomes": [
+      "Lack of wealth in boyhood with improvement and a king-like position in mid-life (Saravali 29.7-8)",
+      "Distance from the mother or lack of motherly care (Saravali 29.7-8; Brihat Jataka 18.18; Raman HPA ch.22)",
+      "Friction with relatives (Saravali 29.7-8; Raman HPA ch.24)",
+      "Learned and soft-spoken (Saravali 29.7-8)"
+    ],
+    "rare_outcomes": [
+      "Saravali 29.7-8 also gives a beloved wife",
+      "Saravali 29.47: Jupiter aspect gives lands, houses, friends, sons, wealth and gems; 29.45: Mars aspect gives royal wealth but a difficult circle; 29.43: Sun aspect is the hardest",
+      "Brihat Jataka 18.18 adds childlessness and poverty"
+    ],
+    "by_area": {
+      "personality": "Soft-spoken and learned (Saravali 29.7-8); Raman lists slow, stubborn and selfish traits (HPA ch.22).",
+      "career": "Distinguished in action and king-like in mid-life (Saravali 29.7-8).",
+      "finance": "Poor in youth, improving later (Saravali 29.7-8); Jupiter aspect brings property and wealth (Saravali 29.47).",
+      "health": "",
+      "relationships": "Saravali 29.7-8 gives a beloved wife.",
+      "family": "Distance from mother and quarrels with kin are classical themes (Saravali 29.7-8; Brihat Jataka 18.18); Raman's dasa note adds family strife (HPA ch.24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter aspect (Saravali 29.47)",
+      "Mercury aspect: conquers enemies and does noble acts (Saravali 29.46)",
+      "Retrograde Saturn (Phaladeepika 9.20)"
+    ],
+    "weakeners_or_cancellations": [
+      "Sun aspect (Saravali 29.43) is described as the most difficult",
+      "Phaladeepika 9.17: a planet in an enemy's sign brings dependence and opposition in its dasa",
+      "Frawley: non-watery planets such as Saturn in water signs tend to negate the water element, and can be overpowered by it if weak (p.115)"
+    ],
+    "lagna_or_context_notes": "Foss notes that Saturn in Cancer in the 1st house (examples: Indira Gandhi, G.W. Bush) is generally improved by Cancer's sattvic, caring nature. Raman (HPA ch.17) names Saturn the sole rajayoga planet for Taurus and Libra lagnas, so its sign results tend to be felt more favourably there.",
+    "source_views": [
+      {
+        "source": "Saravali 29.7-8 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Cancer: beloved wife, no wealth in boyhood, learned, motherless, soft-spoken, distinguished in acts, inimical to relatives, kingly in mid-life with growing pleasures; also frequent illness (a theme not to be predicted).",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Saravali 29.43-48 (English e-text, archive.org)",
+        "view": "Saturn in Cancer aspected by the Sun: hardship; Moon: wealthy but trouble with siblings; Mars: royal wealth, gold and gems; Mercury: conquers enemies, noble acts; Jupiter: lands, houses, friends, sons, wealth; Venus: noble descent but little happiness.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Brihat Jataka 18.18 (tr. M. D. Neely)",
+        "view": "Saturn in Cancer: poverty, separation from mother, childlessness, lack of learning.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501823.html"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Cancer and Leo are inimical signs.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Cancer: poor, pleasure-seeking, few sons, slow, cunning yet rich, selfish, stubborn, devoid of motherly care.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa from Cancer: family strife, more enemies, trouble from relatives, physical and mental strain.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Saturn (commentary on Saturn's 108 names, archive.org)",
+        "view": "Commentary on name 19: Saturn in Cancer in the 1st is generally improved by Cancer's sattvic nature; a royal sign that cares.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers p.115",
+        "view": "Non-watery planets (Mars, Saturn, Sun, nodes) in water signs may negate the water element, or be overpowered by it if weak.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      }
+    ],
+    "disagreements": "Brihat Jataka says lacking learning; Saravali says learned and king-like in mid-life. Raman's dasa note is harsh, while Foss reads Cancer as improving Saturn. All agree on early domestic hardship and the mother theme.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of emotional responsibility and a slow-building sense of security. Never predict a parent's death or childlessness; say 'the relationship with mother or home may carry responsibility or distance'."
+  },
+  {
+    "id": "planet_in_sign/saturn/leo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Leo"
+    },
+    "summary": "Saturn in Leo is in the sign of its chief enemy, the Sun. Texts describe toil, servitude and strained close relationships, alongside skill and interest in writing and reading; Raman calls it a hard-working, good writer.",
+    "themes": [
+      "enemy sign",
+      "struggle with authority",
+      "hard-won recognition",
+      "toil",
+      "writing"
+    ],
+    "common_outcomes": [
+      "Heavy work and toil before recognition (Saravali 29.9-10; Brihat Jataka 18.18; Raman HPA ch.22)",
+      "Interest and skill in writing and reading (Saravali 29.9-10; Raman HPA ch.22: good writer)",
+      "Strained ties with spouse, children or one's own people (Saravali 29.9-10; Brihat Jataka 18.18)",
+      "Raman's dasa note: uneasiness, distrust and disappointment (HPA ch.24)"
+    ],
+    "rare_outcomes": [
+      "Saravali 29.53: Jupiter aspect makes one chief and rich in his town or among his people, with children; 29.50: Moon aspect gives wealth, fame and royal favour; 29.54: Venus aspect gives splendour, wealth and a good end; 29.49 (Sun) and 29.51 (Mars) aspects give hardship",
+      "Brihat Jataka 18.18: coarse conduct and trouble through offspring"
+    ],
+    "by_area": {
+      "personality": "Raman: severe, obstinate, hard-working (HPA ch.22); Saravali 29.9-10 adds ill temper and strong desires.",
+      "career": "Service and heavy labour (Saravali 29.9-10); writing and reading (Saravali 29.9-10; Raman HPA ch.22).",
+      "finance": "Improves with Moon, Jupiter or Venus aspect (Saravali 29.50, 29.53, 29.54).",
+      "health": "",
+      "relationships": "Saravali 29.9-10 says devoid of wife or of one's own people; present only as strain to work on.",
+      "family": "Few sons (Raman HPA ch.22); trouble through children (Brihat Jataka 18.18).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter, Moon or Venus aspect on Saturn (Saravali 29.50, 29.53, 29.54)"
+    ],
+    "weakeners_or_cancellations": [
+      "Sun aspect (Saravali 29.49), Mars aspect (29.51) and Mercury aspect (29.52)",
+      "Phaladeepika 9.17 on enemy-sign placement"
+    ],
+    "lagna_or_context_notes": "Raman (HPA ch.17) lists Saturn as ill-disposed for Aries, Leo and Pisces lagnas; for Leo lagna Saturn rising here combines both. Braha says that for Taurus lagna (Saturn in the 4th, i.e. Leo) Saturn gives happiness and fixed assets, especially real estate.",
+    "source_views": [
+      {
+        "source": "Saravali 29.9-10 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Leo: interested in writing and reading, skilful, disdained, devoid of wife and own men, lives by servitude, ill-tempered, carries loads, toils hard.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Saravali 29.49-54 (English e-text, archive.org)",
+        "view": "Saturn in Leo aspected by the Sun: poverty and misery; Moon: wealth, fame, royal favour; Mars: wandering, misfortune; Mercury: poor, lazy; Jupiter: chief and rich in his town, with progeny; Venus: splendour, wealth, a good end.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Brihat Jataka 18.18 (tr. M. D. Neely)",
+        "view": "Saturn in Leo: coarse conduct, unhappiness, trouble with children, toilsome labour.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501823.html"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Leo is inimical.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Leo: severe, obstinate, few sons, unfortunate, conflicting, hard worker, good writer.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa from Leo: uneasiness, distrust, disappointments, unrest, money troubles if afflicted.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Saturn and Saturn-in-houses dignity notes (archive.org scan)",
+        "view": "For Taurus and Libra ascendants Saturn in the 4th gives happiness and plentiful fixed assets.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources agree on difficulty. Saravali and Raman see writing and reading as a compensating gift; Brihat Jataka does not mention it. Braha's lagna-based note for Taurus ascendant is more favourable than the sign verses.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as recognition that arrives through persistence and humility. Avoid predicting estrangement; say relationships benefit from softening pride."
+  },
+  {
+    "id": "planet_in_sign/saturn/virgo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Virgo"
+    },
+    "summary": "Saturn in Virgo, the sign of its friend Mercury, gets mixed verdicts. Saravali lists dependence, few friends and low conduct, but also sons, wealth, helpfulness and caution; Raman's sign list is harsh, yet his dasa note promises elevation and fame. Foss says Virgo has a particular problem with Saturn.",
+    "themes": [
+      "friendly sign",
+      "caution",
+      "helpfulness",
+      "dependence",
+      "mixed verdicts"
+    ],
+    "common_outcomes": [
+      "Cautious in action and helpful to others (Saravali 29.11-12)",
+      "Sons and wealth, with some dependence on others and few friends (Saravali 29.11-12)",
+      "Raman lists poverty, quarrelsomeness and conservatism but also a taste for public life (HPA ch.22)",
+      "Raman's dasa note: elevation, royal favour, business success and fame (HPA ch.24)"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.17 (Mercury's signs): uneven in writing or painting, lacking comfort",
+      "Saravali 29.40: Mercury aspect gives wealth and skill in arts; 29.42: Venus aspect, a teacher of yoga or saint"
+    ],
+    "by_area": {
+      "personality": "Cautious and helpful (Saravali 29.11-12); Raman lists narrow-minded, erratic and conservative traits (HPA ch.22).",
+      "career": "Taste for public life (Raman HPA ch.22); elevation and business success in Saturn's dasa (Raman HPA ch.24).",
+      "finance": "Saravali 29.11-12 gives wealth; Raman's sign list says poor (HPA ch.22).",
+      "health": "",
+      "relationships": "",
+      "family": "Saravali 29.11-12 gives sons and wealth.",
+      "spirituality": "Foss recommends worship of the Sun (Gayatri) to meet Saturn's difficulty in Virgo (name 34)."
+    },
+    "strengtheners": [
+      "Mercury is Saturn's friend (Braha; Bhavartha Ratnakara 15.7 lists Virgo as friendly)",
+      "Mercury or Jupiter aspect on Saturn (Saravali 29.40-41)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars aspect (Saravali 29.39)",
+      "Foss: Saturn's air opposes the earth of Mercury's Virgo, giving Virgo a particular problem with Saturn (name 34)"
+    ],
+    "lagna_or_context_notes": "Raman (HPA ch.17) names Saturn the sole rajayoga planet for Taurus and Libra lagnas, so its sign results tend to be felt more favourably there.",
+    "source_views": [
+      {
+        "source": "Saravali 29.11-12 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Virgo: crafty, dependent on others for food, few friends, unacquainted with arts, indolent, yet possesses sons and wealth, helpful to others and cautious in actions.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Saravali 29.37-42 (English e-text, archive.org)",
+        "view": "Aspects in Mercury's signs: Mercury gives wealth and arts; Jupiter trust and virtue; Mars burdens; Venus a yoga teacher or saint.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Brihat Jataka 18.17 (tr. M. D. Neely)",
+        "view": "Mercury's signs: lacking modesty, comfort, wealth, children; inconsistent in writing or painting.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501822.html"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Virgo is friendly.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Virgo: malicious, poor, quarrelsome, erratic, narrow-minded, conservative, taste for public life.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa from Virgo: elevation to high positions, royal favour, business success, fame.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Saturn (commentary on Saturn's 108 names, archive.org)",
+        "view": "Commentary on name 34: Saturn (air) opposes Mercury's earth; Virgo has a particular problem with Saturn, answered by worship of the Sun (Gayatri).",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Friendly by dignity tables, but Foss calls Virgo problematic for Saturn. Brihat Jataka denies children and wealth for Mercury's signs while Saravali gives sons and wealth for Virgo. Raman's sign list is harsh but his dasa note is favourable.",
+    "confidence": "medium",
+    "phrasing_guidance": "Highlight diligence, craft and service. Do not make moral judgements about the person."
+  },
+  {
+    "id": "planet_in_sign/saturn/libra",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Libra"
+    },
+    "summary": "Saturn is exalted in Libra (deepest at 20 degrees), in the sign of its friend Venus. It is one of Saturn's best placements: classical and modern texts agree on wealth, standing, sound judgment and leadership of groups or institutions.",
+    "themes": [
+      "exaltation",
+      "justice and fairness",
+      "public respect",
+      "leadership of groups",
+      "enjoyment"
+    ],
+    "common_outcomes": [
+      "Respect and leadership within groups, towns and institutions (Brihat Jataka 18.18; Saravali 29.13-14: senior in his circle)",
+      "Wealth and honour, including from abroad (Saravali 29.13-14; Brihat Jataka 18.18)",
+      "Raman: famous, founder of institutions, tactful, respected, sound judgment, charitable (HPA ch.22)",
+      "Sasa yoga (a Pancha Mahapurusha yoga) when Saturn is in an angle in its exaltation or own sign (Saravali 37.2)"
+    ],
+    "rare_outcomes": [
+      "Saravali 29.13-14 adds association with dancers and courtesans",
+      "Saravali 29.32: Moon aspect gives wealth and ministers' honour; 29.36: Venus aspect gives gems and royal favour; 29.34: Mercury aspect weakens",
+      "Phaladeepika 9.14: an exalted planet gives rulership, fame and courage",
+      "Raman's dasa note: foreign travel, opening new business branches, public speaking and honour (HPA ch.24)"
+    ],
+    "by_area": {
+      "personality": "Raman: tactful, powerful, independent, proud, sound in judgment (HPA ch.22); Saravali 29.13-14: soft-spoken and good.",
+      "career": "King or scholar, high status through gracious speech in assemblies (Saravali 29.13-14); founder of institutions (Raman HPA ch.22); Braha describes Saturn in Libra in the 10th as great career success growing with age.",
+      "finance": "Rich, earning money from abroad, wealth protected by relatives (Saravali 29.13-14).",
+      "health": "",
+      "relationships": "Saravali 29.13-14 and Raman (subservient to women, HPA ch.22) note strong attachments.",
+      "family": "Wealth protected by relatives (Saravali 29.13-14); domestic happiness in Saturn's dasa (Raman HPA ch.24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saturn in an angle (Sasa yoga, Saravali 37.2, 37.8-10)",
+      "Moon, Jupiter or Venus aspect (Saravali 29.32, 29.35, 29.36)",
+      "Close to 20 degrees, the exaltation point (BPHS 3.49-50; Frawley p.125)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mercury aspect (Saravali 29.34) and Sun aspect (29.31)",
+      "Frawley: an exaltation can be cancelled by malefic aspect, difficult houses or rulership of malefics, and an exalted but neutralised planet gives poor results (p.127)"
+    ],
+    "lagna_or_context_notes": "Raman (HPA ch.17) names Saturn the sole rajayoga planet for Taurus and Libra lagnas, so its sign results tend to be felt more favourably there, so for Libra lagna this is the yogakaraka exalted in the lagna. Braha: Saturn in Libra in the ascendant gives leadership and high status; Foss cites Margaret Thatcher (Libra rising, exalted Saturn) as an example of leadership and a well-presented style.",
+    "source_views": [
+      {
+        "source": "BPHS 3.49-50",
+        "view": "Saturn exalted in Libra at 20 degrees.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-49/"
+      },
+      {
+        "source": "BPHS 3.59",
+        "view": "A planet in exaltation gives full auspicious results.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-59/"
+      },
+      {
+        "source": "Brihat Jataka 18.18 (tr. M. D. Neely)",
+        "view": "Saturn in Libra: respected by groups, towns, armies and villages; wealthy.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501823.html"
+      },
+      {
+        "source": "Saravali 29.13-14 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Libra: rich, soft-spoken, earns money and honours from foreign countries, a king or scholar, wealth protected by relatives, senior in his circle, high status from gracious speech in assemblies; also joins dancers and courtesans.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Saravali 37.2, 37.8-10 (English e-text, archive.org)",
+        "view": "Saturn in its own or exaltation sign in an angle forms Sasa yoga: famous, an army chief, skilful in all assignments.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Libra is the sign of exaltation.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Phaladeepika 9.14",
+        "view": "An exalted planet gives rulership, praise and fame.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Libra: famous, founder of institutions, rich, tactful, powerful, respected, sound judgment, independent, proud, charitable.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa from Libra: foreign travel, new business branches, public lectures, honour and domestic happiness.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Saturn and Saturn-in-houses dignity notes (archive.org scan)",
+        "view": "Saturn functions best in Libra; in Libra, Capricorn or Aquarius in the 1st or 10th it gives leadership, high status and career success.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Saturn (commentary on Saturn's 108 names, archive.org)",
+        "view": "Commentary on names 19 and 57: Thatcher, with exalted Saturn rising in Libra, rose to leadership; the Venus sign showed in her careful presentation.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Little disagreement on strength. Saravali and Raman add indulgent or proud traits that Brihat Jataka omits. Frawley warns that exaltation can be neutralised by affliction.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe as earned authority and fairness. Avoid promising fame or wealth outright; say the placement supports steady rise through responsibility."
+  },
+  {
+    "id": "planet_in_sign/saturn/scorpio",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Scorpio"
+    },
+    "summary": "Saturn in Scorpio is in the sign of its enemy Mars. Classical and modern texts describe a hostile, harsh and miserly temperament, wealth gained through others and a risk-prone life; it is a placement of endurance under pressure.",
+    "themes": [
+      "enemy sign",
+      "intensity",
+      "secrecy",
+      "others' resources",
+      "endurance through crises"
+    ],
+    "common_outcomes": [
+      "Hostile, ill-tempered or harsh temperament (Saravali 29.15-16; Brihat Jataka 18.17; Raman HPA ch.22)",
+      "Wealth, including through others' money, alongside losses and misery (Saravali 29.15-16)",
+      "Reserved, adventurous and hard-hearted (Raman HPA ch.22)",
+      "Raman's dasa note: displeasure of superiors and loss of prestige (HPA ch.24)"
+    ],
+    "rare_outcomes": [
+      "Saravali 29.15-16 and Raman (HPA ch.22) list risks from poison, fire or weapons (a risk theme, never a prediction)",
+      "Saravali 29.15-16 says averse to festive music",
+      "Saravali 29.29: Jupiter aspect in a Mars sign gives wealth, fortune and a minister's or chief's position"
+    ],
+    "by_area": {
+      "personality": "Hostile, crooked, egoistic in Saravali 29.15-16; Raman: reserved, adventurous, hard-hearted, rash (HPA ch.22).",
+      "career": "Raman's dasa note warns of friction with superiors and loss of prestige (HPA ch.24).",
+      "finance": "Rich and miserly, gaining others' money, yet facing loss (Saravali 29.15-16); Raman adds wastefulness (HPA ch.22).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter aspect (Saravali 29.29)",
+      "Sun aspect gives agricultural wealth (Saravali 29.25)",
+      "Retrograde Saturn (Phaladeepika 9.20)"
+    ],
+    "weakeners_or_cancellations": [
+      "Moon, Mars, Mercury or Venus aspect in a Mars sign is negative (Saravali 29.26-28, 29.30)",
+      "Phaladeepika 9.17 enemy-sign effects in dasa",
+      "Frawley: Saturn in a water sign tends to negate the water element (p.115)"
+    ],
+    "lagna_or_context_notes": "Raman (HPA ch.17) names Saturn the sole rajayoga planet for Taurus and Libra lagnas, so its sign results tend to be felt more favourably there.",
+    "source_views": [
+      {
+        "source": "Saravali 29.15-16 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Scorpio: hostile, crooked, very ill-tempered, miserly, egoistic, rich, takes others' money, averse to festive music, malicious; risks from poison and weapons; misery.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Saravali 29.25-30 (English e-text, archive.org)",
+        "view": "Aspects in Mars's signs: Jupiter gives wealth and a minister's rank; Sun gives agricultural wealth; Moon, Mars, Mercury and Venus are unfavourable.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Brihat Jataka 18.17 (tr. M. D. Neely)",
+        "view": "Saturn in Scorpio: harsh, fickle, merciless.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501822.html"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Scorpio is inimical.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Scorpio: rash, hard-hearted, adventurous, reserved, unscrupulous, unhappy, wasteful; danger from poison, fire and weapons.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa from Scorpio: displeasure of superiors, loss of prestige, damage to property.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      }
+    ],
+    "disagreements": "Texts agree on difficulty. Saravali says rich (through others' money) while Raman says wasteful. The earlier reading of a 'connection with music' was a mistranslation; Saravali says averse to festive music.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of depth, endurance and handling shared resources carefully. Never mention injury, poison or violence as predictions."
+  },
+  {
+    "id": "planet_in_sign/saturn/sagittarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Sagittarius"
+    },
+    "summary": "Saturn in Sagittarius is in Jupiter's sign, neutral to Saturn. Classical texts are favourable: skill in teaching and sacred learning, fame through good children and family, few words, and wealth in old age. Foss and Braha both say Saturn does especially well in Jupiter's signs.",
+    "themes": [
+      "neutral sign",
+      "dharma",
+      "learning",
+      "trusted authority",
+      "late prosperity"
+    ],
+    "common_outcomes": [
+      "Trusted position with authorities; good children, spouse and wealth (Brihat Jataka 18.19)",
+      "Skill in conduct, teaching and the meaning of sacred texts (Saravali 29.17-18)",
+      "Fame through virtuous children, family profession and own virtues; affluence in old age (Saravali 29.17-18)",
+      "Raman's dasa note: philosophical and religious study and peace (HPA ch.24)"
+    ],
+    "rare_outcomes": [
+      "Saravali 29.17-18 says speaks little and has many names",
+      "Saravali 29.59: Jupiter aspect makes one a king, minister or army chief; 29.58: Mercury aspect a respected preceptor; 29.57: Mars aspect is unfavourable",
+      "Brihat Jataka 18.19: leadership of a town, army or village"
+    ],
+    "by_area": {
+      "personality": "Speaks little, soft in disposition (Saravali 29.17-18); Raman: peaceful, faithful, courteous, sometimes pretentious (HPA ch.22).",
+      "career": "Teaching and sacred learning (Saravali 29.17-18); leading a town or group (Brihat Jataka 18.19).",
+      "finance": "Excellent affluence in old age (Saravali 29.17-18).",
+      "health": "",
+      "relationships": "Brihat Jataka 18.19 gives a good spouse; Raman notes troubles with wife (HPA ch.22).",
+      "family": "Fame through virtuous children and family profession (Saravali 29.17-18); dutiful children (Raman HPA ch.22).",
+      "spirituality": "Study of philosophy and religion (Raman HPA ch.24)."
+    },
+    "strengtheners": [
+      "Jupiter or Mercury aspect (Saravali 29.58-59)",
+      "Foss and Braha: Saturn is most auspicious in Jupiter's signs despite Jupiter being only neutral to it"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars aspect (Saravali 29.57)",
+      "Phaladeepika 9.19: a neutral sign gives no marked change by itself"
+    ],
+    "lagna_or_context_notes": "Raman (HPA ch.17) names Saturn the sole rajayoga planet for Taurus and Libra lagnas, so its sign results tend to be felt more favourably there.",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.19 (tr. M. D. Neely)",
+        "view": "Saturn in Jupiter's signs: trusted in a ruler's household, good children, spouse and wealth, leads a town, army or village.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501824.html"
+      },
+      {
+        "source": "Saravali 29.17-18 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Sagittarius: skilful in conduct, teaching, Vedic meaning and learning; famous through virtuous children, family profession and own virtues; affluent in old age; speaks little; many names; soft-natured.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Saravali 29.55-60 (English e-text, archive.org)",
+        "view": "Saturn in Sagittarius or Pisces aspected by Jupiter: king, minister or army chief; Mercury: king-like, a preceptor; Moon: two names, wife, children and wealth; Mars: unfavourable; Venus: unsteady, lives in forests or hills.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Sagittarius is neutral.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Sagittarius: artful, famous, peaceful, faithful, pretentious, courteous, dutiful children, troubles with wife, generally happy.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa from Sagittarius: success in philosophical and religious study, family celebrations, peace of mind.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Saturn (commentary on Saturn's 108 names, archive.org)",
+        "view": "Commentary on name 9: Saturn is at its most auspicious in Sagittarius and Pisces under Jupiter's guiding influence.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Saturn and Saturn-in-houses dignity notes (archive.org scan)",
+        "view": "Scriptures commonly say Saturn gives excellent results in Sagittarius and Pisces even though Jupiter is technically neutral to it.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Classical verses and modern authors (Foss, Braha) are positive although the dignity is only neutral. Raman notes marital trouble that Brihat Jataka does not.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe as earned trust and principled leadership that matures over time. Avoid guaranteeing children or wealth."
+  },
+  {
+    "id": "planet_in_sign/saturn/capricorn",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Capricorn"
+    },
+    "summary": "Saturn in Capricorn is in its own sign. Saravali gives learning, many arts, honour among one's people, courage and residence abroad; Brihat Jataka gives leadership of a town or group; Raman adds intelligence and domestic harmony, and Foss calls Capricorn steady and suited to big business.",
+    "themes": [
+      "own sign",
+      "organisation",
+      "responsibility",
+      "practical leadership",
+      "travel"
+    ],
+    "common_outcomes": [
+      "Learning, virtues and knowledge of many fine arts; excellent among his people, honourable and famous (Saravali 29.19-20)",
+      "Leadership of a town, group or unit (Brihat Jataka 18.19)",
+      "Living in foreign places; courageous and polite (Saravali 29.19-20)",
+      "Sasa yoga when in an angle (Saravali 37.2)"
+    ],
+    "rare_outcomes": [
+      "Saravali 29.19-20 says he lords over lands of others' women and likes bathing and decoration",
+      "Brihat Jataka 18.19: wealth connected with another's spouse, unkempt appearance",
+      "Saravali 29.65: Jupiter aspect gives fame, royal status, long life and good health; 29.63: Mars aspect gives valour and fame; 29.61 (Sun) and 29.62 (Moon) aspects give hardship",
+      "Raman: inheritance through the spouse's family (HPA ch.22)"
+    ],
+    "by_area": {
+      "personality": "Courageous and polite (Saravali 29.19-20); Raman: intelligent, prudent, reflective but suspicious and melancholy (HPA ch.22); Foss: steady and unflinching.",
+      "career": "Leadership of a group (Brihat Jataka 18.19); Foss links Capricorn with big business; Braha: in the 10th house, great career success growing with age.",
+      "finance": "Raman's dasa note: increase in lands, wealth and business (HPA ch.24).",
+      "health": "",
+      "relationships": "Raman: harmony in domestic life (HPA ch.22).",
+      "family": "",
+      "spirituality": "Saravali 29.19-20 gives Vedic knowledge."
+    },
+    "strengtheners": [
+      "Angle placement (Sasa yoga, Saravali 37.2)",
+      "Jupiter, Mars or Venus aspect (Saravali 29.63, 29.65, 29.66)",
+      "Phaladeepika 9.15: own-sign planet brings settled position, property and honour in its dasa"
+    ],
+    "weakeners_or_cancellations": [
+      "Sun or Moon aspect (Saravali 29.61-62)",
+      "Combustion (Phaladeepika 9.19)",
+      "Foss: Capricorn Saturn can cause divisions in the pursuit of dominance (name 35)"
+    ],
+    "lagna_or_context_notes": "Raman (HPA ch.17) names Saturn the sole rajayoga planet for Taurus and Libra lagnas, so its sign results tend to be felt more favourably there. Braha: Saturn in Capricorn in the ascendant gives leadership and high status, and in the 4th (Libra lagna) homes and real estate.",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.19 (tr. M. D. Neely)",
+        "view": "Saturn in own sign: leads a town, army or village, steady wealth; some unflattering traits.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501824.html"
+      },
+      {
+        "source": "Saravali 29.19-20 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Capricorn: lords over lands of others' women, Vedic knowledge, virtues and many fine arts, excellent among his caste-men, honourable, famous, likes bathing and decoration, skilled in performance, lives abroad, courageous, polite.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Saravali 29.61-66 (English e-text, archive.org)",
+        "view": "Saturn in Capricorn or Aquarius aspected by the Sun: sick, wandering, carries loads; Moon: fickle, rich but sorrowful; Mars: valorous and famous; Mercury: learned, fortunate but not wealthy; Jupiter: famous, royal, long-lived and healthy; Venus: rich, fortunate, happy.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Capricorn is its own house.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "Phaladeepika 9.15",
+        "view": "Own-sign planet: gains power, house and land, honour among his people.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Capricorn: intelligent, domestic harmony, learned, reflective, prudent, but selfish, suspicious and melancholy; inheritance from the spouse's family.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa from Capricorn: increase in lands, wealth and business; friendship with eminent people.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Saturn (commentary on Saturn's 108 names, archive.org)",
+        "view": "Commentary on names 25-26 and 35: Capricorn is moveable yet Saturn there is steady; it represents big business and can divide in gaining dominance.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Saturn and Saturn-in-houses dignity notes (archive.org scan)",
+        "view": "Saturn rules Capricorn and gives very good results there; in the 1st or 10th it gives leadership and career success.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Strength is agreed. The earlier file put untruthful and indulgent traits under Capricorn; in the Saravali text those belong to Aquarius (29.21-22). Brihat Jataka still gives some unflattering traits for Saturn's own signs.",
+    "confidence": "high",
+    "phrasing_guidance": "Emphasise reliability, organisation and earned authority. Avoid character labels like 'untruthful'."
+  },
+  {
+    "id": "planet_in_sign/saturn/aquarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Aquarius"
+    },
+    "summary": "Saturn in Aquarius is in its moolatrikona (0-20 degrees) and own sign beyond, and Foss calls it Saturn's strongest sign. Classical verses are nevertheless harsh (untruthful, harsh speech, many undertakings), while Raman's modern list is favourable: practical, able, diplomatic and philosophical.",
+    "themes": [
+      "moolatrikona",
+      "many undertakings",
+      "harsh speech (classical view)",
+      "practical diplomacy",
+      "influence over groups"
+    ],
+    "common_outcomes": [
+      "Attempts many undertakings (Saravali 29.21-22)",
+      "Eminent standing (Saravali 29.21-22); leadership of a group with steady means (Brihat Jataka 18.19)",
+      "Raman: practical, able, diplomatic, ingenious, prudent, reflective, philosophical (HPA ch.22)",
+      "Sasa yoga when in an angle (Saravali 37.2)"
+    ],
+    "rare_outcomes": [
+      "Saravali 29.21-22 lists untruthfulness, harsh speech, indulgence and aversion to tradition",
+      "Raman: can be overcome by enemies (HPA ch.22); his dasa note gives travel westward, success in litigation and wealth (HPA ch.24)",
+      "BPHS 3.59: moolatrikona gives three-quarters of full benefic results"
+    ],
+    "by_area": {
+      "personality": "Raman: practical, diplomatic, reflective (HPA ch.22); Saravali 29.21-22: harsh in speech.",
+      "career": "Many undertakings (Saravali 29.21-22); Braha: in the 10th, a powerful leader with a vision for organisations; Foss: Saturn rising in Aquarius gives influence over the masses (Karl Marx example).",
+      "finance": "Raman's dasa note: acquisition of wealth (HPA ch.24).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Raman lists a philosophical turn (HPA ch.22)."
+    },
+    "strengtheners": [
+      "Angle placement (Sasa yoga, Saravali 37.2)",
+      "Jupiter, Mars or Venus aspect (Saravali 29.63, 29.65, 29.66)",
+      "Degree within 0-20, the moolatrikona (BPHS 3.54; Raman HPA ch.6; Frawley p.127)"
+    ],
+    "weakeners_or_cancellations": [
+      "Sun or Moon aspect (Saravali 29.61-62)",
+      "Combustion (Phaladeepika 9.19)"
+    ],
+    "lagna_or_context_notes": "Raman (HPA ch.17) names Saturn the sole rajayoga planet for Taurus and Libra lagnas, so its sign results tend to be felt more favourably there. Braha: Saturn in Aquarius in the ascendant gives leadership and high status. Foss notes the tamas of both Saturn and Aquarius when Saturn rises there.",
+    "source_views": [
+      {
+        "source": "BPHS 3.54",
+        "view": "First 20 degrees of Aquarius are Saturn's moolatrikona; the rest is own sign.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3/verse-54/"
+      },
+      {
+        "source": "Saravali 29.21-22 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Aquarius: a great liar yet eminent, addicted to women and wine, crafty, ill-tempered, averse to learning and traditional law, harsh in speech, attempts many undertakings.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Saravali 29.61-66 (English e-text, archive.org)",
+        "view": "Own-sign aspects: Jupiter gives fame and royal status; Mars valour; Venus wealth and happiness; Sun and Moon hardship.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Brihat Jataka 18.19 (tr. M. D. Neely)",
+        "view": "Own sign: leadership of a town or group, steady means.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501824.html"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Aquarius is moolatrikona as well as own house.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Aquarius: practical, able, diplomatic, ingenious, prudent, happy, reflective, philosophical; vanquished by enemies.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa from Aquarius: travel westward, success in litigation, happiness and wealth. Raman (ch.6) gives Saturn's moolatrikona as Aquarius 0-20.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Saturn (commentary on Saturn's 108 names, archive.org)",
+        "view": "Commentary on names 19 and 64: Aquarius is Saturn's strongest sign; Saturn rising there (Karl Marx) gives influence over the masses with a tamasic colour.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Saturn and Saturn-in-houses dignity notes (archive.org scan)",
+        "view": "Saturn gives very good results in Aquarius; in the 1st or 10th, leadership and high status.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali's Aquarius verse is harsh, whereas dignity (moolatrikona) and modern authors (Raman, Braha, Foss) are favourable. The earlier file attached Saravali's gem-testing and calm-leadership lines to Aquarius; those are in the Pisces verse (29.23-24). BPHS 3.54, Raman and Frawley agree on Aquarius 0-20 as moolatrikona.",
+    "confidence": "medium",
+    "phrasing_guidance": "Emphasise strength, collective purpose and independence; mention bluntness as a style to soften. Do not mention addiction or illicit relationships as predictions."
+  },
+  {
+    "id": "planet_in_sign/saturn/pisces",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Saturn",
+      "sign": "Pisces"
+    },
+    "summary": "Saturn in Pisces is in Jupiter's sign, neutral to Saturn. Saravali is kind: fond of sacrifices and arts, chief among relatives and friends, calm, skilled in policy and in judging gems, virtuous and modest, with growing wealth and authority later in life. Foss and Braha both rate Jupiter's signs highly for Saturn.",
+    "themes": [
+      "neutral sign",
+      "humility",
+      "devotion",
+      "late respect",
+      "generosity"
+    ],
+    "common_outcomes": [
+      "Chief among relatives and friends; calm, virtuous and modest (Saravali 29.23-24)",
+      "Increasing wealth and an authoritative position later in life (Saravali 29.23-24)",
+      "Trusted role, good family, leadership (Brihat Jataka 18.19)",
+      "Raman: clever, gifted, polite, helpful and wealthy (HPA ch.22)"
+    ],
+    "rare_outcomes": [
+      "Saravali 29.23-24: skill at testing diamonds and in policy-making",
+      "Saravali 29.60: Venus aspect, living in forests or hills, unsteady; 29.56: Moon aspect, two names with wife, children and wealth",
+      "Raman's dasa note: pilgrimages and indifference to sectarian rules, with some sorrow and unrest (HPA ch.24)"
+    ],
+    "by_area": {
+      "personality": "Calm, virtuous, modest (Saravali 29.23-24); Raman: clever, polite, helpful, sometimes scheming (HPA ch.22).",
+      "career": "Skill in policy-making; authority later in life (Saravali 29.23-24).",
+      "finance": "Increasing wealth (Saravali 29.23-24); wealthy (Raman HPA ch.22).",
+      "health": "",
+      "relationships": "",
+      "family": "Chief among relatives and friends (Saravali 29.23-24).",
+      "spirituality": "Fond of sacrifices (Saravali 29.23-24); pilgrimage in Saturn's dasa (Raman HPA ch.24)."
+    },
+    "strengtheners": [
+      "Jupiter or Mercury aspect (Saravali 29.58-59)",
+      "Foss and Braha: Saturn is most auspicious in Jupiter's signs"
+    ],
+    "weakeners_or_cancellations": [
+      "Mars aspect (Saravali 29.57)",
+      "Neutral dignity alone does not raise results (Phaladeepika 9.19)",
+      "Frawley: Saturn in a water sign tends to negate the water element (p.115)"
+    ],
+    "lagna_or_context_notes": "Raman (HPA ch.17) lists Saturn as ill-disposed for Aries, Leo and Pisces lagnas, so for Pisces lagna Saturn rising here is weighed against that functional role. Raman (HPA ch.17) names Saturn the sole rajayoga planet for Taurus and Libra lagnas, so its sign results tend to be felt more favourably there.",
+    "source_views": [
+      {
+        "source": "Saravali 29.23-24 (English e-text on archive.org whose chapter captions and wording match R. Santhanam's translation; translator not named in the file)",
+        "view": "Saturn in Pisces: fond of sacrifices and arts, chief among relatives and friends, calm, increasing wealth, skilled in policy, able to test diamonds, virtuous, modest, later acquires authority.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Brihat Jataka 18.19 (tr. M. D. Neely)",
+        "view": "Saturn in Jupiter's signs: trusted, good children and spouse, wealth, leadership.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501824.html"
+      },
+      {
+        "source": "Saravali 29.55-60 (English e-text, archive.org)",
+        "view": "Aspects in Jupiter's signs: Jupiter makes one a king, minister or army chief; Mercury a preceptor; Mars unfavourable.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali"
+      },
+      {
+        "source": "Bhavartha Ratnakara ch.15 v.7 'Planetary rulerships' (English compilation by Ramapriya, archive.org)",
+        "view": "For Saturn, Pisces is neutral.",
+        "url": "https://archive.org/details/BhavarthaRatnakara"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.22 'Planets in Different Rasis', Saturn (pp.132-134)",
+        "view": "Saturn in Pisces: clever, gifted, polite, happy, good, scheming, wealthy, helpful.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch.24, Saturn's dasa by sign (pp.158-159)",
+        "view": "Saturn's dasa from Pisces: pilgrimages, indifference to sectarian observances, some sorrow and unrest.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Saturn (commentary on Saturn's 108 names, archive.org)",
+        "view": "Commentary on name 9: Saturn is at its most auspicious in Sagittarius and Pisces.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, chapter on Saturn and Saturn-in-houses dignity notes (archive.org scan)",
+        "view": "Scriptures say Saturn gives excellent results in Jupiter's signs.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources broadly agree this is benign; the gem-testing line, earlier uncertain between Aquarius and Pisces, belongs to Pisces in the English Saravali (29.23-24). Raman's dasa note is more mixed than his sign list.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe quiet virtue, service and respect that matures with time. Avoid promising specific status."
+  }
+]

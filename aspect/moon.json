@@ -1,0 +1,2115 @@
+[
+  {
+    "id": "aspect/moon/1",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 1
+    },
+    "summary": "The Moon's full aspect on the lagna (Moon in the 7th) gives a gentle, courteous and fortunate nature, wealth, gains from water-related trade and a strong influence of women in one's life.",
+    "themes": [
+      "gentleness",
+      "wealth",
+      "women",
+      "public"
+    ],
+    "common_outcomes": [
+      "courteous and soft-natured (Saravali 34.1-7)",
+      "fortunate and wealthy (Saravali 34.1-7)",
+      "gains through water-born goods (Saravali 34.1-7)",
+      "under the influence of women (Saravali 34.1-7)",
+      "better proportion and delicacy of body (Raman HJH vol. 1 ch. 4, chart notes)"
+    ],
+    "rare_outcomes": [
+      "Lagna in a decanate of Mercury aspected by the Moon from an angle: even one of royal birth turns to craft work (Saravali 34.71).",
+      "The Moon cannot aspect itself; on aspects of the Moon on the Sun Saravali ch. 22 gives sign-wise results, e.g. Sun in Cancer aspected by the Moon: a king or equal to a king (22.28-33); Sun in Leo aspected by the Moon: a scholar (22.36-41)."
+    ],
+    "by_area": {
+      "personality": "Soft, courteous, sensitive (Saravali 34.1-7).",
+      "career": "",
+      "finance": "Wealthy; trade in water-born or liquid goods (Saravali 34.1-7).",
+      "health": "Better bodily proportion (Raman HJH vol. 1 ch. 4).",
+      "relationships": "Women strongly shape the native's choices (Saravali 34.1-7).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Waxing Moon increases the good (Trailokya Prakasa via Santhanam).",
+      "Saravali 34.8: Cancer lagna aspected by its own lord gives happiness, wealth and closeness to rulers.",
+      "Two or more planets aspecting the lagna give happiness and wealth (Saravali 34.10-11)."
+    ],
+    "weakeners_or_cancellations": [
+      "Waning Moon reduces the effects (Trailokya Prakasa via Santhanam)."
+    ],
+    "lagna_or_context_notes": "The Moon casts only the 7th aspect in full, from the 7th house onto the lagna. For Cancer lagna it is the lagna lord's own aspect.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.1-7",
+        "view": "If the Moon aspects the ascendant one is under the control of women, fortunate, very courteous, very wealthy, soft-natured and gains by dealing in water-born articles.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.8, 34.71",
+        "view": "A planet aspecting its own sign as lagna gives happiness and wealth; lagna in Mercury's decanate aspected by the Moon from an angle makes even a royal-born person an artisan.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 22.28-41",
+        "view": "Sun in Cancer aspected by the Moon: king or equal; Sun in Leo aspected by the Moon: a scholar.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 4 (First House), chart notes",
+        "view": "The Moon aspecting the lagna gives better proportion and greater delicacy of figure.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers pp. 236-237",
+        "view": "The Moon counts as a natural benefic when bright (waxing); temporal benefic status comes from house rulership.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as warmth, popularity and comfort; mention emotional dependence on others gently. Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "1 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "happiness, wealth and closeness to people in power"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; Saravali 34.8"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 7,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 11,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 4,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 9,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 5,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 10,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 6,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/moon/2",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 2
+    },
+    "summary": "In Saravali the Moon's aspect on the 2nd is a caution for wealth: a weak Moon aspecting a 2nd already holding malefics deepens loss, and the Moon's aspect on Mercury in the 2nd costs earned wealth; Raman reads the Moon's link with Mercury in the 2nd more kindly.",
+    "themes": [
+      "wealth",
+      "family resources",
+      "speech"
+    ],
+    "common_outcomes": [
+      "a weak (waning) Moon aspecting the 2nd intensifies the loss shown by Mars, Saturn and the Sun there (Saravali 34.15-20)",
+      "Mercury in the 2nd aspected by the Moon: the wealth earned is lost (Saravali 34.15-20)"
+    ],
+    "rare_outcomes": [
+      "Raman HJH vol. 1 ch. 5: one loses wealth if Mercury aspected by the Moon joins the Jupiter-in-2nd combination; but the Moon in the 2nd aspected by Mercury favours earning by one's own effort."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Earned wealth can slip away when the Moon aspects Mercury in the 2nd, and a weak Moon worsens malefic damage to the 2nd (Saravali 34.15-20).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "A waxing Moon is not named as harmful here; the rules stress the weak Moon (Saravali 34.15-20)."
+    ],
+    "weakeners_or_cancellations": [
+      "Weak Moon aspecting the 2nd (Saravali 34.15-20)."
+    ],
+    "lagna_or_context_notes": "The Moon aspects the 2nd from the 8th house.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.15-20",
+        "view": "Mars, Saturn and the Sun in the 2nd destroy wealth, more so if a weak Moon aspects the 2nd; Mercury in the 2nd aspected by the Moon deprives the native of earned wealth.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 5 (Second House)",
+        "view": "Loses wealth if Mercury aspected by the Moon contacts the Jupiter-in-2nd combination; the Moon in the 2nd aspected by Mercury favours earning by self-exertion.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Saravali treats the Moon-Mercury link in the 2nd as loss of wealth; Raman keeps that for Mercury aspected by the Moon but reads the reverse (Moon aspected by Mercury) as earning by effort. Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as a need for steady money habits, never as certain loss. Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "2 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "bad",
+        "effects": [
+          "malefic damage to wealth in the 2nd is intensified"
+        ],
+        "source": "Saravali 34.15-20"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 8,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 12,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 5,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 10,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 6,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 11,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 7,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/moon/3",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 3
+    },
+    "summary": "The Moon's aspect on the 3rd adds to the count of younger co-born; when the Moon owns the 3rd its aspect is good for the house.",
+    "themes": [
+      "siblings",
+      "courage",
+      "communication"
+    ],
+    "common_outcomes": [
+      "planets aspecting the 3rd increase the number of younger co-born (Saravali 34.21-24)",
+      "the 3rd lord Moon aspecting the 3rd is good (Raman HJH vol. 2, chart notes)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "More younger siblings indicated (Saravali 34.21-24).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Benefic aspect on the 3rd gives co-born and courage (BPHS 14.1)."
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "The Moon aspects the 3rd from the 9th house.",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 14.1",
+        "view": "The 3rd conjunct or aspected by a benefic gives co-born and courage.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.21-24",
+        "view": "Navamsas passed in the 3rd give the number of younger co-born, increased when other planets aspect the 3rd.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XVI chart notes",
+        "view": "The 3rd lord Moon aspecting the 3rd house is good.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "3 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 9,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 1,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 6,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 11,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 7,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 12,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 8,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/moon/4",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 4
+    },
+    "summary": "The Moon is the significator of the mother and the 4th; its aspect on the 4th, as a benefic aspect, supports home comforts and vehicles.",
+    "themes": [
+      "mother",
+      "home",
+      "vehicles",
+      "peace of mind"
+    ],
+    "common_outcomes": [
+      "benefic aspect on the 4th gives happiness with vehicles and freedom from accidents (BPHS 15.10-14)",
+      "4th occupied by its lord or the lagna lord and aspected by a benefic: full residential comfort (BPHS 15.2)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Comfort with vehicles and property (BPHS 15.10-14).",
+      "health": "",
+      "relationships": "",
+      "family": "Supports mother and home (BPHS 15.2; Raman names the Moon Matrukaraka, HJH vol. 1 ch. 7).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Frawley p. 154: a house significator aspecting its house is good (as opposed to occupying it)."
+    ],
+    "weakeners_or_cancellations": [
+      "Waning Moon reduces the effects (Trailokya Prakasa via Santhanam)."
+    ],
+    "lagna_or_context_notes": "The Moon aspects the 4th from the 10th house.",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 15.2, 15.10-14",
+        "view": "Residential comforts in full if the 4th holds its lord or the lagna lord and is aspected by a benefic; a benefic related to the 4th gives conveyances and safety from accidents.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers p. 154",
+        "view": "It is usually good if the significator of a house aspects that house; it is not considered good if it occupies it.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 7 (Fourth House)",
+        "view": "The Moon is the Matrukaraka (significator of the mother).",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Frawley prefers the significator's aspect to its occupation of the house; BPHS gives no such preference. Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "4 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 10,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 2,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 7,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 12,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 8,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 1,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 9,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/moon/5",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 5
+    },
+    "summary": "The Moon's aspect on the 5th is a benefic influence for children and, in Raman and Saravali, leans towards daughters; with Saturn or Mercury in their own 5th it points to adoption.",
+    "themes": [
+      "children",
+      "daughters",
+      "creativity"
+    ],
+    "common_outcomes": [
+      "the Moon's aspect on the 5th favours more female children (Raman HJH vol. 1 ch. 8, chart notes)",
+      "a benefic aspect on the 5th gives children and doubles their count (Saravali 34.25-27)",
+      "5th with only Moon/Venus divisions and aspects of the Moon and Venus alone: daughters only (Saravali 34.39)"
+    ],
+    "rare_outcomes": [
+      "Saturn in his own 5th aspected by the Moon, or Mercury in his own 5th aspected by the Moon: a child by adoption or purchase (Saravali 34.29)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "Children, often daughters (Raman HJH vol. 1 ch. 8; Saravali 34.39).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Benefic aspect on the 5th (Saravali 34.25-27)."
+    ],
+    "weakeners_or_cancellations": [
+      "Waning Moon reduces the effects (Trailokya Prakasa via Santhanam)."
+    ],
+    "lagna_or_context_notes": "The Moon aspects the 5th from the 11th house.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 8 (Fifth House), chart notes",
+        "view": "The Moon's aspect on the 5th produces a beneficial influence favouring the birth of more female children.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.25-29, 34.39",
+        "view": "Benefic aspect on the 5th gives and doubles children; the Moon's aspect on Saturn or Mercury in their own 5th gives adoption; Moon and Venus influence alone gives daughters.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 11.14-16",
+        "view": "A house aspected by a benefic prospers.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Speak of a caring, nurturing influence on children; do not predict the sex of children as certain. Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "5 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 11,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 3,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 8,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 1,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 9,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 2,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 10,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/moon/6",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 6
+    },
+    "summary": "The Moon's aspect on the 6th has no direct classical result; it appears in infant-health combinations and in Raman's disease case notes.",
+    "themes": [
+      "health",
+      "enemies"
+    ],
+    "common_outcomes": [],
+    "rare_outcomes": [
+      "6th or 8th house in Cancer occupied by Mercury and aspected by the Moon: [maraka: text predicts the child's death in the 4th year] (Raman HJH vol. 2 ch. XII, balarishta list).",
+      "6th lord Mars aspected by the Moon from Pisces: tendency to fluid retention (dropsy) (Raman HJH vol. 1 ch. 9, chart notes)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "Fluid-related tendencies in a Raman case (HJH vol. 1 ch. 9).",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Benefic aspect on the 6th keeps one free from fear of enemies (Saravali 34.43-44)."
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "The Moon aspects the 6th from the 12th house.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.43-44",
+        "view": "Occupation or aspect of benefics on the 6th keeps one free from fear of enemies.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XII (Eighth House)",
+        "view": "Balarishta: 6th or 8th in Cancer with Mercury aspected by the Moon, child dies in the 4th year.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 1 ch. 9 (Sixth House), chart notes",
+        "view": "6th lord Mars in Virgo aspected by the Moon in Pisces gives a dropsical tendency.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Never present infant-death rules. Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "6 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 12,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 4,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 9,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 2,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 10,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 3,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 11,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/moon/7",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 7
+    },
+    "summary": "The Moon's aspect on the 7th shapes the spouse in its own image and adds to the count of marriage indications; with Jupiter in the 7th from the Moon the opposition is called extremely good.",
+    "themes": [
+      "marriage",
+      "spouse",
+      "public"
+    ],
+    "common_outcomes": [
+      "a spouse corresponding to the Moon and the sign involved (Saravali 34.45)",
+      "each aspecting planet adds to the number of marriages counted (Saravali 34.47)",
+      "Moon and Venus influence on the 7th: more than one marriage (Saravali 34.48)"
+    ],
+    "rare_outcomes": [
+      "Saravali 34.49: Moon related to the 7th gives a partner from a different (lower) social order; Ketumalacharya adds that Moon and Venus related to the 7th bring liaisons.",
+      "Jupiter and the Moon in mutual opposition (each aspecting the other) is extremely good (Raman HPA ch. XIII)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "Gentle, caring or changeable partner after the Moon's nature; more than one relationship indicated in Saravali's counting (34.45-48).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman HPA ch. XIII: the Jupiter-Moon opposition is extremely good."
+    ],
+    "weakeners_or_cancellations": [
+      "Waning Moon reduces the effects (Trailokya Prakasa via Santhanam)."
+    ],
+    "lagna_or_context_notes": "The Moon aspects the 7th from the lagna (Moon in the 1st).",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.45-49",
+        "view": "Jupiter, Moon, Venus or Mercury in or aspecting the 7th give a wife after that planet and sign; number of wives follows the planets aspecting the 7th; Moon and Venus give plurality; the Moon with the Sun, Mars and Saturn indicate a wife of lower order.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII",
+        "view": "The opposition aspect is extremely good when formed by Jupiter and the Moon.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Saravali 34.45 counts the Moon's aspect as giving a wife after its nature, while 34.49 groups the Moon with malefics for the spouse's social standing. Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Do not mention caste or multiple marriages as certain; speak of an emotional, nurturing partnership. Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "7 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 1,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 5,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 10,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 3,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 11,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 4,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 12,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/moon/8",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 8
+    },
+    "summary": "No classical rule gives the Moon's aspect on the 8th itself; it appears only in infant-health (balarishta) combinations.",
+    "themes": [
+      "longevity",
+      "hidden matters"
+    ],
+    "common_outcomes": [],
+    "rare_outcomes": [
+      "6th or 8th house in Cancer occupied by Mercury and aspected by the Moon: [maraka: text predicts the child's death in the 4th year] (Raman HJH vol. 2 ch. XII)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "The Moon aspects the 8th from the 2nd house.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XII (Eighth House)",
+        "view": "Balarishta rule with the Moon's aspect on Mercury in a Cancer 6th or 8th.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Never present infant-death rules. Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "8 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 2,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 6,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 11,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 4,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 12,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 5,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 1,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/moon/9",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 9
+    },
+    "summary": "The Moon's aspect on Jupiter in the 9th gives splendour and enjoyment; when the Moon owns the 9th its aspect keeps fortune in the home country.",
+    "themes": [
+      "fortune",
+      "father",
+      "dharma"
+    ],
+    "common_outcomes": [
+      "Jupiter in the 9th aspected by the Moon: splendour and pleasures (Saravali 32.6-7)"
+    ],
+    "rare_outcomes": [
+      "Jupiter in the 9th aspected by the Moon together with: Mars - army chief or minister; Mercury - fine houses, comforts, patience and intelligence; Venus - great wealth but no sons and attachment to others' spouses; Saturn - lasting livelihood abroad but argumentative and untruthful; the Sun - plenty, devotion to parents, fame (Saravali 32.8-16). Valid only when no other planet aspects (32.23)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Comfort and enjoyment when the Moon aspects Jupiter in the 9th (Saravali 32.6-7).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Saravali 32.4: the 9th aspected by its own lord (the Moon for Scorpio lagna) gives fortune in one's own country."
+    ],
+    "weakeners_or_cancellations": [
+      "Saravali 32.4: aspect by a planet other than the 9th lord shifts fortune abroad."
+    ],
+    "lagna_or_context_notes": "The Moon aspects the 9th from the 3rd house.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 32.4",
+        "view": "9th aspected or occupied by its own lord: fortune in one's own country; by others: fortune elsewhere.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 32.6-16, 32.23",
+        "view": "Jupiter in the 9th aspected by the Moon: splendour and pleasures; joint aspects of the Moon with other planets give further results, valid only without other aspects.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "9 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it",
+          "fortune made in one's own country"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII; Saravali 32.4"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "not (9 in md_rules)",
+        "polarity": "mixed",
+        "effects": [
+          "fortune tends to come away from home"
+        ],
+        "source": "Saravali 32.4"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 3,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 7,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 12,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 5,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 1,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 6,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 2,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/moon/10",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 10
+    },
+    "summary": "Raman's career cases read the Moon's aspect on the 10th as work dealing with the public, people and accounts; no classical rule names it.",
+    "themes": [
+      "career",
+      "public",
+      "reputation"
+    ],
+    "common_outcomes": [
+      "10th aspected by the Moon and Jupiter (10th lord in a Mercury navamsa): an accounts officer (Raman HJH vol. 2 ch. XIV, chart)",
+      "the Moon (lagna lord) aspecting the 10th and its lord, itself aspected by Mars: a bold, spirited and steady personality (Raman HJH vol. 2 ch. XIV, chart)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "Public-facing work, administration, accounts (Raman HJH vol. 2 ch. XIV, charts).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Raman HJH vol. 2 ch. XIV: a planet in the 10th receiving a powerful benefic aspect gains the abilities of the aspecting planet."
+    ],
+    "weakeners_or_cancellations": [
+      "Waning Moon reduces the effects (Trailokya Prakasa via Santhanam)."
+    ],
+    "lagna_or_context_notes": "The Moon aspects the 10th from the 4th house.",
+    "source_views": [
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XIV (Tenth House), chart notes and general remarks",
+        "view": "Charts where the Moon's aspect on the 10th shapes public-related or accounting careers; a planet in the 10th powerfully aspected by a benefic shows ability of the aspecting planet's nature.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Raman's examples are single charts. Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "10 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 4,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 8,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 1,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 6,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 2,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 7,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 3,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/moon/11",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 11
+    },
+    "summary": "The Moon related to the 11th brings gains through women and trade; a waxing Moon greatly increases these gains, a waning one gives little.",
+    "themes": [
+      "gains",
+      "income",
+      "women"
+    ],
+    "common_outcomes": [
+      "gains through women and through trade (Saravali 34.59; the text names the sale of elephants)"
+    ],
+    "rare_outcomes": [],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Income through women, the public and trade (Saravali 34.59).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Waxing Moon: gains increase greatly (Saravali 34.59).",
+      "Benefic aspect on the 11th increases gains (Saravali 34.65).",
+      "Exalted: full results; own or friendly sign: about half (Saravali 34.67)."
+    ],
+    "weakeners_or_cancellations": [
+      "Waning Moon: gains are small (Saravali 34.59).",
+      "Combust or inimical: a quarter or less (Saravali 34.67)."
+    ],
+    "lagna_or_context_notes": "The Moon aspects the 11th from the 5th house.",
+    "source_views": [
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.59",
+        "view": "Moon in or related to the 11th: gains through females and the sale of elephants; small if the Moon is declining, great if it is increasing.",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "Saravali (tr. R. Santhanam) 34.65-67",
+        "view": "Benefic aspect on the 11th increases gains; dignity scales them (full exalted, half own/friendly, quarter inimical).",
+        "url": "https://archive.org/details/KalyanaVarmasSaravali_201707"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "11 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase",
+          "gains through women and trade are large"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237; Saravali 34.59"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic",
+          "gains are small"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237; Saravali 34.59"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      },
+      {
+        "when": "md_dignity == 'exalted'",
+        "polarity": "good",
+        "effects": [
+          "gains in full"
+        ],
+        "source": "Saravali 34.67"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 5,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 9,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 2,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 7,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 3,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 8,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 4,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  },
+  {
+    "id": "aspect/moon/12",
+    "layer": "aspect",
+    "key": {
+      "planet": "Moon",
+      "house": 12
+    },
+    "summary": "No classical rule gives the Moon's aspect on the 12th; a Raman case links it, with malefics there, to spending on pleasure.",
+    "themes": [
+      "expenses",
+      "pleasures",
+      "liberation"
+    ],
+    "common_outcomes": [],
+    "rare_outcomes": [
+      "12th holding Venus, Saturn and its lord Mercury, aspected by Mars and the lagna lord Moon: money wasted on pleasures and lost in racing (Raman HJH vol. 2 ch. XVI, chart)."
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Spending on pleasure in a Raman case (HJH vol. 2 ch. XVI).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "BPHS 23.12: the 12th and its lord with and aspected by benefics keep one moving within one's own country."
+    ],
+    "weakeners_or_cancellations": [],
+    "lagna_or_context_notes": "The Moon aspects the 12th from the 6th house.",
+    "source_views": [
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 23.12",
+        "view": "12th and its lord with benefics and aspected by benefics: moving within one's own country.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope vol. 2 ch. XVI (Twelfth House), chart notes",
+        "view": "A 12th afflicted by malefics and aspected by Mars and the Moon: money wasted in pleasures and racing.",
+        "url": "https://archive.org/details/raman-how-to-judge-horoscope-2"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) ch. 11, Santhanam's note citing Hemaprabha Suri's Trailokya Prakasa (via the note)",
+        "view": "A house occupied or aspected by the Moon gains good effects if the Moon is waxing; otherwise its effects diminish.",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "BPHS (tr. R. Santhanam, vol. 1) 26.2-5",
+        "view": "Besides sign aspects, planets aspect the 3rd/10th, 5th/9th, 4th/8th and 7th from themselves with strength rising by quarters (1/4, 1/2, 3/4, full) and give results in proportion; all planets aspect the 7th fully; Saturn, Jupiter and Mars have special (full) aspects on the 3rd/10th, 5th/9th and 4th/8th respectively. Exact aspect values are then computed from longitudes (26.6-12).",
+        "url": "https://archive.org/details/brihatparasarahorashastrabyr.santhanam"
+      },
+      {
+        "source": "Brihat Jataka (tr. V. Subrahmanya Sastri, 2nd ed.) 2.13",
+        "view": "Same scheme: quarter glance on 3rd/10th, half on 5th/9th, three-quarters on 4th/8th, full on 7th; Saturn is strong in his 3rd/10th glance, Jupiter auspicious in his 5th/9th, Mars potent in his 4th/8th. Sastri's note: Mars as lord of war has full sight on the 4th (grave) and 8th (death).",
+        "url": "https://archive.org/details/BrihatJataka2ndEd.ByVSubrahmanyaSastri"
+      },
+      {
+        "source": "Jataka Parijata (tr. V. Subrahmanya Sastri) 2.30-31",
+        "view": "Repeats the quarter/half/three-quarter/full scheme and the special strengths of Saturn, Jupiter and Mars; all planets have full aspect strength on the 7th.",
+        "url": "https://archive.org/details/JatakaParijataVolIOfIIByVSubrahmanyaSastri"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology ch. XIII (On Aspects)",
+        "view": "Aspects are counted sign to sign; a planet aspecting its own house increases that house's signification; the 7th-house opposition is extremely good when formed by Jupiter and the Moon; for ordinary prediction count only full (7th) aspects and the special aspects of Saturn, Jupiter and Mars.",
+        "url": "https://archive.org/details/hindu-predictive-astrology-b.-v.-raman"
+      },
+      {
+        "source": "David Frawley, Astrology of the Seers ch. 'Planetary Aspects and Combinations', pp. 167-175",
+        "view": "Vedic aspects fall on whole signs and on houses even when empty, improving or harming the house according to the aspecting planet's nature, not the angle; gives the same 1/4-1/2-3/4-full scheme, with special aspects counted full.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "P.V.R. Narasimha Rao, Vedic Astrology: An Integrated Approach ch. 10.1-10.4",
+        "view": "Graha drishti is an influence from the planet's inherent nature on the house and on planets in it; its success depends on the whole situation. Lists only the full aspects (7th for all; 4/8 Mars, 5/9 Jupiter, 3/10 Saturn).",
+        "url": "https://archive.org/details/vedic-astrology-integrated-approach-1"
+      }
+    ],
+    "disagreements": "Strength scheme: BPHS 26.3, Brihat Jataka 2.13, Jataka Parijata 2.30 and Raman/Frawley give 3rd/10th = 1/4, 5th/9th = 1/2, 4th/8th = 3/4, 7th = full; Saravali 4.32-33 (Santhanam, as scanned) gives half to the 4th/8th and a different (illegible) fraction to the 5th/9th. Phaladeepika 4.9: some hold only the 7th aspect fully effective, others hold the special aspects equally effective. Raman (HPA XIII) and PVR (ch. 10) use only full aspects in practice.",
+    "confidence": "low",
+    "phrasing_guidance": "Describe the Moon's aspect as care, emotion, the public and the mother touching that house; say it works better when the Moon is bright (waxing).",
+    "conditional_results": [
+      {
+        "when": "12 in md_rules",
+        "polarity": "good",
+        "effects": [
+          "the house is protected and its matters prosper when aspected by its own lord, even if malefics also influence it"
+        ],
+        "source": "BPHS 11.14-16 with Santhanam's notes; Phaladeepika 15.1; Raman HPA ch. XIII"
+      },
+      {
+        "when": "md_dignity == 'debilitated' or md_combust or md_dignity == 'enemy'",
+        "polarity": "mixed",
+        "effects": [
+          "the good results of the aspect are not ensured when the aspecting planet is debilitated, combust or in an enemy sign"
+        ],
+        "source": "Phaladeepika 15.1"
+      },
+      {
+        "when": "moon_waxing",
+        "polarity": "good",
+        "effects": [
+          "the good effects of the aspected house increase"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "not moon_waxing",
+        "polarity": "mixed",
+        "effects": [
+          "the effects of the aspected house diminish; the waning Moon acts less as a benefic"
+        ],
+        "source": "Trailokya Prakasa via Santhanam's note to BPHS ch. 11; Frawley pp. 236-237"
+      },
+      {
+        "when": "'trishadaya_lord' in md_role",
+        "polarity": "mixed",
+        "effects": [
+          "good by nature but carries the harm of a functional malefic (Moon as 3rd, 6th or 11th lord)"
+        ],
+        "source": "Raman HJH vol. 1 ch. 2"
+      }
+    ],
+    "aspect_types": [
+      {
+        "aspect": "7th (full)",
+        "from_house": 6,
+        "strength": "full",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13; Jataka Parijata 2.30-31"
+      },
+      {
+        "aspect": "3rd (partial)",
+        "from_house": 10,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "10th (partial)",
+        "from_house": 3,
+        "strength": "quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "5th (partial)",
+        "from_house": 8,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "9th (partial)",
+        "from_house": 4,
+        "strength": "half",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "4th (partial)",
+        "from_house": 9,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      },
+      {
+        "aspect": "8th (partial)",
+        "from_house": 5,
+        "strength": "three-quarter",
+        "source": "BPHS 26.2-5; Brihat Jataka 2.13 (most modern practice counts only full aspects: Raman HPA ch. XIII, PVR ch. 10.2)"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1153 @@
+[
+  {
+    "id": "planet_in_sign/mars/aries",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Aries"
+    },
+    "summary": "Aries is Mars's own sign; 0-12° is its moolatrikona and 12-30° own sign. It gives courage, drive, truthfulness and leadership, with a fondness for adventure and competition, and some exposure to injury.",
+    "themes": [
+      "moolatrikona",
+      "own sign",
+      "courage",
+      "leadership",
+      "adventure",
+      "action"
+    ],
+    "common_outcomes": [
+      "Brave, direct, energetic and decisive",
+      "Leadership in teams, groups or organisations",
+      "Love of adventure, sport and competition",
+      "Honoured for action and initiative"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.5: wealth through army command or trade; wanders; acquires goods even through a thief",
+      "Saravali 25.1-2: village or group head; generous with cattle, goats and grain",
+      "Brihat Jataka 18.5: injuries to the body"
+    ],
+    "by_area": {
+      "personality": "Splendid, truthful, brave, fierce and adventurous (Saravali 25.1-2); organising capacity, commanding, pioneering, frank and generous but combative (Raman HPA ch. XXII).",
+      "career": "Army chief or head of a village or band (Saravali 25.1-2); wealth through command or trade (Brihat Jataka 18.5); Raman: statesmanly, mathematician.",
+      "finance": "Brihat Jataka 18.5: gains through command or trade; Raman: rich but not economical in domestic dealings.",
+      "health": "Brihat Jataka 18.5 mentions bodily wounds and Raman scars; frame as a need for safety in risky activity, not a prediction.",
+      "relationships": "Saravali 25.1-2: joins many women; Raman: sensual.",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Within 0-12° (moolatrikona) per BPHS 3.52",
+      "Kendra from lagna or Moon forms Ruchaka yoga: daring, wealthy, victorious, an army leader (Phaladeepika 6.1-2, 6.4)",
+      "Kendra placement; Braha (p. 50) says planets in kendras are powerful and prominent",
+      "Placement in the 10th, where Mars has directional strength (Braha pp. 23, 60; Foss, Mars name 12)",
+      "Jupiter's aspect (Saravali 25.25-30: learning, fortune, wealth, kingly results for Mars in its own signs)",
+      "Sun's aspect (Saravali 25.25-30: wealth and justice)",
+      "Exalted or own sign in the navamsa, or vargottama (Braha pp. 13-14, 59-60)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus's aspect (Saravali 25.25-30: loss and trouble through relationships)",
+      "Mercury's aspect (Saravali 25.25-30: deceit)",
+      "Saturn's aspect (Saravali 25.25-30: loss of followers)",
+      "Combustion (within about 8 degrees of the Sun), which Braha (pp. 17, 61) says spoils a planet"
+    ],
+    "lagna_or_context_notes": "Mars in Aries in a kendra forms Ruchaka yoga (Phaladeepika 6.1-2): Aries (1st), Capricorn (4th), Libra (7th), Cancer (10th) lagnas; Phaladeepika 6.4 also counts kendras from the Moon. Braha ('Planets in the Houses', pp. 79 ff.) reads the own-sign Mars house by house: Aries lagna (1st) success, respect, courage; Capricorn lagna (4th) land and houses, a strong but discordant bond with the mother; Libra lagna (7th) marriage still strained but a better-quality spouse; Cancer lagna (10th) a great career with wealth and fame; Gemini lagna (11th) ambitions realised. Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Aries this applies to Capricorn (4th), Libra (7th), Virgo (8th), Taurus (12th) lagnas, while Aries lagna (1st) is exempt. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 3.52",
+        "view": "Aries 0-12° is Mars's moolatrikona; the remainder is its own sign.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3"
+      },
+      {
+        "source": "Brihat Jataka 18.5 (tr. M. D. Neely, 2007)",
+        "view": "Mars in its own sign: honoured by rulers, wanders, wealth through army command or trade, bodily injury, many possessions.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501810.html"
+      },
+      {
+        "source": "Saravali 25.1-2, Mars in Aries (tr. R. Santhanam)",
+        "view": "Splendid, truthful, brave, royal or military destiny, fond of war and adventure, army or village head, generous with cattle and grain, fierce, many partners.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.25-30, aspects on Mars in Aries/Scorpio (tr. R. Santhanam)",
+        "view": "Sun: wealth and justice; Moon: hardship affecting the mother, daughters; Mercury: deceit; Jupiter: learned, fortunate, wealthy, kingly; Venus: losses through relationships; Saturn: loses followers.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.15 (tr. V. Subrahmanya Sastri)",
+        "view": "Own sign: power, stable home, property and respect during the planet's period.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Organising capacity, commanding, rich, scars on the body, sensual, mathematician, active, pioneering, statesmanly, frank, generous, combative.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "Phaladeepika 6.1-2, 6.4 (tr. V. Subrahmanya Sastri)",
+        "view": "Ruchaka yoga: Mars in its own or exaltation sign in a kendra gives daring deeds, wealth, bravery, victory over enemies and army leadership; the same applies counted from the Moon.",
+        "url": "https://www.siva.sh/phaladeepika/6/1-5"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Mars, Mangala, name 103",
+        "view": "Aries and Scorpio, Mars's own signs, are where it is 'in his office', lower-pressure and more stable than exaltation.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources agree; Brihat Jataka adds wandering and bodily injury that Saravali does not stress.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as strong courage and leadership; recommend channelling energy safely. Avoid injury predictions."
+  },
+  {
+    "id": "planet_in_sign/mars/taurus",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Taurus"
+    },
+    "summary": "Mars in Taurus is in Venus's sign (neutral). Texts warn that desire, appetite and harsh speech dominate, with tension in family and relationships; the steady earth sign can give persistence when Mars is supported.",
+    "themes": [
+      "neutral sign",
+      "desire",
+      "persistence",
+      "harsh speech",
+      "family friction",
+      "music"
+    ],
+    "common_outcomes": [
+      "Strong desires and appetites",
+      "Stubborn persistence",
+      "Blunt or harsh speech",
+      "Friction with relatives"
+    ],
+    "rare_outcomes": [
+      "Saravali 25.3-4: supports many people; plays roughly; loves music",
+      "Brihat Jataka 18.5: dominated by partners; timid despite roughness; deceptive despite fine dress"
+    ],
+    "by_area": {
+      "personality": "Jealous, distrustful and harsh-spoken (Saravali 25.3-4); rough yet timid (Brihat Jataka 18.5); stubborn, rash, emotional and sensitive (Raman HPA ch. XXII).",
+      "career": "Fond of music and maintains many people (Saravali 25.3-4); Raman: able in magic and sports.",
+      "finance": "Saravali 25.3-4: little wealth.",
+      "health": "",
+      "relationships": "Brihat Jataka 18.5, Saravali 25.3-4 and Raman all warn of infidelity or passionate entanglements; handle gently.",
+      "family": "Saravali 25.3-4: hostile to relatives, brings infamy to the family, few sons.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus's aspect (Saravali 25.31-36: minister, army chief, royal favour, fame for Mars in Venus's signs)",
+      "Saturn's aspect (Saravali 25.31-36: prosperity, leadership of groups)",
+      "Jupiter's aspect (Saravali 25.31-36: musical talent, purity)"
+    ],
+    "weakeners_or_cancellations": [
+      "Moon's aspect (Saravali 25.31-36: disrespect to mother, fear of conflict)",
+      "Mercury's aspect (Saravali 25.31-36: quarrels, few sons, little wealth)",
+      "Placement in the 7th (Scorpio lagna), a Kujadosha position (Braha p. 67)"
+    ],
+    "lagna_or_context_notes": "Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Taurus this applies to Taurus (1st), Aquarius (4th), Scorpio (7th), Libra (8th), Gemini (12th) lagnas. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.5 (tr. M. D. Neely, 2007)",
+        "view": "Mars in Venus's signs: dominated by young women even among friends, rough, drawn to others' partners, harsh yet timid, deceptive despite fine dress.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501810.html"
+      },
+      {
+        "source": "Saravali 25.3-4, Mars in Taurus (tr. R. Santhanam)",
+        "view": "Breaks others' vows, eats heavily, little wealth, few sons, jealous, distrustful, supports many, plays roughly, harsh speech, loves music, hostile to kin.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.31-36, aspects on Mars in Taurus/Libra (tr. R. Santhanam)",
+        "view": "Sun: forest-dwelling, many enemies, brave; Moon: disrespect to mother; Mercury: quarrels, learned; Jupiter: musical, fortunate, pure; Venus: minister/army chief, famous; Saturn: wealthy group leader.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table gives Mars's friends as Sun, Moon and Jupiter, Mercury as enemy, and Venus and Saturn neutral (Saturn is neutral because he is both 11th lord from Aries and lord of Mars's exaltation sign).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Venus and Saturn are neutral to Mars and Mercury is its enemy (the Sun, Moon and Jupiter are friends by the closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Influenced by women, timid, rough, stubborn, able in magic and sports, selfish, rash, emotional, sensitive; also lists infidelity.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Both texts are negative on conduct; Saravali's aspect verses show that Venus, Saturn or Jupiter aspects largely reverse this.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as strong desire and persistence that benefit from mindful speech. Never label infidelity; do not predict family disputes."
+  },
+  {
+    "id": "planet_in_sign/mars/gemini",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Gemini"
+    },
+    "summary": "Mars in Gemini is in Mercury's sign, an enemy of Mars. Mars's energy becomes mental and verbal: skill in arts, music, debate and strategy, with travel and varied assignments, but restlessness and limited wealth.",
+    "themes": [
+      "enemy sign",
+      "mental energy",
+      "arts and music",
+      "debate",
+      "travel",
+      "versatility"
+    ],
+    "common_outcomes": [
+      "Sharp, argumentative, quick mind",
+      "Learned in poetry, arts or music",
+      "Travel and many different tasks",
+      "Grateful and kind to children and friends"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.6: skilled in music and warfare; fearless; poor; few close friends",
+      "Saravali 25.5-6: endures hardship; lives abroad"
+    ],
+    "by_area": {
+      "personality": "Intolerant but grateful and fearless (Brihat Jataka 18.6); splendid, highly intelligent and virtuous (Saravali 25.5-6); quick, rash, ingenious, tactless and peevish (Raman HPA ch. XXII).",
+      "career": "Music and warfare (Brihat Jataka 18.6); poetry, fine arts, foreign travel and varied assignments (Saravali 25.5-6); Raman: scientific, diplomatist, detective.",
+      "finance": "Brihat Jataka 18.6: poor and driven to seek gain.",
+      "health": "",
+      "relationships": "Kind to children and friends (Saravali 25.5-6); few friends (Brihat Jataka 18.6).",
+      "family": "Has sons (Brihat Jataka 18.6); Raman: loving family and children.",
+      "spirituality": "Virtuously disposed (Saravali 25.5-6)."
+    },
+    "strengtheners": [
+      "Jupiter's aspect (Saravali 25.37-42: envoy/ambassador, leader)",
+      "Sun's aspect (Saravali 25.37-42: learned, wealthy, brave)",
+      "Moon's aspect (Saravali 25.37-42: wealth, managing royal households)",
+      "Upachaya placement (3rd, 6th, 10th, 11th), where Braha (pp. 23, 51) says Mars gives good effects"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 25.37-42: hard manual work, poverty)",
+      "Mercury's aspect (Saravali 25.37-42: writing skill but dishonesty and hardship)",
+      "Combustion (within about 8 degrees of the Sun), which Braha (pp. 17, 61) says spoils a planet"
+    ],
+    "lagna_or_context_notes": "Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Gemini this applies to Gemini (1st), Pisces (4th), Sagittarius (7th), Scorpio (8th), Cancer (12th) lagnas. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.6 (tr. M. D. Neely, 2007)",
+        "view": "Mars in Mercury's signs: intolerant, has sons, few friends, grateful, skilled in music and warfare, poor, fearless, seeks gain.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501811.html"
+      },
+      {
+        "source": "Saravali 25.5-6, Mars in Gemini (tr. R. Santhanam)",
+        "view": "Splendid, endures hardship, learned in poetry and arts, travels abroad, virtuous, intelligent, kind to children and friends, takes on varied tasks.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.37-42, aspects on Mars in Gemini/Virgo (tr. R. Santhanam)",
+        "view": "Sun: learned, wealthy, brave; Moon: wealth, royal household roles; Mercury: writing/maths but dishonesty; Jupiter: ambassador and leader; Venus: fortune, good food and clothing; Saturn: farming/mining work, poverty.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.17 (tr. V. Subrahmanya Sastri)",
+        "view": "Enemy sign: dependence on others and trouble from opponents.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table gives Mars's friends as Sun, Moon and Jupiter, Mercury as enemy, and Venus and Saturn neutral (Saturn is neutral because he is both 11th lord from Aries and lord of Mars's exaltation sign).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Venus and Saturn are neutral to Mars and Mercury is its enemy (the Sun, Moon and Jupiter are friends by the closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Loving family and children, refined, scientific, learned, ambitious, quick, rash, ingenious, skilled in music, fearless, tactless, diplomatist, detective.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka emphasises poverty and intolerance; Saravali is largely favourable (learning, virtue).",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as a sharp, versatile, debate-ready mind; suggest patience with others' views. Avoid predicting poverty."
+  },
+  {
+    "id": "planet_in_sign/mars/cancer",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Cancer"
+    },
+    "summary": "Mars is debilitated in Cancer (deepest fall at 28°), though Cancer's lord, the Moon, is a friend. The fiery planet in a watery sign gives emotional reactivity, indirect assertion and unsettled living conditions, yet texts also give prosperity through water-related work; neecha bhanga is frequently present.",
+    "themes": [
+      "debilitation",
+      "emotional reactivity",
+      "unsettled home",
+      "water-related gain",
+      "indirect assertion"
+    ],
+    "common_outcomes": [
+      "Repeated distress and anguish (Saravali 25.7-8); bold and headlong (Raman HPA ch. XXII)",
+      "Unsettled home life or living in others' homes",
+      "Effort with recurring frustration",
+      "Gains through agriculture, water or shipping"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.6: prosperous through water-borne trade, wise, possibly physically impaired",
+      "Saravali 25.7-8: enjoys royal food and robes in childhood; eats in others' homes"
+    ],
+    "by_area": {
+      "personality": "Repeatedly anguished and distressed (Saravali 25.7-8); wise (Brihat Jataka 18.6); bold, dashing, speculative, fickle and egoistic (Raman HPA ch. XXII). Frawley (p. 126): with the debility cancelled it can give mastery over the feeling nature and a capacity for profound relationships.",
+      "career": "Agriculture and water-borne trade (Brihat Jataka 18.6; Saravali 25.7-8); Raman: love of agriculture, medical and surgical proficiency, travels and voyages.",
+      "finance": "Wealth through water or farming despite distress (Brihat Jataka 18.6; Saravali 25.7-8); Raman: wealthy.",
+      "health": "Texts mention illness and bodily impairment (Saravali 25.7-8; Brihat Jataka 18.6) and Raman defective sight; never present as a prediction.",
+      "relationships": "",
+      "family": "Lives and eats in others' houses (Saravali 25.7-8).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Neecha bhanga: Moon (sign lord) or Saturn (lord of Capricorn, Mars's exaltation sign) in a kendra from lagna or Moon (Phaladeepika 7.26, 7.29)",
+      "Moon and Saturn in mutual kendras (Phaladeepika 7.27)",
+      "Moon aspecting Mars from a good house (Phaladeepika 7.28)",
+      "Jupiter (exalted in Cancer) in a kendra or aspecting or joining Mars (modern practitioner rule, jagannathhora.com; Braha, 'Yogas' no. 13)",
+      "Strong Moon as sign lord: Frawley (p. 126) says a strong or own-sign dispositor reduces debility and an exalted one (Moon in Taurus) can cancel it",
+      "The Sun exalted in Aries, a sign Mars rules, reduces the weakness (Frawley p. 126)",
+      "Placement in an angle from lagna or Moon, the 10th most of all; usually two cancelling factors are needed (Frawley p. 126)",
+      "Jupiter's aspect (Saravali 25.43-48: famous, royal minister, learned, charitable)",
+      "Saturn's aspect (Saravali 25.43-48: wealth through water journeys, king-like)",
+      "Placement in the 10th, where Mars has directional strength (Braha pp. 23, 60; Foss, Mars name 12)"
+    ],
+    "weakeners_or_cancellations": [
+      "Near 28 degrees Cancer, the deepest fall (BPHS 3.49-50)",
+      "Moon's aspect without other support (Saravali 25.43-48: various diseases, unhappiness)",
+      "Mercury's aspect (Saravali 25.43-48: lowly conduct, rejected by own people)",
+      "Venus's aspect (Saravali 25.43-48: insult and loss through women)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest",
+      "Vargottama does not help a fallen planet; Braha (pp. 13, 59) says it leaves it worse off"
+    ],
+    "lagna_or_context_notes": "Braha ('Planets in the Houses', pp. 79 ff.) reads the fallen Mars harshly house by house: Cancer lagna (1st) health and self-respect suffer, though Mars as 5th and 10th lord still gives some benefits there; Aries lagna (4th) strain around home and mother; Capricorn lagna (7th) a difficult marriage; Libra lagna (10th) career difficulties and changes. Frawley (p. 126) instead says debility is much reduced in an angle, especially the 10th, so the 1st, 4th, 7th and 10th cases above are where the two authors pull in opposite directions. Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Cancer this applies to Cancer (1st), Aries (4th), Capricorn (7th), Leo (12th) lagnas, while Sagittarius lagna (8th) is exempt. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 3.49-50",
+        "view": "Mars exalted at Capricorn 28°; debilitated at the same degree of Cancer.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3"
+      },
+      {
+        "source": "Brihat Jataka 18.6 (tr. M. D. Neely, 2007)",
+        "view": "Mars in the Moon's sign: prosperous, wealth from water-borne ventures, wise, possibly maimed, may act wrongly.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501811.html"
+      },
+      {
+        "source": "Saravali 25.7-8, Mars in Cancer (tr. R. Santhanam)",
+        "view": "Lives in others' houses, bodily impairment and illness, earns through agriculture and water, royal food and robes in childhood, eats in others' homes, repeatedly anguished.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.43-48, aspects on Mars in Cancer (tr. R. Santhanam)",
+        "view": "Sun: judicial post, brave; Moon: ailments; Mercury: rejected by kin; Jupiter: famous minister, charitable; Venus: losses through women; Saturn: wealth via sea travel, king-like.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.18, 7.26-30 (tr. V. Subrahmanya Sastri)",
+        "view": "Debility brings fall from position and menial work; cancellation rules can convert it into raja yoga.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621579.html"
+      },
+      {
+        "source": "jagannathhora.com, Mars in Cancer (practitioner)",
+        "view": "Lists Moon/Jupiter-based cancellation rules, notes the Moon is Mars's friend (softening), and that Libra lagna (Mars in the 10th) is among the most redeemed cases.",
+        "url": "https://jagannathhora.com/mars-in-cancer/"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table gives Mars's friends as Sun, Moon and Jupiter, Mercury as enemy, and Venus and Saturn neutral (Saturn is neutral because he is both 11th lord from Aries and lord of Mars's exaltation sign).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Venus and Saturn are neutral to Mars and Mercury is its enemy (the Sun, Moon and Jupiter are friends by the closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Intelligent, wealthy, travels and voyages, love of agriculture, medical and surgical proficiency, fickle-minded, defective sight, bold, dashing, speculative, egoistic.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, ch. 'The Signs: How Planets Transmit Influences of the Stars', pp. 126-127",
+        "view": "Debility cancellation rules (angle from lagna or Moon, exalted or strong dispositor, an exalted planet in a sign the fallen planet rules); a cancelled Mars in Cancer can give mastery over the feeling nature and a capacity for profound relationships.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Mars, Mangala, name 103",
+        "view": "Mars is debilitated at 28 degrees Cancer, in Ashlesha, an uncomfortable place for it; there it struggles to be all it wants to be.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), '1st House' (pp. 79-90) and 'Planets in the Houses'",
+        "view": "Fallen Mars is read harshly house by house, but for Cancer lagna Mars rules the 5th and 10th and is a yogakaraka, so even when fallen it gives certain benefits.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka calls the native prosperous and wise despite debility; Saravali stresses distress. Commentators differ whether the 'exaltation lord' in cancellation is Saturn (lord of Capricorn) or Jupiter (the planet exalted in Cancer); modern practice often uses both. BPHS treats all of Cancer as debilitation, while Braha (p. 47) says that past 28 degrees Mars is technically no longer fallen.",
+    "confidence": "high",
+    "phrasing_guidance": "Do not call it a 'bad Mars'. Describe protective, emotional energy that works best when expressed openly; note that cancellation is common. No illness, disability or marriage-failure predictions."
+  },
+  {
+    "id": "planet_in_sign/mars/leo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Leo"
+    },
+    "summary": "Mars in Leo is in the Sun's sign, a friend. It gives impatience, bravery, intense activity and love of open, wild places, but classical texts are surprisingly harsh about wealth, children and family happiness.",
+    "themes": [
+      "friendly sign",
+      "bravery",
+      "impatience",
+      "activity",
+      "outdoors",
+      "family strain"
+    ],
+    "common_outcomes": [
+      "Brave, active, impatient",
+      "Love of forests, hills, outdoors",
+      "Strong drive; always busy",
+      "Struggle or hardship before success"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.7: poverty and hardship; few spouses and children",
+      "Saravali 25.9-10: loses first spouse; childless; covets others' wealth; hunts animals"
+    ],
+    "by_area": {
+      "personality": "Impatient and brave (Saravali 25.9-10); independent thinking, peevish, generous, noble, combative and restless (Raman HPA ch. XXII).",
+      "career": "Always active in work (Saravali 25.9-10); Raman: occultism, astrology, astronomy and mathematics, an author early in life, victorious and successful.",
+      "finance": "Brihat Jataka 18.7: poor; Saravali 25.9-10: uncharitable; Raman: extravagant yet miserly.",
+      "health": "Raman lists stomach troubles and mental worries; mention only as tradition.",
+      "relationships": "Saravali 25.9-10 says the first spouse is lost; never state this as fact.",
+      "family": "Few children (Brihat Jataka 18.7; Raman), Saravali 25.9-10 more strongly; Raman adds love for parents and respect for elders.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter's aspect (Saravali 25.49-54: close to authority, learned, army chief)",
+      "Moon's aspect (Saravali 25.49-54: intelligent, sturdy, famous)",
+      "Kendra placement; Braha (p. 50) says planets in kendras are powerful and prominent",
+      "Placement in the 10th, where Mars has directional strength (Braha pp. 23, 60; Foss, Mars name 12)"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 25.49-54: premature ageing, poverty, wandering)",
+      "Mercury's aspect (Saravali 25.49-54: artistic but stingy)",
+      "Combustion (within about 8 degrees of the Sun), which Braha (pp. 17, 61) says spoils a planet"
+    ],
+    "lagna_or_context_notes": "Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Leo this applies to Leo (1st), Taurus (4th), Aquarius (7th), Capricorn (8th), Virgo (12th) lagnas. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.7 (tr. M. D. Neely, 2007)",
+        "view": "Mars in Leo: poor, endures hardship, wanders in forests, few spouses and sons.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501812.html"
+      },
+      {
+        "source": "Saravali 25.9-10, Mars in Leo (tr. R. Santhanam)",
+        "view": "Impatient, brave, covets others' money and children, lives in forests, eats meat, loses first spouse, kills animals, childless, uncharitable, always active.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.49-54, aspects on Mars in Leo (tr. R. Santhanam)",
+        "view": "Sun: modest, helpful, followers; Moon: intelligent, famous; Mercury: artistic but stingy; Jupiter: learned army chief, close to the king; Venus: youthful, fortunate through spouse; Saturn: poverty.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.16 (tr. V. Subrahmanya Sastri)",
+        "view": "Friend's sign: success through friends, good family and wealth.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table gives Mars's friends as Sun, Moon and Jupiter, Mercury as enemy, and Venus and Saturn neutral (Saturn is neutral because he is both 11th lord from Aries and lord of Mars's exaltation sign).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Venus and Saturn are neutral to Mars and Mercury is its enemy (the Sun, Moon and Jupiter are friends by the closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Inclined to occultism, astrology, astronomy and mathematics; loves parents and respects elders; independent thinking, extravagant, victorious, stomach troubles, generous, noble, author early in life, few children, successful, combative.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "The sign verses are harsh despite Leo being a friend's sign; Phaladeepika's general friend-sign rule and most modern readers treat Mars in Leo as fairly strong. Weigh dignity and aspects over the literal sign verse. Raman's list is notably more positive (noble, generous, victorious, successful) than either classical verse.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as brave, energetic and proud. Do not predict childlessness or loss of a spouse; at most mention that texts ask for care in family matters."
+  },
+  {
+    "id": "planet_in_sign/mars/virgo",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Virgo"
+    },
+    "summary": "Mars in Virgo is in Mercury's sign, an enemy. It gives a refined, skilled, soft-spoken person, respected but not especially wealthy, with many expenses and a cautious rather than combative nature.",
+    "themes": [
+      "enemy sign",
+      "skill",
+      "refinement",
+      "caution",
+      "expenses",
+      "arts"
+    ],
+    "common_outcomes": [
+      "Worthy of honour; skilled and learned",
+      "Soft, sweet speech",
+      "Many expenses; wealth not abundant",
+      "Cautious, not very aggressive"
+    ],
+    "rare_outcomes": [
+      "Saravali 25.11-12: fond of music, bathing and adornment",
+      "Brihat Jataka 18.6: intolerant, few friends, skilled in warfare and music, poor"
+    ],
+    "by_area": {
+      "personality": "Soft and sweet-spoken, not very valorous, fears enemies (Saravali 25.11-12); Raman HPA ch. XXII: self-confident, conceited, boastful, revengeful and discriminative.",
+      "career": "Learned in shastras and fine arts (Saravali 25.11-12); Raman: scientific enterprise.",
+      "finance": "Saravali 25.11-12: never rich, many expenses.",
+      "health": "Raman lists trouble in the digestive organs; mention only as tradition.",
+      "relationships": "Saravali 25.11-12: very fond of sexual union and music; Raman: no marital harmony.",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter's aspect (Saravali 25.37-42: envoy, leader)",
+      "Sun's aspect (Saravali 25.37-42: wealthy, brave)",
+      "Venus's aspect (Saravali 25.37-42: fortunate)",
+      "Upachaya placement (3rd, 6th, 10th, 11th), where Braha (pp. 23, 51) says Mars gives good effects"
+    ],
+    "weakeners_or_cancellations": [
+      "Saturn's aspect (Saravali 25.37-42: poverty)",
+      "Mercury's aspect (Saravali 25.37-42: hardship, dishonesty)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest"
+    ],
+    "lagna_or_context_notes": "Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Virgo this applies to Virgo (1st), Gemini (4th), Pisces (7th), Aquarius (8th), Libra (12th) lagnas. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.6 (tr. M. D. Neely, 2007)",
+        "view": "Mars in Mercury's signs: intolerant, has sons, few friends, grateful, skilled in music and warfare, poor, fearless.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501811.html"
+      },
+      {
+        "source": "Saravali 25.11-12, Mars in Virgo (tr. R. Santhanam)",
+        "view": "Worthy of honour but never rich, desire-driven, fond of music, soft speech, many expenses, not very brave, learned, skilled in arts, fears enemies, enjoys bathing and adornment.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.37-42, aspects on Mars in Gemini/Virgo (tr. R. Santhanam)",
+        "view": "Sun: learned and brave; Moon: wealth; Mercury: writing skill with hardship; Jupiter: ambassador; Venus: fortune; Saturn: poverty.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table gives Mars's friends as Sun, Moon and Jupiter, Mercury as enemy, and Venus and Saturn neutral (Saturn is neutral because he is both 11th lord from Aries and lord of Mars's exaltation sign).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Venus and Saturn are neutral to Mars and Mercury is its enemy (the Sun, Moon and Jupiter are friends by the closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Explosive, digestive troubles, no marital harmony, revengeful, self-confident, conceited, boastful, discriminative, scientific enterprise.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka gives Mars in Mercury's signs fearlessness; Saravali says Mars in Virgo is not very brave and fears enemies. Raman lists explosive and revengeful, closer to Brihat Jataka than to Saravali's timid picture.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as skilled, precise and refined energy; suggest budgeting. Avoid calling the person cowardly."
+  },
+  {
+    "id": "planet_in_sign/mars/libra",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Libra"
+    },
+    "summary": "Mars in Libra is in Venus's sign (neutral) and opposite its own sign Aries. Texts describe a persuasive, fortunate speaker who loves contest, but with wandering, poor business choices and strain in relationships.",
+    "themes": [
+      "neutral sign",
+      "persuasion",
+      "relationships",
+      "contest",
+      "wandering",
+      "trade"
+    ],
+    "common_outcomes": [
+      "Able, persuasive speaker",
+      "Competitive and fond of contest",
+      "Restless, prone to travel",
+      "Relationship and partnership tension"
+    ],
+    "rare_outcomes": [
+      "Saravali 25.13-14: loses first spouse; trades in liquor; few relatives",
+      "Brihat Jataka 18.5: dominated by partners; deceptive despite fine dress"
+    ],
+    "by_area": {
+      "personality": "Able speaker, fond of war (Saravali 25.13-14); ambitious, self-confident, affable, kind and gentle but easily ruffled and boastful (Raman HPA ch. XXII).",
+      "career": "Saravali 25.13-14: bad business and dealing in liquor; Raman: businesslike, with foresight.",
+      "finance": "Saravali 25.13-14: earnings from some trades are lost; Raman: self-earned wealth.",
+      "health": "",
+      "relationships": "Saravali 25.13-14: loss of the first spouse; Raman: deceived by women. Never state as fact.",
+      "family": "Few relatives (Saravali 25.13-14); Raman: love for family.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Venus's aspect (Saravali 25.31-36: minister, army chief, fame)",
+      "Saturn's aspect (Saturn exalted in Libra; Saravali 25.31-36: wealthy group leader)",
+      "Jupiter's aspect (Saravali 25.31-36: musical, fortunate, pure)"
+    ],
+    "weakeners_or_cancellations": [
+      "Moon's aspect (Saravali 25.31-36: disrespect to mother)",
+      "Mercury's aspect (Saravali 25.31-36: quarrels)",
+      "Placement in the 7th (Aries lagna), a Kujadosha position (Braha p. 67)"
+    ],
+    "lagna_or_context_notes": "Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Libra this applies to Libra (1st), Cancer (4th), Aries (7th), Pisces (8th), Scorpio (12th) lagnas. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.5 (tr. M. D. Neely, 2007)",
+        "view": "Mars in Venus's signs: influenced by partners, rough, drawn to others' partners, harsh yet timid, deceptive despite fine dress.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501810.html"
+      },
+      {
+        "source": "Saravali 25.13-14, Mars in Libra (tr. R. Santhanam)",
+        "view": "Wanders, bad business, able and fortunate speaker, a physical defect, few relatives, loves contest, loses first spouse, deals in liquor, loses earnings.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.31-36, aspects on Mars in Taurus/Libra (tr. R. Santhanam)",
+        "view": "Venus: minister or army chief; Saturn: wealthy group leader; Jupiter: fortunate and pure; Mercury: quarrels; Moon: disrespect to mother; Sun: many enemies but brave.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table gives Mars's friends as Sun, Moon and Jupiter, Mercury as enemy, and Venus and Saturn neutral (Saturn is neutral because he is both 11th lord from Aries and lord of Mars's exaltation sign).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Venus and Saturn are neutral to Mars and Mercury is its enemy (the Sun, Moon and Jupiter are friends by the closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Tall, ambitious, self-confident, love for family, self-earned wealth, affable, warlike, foresight, businesslike, deceived by women, kind, gentle, easily ruffled, boastful.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Saravali gives able speech and fortune alongside setbacks; Brihat Jataka focuses on character flaws.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as persuasive, competitive energy that works best in fair partnerships. Never predict loss of a spouse."
+  },
+  {
+    "id": "planet_in_sign/mars/scorpio",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Scorpio"
+    },
+    "summary": "Scorpio is Mars's own sign (its second, watery sign). It gives tenacity, strategic courage and land or property, but classical texts link it to intrigue, hidden conflicts and exposure to danger from fire, weapons or poison.",
+    "themes": [
+      "own sign",
+      "tenacity",
+      "strategy",
+      "secrecy",
+      "property",
+      "danger"
+    ],
+    "common_outcomes": [
+      "Determined, intense, strategic",
+      "Ownership of land and property",
+      "Spouse and children (Saravali)",
+      "Involvement in hidden matters or conflict"
+    ],
+    "rare_outcomes": [
+      "Saravali 25.15-16: drawn to Vedic knowledge and trade, yet also leads rogues; inclined to slander",
+      "Brihat Jataka 18.5: honoured by rulers; wealth through command or trade; bodily injury"
+    ],
+    "by_area": {
+      "personality": "Skilful in duties but perfidious and inclined to slander (Saravali 25.15-16); clever, diplomatic, tenacious memory, aggressive and proud (Raman HPA ch. XXII).",
+      "career": "Trade and Vedic learning (Saravali 25.15-16); command or trade (Brihat Jataka 18.5); Raman: great strides in life.",
+      "finance": "Brihat Jataka 18.5: wealth through command or trade; Saravali 25.15-16: lands.",
+      "health": "Saravali 25.15-16 mentions danger from poison, fire, weapons and wounds; frame as safety awareness only.",
+      "relationships": "",
+      "family": "Lands, sons and a wife (Saravali 25.15-16).",
+      "spirituality": "Interested in Vedic knowledge (Saravali 25.15-16)."
+    },
+    "strengtheners": [
+      "Kendra from lagna or Moon forms Ruchaka yoga: daring, wealthy, victorious, an army leader (Phaladeepika 6.1-2, 6.4)",
+      "Jupiter's aspect (Saravali 25.25-30: learned, fortunate, wealthy)",
+      "Sun's aspect (Saravali 25.25-30: wealth and justice)",
+      "Exalted or own sign in the navamsa, or vargottama (Braha pp. 13-14, 59-60)"
+    ],
+    "weakeners_or_cancellations": [
+      "Venus's aspect (Saravali 25.25-30: losses through relationships)",
+      "Mercury's aspect (Saravali 25.25-30: deceit)",
+      "Saturn's aspect (Saravali 25.25-30: loss of followers)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest"
+    ],
+    "lagna_or_context_notes": "Mars in Scorpio in a kendra forms Ruchaka yoga (Phaladeepika 6.1-2): Scorpio (1st), Leo (4th), Taurus (7th), Aquarius (10th) lagnas; Phaladeepika 6.4 also counts kendras from the Moon. Braha ('Planets in the Houses', pp. 79 ff.) reads the own-sign Mars house by house: Scorpio lagna (1st) success, respect, courage; Leo lagna (4th) land and houses; Taurus lagna (7th) marriage still strained but a better-quality spouse; Aquarius lagna (10th) a great career with wealth and fame; Capricorn lagna (11th) ambitions realised. Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Scorpio this applies to Scorpio (1st), Taurus (7th), Aries (8th), Sagittarius (12th) lagnas, while Leo lagna (4th) is exempt. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.5 (tr. M. D. Neely, 2007)",
+        "view": "Mars in its own sign: honoured by rulers, wanders, wealth through command or trade, bodily injury, many possessions.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501810.html"
+      },
+      {
+        "source": "Saravali 25.15-16, Mars in Scorpio (tr. R. Santhanam)",
+        "view": "Trade, Vedic learning, yet leader of rogues and skilled wrongdoer; inclined to violence and slander; lands, sons and wife; harm from poison, fire, weapons and wounds.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.25-30, aspects on Mars in Aries/Scorpio (tr. R. Santhanam)",
+        "view": "Jupiter: learned, wealthy, kingly; Sun: wealth and justice; Venus: losses through relationships; Mercury: deceit; Saturn: loss of followers.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Middle stature, clever, diplomatic, tenacious memory, aggressive, proud, great strides in life.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "Phaladeepika 6.1-2, 6.4 (tr. V. Subrahmanya Sastri)",
+        "view": "Ruchaka yoga: Mars in its own or exaltation sign in a kendra gives daring deeds, wealth, bravery, victory over enemies and army leadership; the same applies counted from the Moon.",
+        "url": "https://www.siva.sh/phaladeepika/6/1-5"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Mars, Mangala, name 103",
+        "view": "Aries and Scorpio, Mars's own signs, are where it is 'in his office', lower-pressure and more stable than exaltation; Scorpio is linked with secrets and the start of the spiritual path.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka treats both own signs alike (honour, command); Saravali gives Scorpio a much darker profile than Aries.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as strategic, determined and resourceful. Avoid criminal or moral labels and never predict harm from poison, fire or weapons."
+  },
+  {
+    "id": "planet_in_sign/mars/sagittarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Sagittarius"
+    },
+    "summary": "Mars in Sagittarius is in Jupiter's sign, a friend. Texts describe a well-known, fearless fighter or minister with many opponents, who works hard but can lose gains through anger.",
+    "themes": [
+      "friendly sign",
+      "fearlessness",
+      "reputation",
+      "advisory roles",
+      "many opponents",
+      "anger"
+    ],
+    "common_outcomes": [
+      "Fearless and well known",
+      "Advisory, ministerial or command roles",
+      "Many rivals or opponents",
+      "Hard-working; temper can cost gains"
+    ],
+    "rare_outcomes": [
+      "Saravali 25.17-18: commander of chariots and armies; disrespects elders",
+      "Brihat Jataka 18.7: few sons"
+    ],
+    "by_area": {
+      "personality": "Harsh-spoken and crafty, loses happiness and money through anger (Saravali 25.17-18); fearless (Brihat Jataka 18.7); open, frank, impatient, severe and quarrelsome (Raman HPA ch. XXII).",
+      "career": "Royal minister, well known (Brihat Jataka 18.7); warrior commanding armies (Saravali 25.17-18); Raman: minister, statesman.",
+      "finance": "Saravali 25.17-18: loses money through anger.",
+      "health": "",
+      "relationships": "Many enemies (Brihat Jataka 18.7; Raman), and Raman adds litigation troubles.",
+      "family": "Few sons (Brihat Jataka 18.7; Raman); does not honour elders (Saravali 25.17-18).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Sun's aspect (Saravali 25.55-60: honoured widely, fortunate)",
+      "Mercury's aspect (Saravali 25.55-60: scholar)",
+      "Venus's aspect (Saravali 25.55-60: popular, charitable, fortunate)",
+      "Kendra or trikona placement; Braha (p. 50) says planets in kendras are powerful and those in trikonas flourish"
+    ],
+    "weakeners_or_cancellations": [
+      "Moon's aspect (Saravali 25.55-60: combative, opposed to authorities)",
+      "Saturn's aspect (Saravali 25.55-60: restlessness, unhappiness)",
+      "Jupiter's aspect (Saravali 25.55-60: wealth but domestic strain)"
+    ],
+    "lagna_or_context_notes": "Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Sagittarius this applies to Sagittarius (1st), Virgo (4th), Gemini (7th), Taurus (8th) lagnas, while Capricorn lagna (12th) is exempt. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.7 (tr. M. D. Neely, 2007)",
+        "view": "Mars in Jupiter's signs: many enemies, royal minister, well known, fearless, few sons.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501812.html"
+      },
+      {
+        "source": "Saravali 25.17-18, Mars in Sagittarius (tr. R. Santhanam)",
+        "view": "Many wounds, thin, harsh speech, crafty, estranged, warrior commanding armies, happy with hard work, loses happiness and money to anger, disrespects elders.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.55-60, aspects on Mars in Sagittarius/Pisces (tr. R. Santhanam)",
+        "view": "Sun: honoured widely; Moon: combative, opposed to rulers; Mercury: scholar; Jupiter: wealth, domestic strain, fond of exercise; Venus: popular and fortunate; Saturn: restlessness.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.16 (tr. V. Subrahmanya Sastri)",
+        "view": "Friend's sign: success through friends and good family.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table gives Mars's friends as Sun, Moon and Jupiter, Mercury as enemy, and Venus and Saturn neutral (Saturn is neutral because he is both 11th lord from Aries and lord of Mars's exaltation sign).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Venus and Saturn are neutral to Mars and Mercury is its enemy (the Sun, Moon and Jupiter are friends by the closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Many foes, famous, minister, statesman, frank, pleasure-loving, few children, impatient, quarrelsome, litigation troubles, good citizen.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka gives ministerial rank and fame; Saravali focuses on combat and anger. Both agree on courage and opposition.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as courageous, principled drive with a need to manage temper. Avoid injury or child-related predictions."
+  },
+  {
+    "id": "planet_in_sign/mars/capricorn",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Capricorn"
+    },
+    "summary": "Mars is exalted in Capricorn (deepest exaltation at 28°), in Saturn's sign. It gives disciplined, effective courage: wealth, fame, leadership and success in competition, with a good spouse and family.",
+    "themes": [
+      "exaltation",
+      "disciplined action",
+      "leadership",
+      "wealth",
+      "fame",
+      "victory"
+    ],
+    "common_outcomes": [
+      "Disciplined, effective and strategic energy",
+      "Leadership or command roles",
+      "Wealth and fame through achievement",
+      "Success in competition"
+    ],
+    "rare_outcomes": [
+      "Brihat Jataka 18.7: many sons; becomes a ruler or equal to one",
+      "Saravali 25.19-20: lives in own country; independent; interested in procedures"
+    ],
+    "by_area": {
+      "personality": "Excellent disposition, independent, protective and virtuous (Saravali 25.19-20); brave, industrious, indefatigable, bold, tactful and gallant (Raman HPA ch. XXII).",
+      "career": "Army chief or king (Saravali 25.19-20); a ruler or equal to one (Brihat Jataka 18.7); Raman: high political position, influential.",
+      "finance": "Abundant wealth (Brihat Jataka 18.7; Saravali 25.19-20; Raman: rich).",
+      "health": "",
+      "relationships": "A good wife (Saravali 25.19-20).",
+      "family": "Many sons (Brihat Jataka 18.7; Raman: many sons and love for children).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Close to 28 degrees Capricorn, the deepest exaltation (BPHS 3.49-50)",
+      "Kendra from lagna or Moon forms Ruchaka yoga: daring, wealthy, victorious, an army leader (Phaladeepika 6.1-2, 6.4)",
+      "Placement in the 10th, where Mars has directional strength (Braha pp. 23, 60; Foss, Mars name 12)",
+      "Jupiter's aspect (Saravali 25.61-66: kingly, accomplished, many relatives)",
+      "Sun's aspect (Saravali 25.61-66: brave, many children and wealth)",
+      "Exalted or own sign in the navamsa, or vargottama (Braha pp. 13-14, 59-60)"
+    ],
+    "weakeners_or_cancellations": [
+      "Mercury's aspect (Saravali 25.61-66: weakness, lack of profession)",
+      "Moon's aspect (Saravali 25.61-66: fickle, estranged from mother, though rich)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest",
+      "Combustion (within about 8 degrees of the Sun), which Braha (pp. 17, 61) says spoils a planet"
+    ],
+    "lagna_or_context_notes": "Mars in Capricorn in a kendra forms Ruchaka yoga (Phaladeepika 6.1-2): Capricorn (1st), Libra (4th), Cancer (7th), Aries (10th) lagnas; Phaladeepika 6.4 also counts kendras from the Moon. Braha ('Planets in the Houses', pp. 79 ff.) reads the exalted Mars house by house: Capricorn lagna (1st) success, respect, courage; Libra lagna (4th) land and houses; Cancer lagna (7th) a better-quality spouse and more domestic peace because Capricorn cancels Kujadosha; Aries lagna (10th) a great career with wealth and fame; Pisces lagna (11th) ambitions realised. Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Capricorn this applies to Capricorn (1st), Libra (4th), Gemini (8th), Aquarius (12th) lagnas, while Cancer lagna (7th) is exempt. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 3.49-50",
+        "view": "Mars exalted in Capricorn at 28°.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-3"
+      },
+      {
+        "source": "Brihat Jataka 18.7 (tr. M. D. Neely, 2007)",
+        "view": "Mars in Capricorn: abundant wealth, many sons, becomes a ruler or one equal to a ruler.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501812.html"
+      },
+      {
+        "source": "Saravali 25.19-20, Mars in Capricorn (tr. R. Santhanam)",
+        "view": "Wealthy, pleasure-loving, excellent temperament, famous, army chief or ruler, good spouse, victorious, lives in own country, independent, protective, virtuous.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.61-66, aspects on Mars in Capricorn/Aquarius (tr. R. Santhanam)",
+        "view": "Sun: brave, many children and wealth; Moon: fickle but rich; Mercury: weakness; Jupiter: kingly and long-lived; Venus: pleasures, combative; Saturn: high status and wealth.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.14 (tr. V. Subrahmanya Sastri)",
+        "view": "Exalted planet: rule over land, royal praise, wealth, fame, valour and courage.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Rich, high political position, many sons, brave, generous, industrious, indefatigable, successful, bold, tactful, respected, influential.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "Phaladeepika 6.1-2, 6.4 (tr. V. Subrahmanya Sastri)",
+        "view": "Ruchaka yoga: Mars in its own or exaltation sign in a kendra gives daring deeds, wealth, bravery, victory over enemies and army leadership.",
+        "url": "https://www.siva.sh/phaladeepika/6/1-5"
+      },
+      {
+        "source": "Andrew Foss, The Yoga of the Planets: Mars, Mangala, names 12 and 103",
+        "view": "Mars is exalted at 28 degrees Capricorn (in Dhanishtha) and has a natural association with this tenth sign; exaltation is like a king in his throne room.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'Kujadosha' p. 67 and 'Planets in the Houses'",
+        "view": "Mars operates best in Capricorn; Mars in the 7th in Capricorn cancels Kujadosha; house-by-house results for Mars in Capricorn, Aries or Scorpio are strongly favourable.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Sources agree strongly. BPHS treats all of Capricorn as exaltation, while Braha (p. 47) says only the degrees up to 28 count fully; Foss contrasts exaltation (a king on his throne) with the steadier own signs.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as strong, disciplined drive and leadership potential; avoid guaranteeing status or wealth."
+  },
+  {
+    "id": "planet_in_sign/mars/aquarius",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Aquarius"
+    },
+    "summary": "Mars in Aquarius is in Saturn's other sign (neutral). Classical texts are among the harshest here: distress, poverty, wandering, harsh or untruthful speech and losses through vices; aspects and house placement can change this substantially.",
+    "themes": [
+      "neutral sign",
+      "frustration",
+      "wandering",
+      "harsh speech",
+      "financial strain",
+      "unconventionality"
+    ],
+    "common_outcomes": [
+      "Frustrated or blocked drive",
+      "Financial strain or loss",
+      "Restless wandering",
+      "Blunt or harsh speech"
+    ],
+    "rare_outcomes": [
+      "Saravali 25.21-22: loses money through gambling; fond of intoxicants; looks older than age",
+      "Brihat Jataka 18.7: inclined to untruth"
+    ],
+    "by_area": {
+      "personality": "Lacks affection and purity, spiteful and untruthful (Saravali 25.21-22); harsh (Brihat Jataka 18.7); independent, impulsive and controversial yet quick to forgive and meditative (Raman HPA ch. XXII).",
+      "career": "Saravali 25.21-22: a miserable profession; Raman: well versed in dialects.",
+      "finance": "Poverty and loss (Brihat Jataka 18.7; Raman); Saravali 25.21-22 names losses in gambling.",
+      "health": "",
+      "relationships": "Saravali 25.21-22: lacks affection.",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Jupiter's aspect (Saravali 25.61-66: handsome, accomplished, long-lived, many relatives)",
+      "Saturn's aspect (Saravali 25.61-66: high status, wealth)",
+      "Sun's aspect (Saravali 25.61-66: brave, wealth)",
+      "Upachaya placement (3rd, 6th, 10th, 11th), where Braha (pp. 23, 51) says Mars gives good effects"
+    ],
+    "weakeners_or_cancellations": [
+      "Mercury's aspect (Saravali 25.61-66: poverty, weakness)",
+      "Moon's aspect (Saravali 25.61-66: fickle, unreliable)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest"
+    ],
+    "lagna_or_context_notes": "Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Aquarius this applies to Aquarius (1st), Scorpio (4th), Leo (7th), Cancer (8th), Pisces (12th) lagnas. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.7 (tr. M. D. Neely, 2007)",
+        "view": "Mars in Aquarius: distressed, poor, wandering, inclined to lie, harsh.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501812.html"
+      },
+      {
+        "source": "Saravali 25.21-22, Mars in Aquarius (tr. R. Santhanam)",
+        "view": "Lacks affection and purity, looks old, spiteful, jealous, untruthful, afflicted speech, loses money in gambling, poor profession, fond of liquor, unfortunate.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.61-66, aspects on Mars in Capricorn/Aquarius (tr. R. Santhanam)",
+        "view": "Jupiter: kingly, accomplished; Saturn: high status, wealth; Sun: brave, wealth; Mercury: poverty; Moon: fickle.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table gives Mars's friends as Sun, Moon and Jupiter, Mercury as enemy, and Venus and Saturn neutral (Saturn is neutral because he is both 11th lord from Aries and lord of Mars's exaltation sign).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Venus and Saturn are neutral to Mars and Mercury is its enemy (the Sun, Moon and Jupiter are friends by the closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Unhappy, poor, untruthful, independent, wandering, impulsive, combative, well-versed in dialects, quick to forgive and forget, danger on water, meditative.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), '1st House' (pp. 79-90)",
+        "view": "Since Mars is exalted in Capricorn, it is also well placed in Aquarius, the other sign ruled by Saturn.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Both texts are negative; Saravali also contains a harsh death-related line that this library deliberately omits. Aspect verses show Jupiter or Saturn aspect as strongly redeeming. Braha says Mars is well placed in Aquarius as the other sign of Saturn, whose Capricorn is its exaltation, which runs against both classical verses and Raman.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as independent energy that can feel blocked; suggest steady, structured effort and caution with risk-taking. Never mention manner of death, addiction or moral labels."
+  },
+  {
+    "id": "planet_in_sign/mars/pisces",
+    "layer": "planet_in_sign",
+    "key": {
+      "planet": "Mars",
+      "sign": "Pisces"
+    },
+    "summary": "Mars in Pisces is in Jupiter's sign, a friend. Brihat Jataka gives fame and a ministerial role with many opponents; Saravali is less kind, describing living abroad, family friction, worries over children and a desire for praise.",
+    "themes": [
+      "friendly sign",
+      "reputation",
+      "advisory roles",
+      "living abroad",
+      "family friction",
+      "desire for recognition"
+    ],
+    "common_outcomes": [
+      "Well known; fearless in action",
+      "Advisory or ministerial roles",
+      "Living or working away from home",
+      "Friction with relatives"
+    ],
+    "rare_outcomes": [
+      "Saravali 25.23-24: loses wealth through his own cunning and cheating; disrespects elders",
+      "Brihat Jataka 18.7: many enemies; few sons"
+    ],
+    "by_area": {
+      "personality": "Depressed in spirits, unkind, fond of praise yet famous (Saravali 25.23-24); passionate, restless, antagonistic, faithful and wilful (Raman HPA ch. XXII).",
+      "career": "Royal minister and well known (Brihat Jataka 18.7); lives in foreign countries (Saravali 25.23-24).",
+      "finance": "Saravali 25.23-24: loses wealth through his own cunning and cheating.",
+      "health": "Saravali 25.23-24 mentions disease and Raman colic; treat as traditional notes only.",
+      "relationships": "Insulted by own relatives (Saravali 25.23-24); Raman: troubles in love affairs.",
+      "family": "Indifferent children (Saravali 25.23-24); few sons (Brihat Jataka 18.7; Raman).",
+      "spirituality": "Saravali 25.23-24: disrespects elders and brahmins."
+    },
+    "strengtheners": [
+      "Sun's aspect (Saravali 25.55-60: honoured widely, fortunate)",
+      "Mercury's aspect (Saravali 25.55-60: scholar)",
+      "Venus's aspect (Saravali 25.55-60: popular, charitable, fortunate)",
+      "Kendra or trikona placement; Braha (p. 50) says planets in kendras are powerful and those in trikonas flourish"
+    ],
+    "weakeners_or_cancellations": [
+      "Moon's aspect (Saravali 25.55-60: combative, opposed to authorities)",
+      "Saturn's aspect (Saravali 25.55-60: restlessness)",
+      "Placement in a dusthana (6th, 8th, 12th); Braha (pp. 51-52) says a planet there is spoiled, the 6th being the mildest"
+    ],
+    "lagna_or_context_notes": "Braha (p. 67) counts Mars in the 1st, 4th, 7th, 8th or 12th as Kujadosha unless it is in that house's exception sign; with Mars in Pisces this applies to Pisces (1st), Sagittarius (4th), Leo (8th), Aries (12th) lagnas, while Virgo lagna (7th) is exempt. He notes some astrologers use the 2nd house instead of the 1st. For Cancer lagna Mars alone forms rajayoga as lord of the 5th and 10th (Braha p. 53).",
+    "source_views": [
+      {
+        "source": "Brihat Jataka 18.7 (tr. M. D. Neely, 2007)",
+        "view": "Mars in Jupiter's signs: many enemies, royal minister, well known, fearless, few sons.",
+        "url": "https://www.wisdomlib.org/hinduism/book/brihat-jataka-by-varahamihira-sanskrit-english/d/doc1501812.html"
+      },
+      {
+        "source": "Saravali 25.23-24, Mars in Pisces (tr. R. Santhanam)",
+        "view": "Troubled by disease and indifferent children, lives abroad, insulted by kin, loses wealth through cunning, depressed, disrespectful to elders, desires much, loves praise, famous.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Saravali 25.55-60, aspects on Mars in Sagittarius/Pisces (tr. R. Santhanam)",
+        "view": "Sun: honoured; Moon: combative; Mercury: scholar; Jupiter: wealth, domestic strain; Venus: popular and fortunate; Saturn: restlessness.",
+        "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology%20(Jyotish)%20collection/Saravali%20(Kalyana%20Varma).pdf"
+      },
+      {
+        "source": "Phaladeepika 9.16 (tr. V. Subrahmanya Sastri)",
+        "view": "Friend's sign: success through friends.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621581.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 3.55, naisargika maitri (tr. R. Santhanam, vol. 1 pp. 40-41)",
+        "view": "Same moolatrikona rule; Santhanam's table gives Mars's friends as Sun, Moon and Jupiter, Mercury as enemy, and Venus and Saturn neutral (Saturn is neutral because he is both 11th lord from Aries and lord of Mars's exaltation sign).",
+        "url": "https://archive.org/details/BPHSEnglish"
+      },
+      {
+        "source": "Phaladeepika 2.21-22 (tr. V. Subrahmanya Sastri)",
+        "view": "Venus and Saturn are neutral to Mars and Mercury is its enemy (the Sun, Moon and Jupiter are friends by the closing rule in 2.22).",
+        "url": "https://www.siva.sh/phaladeepika/2/21-25"
+      },
+      {
+        "source": "B.V. Raman, Hindu Predictive Astrology, ch. XXII 'Planets in Different Rasis or Signs' (Mars, pp. 209-212)",
+        "view": "Troubles in love affairs, few children, passionate, restless, antagonistic, faithful, colic, indolent, wilful.",
+        "url": "https://archive.org/details/hindupredictiveastrologyofbvraman"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'Mars' p. 23, 'House Rulerships' pp. 50-53, 'Shad Bala' pp. 59-61 and 'Kujadosha' p. 67",
+        "view": "Mars does well in the upachaya houses and best in the 10th (directional strength); kendras are powerful, trikonas flourish, dusthanas spoil; combustion within about 8 degrees spoils a planet; dignity in the navamsa strengthens; Mars in the 1st, 4th, 7th, 8th or 12th gives Kujadosha unless in the exception sign; for Cancer lagna Mars alone forms rajayoga.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Brihat Jataka is mostly favourable (fame, ministerial post); Saravali is mostly unfavourable (loss of wealth through the native's own cunning, family friction) but still says famous; Raman is mixed. The friend's-sign dignity (BPHS 3.55) supports the milder view.",
+    "confidence": "medium",
+    "phrasing_guidance": "Present as recognition-seeking, service-capable energy; advise care with trust in money matters. Avoid disease or family-conflict predictions."
+  }
+]

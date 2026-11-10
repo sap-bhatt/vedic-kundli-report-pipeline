@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "lord_in_house/8/1",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 1
+    },
+    "summary": "The lord of hidden matters, sudden change and longevity joins the self. BPHS, Raman, Braha and Bhavartha Ratnakara agree on reduced bodily ease and recurring hardship; Braha adds a spiritual, ascetic or occult bent.",
+    "themes": [
+      "transformation",
+      "intensity",
+      "physical sensitivity",
+      "research",
+      "upheaval"
+    ],
+    "common_outcomes": [
+      "Bodily comfort and constitution need care (BPHS 24.85; Raman; Braha; Bhavartha Ratnakara 5.1)",
+      "Hardships, debts or trouble from superiors and authorities (Raman; Braha)",
+      "Interest in spiritual, ascetic or occult subjects (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.85: susceptible to wounds; irreverent toward gods and Brahmins (traditional view)",
+      "Raman: with the lagna lord in the lagna, penury and debts; severely afflicted, disfigurement and government trouble (traditional view)",
+      "Raman's 7th-house combinations: the 8th lord in the 1st or 7th is listed for more than one marriage; Braha: bad for married life as the lord aspects the 7th",
+      "Braha: accident-prone; court cases; a difficult start in life"
+    ],
+    "by_area": {
+      "personality": "Ill-natured (Braha); irreverent (BPHS 24.85). Both traditional views.",
+      "career": "Raman: displeasure of superiors and trouble from government.",
+      "finance": "Raman: penury and debts when the 8th lord joins the lagna lord in the lagna.",
+      "health": "Devoid of physical comfort (BPHS 24.85); sickly body (Bhavartha Ratnakara 5.1); weak constitution if afflicted (Raman). Traditional notes only.",
+      "relationships": "Braha: bad for married life (the lord aspects the 7th); Raman's combinations list more than one marriage.",
+      "family": "",
+      "spirituality": "Braha: spiritual, ascetic, interested in occult subjects."
+    },
+    "strengtheners": [
+      "The 8th lord in the 6th, 8th or 12th from the navamsa lagna (Raman, How to Judge a Horoscope pp. 206-207: the evil is greatly reduced)",
+      "The 8th lord weak (Raman: the misfortune is reduced)",
+      "Saturn joining or aspecting the 8th lord (Bhavartha Ratnakara 7.2: long life)",
+      "Aries (Mars) or Libra (Venus) lagna, where the 8th lord is also the lagna lord (see lagna notes)"
+    ],
+    "weakeners_or_cancellations": [
+      "The 8th lord joined with the lagna lord in the lagna (Raman)",
+      "The 8th lord in the lagna with Ketu (Bhavartha Ratnakara 7.3, a traditional longevity caution)",
+      "The 8th lord in a kendra: Phaladeepika 16.21 makes the 8th lord's absence from the kendras a condition of a long, obstacle-free life",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.85",
+        "view": "Eighth lord in the lagna: deprived of bodily happiness, a critic of gods and Brahmins, and afflicted by wounds or sores.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-85"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.85 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Devoid of physical felicity, suffers from wounds, hostile to gods and Brahmins.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "With the lagna lord in the lagna: penury, heavy debts, misfortune at every step; reduced if the 8th lord is weak or in the 6th, 8th or 12th from the navamsa lagna; severely afflicted: disease, disfiguration, weak constitution, displeasure of superiors, trouble from government.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Important Combinations' (pp. 171-174)",
+        "view": "The 8th lord in the 1st or the 7th is among combinations for two or more marriages.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Unhealthy, poor appearance, accident prone, bad for married life (aspects the 7th), ill-natured, hardships, may face court cases, difficult childhood; spiritual, ascetic, interested in occult subjects.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. V st. 1; ch. VII st. 3 with Raman's notes",
+        "view": "The 8th lord in the 1st gives a sickly body (Raman: the native will always suffer from disease); with Ketu it is a short-life combination; Raman: the 8th lord in the lagna is not conducive to long life.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.2, 16.21 (tr. V. Subrahmanya Sastri)",
+        "view": "A strong lagna lord in a kendra or trikona with the 8th lord outside the kendras gives long life, wealth and honour; an 8th lord outside the kendras and weaker than the lagna lord gives a long life free from obstacles.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Describe intensity and a capacity for depth. No health or longevity predictions; at most say traditional texts advise care with the body and routines."
+  },
+  {
+    "id": "lord_in_house/8/2",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 2
+    },
+    "summary": "The lord of sudden change in the house of wealth, speech and family. BPHS, Raman and Braha agree on limited wealth, family discontent and eye, teeth or speech complaints; Braha adds that the lord aspecting its own house gives a long, active life.",
+    "themes": [
+      "wealth fluctuation",
+      "inheritance",
+      "speech",
+      "family secrets",
+      "maraka link"
+    ],
+    "common_outcomes": [
+      "Modest wealth; lost wealth not regained (BPHS 24.86); poor (Braha)",
+      "Discontent and quarrels in family life; estrangement possible (Raman; Braha)",
+      "Eye, teeth, throat or speech complaints; poor food (Raman; Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.86: lacking bodily vigour (traditional note)",
+      "Braha: speaks untruths; limited education and imagination (traditional view)",
+      "Braha: a long and active life because the 8th lord aspects its own house from the 2nd"
+    ],
+    "by_area": {
+      "personality": "Braha: a poor speaker, may speak lies (traditional view).",
+      "career": "",
+      "finance": "Little wealth, lost wealth not regained (BPHS 24.86); poor (Braha).",
+      "health": "Eye and tooth trouble (Raman); poor right-eye vision, throat problems (Braha). Traditional notes only.",
+      "relationships": "The spouse may not understand the native; estrangement possible (Raman).",
+      "family": "Discontent and quarrels at home (Raman); unhappy family life (Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The 8th lord in the 6th, 8th or 12th from the navamsa lagna (Raman, How to Judge a Horoscope pp. 206-207: the evil is greatly reduced)",
+      "Saturn joining or aspecting the 8th lord (Bhavartha Ratnakara 7.2: long life)",
+      "Benefic aspect on the occupied house (Phaladeepika 15.5)"
+    ],
+    "weakeners_or_cancellations": [
+      "The 8th lord with the 2nd lord in the 2nd (Raman: troubles of all sorts)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.86",
+        "view": "Eighth lord in the 2nd: lacking in bodily strength, has little wealth, and does not regain lost wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-86"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.86 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Devoid of bodily vigour, enjoys a little wealth and will not regain lost wealth.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "With the 2nd lord in the 2nd: troubles of all sorts, eye and tooth trouble, unhealthy or tasteless food, domestic discontent and quarrels, a wife who does not understand him, possibly estrangement; reduced if the 8th lord is in the 6th, 8th or 12th from the navamsa lagna.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Poor, unhappy family life, poor speaker, speaks lies, bad education, poor right-eye vision, eats bad food, limited imagination, throat problems; long and active life as the 8th lord aspects its own house.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Advise careful money management and patient communication at home. Do not predict poverty or illness."
+  },
+  {
+    "id": "lord_in_house/8/3",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 3
+    },
+    "summary": "The lord of hidden matters in the house of siblings, effort and courage. BPHS, Raman and Braha agree on strained sibling relations and low energy or courage; Raman adds that if the 6th or 12th lord is also involved, a windfall can come through writing or a sibling.",
+    "themes": [
+      "siblings",
+      "effort",
+      "investigative communication",
+      "helpers",
+      "energy"
+    ],
+    "common_outcomes": [
+      "Strained relations with siblings, or a sibling who has a hard life (BPHS 24.87; Raman; Braha)",
+      "Low energy, fears or anxiety; efforts that do not succeed easily (BPHS 24.87; Raman; Braha)",
+      "Few helpers or servants (BPHS 24.87)"
+    ],
+    "rare_outcomes": [
+      "Raman: with the 6th or 12th lord also involved, a monetary windfall through writing or through a sibling",
+      "Raman: hearing problems; imagined fears; debts (traditional notes)",
+      "Braha: no talent for music, dance, drama or literature"
+    ],
+    "by_area": {
+      "personality": "Indolent (BPHS 24.87); fearful, mental anguish (Raman); fearful, few adventures (Braha). Traditional views.",
+      "career": "Raman: with the 6th or 12th lord involved, gains through writing.",
+      "finance": "Raman: may fall into debt; a possible windfall through writing or a sibling.",
+      "health": "Ear problems (Raman; Braha: right ear). Traditional notes only.",
+      "relationships": "Misunderstandings and quarrels with siblings (Raman; Braha).",
+      "family": "Devoid of fraternal happiness (BPHS 24.87).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The 8th lord combined with the 6th or 12th lord (Raman: beneficial results; Rath, Crux 2.3: dusthana lords associating in a dusthana form Vipareeta yoga)",
+      "The 8th lord in the 6th, 8th or 12th from the navamsa lagna (Raman, How to Judge a Horoscope pp. 206-207: the evil is greatly reduced)",
+      "Saturn joining or aspecting the 8th lord (Bhavartha Ratnakara 7.2: long life)"
+    ],
+    "weakeners_or_cancellations": [
+      "The 8th lord with the 3rd lord in the 3rd, afflicted by malefics (Raman: the sufferings are unbearable)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman). For Virgo (Mars 3+8) and Pisces (Venus 3+8) the 8th lord also owns the 3rd and is in its own sign here; BPHS 34.7 calls this combination of lordships specifically harmful.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.87",
+        "view": "Eighth lord in the 3rd: deprived of happiness from brothers; lazy, without servants and lacking strength.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-87"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.87 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Devoid of fraternal happiness, indolent, devoid of servants and strength.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "With the 3rd lord in the 3rd: the 3rd house suffers; ear problems, quarrels with siblings, fears, mental anguish, debts; with malefics unbearable; but if the 8th lord combines with the 6th or 12th lords, beneficial results: a windfall through writing or a co-born.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Strained relations with siblings, sibling leads a difficult life, cannot fulfil desires, fearful, few adventures, unsuccessful efforts, right-ear defect, no ability in music, dance, drama or literature.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. II 2.3 (pp. 12-13) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "Lords of two malefic houses associating form a Vipareeta yoga; in a dusthana (Rath counts the 3rd, 6th, 8th and 12th) it becomes a Vipareeta raja yoga.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Say sibling bonds and stamina are areas to cultivate, and that writing may be a hidden strength. Avoid calling the person lazy or fearful."
+  },
+  {
+    "id": "lord_in_house/8/4",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 4
+    },
+    "summary": "The lord of upheaval in the house of mother, home and inner peace. BPHS, Raman and Braha agree on strain around the mother, home, land and vehicles; Braha also calls it a 'moksha lord in a moksha house', giving intuition and a spiritual turn later in life.",
+    "themes": [
+      "home upheaval",
+      "mother",
+      "property issues",
+      "inner unrest",
+      "friendships"
+    ],
+    "common_outcomes": [
+      "Less comfort from home, land and property; property may slip away (BPHS 24.88; Raman; Braha)",
+      "Concern for the mother, or distance from her (BPHS 24.88; Raman; Braha)",
+      "Unsettled peace of mind and domestic friction (Raman)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.88: deprived of the mother in childhood; may betray friends (traditional view, never a prediction)",
+      "Raman: under heavy affliction, may seek fortune abroad and meet trouble there; career reverses as superiors are displeased",
+      "Braha: occult subjects dear to the heart, strong intuition, long life, more spiritual at the close of life; breaks in education; career problems as the lord aspects the 10th"
+    ],
+    "by_area": {
+      "personality": "Braha: strong intuition; unhappy at times.",
+      "career": "Raman: professional reverses; Braha: career problems (the lord aspects the 10th).",
+      "finance": "Raman: financial problems increase; Braha: few fixed assets, no maternal inheritance.",
+      "health": "",
+      "relationships": "BPHS 24.88: betrays friends (traditional view).",
+      "family": "Difficulties with or concern for the mother (BPHS 24.88; Raman; Braha); domestic bickering (Raman).",
+      "spirituality": "Braha: a moksha lord in a moksha house gives a spiritual nature, love of occult subjects and a more spiritual close of life."
+    },
+    "strengtheners": [
+      "The 8th lord in the 6th, 8th or 12th from the navamsa lagna (Raman, How to Judge a Horoscope pp. 206-207: the evil is greatly reduced)",
+      "The 8th lord outside the kendras and weaker than the lagna lord (Phaladeepika 16.21: long-lived, free from obstacles); a strong lagna lord in a kendra or trikona (Phaladeepika 16.2)",
+      "Saturn joining or aspecting the 8th lord (Bhavartha Ratnakara 7.2: long life)"
+    ],
+    "weakeners_or_cancellations": [
+      "The 8th lord with the 4th lord in the 4th, heavily afflicted (Raman: property lost)",
+      "The 8th lord in a kendra: Phaladeepika 16.21 makes the 8th lord's absence from the kendras a condition of a long, obstacle-free life",
+      "Raman: an 8th lord fortified in a kendra or trikona intensifies its evil results (How to Judge a Horoscope p. 206)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.88",
+        "view": "Eighth lord in the 4th: the child is deprived of the mother; lacks happiness from house and land; betrays friends.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-88"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.88 (tr. G.C. Sharma; cross-check translation)",
+        "view": "The child will be deprived of its mother; devoid of house, lands and happiness; will betray friends.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "With the 4th lord in the 4th: mental peace shattered, domestic bickering, financial problems, mother's health a concern, problems with house, land and vehicles; heavy affliction: property slips away; may seek fortune abroad with troubles; reverses in profession.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "A moksha lord in a moksha house gives a spiritual nature; difficulties with mother, no maternal inheritance, few comforts, breaks in education, few fixed assets, career problems, occult subjects dear, strong intuition, long life, more spiritual at the close of life.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.2, 16.21 (tr. V. Subrahmanya Sastri)",
+        "view": "A strong lagna lord in a kendra or trikona with the 8th lord outside the kendras gives long life, wealth and honour; an 8th lord outside the kendras and weaker than the lagna lord gives a long life free from obstacles.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Never predict a parent's death or the loss of property. Say home life may involve change and that inner security grows, often through spiritual interests."
+  },
+  {
+    "id": "lord_in_house/8/5",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 5
+    },
+    "summary": "The lord of hidden matters in the house of intelligence and children. BPHS, Raman and Braha agree on limited or troubled happiness from children and strain on the mind; BPHS and Braha both add long life, and BPHS wealth.",
+    "themes": [
+      "research mind",
+      "occult interest",
+      "longevity",
+      "wealth",
+      "children concerns"
+    ],
+    "common_outcomes": [
+      "Few children or worries connected with a child (BPHS 24.89; Raman; Braha)",
+      "Mental strain, lack of peace of mind, difficulty in studies (Raman; Braha); BPHS: dull-witted (traditional view)",
+      "Long-lived (BPHS 24.89; Braha) and wealthy (BPHS 24.89)"
+    ],
+    "rare_outcomes": [
+      "Raman: a child may get into trouble that affects the native's reputation; misunderstanding with the father; nervous strain (traditional notes)",
+      "Raman: with the 9th lord also in the 5th and the lagna lord debilitated, a harsh classical description of lacking knowledge and wealth",
+      "Braha: bad investments; gains from a partner's wealth and insurance",
+      "Raman, 300 Combinations no. 217: the 8th lord in the 5th exchanged with the 5th lord, with the Moon and 4th lord in the 6th, is a classical combination for loss of children"
+    ],
+    "by_area": {
+      "personality": "Dull-witted (BPHS 24.89); no peace of mind (Braha); possible nervous strain (Raman). Traditional views.",
+      "career": "",
+      "finance": "Wealthy (BPHS 24.89); bad investments but gains from a partner's wealth or insurance (Braha).",
+      "health": "Raman: bodily ill-health and nervous strain under heavy affliction (traditional notes only).",
+      "relationships": "Braha: unhappy love affairs.",
+      "family": "Limited children (BPHS 24.89); friction with a child (Braha); a child's troubles (Raman); misunderstanding with the father (Raman).",
+      "spirituality": "Braha: no past-life credit brought forward (traditional view)."
+    },
+    "strengtheners": [
+      "The 8th lord in the 6th, 8th or 12th from the navamsa lagna (Raman, How to Judge a Horoscope pp. 206-207: the evil is greatly reduced)",
+      "Saturn joining or aspecting the 8th lord (Bhavartha Ratnakara 7.2: long life)",
+      "Benefic aspect on the occupied house (Phaladeepika 15.5)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: an 8th lord fortified in a kendra or trikona intensifies its evil results (How to Judge a Horoscope p. 206)",
+      "The 8th lord with the 5th lord in the 5th, heavily afflicted (Raman)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman). For Leo (Jupiter 5+8) and Aquarius (Mercury 5+8) the 8th lord also owns the 5th and is in its own sign here; BPHS 34.7 says an 8th lord that also owns a trikona gives auspicious effects.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.89",
+        "view": "Eighth lord in the 5th: dull-witted, but long-lived and wealthy.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-89"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.89 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Dull-witted, limited number of children, long-lived and wealthy.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "With the 5th lord in the 5th: children may get into trouble affecting the native's reputation; misunderstanding with the father; a child's illness; heavy affliction: much grief over a child; bodily ill-health; mitigated if the 8th lord is in the 6th, 8th or 12th from the navamsa lagna, intensified if fortified in a kendra or trikona; nervous strain as the 5th is the house of intellect.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Few children, friction with a child, dull mind, no peace of mind, difficulty in exams, bad investments, unhappy love affairs, no past-life credit, long life, gains from partner's wealth, benefits from insurance.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, no. 217 Matrusapa Sutakshaya Yoga (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "If the 8th lord is in the 5th, the 5th lord in the 8th, and the Moon and 4th lord join the 6th, loss of children is attributed to the mother's curse (traditional combination).",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a deep, searching mind that benefits from calm routines. Do not call the person dull; do not discuss lifespan or loss of a child."
+  },
+  {
+    "id": "lord_in_house/8/6",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 6
+    },
+    "summary": "A dusthana lord in another dusthana: Sarala yoga in Phaladeepika and Raman's definition. BPHS, Raman and Braha agree on victory over enemies and some health concern; Raman (with the 6th lord also there) adds a Raja yoga with affluence and fame, while Braha reads poverty and bad jobs.",
+    "themes": [
+      "Sarala / Viparita yoga",
+      "victory over enemies",
+      "crisis management",
+      "health sensitivity",
+      "debt resolution"
+    ],
+    "common_outcomes": [
+      "Wins over enemies and competitors (BPHS 24.90; Raman; Braha; Phaladeepika 6.65)",
+      "Health and routines need conscious attention (BPHS 24.90; Raman; Braha)",
+      "Raman: with the 6th lord also in the 6th, affluence, fame and desired objects (a Raja yoga)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.90: danger from snakes and water in childhood (traditional note)",
+      "Raman, afflicted: loss through theft and trouble through courts and police; the maternal uncle may suffer",
+      "Phaladeepika 6.65 Sarala yoga: long life, resolve, fearlessness, prosperity, learning, children, success and fame",
+      "Braha: bad jobs and servants, poverty, short life (traditional view, never stated as a prediction)"
+    ],
+    "by_area": {
+      "personality": "Resolute and fearless (Phaladeepika 6.65).",
+      "career": "Braha: bad jobs. Raman: success when the 6th lord is fortified.",
+      "finance": "Raman: material affluence (with the 6th lord); loss through theft if afflicted. Braha: poor.",
+      "health": "Afflicted by diseases (BPHS 24.90); possible ill-health (Raman); unhealthy (Braha). Traditional notes only.",
+      "relationships": "Defeats enemies; their attempts to harm the native fail when the 6th lord is fortified (Raman).",
+      "family": "Raman: the maternal uncle may face trouble; Braha: no gains from the uncle.",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "The 8th lord joined by the 6th lord in the 6th, with the 6th lord fortified (Raman: Raja yoga; enemies fail)",
+      "Association of the 6th and 8th lords in a dusthana without benefics (Rath, Crux 2.3)",
+      "The 8th lord in the 6th, 8th or 12th from the navamsa lagna (Raman, How to Judge a Horoscope pp. 206-207: the evil is greatly reduced)"
+    ],
+    "weakeners_or_cancellations": [
+      "Raman: affliction gives theft and legal trouble",
+      "Raman, 300 Combinations no. 106: the evil of dusthana lordship is only modified, not removed",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.90",
+        "view": "Eighth lord in the 6th: conquers enemies; physical ailments; fear from snakes and water in childhood.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-90"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.65 (tr. V. Subrahmanya Sastri)",
+        "view": "Sarala yoga: the 8th lord in 6, 8 or 12 gives a long-lived, resolute, fearless, prosperous, learned person who succeeds, defeats enemies and is famous.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, nos. 105-107 Harsha, Sarala, Vimala Yogas (pp. 129-130), read in the book (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "The lords of the 6th, 8th and 12th in the 6th, 8th and 12th give Harsha, Sarala and Vimala; Sarala gives long life, fearlessness, learning, fame and prosperity. Raman remarks that in practice results have often been contrary and the evil of the lordship is only modified.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.90 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Wins over his enemies, is afflicted by diseases, and in childhood incurs danger through snakes and water.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "With the 6th lord in the 6th: a Raja yoga with affluence, fame and desired objects, but possible ill-health; afflicted: loss through theft, courts and police; the maternal uncle may suffer; a fortified 6th lord overcomes all troubles and enemies fail.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Unhealthy, defeats enemies and competitors (malefics in the 6th are good), bad jobs, bad servants, short-lived, poor, no gains from uncle.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. II 2.3 (pp. 12-13) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "Lords of two malefic houses associating form a Vipareeta yoga; in a dusthana it becomes a Vipareeta raja yoga and the native gains by others' losses; benefics should not join it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "All agree on victory over enemies. Raman (with the 6th lord) and Phaladeepika read prosperity and fame; Braha reads poverty and bad jobs; Raman's 300 Combinations warns that in practice Sarala results are often contrary. The earlier note that Raman's definition excludes some placements came from a practitioner summary and is not supported by the book.",
+    "confidence": "medium",
+    "phrasing_guidance": "Frame as resilience and the ability to come through crises. No health or longevity predictions."
+  },
+  {
+    "id": "lord_in_house/8/7",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 7
+    },
+    "summary": "The lord of sudden change in the house of marriage and partnership. BPHS, Raman, Braha and Phaladeepika agree on difficulty in marriage and concern for the spouse's health; BPHS and Raman's combinations add more than one marriage, and Raman adds distinction through foreign missions when both lords are strong.",
+    "themes": [
+      "marriage changes",
+      "partnership risk",
+      "in-laws",
+      "joint resources",
+      "intensity"
+    ],
+    "common_outcomes": [
+      "Marriage problems or unsuccessful partnerships (Braha; Phaladeepika 10.2)",
+      "Concern for the spouse's health (Raman; Braha)",
+      "More than one marriage (BPHS 24.91; Raman's combinations)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.91: with a malefic joining the lord, a downfall in business",
+      "Raman: if the 7th and 8th lords are strong, foreign journeys on diplomatic missions and distinction",
+      "Raman: health problems abroad; Raman also lists a longevity caution (traditional view, never stated)",
+      "Phaladeepika 10.2: the 8th lord in the 7th is listed for loss of the wife (traditional rule, never stated as a prediction)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Downfall in business if a malefic joins (BPHS 24.91); diplomatic missions abroad if both lords are strong (Raman).",
+      "finance": "",
+      "health": "Raman: illness if afflicted, and problems abroad (traditional notes only).",
+      "relationships": "Marriage problems, possible divorce; a spouse who endures hardship or illness, or lacks confidence (Braha); two marriages (BPHS 24.91).",
+      "family": "",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "Both the 7th and 8th lords strong (Raman: distinction on foreign missions)",
+      "The 8th lord in the 6th, 8th or 12th from the navamsa lagna (Raman, How to Judge a Horoscope pp. 206-207: the evil is greatly reduced)",
+      "The 8th lord outside the kendras and weaker than the lagna lord (Phaladeepika 16.21: long-lived, free from obstacles); a strong lagna lord in a kendra or trikona (Phaladeepika 16.2)"
+    ],
+    "weakeners_or_cancellations": [
+      "A malefic joining the 8th lord here (BPHS 24.91: downfall in business)",
+      "The 8th lord in a kendra: Phaladeepika 16.21 makes the 8th lord's absence from the kendras a condition of a long, obstacle-free life",
+      "Raman: an 8th lord fortified in a kendra or trikona intensifies its evil results (How to Judge a Horoscope p. 206)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman). For Cancer lagna Saturn rules both the 7th and 8th and is in its own sign here; BPHS 34.7 calls an 8th lord that also owns the 7th specifically harmful.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.91",
+        "view": "Eighth lord in the 7th: two wives; losses in business if the lord is with a malefic.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-91"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.91 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Two wives; if yuti with a malefic in the 7th, there will surely be a downfall in his business.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "With the 7th lord in the 7th: curtails longevity; the wife may suffer ill-health; if afflicted the native too suffers disease and meets ill-health abroad; if the 7th and 8th lords are strong, foreign journeys on diplomatic missions and distinction.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XI 'Important Combinations' (pp. 171-174)",
+        "view": "The 8th lord in the 1st or the 7th is among combinations for two or more marriages.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Marriage problems, divorce, unhappy or unsuccessful partnerships, spouse may endure a life of hardship or chronic illness, spouse has no confidence.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Phaladeepika 10.2 (tr. V. Subrahmanya Sastri)",
+        "view": "Loss of the wife is certain if the lord of the 5th or the 8th is in the 7th (traditional rule).",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621582.html"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.2, 16.21 (tr. V. Subrahmanya Sastri)",
+        "view": "A strong lagna lord in a kendra or trikona with the 8th lord outside the kendras gives long life, wealth and honour; an 8th lord outside the kendras and weaker than the lagna lord gives a long life free from obstacles.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Never predict divorce, a second marriage or a spouse's illness. Say partnerships are transformative and benefit from patience, clear agreements and care of each other's health."
+  },
+  {
+    "id": "lord_in_house/8/8",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 8
+    },
+    "summary": "The 8th lord in its own house. BPHS, Raman, Braha and Phaladeepika (Sarala yoga) agree that a strong lord gives long life and, in Raman and Braha, gains and position; a weak or afflicted lord gives little luck or wrong choices.",
+    "themes": [
+      "Sarala yoga",
+      "resilience",
+      "research",
+      "hidden knowledge",
+      "inheritance"
+    ],
+    "common_outcomes": [
+      "Long-lived (BPHS 24.92; Raman; Braha; Phaladeepika 6.65)",
+      "Lands, vehicles, power and position through past merit when strong (Raman); money from a partner, wills, legacies or insurance (Braha)",
+      "Spiritual and occult leanings, strong intuition (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.92 (both translations): a weak lord gives medium longevity and a blameworthy, thieving streak (traditional view)",
+      "Raman: weak, no serious trouble but no notable luck; the father may pass through a crisis; afflicted, failure through wrong choices",
+      "Phaladeepika 6.65 Sarala yoga: resolute, fearless, prosperous, learned, successful and celebrated"
+    ],
+    "by_area": {
+      "personality": "Lively and energetic, living life to the full (Braha); fearless and resolute (Phaladeepika 6.65).",
+      "career": "Power and position through past merit (Raman).",
+      "finance": "Lands and conveyances (Raman); wealth from the spouse, wills and insurance (Braha).",
+      "health": "",
+      "relationships": "Braha: sexually attractive.",
+      "family": "Raman: the father may pass through a crisis when the lord is weak.",
+      "spirituality": "Spiritual leanings, occult study, good for moksha, psychic (Braha)."
+    },
+    "strengtheners": [
+      "The lord strong in its own sign (BPHS 24.92; Raman)",
+      "Saturn joining or aspecting the 8th lord (Bhavartha Ratnakara 7.2: long life)"
+    ],
+    "weakeners_or_cancellations": [
+      "A weak lord (BPHS 24.92; Raman)",
+      "An afflicted lord (Raman: prompted to wrong actions and loss)",
+      "Raman, 300 Combinations no. 106: the evil of the lordship is only modified",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.92",
+        "view": "Eighth lord in the 8th: long-lived; if weak, middling life span, and may be a thief, blameworthy and blaming others.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-92"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.65 (tr. V. Subrahmanya Sastri)",
+        "view": "Sarala yoga: the 8th lord in 6, 8 or 12 gives longevity, resolve, fearlessness, prosperity, learning and fame.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, nos. 105-107 Harsha, Sarala, Vimala Yogas (pp. 129-130), read in the book (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "The 6th, 8th and 12th lords in the 6th, 8th and 12th give Harsha, Sarala and Vimala; the definition does not exclude a lord in its own house. Sarala gives long life, fearlessness, learning, fame and prosperity, but Raman remarks that in practice results have often been contrary.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.92 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Long-lived; if the lord is weak, medium longevity, and the native will be a thief, blameworthy and will blame others.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "In strength: long life with happiness; lands, conveyance, power and position through past merit. Weak: no serious troubles but no luck of significance; the father may pass through a crisis. Afflicted: fails in undertakings, prompted to wrong actions and loss.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Own sign: long life, lively and energetic, wealth from the marriage partner, money from wills, legacies or insurance, spiritual leanings, occult studies, good for moksha, intuitive, psychic, sexually attractive.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "An earlier note here, taken from a practitioner summary, said Raman's definition of Sarala excludes the 8th lord in the 8th; the book's definition does not. Raman's 300 Combinations still doubts the yoga's full results in practice.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as resilience, depth and research ability. Do not mention lifespan or theft."
+  },
+  {
+    "id": "lord_in_house/8/9",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 9
+    },
+    "summary": "The lord of upheaval in the house of fortune, father and dharma. BPHS, Raman and Braha read strain on fortune, faith and the father; Bhavartha Ratnakara gives a notable counter-rule: when the 8th and 9th lords join or aspect, fame and power come in the 8th lord's period.",
+    "themes": [
+      "fortune through change",
+      "questioning faith",
+      "father",
+      "unconventional spirituality",
+      "obstacles to luck"
+    ],
+    "common_outcomes": [
+      "Strained relations with the father, or a father who has a hard life (Raman; Braha)",
+      "Fortune and luck spoiled or delayed (Braha); little regard for religion (BPHS 24.93; Braha)",
+      "Long-lived (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.93: betrays religion, heterodox, a difficult spouse, takes others' wealth (traditional view)",
+      "Raman: with malefics, loss of paternal property; with benefics, acquires paternal property and harmony with the father",
+      "Bhavartha Ratnakara 8.9-8.10: 8th and 9th lords conjunct or in mutual aspect confer fame and power in the 8th lord's dasa or sub-period",
+      "Raman: a weak 9th lord here adds hardship, deserting friends and fault-finding superiors"
+    ],
+    "by_area": {
+      "personality": "Heterodox (BPHS 24.93); no faith or appreciation of philosophy (Braha). Traditional views.",
+      "career": "Raman: superiors find fault when the 9th lord is weak.",
+      "finance": "Loss of paternal property with malefics, gain of it with benefics (Raman).",
+      "health": "",
+      "relationships": "BPHS 24.93: a wicked spouse (traditional view); Raman: friends and kin may desert if the 9th lord is weak.",
+      "family": "Misunderstandings with the father (Raman); bad relations with the father (Braha).",
+      "spirituality": "No gains from elders or gurus; bhagya spoiled (Braha). Bhavartha Ratnakara's fame yoga is the main counter-view."
+    },
+    "strengtheners": [
+      "Benefics joining (Raman: paternal property gained, harmony with the father)",
+      "The 8th lord conjoined with or aspected by the 9th lord (Bhavartha Ratnakara 8.9-8.10: fame and power in the 8th lord's period)",
+      "The 8th lord in the 6th, 8th or 12th from the navamsa lagna (Raman, How to Judge a Horoscope pp. 206-207: the evil is greatly reduced)"
+    ],
+    "weakeners_or_cancellations": [
+      "Malefics joining (Raman: loss of paternal property)",
+      "A weak 9th lord (Raman: hardships)",
+      "Raman: an 8th lord fortified in a kendra or trikona intensifies its evil results (How to Judge a Horoscope p. 206)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman). For Gemini lagna Saturn owns both the 8th and 9th and is in its own sign Aquarius (its mulatrikona) here; Frawley says its effects for Gemini are on the whole more positive than negative.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.93",
+        "view": "Eighth lord in the 9th: a betrayer of dharma, an atheist, with a wicked wife, and takes others' wealth.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-93"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.93 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Betrays his religion, heterodox, begets a wicked wife and steals others' wealth.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "With the 9th lord in the 9th and malefics: may lose father's property and have misunderstandings with the father; with benefics, acquires father's property, harmonious relations; if the 9th lord is weak, hardships, friends desert, superiors find fault; reduced if the 8th lord is in the 6th, 8th or 12th from the navamsa lagna.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Long-lived, bad relations with father, father may lead a hard life, no luck, no faith, no gains from elders or gurus; a bad placement as it spoils the house of fortune.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. VIII st. 9-10 with Raman's notes",
+        "view": "If the 8th and 9th lords are in conjunction or mutual aspect, fame and power are conferred in the dasa of the 8th lord (st. 9), or in the 8th lord's sub-period within the 9th lord's dasa (st. 10); Raman: the 9th lord delegates its power to the 8th.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "BPHS, Raman and Braha are mainly unfavourable; Bhavartha Ratnakara 8.9-8.10 gives fame and power when the 8th and 9th lords are linked. The earlier 'unconventional spirituality' reading was not supported by any source read and has been removed.",
+    "confidence": "medium",
+    "phrasing_guidance": "No moral judgements. Frame as fortune that comes through change and a searching, independent spiritual outlook."
+  },
+  {
+    "id": "lord_in_house/8/10",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 10
+    },
+    "summary": "The lord of sudden change in the house of career and father. BPHS, Raman and Braha agree on career obstacles, unnoticed merit and less happiness from the father; BPHS and Raman note that benefic influence or a favourable navamsa position softens this, and Raman adds unexpected gains through elders.",
+    "themes": [
+      "career changes",
+      "father",
+      "research careers",
+      "reputation risk",
+      "benefic aspect matters"
+    ],
+    "common_outcomes": [
+      "Slow advancement, obstacles and unnoticed merit at work (Raman; Braha)",
+      "Career changes; difficulty finding one's dharma (Braha)",
+      "Less happiness from the father (BPHS 24.94)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.94: a tale-bearer without livelihood, but benefic aspect prevents these evils from maturing",
+      "Raman: deceit, clouded thinking and trouble with the law in the appropriate period; with an afflicted 2nd lord, debts and loss of reputation (traditional view)",
+      "Raman: unexpected gains through the passing of superiors or elders",
+      "Braha: breaks in education, as the lord's aspect spoils the 4th"
+    ],
+    "by_area": {
+      "personality": "Braha: unhappy at times; BPHS 24.94: a tale-bearer (traditional view).",
+      "career": "Slow advancement, superseded by juniors (Raman); career problems and changes, no fame (Braha); bereft of livelihood unless benefics aspect (BPHS 24.94).",
+      "finance": "Raman: possible poverty or debts when afflicted; unexpected gains through elders.",
+      "health": "",
+      "relationships": "",
+      "family": "Devoid of paternal bliss (BPHS 24.94).",
+      "spirituality": "Braha: frustration in finding one's dharma."
+    },
+    "strengtheners": [
+      "Benefic aspect on the lord (BPHS 24.94: the evils do not mature)",
+      "The 8th lord in the 6th, 8th or 12th from the navamsa lagna (Raman, How to Judge a Horoscope pp. 206-207: the evil is greatly reduced)",
+      "The 8th lord outside the kendras and weaker than the lagna lord (Phaladeepika 16.21: long-lived, free from obstacles); a strong lagna lord in a kendra or trikona (Phaladeepika 16.2)"
+    ],
+    "weakeners_or_cancellations": [
+      "An afflicted 2nd lord joining (Raman: debts and loss of reputation)",
+      "The 8th lord in a kendra: Phaladeepika 16.21 makes the 8th lord's absence from the kendras a condition of a long, obstacle-free life",
+      "Raman: an 8th lord fortified in a kendra or trikona intensifies its evil results (How to Judge a Horoscope p. 206)",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.94",
+        "view": "Eighth lord in the 10th: deprived of the father's happiness; a backbiter and without work, especially if no benefic aspects it.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-94"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.94 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Devoid of paternal bliss, a tale-bearer, bereft of livelihood; if a benefic aspects, these evils will not mature.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "With the 10th lord in the 10th: slow advancement, obstacles, superseded by subordinates, merit unnoticed, may resort to deceit, clouded thinking, wrath of government or law, poverty; with an afflicted 2nd lord, debts and loss of reputation; reduced if the 8th lord is in the 6th, 8th or 12th from the navamsa lagna; may also give unexpected gains due to the death of superiors or elders.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Frustration in finding one's dharma, career problems, merit goes unnoticed, career changes, no fame, unhappy, breaks in education, long-lived; a bad placement as the 4th is also spoiled by the aspect.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Phaladeepika 16.2, 16.21 (tr. V. Subrahmanya Sastri)",
+        "view": "A strong lagna lord in a kendra or trikona with the 8th lord outside the kendras gives long life, wealth and honour; an 8th lord outside the kendras and weaker than the lagna lord gives a long life free from obstacles.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621588.html"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as a career that may reinvent itself and rewards persistence. Avoid labels; never mention the death of elders."
+  },
+  {
+    "id": "lord_in_house/8/11",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 11
+    },
+    "summary": "The lord of hidden matters in the house of gains, friends and elder siblings. BPHS makes the result hinge on benefic or malefic influence with a hard early life and better later life; Raman and Braha agree on trouble for friends and the elder sibling and on uneven gains, with Braha adding legacies and insurance.",
+    "themes": [
+      "delayed gains",
+      "unexpected income",
+      "later-life improvement",
+      "benefic vs malefic influence"
+    ],
+    "common_outcomes": [
+      "Trouble for, or strain with, close friends and the elder sibling (Raman; Braha)",
+      "Uneven gains, business losses or few opportunities (Raman; Braha); with malefics, lack of wealth (BPHS 24.95)",
+      "A harder early life and a happier later life (BPHS 24.95)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.95: with a benefic, long-lived (traditional note)",
+      "Raman: with benefic influence, help from friends and the elder sibling overcomes the troubles",
+      "Braha: gains from wills, legacies or insurance; ascetic or spiritual friends"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Raman: business may suffer losses and debts.",
+      "finance": "Devoid of wealth with a malefic (BPHS 24.95); poor (Braha); gains from wills, legacies or insurance (Braha).",
+      "health": "",
+      "relationships": "Trouble to close friends (Raman); bad, or ascetic and spiritual, friends (Braha).",
+      "family": "The elder sibling passes through a difficult time; strained relations (Raman; Braha).",
+      "spirituality": "Braha: ascetic or spiritual friends."
+    },
+    "strengtheners": [
+      "A benefic joining the 8th lord (BPHS 24.95; Raman: help from friends and elder sibling)",
+      "The 8th lord in the 6th, 8th or 12th from the navamsa lagna (Raman, How to Judge a Horoscope pp. 206-207: the evil is greatly reduced)",
+      "Saturn joining or aspecting the 8th lord (Bhavartha Ratnakara 7.2: long life)"
+    ],
+    "weakeners_or_cancellations": [
+      "A malefic joining the 8th lord (BPHS 24.95: devoid of wealth, miserable in boyhood)",
+      "Raman: afflictions aggravate the results",
+      "Phaladeepika 15.5: a house occupied by the lord of the 6th, 8th or 12th suffers, unless a benefic aspects it",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman). For Taurus (Jupiter 8+11) and Scorpio (Mercury 8+11) the 8th lord also owns the 11th and is in its own sign here; BPHS 34.7 calls this combination of lordships specifically harmful.",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.95",
+        "view": "Eighth lord in the 11th: without wealth if with a malefic; unhappy in childhood but happy later; long-lived if joined by a benefic.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-95"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.95 (tr. G.C. Sharma; cross-check translation)",
+        "view": "With a malefic: devoid of wealth, miserable in boyhood but happy later; with a benefic: long-lived.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "With the 11th lord in the 11th: trouble to close friends; the elder brother passes through a difficult time or causes anguish; business losses and debts; with benefic influence, help from friends and the elder brother overcomes the troubles; afflictions aggravate them.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "Long-lived, poor, trouble with eldest sibling, eldest sibling has hardship, bad or ascetic friends, bad relations with relatives, few opportunities, difficulty fulfilling desires; gains from wills, legacies or insurance.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "",
+    "confidence": "high",
+    "phrasing_guidance": "Say gains may arrive later or through unusual channels and that life tends to improve over time. Mention friends and siblings gently; do not discuss lifespan."
+  },
+  {
+    "id": "lord_in_house/8/12",
+    "layer": "lord_in_house",
+    "key": {
+      "lord_of": 8,
+      "placed_in": 12
+    },
+    "summary": "A dusthana lord in the house of loss: Sarala yoga in Phaladeepika and Raman's definition. Raman (with the 12th lord) calls it a Raja yoga that can bring religious learning and authority, Bhavartha Ratnakara says diseases are destroyed under certain conditions, and Braha calls it a 'moksha lord in a moksha house'; BPHS and Braha also read heavy expenses and a traditional longevity caution.",
+    "themes": [
+      "Sarala / Viparita yoga",
+      "expenditure",
+      "foreign lands",
+      "spiritual release",
+      "hidden losses"
+    ],
+    "common_outcomes": [
+      "A strong spiritual nature; meditation and renunciation (Braha); religious learning and piety when the 12th lord is well placed (Raman)",
+      "Unexpected expenditure, debts and losses (Raman; Braha; BPHS 24.96)",
+      "Difficulties tend to be absorbed: Raman's Raja yoga, Phaladeepika's Sarala yoga"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.96: spends on evil deeds; a shortened life, more so with a malefic in the 12th (traditional view, never stated as a prediction)",
+      "Raman: benefics joining the 8th lord here give unfavourable results, including treachery of friends; with the 12th lord in a kendra or trikona, a seat of authority is thrust on the native",
+      "Bhavartha Ratnakara 5.7: the 8th lord in the 12th with debilitated or inimical planets and a strong lagna lord destroys all diseases",
+      "Raman, afflicted: secret vices (traditional view); Braha: troubles in foreign countries",
+      "Phaladeepika 6.65 Sarala yoga: long life, fearlessness, prosperity, learning and fame"
+    ],
+    "by_area": {
+      "personality": "Fearless and resolute (Phaladeepika 6.65). Raman's 'clandestine acts' line is a traditional view tied to malefic affliction.",
+      "career": "Raman: a post or seat of authority may be thrust on the native when the 12th lord is in a kendra or trikona.",
+      "finance": "Unexpected expenditure and pecuniary losses (Raman); many expenses and debts (Braha); spending on evil deeds (BPHS 24.96).",
+      "health": "Bhavartha Ratnakara 5.7: under the stated conditions diseases are destroyed; Braha lists left ear, left eye and anal complaints (traditional notes only).",
+      "relationships": "Raman: treachery of friends when benefics join; Braha: no money from the marriage partner, little sexual strength.",
+      "family": "",
+      "spirituality": "A moksha lord in a moksha house: strong spiritual nature, meditation, asceticism (Braha); religious learning and piety (Raman)."
+    },
+    "strengtheners": [
+      "The 12th lord well placed in a kendra or trikona (Raman: religious learning, piety and authority)",
+      "Debilitated or inimical planets with the 8th lord here and a strong lagna lord (Bhavartha Ratnakara 5.7)",
+      "8th and 12th lords associating in a dusthana without benefics (Rath, Crux 2.3)",
+      "The 8th lord in the 6th, 8th or 12th from the navamsa lagna (Raman, How to Judge a Horoscope pp. 206-207: the evil is greatly reduced)"
+    ],
+    "weakeners_or_cancellations": [
+      "Benefics joining the 8th lord here (Raman: unfavourable results)",
+      "Malefic affliction (Raman: secret vices; BPHS 24.96: worse with a malefic in the 12th)",
+      "Raman, 300 Combinations no. 106: the evil of dusthana lordship is only modified",
+      "Raman: results must be modified by the strength of the lagna, the Moon and the running dasha; for indications of wrong conduct, a strong lagna, Moon and 10th mean the temptation is overcome (How to Judge a Horoscope p. 207)"
+    ],
+    "lagna_or_context_notes": "Functional role (BPHS 34.2-7; Raman, How to Judge a Horoscope pp. 13-15; Frawley; Braha): BPHS says the 8th lord is not auspicious, being 12th from the 9th; co-owning the 3rd, 7th or 11th makes it specifically harmful, co-owning a trikona makes it auspicious, and the Sun or Moon as 8th lord is not evil (Raman: neutral). Frawley calls the 2nd, 8th and 12th lords functionally neutral but the stain of the 8th the greatest; Braha warns that despite the sages' neutral rating a dusthana lord carries the most malefic energy. By lagna: Mars (1+8) is helpful for Aries (BPHS 34.19; Raman: benefic) and Venus (1+8) neutral for Libra (BPHS 34.33), and as lagna lords both stay generally auspicious (Frawley). Specifically harmful: Jupiter (8+11) for Taurus, Saturn (7+8) for Cancer, Mars (3+8) for Virgo, Mercury (8+11) for Scorpio, Venus (3+8) for Pisces. With a trikona: Saturn (8+9) for Gemini gives more good than bad because its mulatrikona rules the 9th (Frawley); Jupiter (5+8) for Leo is auspicious in BPHS 34.29, neutral in Raman; Mercury (5+8) for Aquarius is mixed (BPHS 34.41). The Moon (Sagittarius) and Sun (Capricorn) as 8th lords are neutral (BPHS 34.7, 34.39; Raman).",
+    "source_views": [
+      {
+        "source": "Brihat Parashara Hora Shastra 24.96",
+        "view": "Eighth lord in the 12th: spends on bad deeds; short life, especially if a malefic is involved.",
+        "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-96"
+      },
+      {
+        "source": "Phaladeepika 6.57, 6.65 (tr. V. Subrahmanya Sastri)",
+        "view": "Sarala yoga: 8th lord in 6, 8 or 12 gives longevity, resolve, fearlessness, prosperity, learning, success and fame.",
+        "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"
+      },
+      {
+        "source": "B.V. Raman, Three Hundred Important Combinations, nos. 105-107 Harsha, Sarala, Vimala Yogas (pp. 129-130), read in the book (archive.org file '300 important combinations_B.V. Raman')",
+        "view": "The 6th, 8th and 12th lords in the 6th, 8th and 12th give Harsha, Sarala and Vimala; Sarala gives long life, fearlessness, learning, fame and prosperity; Raman remarks that in practice results have often been contrary and the evil of the lordship is only modified.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Barbara Pijan Lama, Viparita Raja Yoga (practitioner, via summary)",
+        "view": "Viparita yogas modify rather than erase difficult lordships and work situationally.",
+        "url": "https://www.barbarapijan.com/bpa/Yoga/Raja_Yoga/Viparita_Raja_yoga.htm"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 24.96 (tr. G.C. Sharma; cross-check translation)",
+        "view": "Spends on evil deeds and incurs a short life, more so if a malefic is also in the 12th.",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207)",
+        "view": "With the 12th lord in the 12th: a Raja yoga; if benefics join the 8th lord, unfavourable results: treachery of friends, unexpected expenditure, losses; if the 12th lord is favourably placed in a trine or quadrant, religious learning, piety and a seat of authority; afflicted by malefics, clandestine vices.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'The ruler of the 8th house placed in the...' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "A moksha lord in a moksha house gives a strong spiritual nature; good for meditation, asceticism and spiritual life; many expenses and debts, short life, no money from partner, little sexual strength, ailments of anus, left ear and left eye, troubles in foreign countries.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      },
+      {
+        "source": "Bhavartha Ratnakara (tr. B.V. Raman, 2nd ed. 1947), ch. V st. 7 with Raman's notes",
+        "view": "If the 8th lord is in the 12th with debilitated or inimical planets and the lagna lord is strong, all the person's diseases are destroyed; Raman: for good health the lagna lord should be well placed and the 8th lord as weak as possible.",
+        "url": "https://archive.org/details/in.ernet.dli.2015.134838"
+      },
+      {
+        "source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events (1998), ch. II 2.3 (pp. 12-13) (archive.org file 'Crux Of Vedic Astrology - Timing Of Events - Sanjay Rath')",
+        "view": "Lords of two malefic houses associating form a Vipareeta yoga; in a dusthana a Vipareeta raja yoga; benefics should not join it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XII 'Results of the Lord of the Eighth House being situated in Different Houses' (pp. 206-207), closing note",
+        "view": "These results are general and must be modified by the strength of the ascendant, the Moon and the dasha; where criminal or unrighteous acts are indicated, a strong ascendant, Moon and 10th mean the native may be tempted but will overcome it.",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "Brihat Parashara Hora Shastra 34.2-7, 19-44 (tr. G.C. Sharma)",
+        "view": "The 8th lord is not auspicious as it owns the 12th from the 9th; with the 3rd, 7th or 11th it is specifically harmful; with a trikona it bestows auspicious effects; the 8th lordship of the Sun and Moon is not evil; lagna-by-lagna lists (e.g. Mars helpful for Aries though 8th lord).",
+        "url": "https://archive.org/details/ParasharaHoraSastra"
+      },
+      {
+        "source": "B.V. Raman, How to Judge a Horoscope Vol. I, ch. II 'Benefics and Malefics for each Lagna' and 'Yoga Karakas' (pp. 13-15)",
+        "view": "The Sun or the Moon as 8th lord is neutral; per-lagna lists (e.g. Aries: Mars the next benefic after Jupiter; Capricorn: the Sun, though 8th lord, is neutral).",
+        "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"
+      },
+      {
+        "source": "David Frawley, The Astrology of the Seers, 'Laws of House Rulership' and 'House Lords as Specific Significators' (pp. 157-161)",
+        "view": "Lords of 2, 8 and 12 are generally malefic but functionally neutral, the stain of the 8th being greater than that of the 12th or 2nd; the lagna lord stays generally auspicious even if it also rules the 8th; the 8th lord 'can give death, negativity, or devitalization'.",
+        "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"
+      },
+      {
+        "source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer (1986), 'House Rulerships' and 'Raja Yogakarakas' (archive.org file 'Ancient Hindu astrology_James Braha')",
+        "view": "The sages' table rates the 2nd, 8th and 12th lords as neutral, but Braha cautions that the ruler of any dusthana carries the most malefic energy.",
+        "url": "https://archive.org/details/1050-astrology-books_202107"
+      }
+    ],
+    "disagreements": "Direct conflict on longevity: BPHS 24.96 and Braha read a short life, Phaladeepika 6.65 (Sarala) a long one; Bhavartha Ratnakara 5.7 reads freedom from disease under stated conditions. Raman agrees with Rath that benefics spoil this combination, and doubts Sarala's full results in practice.",
+    "confidence": "medium",
+    "phrasing_guidance": "Never discuss lifespan. Frame as difficulties tending to pass, a spiritual or foreign orientation, and a need for mindful spending."
+  }
+]

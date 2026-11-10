@@ -1,0 +1,590 @@
+[
+  {
+    "id": "lord_in_house/10/1",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 1},
+    "summary": "The lord of career and action sits on the lagna: work and reputation become central to identity, and the person is often self-made, known and capable.",
+    "themes": ["self-made", "career identity", "fame", "learning", "leadership"],
+    "common_outcomes": [
+      "rises in life by sheer perseverance; self-employed or in an independent profession (Raman HTJH; Braha; Rath Crux 13.4)",
+      "learned, famous, wealthy, poetic (BPHS 24.109)",
+      "a successful, respected career; may be a pioneer with his own business (Braha)",
+      "wealth increasing over life after early difficulties (BPHS 24.109)"
+    ],
+    "rare_outcomes": [
+      "BPHS mentions being sickly in childhood but happier later; Rath ties this to Saturn as a 10th-house significator, till about age ten (Crux 13.4); state only as a traditional phrase",
+      "with the lagna lord also in the 1st: very famous, a pioneer who founds a public institution and takes up social projects (Raman HTJH)",
+      "Simhasana yoga (10th lord in the 1st or 2nd) gives its good results after middle age (Rath Crux 13.4)",
+      "Frawley (Example Charts: Sri Aurobindo, Cancer lagna): the 10th lord Mars rising with the 9th lord Jupiter is a potential Raja yoga and strong political combination",
+      "career may involve the person's body or image: model, actor, showman (Braha)"
+    ],
+    "by_area": {
+      "personality": "Career-minded and dignified (Braha); Rath adds fickleness through Mercury's signification and fame and status through Jupiter's (Crux 13.4).",
+      "career": "Self-employed or independent (Raman HTJH; Rath Crux 13.4); a pioneer in one's field (Raman HTJH; Braha).",
+      "finance": "Wealth increases over life (BPHS 24.109).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Strong dharma; may visit holy lands (Braha)."
+    },
+    "strengtheners": [
+      "lagna lord joined with it in the 1st: fame and pioneering public work (Raman HTJH)",
+      "a strong 10th lord in its own or exaltation sign in a kendra, with a benefic in the 10th: renown and king-like affluence (Phaladeepika 16.27)",
+      "strong in shadbala (Jataka Parijata, via summary)"
+    ],
+    "weakeners_or_cancellations": [
+      "a 10th lord without strength makes one fickle-minded and ill-behaved (JP 15.2)",
+      "dual lordship: both lordships act (BPHS 24.146-147)"
+    ],
+    "lagna_or_context_notes": "For Virgo (Mercury) and Pisces (Jupiter) lagnas the same planet rules the 1st and 10th and sits in its own sign here. Rath (Crux 13.4) reads the result through the 10th-house significators: Mercury fickleness, Saturn childhood health, the Sun an independent profession, Jupiter fame. Uttara Kalamrita 4.79 adds that a benefic owning a kendra does not give favourable results by that lordship alone.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.109", "view": "Learned, famous, wealthy, poetic; sickly as a child but happier later, with wealth increasing.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Jataka Parijata XI.18 (via summary, Wikipedia: Karmasthana; verse not located in the Sastri translation, Adhyaya XV)", "view": "10th lord in the lagna makes one self-made and praiseworthy if strong in shadbala.", "url": "https://en.wikipedia.org/wiki/Karmasthana_(astrology)"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.27", "view": "If a benefic occupies the 10th and the 10th lord in full strength is in a kendra or kona in its own or exaltation sign, or if the lagna lord is in the 10th, the person is revered, widely renowned, given to virtuous deeds, with king-like affluence and long life.", "url": "https://www.siva.sh/phaladeepika/16/26-30"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "Rises by sheer perseverance; self-employed or an independent profession. With the lagna lord joined in the 1st, very famous, a pioneer who founds a public institution.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "Career-minded, self-made, self-employed, successful, respected or famous; may pioneer with his own business; career may involve the body or image; strong dharma.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 13.4 (placement of the tenth lord)", "view": "Read through the significators: via Mercury fickle-minded, via Saturn ill-health in childhood (till about ten, after Parasara), via the Sun an independent profession, via Jupiter fame and status; Simhasana yoga (10th lord in 1st/2nd) gives results after middle age.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Sri Aurobindo", "view": "Mars (10th lord) and Jupiter (9th lord) rising in Cancer form a strong political combination and potential Raja yoga.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XV.2", "view": "If the 10th lord has no strength the person is fickle-minded and ill-behaved.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "Uttara Kalamrita (Kalidasa; tr. S.S. Sareen) Kanda IV, sloka 79", "view": "Benefics owning trikonas are auspicious in the 2nd, 3rd, 11th and kendras; a benefic owning a kendra does not give favourable results, while a malefic owning a kendra is not inauspicious.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"}
+    ],
+    "disagreements": "None substantial. BPHS mentions childhood illness, which Raman and Braha omit and Rath attributes to Saturn as significator.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe a self-driven, achievement-oriented person whose work becomes their signature. Do not repeat the childhood-illness line as a prediction."
+  },
+  {
+    "id": "lord_in_house/10/2",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 2},
+    "summary": "Career feeds wealth: the work of the person directly builds savings and family standing, and recognition from authorities is a classical theme.",
+    "themes": ["earnings from work", "wealth", "government favour", "speech", "family business"],
+    "common_outcomes": [
+      "wealthy, virtuous, honoured by government (BPHS 24.110); fortunate, rises well and makes much money (Raman HTJH)",
+      "the family trade or family business as livelihood (Raman HTJH; Rath Crux 13.4)",
+      "catering, restaurants or food business (Raman HTJH; Braha); hotel trade when the Moon influences the 10th lord (Rath Crux 13.4)",
+      "a good speaker; work may involve speaking, poetry or lecturing (Braha)",
+      "happiness from the father (BPHS 24.110)"
+    ],
+    "rare_outcomes": [
+      "Jataka Parijata (via summary) says the 10th lord in the 2nd gives exceptional fame",
+      "Simhasana yoga (10th lord in the 1st or 2nd): good results after middle age (Rath Crux 13.4)",
+      "afflicted: losses and winding up of the family business (Raman HTJH; Rath Crux 13.4)"
+    ],
+    "by_area": {
+      "personality": "Generous and virtuous (BPHS 24.110); truthful and charitable (Braha).",
+      "career": "Family business, catering or restaurants (Raman HTJH; Rath Crux 13.4); speaking or lecturing (Braha).",
+      "finance": "Wealthy (BPHS 24.110); makes a lot of money (Raman HTJH); good earning ability, an artha lord in an artha house (Braha).",
+      "health": "",
+      "relationships": "",
+      "family": "Develops the family trade (Raman HTJH); happiness from the father (BPHS 24.110); family happiness (Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "a strong Jupiter, significator of the family deity (Rath Crux 13.4)",
+      "strength scales the result (BPHS 24.145-148)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefics afflicting the 10th lord or 10th: losses and closing of the family business (Raman HTJH; Rath Crux 13.4)"
+    ],
+    "lagna_or_context_notes": "Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.110", "view": "Wealthy, virtuous, honoured by government, generous, happiness from the father.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Jataka Parijata XI.18 (via summary, Wikipedia: Karmasthana; verse not located in the Sastri translation, Adhyaya XV)", "view": "10th lord in the 2nd confers exceptional fame.", "url": "https://en.wikipedia.org/wiki/Karmasthana_(astrology)"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "Fortunate, rises well, makes a lot of money; may develop the family trade; afflicted, losses and winding up of the family business; prospers in catering and restaurants.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "An artha lord in an artha house: good wealth and earning ability; good speaker, truthful, charitable; career may involve food; family happiness.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 13.4 (placement of the tenth lord)", "view": "10th lord in the 2nd or with the 2nd lord: family business as the source of livelihood, disrupted if the 10th lord is afflicted; the hotel trade if the Moon also influences it; Jupiter's strength as family-deity significator matters.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"}
+    ],
+    "disagreements": "None. Raman, Braha and Rath all add the family trade and food or catering businesses to BPHS's wealth and honour.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as work that builds savings and family standing. Do not promise government honours."
+  },
+  {
+    "id": "lord_in_house/10/3",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 3},
+    "summary": "Career expressed through courage, communication and initiative; BPHS sees valour, eloquence and support from siblings and staff.",
+    "themes": ["initiative", "communication", "media", "siblings", "staff"],
+    "common_outcomes": [
+      "happiness from siblings and servants; valorous, eloquent, truthful (BPHS 24.111)",
+      "constant short journeys for work (Raman HTJH; Rath Crux 13.4)",
+      "a speaker or writer of note if well placed; literary or communications career (Raman HTJH; Braha)",
+      "siblings help the career (Raman HTJH; Braha; Rath Crux 13.4)",
+      "career advances only through hard work and self-effort (Braha)"
+    ],
+    "rare_outcomes": [
+      "the 3rd is the 6th from the 10th, pointing to short-term service or contracts (Rath Crux 13.4)",
+      "with Venus associated, a job of constant travelling (Rath Crux 13.4)",
+      "career in music, dance or drama (Braha)"
+    ],
+    "by_area": {
+      "personality": "Brave, eloquent, truthful (BPHS 24.111); courageous and adventurous (Braha).",
+      "career": "Writing, speaking, communications or performing arts (Raman HTJH; Braha); travelling work and short-term contracts (Rath Crux 13.4).",
+      "finance": "",
+      "health": "",
+      "relationships": "",
+      "family": "Siblings advance the career (Raman HTJH; Rath Crux 13.4); rivalry between brothers can cause reversals if the 3rd lord is afflicted (Raman HTJH).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "a well-placed 10th lord: a celebrated speaker or writer (Raman HTJH)",
+      "strength scales the result (BPHS 24.145-148)"
+    ],
+    "weakeners_or_cancellations": [
+      "10th lord in the 6th, 8th or 12th from the navamsa lagna, or in an unfriendly nakshatra: a slow rise beset with obstacles (Raman HTJH)",
+      "afflicted 3rd lord: rivalry between brothers harms the career (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.111", "view": "Happiness from siblings and servants, valorous, eloquent, truthful.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "Constant short journeys; a celebrated speaker or writer if well placed; brothers help the career. In the 6th/8th/12th navamsa or an unfriendly nakshatra the rise is slow; an afflicted 3rd lord brings sibling rivalry and reversals.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "Career in music, dance, drama, literature or communications; siblings involved in the livelihood; advance only through hard work; courageous, many short journeys.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 13.4 (placement of the tenth lord)", "view": "10th lord in the 3rd: a job of constant short travel, especially with Venus; siblings further the career; being 6th from the 10th it shows short-term service or contracts.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"}
+    ],
+    "disagreements": "BPHS is favourable. Raman adds a slow rise when the lord is weak in the navamsa, and Rath's 6th-from-the-10th reading points to short-term service or contracts rather than a steady post.",
+    "confidence": "medium",
+    "phrasing_guidance": "Emphasise initiative, communication skill and teamwork. Mention possible role changes as a growth pattern, not instability."
+  },
+  {
+    "id": "lord_in_house/10/4",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 4},
+    "summary": "A kendra lord in another kendra: career supports home, land, vehicles and the mother's welfare, and the person tends to be content and settled.",
+    "themes": ["property", "vehicles", "mother", "home-based work", "comfort"],
+    "common_outcomes": [
+      "happy; owns vehicles, land and houses (BPHS 24.112; Braha)",
+      "lucky and highly learned; famous for learning and generosity (Raman HTJH)",
+      "devoted to the mother's welfare (BPHS 24.112); happiness from the mother (Braha)",
+      "agriculture, real estate or dealings in immovable property (Raman HTJH; Braha)",
+      "royal favour and respect wherever one goes when the lord is strong (Raman HTJH); favours from government (Braha)"
+    ],
+    "rare_outcomes": [
+      "with the 4th, 9th and 10th lords well disposed and related: great political authority, even head of government (Raman HTJH)",
+      "Frawley (Example Charts: Napoleon Bonaparte, Libra lagna): the 10th lord Moon in the 4th in exchange with Saturn (4th and 5th lord) in the 10th creates a powerful Raja yoga",
+      "honoured at the close of life (Braha)"
+    ],
+    "by_area": {
+      "personality": "Learned and generous (Raman HTJH); passionate about career (Braha).",
+      "career": "Successful career and high status, as the 10th lord is angular and aspects its own house (Braha); agriculture or real estate (Raman HTJH; Braha).",
+      "finance": "Vehicles, land and houses (BPHS 24.112; Braha).",
+      "health": "",
+      "relationships": "",
+      "family": "Caring towards the mother (BPHS 24.112); a long-lived mother (Braha).",
+      "spirituality": "Goes on holy pilgrimages and performs good deeds (Braha)."
+    },
+    "strengtheners": [
+      "a strong 10th lord in its own or exaltation sign in a kendra, with a benefic in the 10th (Phaladeepika 16.27)",
+      "relationship with well-disposed 4th and 9th lords (Raman HTJH)",
+      "exchange with the planet in the 10th, as in Napoleon's chart (Frawley, Example Charts)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitated, combust, in an enemy sign or afflicted: loss of lands and a life of servitude (Raman HTJH)",
+      "joined by the 8th lord in the 4th in a malefic shashtyamsa: the same (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "Uttara Kalamrita 4.79: a benefic owning a kendra does not give favourable results, while a malefic owning one is not inauspicious; this tempers natural benefics as 10th lords. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.112", "view": "Happy, devoted to mother's welfare, owns vehicles, land and houses.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.27", "view": "If a benefic occupies the 10th and the 10th lord in full strength is in a kendra or kona in its own or exaltation sign, or if the lagna lord is in the 10th, the person is revered, widely renowned, given to virtuous deeds, with king-like affluence and long life.", "url": "https://www.siva.sh/phaladeepika/16/26-30"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "Lucky, highly learned, famous for learning and generosity; strong, respected and receives royal favour; agriculture or immovable property; with related 4th, 9th and 10th lords, great political authority. Debilitated or afflicted: loss of lands and servitude.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "An excellent position (angular, aspecting its own house): successful career, high status, pilgrimages, comforts, homes and land, happiness from the mother, favours from government.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Napoleon Bonaparte", "view": "For Libra lagna the 10th lord Moon and Saturn (4th and 5th lord, in the 10th) are in mutual reception, creating a powerful Raja yoga.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Uttara Kalamrita (Kalidasa; tr. S.S. Sareen) Kanda IV, sloka 79", "view": "Benefics owning trikonas are auspicious in the 2nd, 3rd, 11th and kendras; a benefic owning a kendra does not give favourable results, while a malefic owning a kendra is not inauspicious.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"}
+    ],
+    "disagreements": "None on the core. Raman adds a sharp downside (loss of lands, servitude) when the lord is debilitated or afflicted.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of stability, property and family harmony. Avoid promising property purchases."
+  },
+  {
+    "id": "lord_in_house/10/5",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 5},
+    "summary": "A kendra lord in a trikona (a kendra-trikona link): career benefits from intelligence, learning and creativity, and the person is knowledgeable, joyful and prosperous.",
+    "themes": ["intelligence", "advisory work", "children", "creativity", "raja yoga"],
+    "common_outcomes": [
+      "knowledgeable, joyful, wealthy, with children (BPHS 24.113)",
+      "shines as a broker and in speculation (Raman HTJH); career involving speculation (Braha)",
+      "highly intelligent; wealthy and successful children (Braha)",
+      "career in art, sports or politics (Braha)"
+    ],
+    "rare_outcomes": [
+      "with benefics joining the 10th lord: a simple, pious life of prayer (Raman HTJH)",
+      "in the 6th, 8th or 12th navamsa: may head an orphanage or remand home (Raman HTJH); Rath likewise reads service for orphans, the handicapped and the old (Crux 13.4)",
+      "the 5th is the 8th from the 10th, pointing to research, occult studies, gambling or speculation (Rath Crux 13.4)"
+    ],
+    "by_area": {
+      "personality": "Bright and joyful (BPHS 24.113); virtuous or pious (Braha).",
+      "career": "Broking and speculation (Raman HTJH; Braha; Rath Crux 13.4); research or occult studies (Rath Crux 13.4); art, sports or politics (Braha).",
+      "finance": "Wealthy (BPHS 24.113); profitable investments (Braha).",
+      "health": "",
+      "relationships": "Happy love affairs (Braha).",
+      "family": "Children (BPHS 24.113); wealthy, successful children (Braha).",
+      "spirituality": "Knowledge of mantras or spiritual techniques (Braha); a pious life with benefics joining (Raman HTJH)."
+    },
+    "strengtheners": [
+      "benefics joining the 10th lord (Raman HTJH)",
+      "a strong 10th lord in its own or exaltation sign in a trikona, with a benefic in the 10th (Phaladeepika 16.27)"
+    ],
+    "weakeners_or_cancellations": [
+      "the 10th lord in the 6th, 8th or 12th navamsa (Raman HTJH)",
+      "Rath: natural benefics such as Jupiter and the Moon placed 8th from their own sign can damage it, though exchanges modify this (Crux 13.4)"
+    ],
+    "lagna_or_context_notes": "For Capricorn lagna Venus (5th+10th) and for Cancer lagna Mars (5th+10th) sit in their own signs here; Frawley (p. 161) names Venus for Capricorn and Mars for Cancer as single planets able to produce Raja yoga.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.113", "view": "Knowledgeable, joyful, wealthy, with children.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.27", "view": "If a benefic occupies the 10th and the 10th lord in full strength is in a kendra or kona in its own or exaltation sign, or if the lagna lord is in the 10th, the person is revered, widely renowned, given to virtuous deeds, with king-like affluence and long life.", "url": "https://www.siva.sh/phaladeepika/16/26-30"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "Shines as a broker and in speculation; with benefics joining, a simple and pious life; in the 6th/8th/12th navamsa, may head an orphanage or remand home.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "Auspicious: highly intelligent, successful children, profitable investments, career in speculation, art, sports or politics, knowledge of mantras, a strong sense of destiny.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 13.4 (placement of the tenth lord)", "view": "10th lord in the 5th is 8th from the 10th: research, occult studies, gambling or speculation, and service for orphans, the handicapped and the old; natural benefics 8th from their sign can harm it.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', 'Raja Yoga', p. 161", "view": "Lords of the 9th and 10th can create Raja yoga when well placed and not ruling other bad houses; Venus for Capricorn and Aquarius and Mars for Cancer and Leo are single planets that can produce Raja yoga.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Classical texts are favourable. Rath's 8th-from-the-10th reading and Raman's orphanage note add a research, service or speculative tone.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe success through intelligence and creativity. No fertility predictions."
+  },
+  {
+    "id": "lord_in_house/10/6",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 6},
+    "summary": "The career lord in a dusthana: work involves competition, service and problem-solving; classically there is less paternal happiness, cleverness but limited wealth, and trouble from rivals.",
+    "themes": ["service", "competition", "litigation", "health-care work", "workplace conflict"],
+    "common_outcomes": [
+      "lacks paternal happiness, clever but poor, troubled by enemies (BPHS 24.114)",
+      "an occupation tied to the judiciary, prisons or hospitals (Raman HTJH); medicine, nursing or hospital work (Braha)",
+      "ups and downs in professional life; enemies may block promotion (Braha)",
+      "must work hard and gains are slow (Braha)"
+    ],
+    "rare_outcomes": [
+      "Phaladeepika's Duryoga (10th lord in 6/8/12): efforts unrewarded, low public regard, selfishness, living away from home; traditional view",
+      "Jataka Parijata (via summary): 10th lord in 6/8/12 brings a bad name and hardships",
+      "Saturn aspecting the 10th lord: a low-paid job with few prospects (Raman HTJH)",
+      "benefics aspecting: a post of authority, esteemed for character (Raman HTJH)",
+      "Rahu or afflicted malefics with the 10th lord: disgrace in career and possible legal trouble (Raman HTJH)"
+    ],
+    "by_area": {
+      "personality": "Clever (BPHS 24.114).",
+      "career": "Judiciary, prisons or hospitals (Raman HTJH); medicine or nursing; may be superseded by juniors (Braha).",
+      "finance": "Clever but poor (BPHS 24.114); good for wealth but gains are slow (Braha).",
+      "health": "",
+      "relationships": "",
+      "family": "Less happiness from the father (BPHS 24.114); a prominent uncle (Braha).",
+      "spirituality": "A 10th lord in the 6th impedes religious rites (JP 15.9)."
+    },
+    "strengtheners": [
+      "a strong 10th lord (Phaladeepika 15.9: a strong lord in a dusthana does slight harm)",
+      "benefic aspect on the 10th house or lord (Phaladeepika 15.5); benefics aspecting: authority and esteem (Raman HTJH)"
+    ],
+    "weakeners_or_cancellations": [
+      "weak or afflicted lord (Phaladeepika 15.9)",
+      "Saturn's aspect: low-paid work (Raman HTJH)",
+      "Rahu or afflicted malefics with the lord: disgrace (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "For Gemini lagna Jupiter (7th+10th) goes to Scorpio; for Sagittarius Mercury (7th+10th) goes to Taurus. For Aries Saturn (10th+11th) goes to Virgo. Phaladeepika 6.70 notes that weak 1st, 4th, 9th and 10th lords in dusthanas with strong dusthana lords in kendras form a bad yoga; the reverse is good.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.114", "view": "Lacks paternal happiness, clever but poor, troubled by enemies.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Phaladeepika 6.57, 6.67 (tr. V. Subrahmanya Sastri)", "view": "Duryoga for the 10th lord in a dusthana: labour bears little fruit, low public regard, selfish, often away from home or abroad.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "Jataka Parijata XI.18 (via summary, Wikipedia: Karmasthana; verse not located in the Sastri translation, Adhyaya XV)", "view": "10th lord in the 6th, 8th or 12th: bad name and many hardships.", "url": "https://en.wikipedia.org/wiki/Karmasthana_(astrology)"},
+      {"source": "Phaladeepika 15.5, 15.9 (tr. V. Subrahmanya Sastri)", "view": "Benefic aspect protects a house whose lord is in a dusthana; harm depends on the lord's strength.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621587.html"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "Occupation in the judiciary, prisons or hospitals; Saturn's aspect a low-paid job; benefic aspect a post of authority; Rahu or afflicted malefics, disgrace and possible legal trouble.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "An artha lord in an artha house is good for wealth but gains are slow; ups and downs, enemies block promotion, may be superseded by juniors; medicine, nursing or hospital work.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XV.9", "view": "If the 10th lord is in the 6th, 8th or 12th it impedes religious rites; even an exalted 10th lord spoils a religious work when its exaltation sign is a dusthana.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "Classical texts are negative. Braha calls it good for wealth though slow (an artha lord in an artha house), and Raman makes the outcome depend on the aspecting planet: Saturn low-paid work, benefics authority, Rahu disgrace.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe careers in service and problem-solving and the need to handle competition wisely. Present Duryoga only as a traditional caution. No health claims."
+  },
+  {
+    "id": "lord_in_house/10/7",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 7},
+    "summary": "Career through partnership and the public; BPHS sees marital happiness, high-mindedness, eloquence and devotion to truth.",
+    "themes": ["partnership", "business", "public dealings", "marriage", "travel for work"],
+    "common_outcomes": [
+      "marital happiness; high-minded, eloquent, truthful (BPHS 24.115)",
+      "a mature or career-minded spouse who helps the work (Raman HTJH; Braha)",
+      "travel abroad for work, even on diplomatic missions (Raman HTJH); travel for the profession (Braha)",
+      "profits through partnerships and joint ventures (Raman HTJH; Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 21.7: the 10th lord in the 7th with Saturn and Mars and an afflicted 7th lord indicates strong sensual indulgence (traditional view)",
+      "malefic affliction: debased habits (Raman HTJH); a 10th lord without strength in the 7th makes one ill-behaved (JP 15.17); traditional, never use as character judgement",
+      "the 10th lord aspects the lagna from here: healthy, respected and fortunate (Braha)"
+    ],
+    "by_area": {
+      "personality": "Diplomatic, known for skill in talking and achieving objectives (Raman HTJH); eloquent and truthful (BPHS 24.115).",
+      "career": "Partnerships, co-operative ventures and diplomacy (Raman HTJH; Braha).",
+      "finance": "Profits through partnerships (Raman HTJH; Braha).",
+      "health": "",
+      "relationships": "A mature spouse who assists the work (Raman HTJH); a famous or career-oriented spouse (Braha).",
+      "family": "",
+      "spirituality": "Devoted to dharma (BPHS 24.115)."
+    },
+    "strengtheners": [
+      "a strong 10th lord in its own or exaltation sign in a kendra, with a benefic in the 10th (Phaladeepika 16.27)"
+    ],
+    "weakeners_or_cancellations": [
+      "conjunction with Saturn and Mars and an afflicted 7th lord (BPHS 21.7)",
+      "malefic affliction (Raman HTJH); a weak 10th lord here (JP 15.17)"
+    ],
+    "lagna_or_context_notes": "For Gemini and Sagittarius lagnas the 10th lord also owns the 7th and sits in its own sign here; Uttara Kalamrita 4.79 says a benefic owning a kendra does not give favourable results, which applies to Jupiter (Gemini) and Mercury (Sagittarius) as double kendra lords.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.115", "view": "Marital happiness, high-minded, eloquent, devoted to truth and dharma.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 21.7", "view": "10th lord in the 7th with Saturn and Mars, and the 7th lord afflicted: excessive sensual indulgence.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-21"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "A mature wife who helps in the work; diplomatic travel abroad; skilled in talking; profits through partnerships. Malefic affliction: debased habits.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "Good career, spouse aids the livelihood, profits through partnerships, happy marriage, a famous or powerful spouse, travel for the profession; the 10th lord aspects the lagna.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XV.17", "view": "If the 10th lord is without strength and occupies the 7th, the person is ill-behaved.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "Uttara Kalamrita (Kalidasa; tr. S.S. Sareen) Kanda IV, sloka 79", "view": "Benefics owning trikonas are auspicious in the 2nd, 3rd, 11th and kendras; a benefic owning a kendra does not give favourable results, while a malefic owning a kendra is not inauspicious.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"}
+    ],
+    "disagreements": "None on the core: BPHS, Raman and Braha all favour partnership and marriage. Raman and Jataka Parijata warn about conduct when the lord is afflicted or weak.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of partnerships and public dealings as the field of success. Do not repeat the sensual-indulgence line as a character judgement; it is conditional and traditional."
+  },
+  {
+    "id": "lord_in_house/10/8",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 8},
+    "summary": "The career lord in the house of upheaval: all sources see an unsteady career with breaks, and Raman and Braha add occult, mystical or spiritual work and gains through others' money.",
+    "themes": ["career interruptions", "research", "hidden work", "transformation", "inheritance"],
+    "common_outcomes": [
+      "lacks steady work; many breaks and changes in career (BPHS 24.116; Raman HTJH; Braha)",
+      "inclined to criticise others (BPHS 24.116)",
+      "merit goes unnoticed; difficulty finding one's proper dharma (Braha)",
+      "if fortified: a high office, but only for a short time (Raman HTJH)",
+      "work in occult or mystical subjects; gains from wills, insurance or a partner's wealth (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.116 also states long life; do not use as a longevity claim",
+      "BPHS ch. 21: the 10th lord in the 8th or 12th with malefics and without strength gives a harsh intellect and mental distress (traditional)",
+      "Phaladeepika's Duryoga as a traditional caution",
+      "Jupiter influencing the 10th lord: a mystic or spiritual teacher (Raman HTJH)",
+      "Saturn here: work at cremation grounds or cemeteries (Raman HTJH)"
+    ],
+    "by_area": {
+      "personality": "Inclined to criticise others (BPHS 24.116).",
+      "career": "Many breaks and changes (Raman HTJH; Braha); occult or mystical work (Braha); spiritual teaching if Jupiter is involved (Raman HTJH).",
+      "finance": "Gains from wills, insurance companies or a partner's wealth (Braha).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Mystic or spiritual teacher with Jupiter's influence (Raman HTJH); a 10th lord in a dusthana impedes religious rites (JP 15.9)."
+    },
+    "strengtheners": [
+      "a strong 10th lord (Phaladeepika 15.9); fortified: high office for a short time (Raman HTJH)",
+      "benefic aspect on the 10th house or lord (Phaladeepika 15.5); Jupiter's aspect or association (Raman HTJH)",
+      "own-sign case: for Leo lagna Venus owns the 3rd and 10th and is in Pisces (exalted) here"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic conjunction or aspect with lack of strength (BPHS 21: mental distress, traditional)",
+      "malefic affliction: traditional lines on offences (Raman HTJH); never use as character judgement"
+    ],
+    "lagna_or_context_notes": "For Aquarius lagna Mars (3rd+10th) here is in Virgo. For Aries lagna Saturn (10th+11th) here is in Scorpio. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.116", "view": "Lacks steady work, long-lived, inclined to criticise others.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24/verse-116"},
+      {"source": "Brihat Parashara Hora Shastra ch. 21 (karma bhava, verse on 10th lord in 8th or 12th with malefics)", "view": "10th lord in the 8th or 12th, with malefics and without strength, gives a harsh intellect and mental distress.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-21"},
+      {"source": "Phaladeepika 6.57, 6.67 (tr. V. Subrahmanya Sastri)", "view": "Duryoga for the 10th lord in a dusthana.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "Jataka Parijata XI.18 (via summary, Wikipedia: Karmasthana; verse not located in the Sastri translation, Adhyaya XV)", "view": "10th lord in 6/8/12: bad name and hardships.", "url": "https://en.wikipedia.org/wiki/Karmasthana_(astrology)"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "Many breaks in career; fortified, a high office for a short time; malefic affliction, offences; Jupiter's influence, a mystic or spiritual teacher; Saturn, work at burning grounds or graveyards.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "Career problems, difficulty finding one's dharma, merit unnoticed, many changes; occult or mystical work; gains from wills, insurance or a partner's wealth.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XV.9", "view": "If the 10th lord is in the 6th, 8th or 12th it impedes religious rites; even an exalted 10th lord spoils a religious work when its exaltation sign is a dusthana.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "BPHS, Phaladeepika, Raman and Braha agree on instability. Raman and Braha add occult, mystical or spiritual work as the constructive side. Strength decides.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say career may go through changes and suits deep, investigative or behind-the-scenes work. Avoid longevity statements and avoid labelling the person 'critical' or 'cruel'."
+  },
+  {
+    "id": "lord_in_house/10/9",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 9},
+    "summary": "The career lord in the house of fortune and dharma: a central Dharma-Karmadhipati link giving high status, wealth and children.",
+    "themes": ["raja yoga", "status", "fortune", "ethical career", "father"],
+    "common_outcomes": [
+      "royal or high status, wealth and children (BPHS 24.117)",
+      "a spiritual stalwart; with Jupiter's aspect, a beacon to spiritual seekers (Raman HTJH)",
+      "a hereditary profession, or work as preacher, teacher or healer (Raman HTJH); spiritual teacher or religious career (Braha)",
+      "the father has great influence; a dutiful son (Raman HTJH); a wealthy, long-lived father (Braha)",
+      "fortunate and honoured; long journeys for career (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 21.21: with the Moon in the 5th the person becomes renowned",
+      "BPHS 20.7: with the 9th lord in the 10th (exchange) and benefic aspect, the father is wealthy and famous",
+      "Phaladeepika 6.37-38: 9th and 10th lords together in a good house give kingly Raja yoga",
+      "JP 15.9: with Mercury exalted or in the 9th, engaged in meritorious works and sacrifices"
+    ],
+    "by_area": {
+      "personality": "Dutiful and charitable (Raman HTJH).",
+      "career": "Royal-equal status (BPHS 24.117); hereditary profession, preacher, teacher or healer (Raman HTJH); spiritual teacher (Braha).",
+      "finance": "Wealth (BPHS 24.117); generally fortunate and well-to-do (Raman HTJH).",
+      "health": "",
+      "relationships": "",
+      "family": "Children (BPHS 24.117); strong influence of the father (Raman HTJH).",
+      "spirituality": "A spiritual stalwart (Raman HTJH); pilgrimages (Braha); meritorious works (JP 15.9)."
+    },
+    "strengtheners": [
+      "exchange or conjunction with the 9th lord, or mutual aspect: Raja yoga (Uttara Kalamrita 4.3; Laghu Parashari st. 15)",
+      "the pair joined with, or placed in the houses of, the 1st, 4th, 5th or 7th lords: wealth and prosperity (Uttara Kalamrita 4.3)",
+      "Moon in the 5th (BPHS 21.21); Jupiter's aspect (Raman HTJH)",
+      "a strong 10th lord in its own or exaltation sign in a trikona (Phaladeepika 16.27)"
+    ],
+    "weakeners_or_cancellations": [
+      "yoga lords that also own the 8th or 11th (Uttara Kalamrita 4.3), or association with the 8th and 11th lords (Laghu Parashari st. 21)",
+      "a 9th lord owning the 8th or 12th, or the pair joined with the 8th or 12th lords, destroys the merit (Uttara Kalamrita 4.83)",
+      "a 10th lord without strength (JP 15.2)"
+    ],
+    "lagna_or_context_notes": "For Taurus Saturn owns both the 9th and 10th (Row's note to Laghu Parashari st. 15). For Aries the 10th lord Saturn also owns the 11th, and for Gemini the 9th lord Saturn also owns the 8th; Uttara Kalamrita 4.3 says the yoga lords should not hold those lordships.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.117", "view": "Royal or royal-equal status, wealth and children.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 21.21", "view": "10th lord in the 9th with the Moon in the 5th: renowned.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-21"},
+      {"source": "Phaladeepika 6.37-38 (tr. V. Subrahmanya Sastri)", "view": "9th and 10th lords conjoined in a good house: Raja yoga.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "A spiritual stalwart, a beacon to seekers if Jupiter aspects; generally fortunate; hereditary profession or preacher, teacher, healer; the father has great influence; charitable.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "Wealthy, powerful, long-lived father; successful career, pilgrimages, very religious, spiritual teacher or religious career, fortunate, honoured, long journeys for career.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Uttara Kalamrita (Kalidasa; tr. S.S. Sareen) Kanda IV, slokas 3 and 83", "view": "4.3: 9th and 10th lords in their own houses, conjoined in either, exchanged or in mutual aspect form Raja yoga; linked with the 1st, 4th, 5th or 7th lords they give wealth and prosperity; they must not also own the 8th or 11th. 4.83: a 9th lord owning the 8th or 12th, or the pair joined with 8th or 12th lords, destroys the merit.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "Laghu Parashari / Jataka Chandrika (tr. B. Suryanarain Row, 1900), stanzas 15 and 21 with Row's notes", "view": "Stanza 15: the 9th and 10th lords conjoined in the 9th or 10th, exchanged, or each in its own house produce good (Raja yoga); mutual aspect also counts. Stanza 21: joined by the 8th and 11th lords, success is endangered.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XV.9", "view": "When Mercury, free of Rahu and Ketu, is exalted or in the 9th and the 10th lord occupies the 9th, the person performs sacrifices and other meritorious works.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', 'Raja Yoga', p. 161", "view": "Lords of the 9th and 10th can create Raja yoga when well placed and not ruling other bad houses; Venus for Capricorn and Aquarius and Mars for Cancer and Leo are single planets that can produce Raja yoga.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Whether the placement alone (BPHS 24.117, Raman, Braha) or a mutual relationship of both lords (Laghu Parashari st. 15; Uttara Kalamrita 4.3) is needed for the full Dharma-Karmadhipati Raja yoga.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe strong potential for respected, meaningful work. Translate 'royal status' as leadership or recognition; timing depends on dashas."
+  },
+  {
+    "id": "lord_in_house/10/10",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 10},
+    "summary": "The career lord in its own house: competence, courage and a strong professional life, with truthful conduct and respect for teachers.",
+    "themes": ["competence", "career strength", "authority", "integrity"],
+    "common_outcomes": [
+      "skilled in all kinds of work, courageous, truthful, devoted to teachers (BPHS 24.118)",
+      "strongly placed: highly successful and respected in the profession (Raman HTJH)",
+      "honours from government or prominent persons; prosperous and wealthy (Braha)"
+    ],
+    "rare_outcomes": [
+      "Phaladeepika 16.27: with a benefic in the 10th, the strong 10th lord in its own sign gives renown, virtuous deeds and king-like affluence",
+      "three other planets with the 10th lord in the 10th: may become an ascetic (Raman HTJH); JP 15.35 similarly gives emancipation when the 10th lord joins four other planets in a kendra or trikona",
+      "weak and afflicted: dependent, seeking favours, fickle (Raman HTJH)"
+    ],
+    "by_area": {
+      "personality": "Capable, courageous, truthful (BPHS 24.118); fickle-minded if weak and afflicted (Raman HTJH).",
+      "career": "Highly successful and respected (Raman HTJH; Braha); routine and ordinary if the lord is in the 6th, 8th or 12th from the navamsa lagna (Raman HTJH).",
+      "finance": "Prosperous and wealthy (Braha).",
+      "health": "",
+      "relationships": "",
+      "family": "",
+      "spirituality": "Devoted to gurus (BPHS 24.118); a powerful dharma (Braha)."
+    },
+    "strengtheners": [
+      "the lord is in its own sign; a benefic in the 10th adds renown (Phaladeepika 16.27)",
+      "a strong 10th lord in the tenth harmonic (D10) shows great accomplishment (Frawley, harmonic charts)"
+    ],
+    "weakeners_or_cancellations": [
+      "weak and afflicted: dependence and lack of self-respect (Raman HTJH)",
+      "in the 6th, 8th or 12th from the navamsa lagna: an ordinary career (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "Which planet sits in its own sign here depends on the lagna. Uttara Kalamrita 4.79: natural benefics owning kendras lose benefic quality, while malefics owning kendras are not inauspicious.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.118", "view": "Skilled in all work, courageous, truthful, devoted to teachers.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Phaladeepika (tr. V. Subrahmanya Sastri) 16.27", "view": "If a benefic occupies the 10th and the 10th lord in full strength is in a kendra or kona in its own or exaltation sign, or if the lagna lord is in the 10th, the person is revered, widely renowned, given to virtuous deeds, with king-like affluence and long life.", "url": "https://www.siva.sh/phaladeepika/16/26-30"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "Strongly disposed: highly successful and respected; weak and afflicted: dependent and fickle; in the 6th/8th/12th from the navamsa lagna, a routine career; with three other planets, may become an ascetic.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "Own house: successful career, respected or famous, prosperous, honours from government or prominent persons; a powerful dharma.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XV.35", "view": "When the 10th lord occupies a kendra or trikona together with four other planets, the person attains emancipation.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'Harmonic Charts', tenth harmonic, p. 193", "view": "The tenth harmonic is read with the Sun, Mercury, Jupiter and the 10th lord; if the 10th lord is strong there the person accomplishes great actions or achieves life goals.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Uttara Kalamrita (Kalidasa; tr. S.S. Sareen) Kanda IV, sloka 79", "view": "Benefics owning trikonas are auspicious in the 2nd, 3rd, 11th and kendras; a benefic owning a kendra does not give favourable results, while a malefic owning a kendra is not inauspicious.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"}
+    ],
+    "disagreements": "None on the core; Raman makes the result sharply dependent on strength.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a strong career signature. Avoid absolute promises of success."
+  },
+  {
+    "id": "lord_in_house/10/11",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 11},
+    "summary": "Career feeds gains: work brings income, achievement and satisfaction; the person is cheerful, truthful and blessed with children.",
+    "themes": ["income from work", "achievement", "networks", "goals"],
+    "common_outcomes": [
+      "wealth and sons; cheerful, virtuous, truthful (BPHS 24.119)",
+      "immense riches; gives employment to hundreds (Raman HTJH)",
+      "major desires and ambitions realised (Braha)",
+      "many, wealthy or influential friends (Raman HTJH; Braha)",
+      "the eldest sibling may help the career (Braha)"
+    ],
+    "rare_outcomes": [
+      "JP 12.104: the 10th lord in the 11th with the 11th lord in the 10th (exchange) gives ornaments and vehicles",
+      "an afflicted 11th house: friends turn into enemies (Raman HTJH)",
+      "the 10th lord aspects the 5th from here: intelligence, children, profitable investments (Braha)"
+    ],
+    "by_area": {
+      "personality": "Cheerful and honest (BPHS 24.119); a high sense of honour (Raman HTJH).",
+      "career": "Employs many; a successful career (Raman HTJH; Braha).",
+      "finance": "Immense riches (Raman HTJH); wealth (BPHS 24.119; Braha).",
+      "health": "",
+      "relationships": "Many friends (Raman HTJH); wealthy and influential friends (Braha).",
+      "family": "Sons (BPHS 24.119); help from the eldest sibling (Braha).",
+      "spirituality": "Engages in meritorious deeds (Raman HTJH)."
+    },
+    "strengtheners": [
+      "exchange with the 11th lord (JP 12.104)",
+      "strength scales the result (BPHS 24.145-148)"
+    ],
+    "weakeners_or_cancellations": [
+      "an afflicted 11th house: friends become enemies and cause hardship (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "For Aries lagna Saturn owns the 10th and 11th and is in its own sign Aquarius here.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.119", "view": "Wealth and sons, cheerful, virtuous, truthful, happy.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "Earns immense riches, fortunate, meritorious, gives employment to hundreds, a high sense of honour, many friends; an afflicted 11th turns friends into enemies.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "A very good position for wealth: ambitions realised, successful career, wealthy and influential friends, the eldest sibling may aid the career; the 10th lord aspects the 5th.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XII.104", "view": "When the 10th lord is in the 11th and the 11th lord in the 10th, the person has ornaments and vehicles.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "None.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as work that pays off and fulfils goals. No guaranteed figures."
+  },
+  {
+    "id": "lord_in_house/10/12",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 10, "placed_in": 12},
+    "summary": "The career lord in the house of loss and distance: classically expenses through government or authorities and worry about opponents; modern readers also see work abroad, in institutions or behind the scenes.",
+    "themes": ["work abroad", "institutions", "expenses", "behind the scenes", "anxiety about rivals"],
+    "common_outcomes": [
+      "expenses through government or authorities; constant fear of enemies; anxiety (BPHS 24.120)",
+      "has to work in a far-off place or foreign country (Raman HTJH; Braha)",
+      "career problems, many changes, little honour (Braha)",
+      "lacks comforts and faces many difficulties (Raman HTJH)"
+    ],
+    "rare_outcomes": [
+      "BPHS 21.6: with Rahu, the person is disliked and prone to misdeeds (traditional)",
+      "BPHS 21.17: with the 8th lord in the 10th and a malefic joined, wicked deeds (traditional)",
+      "Phaladeepika's Duryoga (often away from home or abroad) as a traditional caution",
+      "beneficially disposed: a spiritual seeker (Raman HTJH); interest in moksha with other indications (Braha)"
+    ],
+    "by_area": {
+      "personality": "Anxious (BPHS 24.120).",
+      "career": "Work in a far-off place (Raman HTJH; Braha); career changes, merit unnoticed (Braha).",
+      "finance": "Expenses through government matters (BPHS 24.120).",
+      "health": "",
+      "relationships": "",
+      "family": "Malefic affliction: separation from family (Raman HTJH).",
+      "spirituality": "A spiritual seeker when well disposed (Raman HTJH); interest in moksha (Braha); a 10th lord in a dusthana impedes religious rites (JP 15.9)."
+    },
+    "strengtheners": [
+      "a strong 10th lord (Phaladeepika 15.9); benefic aspect (Phaladeepika 15.5)",
+      "benefic disposition turns the placement towards spiritual seeking (Raman HTJH)"
+    ],
+    "weakeners_or_cancellations": [
+      "conjunction with Rahu (BPHS 21.6); Rahu afflicting the 10th lord: traditional lines on cheating (Raman HTJH), never used as character judgement",
+      "malefics and lack of strength (BPHS 21 verse on the 8th/12th)",
+      "the Sun as 10th lord for Scorpio lagna falls in Libra here, its debilitation sign"
+    ],
+    "lagna_or_context_notes": "For Leo lagna Venus (3rd+10th) goes to Cancer; for Capricorn Venus (5th+10th) goes to Sagittarius; for Cancer Mars (5th+10th) goes to Gemini. Frawley (p. 161) counts Venus for Capricorn and Mars for Cancer as Raja-yoga-producing planets. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.120", "view": "Expenses through government matters, constant fear of enemies, anxiety.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 21.6, 21.17", "view": "10th lord in the 12th with Rahu: disliked and prone to misdeeds; with the 8th lord in the 10th and malefics: wicked deeds.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-21"},
+      {"source": "Phaladeepika 6.57, 6.67 (tr. V. Subrahmanya Sastri)", "view": "Duryoga: little reward for labour, low regard, often abroad or away from home.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "Jataka Parijata XI.18 (via summary, Wikipedia: Karmasthana; verse not located in the Sastri translation, Adhyaya XV)", "view": "10th lord in 6/8/12: bad name and hardships.", "url": "https://en.wikipedia.org/wiki/Karmasthana_(astrology)"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIV 'Results of the Lord of the Tenth House being situated in Different Houses'", "view": "Works in a far-off place, lacks comforts and faces difficulties; beneficially disposed, a spiritual seeker; malefic affliction, separation from family and unlawful dealings; Rahu afflicting, cheating.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '10th House' chapter, 'The ruler of the 10th house placed in the' houses", "view": "Career problems, many changes, no honour or fame, may work in a far-off country, difficulty finding one's dharma; a particularly bad placement, with interest in moksha if other factors agree.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XV.9", "view": "If the 10th lord is in the 6th, 8th or 12th it impedes religious rites; even an exalted 10th lord spoils a religious work when its exaltation sign is a dusthana.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action', 'Raja Yoga', p. 161", "view": "Lords of the 9th and 10th can create Raja yoga when well placed and not ruling other bad houses; Venus for Capricorn and Aquarius and Mars for Cancer and Leo are single planets that can produce Raja yoga.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "BPHS, Phaladeepika, Raman and Braha are negative (expenses, anxiety, career trouble). Raman and Braha agree on work in distant places and add a spiritual-seeker or moksha side when the lord is well disposed.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe career potential in distant places or institutional settings and the need to manage work-related costs. Never call the person wicked or disliked; give Rahu-related lines only as conditional traditional views."
+  }
+]

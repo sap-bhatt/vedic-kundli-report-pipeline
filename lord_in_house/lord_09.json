@@ -1,0 +1,593 @@
+[
+  {
+    "id": "lord_in_house/9/1",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 1},
+    "summary": "The lord of fortune and dharma sits on the lagna, so luck, guidance and principled conduct become part of the person's own identity and body. Classically one of the most fortunate placements of any house lord.",
+    "themes": ["fortune", "dharma", "self-made luck", "respect", "father/teacher support"],
+    "common_outcomes": [
+      "born fortunate: 'born with luck' (Braha); very fortunate (BPHS 24.97)",
+      "honour from rulers or people in authority (BPHS 24.97); drawn to public service (Rath Crux 12.9)",
+      "self-made: earns much through own efforts (Raman HTJH; Braha)",
+      "virtuous, learned and handsome, with a religious or principled nature (BPHS 24.97; Braha)",
+      "close, happy relationship with the father and a good start in life (Braha)"
+    ],
+    "rare_outcomes": [
+      "common in charts of saints and religious leaders; may head a religious organisation (Braha)",
+      "with the lagna lord also in the 1st and a benefic aspect: riches and happiness (Raman HTJH)",
+      "exalted 9th lord in the lagna, as in the chart of Sri Rama (Cancer lagna, Jupiter), forms a Lakshmi yoga in the lagna (Rath Crux 12.9; Frawley, Example Charts: Lord Rama)"
+    ],
+    "by_area": {
+      "personality": "Virtuous, handsome, learned (BPHS 24.97); intelligent and well-bred (Rath Crux 12.9); born with wisdom and a strong life purpose (Braha).",
+      "career": "Self-made, earns through own effort (Raman HTJH; Braha); interest in public service, since the 9th lord also stands for the ruler or government (Rath Crux 12.9).",
+      "finance": "Earns much money through own efforts; fortunate with riches when joined by the lagna lord and aspected by a benefic (Raman HTJH).",
+      "health": "Braha lists 'healthy' among the results; a general indication only.",
+      "relationships": "",
+      "family": "Happy, close bond with the father (Braha). Rath notes that planets joining the 9th lord bring their own houses into the fortune story, e.g. the Moon joining it in Sri Rama's chart tied his fortune to his mothers (Crux 12.9).",
+      "spirituality": "Religious, of great merit and faith; may head a religious organisation (Braha)."
+    },
+    "strengtheners": [
+      "9th lord strong in the lagna (a kendra) with the lagna aspected by its own lord: fortunes come in a crowd (JP 14.97)",
+      "lagna lord joined with it and a benefic aspect (Raman HTJH); lagna lord with the 9th lord and Jupiter in the 7th gives wealth and vehicles (BPHS 20.29)",
+      "exaltation, as in Sri Rama's chart (Rath Crux 12.9; Frawley, Example Charts)"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation with combustion of the 9th lord (BPHS 20.12 treats it as very weak for fortune)",
+      "Rath: planets conjoining the 9th lord draw their own houses into its results, and those houses should not be afflicted by malefics (Crux 12.9)",
+      "if the 9th lord also owns a dusthana (e.g. Saturn 8th+9th for Gemini, Jupiter 9th+12th for Aries, Mercury 9th+12th for Libra), both lordships act (BPHS 24.146-147)"
+    ],
+    "lagna_or_context_notes": "Results scale with the lord's strength: full, half or a quarter (BPHS 24.145-148). Dual lordship: Frawley (pp. 159-160) weights a planet by its mulatrikona house, so Saturn as 8th+9th lord for Gemini is mainly positive, and a 12th lordship mainly gives the results of the other house ruled. Frawley's Aurobindo chart (Cancer lagna) has the 9th lord Jupiter and 10th lord Mars rising together as a potential Raja yoga.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.97", "view": "Very fortunate, honoured by rulers, virtuous, handsome and learned.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 20.29", "view": "When the 9th lord is joined with the lagna lord and Jupiter is in the 7th, gains of wealth and vehicles follow.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-20"},
+      {"source": "Brihat Parashara Hora Shastra 24.145-148", "view": "Lord results are pronounced after weighing strength; a planet owning two houses gives both results, and a strong planet gives full, a middling one half and a weak one a quarter of the result.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "Self-made; earns much through own efforts; with the lagna lord also in the 1st and a benefic aspect, fortunate with riches and happiness.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "One of the best placements: born with luck, religious, of great merit; respected or famous, self-made, happy childhood and close bond with the father; common in charts of saints.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 12.9 'Placement of the ninth lord'", "view": "9th lord in the lagna: intelligent, well-bred, interested in public service; Sri Rama's chart (exalted Jupiter in Cancer lagna with the Moon) shows a Lakshmi yoga in the lagna, with planets joining the 9th lord shaping the fortune.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Lord Rama; Sri Aurobindo", "view": "Rama: the 9th lord Jupiter exalted in the 1st as a strong wealth combination. Aurobindo (Cancer lagna): Jupiter as 9th lord rising with Mars as 10th lord is a potential Raja yoga and strong political combination.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action' (dual house rulership, Raja yoga), pp. 159-161", "view": "A planet ruling two houses gives mixed results, weighted by its mulatrikona sign: Saturn as 8th and 9th lord for Gemini is on the whole more positive than negative; the 12th lordship mainly gives the results of the other house ruled; lords of the 9th and 10th create Raja yoga when well placed and not ruling other bad houses.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XIV.97", "view": "If the 9th lord is in a kendra or trikona in great strength and the lagna is aspected by its own lord, good fortunes come in a crowd.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "Little disagreement: BPHS, Raman, Braha and Rath are all favourable. Raman and Braha stress fortune that is self-made through effort, while BPHS stresses royal honour; Rath adds that the result depends on which planets join the 9th lord.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe as a supportive, blessed placement that shows good fortune through principled living and mentors. Avoid promising wealth or fame outright; note that the lord's dignity and the rest of the chart decide the scale."
+  },
+  {
+    "id": "lord_in_house/9/2",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 2},
+    "summary": "Fortune flows into the house of wealth, family and speech: the person tends to gain resources and family happiness through learning and virtue. A classical dhana (wealth) combination.",
+    "themes": ["wealth", "family", "learned speech", "inherited fortune", "dhana yoga"],
+    "common_outcomes": [
+      "wealth from the father, who is rich and influential (Raman HTJH; Braha)",
+      "scholarly, liked by people and wealthy (BPHS 24.98)",
+      "good speech and imagination; a good orator (Braha)",
+      "happiness with spouse and children (BPHS 24.98); happy family life (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 20.10: if the 9th lord is in the 2nd and the 2nd lord in the 9th (exchange), fortune is said to rise after age 32 with vehicles and fame",
+      "malefics influencing the 9th lord here can ruin or destroy paternal property (Raman HTJH)",
+      "BPHS 20.4 notes the 2nd from the 9th (the 10th from lagna) for the father's wealth; that is a different house, do not confuse"
+    ],
+    "by_area": {
+      "personality": "Learned and popular (BPHS 24.98); a good speaker and orator with good imagination (Braha).",
+      "career": "",
+      "finance": "Wealthy (BPHS 24.98); acquires wealth from the father (Raman HTJH; Braha).",
+      "health": "",
+      "relationships": "Happy with spouse (BPHS 24.98).",
+      "family": "Father rich and influential (Raman HTJH); happy family life (Braha).",
+      "spirituality": ""
+    },
+    "strengtheners": [
+      "9th lord beneficially placed in the 2nd (Raman HTJH: wealth from the father)",
+      "exchange with the 2nd lord (BPHS 20.10)",
+      "strength scales the result (BPHS 24.145-148)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefics influencing the 9th lord in the 2nd ruin paternal property (Raman HTJH)",
+      "dual lordship of a dusthana dilutes results (BPHS 24.146-147)"
+    ],
+    "lagna_or_context_notes": "For Pisces lagna Mars and for Virgo lagna Venus rule both the 2nd and 9th. Frawley (Example Charts: Nelson Rockefeller, Virgo lagna) calls Venus as ruler of the 2nd and 9th a ruler of 'houses of wealth'. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.98", "view": "Scholarly, liked by people, wealthy, and happy with spouse and children.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 20.10", "view": "9th lord in the 2nd with the 2nd lord in the 9th: fortune arises after about age 32, with vehicles and fame.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-20"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "Beneficially placed: the father is rich and influential and the native acquires wealth from him; malefic influence ruins paternal property.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "Wealthy, good speech and imagination, an orator, happy family life, learned, popular, wealth from the father.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Nelson Rockefeller", "view": "Venus as ruler of the 2nd and 9th houses of wealth (Virgo lagna) is given prominence by its placement.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "Sources agree on wealth and learning. Raman and Braha tie the wealth to the father; BPHS speaks of the native's own scholarship and popularity. The age-32 timing applies only to the exchange case in BPHS 20.10.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as good potential for savings, family support and a respected voice. Do not cite the maraka label or any death timing. Give the age-32 note only as a traditional timing hint for the exchange case."
+  },
+  {
+    "id": "lord_in_house/9/3",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 3},
+    "summary": "Fortune works through effort, communication, siblings and travel. BPHS and Braha see happiness from siblings; Raman says fortune is made through writing and speaking.",
+    "themes": ["siblings", "effort", "communication", "short travel", "courage"],
+    "common_outcomes": [
+      "happiness from siblings (BPHS 24.99; Braha)",
+      "fortune made through writing, speeches and oratory (Raman HTJH)",
+      "advances fortune with the help of siblings (Raman HTJH)",
+      "many short and long journeys (Braha)",
+      "talent in music, dance, drama or literature (Braha)"
+    ],
+    "rare_outcomes": [
+      "Rath reads the 9th lord in the 3rd harshly for the father's conduct and calls the native passionate (Crux 6.5, 12.9); a derived-house view, never to be used as a judgement of a parent",
+      "afflicted: trouble through one's writings, possibly forcing a sale of paternal property (Raman HTJH)"
+    ],
+    "by_area": {
+      "personality": "Good character and virtuous (BPHS 24.99); courageous and adventurous (Braha).",
+      "career": "Writing, speaking and oratory (Raman HTJH); literary talent, efforts succeed with ease (Braha).",
+      "finance": "Wealthy (BPHS 24.99); Raman says the father is of moderate means and the native advances his own fortune.",
+      "health": "",
+      "relationships": "",
+      "family": "Siblings bring happiness and help fortune (BPHS 24.99; Raman HTJH); a sibling may be close to the father (Braha).",
+      "spirituality": "Lucky, religious and spiritual, as the 9th lord aspects its own house from here (Braha)."
+    },
+    "strengtheners": [
+      "the 9th lord aspects its own 9th house from the 3rd, so 9th-house matters flourish (Braha)",
+      "strength scales the result (BPHS 24.145-148)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction: trouble through irrational or offensive writing and loss of paternal property (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.99", "view": "Blessed with siblings' happiness, wealthy, virtuous and of good character.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "Fortune through writing, speeches and oratory; the father of moderate means; fortune advanced through siblings. Afflicted: trouble through one's writings and sale of paternal property.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "Happiness from siblings, talent in music, drama or literature, efforts succeed, many journeys; the 9th lord aspects its own house so 9th-house matters flourish; lucky and religious; wealthy, long-lived father.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, 6.5 and 12.9", "view": "With the 9th lord in the 3rd (the house of passion) the native is passionate and the father is judged untrustworthy; a harsh derived-house reading.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"}
+    ],
+    "disagreements": "BPHS, Raman and Braha are favourable on siblings, communication and effort. On the father they conflict: Braha calls him wealthy and long-lived, Raman of moderate means, and Rath reads his character negatively. Do not use the father lines.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say fortune is activated by initiative, communication and siblings; avoid suggesting luck is 'lost'. Keep it encouraging about effort paying off."
+  },
+  {
+    "id": "lord_in_house/9/4",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 4},
+    "summary": "A trikona lord in a kendra (a kendra-trikona raja yoga link): fortune shows up as home, property, vehicles, comforts and a close bond with the mother.",
+    "themes": ["home", "property", "vehicles", "mother", "inner contentment", "raja yoga"],
+    "common_outcomes": [
+      "comfort in home and vehicles, abundant wealth (BPHS 24.100)",
+      "vast landed property and fine homes; may earn through land or estates (Raman HTJH; Braha)",
+      "devoted to and benefiting from the mother, who is fortunate or of good character (BPHS 24.100; Raman HTJH; Braha)",
+      "inherits the father's immovable property (Raman HTJH)",
+      "good education, a high degree (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 20.6: 9th lord in a kendra aspected by Jupiter gives the father conveyances and high status",
+      "JP 12.86: with Venus and predominant strength, long-lasting pleasure and opulence",
+      "the 9th lord aspects the 10th from here, adding career success and status (Braha)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Earnings through estate and land dealings (Raman HTJH); a successful career, as the 9th lord aspects the 10th (Braha).",
+      "finance": "Abundant wealth (BPHS 24.100); landed property and the father's immovables (Raman HTJH).",
+      "health": "",
+      "relationships": "",
+      "family": "Devoted to the mother (BPHS 24.100), who is rich and fortunate (Raman HTJH). If afflicted, early life may be marked by a hard father or parental discord (Raman HTJH).",
+      "spirituality": "Visits holy sites; religion is dear to the heart (Braha)."
+    },
+    "strengtheners": [
+      "Jupiter's aspect (BPHS 20.6 for the father's prosperity)",
+      "conjunction with Venus in great strength (JP 12.86)",
+      "strong in a kendra with the lagna aspected by its own lord (JP 14.97)"
+    ],
+    "weakeners_or_cancellations": [
+      "affliction: domestic unhappiness and parental discord; with Rahu, the parents may live apart (Raman HTJH)",
+      "dual dusthana lordship dilutes (BPHS 24.146-147)"
+    ],
+    "lagna_or_context_notes": "Where the 9th lord also owns the 4th (Mars for Leo, Venus for Aquarius) it occupies its own sign here. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.100", "view": "Comfort in home and vehicles, abundant wealth, devoted to mother.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 20.6", "view": "9th lord in a kendra and aspected by Jupiter: the father has vehicles and high status.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-20"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "Vast landed property and fine homes, or earnings through estates; a rich, fortunate mother; inherits the father's immovables. Afflicted: domestic unhappiness, a hard father or parental discord; with Rahu the parents may live apart.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "Benefits from a religious mother, ancestral property, many comforts and fixed assets, good education, visits holy sites; the 9th lord aspects the 10th, giving career success and status.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XII.86", "view": "A strong 9th lord in the 4th with Venus gives long-lasting pleasure and opulence; a 9th lord in the 6th, 8th or 12th, even with a benefic, gives only short-lived happiness.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XIV.97", "view": "If the 9th lord is in a kendra or trikona in great strength and the lagna is aspected by its own lord, good fortunes come in a crowd.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "None on the core. Raman's printed text says the afflicted case 'may not have any domestic unhappiness', which contradicts the rest of his sentence; read it as domestic unhappiness.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a placement for domestic blessings, property and peace of mind. Do not promise specific property gains; mention that timing comes through dashas."
+  },
+  {
+    "id": "lord_in_house/9/5",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 5},
+    "summary": "Lord of one trikona in another trikona: fortune through children, intelligence, devotion and merit from past actions. Widely regarded as one of the best placements for the 9th lord.",
+    "themes": ["children", "intelligence", "devotion", "mantra", "past-life merit", "teachers"],
+    "common_outcomes": [
+      "good fortune through children (BPHS 24.101); children fortunate and distinguished (Raman HTJH; Braha)",
+      "a prosperous and famous father (Raman HTJH)",
+      "learned, righteous, devoted to teachers (BPHS 24.101)",
+      "knowledge of scripture and mantra; finds a good guru (Braha)",
+      "wealth from investments (Braha)"
+    ],
+    "rare_outcomes": [
+      "common in charts of famous saints; may become a spiritual teacher or head a religious organisation (Braha)",
+      "Frawley (Example Charts: Gloria Steinem, Libra lagna): the 9th lord Mercury in the 5th with Saturn gives power of advice and writing ability"
+    ],
+    "by_area": {
+      "personality": "Wise, righteous, devoted to teachers and elders (BPHS 24.101); highly intelligent (Braha).",
+      "career": "Advisory and writing ability (Frawley, Steinem chart); spiritual teaching (Braha).",
+      "finance": "Great wealth from investments (Braha).",
+      "health": "",
+      "relationships": "",
+      "family": "Children fortunate and successful (Raman HTJH; Braha); father prosperous and famous (Raman HTJH).",
+      "spirituality": "Blessed with divine grace; knowledge of scriptures and mantras; strong dharma (Braha)."
+    },
+    "strengtheners": [
+      "strong in a trikona with the lagna aspected by its own lord: fortunes come in a crowd (JP 14.97)",
+      "strength scales the result (BPHS 24.145-148)"
+    ],
+    "weakeners_or_cancellations": [
+      "dual lordship of the 6th, 8th or 12th mixes results (BPHS 24.146-147)"
+    ],
+    "lagna_or_context_notes": "For Aries (Jupiter, 9th+12th) and Libra (Mercury, 9th+12th) the 9th lord also owns the 12th; Frawley (pp. 159-160) says a 12th lordship mainly gives the results of the other house ruled, which supports a good reading here.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.101", "view": "Good fortune through children, devoted to teachers, learned and righteous.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "A prosperous and famous father; the native's sons fortunate and distinguished.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "One of the finest placements: lucky, wealthy, divine grace, knowledge of scripture and mantra, a good guru, wealth from investments, successful children; common in charts of saints and spiritual teachers.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Gloria Steinem", "view": "Mercury as 9th lord in the 5th with Saturn (Libra lagna) gives power of advice and writing abilities.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action' (dual house rulership, Raja yoga), pp. 159-161", "view": "A planet ruling two houses gives mixed results, weighted by its mulatrikona sign: Saturn as 8th and 9th lord for Gemini is on the whole more positive than negative; the 12th lordship mainly gives the results of the other house ruled; lords of the 9th and 10th create Raja yoga when well placed and not ruling other bad houses.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XIV.97", "view": "If the 9th lord is in a kendra or trikona in great strength and the lagna is aspected by its own lord, good fortunes come in a crowd.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "None: BPHS, Raman and Braha all treat it as one of the best placements.",
+    "confidence": "high",
+    "phrasing_guidance": "Celebrate wisdom, devotion and joy through children or students. Never make fertility or childbirth predictions; say only that children are a traditional area of blessing."
+  },
+  {
+    "id": "lord_in_house/9/6",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 6},
+    "summary": "The fortune lord in a dusthana: classical and modern sources agree that luck is reduced, with enemies, debts or a troubled father, though a strong lord limits the harm and Braha sees good jobs and helpers.",
+    "themes": ["obstacles", "service", "competition", "debts", "effort-based fortune"],
+    "common_outcomes": [
+      "little fortune; trouble from enemies (BPHS 24.102; Braha)",
+      "a sickly or troubled father (Raman HTJH; Braha)",
+      "lack of support from maternal relatives (BPHS 24.102), though Braha gives benefits from a maternal uncle",
+      "good jobs, workers and servants (Braha)"
+    ],
+    "rare_outcomes": [
+      "Phaladeepika's Nirbhagya yoga (9th lord in 6/8/12): loss of ancestral property, disregard for elders, poverty; stated as a traditional view",
+      "benefics flanking the 6th: gains when the father's legal problems end favourably (Raman HTJH)",
+      "the father may work in medicine or healing (Braha)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "Gets good jobs (Braha); when afflicted, efforts to make one's fortune may be frustrated by litigation or the father's debts (Raman HTJH).",
+      "finance": "Little fortune (BPHS 24.102; Braha).",
+      "health": "",
+      "relationships": "",
+      "family": "Father sickly or troubled (Raman HTJH; Braha); maternal relatives unsupportive (BPHS 24.102), or a maternal uncle helps (Braha).",
+      "spirituality": "Little faith or appreciation of religion (Braha); Nirbhagya yoga includes irreligion (Phaladeepika 6.66)."
+    },
+    "strengtheners": [
+      "9th lord strong despite the dusthana (Phaladeepika 15.9: a strong lord there causes only slight harm; Raman HTJH: a very powerful 9th lord confers fortune even from a malefic house)",
+      "benefic aspect on the 9th lord or 9th house (Phaladeepika 15.5; Raman HTJH: a well-disposed 9th house reduces the harm)",
+      "benefics flanking the 6th (Raman HTJH)"
+    ],
+    "weakeners_or_cancellations": [
+      "weak, debilitated or combust 9th lord (Phaladeepika 15.9: a weak lord in a dusthana causes great harm)",
+      "malefic affliction: fortune frustrated by litigation or the father's debts (Raman HTJH)",
+      "JP 12.86: a 9th lord in the 6th, 8th or 12th, even with a benefic, gives only short-lived happiness"
+    ],
+    "lagna_or_context_notes": "For Cancer (Jupiter, 6th+9th) and Capricorn (Mercury, 6th+9th) lagnas the lord occupies its own sign here, and BPHS 24.146-147 says both lordships act. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.102", "view": "Little fortune, lacks support from maternal relatives, troubled by enemies.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Phaladeepika 6.57, 6.66 (tr. V. Subrahmanya Sastri)", "view": "When the 9th lord is in the 6th, 8th or 12th, Nirbhagya yoga: loss of ancestral property, disrespect to elders, irreligion, poverty.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "Phaladeepika 15.5, 15.9 (tr. V. Subrahmanya Sastri)", "view": "A house whose lord is in a dusthana suffers unless aspected by a benefic; a weak lord there does great harm, a strong one only slight harm.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621587.html"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "A sickly father; benefics flanking the 6th bring gains when the father's legal troubles end; malefics frustrate fortune through litigation or the father's debts.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "Troubles with or a sickly father, little faith or luck, good workers and jobs, powerful enemies, little travel, benefits from a maternal uncle.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII, closing note to the ninth-lord results", "view": "The ninth-lord results are general; a very powerful 9th lord can confer fortune even from a malefic house, and if the 9th lord is afflicted but the 9th house is well disposed the bad results are much reduced. Literal application is warned against.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XII.86", "view": "A strong 9th lord in the 4th with Venus gives long-lasting pleasure and opulence; a 9th lord in the 6th, 8th or 12th, even with a benefic, gives only short-lived happiness.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "BPHS, Phaladeepika, Jataka Parijata, Raman and Braha are all negative on fortune. They differ on maternal relatives (BPHS: no support; Braha: benefits from a maternal uncle). Raman's closing note and Phaladeepika 15.9 both say a strong 9th lord limits the harm.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say fortune may need persistence and that challenges can be met through service and skill. Present 'poverty/misfortune' only as a traditional caution that depends on the lord's strength. No health claims about the father."
+  },
+  {
+    "id": "lord_in_house/9/7",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 7},
+    "summary": "Fortune through marriage, partners and the public: a kendra-trikona link that classically brings happiness from the spouse and fame.",
+    "themes": ["marriage", "partnership", "public reputation", "foreign contact", "raja yoga"],
+    "common_outcomes": [
+      "happiness through marriage; a noble, lucky, devoted or wealthy spouse (BPHS 24.103; Raman HTJH; Braha)",
+      "may go abroad and prosper there (Raman HTJH)",
+      "famous and virtuous (BPHS 24.103)",
+      "successful business partnerships and benefits from the spouse's family (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 20.9: 9th lord in the 7th joined or aspected by Jupiter makes the person devoted to the father",
+      "with ascetic yogas in the chart, seeks spiritual guidance and fulfilment abroad (Raman HTJH)",
+      "the 9th lord aspects the lagna from here, giving health, good looks and respect (Braha)"
+    ],
+    "by_area": {
+      "personality": "Virtuous and famous (BPHS 24.103); fortunate and respected (Braha).",
+      "career": "Successful partnerships (Braha); prosperity abroad (Raman HTJH).",
+      "finance": "Benefits from the spouse's family (Braha).",
+      "health": "",
+      "relationships": "A noble and lucky wife (Raman HTJH); a religious, devoted or wealthy spouse (Braha); happiness through marriage (BPHS 24.103).",
+      "family": "Devoted to the father when Jupiter is involved (BPHS 20.9); a powerful father who also may prosper abroad (Raman HTJH; Braha).",
+      "spirituality": "Seeks spiritual guidance abroad when ascetic yogas are present (Raman HTJH)."
+    },
+    "strengtheners": [
+      "Jupiter's conjunction or aspect (BPHS 20.9)",
+      "strong in a kendra with the lagna aspected by its own lord (JP 14.97)"
+    ],
+    "weakeners_or_cancellations": [
+      "inauspicious yogas spoiling the 9th lord bring a traditional father-related caution about foreign lands (Raman HTJH); never predict"
+    ],
+    "lagna_or_context_notes": "For Gemini lagna Saturn (8th+9th) occupies the 7th; BPHS 24.146-147 says both lordships act, while Frawley (pp. 159-160) argues Saturn's 9th-house (mulatrikona) role dominates for Gemini.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.103", "view": "Happiness through marriage, famous, virtuous.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 20.9", "view": "9th lord in the 7th joined or aspected by Jupiter: devoted to the father.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-20"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "May go abroad and prosper; the father may also prosper abroad; a noble, lucky wife; with ascetic yogas, spiritual fulfilment abroad.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "A wealthy, beautiful or devoted spouse, benefits from the spouse's family, successful partnerships, a powerful father; the 9th lord aspects the lagna, so healthy, fortunate and respected.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XIV.97", "view": "If the 9th lord is in a kendra or trikona in great strength and the lagna is aspected by its own lord, good fortunes come in a crowd.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action' (dual house rulership, Raja yoga), pp. 159-161", "view": "A planet ruling two houses gives mixed results, weighted by its mulatrikona sign: Saturn as 8th and 9th lord for Gemini is on the whole more positive than negative; the 12th lordship mainly gives the results of the other house ruled; lords of the 9th and 10th create Raja yoga when well placed and not ruling other bad houses.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "None on the core. Raman alone stresses going abroad and prospering there.",
+    "confidence": "high",
+    "phrasing_guidance": "Speak of partners and marriage as a source of support and growth. Do not promise a marriage date or describe the spouse with certainty."
+  },
+  {
+    "id": "lord_in_house/9/8",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 8},
+    "summary": "The fortune lord in the house of upheaval: all sources see luck that is spoiled or must be worked hard for and a difficult story with the father, with inheritance, legacies and occult knowledge as the compensations.",
+    "themes": ["obstacles to fortune", "inheritance", "research", "occult", "transformation"],
+    "common_outcomes": [
+      "limited fortune; rewards need strict perseverance (BPHS 24.104; Braha)",
+      "no happiness from elder siblings (BPHS 24.104)",
+      "a hard life for the father or early loss of him (Raman HTJH; Braha; traditional, never predict)",
+      "gains through wills, legacies or a partner's wealth (Braha); with benefic influence, substantial paternal inheritance (Raman HTJH)",
+      "strong intuition and knowledge of occult subjects (Braha)"
+    ],
+    "rare_outcomes": [
+      "Phaladeepika's Nirbhagya yoga (9th lord in 6/8/12) as a traditional caution",
+      "BPHS 20.30: a debilitated 9th lord in the 8th shows lack of fortune",
+      "JP 14.89: the 9th lord in the 8th aspected by a debilitated or inimical planet, or itself debilitated or in a malefic amsa, makes one unlucky",
+      "afflictions may lead the native to abandon family traditions or damage religious trusts set up by the family (Raman HTJH)"
+    ],
+    "by_area": {
+      "personality": "",
+      "career": "",
+      "finance": "Fortune is limited (BPHS 24.104); gains from legacies, wills or a partner's wealth (Braha); severe poverty and heavy responsibility if the 8th is afflicted (Raman HTJH).",
+      "health": "",
+      "relationships": "Gains from the partner's wealth (Braha).",
+      "family": "No happiness from elder siblings (BPHS 24.104); the father's life may be hard (Braha); inheritance of paternal property with benefic influence (Raman HTJH).",
+      "spirituality": "Little faith in conventional religion but strong intuition and occult knowledge (Braha); affliction can mean abandoning family traditions (Raman HTJH)."
+    },
+    "strengtheners": [
+      "strong 9th lord (Phaladeepika 15.9; Raman HTJH: a very powerful 9th lord confers fortune even from a malefic house)",
+      "benefic influence on the 9th lord: paternal inheritance (Raman HTJH); benefic aspect on the 9th house or lord (Phaladeepika 15.5)",
+      "own-sign case: for Gemini lagna Saturn owns the 8th and 9th and sits in its own sign Capricorn here"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation (BPHS 20.30; JP 14.89) or combustion",
+      "conjunction with the 8th lord is called a difficult combination in BPHS 20.13",
+      "malefics afflicting the 8th: poverty and heavy responsibility (Raman HTJH)"
+    ],
+    "lagna_or_context_notes": "For Gemini lagna Saturn (8th+9th) is in its own sign Capricorn here; Frawley (pp. 159-160) holds that Saturn's 9th-house mulatrikona role dominates for Gemini, supporting a milder reading. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.104", "view": "Limited fortune; no happiness from elder siblings.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 20.30", "view": "9th lord in the 8th and debilitated: lacks fortune.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-20"},
+      {"source": "Phaladeepika 6.57, 6.66 (tr. V. Subrahmanya Sastri)", "view": "Nirbhagya yoga for the 9th lord in a dusthana: loss of ancestral property, irreligion, hardship.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "Phaladeepika 15.9 (tr. V. Subrahmanya Sastri)", "view": "A strong lord in a dusthana causes only slight harm; a weak one great harm.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621587.html"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "Traditional risk of early loss of the father and, with an afflicted 8th, poverty and heavy responsibility; benefic influence gives substantial paternal inheritance; affliction may lead to abandoning family traditions.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "A very bad position that spoils luck: hard persistence for small rewards, little faith; gains from a partner's wealth, wills and legacies; strong intuition and occult knowledge.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XIV.89", "view": "If the 9th lord in the 8th is aspected by a debilitated or inimical planet, or is itself debilitated or in a malefic amsa, the person is unlucky.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII, closing note to the ninth-lord results", "view": "The ninth-lord results are general; a very powerful 9th lord can confer fortune even from a malefic house, and if the 9th lord is afflicted but the 9th house is well disposed the bad results are much reduced. Literal application is warned against.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action' (dual house rulership, Raja yoga), pp. 159-161", "view": "A planet ruling two houses gives mixed results, weighted by its mulatrikona sign: Saturn as 8th and 9th lord for Gemini is on the whole more positive than negative; the 12th lordship mainly gives the results of the other house ruled; lords of the 9th and 10th create Raja yoga when well placed and not ruling other bad houses.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "BPHS, Phaladeepika, Jataka Parijata, Raman and Braha are all negative on fortune (Braha: 'a very bad position'). Raman and Braha give the compensations: inheritance, legacies and occult knowledge. All agree the lord's strength is decisive.",
+    "confidence": "medium",
+    "phrasing_guidance": "Describe fortune as coming through depth, research and change rather than easy luck. State Nirbhagya as a traditional view only. No predictions about the father's health or longevity."
+  },
+  {
+    "id": "lord_in_house/9/9",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 9},
+    "summary": "The fortune lord in its own house: luck, dharma, higher learning and the father's support are all strengthened. One of the strongest placements in the chart.",
+    "themes": ["abundant fortune", "dharma", "higher learning", "father", "pilgrimage"],
+    "common_outcomes": [
+      "abundant fortune (BPHS 24.105; a strong 9th lord in the 9th gives great fortune, BPHS 20.1)",
+      "a long-lived, prosperous father and happiness from him (Raman HTJH; Braha)",
+      "religious and charitable (Raman HTJH); wise, idealistic, of great faith (Braha)",
+      "travel abroad that brings money and distinction (Raman HTJH); many long journeys (Braha)",
+      "virtuous, handsome, much happiness from siblings (BPHS 24.105)"
+    ],
+    "rare_outcomes": [
+      "BPHS 20.28: exalted Mercury with the 9th lord in the 9th: prosperity from about age 36",
+      "happiness from grandchildren (Braha)"
+    ],
+    "by_area": {
+      "personality": "Virtuous and handsome (BPHS 24.105); wise, idealistic, performs good deeds (Braha).",
+      "career": "",
+      "finance": "Earns money and distinction through foreign travel (Raman HTJH); lucky and fortunate (Braha).",
+      "health": "",
+      "relationships": "",
+      "family": "Father long-lived and prosperous (Raman HTJH; Braha); much happiness from siblings (BPHS 24.105).",
+      "spirituality": "Religiously inclined and charitable (Raman HTJH); powerful dharma, great faith (Braha)."
+    },
+    "strengtheners": [
+      "strong in its own trikona with the lagna aspected by its own lord: fortunes come in a crowd (JP 14.97)",
+      "exalted Mercury joining (BPHS 20.28)"
+    ],
+    "weakeners_or_cancellations": [
+      "malefic affliction, or the 9th lord in the 6th, 8th or 12th from the navamsa lagna, is a traditional caution for the father (Raman HTJH); never predict",
+      "dual dusthana lordship (e.g. Jupiter 9th+12th for Aries, Saturn 8th+9th for Gemini) mixes results (BPHS 24.146-147)"
+    ],
+    "lagna_or_context_notes": "The lord is in its own sign; which planet that is depends on the lagna. Dual lordship mixes results (BPHS 24.146-147).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.105", "view": "Abundant fortune, virtuous, handsome, much happiness from siblings.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 20.1, 20.28", "view": "Strong 9th lord in the 9th gives great fortune; with exalted Mercury, prosperity from about age 36.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-20"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "A long-lived, prosperous father; the native religious and charitable, earning money and distinction through foreign travel. Afflicted, or in the 6th/8th/12th from the navamsa lagna: a traditional caution for the father.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "Own house: a wealthy, powerful, long-lived father, religious or philosophical, lucky, many long journeys, wise, performs good deeds, great faith.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XIV.97", "view": "If the 9th lord is in a kendra or trikona in great strength and the lagna is aspected by its own lord, good fortunes come in a crowd.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "None: BPHS, Raman and Braha all give strong fortune and a supportive father.",
+    "confidence": "high",
+    "phrasing_guidance": "Present as a strong blessing for fortune, ethics and learning. Keep age-based timings as traditional hints, not promises."
+  },
+  {
+    "id": "lord_in_house/9/10",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 10},
+    "summary": "The 9th lord in the 10th links dharma with karma: fortune shows through career, status and public honour. It is a key part of the Dharma-Karmadhipati raja yoga.",
+    "themes": ["career", "status", "authority", "honour", "dharma-karmadhipati yoga"],
+    "common_outcomes": [
+      "royal or ministerial status, respected (BPHS 24.106)",
+      "very famous and powerful; posts of authority (Raman HTJH)",
+      "great luck in career; may obtain a high government position (Braha)",
+      "a righteous livelihood; law-abiding (Raman HTJH)",
+      "much wealth and comfort (Raman HTJH); happiness from the mother and many fixed assets, as the 9th lord aspects the 4th (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 20.7: if the 10th lord is also in the 9th (exchange) with benefic aspect, the father is wealthy and famous",
+      "Phaladeepika 6.37-38: the 9th and 10th lords together in a good house give a Raja yoga of kingly status",
+      "Frawley (Example Charts: Nelson Rockefeller, Virgo lagna): Venus as ruler of the 2nd and 9th in the 10th gives prominence"
+    ],
+    "by_area": {
+      "personality": "Generous (Raman HTJH); respected (BPHS 24.106).",
+      "career": "Fame, power and posts of authority (Raman HTJH); a prominent career with a possible high government post (Braha); ministerial status (BPHS 24.106).",
+      "finance": "Much wealth and every kind of comfort (Raman HTJH).",
+      "health": "",
+      "relationships": "",
+      "family": "Father wealthy and famous in the exchange case (BPHS 20.7); happiness from the mother (Braha).",
+      "spirituality": "Righteous means of livelihood (Raman HTJH); strong dharma and good deeds (Braha)."
+    },
+    "strengtheners": [
+      "a relationship of the 9th and 10th lords (conjunction, exchange, mutual aspect, or each in its own house) forms the Raja yoga (Uttara Kalamrita 4.3; Laghu Parashari st. 15)",
+      "the pair joined with, or placed in the houses of, the 1st, 4th, 5th or 7th lords: wealth, happiness and prosperity (Uttara Kalamrita 4.3)",
+      "conjunction in an auspicious house (Phaladeepika 6.37-38); benefic aspect in the exchange (BPHS 20.7)",
+      "strong in a kendra with the lagna aspected by its own lord (JP 14.97)"
+    ],
+    "weakeners_or_cancellations": [
+      "the yoga lords should not also own the 8th or 11th (Uttara Kalamrita 4.3); association with the 8th and 11th lords endangers success (Laghu Parashari st. 21)",
+      "a 9th lord that also owns the 8th or 12th, or yoga lords joined by the 8th or 12th lords, destroys the merit of the yoga (Uttara Kalamrita 4.83)",
+      "debilitation or combustion (BPHS 20.12 on a weak 9th lord)"
+    ],
+    "lagna_or_context_notes": "For Taurus Saturn owns both the 9th and 10th, a single-planet case Row discusses under Laghu Parashari st. 15. For Gemini the 9th lord Saturn also owns the 8th, which Uttara Kalamrita 4.3 and 4.83 say spoils the yoga; Frawley (pp. 159-161) likewise wants the 9th and 10th lords not to rule other bad houses.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.106", "view": "May attain royal or ministerial status; respected.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 20.7", "view": "9th lord in the 10th with the 10th lord in the 9th and benefic aspect: father wealthy and famous.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-20"},
+      {"source": "Phaladeepika 6.37-38 (tr. V. Subrahmanya Sastri)", "view": "9th and 10th lords conjoined in an auspicious house: Raja yoga, a person of kingly status and following.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "Very famous and powerful, generous, holds posts of authority, much wealth and comfort; a righteous livelihood and law-abiding.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "Prominent, successful, famous career with great luck and strong dharma; may obtain high government position; the 9th lord aspects the 4th, so mother, comforts and education flourish.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Uttara Kalamrita (Kalidasa; tr. S.S. Sareen) Kanda IV, slokas 3 and 83", "view": "4.3: the 9th and 10th lords in their own houses, conjoined in either, exchanged, or in mutual aspect form Raja yoga; joined with or placed in the houses of the 1st, 4th, 5th or 7th lords they give wealth and prosperity; they must not also own the 8th or 11th. 4.83: a 9th lord owning the 8th or 12th, or the pair joined with the 8th or 12th lords, destroys the merit.", "url": "https://archive.org/details/uttara-kalamrita-kalidas"},
+      {"source": "Laghu Parashari / Jataka Chandrika (tr. B. Suryanarain Row, 1900), stanzas 15 and 21 with Row's notes", "view": "Stanza 15: the 9th and 10th lords conjoined in the 9th or 10th, in exchange, or each in its own house produce good (Raja yoga, i.e. success under authority); mutual aspect also counts. Stanza 21: if the 8th and 11th lords join them, success is endangered.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Nelson Rockefeller", "view": "Venus as ruler of the 2nd and 9th placed in the public 10th house is given prominence.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action' (dual house rulership, Raja yoga), pp. 159-161", "view": "A planet ruling two houses gives mixed results, weighted by its mulatrikona sign: Saturn as 8th and 9th lord for Gemini is on the whole more positive than negative; the 12th lordship mainly gives the results of the other house ruled; lords of the 9th and 10th create Raja yoga when well placed and not ruling other bad houses.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XIV.97", "view": "If the 9th lord is in a kendra or trikona in great strength and the lagna is aspected by its own lord, good fortunes come in a crowd.", "url": "https://archive.org/details/JatakaParijata1932"}
+    ],
+    "disagreements": "Texts differ on whether the placement alone is enough: BPHS 24.106, Raman and Braha give strong career results from the 9th lord in the 10th by itself, while Laghu Parashari (st. 15) and Uttara Kalamrita (4.3) define the Raja yoga by a relationship of both lords. Uttara Kalamrita bars 8th and 11th co-lordship; Laghu Parashari warns against association with the 8th and 11th lords.",
+    "confidence": "high",
+    "phrasing_guidance": "Describe strong potential for respected, purposeful work and public honour. Avoid promising 'royal' office; translate it as leadership or recognition in one's field, depending on dashas."
+  },
+  {
+    "id": "lord_in_house/9/11",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 11},
+    "summary": "Fortune feeds the house of gains: income grows steadily, wishes are fulfilled and elders and friends support the person.",
+    "themes": ["gains", "income", "networks", "elder siblings", "wish fulfilment"],
+    "common_outcomes": [
+      "wealth grows day by day (BPHS 24.107); exceedingly rich (Raman HTJH; Braha)",
+      "powerful and influential friends (Raman HTJH; Braha)",
+      "a well-known, well-placed or wealthy father (Raman HTJH; Braha)",
+      "devoted to elders, meritorious (BPHS 24.107)",
+      "ambitions fulfilled, many opportunities (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 20.8: exalted Sun with the 9th lord in the 11th makes the person devoted to dharma and to the father",
+      "Frawley (Example Charts: Mozart; Franklin Roosevelt, both Leo lagna): Mars as 9th lord in the 11th gives potential income and recognition",
+      "the 9th lord aspects the 5th from here: intelligence, fine children, successful investments (Braha)"
+    ],
+    "by_area": {
+      "personality": "Meritorious, devoted to elders (BPHS 24.107).",
+      "career": "Income and recognition (Frawley, Mozart chart); countless opportunities (Braha).",
+      "finance": "Wealth grows steadily (BPHS 24.107); exceedingly rich (Raman HTJH).",
+      "health": "",
+      "relationships": "Powerful, influential or spiritual friends (Raman HTJH; Braha). If afflicted, unfaithful friends may destroy wealth by scheming (Raman HTJH).",
+      "family": "Father well known (Raman HTJH); fine children (Braha).",
+      "spirituality": "Devoted to dharma with an exalted Sun involved (BPHS 20.8)."
+    },
+    "strengtheners": [
+      "exalted Sun joining (BPHS 20.8)",
+      "strength scales the result (BPHS 24.145-148)"
+    ],
+    "weakeners_or_cancellations": [
+      "affliction: unfaithful friends destroy wealth through selfish scheming and fraud (Raman HTJH)",
+      "debilitation with combustion (BPHS 20.12)"
+    ],
+    "lagna_or_context_notes": "For Gemini lagna Saturn (8th+9th) falls in Aries here, its debilitation sign, which BPHS 20.12 treats as weak for fortune (with combustion). For Leo lagna Mars here is Frawley's repeated example of a fortunate 9th lord in the house of gains.",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.107", "view": "Wealth grows daily, devoted to elders, meritorious.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 20.8", "view": "Exalted Sun with the 9th lord in the 11th: devoted to dharma and father.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-20"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "Exceedingly rich, powerful and influential friends, a well-known and well-placed father; afflicted, unfaithful friends destroy wealth through scheming and fraud.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "Great wealth, ambitions fulfilled, powerful and spiritual friends, countless opportunities, a wealthy father; the 9th lord aspects the 5th: intelligence, fine children, good investments.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "David Frawley, The Astrology of the Seers, Example Charts: Wolfgang Amadeus Mozart; Franklin Roosevelt", "view": "Both Leo-lagna charts have Mars, ruler of the 9th, in the 11th house of gains; Frawley reads it as potential good income and recognition.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "None: BPHS, Raman, Braha and Frawley's example charts all favour wealth and influential friends.",
+    "confidence": "high",
+    "phrasing_guidance": "Frame as steady growth in gains and goodwill. Avoid promising specific amounts."
+  },
+  {
+    "id": "lord_in_house/9/12",
+    "layer": "lord_in_house",
+    "key": {"lord_of": 9, "placed_in": 12},
+    "summary": "The fortune lord in the house of loss: classical and modern sources agree fortune is reduced, often with a modest background and hard work, while Braha and Rath add far-off lands and a strong pull towards moksha.",
+    "themes": ["expenditure on dharma", "foreign lands", "pilgrimage", "renunciation", "reduced material luck"],
+    "common_outcomes": [
+      "fortune diminishes; spending on auspicious works (BPHS 24.108)",
+      "a poor background, hard work, success slow to come (Raman HTJH)",
+      "religious and noble yet often in want (Raman HTJH)",
+      "travel to far-off lands (Braha); fortune sought abroad (Rath, Carnegie chart)",
+      "excellent for moksha though weak for conventional religion (Braha)"
+    ],
+    "rare_outcomes": [
+      "BPHS 24.108 adds poverty from hosting guests (generosity outrunning means)",
+      "Phaladeepika's Nirbhagya yoga as a traditional caution",
+      "Rath (Crux ch. 5, Chart 25, Andrew Carnegie): the 9th lord in the 12th shows a poor father, and with Jupiter there the native sails to distant lands for his fortune",
+      "comfort of fine beds and a peaceful afterlife (Braha)",
+      "BPHS 20.19 has an exchange of 9th and 12th lords among harsh father-related verses; treat as traditional only"
+    ],
+    "by_area": {
+      "personality": "Religious and noble (Raman HTJH).",
+      "career": "Must work very hard and success may not come easily (Raman HTJH); fortune made in distant lands (Rath, Carnegie chart).",
+      "finance": "Fortune diminishes (BPHS 24.108); a poor background and often in want (Raman HTJH).",
+      "health": "",
+      "relationships": "",
+      "family": "The father may be of modest means or have a difficult life (Raman HTJH; Braha; Rath).",
+      "spirituality": "Spending on religious works (BPHS 24.108); excellent for moksha (Braha)."
+    },
+    "strengtheners": [
+      "strong 9th lord (Phaladeepika 15.9; Raman HTJH: a very powerful 9th lord confers fortune even from a malefic house); benefic aspect (Phaladeepika 15.5)",
+      "own-sign case: Jupiter for Aries lagna owns the 9th and 12th and sits in Pisces, own sign; Mercury for Libra owns the 9th and 12th and sits in Virgo, exalted"
+    ],
+    "weakeners_or_cancellations": [
+      "debilitation or combustion (BPHS 20.12)",
+      "exchange with the 12th lord is flagged in BPHS 20.19 as difficult for the father (traditional)",
+      "JP 12.86: a 9th lord in the 6th, 8th or 12th, even with a benefic, gives only short-lived happiness"
+    ],
+    "lagna_or_context_notes": "For Aries and Libra lagnas the 9th lord also owns the 12th and sits in its own sign here; Frawley (pp. 159-160) says a 12th lordship mainly gives the results of the other house ruled, which supports a milder reading. Results scale with strength (BPHS 24.145-148).",
+    "source_views": [
+      {"source": "Brihat Parashara Hora Shastra 24.108", "view": "Fortune diminishes; spending on auspicious works; poverty through hospitality to guests.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-24"},
+      {"source": "Brihat Parashara Hora Shastra 20.19", "view": "9th lord in the 12th with the 12th lord in the 9th is listed among harsh father-related combinations.", "url": "https://enjoylearningsanskrit.com/scriptures/parashara/chapter-20"},
+      {"source": "Phaladeepika 6.57, 6.66 (tr. V. Subrahmanya Sastri)", "view": "Nirbhagya yoga for the 9th lord in a dusthana.", "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621578.html"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII 'Results of the Lord of the Ninth House being situated in Different Houses'", "view": "A poor background: suffers and works hard, success may not come; religious and noble but always in want; a traditional caution that the father may die early.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "James Braha, Ancient Hindu Astrology for the Modern Western Astrologer, '9th House' chapter, 'The ruler of the 9th house placed in the' houses", "view": "Luck spoiled, little happiness from the father, little faith or gain from gurus; comfortable bed pleasures, travel to far-off lands, a good afterlife; bad for religion but excellent for moksha.", "url": "https://archive.org/details/1050-astrology-books_202107"},
+      {"source": "Sanjay Rath, Crux of Vedic Astrology: Timing of Events, ch. 5, Chart 25 (Andrew Carnegie)", "view": "The 9th lord in the 12th shows a poor father; with the 9th lord Jupiter in the 12th the native would have to sail to distant lands for his fortune.", "url": "https://archive.org/download/how-to-judge-a-horoscope-r.-santhanam/Crux%20Of%20Vedic%20Astrology%20-%20Timing%20Of%20Events%20-%20Sanjay%20Rath_djvu.txt"},
+      {"source": "B.V. Raman, How to Judge a Horoscope Vol. II, ch. XIII, closing note to the ninth-lord results", "view": "The ninth-lord results are general; a very powerful 9th lord can confer fortune even from a malefic house, and if the 9th lord is afflicted but the 9th house is well disposed the bad results are much reduced. Literal application is warned against.", "url": "https://archive.org/details/how-to-judge-a-horoscope-r.-santhanam"},
+      {"source": "Jataka Parijata (Vaidyanatha; tr. V. Subrahmanya Sastri, Vol. II) XII.86", "view": "A strong 9th lord in the 4th with Venus gives long-lasting pleasure and opulence; a 9th lord in the 6th, 8th or 12th, even with a benefic, gives only short-lived happiness.", "url": "https://archive.org/details/JatakaParijata1932"},
+      {"source": "David Frawley, The Astrology of the Seers, ch. 'The Houses: The Domains of Planetary Action' (dual house rulership, Raja yoga), pp. 159-161", "view": "A planet ruling two houses gives mixed results, weighted by its mulatrikona sign: Saturn as 8th and 9th lord for Gemini is on the whole more positive than negative; the 12th lordship mainly gives the results of the other house ruled; lords of the 9th and 10th create Raja yoga when well placed and not ruling other bad houses.", "url": "https://archive.org/details/astrology-of-the-seers-david-frawley"}
+    ],
+    "disagreements": "BPHS, Phaladeepika, Raman and Braha are negative on fortune and the father. Braha and Rath add a positive side: far-off lands and moksha. Raman stresses poverty and effort; Rath's Carnegie example shows great fortune made abroad.",
+    "confidence": "medium",
+    "phrasing_guidance": "Say fortune may come through distant places, generosity and spiritual life rather than easy material luck. Never predict the father's death or illness; mention distance only as a possibility."
+  }
+]
